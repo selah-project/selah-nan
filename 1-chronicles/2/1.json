@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "諸個是以色列的後生:呂便、西緬、利未、佮猶大、以薩迦、佮西布倫。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的後生"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "佮猶大"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "以薩迦"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "佮西布倫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:31.573243748Z",
+  "model": "glm-5.3"
+}

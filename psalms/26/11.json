@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "獨我欲用我的正直來行;救贖我,憐憫我。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "獨我"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "用我的正直"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "來行"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "救贖我"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "憐憫我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:42.641653088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我哪會家己一个會當擔恁的勞苦、恁的重擔、閣恁的相爭?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "會當擔"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "家己一个"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "恁的勞苦"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "恁的重擔"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "恁的相爭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:35.523304111Z",
+  "model": "glm-5.3"
+}

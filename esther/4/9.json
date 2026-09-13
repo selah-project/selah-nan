@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "哈塔克入去,共以斯帖講末底改的話 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "התך",
+      "gloss": "哈塔克"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "講"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "共以斯帖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "末底改的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:48.336665500Z",
+  "model": "glm-5.3"
+}

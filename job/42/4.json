@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "請你聽,換我講話;我欲問你,請你互我知。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "請你聽"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "換我"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "我欲問你"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "請你互我知"
+    }
+  ],
+  "timestamp": "2026-09-12T05:31:51.728426652Z",
+  "model": "glm-5.3"
+}

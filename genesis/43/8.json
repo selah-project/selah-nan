@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "猶大對伊的老父以色列講：「差彼個少年仔佮⟨את⟩阮去，阮就起來、就行，就會活、袂死——阮、你嘛、閣有阮的囡仔。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "差"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼個少年仔"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "佮⟨את⟩阮",
+      "marks": "伴隨阮"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "行"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "活"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "死"
+    },
+    {
+      "surface": "גם",
+      "gloss": "阮嘛"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "גם",
+      "gloss": "你嘛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "גם",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "阮的囡仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:00.573739316Z",
+  "model": "glm-5.3"
+}

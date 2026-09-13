@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 10:1",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "去問雅威討雨,佇晚雨的時陣;做閃電的雅威,伊欲給𪜶落大雨,給逐人草仔佇田內。",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "去問(討)"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…時陣"
+    },
+    {
+      "surface": "מלקוש",
+      "gloss": "晚雨"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "חזיזים",
+      "gloss": "閃電"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "佮雨"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "大雨"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "欲給"
+    },
+    {
+      "surface": "להם",
+      "gloss": "給𪜶"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "給逐人"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草仔"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田內"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:38.559532011Z",
+  "model": "glm-5.3"
+}

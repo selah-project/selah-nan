@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊就去共以羅欣的人講,伊就講:「你去,賣掉⟨את⟩油,還⟨את⟩你的債,你佮你的囝著用賰的來過活。」",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "伊就去"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "共…講"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "對…的人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "你去"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "賣掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "還"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的債"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "你的債"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "你佮"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "你的囝"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "著過活"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "用賰的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:32.231919289Z",
+  "model": "glm-5.3"
+}

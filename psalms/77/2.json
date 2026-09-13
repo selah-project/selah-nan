@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "我𪜩聲對以羅欣,我就叫;我𪜩聲對以羅欣,伊就俯聽我。",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "我𪜩聲"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "我就叫"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我𪜩聲"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "伊就俯聽"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:18.124660778Z",
+  "model": "glm-5.3"
+}

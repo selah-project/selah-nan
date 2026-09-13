@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "因為𪜶白白為我匿坎坑,𪜶的網,白白為我的性命掘坑。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "白白"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "𪜶匿"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "坎坑"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "𪜶的網"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "白白"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "𪜶掘"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "為我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:17.269635965Z",
+  "model": "glm-5.3"
+}

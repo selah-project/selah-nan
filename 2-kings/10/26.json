@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶共巴力厝內底⟨את⟩柱像扛出來,放火燒予爛。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "扛出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柱像"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "放火燒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:21.164359647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若有人誘惑一个猶未許配的處女,佮伊睏,伊著愛出聘金,娶伊做某。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "誘惑"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "處女"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "許配"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "佮伊睏"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "著愛出聘金"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "娶伊"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "做某"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:51.837925311Z",
+  "model": "glm-5.3"
+}

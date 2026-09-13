@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊會入去南部王⟨的⟩王國,閣會歸去伊家己⟨的⟩土地。",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "伊會入去"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南部"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "閣會歸去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "伊家己的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:13.463750717Z",
+  "model": "glm-5.3"
+}

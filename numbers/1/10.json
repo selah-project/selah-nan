@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "屬約瑟的眾子的:屬以法蓮的,以利沙瑪,亞米忽的子;屬瑪拿西的,迦瑪列,比大蓿的子。",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "屬…的眾子"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "屬以法蓮的"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "以利沙瑪"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "亞米忽"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "屬瑪拿西的"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "迦瑪列"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "比大蓿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:13.530675197Z",
+  "model": "glm-5.3"
+}

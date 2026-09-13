@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "求祢對我身上輾走凌辱佮藐視,因為我守祢的法度。",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "輾走"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "對我身上"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "凌辱"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "佮藐視"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "祢的法度"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "我守"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:19.167893458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "就是伊割立⟨את⟩亞伯拉罕(的約),閣伊的誓對以撒,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "割立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "閣伊的誓"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "對以撒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:45.341814480Z",
+  "model": "glm-5.3"
+}

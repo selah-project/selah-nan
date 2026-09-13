@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "願罪人對土地消滅去,嘛無歹人閣佇咧。我的心肝,你著祝福⟨את⟩雅威;著讚美雅!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "願……消滅去"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪人"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "嘛無歹人"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "無……佇咧"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "你著祝福"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的心肝"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "著讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:43.871779894Z",
+  "model": "glm-5.3"
+}

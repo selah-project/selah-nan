@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣遮是法勒斯的世代：法勒斯生⟨את⟩希斯崙。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣遮是"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "世代"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "法勒斯"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "法勒斯"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "希斯崙"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "希斯崙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:56.075857904Z",
+  "model": "glm-5.3"
+}

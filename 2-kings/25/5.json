@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "迦勒底的軍隊追趕王,佇耶利哥的平原掠著伊 ⟨את⟩;伊的軍隊攏對伊的身軀邊四散去。",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "綴咧"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "掠著"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(王)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "佇…的平原"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "伊的軍隊"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "四散去"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "對伊的身軀邊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:29:37.808501095Z",
+  "model": "glm-5.3"
+}

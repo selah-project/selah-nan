@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "亞倫的後生,祭司,欲吹號頭;這欲做恁的常例,直到永遠,佇恁的逐代。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…的後生"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "欲吹"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "號頭"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "這欲做"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁的"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "常例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "佇恁的逐代"
+    }
+  ],
+  "timestamp": "2026-09-12T01:55:19.672629419Z",
+  "model": "glm-5.3"
+}

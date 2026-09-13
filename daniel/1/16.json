@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "按呢,管家就提走⟨את⟩𪜶的美食,佮𪜶啉的酒,改提菜蔬互𪜶。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "管家"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "提走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的美食"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "𪜶的美食"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "佮酒"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "𪜶啉的"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "改提……互"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "菜蔬"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:02.800203413Z",
+  "model": "glm-5.3"
+}

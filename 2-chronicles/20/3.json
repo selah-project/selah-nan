@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "約沙法驚,伊將⟨את⟩伊的面向雅威,來求問伊;伊閣遍猶大宣告禁食。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "伊將…向"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的面"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "來求問"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊閣宣告"
+    },
+    {
+      "surface": "צום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "על",
+      "gloss": "遍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:04.926706726Z",
+  "model": "glm-5.3"
+}

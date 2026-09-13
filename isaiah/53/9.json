@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "伊將⟨את⟩歹人做伊的墓,閣⟨את⟩有錢人做伊的死〈所佇〉;因為伊無行殘忍的事,嘴內嘛無詭詐。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "將……予"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歹人"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "伊的墓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "有錢人"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "有錢人"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "佇伊的死"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "殘忍(強暴)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "佇伊的嘴內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:24.032470689Z",
+  "model": "glm-5.3"
+}

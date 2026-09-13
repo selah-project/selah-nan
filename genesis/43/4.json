@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "若是你肯差⟨את⟩咱的兄弟佮咱⟨את⟩做伙去,阮就會落去,替你買食物。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "你肯"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "咱的兄弟"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "咱的兄弟"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "佮咱⟨את⟩"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "阮就會落去"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "閣買糧"
+    },
+    {
+      "surface": "לך",
+      "gloss": "替你"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:05.660037281Z",
+  "model": "glm-5.3"
+}

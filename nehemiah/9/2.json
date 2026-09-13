@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "以色列的後裔對攏總外邦人的子兒中分別出來;𪜶徛起來,承認𪜶的罪佮𪜶祖先的過犯。",
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "分別出來"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "後裔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對攏總"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外邦"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "徛起來"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "承認"
+    },
+    {
+      "surface": "על",
+      "gloss": "關於"
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "𪜶的罪"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "佮過犯"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "𪜶的祖先"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:58.916023866Z",
+  "model": "glm-5.3"
+}

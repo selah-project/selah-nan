@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "包光做衫,彼位展開諸天像布棚。",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "包"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "做衫"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "展開"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "像布棚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:18.379714570Z",
+  "model": "glm-5.3"
+}

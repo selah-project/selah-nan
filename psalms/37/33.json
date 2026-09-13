@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "雅威毋會放伊佇𪜶的手裡,嘛毋會佇伊受審判的時判伊有罪。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "放伊"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "判伊有罪"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "佇伊受審判的時"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:14.381222849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "行完全的人會得救;行路彎曲的會一擺仆倒。",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "得救"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "佮彎曲"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "路"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "仆倒"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "一擺"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:25.525943635Z",
+  "model": "glm-5.3"
+}

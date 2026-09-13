@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "願你喜歡我喙內底甘願的祭,雅威啊,閣將你的判語教示我。",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "甘願的祭"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我喙內底"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "願你喜歡"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "閣將你的判語"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "教示我"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:00.059279705Z",
+  "model": "glm-5.3"
+}

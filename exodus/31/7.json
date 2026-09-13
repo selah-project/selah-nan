@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "⟨את⟩會眾的帳棚,閣⟨את⟩見證的約櫃,閣⟨את⟩彼个頂面的施恩座,閣⟨את⟩帳棚一切的器具;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會眾的帳棚"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會眾(指定聚集)的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "見證的約櫃"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "做見證的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "施恩座"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "施恩座"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "頂面的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:21.333729388Z",
+  "model": "glm-5.3"
+}

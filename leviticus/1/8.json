@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞倫的囝仔做祭司的欲排 ⟨את⟩ 諸個塊仔,⟨את⟩ 頭殼,閣 ⟨את⟩ 彼个油,佇火頂彼的柴頂,彼个火佇彼个壇頂。",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "閣欲排"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "做祭司的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個塊仔"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "諸個塊仔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭殼"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭殼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼个油"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "彼个油"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "彼的柴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "…頂"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "…頂"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:29.649398838Z",
+  "model": "glm-5.3"
+}

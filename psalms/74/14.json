@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "汝碾碎利維亞坦的諸個頭,互伊做食物予人民,予曠野的活物。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "碾碎"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "諸…的頭"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "利維亞坦"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "做食物"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "予人民"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "予曠野的活物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:01.861859393Z",
+  "model": "glm-5.3"
+}

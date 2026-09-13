@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "彎曲的,無法度予伊變直;欠缺的,無法度予伊數盡。",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "彎曲的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "法度"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "變直"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "欠缺的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "法度"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "數盡"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:55.665072948Z",
+  "model": "glm-5.3"
+}

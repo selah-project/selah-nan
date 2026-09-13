@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "當頌讚雅威,𪜶一切的采巴奧特(萬軍),𪜶的服事者,行伊喜悅的代誌。",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "當頌讚"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "采巴奧特(𪜶的萬軍)"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "𪜶的服事者"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "行"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "伊喜悅的代誌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:19.603451231Z",
+  "model": "glm-5.3"
+}

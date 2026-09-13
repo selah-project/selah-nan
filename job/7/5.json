@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我的肉穿蛆佮塗坱,我的皮皺裂開,閣變甲見誚見笑。",
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "穿"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "蛆"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "佮塗坱"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塗"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "我的皮"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "皺裂開"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "閣變甲見誚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:11.212165552Z",
+  "model": "glm-5.3"
+}

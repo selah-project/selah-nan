@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我欲閣對恁設我的面,恁欲佇恁的對敵面前拍敗,怨恨恁的人欲管轄恁,恁欲走,無人追趕恁──⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲閣設"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "恁欲拍敗"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "恁的對敵"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "欲管轄"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "怨恨恁的人"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "恁欲走"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:42.146111781Z",
+  "model": "glm-5.3"
+}

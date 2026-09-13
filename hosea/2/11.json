@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 2:11",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為按呢,我欲倒轉,佇伊的季節提我的五穀,佇伊的定期提我的新酒;我的羊毛佮我的亞麻嘛欲搶提走,來遮⟨את⟩伊的見羞。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "因為按呢"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "我欲倒轉"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "提"
+    },
+    {
+      "surface": "דגני",
+      "gloss": "我的五穀"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "佇伊的季節"
+    },
+    {
+      "surface": "ותירושי",
+      "gloss": "我的新酒"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "佇伊的定期"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "搶提走"
+    },
+    {
+      "surface": "צמרי",
+      "gloss": "我的羊毛"
+    },
+    {
+      "surface": "ופשתי",
+      "gloss": "佮我的亞麻"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "來遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的見羞"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "伊的見羞"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:00.485984050Z",
+  "model": "glm-5.3"
+}

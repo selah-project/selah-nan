@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "消息我聽著,對⟨את⟩雅威有聽著;一個使者受差遣去列國中間,講:「恁著集合起來,去攻擊伊,起來相戰!」",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "消息"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽著"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "使者"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "去列國中間"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "受差遣"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "恁著集合起來"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "去"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "攻擊伊"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "相戰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:17.913061162Z",
+  "model": "glm-5.3"
+}

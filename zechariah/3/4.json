@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 3:4",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊應聲,對徛佇伊面前的人講:「給伊褪掉彼個汙穢的衣服。」閣對伊講:「你看,我已經給你的罪對你身上除去,閣欲用⟨את⟩華麗的衫穿佇你身上。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "應聲"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "徛佇…的人"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "伊面前"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "給伊褪掉"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "彼個衣服"
+    },
+    {
+      "surface": "הצאים",
+      "gloss": "汙穢的"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "對伊身上"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "העברתי",
+      "gloss": "我已經除去"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "對你身上"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "你的罪"
+    },
+    {
+      "surface": "והלבש",
+      "gloss": "閣穿"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "華麗的衫"
+    },
+    {
+      "surface": "מחלצות",
+      "gloss": "華麗的衫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:09.235884657Z",
+  "model": "glm-5.3"
+}

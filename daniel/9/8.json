@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威啊,面仔見笑屬佇阮——阮的諸王、阮的官長、阮的列祖——因為阮對你犯罪。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "屬佇阮"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "面仔"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "阮的諸王"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "阮的官長"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "佮阮的列祖"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "阮犯罪"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:58.799345919Z",
+  "model": "glm-5.3"
+}

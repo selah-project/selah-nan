@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "⟨伊⟩無容允任何人欺負𪜶,閣為著𪜶責備諸王,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "容允"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "任何人"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "欺負𪜶"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "閣責備"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "為著𪜶"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "諸王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:50.086823055Z",
+  "model": "glm-5.3"
+}

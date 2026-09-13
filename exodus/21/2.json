@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "你若買一個希伯來奴僕,伊欲做工六年,第七年伊欲白白出去得自由。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "你買"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "希伯來"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "伊欲做工"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "佇第七年"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "伊欲出去"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "得自由"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "白白"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:37.969450336Z",
+  "model": "glm-5.3"
+}

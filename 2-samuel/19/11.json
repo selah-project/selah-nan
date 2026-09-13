@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "阮所抹、所立來管阮的押沙龍,已經死佇戰陣矣;這陣為啥物恁恬恬無話,毋帶⟨את⟩王倒轉來?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "阮抹伊"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "管阮"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "佇戰陣"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "恬恬無話"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "帶…倒轉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:50.026801924Z",
+  "model": "glm-5.3"
+}

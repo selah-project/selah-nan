@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "琴、瑟、鼓、簫佮酒,是𪜶的筵席;毋過⟨את⟩雅威的工𪜶無看重,伊手所做的𪜶嘛無看見。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "閣瑟"
+    },
+    {
+      "surface": "תף",
+      "gloss": "鼓"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "閣簫"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "佮酒"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "𪜶的筵席"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的工"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "工"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "看重"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "閣所做的"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:55.278665084Z",
+  "model": "glm-5.3"
+}

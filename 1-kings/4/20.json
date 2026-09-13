@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "猶大佮以色列真濟,親像海沙許濟,咧食、咧啉、嘛咧歡喜。",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "佮以色列"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "親像海沙"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "許"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "許濟"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "咧食"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "咧啉"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "嘛咧歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:51.439033324Z",
+  "model": "glm-5.3"
+}

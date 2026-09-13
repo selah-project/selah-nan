@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "這你的身軀懸度親像棕樹,你的雙奶親像葡萄串。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "你的身軀懸度"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "親像"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "棕樹"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "你的雙奶"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "葡萄串"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:29.924066166Z",
+  "model": "glm-5.3"
+}

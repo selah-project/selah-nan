@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣伊攏總的日子攏佇烏暗中食飯,真濟煩惱,閣有伊的病痛佮受氣。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "伊的日子"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "佇烏暗中"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食飯"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "佮煩惱"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "伊的病痛"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "佮受氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:21.467027792Z",
+  "model": "glm-5.3"
+}

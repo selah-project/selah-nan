@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "摩西佮利未人的祭司對以色列眾人講話,講:以色列啊,恬靜落來,恁著聽,今仔日恁成做雅威——恁的以羅欣——的百姓。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "佮祭司"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "恬靜落來"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "成做"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "的百姓"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:32.093145732Z",
+  "model": "glm-5.3"
+}

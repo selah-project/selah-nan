@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "閣有伯毗珥、毗斯迦的山坡,和伯耶示末。",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "閣伯"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "毗珥"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "閣山坡"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "毗斯迦"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "和伯"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "耶示末"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:09.906629545Z",
+  "model": "glm-5.3"
+}

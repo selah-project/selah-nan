@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "毋通怨恨⟨את⟩你的兄弟佇你的心內;責備——你確實愛責備⟨את⟩你的同伴,免得你擔當罪佇伊身上。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的兄弟"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "佇你的心內"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "責備"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "你確實愛責備"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的同伴"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "你的同伴"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得你毋通"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "擔當"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:26.626036112Z",
+  "model": "glm-5.3"
+}

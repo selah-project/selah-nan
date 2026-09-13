@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 30:13",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "大衛問伊講:「你是啥人的?你是對佗位來的?」伊講:「我是一個埃及的少年人,是一個亞瑪力人的奴僕;我的主人放捒我,因為我已經病到今三日矣。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "問…講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "למי",
+      "gloss": "是啥人的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "對佗位"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "人的"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "放捒我"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我的主人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "病"
+    },
+    {
+      "surface": "היום",
+      "gloss": "到今"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三日"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:18.419668614Z",
+  "model": "glm-5.3"
+}

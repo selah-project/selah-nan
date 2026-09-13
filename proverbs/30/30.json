@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "獅——牲畜內底的勇者——對啥物的面攏毋閃退;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "獅"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇者"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "佇牲畜內底"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "攏毋"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "閃退"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對……的面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "啥物人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:34.609139541Z",
+  "model": "glm-5.3"
+}

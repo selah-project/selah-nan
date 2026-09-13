@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "我倚靠以羅欣,我毋免驚;人會使對我做啥物?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "倚靠以羅欣"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "免驚"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "會使做"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:58.319628553Z",
+  "model": "glm-5.3"
+}

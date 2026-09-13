@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "以色列的家叫⟨את⟩伊的名做嗎哪;伊親像芫荽籽,白色,伊的味親像掠蜜做的薄餅。",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "叫"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "מן",
+      "gloss": "嗎哪"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "親像籽"
+    },
+    {
+      "surface": "גד",
+      "gloss": "芫荽"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白色"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "伊的味"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "親像薄餅"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "掠蜜做的"
+    }
+  ],
+  "timestamp": "2026-09-13T06:30:53.801280934Z",
+  "model": "glm-5.3"
+}

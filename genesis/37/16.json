@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊講:「我在揣 ⟨את⟩ 我兄弟。請你共我講,𪜶佇佗位飼羊?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊…講"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我兄弟"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我兄弟"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "在揣"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "請…講"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "לי",
+      "gloss": "共我"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "佗位"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "飼羊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:23.979918739Z",
+  "model": "glm-5.3"
+}

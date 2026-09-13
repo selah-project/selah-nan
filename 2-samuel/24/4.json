@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "王的話強過約押佮諸個軍長,約押佮諸個軍長就對王的面前出去,欲數點⟨את⟩百姓,就是⟨את⟩以色列。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "強過"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "諸個軍長"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "軍隊的"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "佮諸個軍長"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "軍隊的"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "欲數點"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:23.737524495Z",
+  "model": "glm-5.3"
+}

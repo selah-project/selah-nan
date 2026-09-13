@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "非利士人就相戰,以色列𢫀拍敗,逐人走走去家己的帳棚;彼場傷亡真大,以色列倒落三萬个跤兵。",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "就相戰"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "𢫀拍敗"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "走走去"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "家己的帳棚"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "彼場"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "傷亡"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "倒落"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三萬(三十千)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "萬(千)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "跤兵"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:58.881054459Z",
+  "model": "glm-5.3"
+}

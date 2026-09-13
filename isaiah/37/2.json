@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊差⟨את⟩以利亞敬,就是管理宮殿的,閣⟨את⟩文書士示拿,佮⟨את⟩祭司的長老,𪜶穿麻布,去揣先知亞摩斯的子以賽亞。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞敬"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "以利亞敬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "על",
+      "gloss": "管理"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "文書士示拿"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "示拿"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "文書士"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "祭司的長老"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "𪜶穿"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去揣"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "以賽亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "亞摩斯"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:57.258803979Z",
+  "model": "glm-5.3"
+}

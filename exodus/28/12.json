@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 28:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "你欲安⟨את⟩彼兩粒石佇以弗得的肩頭頂,做以色列眾子的記念石;亞倫欲佇雅威面前,佇伊的兩个肩頭頂擔⟨את⟩𪜶的名,做記念。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "你欲安"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼兩粒石"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩粒"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "彼粒仔石"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "肩頭"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "זכרן",
+      "gloss": "記念"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "為…的眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "佮擔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的名"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "𪜶的名"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "伊的肩頭"
+    },
+    {
+      "surface": "לזכרן",
+      "gloss": "做記念"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:57.393625518Z",
+  "model": "glm-5.3"
+}

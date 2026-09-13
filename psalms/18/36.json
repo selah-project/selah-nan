@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你嘛有賞賜我救恩的盾牌,你的正手扶持我,你的柔和互我興旺。",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "嘛有賞賜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "你的救恩"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "你的正手"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "扶持我"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "你的柔和"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "互我興旺"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:41.264366429Z",
+  "model": "glm-5.3"
+}

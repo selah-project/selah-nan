@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 16:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "到時,當伊被看出摩押佇邱壇頂面已經疲倦,伊入去伊的聖所欲祈禱,嘛無法度。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "到時"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "被看出"
+    },
+    {
+      "surface": "כי",
+      "gloss": "已經"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "疲倦"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "伊入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "伊的聖所"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "欲祈禱"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "法度"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:59.603141573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "禍哉,諸個飼羊的人,毀滅閣驅散⟨את⟩我牧場的羊——雅威的神諭。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "諸個飼羊的人"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "閣驅散"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我牧場的羊"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "我的牧場"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:54:34.513620413Z",
+  "model": "glm-5.3"
+}

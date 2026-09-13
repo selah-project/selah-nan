@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "伊 閣 做 ⟨את⟩ 胸牌,用設計師的工,親像以弗得的工法:金仔、藍紫、紫紅、朱紅蟲色,佮撚過的幼苧麻。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "胸牌"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "設計師的"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "親像…的工"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金仔"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "藍紫"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "佮紫紅"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "佮蟲的"
+    },
+    {
+      "surface": "שני",
+      "gloss": "朱紅色"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "佮苧麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚過的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:32.602301782Z",
+  "model": "glm-5.3"
+}

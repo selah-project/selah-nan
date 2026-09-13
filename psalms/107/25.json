@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "伊講一聲,就興起大風暴,海浪就懸懸湧起來。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講一聲"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "就興起"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "大風暴"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "就湧起來"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "伊的波浪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:39.309221983Z",
+  "model": "glm-5.3"
+}

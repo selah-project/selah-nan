@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "非利士人聽見⟨את⟩彼个呼喝个聲,就講:「啥物聲啊,佇希伯來人个營裡有遮大个呼喝聲?」𪜶就知雅威个櫃入到營裡去矣。",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个呼喝个聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "彼个呼喝"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "呼喝聲"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "遮大个"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "佇…个營裡"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "希伯來人"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "就知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…啊"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入到…去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營裡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:27.892527729Z",
+  "model": "glm-5.3"
+}

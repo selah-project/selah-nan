@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "毋通親像馬、親像騾,彼款無理解的,著用嘴齒籠佮轡做𪜶的裝飾來制止𪜶,免得𪜶倚近你。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "騾"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "理解的"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "嘴齒籠"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "轡"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "裝飾"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "制止"
+    },
+    {
+      "surface": "בל",
+      "gloss": "免得"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:53.592982813Z",
+  "model": "glm-5.3"
+}

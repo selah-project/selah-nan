@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "伊獻祭閣燒香佇高地、佇諸山崙頂,佮佇每一叢青翠樹的下跤。",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "伊獻祭"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "閣燒香"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "佇高地"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "諸山崙"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "佮佇…下跤"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "叢樹"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青翠"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:44.785657176Z",
+  "model": "glm-5.3"
+}

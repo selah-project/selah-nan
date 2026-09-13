@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "以羅欣啊,佇你行出去你百姓面前的時,佇你踏行過曠野的時,細拉。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "佇你行出去"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你百姓"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "佇你踏行"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "過曠野"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:10.835853703Z",
+  "model": "glm-5.3"
+}

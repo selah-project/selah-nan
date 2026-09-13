@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "該隱對雅威講:「我的罪惡傷大,重到𣍐當當。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "傷大"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "我的罪惡"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "重到𣍐當當"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:09.379563157Z",
+  "model": "glm-5.3"
+}

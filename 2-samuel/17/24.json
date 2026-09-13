@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "大衛來到瑪哈念,押沙龍過⟨את⟩約但河,伊,佮所有以色列人攏佮伊做夥。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "瑪哈念"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約但河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約但河"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做夥"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:52.758707613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "按呢欲親像人民，親像祭司嘛按呢；我欲對付伊的路，伊的行做我欲報應伊。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "按呢欲"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "親像人民"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "親像祭司嘛按呢"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "我欲對付"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "的路"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "伊的行做"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我欲報應"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:42.985483644Z",
+  "model": "glm-5.3"
+}

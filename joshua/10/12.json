@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 10:12",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "彼時,佇雅威用⟨את⟩亞摩利人交佇以色列囡仔面前彼日,約書亞對雅威講話;伊佇以色列的目睭前講:「日頭啊,佇基遍恬恬;月娘啊,佇亞雅崙谷。」",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "תת",
+      "gloss": "交"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞摩利人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囡仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "佇…的目睭前"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "佇基遍"
+    },
+    {
+      "surface": "דום",
+      "gloss": "恬恬"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "月娘"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "佇…谷"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "亞雅崙"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:22.971670510Z",
+  "model": "glm-5.3"
+}

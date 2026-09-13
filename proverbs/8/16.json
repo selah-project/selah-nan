@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "靠我,首領統治;靠我,尊貴的人,佮地上一切行公義的審判官。",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "靠我"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "統治"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "佮尊貴的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "審判官"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "行公義的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:50.956317493Z",
+  "model": "glm-5.3"
+}

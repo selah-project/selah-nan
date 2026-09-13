@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊吩咐⟨את⟩𪜶,講:「恁看,恁是埋伏的人,對城,佇城的後面;毋通離城傷遠,恁眾人攏著準備好。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "伊吩咐"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "恁看"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "埋伏的人"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "對城"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "佇…後面"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "離傷遠"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "傷"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "恁著"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "恁眾人"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "準備好"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:47.270667388Z",
+  "model": "glm-5.3"
+}

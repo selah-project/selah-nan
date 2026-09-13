@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "向東爿徛起,直到入去曠野遐,對彼條伯拉河(幼發拉底)開始,因為𪜶的牲畜佇基列地繁衍真濟。",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "向東爿"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "曠野遐"
+    },
+    {
+      "surface": "למן",
+      "gloss": "對…開始"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "彼條河"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "伯拉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "𪜶的牲畜"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "繁衍真濟"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:23.532885821Z",
+  "model": "glm-5.3"
+}

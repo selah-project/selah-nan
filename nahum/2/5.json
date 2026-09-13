@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 2:5",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佇街路裡戰車咧狂奔亂竄,佇寬闊个大路衝來衝去;𪜶的面容親像火把,親像閃電按呢咧衝。",
+  "tokens": [
+    {
+      "surface": "בחוצות",
+      "gloss": "佇街路裡"
+    },
+    {
+      "surface": "יתהוללו",
+      "gloss": "咧狂奔亂竄"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ישתקשקון",
+      "gloss": "衝來衝去"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "佇寬闊个大路"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "𪜶的面容"
+    },
+    {
+      "surface": "כלפידם",
+      "gloss": "親像火把"
+    },
+    {
+      "surface": "כברקים",
+      "gloss": "親像閃電"
+    },
+    {
+      "surface": "ירוצצו",
+      "gloss": "咧衝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:18.344946761Z",
+  "model": "glm-5.3"
+}

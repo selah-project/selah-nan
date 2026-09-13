@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "閣佇耶書崙有王,是佇眾人的頭人聚集、以色列眾支派做伙的時。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "佇耶書崙"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "佇……聚集"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "עם",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "眾支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:20.671475732Z",
+  "model": "glm-5.3"
+}

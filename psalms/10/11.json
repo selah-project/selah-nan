@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊心內講:「以勒袂記得矣;伊掩伊的面,永遠攏袂看見。」",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "心內"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "掩"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:09.860036197Z",
+  "model": "glm-5.3"
+}

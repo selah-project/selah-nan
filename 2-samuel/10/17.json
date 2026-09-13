@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "有人報互大衛知,伊就聚集⟨את⟩以色列眾人,過⟨את⟩約但河,入去希蘭。亞蘭排列陣欲抵大衛,就佮伊相戰。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "報互…知"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "互大衛"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列眾人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約但河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約但河"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "排列陣"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "欲抵"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:42.255220587Z",
+  "model": "glm-5.3"
+}

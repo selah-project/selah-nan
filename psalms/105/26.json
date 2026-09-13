@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊差遣伊的僕人摩西,閣亞倫,就是伊所揀選的。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "伊的僕人"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "伊所揀選"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:10.249288765Z",
+  "model": "glm-5.3"
+}

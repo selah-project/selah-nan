@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣對遮个恁會成做無清氣:凡若摸著𪜶死體的,會無清氣到暗。",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "閣對遮个"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "恁會成做無清氣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡若"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "摸著"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "𪜶的死體"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "會無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:00.350422355Z",
+  "model": "glm-5.3"
+}

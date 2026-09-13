@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "互指揮者,可拉仔的子孫的詩篇。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:09.187234684Z",
+  "model": "glm-5.3"
+}

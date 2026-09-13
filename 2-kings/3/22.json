@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "𪜶早早起來,日頭照佇水面,摩押對對面看見⟨את⟩彼的水紅紅,親像血。",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "早早起來"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "閣日頭"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "照出來"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水面"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "對對面"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼的水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "彼的水"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "紅紅"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "親像血"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:24.623645997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "惡人的話是埋伏欲流人血,正直人的喙會救𪜶。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人的"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "毋過…的喙"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "會救𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.264219676Z",
+  "model": "glm-5.3"
+}

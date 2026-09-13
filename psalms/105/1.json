@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "著感謝雅威,求叫伊的名;佇列國中間互𪜶知伊的作為。",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "著感謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "求叫"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "互𪜶知"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "佇列國"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "伊的作為"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:06.971457994Z",
+  "model": "glm-5.3"
+}

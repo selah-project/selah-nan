@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 3:10",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "諸山看見你就輾轉;水流的一陣湧過去;深淵發出伊的聲,懸高舉起伊的雙手。",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "看見你"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "輾轉"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "一陣湧"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過去"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "發出"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "רום",
+      "gloss": "懸高"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "伊的雙手"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "舉起"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:55.158849375Z",
+  "model": "glm-5.3"
+}

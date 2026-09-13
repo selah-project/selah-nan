@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "願流便活,毋通死,閣互伊的人成做有通數的。",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "願……活"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "流便"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣毋通"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "閣願成做"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "伊的人"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "有通數的(數目)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:20.671745009Z",
+  "model": "glm-5.3"
+}

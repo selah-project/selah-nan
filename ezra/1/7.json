@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣古列王提出 ⟨את⟩ 雅威的厝的器具,就是尼布甲尼撒對耶路撒冷提出來、下佇伊的以羅欣的厝內的彼寡。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "閣…王"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "古列"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "提出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "器具"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼寡就是"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "提出來"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "下佇"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:49:12.060673177Z",
+  "model": "glm-5.3"
+}

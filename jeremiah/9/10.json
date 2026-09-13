@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "我欲互⟨את⟩耶路撒冷做一堆堆的石堆,做胡狼的巢穴;閣⟨את⟩猶大的諸城市,我欲互𪜶做荒涼,無人蹛。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "做一堆堆的石堆"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "巢穴"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "胡狼的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "猶大的諸城市"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "諸城市"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大的"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "做荒涼"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "人蹛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:09.373302823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威對摩西講:「法老的心沈重,伊拒絕放祂的百姓去。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "沈重"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "拒絕"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "放……去"
+    },
+    {
+      "surface": "העם",
+      "gloss": "祂的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:43.334948545Z",
+  "model": "glm-5.3"
+}

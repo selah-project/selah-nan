@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "𪜶猶久佇老的時陣結果子,𪜶欲汁水飽滿、青翠猶在。",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "猶久"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "結果子"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "佇老的時陣"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "汁水飽滿"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "青翠"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "猶在"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:26.977967499Z",
+  "model": "glm-5.3"
+}

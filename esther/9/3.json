@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣所有省份的官長、總督、省長,佮辦王事的官員,攏扶挺⟨את⟩猶大人,因為末底改的驚惶落佇𪜶身上。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "閣所有"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "官長"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "省份的"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "閣總督"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "閣省長"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "閣辦"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "事的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "למלך",
+      "gloss": "屬王"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "扶挺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大人"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "落"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:23.852350239Z",
+  "model": "glm-5.3"
+}

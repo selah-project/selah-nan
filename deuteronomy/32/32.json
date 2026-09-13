@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為𪜶的葡萄樹對所多瑪的葡萄樹來,對蛾摩拉的地;𪜶的葡萄是毒的葡萄,𪜶的葡萄串對𪜶是苦的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "對……的葡萄樹"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "所多瑪"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "𪜶的葡萄樹"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "佮對……的地"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "蛾摩拉"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "𪜶的葡萄"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "葡萄"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "毒物"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "葡萄串"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "苦的"
+    },
+    {
+      "surface": "למו",
+      "gloss": "對𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:00.990019208Z",
+  "model": "glm-5.3"
+}

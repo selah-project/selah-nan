@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威欲佇以色列的牲畜佮米茲拉因的牲畜中間做區別;以色列的子兒所有的,無一項會死。」",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "做區別"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "會死"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對所有"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一項"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:42.503925343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "看,阿多奈——全地的阿多奈——的約的櫃,欲行過恁的面前入約旦河。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "行過"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "恁的面前"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "入約旦河"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:30.936175494Z",
+  "model": "glm-5.3"
+}

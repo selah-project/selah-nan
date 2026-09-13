@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 5:18",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為伊致痛,嘛包紮;伊擊傷,伊的手嘛醫好。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יכאיב",
+      "gloss": "致痛"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "嘛包紮"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "擊傷"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "佮伊的手"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "嘛醫好"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:41.388402591Z",
+  "model": "glm-5.3"
+}

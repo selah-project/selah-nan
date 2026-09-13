@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我毋驚萬萬的百姓,𪜶對四圍設置起來攻擊我。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "我驚"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "萬萬"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "對四圍"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "設置起來"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "攻擊我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:12.964153304Z",
+  "model": "glm-5.3"
+}

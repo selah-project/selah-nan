@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "彼時恁的祖先試我、驗我,嘛有看見我的工。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "試我"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "恁的祖先"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "驗我"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "有看見"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "我的工"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:24.315809301Z",
+  "model": "glm-5.3"
+}

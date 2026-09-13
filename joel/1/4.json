@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "剪蟲所剩的,蝗蟲食去矣;蝗蟲所剩的,幼蟲食去矣;幼蟲所剩的,蝗仔蟲食去矣。",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "所剩的"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "剪蟲"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食去矣"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "所剩的"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食去矣"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "幼蟲"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "所剩的"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "幼蟲"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食去矣"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "蝗仔蟲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:17.187409761Z",
+  "model": "glm-5.3"
+}

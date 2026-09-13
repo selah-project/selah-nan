@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威的天使佇荊棘中火焰的中央向伊顯現。伊看,看啊,荊棘佇火裡燒,荊棘卻無燒掉。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "天使"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "佇…火焰"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "中央"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "בער",
+      "gloss": "燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火裡"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "無"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "燒掉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:20.591847216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "𪜶包圍我,嘛又閣包圍我;我確實欲用雅威的名剪除𪜶。",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "包圍我"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛又閣"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "包圍我"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "用…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確實"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "剪除𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:47.594062252Z",
+  "model": "glm-5.3"
+}

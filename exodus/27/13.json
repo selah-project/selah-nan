@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閘院的闊邊,向日出彼爿、東旁,欲五十肘。",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "的闊邊"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "閘院"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "向彼爿"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東旁"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "向日出"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:02.632549423Z",
+  "model": "glm-5.3"
+}

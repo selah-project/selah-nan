@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 35:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "按呢服事的工就備辦好勢,祭司徛佇𪜶的位,利未人徛佇𪜶的班次,照王的命令。",
+  "tokens": [
+    {
+      "surface": "ותכון",
+      "gloss": "就備辦好勢"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "服事的工"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "徛"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "𪜶的位"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "𪜶的班次"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "照…的命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T06:19:54.411026630Z",
+  "model": "glm-5.3"
+}

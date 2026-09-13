@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "示阿勒的索仔圍𪜶我;死亡的陷阱迎頭撞著我。",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "索仔"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "圍𪜶"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "迎頭撞著"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "陷阱"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-13T04:50:10.751818057Z",
+  "model": "glm-5.3"
+}

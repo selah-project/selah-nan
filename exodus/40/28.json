@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊下⟨את⟩門簾佇帳棚的口。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "門簾"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "門簾"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "口"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:49.924111857Z",
+  "model": "glm-5.3"
+}

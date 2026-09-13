@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "佇彼當時,王所羅門疼真濟外邦的查某人,閣疼⟨את⟩法老的女兒,就是摩押的查某人、亞捫的、以東的、西頓的、赫人的。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "外邦的"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "法老的女兒"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "摩押的查某人"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "亞捫的"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "以東的"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "西頓的"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "赫人的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:09:07.203902955Z",
+  "model": "glm-5.3"
+}

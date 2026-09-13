@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣伊愛佇壇的北爿邊、佇雅威面頭前刣⟨את⟩伊;亞倫的囝仔、諸個祭司,欲共⟨את⟩伊的血灑佇壇的四圍。",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "閣欲刣"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "邊"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "北爿"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "欲灑"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "諸個祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:46.199743077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "你豈毋欲倒轉來、互阮閣活,互你的百姓佇你歡喜?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈毋"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "互阮閣活"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "閣你的百姓"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:14.672507942Z",
+  "model": "glm-5.3"
+}

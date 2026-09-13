@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "以羅欣啊,拆毀𪜶喙內的齒;雅威啊,撿拆少壯獅的臼齒。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "𪜶的齒"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "佇𪜶的喙"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "臼齒"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "少壯獅"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "撿拆"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:35.478406120Z",
+  "model": "glm-5.3"
+}

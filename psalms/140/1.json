@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "交予樂隊長,大衛的詩歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "交予樂隊長"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:45.726596606Z",
+  "model": "glm-5.3"
+}

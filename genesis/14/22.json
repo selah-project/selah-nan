@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 14:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "亞伯蘭給所多瑪王講:「我已經對雅威、以勒以里昂(至高的以勒),創造天地的,舉起我的手,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "給"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "所多瑪"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "我已經舉起"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以里昂(至高)"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "創造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:07.154350436Z",
+  "model": "glm-5.3"
+}

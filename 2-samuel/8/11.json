@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 8:11",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "遮的嘛,大衛王共⟨את⟩遮的分別做聖歸雅威,佮伊對所拍服的萬國一切所分別做聖的銀佮金。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "遮的"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "分別做聖"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "彼個王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "彼個銀"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "佮彼個金"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個…的"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "分別做聖"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "彼個列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個…的"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "拍服"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:16.166198305Z",
+  "model": "glm-5.3"
+}

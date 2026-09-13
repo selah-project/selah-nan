@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊洗別伊的某入來到伊遐,對伊講:「啥物代誌啦,你的心神按呢變做無爽快,你嘛毋欲食飯?」",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "入來到"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遐"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "伊洗別"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "對伊講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "זה",
+      "gloss": "按呢生"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "你的心神"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "變做無爽快"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "你嘛毋"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "飯"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:10.393532702Z",
+  "model": "glm-5.3"
+}

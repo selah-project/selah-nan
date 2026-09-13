@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "啥人會當數雅各的土粉,會當算以色列的四分之一⟨את⟩?願我的性命死佇正直人的死,願我的後段成做親像按呢!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "數"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土粉"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "佮算"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的四分之一"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "四分之一"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "願…死"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מות",
+      "gloss": "…的死"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "佮願…成做"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "我的後段"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "親像按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T02:00:54.253712421Z",
+  "model": "glm-5.3"
+}

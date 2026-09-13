@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "佇雅威尋庇護,比倚靠人卡好。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "卡好"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "尋庇護"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "比倚靠"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:47.928810657Z",
+  "model": "glm-5.3"
+}

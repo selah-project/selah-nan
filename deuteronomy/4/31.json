@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 4:31",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為雅威你的以羅欣是以勒,是憐憫的以勒;伊袂放棄你,袂毀滅你,嘛袂袂記得 ⟨את⟩ 你列祖的約,就是伊對𪜶所起的誓。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "憐憫的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "放棄你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛袂"
+    },
+    {
+      "surface": "ישחיתך",
+      "gloss": "毀滅你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛袂"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "你列祖的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "所起的誓"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:29.577170501Z",
+  "model": "glm-5.3"
+}

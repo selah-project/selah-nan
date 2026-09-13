@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "閣⟨את⟩王宮佮⟨את⟩人民的家,迦勒底人用火燒掉;閣⟨את⟩耶路撒冷的城牆,𪜶拆壞掉。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "王宮"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "人民的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民的"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "燒掉"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "耶路撒冷的城牆"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "拆壞掉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:00:58.681357030Z",
+  "model": "glm-5.3"
+}

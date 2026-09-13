@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 84,
+  "translation": "因為佇你的院內一日,卡贏佇別位一千日;我寧可佇我的以羅欣的家徛佇門檻,嘛毋願徛佇歹人的帳棚。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "卡贏(較好)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "佇你的院內"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "贏過一千"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我揀(我寧可)"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "徛佇門檻"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的家"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "贏過徛佇"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "佇…的帳棚"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人(邪惡)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:03.390053255Z",
+  "model": "glm-5.3"
+}

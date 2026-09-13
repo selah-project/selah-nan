@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "閣倚佇瑪拿西的境界,對東爿的邊頭到海爿的邊頭,以法蓮一份。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣倚佇"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "對…的邊頭"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東爿"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊頭"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海爿"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一份"
+    }
+  ],
+  "timestamp": "2026-09-12T04:25:45.771346650Z",
+  "model": "glm-5.3"
+}

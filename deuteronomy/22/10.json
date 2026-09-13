@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "你毋通用牛佮驢做伙犁田。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "犁田"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "用牛"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "佮驢"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:37.313322367Z",
+  "model": "glm-5.3"
+}

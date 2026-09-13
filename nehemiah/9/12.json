@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 9:12",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣祢用雲柱日時引導𪜶,夜時用火柱,為著欲照亮⟨את⟩𪜶所欲行的路予𪜶看。",
+  "tokens": [
+    {
+      "surface": "ובעמוד",
+      "gloss": "閣用…柱"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "הנחיתם",
+      "gloss": "祢引導𪜶"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ובעמוד",
+      "gloss": "閣用…柱"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "夜時"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "為著欲照亮"
+    },
+    {
+      "surface": "להם",
+      "gloss": "予𪜶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶所欲行的路"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "𪜶所欲行"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼條路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:16.743978101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "毋通佇老年的時陣將我擲出去;我的氣力若攏無去矣,嘛毋通離棄我。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "將我擲出去"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "佇…的時陣"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "老年"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "若攏無去矣"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的氣力"
+    },
+    {
+      "surface": "אל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "離棄我"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:52.714646787Z",
+  "model": "glm-5.3"
+}

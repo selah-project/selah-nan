@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "草仔咧露出來，幼草出現，山上的草菜嘛攏收起來。",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "咧露出來"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草仔"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "出現"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "幼草"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "收起來"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "草菜"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山上的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:21.260993516Z",
+  "model": "glm-5.3"
+}

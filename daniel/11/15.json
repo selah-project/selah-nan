@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 11:15",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "北方⟨的⟩王欲來,堆起土坡,攻落堅固⟨的⟩城;南方⟨的⟩軍力徛袂在,連伊上精選⟨的⟩兵力嘛無力通徛。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "欲來"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北方"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "堆起"
+    },
+    {
+      "surface": "סוללה",
+      "gloss": "土坡"
+    },
+    {
+      "surface": "ולכד",
+      "gloss": "攻落"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מבצרות",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "軍力"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南方"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "連……的兵力"
+    },
+    {
+      "surface": "מבחריו",
+      "gloss": "上精選"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "通徛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:39.611070262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 49:13",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "西布倫會徛佇海墘,伊做船隻的海墘,伊的邊界到示阿勒……毋對,是到西頓。",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "西布倫"
+    },
+    {
+      "surface": "לחוף",
+      "gloss": "佇海墘"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "會徛咧"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "לחוף",
+      "gloss": "做海墘"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船隻的"
+    },
+    {
+      "surface": "וירכתו",
+      "gloss": "伊的邊界"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "西頓"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:11.535095366Z",
+  "model": "glm-5.3"
+}

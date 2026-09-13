@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇耶路撒冷蹛的，有對猶大子孫來的，有對便雅憫子孫來的，嘛有對以法蓮佮瑪拿西的子孫來的。",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "閣佇耶路撒冷"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "嘛有對…來的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "嘛有對…來的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "佮瑪拿西"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:15.059337085Z",
+  "model": "glm-5.3"
+}

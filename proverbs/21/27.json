@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "歹人的祭是可憎的,何況伊帶歹意帶來⟨的⟩!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎"
+    },
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "帶歹意"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "帶來伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:49.892841098Z",
+  "model": "glm-5.3"
+}

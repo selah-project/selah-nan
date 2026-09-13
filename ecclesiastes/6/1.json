@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "有一項歹代,是我佇日頭下底看見的,閣伊佇人的身上是真重。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……下底"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "閣是真重"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……身上"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:18.553918057Z",
+  "model": "glm-5.3"
+}

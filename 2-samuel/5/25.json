@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "大衛就按呢行,照雅威所命令伊的;伊就擊殺⟨את⟩非利士人,對迦巴直到你到迦色。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就行"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "所命令伊的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "就擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "對迦巴"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "באך",
+      "gloss": "你到"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "迦色"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:33.076593566Z",
+  "model": "glm-5.3"
+}

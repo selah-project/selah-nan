@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣因為伊所流的無辜者的血——伊用無辜者的血充滿⟨את⟩耶路撒冷——雅威毋肯赦免。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "דם",
+      "gloss": "…的血"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "無辜者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "伊所流"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "伊充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "דם",
+      "gloss": "…的血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜者"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "肯"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "赦免"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:17.312736564Z",
+  "model": "glm-5.3"
+}

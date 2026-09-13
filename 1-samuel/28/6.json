@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "掃羅求問雅威,雅威無應伊——夢中無,烏陵中無,先知嘛無。",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "求問"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "應伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "夢中"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "烏陵"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "先知"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:22.618235152Z",
+  "model": "glm-5.3"
+}

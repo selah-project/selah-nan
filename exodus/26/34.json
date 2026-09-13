@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "你欲下⟨את⟩施恩座佇見證的櫃頂面,佇至聖所內。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "你欲下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "施恩座"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "施恩座"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "見證"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇…聖"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "至聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:41.166444657Z",
+  "model": "glm-5.3"
+}

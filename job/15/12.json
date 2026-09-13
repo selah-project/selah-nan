@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 15:12",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "啥物事予你的心將你提走?啥物事予你的目睭眨眨?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物事"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "予……將你提走"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "抑是啥物事"
+    },
+    {
+      "surface": "ירזמון",
+      "gloss": "予……眨眨"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:40.771540752Z",
+  "model": "glm-5.3"
+}

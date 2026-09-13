@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "荊棘佮蒺藜欲為著你發出來,你欲食⟨את⟩田裡的草。",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "佮蒺藜"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "欲發出來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "你欲食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "田裡的草"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:30.018169247Z",
+  "model": "glm-5.3"
+}

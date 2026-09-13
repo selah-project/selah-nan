@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 7:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "所羅門祈禱了的時,火就對天頂落來,燒掉燔祭佮彼寡祭物,雅威的榮光充滿⟨את⟩殿。",
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "…了的時"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "והאש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "落來"
+    },
+    {
+      "surface": "מהשמים",
+      "gloss": "對天頂"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "燒掉"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "והזבחים",
+      "gloss": "佮彼寡祭物"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "的榮光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:42.621688556Z",
+  "model": "glm-5.3"
+}

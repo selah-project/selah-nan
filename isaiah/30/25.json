@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 30:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "閣佇每一座高山,佇每一座懸懸的丘陵,欲有溪流佮水泉,佇大屠殺彼日,當瞭望塔倒落的時。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "閣欲有"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一座"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "懸懸的"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一座"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "丘陵"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "懸起的"
+    },
+    {
+      "surface": "פלגים",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "水泉"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "屠殺"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大的"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "當…倒落"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "瞭望塔"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:13.937305868Z",
+  "model": "glm-5.3"
+}

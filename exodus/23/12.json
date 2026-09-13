@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "「六日你做你的工課,第七日你著安息,為著欲互你的牛、你的驢會喘氣,你的婢女的心肝仔子佮彼個出外人會舒爽。」",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的工課"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "會喘氣"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "你的牛"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "你的驢"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "會舒爽"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你的婢女"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "佮彼個出外人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:54.497995732Z",
+  "model": "glm-5.3"
+}

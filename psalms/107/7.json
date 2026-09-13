@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "伊導𪜶行直路,通去到一個會當徛起的城。",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "伊導𪜶行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "直"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "通去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "徛起的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:27.292296644Z",
+  "model": "glm-5.3"
+}

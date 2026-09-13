@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊起造彼個城四圍,對米羅到四圍;約押養活⟨את⟩賰的城。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "起造"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "米羅"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "養活"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "賰的城"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "賰"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "的城"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:29.785244817Z",
+  "model": "glm-5.3"
+}

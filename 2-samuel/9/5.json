@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "王大衛就差人去,對米基——亞米利的仔——的厝,對羅底巴,共伊帶來。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "共伊帶來"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的厝"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "米基"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "亞米利"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "羅"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "底巴"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:55.659698554Z",
+  "model": "glm-5.3"
+}

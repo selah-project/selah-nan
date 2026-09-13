@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "怹吼救,毋拘無拯救者;向雅威吼,伊無應𪜶。",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "怹吼救"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "毋拘無"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "拯救者"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "伊無"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "應𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:36.933753878Z",
+  "model": "glm-5.3"
+}

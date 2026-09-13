@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "所羅門做王,統治以色列全家。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "על",
+      "gloss": "統治"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:09.884017481Z",
+  "model": "glm-5.3"
+}

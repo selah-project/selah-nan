@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以利沙差一個使者去伊遐,講:「你去,佇約但河洗七擺,你的肉就會恢復到你身上,你就潔淨。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "去伊遐"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "洗"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "佇約但河"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就會恢復"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "你的肉"
+    },
+    {
+      "surface": "לך",
+      "gloss": "到你身上"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "你就潔淨"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:15.457663827Z",
+  "model": "glm-5.3"
+}

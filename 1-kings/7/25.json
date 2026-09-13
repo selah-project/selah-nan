@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 7:25",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "徛佇十二隻牛的頂面，三隻面向北，三隻面向西，三隻面向南，三隻面向東；彼個海就踮佇𪜶頂面，𪜶的後壁面攏向內。",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "שני",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三隻"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面向"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "向北"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "佮三隻"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面向"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向西"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "佮三隻"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面向"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "向南"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "佮三隻"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面向"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "向東"
+    },
+    {
+      "surface": "והים",
+      "gloss": "彼個海"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "踮佇𪜶頂面"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "對頂面"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "𪜶的後壁面"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "向內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:19.615330929Z",
+  "model": "glm-5.3"
+}

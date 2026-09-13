@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "因為雅威你的以羅欣導你入一個好地 —— 有溪流水、泉源佮深淵的地，佇山谷佮山內湧出來。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "導你入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "好"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "有的地"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "佮深淵"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "湧出來"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "佇山谷"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "佮佇山內"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:35.461679571Z",
+  "model": "glm-5.3"
+}

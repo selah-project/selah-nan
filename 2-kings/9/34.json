@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 9:34",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊就入去,食飯啉酒了,講:「去巡彼個受咒詛的查某人 ⟨את⟩,埋葬伊,因為伊是王的女兒。」",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "伊就入去"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "食飯"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "啉酒"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "去巡"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個受咒詛的查某人"
+    },
+    {
+      "surface": "הארורה",
+      "gloss": "受咒詛的"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "彼個查某人"
+    },
+    {
+      "surface": "וקברוה",
+      "gloss": "埋葬伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T03:19:12.655080666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊講:「我犯啥物罪,你哪會欲將⟨את⟩你的奴僕交佇亞哈手中,來害死我?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我犯罪"
+    },
+    {
+      "surface": "כי",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的奴僕"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…手中"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "來害死我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:23.734781024Z",
+  "model": "glm-5.3"
+}

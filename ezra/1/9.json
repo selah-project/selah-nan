@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "這是𪜶的數目:金的盤仔三十,銀的盤仔一千,剖牲刀九佮二十。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "𪜶的數目"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "盤仔"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "盤仔"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀的"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "剖牲刀"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "九"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:42.159526230Z",
+  "model": "glm-5.3"
+}

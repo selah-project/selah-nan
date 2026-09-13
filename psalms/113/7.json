@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 113,
+  "translation": "伊對土粉裡升起困苦的人,對糞埽堆捧起窮乏的人。",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "升起"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "對土粉"
+    },
+    {
+      "surface": "דל",
+      "gloss": "困苦的人"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "對糞埽堆"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "捧起"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "窮乏的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:51.818627718Z",
+  "model": "glm-5.3"
+}

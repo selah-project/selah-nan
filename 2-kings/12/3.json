@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 12:3",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "約阿施佇雅威的眼中行正直的代誌,佇耶何耶大祭司教示伊的彼一日一日攏按呢。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正直的代誌"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇……的眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "伊的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼一(關係詞)"
+    },
+    {
+      "surface": "הורהו",
+      "gloss": "教示伊"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:34.944200936Z",
+  "model": "glm-5.3"
+}

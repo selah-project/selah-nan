@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "雅威采巴奧特(萬軍)佮阮佇咧;雅各的以羅欣⟨是⟩阮的保障。細拉。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "佮阮佇咧"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "保障"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮的"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:38.640387259Z",
+  "model": "glm-5.3"
+}

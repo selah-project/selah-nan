@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "第三籤歸撒割,伊的囡仔佮伊的兄弟,做十二个。",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "撒割"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囡仔"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "佮伊的兄弟"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:39.785804816Z",
+  "model": "glm-5.3"
+}

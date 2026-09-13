@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "以羅欣啊,救我脫離流無辜的血;做我救恩的以羅欣啊,我的喙舌欲唱歌謳咾你的公義。",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "脫離流無辜的血"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "做…的以羅欣"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "我救恩"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "欲唱歌謳咾"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的喙舌"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "你的公義"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:57.464465951Z",
+  "model": "glm-5.3"
+}

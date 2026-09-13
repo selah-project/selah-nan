@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "號筒若佇城內啋,人民敢無驚?災禍若佇城內發生,雅威敢無做?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "啋"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "號筒"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "驚"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "發生"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:44.044719149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "因為伊的傷是無法度好,因為災禍到猶大,伸到阮百姓的門,到耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "無法度好"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "伊的傷"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "באה",
+      "gloss": "到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "伸到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:14.267960650Z",
+  "model": "glm-5.3"
+}

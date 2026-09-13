@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "看啊,日子欲到,雅威的話講:我欲撒種佇以色列的家 ⟨את⟩ 佮 ⟨את⟩ 猶大的家,用人的種子佮精牲的種子。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "באים",
+      "gloss": "欲到"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "的話講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "我欲撒種"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "閣……的種子"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "精牲"
+    }
+  ],
+  "timestamp": "2026-09-12T03:57:03.108266214Z",
+  "model": "glm-5.3"
+}

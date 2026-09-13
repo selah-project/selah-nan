@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我的傷痕發臭閣潰爛矣,是因為我的愚戇。",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "發臭"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "潰爛"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "我的傷痕"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "是因為"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "我的愚戇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:24.798209534Z",
+  "model": "glm-5.3"
+}

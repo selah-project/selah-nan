@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "彼城一切个長老,上倚近死者彼个,欲洗⟨את⟩𪜶个手,佇溪仔裡彼隻斷頸个牛仔頂面。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "个長老"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼城"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "上倚近个"
+    },
+    {
+      "surface": "אל",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "死者"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "欲洗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶个手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶个手"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "彼隻牛仔"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "斷頸个"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "佇溪仔裡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:17.828124152Z",
+  "model": "glm-5.3"
+}

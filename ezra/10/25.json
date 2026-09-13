@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣對以色列中間:對巴羅施的後生有蘭米亞、伊西亞、瑪勒基亞、米雅閔、以利亞撒、瑪勒基亞,閣比尼亞。",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "閣對以色列中間"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對…的後生"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "巴羅施"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "蘭米亞"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "閣伊西亞"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "閣瑪勒基亞"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "閣米雅閔"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "閣以利亞撒"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "閣瑪勒基亞"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "閣比尼亞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:07.351407976Z",
+  "model": "glm-5.3"
+}

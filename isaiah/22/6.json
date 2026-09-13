@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "以攔扛箭囊,佇人的戰車佮騎兵中間;基爾嘛攤開盾牌。",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "佮以攔"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "扛"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "箭囊"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "佇戰車"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "佮基爾"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "攤開"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "盾牌"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:54.248605903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "我,就是我,安慰你𪜶的。你是啥物人,你哪會驚死人,佮人子——草仔彼款會互人刣落去的?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "就是我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨是⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "安慰你𪜶的"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "את",
+      "gloss": "你",
+      "marks": "你(陰性單數代詞)"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "你哪會驚"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "對…人"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "會死"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "佮…的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草仔"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "會互人刣落去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:56.638517609Z",
+  "model": "glm-5.3"
+}

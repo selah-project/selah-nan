@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "巴比倫王擊殺⟨את⟩𪜶，佇哈馬地的利比拉處死𪜶。按呢猶大對伊的土地被擄出去。",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "巴比倫王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "處死𪜶"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "佇利比拉"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "被擄出去"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…離開"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "伊的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:07:39.265394359Z",
+  "model": "glm-5.3"
+}

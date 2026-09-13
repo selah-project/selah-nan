@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "伊講:「若是為和平出來的,活活掠𪜶;若是為戰爭出來的,嘛是活活掠𪜶。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "為和平"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出來的"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "掠𪜶"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活活"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "為戰爭"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出來的"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活活"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "掠𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:30.858706786Z",
+  "model": "glm-5.3"
+}

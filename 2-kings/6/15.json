@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "以羅欣彼个人的僕人早早起來欲出去,看啊,有軍隊圍⟨את⟩彼个城,閣有馬佮戰車。伊的少年僕人對伊講:「唉啊,阿多奈!咱欲按怎創?」",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "早早起來"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "僕人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "圍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼个城"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "閣有馬"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "佮戰車"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "伊的少年僕人"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "唉啊"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "按怎"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "創"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:22.043903865Z",
+  "model": "glm-5.3"
+}

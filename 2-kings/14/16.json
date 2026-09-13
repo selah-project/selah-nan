@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "耶何阿施佮伊的列祖同睏,埋葬佇撒馬利亞,佮以色列諸王做伙;伊的後生耶羅波安接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "同睏"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "耶何阿施"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒馬利亞"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:03.375103496Z",
+  "model": "glm-5.3"
+}

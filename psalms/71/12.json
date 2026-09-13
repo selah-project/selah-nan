@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "以羅欣啊,毋通離阮遠;阮的以羅欣啊,緊緊來救助阮。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "離……遠"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "來救助阮"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "緊緊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:40.975931299Z",
+  "model": "glm-5.3"
+}

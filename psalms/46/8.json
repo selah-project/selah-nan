@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "雅威采巴奧特(萬軍)佮咱佇咧;雅各的以羅欣是咱的高臺。細拉。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "佮咱佇咧"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高臺"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "咱的"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:06.082553571Z",
+  "model": "glm-5.3"
+}

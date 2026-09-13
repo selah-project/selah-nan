@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 30:24",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "我欲互巴比倫王的手臂壯起來⟨את⟩,我欲將我的劍下佇伊手中⟨את⟩,我欲折斷法老的雙臂⟨את⟩,伊欲佇伊面前出聲吟,親像重傷的人咧吟。",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "我欲互……壯起來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴比倫王的手臂"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "手臂"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的劍"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的劍"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊手中"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "我欲折斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法老的雙臂"
+    },
+    {
+      "surface": "זרעות",
+      "gloss": "雙臂"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ונאק",
+      "gloss": "伊欲……吟"
+    },
+    {
+      "surface": "נאקות",
+      "gloss": "出聲吟"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "重傷的人"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:19:13.714523201Z",
+  "model": "glm-5.3"
+}

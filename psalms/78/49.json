@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊差遣祂受氣的怒火到𪜶中間 —— 暴怒、怨恨、閣有苦難,是一陣歹使者的差遣。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "בם",
+      "gloss": "到𪜶中間"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "怒火"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "祂的受氣"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "暴怒"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "佮怨恨"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "閣有苦難"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "使者"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "歹的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:41.052045924Z",
+  "model": "glm-5.3"
+}

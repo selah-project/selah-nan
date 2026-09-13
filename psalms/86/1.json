@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "祈禱,大衛的。雅威啊,斜落汝的耳,應答我,因為艱苦人、散赤人是我。",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "斜落"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "汝的耳"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應答我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עני",
+      "gloss": "艱苦人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散赤人"
+    },
+    {
+      "surface": "אני",
+      "gloss": "是我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:47.277367259Z",
+  "model": "glm-5.3"
+}

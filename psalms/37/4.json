@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "閣欲佇雅威身上得著歡喜,伊就欲賞賜你心所求的。",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "閣……得著歡喜"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "伊就欲賞賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "所求的"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:55.460904361Z",
+  "model": "glm-5.3"
+}

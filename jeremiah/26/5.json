@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "欲聽阮僕人諸先知的話,就是我早起閣差遣去恁遐的,毋拘恁無聽;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "欲聽"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "阮僕人"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "諸先知"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "去恁遐"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "閣早起"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "閣差遣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋拘…無"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "恁無聽"
+    }
+  ],
+  "timestamp": "2026-09-12T03:55:59.118770004Z",
+  "model": "glm-5.3"
+}

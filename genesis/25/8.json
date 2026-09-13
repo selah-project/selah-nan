@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "亞伯拉罕吐大氣就過身矣,死佇好的老歲年——老邁閣滿足——伊就歸到伊的百姓。",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "吐大氣"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "過身矣"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "佇…老歲年"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "好的"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老邁"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "閣滿足"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "就歸到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "伊的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:45.989035045Z",
+  "model": "glm-5.3"
+}

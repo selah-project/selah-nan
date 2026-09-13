@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊行雅威眼中看做歹的代誌,獨獨無親像佇伊以前的以色列彼些王。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊行"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "歹的代誌"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "親像…的王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼些"
+    },
+    {
+      "surface": "היו",
+      "gloss": "佇"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "伊以前"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:28.257174943Z",
+  "model": "glm-5.3"
+}

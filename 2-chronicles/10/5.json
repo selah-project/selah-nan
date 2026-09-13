@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊就對𪜶講:「閣三日,恁才倒轉來我遮。」人民就去矣。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "恁倒轉來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:43.136675738Z",
+  "model": "glm-5.3"
+}

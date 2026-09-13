@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "一捧的安靜,比兩滿拳頭拇的勞碌佮掠風卡好。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "卡好"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿"
+    },
+    {
+      "surface": "כף",
+      "gloss": "一捧"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "安靜"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "比滿"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "兩个拳頭拇"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "佮掠"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:30.821566796Z",
+  "model": "glm-5.3"
+}

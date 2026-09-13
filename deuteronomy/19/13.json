@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "你的目睭毋通憐惜伊,你續欲對以色列除去無辜者的血,按呢對你較好。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "憐惜"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "續欲除去"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "彼個無辜者的"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "續好"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:20.327927990Z",
+  "model": "glm-5.3"
+}

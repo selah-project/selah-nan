@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 37:21",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "這陣𪜶看毋著彼個光,伊光亮佇雲內,一陣風吹過去,就共𪜶清氣矣。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看著"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "בהיר",
+      "gloss": "光亮"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "佇雲內"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "閣風"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "吹過去"
+    },
+    {
+      "surface": "ותטהרם",
+      "gloss": "就共𪜶清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:48.688660662Z",
+  "model": "glm-5.3"
+}

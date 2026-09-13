@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "佇亞倫的眾後生中間，彼个獻⟨את⟩平安祭的血佮⟨את⟩油的人，正腿就是伊的份。",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "彼个獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "平安祭的血"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對…的眾後生中間"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "腿"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "正"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "做份"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:32.900636240Z",
+  "model": "glm-5.3"
+}

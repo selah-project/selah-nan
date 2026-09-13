@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "災害,你的舌頭咧設想;親像一支磨利的剃刀,咧行詭詐。",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "災害"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "咧設想"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "你的舌頭"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "親像一支剃刀"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "磨利的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "咧行"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "詭詐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:29.287301342Z",
+  "model": "glm-5.3"
+}

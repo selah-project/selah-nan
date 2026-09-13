@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 5:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "所以佇你內中,老父欲食子,子欲食𪜶的老父;我欲佇你身上行審判,閣我欲撒⟨את⟩你全部的剩落來的人到逐個風去。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "老父"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "佇你內中"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "閣子"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "𪜶的老父"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "閣我欲行"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你身上"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "審判"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "閣我欲撒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你全部的剩落來的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "שאריתך",
+      "gloss": "你剩落來的人"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "到逐個"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:18.864890844Z",
+  "model": "glm-5.3"
+}

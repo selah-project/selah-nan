@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 67,
+  "translation": "以羅欣欲賜福咱，地上所有的盡頭攏欲敬畏⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "欲賜福咱"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "攏欲敬畏"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "地上所有的盡頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "盡頭"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:45.373473866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你行的時,你的腳步袂受逼狹;你若走,嘛袂絆倒。",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "你行的時"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "受逼狹"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "你的腳步"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "走"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "絆倒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:26.045615730Z",
+  "model": "glm-5.3"
+}

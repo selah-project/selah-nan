@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你為你的厝圖謀見笑,剪除真濟人民,你的性命犯罪。",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "為你的厝"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "剪除"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "人民"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "佮犯罪"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:59.825676399Z",
+  "model": "glm-5.3"
+}

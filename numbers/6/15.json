@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣一籃無酵餅,細麵做的糕,用油攪的,閣無酵的薄餅,用油抹的,閣𪜶的素祭佮𪜶的奠祭。",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "閣一籃"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "糕"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "攪的"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "閣…薄餅"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "抹的"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "閣𪜶的素祭"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "佮𪜶的奠祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:44.550657308Z",
+  "model": "glm-5.3"
+}

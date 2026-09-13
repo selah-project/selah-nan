@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "耶戶招集⟨את⟩全體的百姓,對𪜶講:「亞哈事奉⟨את⟩巴力少少,耶戶欲事奉伊多多。",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "招集"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全體的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴力"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少少"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "欲事奉伊"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "多多"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:21.255925863Z",
+  "model": "glm-5.3"
+}

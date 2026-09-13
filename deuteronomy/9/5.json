@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 9:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "毋是因為你的義,嘛毋是因為你心的正直,你才入去承接 ⟨את⟩ 𪜶的地;是因為這些列國的歹,雅威——你的以羅欣——才對你的面前趕走𪜶;嘛是為著欲成立 ⟨את⟩ 彼句話,就是雅威對你的列祖——對亞伯拉罕、對以撒、對雅各——所咒誓的。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "因為你的義"
+    },
+    {
+      "surface": "ובישר",
+      "gloss": "嘛毋是因為…正直"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "你心的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "承接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是因為"
+    },
+    {
+      "surface": "ברשעת",
+      "gloss": "的歹"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "這些列國"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "מורישם",
+      "gloss": "趕走𪜶"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "對你的面前"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "嘛是為著欲"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "成立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼句話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼句話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "對你的列祖"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "對亞伯拉罕"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "對以撒"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "對雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:54.475213263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 12:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雲對帳棚頂退離,看啊,米利暗生癩,白親像雪;亞倫向米利暗看,看啊,伊生癩。",
+  "tokens": [
+    {
+      "surface": "והענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "סר",
+      "gloss": "退離"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對……頂"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "米利暗"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "生癩"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "親像雪"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "向……看"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "米利暗"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "生癩"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:05.374748270Z",
+  "model": "glm-5.3"
+}

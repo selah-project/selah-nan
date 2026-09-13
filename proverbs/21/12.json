@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "公義者明察歹人的厝,伊將歹人覆滅到歹運。",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "明察"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義者"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "對厝"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人的"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "覆滅"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "到歹運"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:45.980773452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "大衛佮以色列全體去耶路撒冷——伊就是耶布斯;遐有耶布斯人,就是彼地的居民。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…全體"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "耶布斯"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:26.089916585Z",
+  "model": "glm-5.3"
+}

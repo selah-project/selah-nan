@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "呂便倒轉去到坑遐,看啊,約瑟無佇坑內,伊就撕裂⟨את⟩伊的衫。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "佇坑內"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "撕裂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的衫"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:41.088748501Z",
+  "model": "glm-5.3"
+}

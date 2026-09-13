@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "掃羅做王的辰頭是一歲的囝,伊閣統治兩年佇以色列頂面。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一歲"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "佇伊做王"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "閣兩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "統治"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:13.957649040Z",
+  "model": "glm-5.3"
+}

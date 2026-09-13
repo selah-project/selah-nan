@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊就佇此地、佇猶大逐个堅固的城設立審判官,逐城逐城。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "設立"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "審判官"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇此地"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐个"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "…的城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "逐城"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "逐城"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:04.009013068Z",
+  "model": "glm-5.3"
+}

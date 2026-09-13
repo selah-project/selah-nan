@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "雅威對天頂目睭覷落來,看人的子兒,欲看有人有智慧、咧尋⟨את⟩以羅欣無?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "對天頂"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "目睭覷落來"
+    },
+    {
+      "surface": "על",
+      "gloss": "看"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "היש",
+      "gloss": "有……無"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "有智慧的"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "咧尋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:44.892283737Z",
+  "model": "glm-5.3"
+}

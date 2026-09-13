@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "我的心佇我內面咧絞痛,死亡的恐怖落佇我身上。",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "咧絞痛"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "佇我內面"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "佮恐怖"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "落"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我身上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:48.219604514Z",
+  "model": "glm-5.3"
+}

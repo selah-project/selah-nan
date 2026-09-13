@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "我,雅威,咧守護伊;我時時刻刻淹沃伊,免得啥物對伊懲罰;暗暝閣日時,我守護伊。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "守護伊"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "時時刻刻"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "我淹沃伊"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "懲罰"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暗暝"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "閣日時"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "我守護伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:29.197907996Z",
+  "model": "glm-5.3"
+}

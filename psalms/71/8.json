@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "願我的嘴充滿你的讚美,規日攏是你的榮美。",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "願…充滿"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的嘴"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "你的讚美"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "你的榮美"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:36.191932755Z",
+  "model": "glm-5.3"
+}

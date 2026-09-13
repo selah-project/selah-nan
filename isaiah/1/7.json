@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "恁的地荒涼,恁的城互火燒去;恁的田園,佇恁面前,外邦人咧食伊⟨את⟩,伊閣荒涼,親像互外邦人傾覆的樣。",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "恁的地"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "恁的城"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "火燒去"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "恁的田園"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "佇恁面前"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外邦人"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "咧食"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(恁的田園)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "閣荒涼"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "親像傾覆"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外邦人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:46.722699258Z",
+  "model": "glm-5.3"
+}

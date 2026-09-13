@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "你的法度⟨是⟩奇妙的事;所以,我的性命看守𪜶。",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "奇妙的事"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "你的法度"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "看守𪜶"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:09.384429389Z",
+  "model": "glm-5.3"
+}

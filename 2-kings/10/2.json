@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "「這陣,這張批一到到恁遮,恁手上有⟨את⟩恁主人的後生,嘛有⟨את⟩戰車、馬匹,閣有堅固的城佮兵器——",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "一到"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "這張批"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這張"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "到恁遮"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩恁手上有",
+      "marks": "恁主人的後生"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "恁主人"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩嘛有",
+      "marks": "戰車、馬匹"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "馬匹"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "閣有城"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "佮兵器"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:29.303606810Z",
+  "model": "glm-5.3"
+}

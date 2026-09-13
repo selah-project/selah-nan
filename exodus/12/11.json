@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "按呢恁著食⟨את⟩伊:恁的腰帶縖予好勢,恁的鞋穿佇恁的跤,恁的拐仔攑佇恁的手;恁著佇匆促中食⟨את⟩伊;彼⟨是⟩雅威的佩薩赫。",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁著食"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "恁的腰"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "縖予好勢"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "恁的鞋"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "佇恁的跤"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "恁的拐仔"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "佇恁的手"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "恁著食"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "佇匆促中"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "佩薩赫"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:22.126048145Z",
+  "model": "glm-5.3"
+}

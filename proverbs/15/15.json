@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "困苦人的日子攏是歹;心內好勢的人親像宴席無歇。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "歹"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "若是…好"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴席"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "無歇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:44.760064104Z",
+  "model": "glm-5.3"
+}

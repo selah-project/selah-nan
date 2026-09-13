@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "猶原今仔日欲徛佇挪伯;伊向錫安查某囝的山、耶路撒冷的崙搖伊的手。",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "猶原"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "佇挪伯"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "搖"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "בית",
+      "gloss": "查某囝的"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "崙"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:36.597149482Z",
+  "model": "glm-5.3"
+}

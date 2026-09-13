@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "𪜶欲洗𪜶的手佮𪜶的跤,免得𪜶死;這欲做⟨是⟩𪜶永遠的律例,互伊佮伊的後代,到𪜶的世代。",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "𪜶欲洗"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "佮𪜶的跤"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "𪜶死"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "這欲做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "互𪜶"
+    },
+    {
+      "surface": "חק",
+      "gloss": "律例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לו",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "佮伊的後代"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "到𪜶的世代"
+    }
+  ],
+  "timestamp": "2026-09-13T04:32:15.795972031Z",
+  "model": "glm-5.3"
+}

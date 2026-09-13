@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 130,
+  "translation": "閣伊欲贖回⟨את⟩以色列,脫離伊一切的過犯。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "閣伊"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "欲贖回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離一切的"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "過犯"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:22.894874134Z",
+  "model": "glm-5.3"
+}

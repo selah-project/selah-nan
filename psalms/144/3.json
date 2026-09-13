@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "雅威啊,人是啥物,你竟然識伊?凡人的子是啥物,你竟然數算伊?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "你竟然識伊"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……的子"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "凡人"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "你竟然數算伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:15.079059077Z",
+  "model": "glm-5.3"
+}

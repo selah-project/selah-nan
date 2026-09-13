@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "彼个欲佇你身上做記號佮奇事,嘛欲佇你的後代,直到永遠。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "彼个欲…做"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你身上"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "做記號"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "佮奇事"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "嘛佇你的後代"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:12.970487016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "你有手胳佮氣力;你的手真勇,你的正手高高地揚起來。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "你有"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "手胳"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "真勇"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "高高地揚起來"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:38.527110357Z",
+  "model": "glm-5.3"
+}

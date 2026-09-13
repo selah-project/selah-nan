@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "𪜶毋通徛佇頭殼頂弄做禿頭,嘛毋通剃𪜶喙鬚的邊仔角,佮𪜶的身軀毋通割痕做記號。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "弄做"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "禿頭"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "佇𪜶的頭殼頂"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "嘛毋通……的邊仔角"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "𪜶的喙鬚"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "剃"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "佮𪜶的身軀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "割痕"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "做記號"
+    }
+  ],
+  "timestamp": "2026-09-13T04:41:36.587899992Z",
+  "model": "glm-5.3"
+}

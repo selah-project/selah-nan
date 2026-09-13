@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 98,
+  "translation": "願海吼響,佮伊所充滿的;世界,佮徛佇伊內底的。",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "吼響"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "佮伊所充滿的"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "佮徛佇…的"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊內底"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:32.455623160Z",
+  "model": "glm-5.3"
+}

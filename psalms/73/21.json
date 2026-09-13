@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "因為我的心變酸,我的腰仔嘛刺刺痛。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "變酸"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "閣我的腰仔"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "刺刺痛"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:20.759470142Z",
+  "model": "glm-5.3"
+}

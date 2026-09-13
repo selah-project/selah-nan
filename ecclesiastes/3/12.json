@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我知影佇𪜶中間無啥物好，獨獨通歡喜，佮做好代佇伊活的日子。",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "我知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "通歡喜"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "佮…做"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好代"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "佇伊活的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:00.890737380Z",
+  "model": "glm-5.3"
+}

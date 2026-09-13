@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊就對別條路去,無對伊入伯特利所行彼條路倒轉去。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "對…路"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別條"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "對…彼條路"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "利"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:57.584180583Z",
+  "model": "glm-5.3"
+}

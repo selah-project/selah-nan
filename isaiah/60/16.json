@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 60:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "你欲啉列國的奶,啉列王的乳房,你就欲知影我雅威是你的拯救者,你的救贖者,雅各的大力者。",
+  "tokens": [
+    {
+      "surface": "וינקת",
+      "gloss": "你欲啉奶"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "奶"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "閣乳房"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "列王的"
+    },
+    {
+      "surface": "תינקי",
+      "gloss": "你欲啉"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "你就欲知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "是你的拯救者"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "閣你的救贖者"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "大力者"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:02.845558580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "閣佇雕刻石頭來鑲嵌,佇雕刻柴頭,來做逐項工藝。",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "閣佇雕刻"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "來鑲嵌"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "閣佇雕刻"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "柴頭"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "來做"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐項"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工藝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:21.333269549Z",
+  "model": "glm-5.3"
+}

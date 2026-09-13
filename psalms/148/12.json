@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "少年人佮閣在室女;老人,以及囡仔,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "佮閣"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "在室女"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "老人"
+    },
+    {
+      "surface": "עם",
+      "gloss": "以及"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "囡仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:27.611107086Z",
+  "model": "glm-5.3"
+}

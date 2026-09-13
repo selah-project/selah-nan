@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊徛⟨את⟩全體的百姓,逐人手裡提家己的標槍,對厝的正手爿到厝的倒手爿,向祭壇佮向厝,圍佇王的四圍。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全體的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "העם",
+      "gloss": "的百姓"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "家己的標槍"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "手裡"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "對…的肩頭"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "正手爿"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "肩頭"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "倒手爿"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "向祭壇"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "佮向厝"
+    },
+    {
+      "surface": "על",
+      "gloss": "圍佇"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:34.408956594Z",
+  "model": "glm-5.3"
+}

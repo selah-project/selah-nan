@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "掃羅起造一座祭壇予雅威;⟨את⟩伊──彼座是伊頭一擺起造祭壇予雅威。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "起造"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(彼座祭壇)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "頭一擺"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "起造"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:37.861102540Z",
+  "model": "glm-5.3"
+}

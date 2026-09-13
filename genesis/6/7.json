@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威講:「我欲對土的面頂抹消 ⟨את⟩ 我所創造的人 —— 對人到精牲,到爬行的物,閣到天頂的鳥仔,因為我後悔,因為是我造𪜶的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "欲抹消"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "我創造"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…面頂"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "對人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "精牲"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "爬行的物"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "我後悔"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "我造𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:09.092727074Z",
+  "model": "glm-5.3"
+}

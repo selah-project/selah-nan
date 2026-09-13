@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇耶戶(的年)第七年,約阿施做王;伊佇耶路撒冷做王四十年。伊老母的名叫采比雅,對別是巴來。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇……(的年)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "第七年"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "四十年"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "……的名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "采比雅"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "對別是巴"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "別是巴(地名後半)"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:34.944002959Z",
+  "model": "glm-5.3"
+}

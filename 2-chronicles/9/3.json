@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "示巴女王看見 ⟨את⟩ 所羅門的智慧,閣看見彼座伊所起的厝,",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "女王"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門的智慧"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "閣彼座厝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:30.226149621Z",
+  "model": "glm-5.3"
+}

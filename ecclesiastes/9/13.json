@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "「這个嘛」我看--著:智慧佇日頭下面,而且伊對我來講真大。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看--著"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……下面"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "而且大"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:29.301364155Z",
+  "model": "glm-5.3"
+}

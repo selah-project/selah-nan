@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "毋通貪阮的——毋通貪你同伴厝——毋通貪你同伴的某、伊的奴僕、伊的婢女、伊的牛、伊的驢,佮一切屬你同伴的。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "貪"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的同伴"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "貪"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的同伴"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "佮伊的奴僕"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "佮伊的婢女"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "佮伊的牛"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "佮伊的驢"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬……的"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "你的同伴"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:50.615192135Z",
+  "model": "glm-5.3"
+}

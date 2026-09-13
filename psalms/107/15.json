@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "願𪜶感謝雅威的赫瑟德（慈愛），佮伊奇妙的名聲傳互人的子兒知。",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "願𪜶感謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "的赫瑟德"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "佮伊奇妙的名聲"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "傳互…的子兒"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:34.855091049Z",
+  "model": "glm-5.3"
+}

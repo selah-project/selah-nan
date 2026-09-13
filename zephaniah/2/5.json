@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 2:5",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "禍哉,徛佇海岸所在的人民,基利提人的國族!雅威的話臨到恁身上:迦南,非利士人的地啊,我欲消滅恁,致到無人徛起。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "徛佇…的人民"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "海岸所在"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "國族"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "基利提人"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "臨到恁身上"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "והאבדתיך",
+      "gloss": "我欲消滅恁"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "致到無"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "人徛起"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:19.222044176Z",
+  "model": "glm-5.3"
+}

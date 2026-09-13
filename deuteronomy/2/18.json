@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "「今仔日你欲過⟨את⟩摩押的邊界，就是⟨את⟩亞珥。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩押的邊界"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞珥"
+    },
+    {
+      "surface": "ער",
+      "gloss": "亞珥"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:03.333256419Z",
+  "model": "glm-5.3"
+}

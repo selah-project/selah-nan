@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我欲佇伊的面前拍碎伊的對敵;怨恨伊的人我欲拍擊𪜶。",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "我欲拍碎"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊的面前"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "伊的對敵"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "閣怨恨伊的人"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "拍擊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:45.524106765Z",
+  "model": "glm-5.3"
+}

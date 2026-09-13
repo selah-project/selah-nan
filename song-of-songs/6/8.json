@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "六十个王后,八十个妾,佮少女無數。",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王后"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "閣八十"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "妾"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "佮少女"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:37.579603367Z",
+  "model": "glm-5.3"
+}

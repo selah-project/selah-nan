@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "誠實對土地發芽出來,公義對天俯看落來。",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "誠實"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土地"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "發芽出來"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "對天"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "俯看落來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:07.776341023Z",
+  "model": "glm-5.3"
+}

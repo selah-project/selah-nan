@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "醒來,醒來,起來,耶路撒冷啊,你對雅威的手啉了⟨את⟩受氣的杯;⟨את⟩彼个深杯、使人搖晃的杯,你啉甲乾。",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "醒來"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "醒來"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "啉了"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "杯"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "深杯"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "深杯"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "使人搖晃"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "啉了"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "啉甲乾"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:21.279795015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "毋通掩你的面離開我,佇我抵著患難的日子;側你的耳向佇我;佇我呼求的日子,緊緊應我。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "掩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離開我"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "צר",
+      "gloss": "患難"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "側"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向佇我"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我呼求"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "緊緊"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:05.628162455Z",
+  "model": "glm-5.3"
+}

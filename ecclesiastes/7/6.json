@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為親像荊棘佇鼎下底的爆裂聲，按呢戇人的笑嘛是；這嘛是虛空。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "親像…的聲"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下底"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "鼎"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "笑"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:19.302962514Z",
+  "model": "glm-5.3"
+}

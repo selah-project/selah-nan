@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "親像水內面對⟨到⟩面,人的心對人嘛是按呢。",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "對到面"
+    },
+    {
+      "surface": "כן",
+      "gloss": "嘛是按呢"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "對人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:44.835552529Z",
+  "model": "glm-5.3"
+}

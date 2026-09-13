@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣伊的軍隊,𪜶點算的人數是三十二──二佮三十千,閣二百。",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "閣伊的軍隊"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "𪜶點算的人數"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "佮三十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "閣二百"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:00.859071554Z",
+  "model": "glm-5.3"
+}

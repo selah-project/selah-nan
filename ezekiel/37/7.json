@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 37:7",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "我就照所命令我的去講預言;我咧講預言的時,有聲出來,看啊,有攪動,骨就倚近骨,一枝一枝骨對伊家己彼枝骨。",
+  "tokens": [
+    {
+      "surface": "ונבאתי",
+      "gloss": "我就…講預言"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "所命令我的"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "כהנבאי",
+      "gloss": "我咧講預言的時"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "攪動"
+    },
+    {
+      "surface": "ותקרבו",
+      "gloss": "就倚近"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骨"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "一枝骨"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "伊家己彼枝骨"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:59.763929797Z",
+  "model": "glm-5.3"
+}

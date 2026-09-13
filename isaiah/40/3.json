@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "有聲佇曠野咧呼講:佇曠野為雅威準備道路,佇沙漠為咱的以羅欣修直大路。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "有聲"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "咧呼講"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "準備"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "修直"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "佇沙漠"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "大路"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "為咱的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:13.184615146Z",
+  "model": "glm-5.3"
+}

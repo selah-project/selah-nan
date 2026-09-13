@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "干焦用你的目睭看,你就會看著歹人的報應。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "用你的目睭"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "看"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "佮報應"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人的"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "會看著"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:52.815769387Z",
+  "model": "glm-5.3"
+}

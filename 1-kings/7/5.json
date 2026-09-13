@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣所有的門佮門框攏是四角形,窗仔面對窗仔,三擺。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "閣所有的"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "門"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "佮門框"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "攏是四角形"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "窗仔"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "面對"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "窗仔"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "窗仔"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:15.134102147Z",
+  "model": "glm-5.3"
+}

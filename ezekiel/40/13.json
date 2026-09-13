@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣伊量⟨את⟩彼個門,對一間細房的厝頂到別間的厝頂,闊二十佮五肘,門對門。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "閣伊量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個門"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "對…的厝頂"
+    },
+    {
+      "surface": "התא",
+      "gloss": "一間細房"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "到別間的厝頂"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "佮五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "對"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:13.814330905Z",
+  "model": "glm-5.3"
+}

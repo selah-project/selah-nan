@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊封住逐個人的手,予一切的人知伊的作為。",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "…的手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "封住"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "為著欲予…知"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "諸個人"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "伊的作為"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:23.950653236Z",
+  "model": "glm-5.3"
+}

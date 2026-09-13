@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "希茲基亞胡(希西家)王透早起來,聚集⟨את⟩城內的官長,就上雅威的家。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "透早起來"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "希茲基亞胡"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "城內的官長"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "官長"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "就上去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:32.136422739Z",
+  "model": "glm-5.3"
+}

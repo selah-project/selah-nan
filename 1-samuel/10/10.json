@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶到遐基比亞,看啊,一班先知對面來揣伊,以羅欣的靈沖落伊身上,伊就佇𪜶中間講預言。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "𪜶到"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "基比亞"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "一班"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "先知"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "對面來揣伊"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "沖落"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊身上"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "的靈"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "伊就講預言"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "佇𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:42.828237889Z",
+  "model": "glm-5.3"
+}

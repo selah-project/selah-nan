@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "田野一切的走獸,來啦;森林一切的走獸嘛來食。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "走獸"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田野"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "來"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "來食"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "走獸"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "佇森林"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:48.215630319Z",
+  "model": "glm-5.3"
+}

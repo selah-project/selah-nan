@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "日頭出來,日頭落去,伊喘氣趕赴伊的位,彼位就是伊日出之處。",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "出來"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "落去"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "趕赴"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "伊的位"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "喘氣"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "日出"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שם",
+      "gloss": "彼位"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:18.972933405Z",
+  "model": "glm-5.3"
+}

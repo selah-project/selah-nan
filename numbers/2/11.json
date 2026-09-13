@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佮伊的軍隊,佮伊受數點的,是六佮四十千佮五百。",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "佮伊的軍隊"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "佮伊受數點的"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "六"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "佮四十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "佮五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:17.846340565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "沙姆拉死矣,對河的利河伯來的掃羅接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "沙姆拉"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "對利河伯"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "彼條河"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:55.977715413Z",
+  "model": "glm-5.3"
+}

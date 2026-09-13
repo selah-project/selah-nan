@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊的結局會親像蛇咬你,親像毒蛇會噴毒。",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "伊的結局"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "親像蛇"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "會咬你"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "親像毒蛇"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "會噴毒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:03.646243919Z",
+  "model": "glm-5.3"
+}

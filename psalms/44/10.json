@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "毋拘你揹棄阮,互阮見笑,嘛無佮阮的軍隊出去。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "你揹棄"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "互阮見笑"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "佮阮的軍隊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.352072019Z",
+  "model": "glm-5.3"
+}

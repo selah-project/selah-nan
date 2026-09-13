@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "「我的葡萄園,我自己的,猶佇我面前;彼一千歸你,示羅摩,看守⟨את⟩伊果子的人得兩百。」",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "我的葡萄園"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "我自己的"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "彼一千"
+    },
+    {
+      "surface": "לך",
+      "gloss": "歸你"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "示羅摩"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "兩百"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "予看守的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的果子"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "伊的果子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:36.996693981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 27:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你去啦,去羊群遐,替我對遮挈兩隻好的山羊仔來,我欲用⟨את⟩𪜶做好吃的料理予你阿爸,親像伊所愛食的。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啦"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去……遐"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "佮挈"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遮"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩隻"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "山羊仔"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "好的"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "我欲做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(兩隻山羊仔)"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "好吃的料理"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "予你阿爸"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "所愛食的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:45.251398697Z",
+  "model": "glm-5.3"
+}

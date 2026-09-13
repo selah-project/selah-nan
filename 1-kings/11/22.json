@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "法老對伊講:「但是啥物你佮我抵遮欠缺,你竟然尋欲去你的地?」伊講:「無,獨獨你一定愛差我出去。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "כי",
+      "gloss": "但是"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠缺"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "竟然"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "尋"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "欲去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "你的地"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כי",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "你差我出去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:19.170786211Z",
+  "model": "glm-5.3"
+}

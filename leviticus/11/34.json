@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 11:34",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "一切通食的食物,若有水淋佇伊頂面,就無清氣;閣一切通飲的飲物,佇任何器具裡面,攏無清氣。",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "通"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "淋到"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣一切"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "飲物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "通"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "飲"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇任何"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:44.987753583Z",
+  "model": "glm-5.3"
+}

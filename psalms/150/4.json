@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 150,
+  "translation": "用鈴鼓佮跳舞呵咾伊,用絃仔佮簫呵咾伊。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "呵咾伊"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "用鈴鼓"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "佮跳舞"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "呵咾伊"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "用絃仔"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "佮簫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:40.724420485Z",
+  "model": "glm-5.3"
+}

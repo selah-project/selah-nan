@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "約瑟的十個兄弟就落去米茲拉因買糧。",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "就落去"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "的兄弟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十個"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "去買糧"
+    },
+    {
+      "surface": "בר",
+      "gloss": "糧"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:28.971504733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "有一个對敵陣中間的人對非利士人的營盤出去,歌利亞是伊的名,對迦特出身的;伊的身軀高六肘閣一拃。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个…人"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "對敵陣中間的"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "對…營盤"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "歌利亞"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "對迦特"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "伊的身軀高"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "閣一拃"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:01.226717826Z",
+  "model": "glm-5.3"
+}

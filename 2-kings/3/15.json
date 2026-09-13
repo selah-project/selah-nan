@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「這陣,給我提一个彈琴的人來。」當彈琴的人咧彈的時,雅威的手就佇伊身上。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "提"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "彈琴的人"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "當...咧彈"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "彈琴的人"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "就"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:52.766488642Z",
+  "model": "glm-5.3"
+}

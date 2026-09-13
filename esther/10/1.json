@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "王亞哈隨魯設貢(強迫勞役的稅)佇全地,以及海的海島。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "設"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "מס",
+      "gloss": "貢"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "全地"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "以及海島"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:34.852634382Z",
+  "model": "glm-5.3"
+}

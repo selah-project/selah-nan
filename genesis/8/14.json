@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣佇第二個月,彼個月二十七日,地就完全焦矣。",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "閣佇…個月"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "佇七"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "對彼個月"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "完全焦"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:58.392434711Z",
+  "model": "glm-5.3"
+}

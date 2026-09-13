@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "閣伊賞賜⟨את⟩𪜶互𪜶得著憐憫,佇所有擄掠𪜶的人面前。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "閣賞賜"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(互𪜶得著憐憫)"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "做憐憫"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "擄掠𪜶的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:36.007974023Z",
+  "model": "glm-5.3"
+}

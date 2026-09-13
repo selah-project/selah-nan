@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "對雅威來,壯漢的腳步得堅立;伊的路,雅威歡喜。",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "對雅威來"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "腳步"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "壯漢"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "得堅立"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "雅威歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:12.011267512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "米甲就提⟨את⟩特拉芬(家內的神像),下佇眠床頂,閣提⟨את⟩山羊仔毛織的枕頭下佇伊的頭枕彼爿,用一領衫共伊蓋--起來。",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "米甲"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "特拉芬"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "特拉芬(家內的神像)"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "下佇"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "眠床頂"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣提⟨את⟩",
+      "marks": "山羊仔毛織的枕頭"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "毛織的枕頭"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊仔"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "下"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "伊的頭枕彼爿"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "蓋--起來"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "用一領衫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:04.804302951Z",
+  "model": "glm-5.3"
+}

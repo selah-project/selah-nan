@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "毋通對你的厝邊謀算歹事,因為伊⟨是⟩安然徛起⟨את⟩佮你。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "謀算"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的厝邊"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "因為伊"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩佮你",
+      "marks": "佮你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:14.167928625Z",
+  "model": "glm-5.3"
+}

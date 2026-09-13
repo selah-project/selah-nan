@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "彼个聽見⟨את⟩羊角的聲、卻毋受警戒的,刀劍來到,掠去伊,伊的血會歸佇伊的頭殼頂。",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "彼个聽的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羊角的聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "彼支羊角"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "受警戒"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "掠去伊"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "佇伊的頭殼"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會歸"
+    }
+  ],
+  "timestamp": "2026-09-12T04:20:22.533022741Z",
+  "model": "glm-5.3"
+}

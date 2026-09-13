@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "閣對列國的地面上聚集𪜶,對東邊佮對西邊,對北邊佮對海。",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "閣對列國的地"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "聚集𪜶"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "對東邊"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "佮對西邊"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "對北邊"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "佮對海"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:31.653200363Z",
+  "model": "glm-5.3"
+}

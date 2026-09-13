@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊給𪜶的雨變做冰雹,火焰的火佇𪜶的地內。",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "伊給…變做"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "𪜶的雨"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "冰雹"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "火焰的"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "佇𪜶的地內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:20.438467563Z",
+  "model": "glm-5.3"
+}

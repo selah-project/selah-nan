@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 2:22",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "毋拘歹人會對地內被剪除,奸詐的人會對伊內面被拔出去。",
+  "tokens": [
+    {
+      "surface": "ורשעים",
+      "gloss": "毋拘歹人"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對地"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "會被剪除"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "佮奸詐的人"
+    },
+    {
+      "surface": "יסחו",
+      "gloss": "會被拔出去"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:04.334337521Z",
+  "model": "glm-5.3"
+}

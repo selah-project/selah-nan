@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣⟨את⟩正爿的後腿,恁愛獻做舉祭給祭司,對恁的和平祭。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "正爿的後腿"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "後腿"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "正爿的"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "恁愛獻"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "做舉祭"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "給祭司"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "對…的祭"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "恁的和平祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:27.671511194Z",
+  "model": "glm-5.3"
+}

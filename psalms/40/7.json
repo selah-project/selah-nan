@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "祭祀佮素祭,你無意愛;耳仔你替我挖開;燒祭佮贖罪祭,你無要求。",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "祭祀"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "佮素祭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "意愛"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "挖開"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "佮贖罪祭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "要求"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:04.565165473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "毋通對你的厝邊做假見證來應對。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "應對"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "對你的厝邊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "假的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:48.563760990Z",
+  "model": "glm-5.3"
+}

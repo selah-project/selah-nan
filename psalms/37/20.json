@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "因為歹人欲滅無,雅威的對敵欲親像羊仔的貴氣,消滅;佇煙內底消滋。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "欲滅無"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "親像…貴氣"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "消滅"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "佇煙內底"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "消滋"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:09.513797109Z",
+  "model": "glm-5.3"
+}

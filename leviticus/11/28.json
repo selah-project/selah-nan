@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣扛起⟨את⟩𪜶死體的,愛洗伊的衫,無清氣到暗;𪜶對恁是無清氣的。",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "閣扛起…的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶死體"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "𪜶死體"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "愛洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:46.093112046Z",
+  "model": "glm-5.3"
+}

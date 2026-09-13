@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "佇地裡對的地來讚美 ⟨את⟩ 雅威 —— 海中大隻个怪獸(坦尼寧)佮一切深淵。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "海中大隻个怪獸(坦尼寧)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "深淵"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:31.739974115Z",
+  "model": "glm-5.3"
+}

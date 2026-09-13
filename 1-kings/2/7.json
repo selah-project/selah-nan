@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 2:7",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣對巴西萊・基列人的囝仔,你著行赫瑟德(仁慈),𪜶愛做食你桌飯的人,因為佇我對你阿哥押沙龍走的時,𪜶按呢親近我。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "閣對…的囝仔"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "巴西萊"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "基列人"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你著行"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德(仁慈)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "𪜶愛做"
+    },
+    {
+      "surface": "באכלי",
+      "gloss": "食…的人"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "你的桌飯"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "親近"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "בברחי",
+      "gloss": "佇我走的時"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的阿哥"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:03.583796397Z",
+  "model": "glm-5.3"
+}

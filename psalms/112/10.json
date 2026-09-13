@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 112,
+  "translation": "邪惡的人看見就受氣;伊的喙齒硩甲咯咯響,閣消溶滅無;邪惡的人所向望的欲滅無。",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "邪惡的人"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "就受氣"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "伊的喙齒"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "硩甲咯咯響"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "閣消溶滅無"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "所向望的"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "邪惡的人"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "欲滅無"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:44.684310677Z",
+  "model": "glm-5.3"
+}

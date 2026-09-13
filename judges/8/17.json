@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣伊共⟨את⟩毘努伊勒的塔拆毀落去,刣死⟨את⟩彼城的人。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "毘努伊勒的塔"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "塔"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "毘努伊勒"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "拆毀落去"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "閣刣死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼城的人"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼城"
+    }
+  ],
+  "timestamp": "2026-09-12T06:25:52.013947909Z",
+  "model": "glm-5.3"
+}

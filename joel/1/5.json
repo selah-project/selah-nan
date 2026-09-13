@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "醒起來,酒醉的人,啼哭,嘛哀號,恁攏總啉酒的,為著新酒,因為伊已經對恁的喙剪無去矣。",
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "酒醉的人"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "哀號"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "啉"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "新酒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "剪無去"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "對恁的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:14.720851985Z",
+  "model": "glm-5.3"
+}

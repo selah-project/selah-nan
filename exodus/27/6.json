@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你欲為著祭壇做棍仔,用皂莢木做的棍仔,閣用銅共⟨את⟩𪜶包起來。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "棍仔"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "為著祭壇"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "棍仔"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木仔的"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "你欲包"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(彼寡棍仔)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:27.390424192Z",
+  "model": "glm-5.3"
+}

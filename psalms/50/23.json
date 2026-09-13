@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "獻感謝祭个,伊榮光我;規畫道路个人,我欲互伊看見以羅欣个拯救。",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "獻"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "感謝祭"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "伊榮光我"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "規畫"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "道路"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "我欲互伊看見"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "个拯救"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.901820699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "設世界做曠野,拆毀伊的城,伊的囚犯無開監牢。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "設"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "做曠野"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "伊的城"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "伊的囚犯"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "監牢"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:01.925175996Z",
+  "model": "glm-5.3"
+}

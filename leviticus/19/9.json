@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "佇恁收刈⟨את⟩恁土地的收成的時,恁毋通刈甲盡恁田的角隅,嘛毋通去拾恁收成的落穗。",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "佇恁收刈…的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁土地的收成"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "收成"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "恁的土地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "刈甲盡"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "角隅"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "你的田"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "欲刈"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "落穗"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "你的收成"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "拾"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:45.779883199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你用氣力縛我束腰來相戰;你壓制攻擊我的人佇我下底。",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "你縛我束腰"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "來相戰"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "你壓制"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "攻擊我的人"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "佇我下底"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:21.982039151Z",
+  "model": "glm-5.3"
+}

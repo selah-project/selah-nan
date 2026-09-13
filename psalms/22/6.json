@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "𪜶向你呼叫,就逃脫;𪜶倚靠你,攏無見笑。",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "𪜶呼叫"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "就逃脫"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "𪜶倚靠"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "攏無"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "見笑"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:17.062335124Z",
+  "model": "glm-5.3"
+}

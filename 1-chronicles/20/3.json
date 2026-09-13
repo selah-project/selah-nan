@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 20:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣⟨את⟩城內的百姓,伊提出,用鋸仔、用鐵的耙、用斧頭切;大衛對亞捫人的後代所有的城攏按呢做。大衛佮所有的百姓倒轉去耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "城內的百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "提出"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "切"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "用鋸仔"
+    },
+    {
+      "surface": "ובחריצי",
+      "gloss": "用…耙"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "鐵的"
+    },
+    {
+      "surface": "ובמגרות",
+      "gloss": "用斧頭"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "攏按呢"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對所有的"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…人的後代"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:18.633561483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "雅威的受氣就對伊的子民燒起來,閣伊厭惡⟨את⟩伊的產業。",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "就燒起來"
+    },
+    {
+      "surface": "אף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "對伊的子民"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "閣伊厭惡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的產業"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "伊的產業"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:53.042020603Z",
+  "model": "glm-5.3"
+}

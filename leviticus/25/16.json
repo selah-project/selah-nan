@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 25:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "照年的濟,你著增加伊的買價;照年的少,你著減少伊的買價;因為伊是照收成的數賣予你。",
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "照"
+    },
+    {
+      "surface": "רב",
+      "gloss": "濟"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "你著增加"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "伊的買價"
+    },
+    {
+      "surface": "ולפי",
+      "gloss": "照"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "תמעיט",
+      "gloss": "你著減少"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "伊的買價"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "…的數"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "收成"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "賣"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:10.692725661Z",
+  "model": "glm-5.3"
+}

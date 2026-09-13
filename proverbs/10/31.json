@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "義人的喙會涌出智慧,講顛倒話的舌頭會被剪斷。",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "喙"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "涌出"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "佮舌頭"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "顛倒話"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "被剪斷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:35.813945502Z",
+  "model": "glm-5.3"
+}

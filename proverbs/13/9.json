@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "義人的光會歡喜,歹人的燈會熄。",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "會歡喜"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "的燈"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "會熄"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:55.928334450Z",
+  "model": "glm-5.3"
+}

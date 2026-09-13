@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅威的聲剖出火焰的火。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "剖出"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "火焰"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:50.333337876Z",
+  "model": "glm-5.3"
+}

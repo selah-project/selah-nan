@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "有人共大衛報⟨את⟩亞雅的查某囝、掃羅的細姨利茲帕所做的彼件代誌。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人報"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "共大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所做的彼件代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼件…的"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "做"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "利茲帕"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "איה",
+      "gloss": "亞雅"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "細姨"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-09-12T02:58:14.350875557Z",
+  "model": "glm-5.3"
+}

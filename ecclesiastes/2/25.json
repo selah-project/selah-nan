@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為啥人會當食?啥人會當享受?——離開我以外。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "會當食"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "會當享受"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "以外"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離開我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:35.139727935Z",
+  "model": "glm-5.3"
+}

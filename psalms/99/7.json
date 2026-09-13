@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 99,
+  "translation": "佇雲柱內伊對𪜶講話;𪜶謹守伊的法度,閣遵守伊賜予𪜶的律例。",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "佇…柱"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "伊講話"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "𪜶謹守"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "伊的法度"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "閣…律例"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "למו",
+      "gloss": "予𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:07.672378692Z",
+  "model": "glm-5.3"
+}

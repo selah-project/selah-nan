@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "閣我欲毀滅⟨את⟩帕特羅斯,閣放火佇瑣安,閣我欲行審判佇挪(底比斯)。",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "閣我欲毀滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帕特羅斯"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "帕特羅斯"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "閣我欲放"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "佇瑣安"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "閣我欲行"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "審判"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "佇挪"
+    }
+  ],
+  "timestamp": "2026-09-12T04:18:33.909511548Z",
+  "model": "glm-5.3"
+}

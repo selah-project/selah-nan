@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "當處女第二擺閣聚集的時,末底改坐佇王的門。",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "當…聚集"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "處女"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "第二擺"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "佮末底改"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇…的門"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:30.745540391Z",
+  "model": "glm-5.3"
+}

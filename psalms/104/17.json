@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "佇遐,鳥仔做岫;鸛鳥佇扁柏頂懸有伊的厝。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "做岫"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "鸛鳥"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "佇扁柏頂懸"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "伊的厝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:55.527140889Z",
+  "model": "glm-5.3"
+}

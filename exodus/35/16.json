@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "⟨את⟩ 燔祭的祭壇,佮 ⟨את⟩ 伊的銅網,就是伊所有的,⟨את⟩ 伊的槓仔,佮 ⟨את⟩ 伊一切的器具;⟨את⟩ 洗禮盆,佮 ⟨את⟩ 伊的座。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燔祭的祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的銅網"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "網"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "銅的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊所有的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的槓仔"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "伊的槓仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊一切的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的器具"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗禮盆"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗禮盆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的座"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "伊的座"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:24.892854022Z",
+  "model": "glm-5.3"
+}

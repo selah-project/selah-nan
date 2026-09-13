@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "就是𪜶對米茲拉因的王法老講話,欲帶⟨את⟩以色列的囝仔對米茲拉因出來彼个摩西佮亞倫。",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "講話…的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…的王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "欲帶…出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的囝仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:42.930188401Z",
+  "model": "glm-5.3"
+}

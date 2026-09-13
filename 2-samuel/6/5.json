@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "大衛佮以色列全家攏佇雅威面頭前奏樂,用各樣杉木做的樂器,用琴、用瑟、用鼓、用響枚佮用鈸。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "奏樂"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用各樣"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木做的"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "杉"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "用琴"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "用瑟"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "用鼓"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "用響枚"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "用鈸"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:01.656172274Z",
+  "model": "glm-5.3"
+}

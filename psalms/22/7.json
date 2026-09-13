@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我敢若是蟲,毋是人的;是人的譏誚,是眾人所看輕的。",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "我敢若是"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "蟲"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人的"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "所看輕的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "眾人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:17.062492301Z",
+  "model": "glm-5.3"
+}

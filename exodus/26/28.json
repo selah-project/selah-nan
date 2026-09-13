@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "彼中央的閂著佇壁板的中間,對一頭通過到彼一頭。",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "彼條閂"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "中央的"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "壁板"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "通過"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "一頭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "彼一頭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:24.105351047Z",
+  "model": "glm-5.3"
+}

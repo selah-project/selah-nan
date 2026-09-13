@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "安呢,你的粟倉會充滿豐盛,新的酒會對你的酒池迸出來。",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "會充滿"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "你的粟倉"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "豐盛"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "新的酒"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "你的酒池"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "會迸出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:33.459978829Z",
+  "model": "glm-5.3"
+}

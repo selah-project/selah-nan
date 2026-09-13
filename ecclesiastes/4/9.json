@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "兩个比一个卡好,因為𪜶佇勞碌中有好的報酬。",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "卡好"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "報酬"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "佇勞碌中"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:48.836246318Z",
+  "model": "glm-5.3"
+}

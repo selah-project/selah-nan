@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "米茲拉因(埃及)的王佇耶路撒冷共伊廢掉,閣罰⟨את⟩這個土地一百他連得銀仔佮一他連得金仔。",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "共伊廢掉"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "閣罰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這個土地"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "他連得"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "佮一他連得"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金仔"
+    }
+  ],
+  "timestamp": "2026-09-13T04:49:10.904500076Z",
+  "model": "glm-5.3"
+}

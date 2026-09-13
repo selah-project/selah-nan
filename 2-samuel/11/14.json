@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "隔轉早起,大衛寫一張批予約押,託烏利亞的手送去。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "隔轉早起"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "一張批"
+    },
+    {
+      "surface": "אל",
+      "gloss": "予"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "送去"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "託…的手"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:27.282142402Z",
+  "model": "glm-5.3"
+}

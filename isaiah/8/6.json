@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "因為這个人民棄絕⟨את⟩示羅阿的水——彼號恬恬流的——佮對⟨את⟩利汛佮利瑪利雅的子歡喜;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "棄絕"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "示羅阿的水"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "示羅阿"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "流的"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "恬恬"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "佮歡喜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "利汛"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "利汛"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "佮…的子"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "利瑪利雅"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:25.849344006Z",
+  "model": "glm-5.3"
+}

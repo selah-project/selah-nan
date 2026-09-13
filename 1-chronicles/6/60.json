@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣⟨את⟩戶割佮⟨את⟩𪜶的郊野,⟨את⟩利合佮⟨את⟩𪜶的郊野。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "戶割"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "戶割"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的郊野"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "𪜶的郊野"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "利合"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "利合"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的郊野"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "𪜶的郊野"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:28.650592129Z",
+  "model": "glm-5.3"
+}

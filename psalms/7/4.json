@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威,我的以羅欣啊,我若有做這個代誌,我的手內底若有不義,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我若有做"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這個代誌"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יש",
+      "gloss": "若有"
+    },
+    {
+      "surface": "עול",
+      "gloss": "不義"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "我的手內底"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:42.836658867Z",
+  "model": "glm-5.3"
+}

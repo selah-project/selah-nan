@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "地就搖撼閣震動,山的根基嘛攬袂牢、搖撼,因為伊受氣。",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "就搖撼"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "閣震動"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "的根基"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "震撼"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "搖撼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:55.958688665Z",
+  "model": "glm-5.3"
+}

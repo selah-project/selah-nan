@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "佇草棚內恁欲蹛七日;凡佇以色列本地生的,攏欲蹛佇草棚內。",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "佇草棚內"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "恁欲蹛"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡……攏"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "本地生的"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "𪜶欲蹛"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "佇草棚內"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:35.958742612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "互我佇早起聽著你的赫瑟德(堅愛),因為我倚靠你;互我知影我著行的路,因為我向你攑起我的性命。",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "互我聽著"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בך",
+      "gloss": "倚靠你"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "互我知影"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "זו",
+      "gloss": "彼條"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我著行"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "我攑起"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:13.955663587Z",
+  "model": "glm-5.3"
+}

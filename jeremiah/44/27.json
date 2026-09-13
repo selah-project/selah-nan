@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 44:27",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "看呵,我看守𪜶,為著歹,毋是為著好;佇米茲拉因地的猶大人攏欲用刀佮飢荒消滅,到𪜶消滅了為止。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看呵,我"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "看守(無睏)"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "為著歹"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "為著好"
+    },
+    {
+      "surface": "ותמו",
+      "gloss": "欲消滅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(每一)人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇…的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "佮飢荒"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "𪜶消滅了"
+    }
+  ],
+  "timestamp": "2026-09-12T04:04:25.967527086Z",
+  "model": "glm-5.3"
+}

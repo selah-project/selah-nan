@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "恁嘛是,古實人,會用我的刀劍刺死——就是𪜶。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛是"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "古實人"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "被刺死的"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "用我的刀劍"
+    },
+    {
+      "surface": "המה",
+      "gloss": "就是𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:53.746355039Z",
+  "model": "glm-5.3"
+}

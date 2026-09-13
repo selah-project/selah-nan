@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "祢設立大地攏總的疆界;夏天佮冬天,祢塑造了𪜶。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "祢"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "設立"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "疆界"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "夏天"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "佮冬天"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "祢"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "塑造了𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:07.700020944Z",
+  "model": "glm-5.3"
+}

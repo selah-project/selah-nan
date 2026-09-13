@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "阿多奈雅威賞賜我一個受教者的舌,會曉用一句話去扶助⟨את⟩疲倦的人;逐早起喚醒,逐早起喚醒我的耳,通親像受教者來聽。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "受教者的"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "會曉"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "扶助"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "疲倦的人"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "疲倦的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "喚醒"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "逐早起"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "逐早起"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "喚醒"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "來聽"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "親像受教者"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:51.182400316Z",
+  "model": "glm-5.3"
+}

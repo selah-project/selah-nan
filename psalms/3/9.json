@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威有救恩,祢的祝福佇祢的百姓身上。細拉。",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "救恩"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…身上"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "祢的百姓"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "祢的祝福"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:10.824943736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "法拉斯(波斯)、庫施(古實)佮普特⟨את⟩佮𪜶做伙;𪜶攏捧盾牌佮頭盔。",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "法拉斯(波斯)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "庫施(古實)"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "佮普特"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩佮𪜶",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "捧盾牌"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "佮頭盔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:42.105247538Z",
+  "model": "glm-5.3"
+}

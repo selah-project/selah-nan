@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣遮是伊坦之父的:以茲列、伊施瑪、伊德巴施;𪜶小妹的名叫哈茲列朋妮。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣遮是"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "父"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "伊坦"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "以茲列"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "佮伊施瑪"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "佮伊德巴施"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮名"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "𪜶的小妹"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "哈茲列朋妮"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:52.877113028Z",
+  "model": "glm-5.3"
+}

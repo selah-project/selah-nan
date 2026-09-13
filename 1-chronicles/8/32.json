@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "米克羅得生⟨את⟩示瑪;𪜶嘛對𪜶兄弟的面前,佮𪜮兄弟徛做夥,徛佇耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "米克羅得"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "示瑪"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "示瑪"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "對…的面前"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "𪜮兄弟"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "徛做夥徛"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "𪜮兄弟"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:54.732932896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "王所羅門閣佇以旬迦別造船隊,彼位倚⟨את⟩以祿,佇以東地、蘆葦海的岸邊。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "閣船隊"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "佇以旬"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "迦別"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以祿"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "以祿"
+    },
+    {
+      "surface": "על",
+      "gloss": "倚"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "岸"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:11.576507187Z",
+  "model": "glm-5.3"
+}

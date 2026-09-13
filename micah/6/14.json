@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你欲食,亦袂飽;你的空虛佇你的腹內;你欲掠,亦袂救出;你救出來的,我欲互伊去刀劍。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "亦袂"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "飽"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "你的空虛"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "佇你的腹內"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "欲掠"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "亦袂"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "救出"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "你救出來"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "去刀劍"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲互伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:16.851280424Z",
+  "model": "glm-5.3"
+}

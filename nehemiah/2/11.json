@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我就來到耶路撒冷,佇遐徛三工。",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "我就來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "我徛佇"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "工"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    }
+  ],
+  "timestamp": "2026-09-12T05:54:26.854359512Z",
+  "model": "glm-5.3"
+}

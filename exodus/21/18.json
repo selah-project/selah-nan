@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "若有人相爭,一个摃⟨את⟩伊的同伴,用石頭抑是用拳頭,伊無死,顛倒倒佇眠床,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "摃"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的同伴"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "用石頭"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "用拳頭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "顛倒倒"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "佇眠床"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:47.915995278Z",
+  "model": "glm-5.3"
+}

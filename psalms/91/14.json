@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "因為伊戀慕我,所以我欲救伊;我欲互伊徛懸,因為伊識我的名。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "伊戀慕"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "所以我欲救伊"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "我欲互伊徛懸"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "伊識"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:32.673800602Z",
+  "model": "glm-5.3"
+}

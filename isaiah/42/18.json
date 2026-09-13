@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "恁聾的,著聽!恁青瞑的,著看,來看見!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "聾的"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "恁青瞑的"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "著看"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "來看見"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:04.995636622Z",
+  "model": "glm-5.3"
+}

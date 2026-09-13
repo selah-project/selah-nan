@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "對喧嘩的聲,諸族群攏逃走;對你的高升,列邦攏四散。",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "המון",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "攏逃走"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "諸族群"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "對你的高升"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "攏四散"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列邦"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:18.489156007Z",
+  "model": "glm-5.3"
+}

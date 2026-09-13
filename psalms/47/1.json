@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "互指揮的人;可拉的子孫的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮的人"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:09.189876043Z",
+  "model": "glm-5.3"
+}

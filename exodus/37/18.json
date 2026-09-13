@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 37:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "閣有六枝對伊的兩爿伸出來;燈台的三枝枝仔對伊的一爿,閣三枝燈台的枝仔對伊的第二爿。",
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "閣有六"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "枝仔"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "伸出來"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "對伊的兩爿"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "קני",
+      "gloss": "枝"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "燈台"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "對伊的爿"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "閣三"
+    },
+    {
+      "surface": "קני",
+      "gloss": "枝"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "燈台"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "對伊的爿"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:25.721166232Z",
+  "model": "glm-5.3"
+}

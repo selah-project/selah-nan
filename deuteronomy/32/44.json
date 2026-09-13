@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "摩西就來,佮何西阿、嫩的後生,佇百姓的耳仔邊講⟨את⟩這首歌全部的話。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "就來"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這首歌全部的話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部的"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "這首歌"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "佇……的耳仔邊"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "佮何西阿"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……的後生"
+    },
+    {
+      "surface": "נון",
+      "gloss": "嫩"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:21.359231546Z",
+  "model": "glm-5.3"
+}

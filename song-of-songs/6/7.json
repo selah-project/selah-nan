@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "親像石榴的一爿,你的太陽穴佇你的面紗後壁。",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "親像一爿"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "石榴"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "你的太陽穴"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "對…後壁"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "你的面紗"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:37.579433815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "到彼日,我欲應答 —— 雅威的諭言 —— 我欲應答⟨את⟩諸天,𪜶欲應答⟨את⟩土地。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "到彼日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "我欲應答"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "諭言"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "我欲應答"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "והם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "欲應答"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:01.240723334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊的喙舌無毀謗,伊無對伊的朋友做歹,伊無對伊的親近者抬--起侮辱;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "毀謗"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "伊的喙舌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "對伊的朋友"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "佮侮辱"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "抬--起"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "伊的親近者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:06.745016952Z",
+  "model": "glm-5.3"
+}

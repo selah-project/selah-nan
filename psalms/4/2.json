@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "當我哀叫的時,應我,公義的以羅欣啊;佇患難中你曾替我開闊;施恩互我,聽我的祈禱。",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "當我哀叫的時"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應我"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "你曾開闊"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "施恩互我"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:16.084262905Z",
+  "model": "glm-5.3"
+}

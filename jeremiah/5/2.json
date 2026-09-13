@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雖然𪜶講:「雅威活--著」,其實𪜶是對謊誓願。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "雖然"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活--著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "其實"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "對謊"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "誓願"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:00.833587218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "雅威,阮的阿多奈啊,祢的名佇歸個地上偌呢威嚴!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "阮的阿多奈"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌呢"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "祢的名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇歸個"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:58.101665352Z",
+  "model": "glm-5.3"
+}

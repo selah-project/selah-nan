@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣彼个燒 ⟨את⟩ 母牛的人,愛用水洗伊的衫,佮用水洗伊的身軀,嘛無清氣到暗。",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "閣彼个燒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "母牛"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "愛洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "במים",
+      "gloss": "用水"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "佮……洗"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的身軀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "用水"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "嘛無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:29.206809482Z",
+  "model": "glm-5.3"
+}

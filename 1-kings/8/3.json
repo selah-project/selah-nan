@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "以色列的長老攏來到,祭司就扛⟨את⟩約櫃。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "扛"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約櫃"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "約櫃"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:13.977606866Z",
+  "model": "glm-5.3"
+}

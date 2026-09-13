@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣⟨את⟩哈多蘭、⟨את⟩烏薩、⟨את⟩迪克拉。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈多蘭"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "哈多蘭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "烏薩"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "烏薩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "迪克拉"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "迪克拉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:40.356476561Z",
+  "model": "glm-5.3"
+}

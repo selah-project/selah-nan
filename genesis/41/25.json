@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "約瑟對法老講:「法老的夢是一個:⟨את⟩ 以羅欣咧做的代誌,伊已經顯明予法老矣。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣咧做的代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "咧做"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "予法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:01.753353767Z",
+  "model": "glm-5.3"
+}

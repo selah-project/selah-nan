@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "我吼到疲倦矣,我的喉嚨燒焦去,我的目睭看無去,因為向望我的以羅欣。",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "我疲倦"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "吼到"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "燒焦去"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "我的喉嚨"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "看無去"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "因為向望"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:50.032314395Z",
+  "model": "glm-5.3"
+}

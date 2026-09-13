@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "恁來欲看我的面,啥人對恁的手討這个——來踐踏我的院仔?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "恁來"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "討"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "對恁的手"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "踐踏"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "我的院仔"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:15.303355109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威,我的以羅欣啊,我投靠佇你;救我脫離逐個追我的,救援我。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我投靠"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離逐個"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "追我的"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "救援我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:10.920936446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣有棚欲做日時的蔭影、避暑熱,做避難所、做匿遮,避暴風佮避落雨。",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "閣有棚"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "做蔭影"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "避暑熱"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "以及做避難所"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "以及做匿遮"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "避暴風"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "佮避落雨"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:11.039236412Z",
+  "model": "glm-5.3"
+}

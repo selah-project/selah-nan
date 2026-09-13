@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "你的後代就會親像沙,你腹內出的子孫親像伊的沙粒;伊的名袂被剪斷,嘛袂對我面前滅無。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就會"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "親像沙"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的後代"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "…出的子孫"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "你腹內"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "親像伊的沙粒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "被剪斷"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛袂"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "對我面前"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:27.785375883Z",
+  "model": "glm-5.3"
+}

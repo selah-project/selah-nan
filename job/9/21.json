@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "完全無辜个是我,我毋知家己的性命;我嫌棄我的活命。",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "完全無辜"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "嫌棄"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我的活命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:24.220868239Z",
+  "model": "glm-5.3"
+}

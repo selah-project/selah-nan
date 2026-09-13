@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "雅各交代⟨את⟩伊的眾子了後，就共伊的雙腳收入眠床，斷氣矣，佮伊的百姓做伙收聚。",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "了後"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "交代"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的眾子"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的眾子"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "收入"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的雙腳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "眠床"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "斷氣矣"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "收聚"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佮…做伙"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "伊的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:52.349352068Z",
+  "model": "glm-5.3"
+}

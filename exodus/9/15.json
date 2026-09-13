@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為這馬我伸出⟨את⟩我的手,用瘟疫拍⟨את⟩你佮⟨את⟩你的百姓,你就對地上消滅無去啊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我伸出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "就拍"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩你"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你的百姓"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "用瘟疫"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "你就消滅無去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:36.901123883Z",
+  "model": "glm-5.3"
+}

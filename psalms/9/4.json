@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇我的對敵倒退的時,𪜶絆跌,對你的面滅亡。",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "佇……倒退的時"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "倒退"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "𪜶絆跌"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "就滅亡"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "對你的面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:53.595971061Z",
+  "model": "glm-5.3"
+}

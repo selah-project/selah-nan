@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "因為伊的官長已經佇瑣安,伊的使者到達哈內斯。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היו",
+      "gloss": "已經佇"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "瑣安"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "伊的官長"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "伊的使者"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "哈內斯"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "到達"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:50.536396824Z",
+  "model": "glm-5.3"
+}

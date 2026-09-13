@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "惡人佇伊的驕傲內迫害困苦的人;願𪜶掠著佇𪜶所圖謀的計謀內。",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "佇……的驕傲內"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "迫害"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦的人"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "願𪜶掠著"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "佇……的計謀內"
+    },
+    {
+      "surface": "זו",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "𪜶所圖謀的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:46.641073843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "𪜶欲縖麻布衣,驚惶欲遮⟨את⟩𪜶;見笑欲佇逐張面頂,禿頭欲佇𪜶攏總的頭殼。",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "𪜶欲縖"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "麻布衣"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "欲遮"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "張面"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "佮佇攏總"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "𪜶的頭殼"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "禿頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:25.995194432Z",
+  "model": "glm-5.3"
+}

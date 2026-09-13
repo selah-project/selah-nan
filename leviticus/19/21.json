@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊欲帶⟨את⟩伊的贖愆祭到雅威遮,到會幕的門口,一隻公羊做贖愆祭。",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "伊欲帶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的贖愆祭"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "伊的贖愆祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "到雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "איל",
+      "gloss": "一隻公羊"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "贖愆祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:57.561563684Z",
+  "model": "glm-5.3"
+}

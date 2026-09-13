@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "希斯崙生⟨את⟩蘭；蘭生⟨את⟩亞米拿達。",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "閣希斯崙"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "蘭"
+    },
+    {
+      "surface": "רם",
+      "gloss": "蘭"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "閣蘭"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞米拿達"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "亞米拿達"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:56.076104176Z",
+  "model": "glm-5.3"
+}

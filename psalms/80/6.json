@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "你飼𪜶食目屎做餅,閣用目屎啉𪜶,滿滿三份。",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "你飼𪜶食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "目屎"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "閣你啉𪜶"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "用目屎"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "三份"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:28.831047294Z",
+  "model": "glm-5.3"
+}

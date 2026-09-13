@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "因為雅威的手中有一个杯,酒咧發沫,滿滿是調合的香料,伊對彼個斟出來;的確,伊的酒渣,地上攏總的歹人會榨出來、飲落去。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "的手中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "咧發沫"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "調合的香料"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "伊斟出來"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "對彼個"
+    },
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "伊的酒渣"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "會榨出來"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "飲落去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:26.888687231Z",
+  "model": "glm-5.3"
+}

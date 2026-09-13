@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "獨獨我,雅威啊,我對你喉叫;透早我的祈禱欲代先迎接你。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "獨獨我"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "我喉叫"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "佇透早"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "欲代先迎接你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:23.613004461Z",
+  "model": "glm-5.3"
+}

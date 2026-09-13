@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "求祢差祢的光佮祢的真理出去,⟨祂⟩欲引導我,帶我到祢的聖山,到祢的居所。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "求祢差…出去"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "祢的光"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "佮祢的真理"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨祂⟩"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "引導我"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "帶我到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "祢的聖"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮到"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "祢的居所"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:11.756468192Z",
+  "model": "glm-5.3"
+}

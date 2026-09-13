@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "彼時你的光會親像天光按呢破裂出來,你的醫好會緊緊發芽;你的公義會行佇你面前,雅威的榮光會做你的後衛。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "會破裂出來"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "親像天光"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "你的光"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "你的醫好"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "緊緊"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "會發芽"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "會行"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "你的公義"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "會做你的後衛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:59.863862971Z",
+  "model": "glm-5.3"
+}

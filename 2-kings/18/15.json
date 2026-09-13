@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "希西家就獻出⟨את⟩雅威殿內所尋著的全部的銀,佮王宮庫房內的。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "就獻出"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部的銀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "的銀"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "所尋著的"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "佮…庫房"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:28.607513111Z",
+  "model": "glm-5.3"
+}

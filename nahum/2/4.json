@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 2:4",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊的勇士的盾牌攏漉紅,武士穿深紅衫;戰車佇伊準備的日閃熾,親像火、親像火柱,松木的矛攏咧揮舞。",
+  "tokens": [
+    {
+      "surface": "מגן",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "גבריהו",
+      "gloss": "伊的勇士"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "漉紅"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "武士"
+    },
+    {
+      "surface": "מתלעים",
+      "gloss": "穿深紅"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火"
+    },
+    {
+      "surface": "פלדות",
+      "gloss": "火柱"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "伊準備"
+    },
+    {
+      "surface": "והברשים",
+      "gloss": "佮松木"
+    },
+    {
+      "surface": "הרעלו",
+      "gloss": "揮舞"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:23.093173373Z",
+  "model": "glm-5.3"
+}

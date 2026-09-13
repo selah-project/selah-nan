@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊就對亞伯拉罕講:「共這個婢女佮⟨את⟩伊的子趕出去,因為這個婢女的子毋會當佮我的子、佮以撒同齊承受產業。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "對亞伯拉罕"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "趕出去"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的子"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "承受產業"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮…同齊"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的子"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:18.337950751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣⟨את⟩兩粒腎,佮⟨את⟩頂面的油,就是佇腰子邊的,閣⟨את⟩肝頂面的網油,佇腎的頂面,伊欲提掉伊。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "兩粒腎"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩粒"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼个油"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "彼个油"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "腰子邊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "網油"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "網油"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腎"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "伊欲提掉伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:38.671113047Z",
+  "model": "glm-5.3"
+}

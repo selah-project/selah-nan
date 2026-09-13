@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若毋是,我就無相信會看著雅威的好,佇活人的地。",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "若毋是"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "我就無相信"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "會看著"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇……的地"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:34.992531597Z",
+  "model": "glm-5.3"
+}

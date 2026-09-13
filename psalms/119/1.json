@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "行路完全的人有福氣,𪜶行佇雅威的妥拉內。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "完全"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "行(的人)"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "佇…妥拉內"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:18.143092670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "判𪜶有罪,以羅欣啊;互𪜶對𪜶自己的計謀倒落;佇𪜶過犯的多,趕逐𪜶,因為𪜶悖逆你。",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "判𪜶有罪"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "互𪜶倒落"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "對𪜶的計謀"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "佇……的多"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "𪜶的過犯"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "趕逐𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "𪜶悖逆"
+    },
+    {
+      "surface": "בך",
+      "gloss": "對抗你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:34.822334067Z",
+  "model": "glm-5.3"
+}

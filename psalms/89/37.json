@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "伊的後裔會佇咧到永遠,伊的寶座親像日頭徛佇我面前。",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "伊的後裔"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會佇咧"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "閣伊的寶座"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "親像日頭"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "徛佇我面前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:13.849325691Z",
+  "model": "glm-5.3"
+}

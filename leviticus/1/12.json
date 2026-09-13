@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣伊愛將⟨את⟩伊切做伊的幾若塊,連⟨את⟩伊的頭佮⟨את⟩伊的板油;祭司愛將⟨את⟩遮个排佇柴頂——彼个佇火頂的、佇壇頂的。",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "閣愛切做"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "伊的幾若塊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的頭"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的板油"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "伊的板油"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "閣排"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "遮个"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "柴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個…的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個…的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:46.199913881Z",
+  "model": "glm-5.3"
+}

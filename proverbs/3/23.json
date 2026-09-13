@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "到時你行你的路會安穩,你的跤也袂絆著。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "到時"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "你行"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "會安穩"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的路"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "你的跤"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "絆著"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:17.436672260Z",
+  "model": "glm-5.3"
+}

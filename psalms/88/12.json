@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "你的赫瑟德敢會佇墳墓內講予人聽?你的信實敢會佇亞巴頓?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "敢會講予人聽"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "佇墳墓內"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "佇亞巴頓"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:01.915976351Z",
+  "model": "glm-5.3"
+}

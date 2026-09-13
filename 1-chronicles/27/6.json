@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "這个比拿雅是三十个勇士中的一个，閣做大過彼三十个；伊的班由伊的後生亞米撒拔掌管。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "這个"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "比拿雅"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "彼三十个"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣做…頂面"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "彼三十个"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "伊的班"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "亞米撒拔"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:01.856817100Z",
+  "model": "glm-5.3"
+}

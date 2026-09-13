@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "因為地基攏予人毀壞矣,義人有啥物通做的?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "地基"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "攏毀壞矣"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "做"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:00.730247157Z",
+  "model": "glm-5.3"
+}

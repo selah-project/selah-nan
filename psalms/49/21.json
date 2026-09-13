@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "人佇尊貴，毋捌明白，就親像精牲滅無去。",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "佇尊貴"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋捌"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "明白"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "親像"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "精牲"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "滅無去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:14.100728966Z",
+  "model": "glm-5.3"
+}

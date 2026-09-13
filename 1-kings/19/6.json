@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊看,看著佇伊的頭殼邊有一個燒石烤的餅,閣一罋水;伊就食,飲,了後倒轉去閣倒落睏。",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看著"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "佇伊的頭殼邊"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "餅"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "燒石烤的"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "閣一罋"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "飲"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "倒落睏"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:49.054261531Z",
+  "model": "glm-5.3"
+}

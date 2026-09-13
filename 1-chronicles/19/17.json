@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "有人去共大衛講,大衛就聚集⟨את⟩以色列眾人,過約但河,來到𪜶遐,對𪜶排陣;大衛排陣欲對亞蘭相刣,𪜶就佮伊相刣。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "去共大衛講"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "共大衛"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "就聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列眾人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "過"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約但河"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "𪜶遐"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "對𪜶排陣"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "排陣"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "欲對"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "相刣"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "𪜶就相刣"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:28.785298085Z",
+  "model": "glm-5.3"
+}

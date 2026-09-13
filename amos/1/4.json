@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我欲差火入去哈薛的家,伊欲燒掉便哈達的宮殿。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "入去……的家"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "伊欲燒掉"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "בן",
+      "gloss": "便"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:00.538508911Z",
+  "model": "glm-5.3"
+}

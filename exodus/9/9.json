@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 9:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "彼个欲變做粉塵,佇米茲拉因(埃及)全地,閣欲佇人身上佮牲畜身上變做發出膿皰个瘡,佇米茲拉因全地。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "閣欲變做"
+    },
+    {
+      "surface": "לאבק",
+      "gloss": "做粉塵"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因个"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "閣欲變做"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮佇…頂"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "לשחין",
+      "gloss": "做瘡"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "發出"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "膿皰"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:08.920341588Z",
+  "model": "glm-5.3"
+}

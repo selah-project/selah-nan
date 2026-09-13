@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "祭司欲用伊的指頭仔提淡少仔伊的血,點佇燒祭壇的角仔頂,閣⟨את⟩伊全部的血著攑去倒佇壇的基座。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "對伊的血"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "用伊的指頭仔"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "點"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "角仔"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊全部的血"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "倒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "基座"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "彼个壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:50.812216510Z",
+  "model": "glm-5.3"
+}

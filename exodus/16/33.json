@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 16:33",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "摩西對亞倫講:「提罐仔一个,佇彼下嗎哪滿滿一俄梅珥,閣下伊⟨את⟩佇雅威面前,做保存,給恁的世代。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קח",
+      "gloss": "提"
+    },
+    {
+      "surface": "צנצנת",
+      "gloss": "罐仔"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "ותן",
+      "gloss": "閣下"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "佇彼"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "彼俄梅珥"
+    },
+    {
+      "surface": "מן",
+      "gloss": "嗎哪"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "閣下"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(彼罐嗎哪)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "做保存"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "給恁的世代"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:12.908366073Z",
+  "model": "glm-5.3"
+}

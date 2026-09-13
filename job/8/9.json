@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "(因為阮是昨日的,啥物嘛毋捌,因為阮佇地上的日子是影。)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "昨日的"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "捌"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צל",
+      "gloss": "影"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "日子"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇……上"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:12.946124604Z",
+  "model": "glm-5.3"
+}

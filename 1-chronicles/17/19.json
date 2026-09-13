@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "雅威啊,為著你奴僕的緣故,閣照你的心,你做成⟨את⟩這一切的大事,予人知影⟨את⟩這一切的偉大。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "為著…的緣故"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你奴僕"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "閣照你的心"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你做成"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切的大事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大事"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "予人知影"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切的偉大"
+    },
+    {
+      "surface": "כל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "偉大"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:22.781625997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "頂面用香柏蓋仔,佇彼的側間頂,彼的四十五枝柱,一排十五枝。",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "蓋仔"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "用香柏"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "對頂面"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "彼的側間"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "彼的柱"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "彼一排"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:53.275581845Z",
+  "model": "glm-5.3"
+}

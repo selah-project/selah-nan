@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我若做歹,害矣,是我;我若行義,嘛袂當夯頭;恥辱飽滿,一直看著我的苦難。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "我做歹"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "害矣"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是我"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "我行義"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "我夯"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "飽滿"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "恥辱"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "一直看著"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "我的苦難"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:43.936558910Z",
+  "model": "glm-5.3"
+}

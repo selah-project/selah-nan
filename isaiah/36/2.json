@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 36:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "亞述王對拉吉差遣⟨את⟩拉伯沙基去耶路撒冷,到希西家王遐,用大的軍隊;伊徛佇上池的水溝邊,佇洗衣人的田的路。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉伯沙基"
+    },
+    {
+      "surface": "רב",
+      "gloss": "拉伯"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "沙基"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "從拉吉"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "去耶路撒冷"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "用軍隊"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "伊徛"
+    },
+    {
+      "surface": "בתעלת",
+      "gloss": "佇水溝"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "池"
+    },
+    {
+      "surface": "העליונה",
+      "gloss": "上"
+    },
+    {
+      "surface": "במסלת",
+      "gloss": "佇路"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "洗衣人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:30.187386080Z",
+  "model": "glm-5.3"
+}

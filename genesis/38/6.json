@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "猶大替珥——伊的頭生子——娶某,彼個某的名叫她瑪。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "某"
+    },
+    {
+      "surface": "לער",
+      "gloss": "替珥"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "伊的頭生子"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "她瑪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:28.771248330Z",
+  "model": "glm-5.3"
+}

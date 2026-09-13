@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "因為伊欲搶救哀求的窮困人,嘛救無人鬥相共的艱苦人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "欲搶救"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "窮困人"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "哀求的"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "嘛…艱苦人"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "鬥相共的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:39.643011944Z",
+  "model": "glm-5.3"
+}

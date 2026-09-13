@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "底波拉,一個查某先知,是拉比多的某,彼時陣伊審判⟨את⟩以色列。",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "底波拉"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一個查某"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "先知"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "的某"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "拉比多"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…的時陣"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:00.171928592Z",
+  "model": "glm-5.3"
+}

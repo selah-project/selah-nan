@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "佇我的面頭前,你毋通有別个以羅欣。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別个"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:16.046588110Z",
+  "model": "glm-5.3"
+}

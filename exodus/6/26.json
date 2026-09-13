@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "就是亞倫佮摩西,雅威曾對𪜶講:「恁愛帶⟨את⟩以色列的囝仔對米茲拉因(埃及)的地出去,照𪜶的軍隊。」",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "佮摩西"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "恁愛帶…出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的囝仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "𪜶的軍隊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:42.929742179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "無策略,百姓會倒;謀士濟,就有救助。",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "無"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "策略"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "倒"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "救助"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "佇濟"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "謀士"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:21.496471315Z",
+  "model": "glm-5.3"
+}

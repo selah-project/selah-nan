@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "互𪜶的頭人親像俄立、親像西伊伯,閣親像西巴、親像撒慕拿,𪜶所有的首領攏按呢;",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "互"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "𪜶的頭人"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "親像俄立"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "閣親像西伊伯"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "閣親像西巴"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "閣親像撒慕拿"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的…攏"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "𪜶的首領"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:58.556092373Z",
+  "model": "glm-5.3"
+}

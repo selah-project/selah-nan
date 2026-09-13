@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 46:2",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "君王欲對門廊外爿彼條路入去,徛佇門框邊,祭司欲獻⟨את⟩伊的燒祭佮⟨את⟩伊的平安祭;伊欲佇門檻彼位跪拜,了後出去,門毋通關,到暗為止。",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "君王"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "對彼條路"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "門廊"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外爿"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "門框"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "欲獻"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的燒祭"
+    },
+    {
+      "surface": "עולתו",
+      "gloss": "伊的燒祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的平安祭"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "伊的平安祭"
+    },
+    {
+      "surface": "והשתחוה",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "門檻"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "והשער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "關"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗"
+    }
+  ],
+  "timestamp": "2026-09-12T04:25:26.305272573Z",
+  "model": "glm-5.3"
+}

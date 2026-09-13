@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 18:23",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊講:「無論按呢,我嘛欲走。」約押就講:「你走。」亞希瑪斯就走平原彼條路,越過 ⟨את⟩ 彼个古實人。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "無論"
+    },
+    {
+      "surface": "מה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "我欲走"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "你走"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "就走"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "亞希瑪斯"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "平原"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "越過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个古實人"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "彼个古實人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:14.295503677Z",
+  "model": "glm-5.3"
+}

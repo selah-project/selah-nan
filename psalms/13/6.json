@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "獨我倚靠你的赫瑟德;我的心欲佇你的救恩歡喜;我欲唱歌予雅威,因為伊厚待我。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "獨我"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "佇你的救恩"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我唱歌"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "厚待"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:58.630329315Z",
+  "model": "glm-5.3"
+}

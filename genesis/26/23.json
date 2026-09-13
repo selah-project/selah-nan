@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "伊對遐上去別是巴。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "伊上去"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "באר",
+      "gloss": "別是巴(頭一字)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "別是巴(後一字)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:12.969365065Z",
+  "model": "glm-5.3"
+}

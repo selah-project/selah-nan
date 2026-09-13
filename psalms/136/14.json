@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "閣使以色列對伊的中間行過:因為伊的赫瑟德到永遠。",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "閣使…行過"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "對伊的中間"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:23.597783757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "坐陣佮⟨את⟩我做伙,毋通驚;因為彼個追掠⟨את⟩我性命的,嘛欲追掠⟨את⟩你性命;因為你佮我徛做伙,受看守。",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "坐陣"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "佮⟨את⟩我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個…的"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "追掠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的性命"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "追掠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的性命"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "受看守"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "佮我"
+    }
+  ],
+  "timestamp": "2026-09-13T06:29:26.791960733Z",
+  "model": "glm-5.3"
+}

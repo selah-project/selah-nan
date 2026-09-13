@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "大衛个米茲摩爾。雅威个是土地佮伊个充滿,世界佮徛佇伊內底个人。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛个"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "米茲摩爾"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威个是"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "佮伊个充滿"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "佮徛佇伊內底个人"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊內底"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:09.365701157Z",
+  "model": "glm-5.3"
+}

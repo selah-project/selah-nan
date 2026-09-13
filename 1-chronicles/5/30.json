@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以利亞撒生⟨את⟩非尼哈;非尼哈生⟨את⟩亞比書亞。",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非尼哈"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "非尼哈"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "非尼哈"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比書亞"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "亞比書亞"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:36.222436961Z",
+  "model": "glm-5.3"
+}

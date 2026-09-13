@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣,汝著下⟨את⟩燒香用的金壇佇見證櫃的面頭前,亦著下⟨את⟩帳幕門口的簾仔。",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "汝著下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燒香用的金壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "為著燒香"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "見證的"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "亦著下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳幕門口的簾仔"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "簾仔"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "帳幕的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:54.911380118Z",
+  "model": "glm-5.3"
+}

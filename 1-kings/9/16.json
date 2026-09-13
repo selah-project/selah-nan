@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "埃及王法老上去,攻取⟨את⟩基色,用火燒伊,閣殺死⟨את⟩踮彼个城市咧住的迦南人,就共伊做聘禮送予伊的女兒、所羅門的某。",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "攻取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基色"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "基色"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "燒伊"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "踮彼个城市的迦南人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "咧住"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "踮城市"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "殺死"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "送伊"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "做聘禮"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "予伊的女兒"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:19.047001239Z",
+  "model": "glm-5.3"
+}

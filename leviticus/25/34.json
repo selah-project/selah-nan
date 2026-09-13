@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "抑是𪜶城外圍的草埔地毋通賣,因為彼是𪜶永遠的產業。",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "抑是…的地"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "外圍草埔地"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "𪜶的城"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "賣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "產業"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼⟨是⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:01.579285299Z",
+  "model": "glm-5.3"
+}

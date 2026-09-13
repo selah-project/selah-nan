@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "歹人窺伺義人,閣愛共伊害死。",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "窺伺"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "閣愛"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "共伊害死"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:09.927347436Z",
+  "model": "glm-5.3"
+}

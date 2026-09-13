@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "暴虐的見證人起來,問阮阮毋捌知的代誌。",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "起來"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "見證人"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴虐的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼項"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "阮捌知"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "問阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:09.305541285Z",
+  "model": "glm-5.3"
+}

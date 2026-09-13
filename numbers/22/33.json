@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 22:33",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "母驢看見我,就佇我面前閃開這三擺;若無伊對我面前閃開,這陣我就連你⟨את⟩嘛殺死,獨獨留⟨את⟩伊活命。」",
+  "tokens": [
+    {
+      "surface": "ותראני",
+      "gloss": "看見我"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "母驢"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "閃開"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "若無"
+    },
+    {
+      "surface": "נטתה",
+      "gloss": "閃開"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對我面前"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩你",
+      "marks": "你嘛殺死"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "殺死"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "獨獨留⟨את⟩伊",
+      "marks": "伊活命"
+    },
+    {
+      "surface": "החייתי",
+      "gloss": "活命"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:49.451625719Z",
+  "model": "glm-5.3"
+}

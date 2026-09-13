@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊賞雪親像羊仔毛,撒霜親像灰,伊四界撥散。",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "伊賞"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "雪"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "親像羊仔毛"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "撒霜"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "親像灰"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "伊四界撥散"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:29.275387429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "行赫瑟德(慈愛)到千代,予疼我的人、保守我誡命的人。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德(慈愛)"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "到千代"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "予疼我的人"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "佮保守"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "我誡命的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:58.448734710Z",
+  "model": "glm-5.3"
+}

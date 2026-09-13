@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊差伊的話,冰就熔化;伊互伊的風吹起,水就流出。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "伊差"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "就熔化"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "伊互…吹起"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "伊的風"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "就流出"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:31.005289884Z",
+  "model": "glm-5.3"
+}

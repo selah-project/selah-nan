@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "這馬,阮的老父擔沉重的軛佇恁身上,我欲閣加上去恁的軛;阮的老父用鞭仔責恁⟨את⟩,我用蠍仔。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的老父"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "擔…佇"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "恁身上"
+    },
+    {
+      "surface": "על",
+      "gloss": "軛"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "沉重"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "欲閣加"
+    },
+    {
+      "surface": "על",
+      "gloss": "上去"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "恁的軛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的老父"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "責"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "用鞭仔"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "用蠍仔"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:54.863704808Z",
+  "model": "glm-5.3"
+}

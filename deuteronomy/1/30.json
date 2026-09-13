@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威恁的以羅欣行佇恁頭前的,是伊替恁出力相刣,照伊佇埃及為著恁⟨את⟩所行的一切,佇恁的目睭前。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "行佇頭前的"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "佇恁頭前"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是伊"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "替恁相刣"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為著恁"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行的"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇埃及"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "佇恁的目睭前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:50.982281003Z",
+  "model": "glm-5.3"
+}

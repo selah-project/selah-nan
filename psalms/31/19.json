@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "願講白賊的嘴變啞,彼個對義人用傲慢佮藐視講莽撞話的。",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "願…變啞"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "…的嘴"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "講白賊的"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "講"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "莽撞話"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "用傲慢"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "佮藐視"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:06.818726792Z",
+  "model": "glm-5.3"
+}

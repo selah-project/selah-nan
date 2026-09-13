@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "若是伊的祭物對羊群來,做平安祭互雅威——公的抑是母的,無殘缺的,伊才會使獻。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "伊的祭物"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "做祭"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公的"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "母的"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "無殘缺的"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "伊才會使獻"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:32.851683988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 87,
+  "translation": "雅威疼錫安的城門,勝過雅百搭的全部居所。",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "…的城門"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "勝過全部"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "居所"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:13.404182091Z",
+  "model": "glm-5.3"
+}

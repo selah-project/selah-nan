@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "雅威啊,我欲懸懸舉你,因為你共我拉起來,亦無互我的對敵對我歡喜。",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "我欲懸懸舉你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "你共我拉起來"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "亦無"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "互…歡喜"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:24.436103405Z",
+  "model": "glm-5.3"
+}

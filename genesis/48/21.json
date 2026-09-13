@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "以色列對約瑟講:「你看,我欲死矣,以羅欣欲佮恁佇咧,閣欲𨑨回恁⟨את⟩到恁列祖的地。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "閣欲"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁佇咧"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "閣欲𨑨回"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "恁列祖的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:21.989555493Z",
+  "model": "glm-5.3"
+}

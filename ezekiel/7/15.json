@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "刀劍佇外面,瘟疫佮饑荒對內底來;佇田裡的人欲互刀劍刣死,佇城裡的人,饑荒佮瘟疫欲吞食伊。",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "佇外面"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "佮瘟疫"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "佮饑荒"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對內底來"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡的人"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "互刀劍"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮…的"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城裡的人"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "佮瘟疫"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "欲吞食伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:47.768429214Z",
+  "model": "glm-5.3"
+}

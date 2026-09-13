@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "以羅欣啊,互阮越轉來,互你的面發光,阮就會得救!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "互阮越轉來"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "互…發光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "阮就會得救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:22.680015012Z",
+  "model": "glm-5.3"
+}

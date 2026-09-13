@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "諸王的軍隊走走咧走,伊及留佇厝內的查某人掠物。",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "走走咧走"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "走走咧走"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "及留佇"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "查某人分"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "掠物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:16.868805562Z",
+  "model": "glm-5.3"
+}

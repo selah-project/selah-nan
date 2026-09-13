@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣有被刺死的人欲倒佇恁中間,恁欲知影我就是雅威。",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "閣欲倒"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "被刺死的人"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "佇恁中間"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "恁欲知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:01.567732397Z",
+  "model": "glm-5.3"
+}

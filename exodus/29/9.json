@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 29:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你欲用帶仔縛⟨את⟩𪜶 —— 亞倫佮伊的眾子;嘛欲給𪜶縛頭巾;𪜶欲有祭司的職分,做永遠的定例;你嘛欲充滿亞倫的手佮伊眾子的手。",
+  "tokens": [
+    {
+      "surface": "וחגרת",
+      "gloss": "你欲…縛"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "帶仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "佮伊的眾子"
+    },
+    {
+      "surface": "וחבשת",
+      "gloss": "嘛欲…縛"
+    },
+    {
+      "surface": "להם",
+      "gloss": "給𪜶"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "頭巾"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "欲有"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "祭司的職分"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "做…的定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "你嘛欲充滿"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "佮…的手"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的眾子"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:24.032125432Z",
+  "model": "glm-5.3"
+}

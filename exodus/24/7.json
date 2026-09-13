@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "摩西提約的冊,唸佇百姓的耳仔邊;𪜶講:「雅威所講的一切,阮欲行,阮欲聽。」",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "摩西提"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約的"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "唸"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "佇耳仔邊"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "阮欲行"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "阮欲聽"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:44.756708231Z",
+  "model": "glm-5.3"
+}

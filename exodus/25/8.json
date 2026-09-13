@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "𪜶欲給我造一個聖所,我就欲住佇𪜶中間。",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "𪜶欲…造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "一個聖所"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "我就欲住"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "佇𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:07.179108519Z",
+  "model": "glm-5.3"
+}

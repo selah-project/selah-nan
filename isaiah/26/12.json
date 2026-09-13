@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "雅威啊,你欲安排平安予阮,因為阮一切的所行,嘛是你替阮做成的。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "你欲安排"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "予阮"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "阮的所行"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "你做成"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "替阮"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:47.643331301Z",
+  "model": "glm-5.3"
+}

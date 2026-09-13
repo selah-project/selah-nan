@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊的感謝平安祭的肉,佇獻祭彼工著食完,毋通留任何物到隔轉早。",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "佮肉"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "感謝"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "伊的平安祭"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼工"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "伊的獻祭"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "著食完"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "留"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "任何物"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "隔轉早"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:49.258432062Z",
+  "model": "glm-5.3"
+}

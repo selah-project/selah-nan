@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "你的以羅欣已經命令你的氣力;以羅欣啊,求你堅固你所做──就是這個──為阮成就的。",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "已經命令"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你的氣力"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "求你堅固"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "זו",
+      "gloss": "就是這個"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "你所做"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:37.726078412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佮藍色線、佮紫色線、佮朱紅色線(蟲染的)、佮幼麻、佮山羊毛:",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "佮藍色線"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "佮紫色線"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "佮朱紅色線(蟲染的)"
+    },
+    {
+      "surface": "שני",
+      "gloss": ""
+    },
+    {
+      "surface": "ושש",
+      "gloss": "佮幼麻"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "佮山羊毛"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:37.233453855Z",
+  "model": "glm-5.3"
+}

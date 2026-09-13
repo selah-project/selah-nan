@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "無牛的所在,槽仔是清氣的;佮豐盛的收成是用牛的氣力。",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "無…的所在"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "槽仔"
+    },
+    {
+      "surface": "בר",
+      "gloss": "清氣"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "佮豐盛"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "收成"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "用…的氣力"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:47.822324961Z",
+  "model": "glm-5.3"
+}

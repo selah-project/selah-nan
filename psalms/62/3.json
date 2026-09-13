@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "獨獨伊是我的石磐、我的拯救,是我的高臺;我袂大大搖動。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的石磐"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "佮我的拯救"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "我的高臺"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:46.883245170Z",
+  "model": "glm-5.3"
+}

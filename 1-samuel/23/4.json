@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "大衛閣一遍問雅威,雅威應伊,講:「起來,落去基伊拉,因為我欲將⟨את⟩非利士人交佇你的手。」",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "閣一遍"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威(求問)"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "應伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "רד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:49.799398978Z",
+  "model": "glm-5.3"
+}

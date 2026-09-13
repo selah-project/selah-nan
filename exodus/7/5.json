@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "米茲拉因人會知影我是雅威,佇我伸出⟨את⟩我的手向米茲拉因、共⟨את⟩以色列的子兒對𪜶中間導出來的時。",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "會知影"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "佇我伸出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "共…導出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的子兒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "對𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:26.601609650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 23:9",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "耶何耶大祭司將⟨את⟩槍、⟨את⟩盾佮⟨את⟩大盾牌——彼號是屬大衛王的、下佇以羅欣的厝內的——交互百夫長。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "交互"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "互…的頭"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "百夫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "槍"
+    },
+    {
+      "surface": "החניתים",
+      "gloss": "槍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "盾"
+    },
+    {
+      "surface": "המגנות",
+      "gloss": "盾"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "大盾牌"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "大盾牌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:34.408511451Z",
+  "model": "glm-5.3"
+}

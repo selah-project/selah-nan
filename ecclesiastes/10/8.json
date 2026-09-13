@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "掘坑的人會跌落去伊內底;拆圍牆的人,蛇會咬伊。",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "掘"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "坑"
+    },
+    {
+      "surface": "בו",
+      "gloss": "落去伊內底"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "會跌"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "佮拆"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "圍牆"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "會咬"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:01.618578816Z",
+  "model": "glm-5.3"
+}

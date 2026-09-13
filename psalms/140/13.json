@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "我知雅威欲替困苦的人行審判,替散赤人伸正義。",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "我知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דין",
+      "gloss": "審判"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦的人"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "正義"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "散赤人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:14.694076800Z",
+  "model": "glm-5.3"
+}

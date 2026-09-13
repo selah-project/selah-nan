@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "恁撒種⟨את⟩第八年彼年,恁會當對舊的收成來食,直到第九年,直到伊的收成入來,恁才閣食新的——恁會當食舊的。",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "恁撒種"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "第八年彼年"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "彼年"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "第八年"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "恁會當食"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "收成"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "舊的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "彼年"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "第九年"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "伊的收成"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁會當食"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "舊的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:43.264940702Z",
+  "model": "glm-5.3"
+}

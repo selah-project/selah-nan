@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "外人食掉伊的氣力，伊毋知；連白頭毛嘛撒佇伊身上，伊猶毋知。",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "食掉"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外人"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "伊的氣力"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "白頭毛"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "撒"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:00.518513357Z",
+  "model": "glm-5.3"
+}

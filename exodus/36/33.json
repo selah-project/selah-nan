@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "伊閣做⟨את⟩彼支中間的橫閂,予伊會當穿過板仔的中間,對這頭到彼頭。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼支中間的橫閂"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "彼支橫閂"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "中間的"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "予伊會當穿過"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "…的中間"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "板仔"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "這頭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "彼頭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:12.470561980Z",
+  "model": "glm-5.3"
+}

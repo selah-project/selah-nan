@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 3:5",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇𪜶的手邊,提哥亞人加固〈城牆〉;毋過𪜶的顯貴無欲將𪜶的頷頸下佇𪜶主人的差事內。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "𪜶的手"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "加固"
+    },
+    {
+      "surface": "התקועים",
+      "gloss": "提哥亞人"
+    },
+    {
+      "surface": "ואדיריהם",
+      "gloss": "毋過𪜶的顯貴"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "欲將…下"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "𪜶的頷頸"
+    },
+    {
+      "surface": "בעבדת",
+      "gloss": "佇…的差事內"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "𪜶的主人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:54:31.900080535Z",
+  "model": "glm-5.3"
+}

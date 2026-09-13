@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "予阮的目睭越過無看虛妄的物;佇祢的道路活阮。",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "予……越過"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "阮的目睭"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "無看"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "虛妄的物"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "佇祢的道路"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "活阮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:03.888440852Z",
+  "model": "glm-5.3"
+}

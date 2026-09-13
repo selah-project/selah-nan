@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "亞哈斯佮列祖同睏,埋葬佮列祖佇大衛城;伊的子希西家接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "同睏"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "亞哈斯"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "列祖"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇…城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:10.499825996Z",
+  "model": "glm-5.3"
+}

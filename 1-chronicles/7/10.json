@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "耶底以利(雅底亞伊勒)的子孫是比勒汗;比勒汗的子孫是耶烏施、便雅憫、以忽、基拿拿(基南亞)、洗坦、他施(塔施)、亞希沙哈。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "耶底以利(雅底亞伊勒)"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "比勒汗"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "比勒汗"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "耶烏施"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "以忽"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "基拿拿(基南亞)"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "洗坦"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "他施(塔施)"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "亞希沙哈"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:19.826526020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "毋通徙遠古的界,嘛毋通入去孤兒的田。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "徙"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "界"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "遠古"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "嘛入去……的田"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "入去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:26.931296325Z",
+  "model": "glm-5.3"
+}

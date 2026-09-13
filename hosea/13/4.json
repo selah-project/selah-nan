@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "閣我,我是雅威,恁的以羅欣,對米茲拉因地來的;除了我以外的以羅欣,恁毋通識;拯救者,無——除了我。",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "除了我以外"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "識"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "拯救者"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "除了我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:01.760486012Z",
+  "model": "glm-5.3"
+}

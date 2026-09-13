@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "六个名佇⟨一⟩粒石頂面,⟨את⟩剩的六个的名佇彼第二粒石頂面,照𪜶的出世。",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "六个"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "對𪜶的名"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "彼粒石"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一粒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "剩的六个的名"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "彼六个"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "剩的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "彼粒石"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二粒"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "照𪜶的出世"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:57.392612317Z",
+  "model": "glm-5.3"
+}

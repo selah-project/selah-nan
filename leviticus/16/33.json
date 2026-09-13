@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊欲替⟨את⟩至聖的聖所贖罪,閣替⟨את⟩會幕、⟨את⟩祭壇贖罪,嘛欲為著祭司佮為著會眾全集的百姓贖罪。",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "伊欲替……贖罪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "至聖的聖所"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "至聖的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣替⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相𢭌的會"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "嘛為著"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣為著"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全集"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "贖罪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:37.098325231Z",
+  "model": "glm-5.3"
+}

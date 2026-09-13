@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊注意看人,閣講:我犯罪矣,閣歪曲彼個正直的,抑這个對我嘛無利益。",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "伊注意看"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我犯罪矣"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "彼個正直的"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "我歪曲"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "抑嘛無"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "利益"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:08.802249364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "若是你的供物是鼎仔做的素祭,著是用油做的細麵粉。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "鼎仔"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "你的供物"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵粉"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:28.531747334Z",
+  "model": "glm-5.3"
+}

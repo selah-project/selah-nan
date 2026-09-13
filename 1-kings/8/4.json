@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶將⟨את⟩雅威的約櫃,閣⟨את⟩會幕,閣⟨את⟩帳篷內底一切聖的器具,攏扛上來;祭司佮利未人將⟨את⟩𪜶扛上來。",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "扛上來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳篷"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切聖的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇…的"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "帳篷內底"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "扛上來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "祭司佮利未人"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:13.977740497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "倚靠雅威,做好代;徛起佇土地,佮看守誠實。",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "佮做"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好代"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "佮看守"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "誠實"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:55.460757754Z",
+  "model": "glm-5.3"
+}

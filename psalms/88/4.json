@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "因為我的性命佇歹事內面飽足,我的活命到示阿勒矣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "飽足"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "佇歹事內面"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "我的活命"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "到示阿勒"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "到…矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:17.704651902Z",
+  "model": "glm-5.3"
+}

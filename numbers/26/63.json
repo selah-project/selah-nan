@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 26:63",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "遮是摩西佮祭司以利亞撒所點算的,𪜶點算⟨את⟩以色列人,佇摩押的草原,佇約旦河邊、耶利哥對面。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "所點算的"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "佮以利亞撒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "𪜶點算"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "佇…的草原"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "耶利哥"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:53.102466371Z",
+  "model": "glm-5.3"
+}

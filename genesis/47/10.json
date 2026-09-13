@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "雅各祝福⟨את⟩法老,就對法老面前出去。",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法老"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:56.490885420Z",
+  "model": "glm-5.3"
+}

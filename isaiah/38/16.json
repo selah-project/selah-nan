@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "阿多奈啊,人靠遮个活,閣佇遮个一切的內底,有我氣力的性命;所以祢醫我,閣互我活落去。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "靠遮个"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "人活"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "閣佇一切的"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "遮个內底"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "有…的性命"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我氣力的"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "祢醫我"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "閣互我活落去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:58.369192575Z",
+  "model": "glm-5.3"
+}

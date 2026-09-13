@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 61,
+  "translation": "互指揮者的,用琴弦的樂器,大衛的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者的"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "琴弦的樂器"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的詩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:26.566226356Z",
+  "model": "glm-5.3"
+}

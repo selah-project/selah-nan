@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊用冰雹刣死𪜶的葡萄樹,用霜雪刣死𪜶的桑樹。",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "伊……刣死"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "用冰雹"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "𪜶的葡萄樹"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "𪜶的桑樹"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "用霜雪"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:47.938472755Z",
+  "model": "glm-5.3"
+}

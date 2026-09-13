@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "王的奴僕——許個佇王門的——就對末底改講:「啥物緣故你袂肯遵守,閣越過⟨את⟩王的命令?」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇門"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "對末底改"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "越過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王的命令"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:25.211720408Z",
+  "model": "glm-5.3"
+}

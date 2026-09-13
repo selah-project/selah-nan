@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "按呢,耶戶對以色列中間滅掉⟨את⟩巴力。",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "滅掉"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴力"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "對以色列中間"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:21.164628934Z",
+  "model": "glm-5.3"
+}

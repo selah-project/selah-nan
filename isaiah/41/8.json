@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "毋閣你,以色列,是我的奴僕;雅各,是我所揀選的,是亞伯拉罕、我所疼的彼个的後裔。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋閣你"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "我揀選你"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "後裔"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "我所疼的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:38.638358369Z",
+  "model": "glm-5.3"
+}

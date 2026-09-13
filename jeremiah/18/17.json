@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 18:17",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "親像東風,我欲佇敵人面前打散𪜶;佇𪜶落難的日子,我欲互𪜶看著背,毋是面。",
+  "tokens": [
+    {
+      "surface": "כרוח",
+      "gloss": "親像風"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "אפיצם",
+      "gloss": "我欲打散𪜶"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵人"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "背"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "אראם",
+      "gloss": "我欲互𪜶看著"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "𪜶的落難"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:08.101839473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "哈撒坦應⟨את⟩雅威,講:「皮為著皮,人會為著伊的性命,獻出伊所有的一切。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "應"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "哈撒坦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "為著"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "人的"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會獻出"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "為著"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:39.853144596Z",
+  "model": "glm-5.3"
+}

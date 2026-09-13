@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼時王佇巴比倫省晉升沙得拉、米煞、亞伯尼歌。",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "晉升"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "沙得拉"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "米煞"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "佮"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "亞伯尼歌"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "佇…省"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:43:56.748589251Z",
+  "model": "glm-5.3"
+}

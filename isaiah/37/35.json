@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "我欲做遮這城的盾，欲救伊，為著我家的緣故，嘛為著我的奴僕大衛的緣故。",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "我欲做……的盾"
+    },
+    {
+      "surface": "על",
+      "gloss": "遮"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "救伊"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "為著我家的緣故"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "嘛為著……的緣故"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:30.909398910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你若揣伊親像揣銀,閣親像揣埋起的寶物按呢尋伊,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "揣伊"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "親像揣銀"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "閣親像揣埋起的寶物"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "按呢尋伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:59.349947673Z",
+  "model": "glm-5.3"
+}

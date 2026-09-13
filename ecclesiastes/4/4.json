@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣我看見⟨את⟩一切的勞碌,佮⟨את⟩一切做工的才能,因為這是人對同伴的嫉妒;這嘛是虛空,是掠風。",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "閣我看見"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的勞碌"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "一切做工的才能"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "才能"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "做工的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "嫉妒"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "對同伴"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "是掠"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:51.980892591Z",
+  "model": "glm-5.3"
+}

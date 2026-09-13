@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 99,
+  "translation": "摩西佮亞倫佇伊的祭司中間,撒母耳嘛佇呼求伊的名的人中間;𪜶向雅威呼求,伊就應允𪜶。",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "佇伊的祭司中"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "閣撒母耳"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "佇呼求…的人中"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "呼求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "閣伊"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "應允𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:07.672078274Z",
+  "model": "glm-5.3"
+}

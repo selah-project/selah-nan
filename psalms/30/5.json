@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "唱詩予雅威,伊的敬虔人啊,佮想念伊的聖。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "唱詩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "伊的敬虔人"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "佮想念"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "數念"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:20.072227266Z",
+  "model": "glm-5.3"
+}

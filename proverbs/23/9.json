@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "毋通佇戇愚人的耳仔前講話,因為伊會看無你的話內底的明智。",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "佇……的耳仔前"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "戇愚人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "伊會看無"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "明智"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "你的話內底的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:26.931064853Z",
+  "model": "glm-5.3"
+}

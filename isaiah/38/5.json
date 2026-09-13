@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 38:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "你去對希西家講:雅威——大衛你的老父的以羅欣——按呢講:我聽見⟨את⟩你的祈禱,我看見⟨את⟩你的目屎;看啊,我欲加添佇你的日子頂面十五年。",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的祈禱"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "你的祈禱"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的目屎"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "你的目屎"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "欲加添"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日子"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:25.629752381Z",
+  "model": "glm-5.3"
+}

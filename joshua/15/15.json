@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "閣伊對遐上去,攻擊底壁的居民;底壁以前的名是基列西弗(冊之城)。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "閣…上去"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "的居民"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "底壁"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "閣…名"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "底壁"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "以前"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "西弗"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:59.639446376Z",
+  "model": "glm-5.3"
+}

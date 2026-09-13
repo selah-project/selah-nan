@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "頭前的世代無留記憶;嘛對後來欲來的,𪜶袂得著記憶,佮上後來彼寡欲來的。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "記憶"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "對頭前的世代"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "對後來欲來的"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "欲來的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "記憶"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "欲來的"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "上後來的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:52.313297934Z",
+  "model": "glm-5.3"
+}

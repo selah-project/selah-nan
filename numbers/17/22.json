@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "摩西將⟨את⟩眾杖安置佇雅威面前,佇見證的帳棚裡。",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "安置"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾杖"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "眾杖"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "佇…帳棚"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "見證的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:59.503743809Z",
+  "model": "glm-5.3"
+}

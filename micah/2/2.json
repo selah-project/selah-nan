@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "𪜶貪想田園,就搶奪;貪想厝宅,就提走;𪜶壓迫人佮伊的厝,人佮伊的產業。",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "𪜶貪想"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "田園"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "就搶奪"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "佮厝宅"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "就提走"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "𪜶壓迫"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "人"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "佮伊的厝"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮人"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "佮伊的產業"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:31.137220304Z",
+  "model": "glm-5.3"
+}

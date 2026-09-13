@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "我欲感謝你到永遠,因為你行這个;我欲向望你的名,因為伊是好──佇你的敬虔者面前。",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "我欲感謝你"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你行"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "我欲向望"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "是好"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "你的敬虔者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:48.234080381Z",
+  "model": "glm-5.3"
+}

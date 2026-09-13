@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "恁到啥物時陣才欲攻擊一个人?欲共伊謀殺,恁攏總,親像一面斜倚的牆、一片倒落的籬笆。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "共伊謀殺"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "恁攏總"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "親像牆"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "斜倚的"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "籬笆"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "倒落的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:46.883506842Z",
+  "model": "glm-5.3"
+}

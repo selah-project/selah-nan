@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "百姓對摩西出怨言,講:「阮欲啉啥物?」",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "出怨言"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "阮啉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:18.481877391Z",
+  "model": "glm-5.3"
+}

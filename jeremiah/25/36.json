@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 25:36",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "有牧者喝救的聲,佮羊群做頭的哀號聲,因為雅威毀壞⟨את⟩𪜶的草場。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "喝救"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧者"
+    },
+    {
+      "surface": "ויללת",
+      "gloss": "哀號"
+    },
+    {
+      "surface": "אדירי",
+      "gloss": "做頭的"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的草場"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "𪜶的草場"
+    }
+  ],
+  "timestamp": "2026-09-12T03:54:55.860826955Z",
+  "model": "glm-5.3"
+}

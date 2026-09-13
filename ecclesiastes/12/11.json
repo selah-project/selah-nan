@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "智者的話親像刺棍,閣親像釘牢的釘,屬集會的師傅;攏對一位牧者來。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智者的"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "親像刺棍"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "閣親像釘"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "釘牢的"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "師傅"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "集會"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "來"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "對牧者"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一位"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:52.139284210Z",
+  "model": "glm-5.3"
+}

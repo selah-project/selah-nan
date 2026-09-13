@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "會醫的心是肉體的活命,妒忌是骨頭的腐爛。",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "活命"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "會醫的"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "腐爛"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骨頭"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "妒忌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:36.848419359Z",
+  "model": "glm-5.3"
+}

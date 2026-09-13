@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "守律法的是一个了解的囝;獨獨佮好食啉的人做伙的,見笑伊的老爸。",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "守"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "了解"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "佮…做伙"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "好食啉的人"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老爸"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:21.490293003Z",
+  "model": "glm-5.3"
+}

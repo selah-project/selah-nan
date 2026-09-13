@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "佇以羅欣有我的拯救佮我的榮光;伊是我氣力的磐石,我的避難所佇以羅欣。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "我的拯救"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "佮我的榮光"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "我氣力的"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "我的避難所"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "佇以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:31.357502261Z",
+  "model": "glm-5.3"
+}

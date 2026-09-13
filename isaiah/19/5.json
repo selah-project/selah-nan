@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣水會對海中消退,河會焦荒,閣會枯焦。",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "閣會消退"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "對海中"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "閣河"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "會焦荒"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "閣會枯焦"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:02.910132303Z",
+  "model": "glm-5.3"
+}

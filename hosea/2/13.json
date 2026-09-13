@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 2:13",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我欲互伊一切的歡喜攏停止:伊的節期、伊的新月、伊的安息日,佮伊一切的定期。",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "我欲互…停止"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "משושה",
+      "gloss": "伊的歡喜"
+    },
+    {
+      "surface": "חגה",
+      "gloss": "伊的節期"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "伊的新月"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "伊的安息日"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "מועדה",
+      "gloss": "伊的定期"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:51.639032613Z",
+  "model": "glm-5.3"
+}

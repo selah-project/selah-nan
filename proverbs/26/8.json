@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "親像共石頭縛佇甩石帶內,按呢,對戇人給榮光嘛是按呢。",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "親像縛"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "佇甩石帶內"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "給"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "對戇人"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:27.122367902Z",
+  "model": "glm-5.3"
+}

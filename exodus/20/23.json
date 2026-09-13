@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "恁毋通佮⟨את⟩我做銀仔的神,金仔的神恁嘛毋通家己做。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "恁做"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩佮我"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的神"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "佮……的神"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金仔"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁做"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "家己"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:07.604290142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "看啊,我欲設 ⟨את⟩ 耶路撒冷做一杯暈眩的酒,予四圍所有的列國;嘛對猶大,伊欲佇對耶路撒冷的圍困中。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שם",
+      "gloss": "設"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "סף",
+      "gloss": "杯"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "暈眩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "予所有的"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲佇"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "圍困中"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:42.401195064Z",
+  "model": "glm-5.3"
+}

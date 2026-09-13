@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "咱做伙將商量甜絲絲,做伙佇以羅欣的家,佮鬧熱的人陣行。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "甜絲絲"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "商量"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的家"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "佮鬧熱的人陣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:15.610945432Z",
+  "model": "glm-5.3"
+}

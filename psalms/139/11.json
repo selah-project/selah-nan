@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "我若講:「的確,暗會掩我」,連暗暝對我嘛會變光。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "若講"
+    },
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "暗"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "掩我"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "連暗暝"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:38.257737751Z",
+  "model": "glm-5.3"
+}

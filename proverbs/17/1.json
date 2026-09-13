@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "一塊乾枯的餅佮恬靜,贏過歸間厝充滿鬥爭的祭祀。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "贏過"
+    },
+    {
+      "surface": "פת",
+      "gloss": "一塊餅"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "乾枯"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "佮恬靜"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊內底"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "歸間厝"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "祭祀"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "鬥爭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:32.574716162Z",
+  "model": "glm-5.3"
+}

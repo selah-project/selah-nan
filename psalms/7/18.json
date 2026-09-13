@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我欲感謝雅威照伊的公義,我欲吟詩謳咾至高者雅威的名。",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "我欲感謝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "照伊的公義"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "我欲吟詩謳咾"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:19.603945275Z",
+  "model": "glm-5.3"
+}

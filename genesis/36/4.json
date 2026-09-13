@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "亞大替以掃生⟨את⟩以利法；巴實抹生⟨את⟩流珥。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "亞大"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "替以掃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利法"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "以利法"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "閣巴實抹"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "流珥"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "流珥"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:06.216426651Z",
+  "model": "glm-5.3"
+}

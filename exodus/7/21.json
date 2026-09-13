@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 7:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "佇河裡的魚死矣,河臭矣,米茲拉因(埃及)人袂當啉河裡的水;血佇米茲拉因全地。",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "佇河裡的魚"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "佇河裡"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "臭矣"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "會"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "啉"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:19.371822057Z",
+  "model": "glm-5.3"
+}

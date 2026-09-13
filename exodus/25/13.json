@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你欲造示亭木的棍仔,閣欲用金共⟨את⟩𪜶包起來。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲造"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "的棍仔"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "示亭"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "閣欲包"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(棍仔)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:31.191267015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "所羅門王為著雅威起造彼間厝:長六十肘,闊二十肘,懸三十肘。",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為著雅威"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長度"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊度"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "佮三十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "伊的高度"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:21.296063893Z",
+  "model": "glm-5.3"
+}

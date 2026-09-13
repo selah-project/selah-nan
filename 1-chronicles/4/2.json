@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "呂阿雅是示巴的仔,伊生⟨את⟩雅哈;雅哈生⟨את⟩阿戶買佮⟨את⟩拉哈得。遮是以瑣拉的宗族。",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "佮呂阿雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅哈"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "雅哈"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "佮雅哈"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿戶買"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "阿戶買"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "拉哈得"
+    },
+    {
+      "surface": "להד",
+      "gloss": "拉哈得"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "瑣拉的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:52.876901695Z",
+  "model": "glm-5.3"
+}

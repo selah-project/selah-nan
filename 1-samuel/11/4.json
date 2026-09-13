@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "使者來到掃羅的基比亞,將諸個話佇人民的耳仔邊講;歸個人民攏舉𪜶的聲⟨את⟩,就啼哭。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "基比亞"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "諸個話"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "佇…的耳仔邊"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "就舉起"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的聲"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "𪜶的聲"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "就啼哭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:50.160115283Z",
+  "model": "glm-5.3"
+}

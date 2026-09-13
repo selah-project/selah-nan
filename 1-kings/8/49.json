@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "按呢祢著聽,佇諸天、祢啲坐的所在,⟨את⟩𪜶的祈禱佮⟨את⟩𪜶的懇求,閣行𪜶的判斷。",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "按呢祢著聽"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "所在"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "祢啲坐的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的祈禱"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "𪜶的祈禱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的懇求"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "𪜶的懇求"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "𪜶的判斷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:17.113778418Z",
+  "model": "glm-5.3"
+}

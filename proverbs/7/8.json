@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊行過街仔路,倚佇彼个壁角,閣照路行向伊的厝去。",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "行過"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "街仔路"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "倚佇"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "壁角"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "閣照路"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "向伊的厝"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:40.582223103Z",
+  "model": "glm-5.3"
+}

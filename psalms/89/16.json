@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "快樂啊,彼个知影歡呼聲的百姓;𪜶佇雅威你面容的光內底行。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "快樂啊"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼个百姓"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "知影…的"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "歡呼聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "באור",
+      "gloss": "佇…的光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你面容的"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:38.527394423Z",
+  "model": "glm-5.3"
+}

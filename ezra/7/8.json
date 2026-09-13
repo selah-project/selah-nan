@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊佇第五個月來到耶路撒冷,彼個就是王在位第七年。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "閣……來到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇……月"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "第五個"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼個就是"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "……年"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "第七"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:49:48.930297462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "王權佇伊身上穩固了後,伊就刣死⟨את⟩彼寡刣死⟨את⟩伊老父王的奴僕。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當……的時"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "穩固"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "王權"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "伊就刣死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡……的奴僕"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "的奴僕"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "彼寡刣死的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊老父王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:18.375361914Z",
+  "model": "glm-5.3"
+}

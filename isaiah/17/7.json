@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "佇彼個日,人欲向伊的創造者看,伊的目睭欲看以色列的聖者。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "伊的創造者"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "閣伊的目睭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "欲看"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:55.911629939Z",
+  "model": "glm-5.3"
+}

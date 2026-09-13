@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "亞伯蘭就啟程,一直行、一直徙,向南地去。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "就啟程"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "行去"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "閣徙位"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "向南地去"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:43.357717055Z",
+  "model": "glm-5.3"
+}

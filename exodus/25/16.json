@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你欲下⟨את⟩彼个見證入去阿倫內底,就是我欲互你的。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "你欲下…入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去…內底"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "阿倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个見證"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "彼个見證"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:31.191783765Z",
+  "model": "glm-5.3"
+}

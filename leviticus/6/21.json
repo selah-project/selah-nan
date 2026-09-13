@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "陶做的器具,若佇⟨伊⟩內底煮過,就著愛予伊破掉;若佇銅器內底煮過,就著愛掠予光,佮用套水共伊洗清氣。",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "陶做的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "煮過"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "著愛予伊破掉"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "佇器具"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "煮過"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "著愛掠予光"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "佮洗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "用套水"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:54.891477062Z",
+  "model": "glm-5.3"
+}

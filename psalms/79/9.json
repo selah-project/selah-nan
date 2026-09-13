@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "阮拯救的以羅欣啊,救助阮,為著你名的榮光;搶救阮,遮蓋阮的罪,為著你名的緣故。",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "救助阮"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "阮的拯救"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "緣故"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你名的"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "搶救阮"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "遮蓋"
+    },
+    {
+      "surface": "על",
+      "gloss": "…的"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "阮的罪"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著…的緣故"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:07.562132079Z",
+  "model": "glm-5.3"
+}

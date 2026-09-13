@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "起造錫安用血,耶路撒冷用不義,",
+  "tokens": [
+    {
+      "surface": "בֹּנֶה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "בְּדָמִים",
+      "gloss": "用血"
+    },
+    {
+      "surface": "וִירוּשָׁלִַ֝ם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בְּעַוְלָה",
+      "gloss": "用不義"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:07.594284729Z",
+  "model": "glm-5.3"
+}

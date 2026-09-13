@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "求你數念我的一世人偌短暫;你啥物緣故做空空創造一切人的子?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你數念"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "一世人……短暫"
+    },
+    {
+      "surface": "על",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "空空"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "你創造"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:32.391785129Z",
+  "model": "glm-5.3"
+}

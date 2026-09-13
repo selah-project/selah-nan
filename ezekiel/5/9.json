@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "我欲佇你身上行⟨את⟩我未曾行過的代誌,閣⟨את⟩我無欲閣再行親像按呢的,因為你一切可憎的事。",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "我欲行"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你身上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我未曾行過的代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的代誌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "未曾"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "行過"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "我無欲閣再行的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "親像按呢"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "你可憎的事"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:18.864369495Z",
+  "model": "glm-5.3"
+}

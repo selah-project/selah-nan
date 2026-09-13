@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "照我所看的:犁歹孽的、撒毒害的,欲收著伊。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我所看的"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "犁……的"
+    },
+    {
+      "surface": "און",
+      "gloss": "歹孽"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "佮撒……的"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "毒害"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "欲收著伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:05.400255686Z",
+  "model": "glm-5.3"
+}

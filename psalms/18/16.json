@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "彼時水道顯現,地的根基露出,對你的呵責,雅威啊,對你鼻孔的氣息。",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "水道"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "露出"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "根基"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "地"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "對你的呵責"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "對…的氣息"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你鼻孔的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:40.523391459Z",
+  "model": "glm-5.3"
+}

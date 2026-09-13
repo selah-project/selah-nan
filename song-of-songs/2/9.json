@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 2:9",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我的心阿兄親像瞪羚仔，抑是鹿仔的幼囝；看啊，這位徛佇阮的壁後，對窗仔咧偷看，對窗格子咧窺視。",
+  "tokens": [
+    {
+      "surface": "דומה",
+      "gloss": "親像"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我的心阿兄"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "瞪羚仔"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "幼囝"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "鹿仔"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這位"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "…後"
+    },
+    {
+      "surface": "כתלנו",
+      "gloss": "阮的壁"
+    },
+    {
+      "surface": "משגיח",
+      "gloss": "咧偷看"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "窗仔"
+    },
+    {
+      "surface": "מציץ",
+      "gloss": "咧窺視"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "החרכים",
+      "gloss": "窗格子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:04.403736542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣將⟨את⟩油、⟨את⟩兩粒腰子、佮⟨את⟩肝頂彼葉,對贖罪祭的,伊佇祭壇頂燒做香,照雅威命令⟨את⟩摩西的。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "兩粒腰子"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "兩粒腰子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "肝頂彼葉"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "肝頂彼葉"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "燒做香"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇祭壇頂"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:43.338495522Z",
+  "model": "glm-5.3"
+}

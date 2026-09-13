@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊定⟨את⟩伊的面直直看,看到伊見笑,以羅欣的人就哭。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "定"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的面"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "直直看"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בש",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "就哭"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:19:20.873114431Z",
+  "model": "glm-5.3"
+}

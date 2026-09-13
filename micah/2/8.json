@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 2:8",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣昨昏,我的人民起來做對敵;對頭前,恁對安穩經過的人剝落披衫頂面榮光的外袍,對按呢對相戰倒轉來的人。",
+  "tokens": [
+    {
+      "surface": "ואתמול",
+      "gloss": "閣昨昏"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "做對敵"
+    },
+    {
+      "surface": "יקומם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "對頭前"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "披衫"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "榮光的外袍"
+    },
+    {
+      "surface": "תפשטון",
+      "gloss": "恁剝落"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "對經過的人"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "安穩"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "倒轉來的人"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "對相戰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:47.605786840Z",
+  "model": "glm-5.3"
+}

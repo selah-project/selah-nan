@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我緊想欲守你的誡命,無延拖。",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "我緊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而且無"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "延拖"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "欲守"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "你的誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:06.089110707Z",
+  "model": "glm-5.3"
+}

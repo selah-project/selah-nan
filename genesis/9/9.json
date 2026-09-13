@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣我,看啊,我欲豎立我的約 ⟨את⟩,⟨את⟩ 佮恁,閣 ⟨את⟩ 恁的後裔,佇恁以後。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "豎立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 佮恁"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "恁的後裔"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "恁的後裔"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "佇恁以後"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:57.396375887Z",
+  "model": "glm-5.3"
+}

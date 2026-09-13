@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇基遍,雅威佇暗暝的夢中向所羅門顯現;以羅欣講:「求啊!啥物我欲予你?」",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "佇基遍"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "佇夢中"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "暗暝"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲予"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:29.762985843Z",
+  "model": "glm-5.3"
+}

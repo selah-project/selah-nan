@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "雅威啊,聽我個聲,我咧呼求;施恩互我,閣應答我。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我個聲"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我咧呼求"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "閣施恩互我"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "閣應答我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:28.208717739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威對以色列剪掉頭佮尾、棕樹枝佮蘆葦,佇一日之內。",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "剪掉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "佮尾"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "棕樹枝"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "佮蘆葦"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:29.928634646Z",
+  "model": "glm-5.3"
+}

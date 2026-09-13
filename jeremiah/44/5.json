@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "毋拘𪜶無聽,嘛無傾⟨את⟩耳仔,欲對𪜶的歹倒轉來,免擱薰香予別个以羅欣。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋拘……無"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "傾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耳仔"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "對𪜶的歹"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "免擱"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "薰香"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "予別个以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:04:10.504608941Z",
+  "model": "glm-5.3"
+}

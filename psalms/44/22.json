@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "以羅欣豈無究查這个嗎?因為伊知影心內的隱密事。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈無…嗎"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "究查"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "隱密事"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心內的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:21.924540710Z",
+  "model": "glm-5.3"
+}

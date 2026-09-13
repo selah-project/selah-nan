@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "歹人的厝內底猶有邪惡的寶物,閣有彼个短斤減兩、受氣恨的量器抑無?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "猶有"
+    },
+    {
+      "surface": "האש",
+      "gloss": "抑無"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "寶物"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "閣有彼个量器"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "短斤減兩"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "受氣恨"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:53.270564494Z",
+  "model": "glm-5.3"
+}

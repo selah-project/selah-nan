@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "到十二個月了後,伊佇巴比倫王國的宮殿頂咧行。",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "到……了後"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "個月"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(十)"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "王國"
+    },
+    {
+      "surface": "די",
+      "gloss": "的"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "咧行"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "(進行中)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:44:19.799673374Z",
+  "model": "glm-5.3"
+}

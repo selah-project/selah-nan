@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "牛知影伊的主人,驢嘛知影伊主人的槽;以色列毋知,我的人民毋明白。",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "佮驢"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "槽"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "明白"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:58.342515960Z",
+  "model": "glm-5.3"
+}

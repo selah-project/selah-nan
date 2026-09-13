@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 42:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "「恁若做老實人,就互恁兄弟一个關佇恁的監房;恁去,運五穀轉去恁的厝,紓解饑荒。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "老實人"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "恁兄弟"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "關"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇……的"
+    },
+    {
+      "surface": "משמרכם",
+      "gloss": "恁的監房"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "運轉來"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "恁的厝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:52.207597626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "我欲感謝你,因為我受造真通驚奇,閣真奇妙;你的作工真奇妙,我的性命知真深。",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "我欲感謝你"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(因為)"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "通驚奇"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "我受造奇妙"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "真奇妙"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的作工"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "閣我的性命"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真深"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:53.513413564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣⟨את⟩希未人,閣⟨את⟩亞基人,閣⟨את⟩西尼人,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "希未人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞基人"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "亞基人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "西尼人"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "西尼人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:12.468006935Z",
+  "model": "glm-5.3"
+}

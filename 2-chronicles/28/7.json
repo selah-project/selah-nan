@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "以法蓮的勇士濟克力刣死⟨את⟩王的子瑪阿西雅,佮⟨את⟩管家的大官亞斯利坎,閣刣死⟨את⟩王的第二人以勒加拿。",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "濟克力"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王的子瑪阿西雅"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "瑪阿西雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "管家的大官亞斯利坎"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "亞斯利坎"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "大官"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "管家"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "王的第二人以勒加拿"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "以勒加拿"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "第二人"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:59.909731284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "佇唱歌,𪜶袂啉酒;強酒對啉伊的人變苦。",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "佇唱歌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "啉"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "變苦"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "強酒"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "對啉伊的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:42.767669754Z",
+  "model": "glm-5.3"
+}

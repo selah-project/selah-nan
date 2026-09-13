@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "我心肝內的窘迫掠大了,對我的患難救我出去。",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "窘迫"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我心肝內"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "掠大了"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "對我的患難"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "救我出去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:37.906152010Z",
+  "model": "glm-5.3"
+}

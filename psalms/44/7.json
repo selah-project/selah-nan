@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "因為阮無倚靠阮的弓,阮的刀嘛袂救阮。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "阮的弓"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "阮的刀嘛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "救阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:59.049758235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "彼時夏瑣的王雅賓聽著諸個代誌,就差人去瑪頓的王約巴遐,閣去示米崙的王遐,閣去亞革珊的王遐。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聽著…的時"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "雅賓"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "夏瑣"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就差人去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "約巴"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "瑪頓"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣去…遐"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "示米崙"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣去…遐"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "亞革珊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:50.402472033Z",
+  "model": "glm-5.3"
+}

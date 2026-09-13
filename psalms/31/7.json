@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "我怨恨彼啲看守空虛欺假的人;獨我倚靠雅威。",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "我怨恨"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "彼啲看守……的人"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "欺假"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "獨我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:30.067536668Z",
+  "model": "glm-5.3"
+}

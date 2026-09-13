@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "兩項我對⟨את⟩你求,毋通攔毋互我,佇我猶未死以先。",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "兩項"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "我求"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "對⟨את⟩你",
+      "marks": "你"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "攔毋互"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "佇…以先"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "我死"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:09.556198455Z",
+  "model": "glm-5.3"
+}

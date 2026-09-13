@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "利未人對三十歲以上就受數點;𪜶照人頭算的數目,做男丁,是三十佮八千。",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "受數點"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對……歲"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "𪜶的數目"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "照𪜶的人頭"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "做男丁"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "佮八"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:17.782551843Z",
+  "model": "glm-5.3"
+}

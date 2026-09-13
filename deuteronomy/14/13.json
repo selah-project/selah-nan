@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣有紅鳶、閣有⟨את⟩鳶仔,閣有兀鷹照伊的類,",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "閣有紅鳶"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "鳶仔"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "鳶仔"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "閣有兀鷹"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "照伊的類"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:17.493996625Z",
+  "model": "glm-5.3"
+}

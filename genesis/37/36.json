@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "米但人共⟨את⟩伊賣去埃及,予法老的內臣波提乏,就是彼个治理刣夫的官長。",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "米但人"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "賣"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "波提乏"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "內臣"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "שר",
+      "gloss": "官長"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "治理刣夫的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:28.402894936Z",
+  "model": "glm-5.3"
+}

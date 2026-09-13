@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩伯夙、⟨את⟩梭哥、閣⟨את⟩亞杜蘭,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伯夙"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "צור",
+      "gloss": "夙"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "梭哥"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "梭哥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞杜蘭"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "亞杜蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:57.704765933Z",
+  "model": "glm-5.3"
+}

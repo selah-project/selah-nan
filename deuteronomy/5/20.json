@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "嘛毋通對你个街仔做假見證。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "應答做見證"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "對你个街仔"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "假"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:44.128323551Z",
+  "model": "glm-5.3"
+}

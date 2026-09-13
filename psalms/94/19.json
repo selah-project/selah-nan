@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "我的心內雜念一多的時,你的安慰安慰了我的性命。",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "佇……一多的時"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "我的雜念"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "我的心內"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "你的安慰"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "安慰了"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:22.659735950Z",
+  "model": "glm-5.3"
+}

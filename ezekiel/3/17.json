@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「人子啊,我設你做以色列家的守望者,你欲對我的喙聽著話,閣欲替我警戒⟨את⟩𪜶。」",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "人子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "(人的)"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "守望者"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "我設你"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "做…家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "你欲聽著"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "對我的喙"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "閣欲警戒"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(以色列家)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "替我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:32.269188747Z",
+  "model": "glm-5.3"
+}

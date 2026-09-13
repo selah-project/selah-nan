@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "song-of-songs 6:4",
+ "book": "song-of-songs",
+ "lang": "nan",
+ "chapter": 6,
+ "translation": "美麗啊你,阮的伴侶,親像得撒,好看親像耶路撒冷,威嚴親像揚旗的隊伍。",
+ "tokens": [
+  {
+   "surface": "יפה",
+   "gloss": "美麗"
+  },
+  {
+   "surface": "את",
+   "gloss": "你",
+   "marks": "你(阮的伴侶)"
+  },
+  {
+   "surface": "רעיתי",
+   "gloss": "阮的伴侶"
+  },
+  {
+   "surface": "כתרצה",
+   "gloss": "親像得撒"
+  },
+  {
+   "surface": "נאוה",
+   "gloss": "好看"
+  },
+  {
+   "surface": "כירושלם",
+   "gloss": "親像耶路撒冷"
+  },
+  {
+   "surface": "אימה",
+   "gloss": "威嚴"
+  },
+  {
+   "surface": "כנדגלות",
+   "gloss": "親像揚旗的隊伍"
+  }
+ ],
+ "timestamp": "2026-09-12T06:34:40.500348829Z",
+ "model": "glm-5.3"
+}

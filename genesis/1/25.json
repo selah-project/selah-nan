@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以羅欣就做⟨את⟩地上的活物照伊的類,閣⟨את⟩⟨的⟩牲畜照伊的類,閣⟨את⟩土地內一切爬行的物照伊的類;以羅欣看,見到好。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "做"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地上的活物"
+    },
+    {
+      "surface": "חית",
+      "gloss": "活物"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "照伊的類"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "牲畜"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "照伊的類"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "土地內一切爬行的物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "爬行的物"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "照伊的類"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "見到"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:07.859978082Z",
+  "model": "glm-5.3"
+}

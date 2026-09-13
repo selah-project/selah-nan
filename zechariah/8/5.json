@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "彼個城的街路欲充滿查埔囡仔佮查某囡仔,佇伊的街路咧耍。",
+  "tokens": [
+    {
+      "surface": "ורחבות",
+      "gloss": "街路"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "欲充滿"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "查埔囡仔"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "佮查某囡仔"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "咧耍"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "佇伊的街路"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:20.158018752Z",
+  "model": "glm-5.3"
+}

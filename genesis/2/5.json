@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "田裡的欉樹猶未佇地裡,閣田裡的草猶未發——因為雅威以羅欣猶未曾落雨佇地上,也無人通做工⟨את⟩土地。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "欉樹"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "佇"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地裡"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "發"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "落雨"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "閣人"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "通做工"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:28.002989641Z",
+  "model": "glm-5.3"
+}

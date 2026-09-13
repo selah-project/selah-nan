@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "亞哈全個家欲滅無,我欲對亞哈剪除佇壁邊撒尿的、關牢的、佮留落佇以色列的。",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "欲滅無"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全個"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "我欲剪除"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "對亞哈"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "撒尿的"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "佇壁邊"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "關牢的"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "留落的"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:13.191271664Z",
+  "model": "glm-5.3"
+}

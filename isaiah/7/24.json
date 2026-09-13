@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "人會帶箭佮弓入去遐,因為全地攏會變做刺佮荊棘。",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "帶箭"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "佮弓"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "會入去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "刺"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "佮荊棘"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會變做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:21.740494355Z",
+  "model": "glm-5.3"
+}

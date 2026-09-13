@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣佇伊身上揣著⟨את⟩石頭的,𪜶就獻予雅威的殿的寶庫,出佇革順人耶希埃勒的手。",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "閣…揣著"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "佇伊身上的石頭"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "𪜶就獻"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "予…的寶庫"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "出佇"
+    },
+    {
+      "surface": "יד",
+      "gloss": "…的手"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "耶希埃勒"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "革順人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:49.150389Z",
+  "model": "glm-5.3"
+}

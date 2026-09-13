@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶閣佇營內嫉妒摩西,嫉妒雅威的聖者亞倫。",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "閣…嫉妒"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "佇營內"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:17.250374795Z",
+  "model": "glm-5.3"
+}

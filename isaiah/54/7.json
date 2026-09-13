@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "佇小小的瞬間我放棄你,但是用大大的憐憫我欲聚集你。",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "佇瞬間"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "小小"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "我放棄你"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "但是用憐憫"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大大"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "我欲聚集你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:14.798366228Z",
+  "model": "glm-5.3"
+}

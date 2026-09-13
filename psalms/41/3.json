@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "雅威欲保守伊,互伊活落去,予伊佇地上得福;你也毋通將伊交佇伊對敵的私慾。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "欲保守伊"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "互伊活落去"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "得福"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也毋通"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "將伊交"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "佇……的私慾"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "伊對敵的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:46.131708216Z",
+  "model": "glm-5.3"
+}

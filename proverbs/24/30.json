@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "我對一个懶惰人的田邊行過,嘛對一个無心的人的葡萄園邊行過。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "對…邊"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个…人"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶惰"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "我行過"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "嘛對…邊"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "一个…人"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "無"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:07.619037006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "就是彼个袂聽念咒的人的聲,雖罔施咒的手段上巧。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "就是彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "念咒的人"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "施咒的"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "咒語"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "上巧"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:35.478239584Z",
+  "model": "glm-5.3"
+}

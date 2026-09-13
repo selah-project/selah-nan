@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "伊就互𪜶佇列國的手中,怨恨𪜶的人管轄𪜶。",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "伊就互𪜶"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手中"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "怨恨𪜶的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:01.316424206Z",
+  "model": "glm-5.3"
+}

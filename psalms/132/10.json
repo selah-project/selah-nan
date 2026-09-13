@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "為著大衛——恁的奴僕,毋通轉離恁彌賽亞的面。",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "恁的奴僕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "轉離"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "恁的彌賽亞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:03.907482263Z",
+  "model": "glm-5.3"
+}

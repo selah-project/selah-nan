@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "義人的向望干焦好,歹人的指望是受勃烈。",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "向望"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "אך",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "指望"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "受勃烈"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.915659786Z",
+  "model": "glm-5.3"
+}

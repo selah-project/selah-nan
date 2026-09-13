@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊閣將⟨את⟩洗槽下佇帳棚佮壇的中間,佇遐供水通洗軀體。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗槽"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗槽"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相會"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "供"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "通洗"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:01.527165953Z",
+  "model": "glm-5.3"
+}

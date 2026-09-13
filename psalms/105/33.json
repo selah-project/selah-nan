@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊擊打𪜶的葡萄樹佮𪜶的無花果樹,閣損破𪜶境內的樹木。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "伊擊打"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "𪜶的葡萄樹"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "佮𪜶的無花果樹"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "閣損破"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹木"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "𪜶境內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:43.640290718Z",
+  "model": "glm-5.3"
+}

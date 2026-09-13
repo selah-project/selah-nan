@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 32:3",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為猶大王西底家共伊關起來,講:「你哪會做先知講話,講:『雅威按呢講:看啊,我欲將⟨את⟩這個城交佇巴比倫王的手中,伊欲掠取伊。』」",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "共伊關起來"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "做先知講話"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "欲…交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這個城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…手中"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "伊欲掠取伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:58:34.951307600Z",
+  "model": "glm-5.3"
+}

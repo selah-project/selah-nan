@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "基列是阮的,瑪拿西嘛是阮的;以法蓮是阮頭殼的保障,猶大是阮的立法者。",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "是阮的"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "嘛是阮的"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "閣以法蓮"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "保障"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "阮頭殼的"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "阮的立法者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:07.736112911Z",
+  "model": "glm-5.3"
+}

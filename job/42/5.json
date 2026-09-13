@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "用耳仔聽著你,這馬我的目睭看見你。",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "用……聽"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "我聽著你"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "看見你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:06.497973073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "利未的後生有:革順、哥轄、米拉利。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "革順"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "哥轄"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "米拉利"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:33.903094244Z",
+  "model": "glm-5.3"
+}

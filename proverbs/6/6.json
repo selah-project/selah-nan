@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "去螞蟻遐,懶屍的;看伊的路,就得智慧。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…遐"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "螞蟻"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶屍的"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "就得智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:31.144801682Z",
+  "model": "glm-5.3"
+}

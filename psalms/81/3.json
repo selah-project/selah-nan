@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "恁著舉起詩歌,拍手鼓,用好聽的琴佮豎琴。",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "恁著舉起"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "佮拍"
+    },
+    {
+      "surface": "תף",
+      "gloss": "手鼓"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "好聽的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "豎琴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.160223321Z",
+  "model": "glm-5.3"
+}

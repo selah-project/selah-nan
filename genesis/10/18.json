@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣⟨את⟩亞瓦底人,閣⟨את⟩洗瑪利人,閣⟨את⟩哈馬人;後來迦南人的諸宗族就四散矣。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞瓦底人"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "亞瓦底人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "洗瑪利人"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "洗瑪利人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈馬人"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "哈馬人"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "後來"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "四散"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "諸宗族"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:12.469618981Z",
+  "model": "glm-5.3"
+}

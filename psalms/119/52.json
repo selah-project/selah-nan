@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "雅威啊,我記得你對古早以來的判語,我就得安慰。",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "我記得"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判語"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "對古早以來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "我就得安慰"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:28.633136464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "勸貵嘲弄的人,家己搶著見笑;責備歹人,家己得著瑕疵。",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "勸貵"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "嘲弄的人"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "搶著"
+    },
+    {
+      "surface": "לו",
+      "gloss": "家己"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "麥責備"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "伊的瑕疵"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.833528085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "拉班講:「我共⟨את⟩伊給你,卡好過共⟨את⟩伊給別个查埔人;你佮我蹛做伙。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "卡好"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "我共……給"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(拉結)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "過我共……給"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(拉結)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "給查埔人"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別个"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "蹛做伙"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "佮我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:00.797980228Z",
+  "model": "glm-5.3"
+}

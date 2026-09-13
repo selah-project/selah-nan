@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所以為著按呢,歹人佇審判裡袂徛起,罪人嘛袂徛佇義人的會中。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "佇審判裡"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "罪人嘛袂徛"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "佇…的會中"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:23.166548464Z",
+  "model": "glm-5.3"
+}

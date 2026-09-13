@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣⟨את⟩哈多蘭、⟨את⟩烏薩、閣⟨את⟩底克拉。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈多蘭"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "哈多蘭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "烏薩"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "烏薩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "底克拉"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "底克拉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:07.899613595Z",
+  "model": "glm-5.3"
+}

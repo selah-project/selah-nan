@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "起造耶路撒冷的,是雅威;伊欲聚集以色列四散的人。",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "四散的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "聚集"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:38.304814853Z",
+  "model": "glm-5.3"
+}

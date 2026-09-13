@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「我會引到你遐,到基順溪,⟨את⟩西西拉——耶賓兵隊的將軍——佮⟨את⟩伊的戰車、⟨את⟩伊的群眾;我會將伊交佇你的手中。」",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "我會引"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你遐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "基順"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西西拉"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "西西拉"
+    },
+    {
+      "surface": "שר",
+      "gloss": "將軍"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "兵隊"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "耶賓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的戰車"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "伊的戰車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的群眾"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "伊的群眾"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "我會將伊交"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手中"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:35.613760170Z",
+  "model": "glm-5.3"
+}

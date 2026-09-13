@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "所羅門的箴言。智慧的子互老父歡喜,愚戇的子是伊老母的憂悶。",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "箴言"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧的"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "互……歡喜"
+    },
+    {
+      "surface": "אב",
+      "gloss": "老父"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "抑是……的子"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚戇的"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "憂悶"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.252978824Z",
+  "model": "glm-5.3"
+}

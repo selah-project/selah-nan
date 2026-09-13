@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "大衛就給伊講:「你若佮我⟨את⟩過去,你就會佇我身上做一個重擔。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "你過去"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩佮我",
+      "marks": "你"
+    },
+    {
+      "surface": "והית",
+      "gloss": "你就是"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我身上"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "做一個重擔"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:47.803421566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "若是病痛閣轉來,佇提出⟨את⟩彼寡石頭了後,佇剉過⟨את⟩彼間厝了後,閣佇抹壁了後,佇厝內閣發出來——",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "閣轉來"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "病痛"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "閣發出來"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇厝內"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "提出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡石頭"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "彼寡石頭"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "佇…了後"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "剉過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼間厝"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "佇…了後"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "抹壁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:49.391228930Z",
+  "model": "glm-5.3"
+}

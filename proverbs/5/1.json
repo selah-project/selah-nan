@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "我子啊,注意我的智慧,向我的了解側你的耳。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我子"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "對我的智慧"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "注意聽"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "對我的了解"
+    },
+    {
+      "surface": "הט",
+      "gloss": "側"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:08.572273933Z",
+  "model": "glm-5.3"
+}

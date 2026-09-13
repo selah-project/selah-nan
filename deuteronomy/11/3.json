@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣 ⟨את⟩ 伊的神蹟,佮 ⟨את⟩ 伊所做的事,就是伊佇米茲拉因(埃及)中間,對法老——米茲拉因的王——佮對伊全地所做的,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的神蹟"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "伊的神蹟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊所做的事"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "伊所做的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "對法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "佮對攏總"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊的地"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:34.807980379Z",
+  "model": "glm-5.3"
+}

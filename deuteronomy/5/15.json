@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 5:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "你著會記得你曾做奴僕,佇米茲拉因(埃及)的地;雅威——你的以羅欣——用強的手佮伸出的膀臂,帶你對遐出來;因為按呢,雅威——你的以羅欣——才命令你去守⟨את⟩安息日。",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "你著會記得"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講你"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "היית",
+      "gloss": "曾做"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ויצאך",
+      "gloss": "帶你出來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強的"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "佮用膀臂"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸出的"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כן",
+      "gloss": "為按呢"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "命令你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "安息日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "…日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "彼安息"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:15.200689636Z",
+  "model": "glm-5.3"
+}

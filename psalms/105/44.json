@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊互𪜶列國的地,𪜶就承受萬民的勞碌。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "伊互"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "地"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "𪜶就承受"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:57.994714960Z",
+  "model": "glm-5.3"
+}

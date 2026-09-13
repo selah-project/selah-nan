@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "歸日阮的對敵侮辱我;對我起狂的人,用我的名咒誓。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "侮辱我"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "阮的對敵"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "對我起狂的人"
+    },
+    {
+      "surface": "בי",
+      "gloss": "用我的名"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "咒誓"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:47.224925368Z",
+  "model": "glm-5.3"
+}

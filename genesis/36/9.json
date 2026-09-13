@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "閣這个是「以掃」的家譜;「以掃」是「以東」的父,佇「西珥」山。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣這个是"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "家譜"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…的父"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇…山"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:46.092148636Z",
+  "model": "glm-5.3"
+}

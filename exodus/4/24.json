@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "佇路裡,佇過夜的所在,雅威抵著伊,想欲刣死伊。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路裡"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "佇過夜的所在"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "抵著伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "想欲"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "刣死伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:37.474730532Z",
+  "model": "glm-5.3"
+}

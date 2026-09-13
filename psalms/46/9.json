@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "來,看雅威的作為,伊佇地上所設的毀滅。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "來"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "看"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "作為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊…的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "設"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:38.639691617Z",
+  "model": "glm-5.3"
+}

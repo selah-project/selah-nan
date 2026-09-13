@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "燒佇火裡,受剁掉;對你面的責備,𪜶欲滅無。",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "燒佇火裡"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "受剁掉"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "對…的責備"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "𪜶欲滅無"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:37.116048929Z",
+  "model": "glm-5.3"
+}

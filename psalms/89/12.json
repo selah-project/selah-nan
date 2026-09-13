@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "天是你的,地嘛是你的;世界佮伊所充滿的,是你設立𪜶的。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "歸你"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לך",
+      "gloss": "歸你"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "佮伊所充滿的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "是你設立𪜶的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:25.821812536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "諸天咧數說以勒的榮光,穹蒼傳揚伊手所做的工。",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "咧數說"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "佮所做的工"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊手的"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "傳揚"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "穹蒼"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:10.822697299Z",
+  "model": "glm-5.3"
+}

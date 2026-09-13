@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你咧行的時,伊會引導你⟨את⟩;你咧睏的時,伊會看守佇你身上;你醒起來的時,伊會佮你講話。",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "你咧行的時"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "伊會引導"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你",
+      "marks": "你"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "你咧睏的時"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "伊會看守"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "佇你身上"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "你醒起來的時"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊(陰性,指誡命)"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "伊會佮你講話"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:14.948483097Z",
+  "model": "glm-5.3"
+}

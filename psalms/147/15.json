@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊差伊的命令到地上,伊的話真緊就走。",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "伊差"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "伊的命令"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "到地上"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "真緊"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "就走"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:29.274878323Z",
+  "model": "glm-5.3"
+}

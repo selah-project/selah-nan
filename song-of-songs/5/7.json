@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "巡城的看守揣著我,𪜶拍我,𪜶傷我;看守城牆的對我身上提走⟨את⟩我的面巾。",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "揣著我"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "看守的"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "巡…的"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "拍我"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "傷我"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "提走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的面巾"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "我的面巾"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "對我身上"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "看守…的"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "城牆"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:23.371042139Z",
+  "model": "glm-5.3"
+}

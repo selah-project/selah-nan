@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "耕作伊的土地會飽足餅;追逐空虛的會飽足貧窮。",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "耕作"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "飽足"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "佮追逐"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "飽足"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "貧窮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:25.526069501Z",
+  "model": "glm-5.3"
+}

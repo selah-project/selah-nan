@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 32:41",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "我若磨利我閃電的刀,我的手掠牢審判,我就欲向我的對敵討回報復,向怨恨我的人償還。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "磨利"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "閃電的"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "掠牢"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "討回"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報復"
+    },
+    {
+      "surface": "לצרי",
+      "gloss": "向我的對敵"
+    },
+    {
+      "surface": "ולמשנאי",
+      "gloss": "向怨恨我的人"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "償還"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:21.358680408Z",
+  "model": "glm-5.3"
+}

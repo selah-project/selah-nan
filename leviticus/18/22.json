@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "閣⟨את⟩男性,你毋通照佮查某人同房的彼款佮伊睏;彼是憎惡。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "男性"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男性"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "睏(同房)"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "同房的睏法"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "憎惡"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:36.666098344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "以色列入去米茲拉因,雅各旅居佇含的地。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "גר",
+      "gloss": "旅居"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:45.720686496Z",
+  "model": "glm-5.3"
+}

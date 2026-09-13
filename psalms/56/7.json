@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "𪜶聚集,𪜶匿踮暗處,𪜶看守我的腳跡,親像𪜶咧等候我的性命。",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "匿踮暗處"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "我的腳跡"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "看守"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "等候"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:33.874817876Z",
+  "model": "glm-5.3"
+}

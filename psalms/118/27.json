@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "以勒是雅威，伊照光互阮；用索仔縛節期的祭，直到祭壇的角。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "伊照光"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "互阮"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "縛"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節期的祭"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "用索仔"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "角"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:02.077254085Z",
+  "model": "glm-5.3"
+}

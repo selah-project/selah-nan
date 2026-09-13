@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣伊欲放予⟨את⟩以色列,因為耶羅波安的罪——伊所犯的,閣伊害以色列犯的⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "閣欲放予"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "罪"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "閣…所"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "害…犯"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:22.255718823Z",
+  "model": "glm-5.3"
+}

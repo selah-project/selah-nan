@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "佇𪜶的艱苦中,𪜶向雅威哀求,伊對𪜶的壓迫內面救𪜶出來。",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "𪜶哀求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇艱苦中"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "對𪜶的壓迫"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "救𪜶出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:39.309807849Z",
+  "model": "glm-5.3"
+}

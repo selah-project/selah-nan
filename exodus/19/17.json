@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "摩西就帶 ⟨את⟩ ⟨這个⟩ 百姓出去⹀欲迎接以羅欣,對營中出來;𪜶就徛佇山腳下。",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "就帶出去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這个百姓"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "欲迎接"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對……出來"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "就徛企"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "佇……腳下"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:59.344823517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "獨我時刻佮你逗陣,你攬牢我的正手。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "獨我"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "時刻"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你逗陣"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "攬牢"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "我的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:20.759827291Z",
+  "model": "glm-5.3"
+}

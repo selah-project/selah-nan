@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "彼一幅幔仔的長是二十八肘,彼一幅幔仔的闊是四肘;所有的幔仔攏用做一个尺寸。",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "彼幅幔仔"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "佮闊"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "彼幅幔仔"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "尺寸"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "幔仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:52.536161100Z",
+  "model": "glm-5.3"
+}

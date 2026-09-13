@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "我就帶𪜶出埃及地,導𪜶入曠野。",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "我就帶𪜶出"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "導𪜶入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T04:14:34.698617619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "人就受壓落,人就卑落,懸懸倨傲的人的目睭嘛攏低落。",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "受壓落"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "卑落"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "…的目睭"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "懸懸倨傲的人"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "攏低落"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:02.959511694Z",
+  "model": "glm-5.3"
+}

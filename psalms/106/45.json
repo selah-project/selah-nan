@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 106:45",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "閣伊為著𪜶記得伊的約,閣照伊赫瑟德的豐盛來憐憫。",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "閣記得"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為著𪜶"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "伊的約"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "閣憐憫"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "照……的豐盛"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:36.007648436Z",
+  "model": "glm-5.3"
+}

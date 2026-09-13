@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 8:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "行法術的就對法老講:「這是以羅欣的指頭!」法老的心就剉起來,無聽𪜶,照雅威所講的。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "行法術的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "指頭"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "就剉起來"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所講的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:31.372739989Z",
+  "model": "glm-5.3"
+}

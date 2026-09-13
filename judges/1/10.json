@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "猶大去對付徛佇希伯崙(希伯崙早前的名是基列亞巴)的迦南人,𪜶拍死⟨את⟩示篩、⟨את⟩亞希幔,佮⟨את⟩撻買。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "彼个迦南人"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮…个名"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "早前"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "亞巴"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "𪜶拍死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "示篩"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "示篩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞希幔"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "亞希幔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "撻買"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "撻買"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:25.952257458Z",
+  "model": "glm-5.3"
+}

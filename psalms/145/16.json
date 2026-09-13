@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "你拍開⟨את⟩你的手,予一切活物攏得飽足照伊的意願。",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "拍開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "佮予飽足"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活物"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "照伊的意願"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:01.671337658Z",
+  "model": "glm-5.3"
+}

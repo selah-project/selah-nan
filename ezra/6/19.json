@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "流亡的子兒佇頭一個月的十四日守⟨את⟩彼個逾越節。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "守"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "流亡的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個逾越節"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "彼個逾越節"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "佇…十四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "…日對彼個月"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一個"
+    }
+  ],
+  "timestamp": "2026-09-13T04:33:35.578092753Z",
+  "model": "glm-5.3"
+}

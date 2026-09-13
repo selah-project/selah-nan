@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣恁佇恁一切的所蹛的所在,毋通食任何的血,無論是鳥仔的,抑是牲畜的。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "閣任何的"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…一切的"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "恁所蹛的所在"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "鳥仔的"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "抑是牲畜的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:49.134994385Z",
+  "model": "glm-5.3"
+}

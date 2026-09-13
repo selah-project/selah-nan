@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "因為你的赫嚇佮你的大受氣,因為你捌舉我起來,紲擲掉我。",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "因為…的面"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "你的赫嚇"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "佮你的大受氣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "你捌舉我起來"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "紲擲掉我"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:21.368179294Z",
+  "model": "glm-5.3"
+}

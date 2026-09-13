@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "願燒炭落佇𪜶身上；願𪜶互火摔落去，落佇深坑內，𪜶就攏袂當閣起來。",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "落"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶身上"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "燒炭"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "摔落去"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "深坑內"
+    },
+    {
+      "surface": "בל",
+      "gloss": "攏袂當"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "閣起來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:19.518975780Z",
+  "model": "glm-5.3"
+}

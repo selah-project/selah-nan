@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "尼尼微的人信以羅欣,𪜶宣告禁食,嘛穿麻衫,對𪜶上大的到上細的。",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "信"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "的人"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "𪜶宣告"
+    },
+    {
+      "surface": "צום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "嘛穿"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "麻衫"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "對𪜶上大的"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "上細的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:49.074473463Z",
+  "model": "glm-5.3"
+}

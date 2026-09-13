@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "阿多奈,阮一切的向望攏佇祢面前;𪜶毋知 —— 阮的吐氣對祢遐無掩密。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "佇祢面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "阮的向望"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "阮的吐氣"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對祢遐"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "掩密"
+    }
+  ],
+  "timestamp": "2026-09-13T08:35:24.856538050Z",
+  "model": "glm-5.3"
+}

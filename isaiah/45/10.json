@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "哀哉,彼个對老父講:「你生啥物?」抑是對查某人講:「你分娩啥物?」",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "對老父"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "你生"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "抑是對查某人"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "你分娩"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:05.553685071Z",
+  "model": "glm-5.3"
+}

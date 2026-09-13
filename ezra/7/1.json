@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 7:1",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "行了這些代誌了後,佇亞達薛西(波斯王的治理)的國度,以斯拉——西萊雅的後生,亞撒利雅的後生,希勒家的後生——",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "這些代誌"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "佇……的國度"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "亞達薛西"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "波斯"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "以斯拉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "西萊雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "希勒家"
+    }
+  ],
+  "timestamp": "2026-09-12T05:50:32.058921192Z",
+  "model": "glm-5.3"
+}

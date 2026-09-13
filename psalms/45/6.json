@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "你的箭尖利,列邦仆佇你下面,⟨射入⟩王的仇敵的心。",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "你的箭"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "尖利"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "佇你下面"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "仆落"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "入心"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "的仇敵"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:27.864994121Z",
+  "model": "glm-5.3"
+}

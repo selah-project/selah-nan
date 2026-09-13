@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "2-samuel 22:44",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "你救我脫離我人民的爭執,你保守我徛做列國的頭;我毋捌識的人民服事我。",
+  "tokens": [
+    {
+      "surface": "ותפלטני",
+      "gloss": "你救我"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "爭執"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "תשמרני",
+      "gloss": "你保守我"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "徛做頭"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我捌識"
+    },
+    {
+      "surface": "יעבדני",
+      "gloss": "服事我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:01:51.282688576Z",
+  "model": "glm-5.3"
+}

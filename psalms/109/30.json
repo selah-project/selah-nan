@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "我欲用喙大大感謝雅威,佇眾人中間我欲謳咾伊。",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "我欲…感謝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "用喙"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "我欲謳咾伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:16.796233065Z",
+  "model": "glm-5.3"
+}

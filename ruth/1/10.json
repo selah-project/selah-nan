@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "𪜶就給伊講:「毋是,阮欲佮⟨את⟩妳倒轉去妳的百姓遐。」",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "𪜶就講"
+    },
+    {
+      "surface": "לה",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "毋是(實在)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩佮妳"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "阮欲倒轉去"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "妳的百姓遐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:42.768594706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 48:38",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "佇摩押所有的厝頂,佇伊的街路,攏總是哀哭;因為我拍破⟨את⟩摩押,親像一個無人愛的器皿,雅威的神諭。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "厝頂"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "佮佇伊的街路"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "哀哭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "我拍破"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩押"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "親像一個器皿"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "人愛"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:05:08.841509334Z",
+  "model": "glm-5.3"
+}

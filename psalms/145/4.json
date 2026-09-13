@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "一代閣一代欲讚美你的作為,欲宣揚你的大權能。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "一代"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "欲讚美"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的作為"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "閣你的大權能"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "欲宣揚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:41.613095327Z",
+  "model": "glm-5.3"
+}

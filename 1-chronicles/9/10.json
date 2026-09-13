@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "對祭司中間:耶大雅、耶何雅立,佮雅斤。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "耶大雅"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "佮耶何雅立"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "佮雅斤"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:25.972854110Z",
+  "model": "glm-5.3"
+}

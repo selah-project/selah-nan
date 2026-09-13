@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "你欲掩護𪜶佇你面的隱密處,脫離人的計謀;你欲收藏𪜶佇棚仔內,脫離舌頭的爭論。",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "你欲掩護𪜶"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "佇隱密處"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "脫離計謀"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "你欲收藏𪜶"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "佇棚仔內"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "脫離爭論"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "舌頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:03.072609248Z",
+  "model": "glm-5.3"
+}

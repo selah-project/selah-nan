@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "你毋通家己造偶像，抑是任何的形象，無論佇頂面諸天內底的，抑是佇下面大地內底的，抑是佇大地下底水內底的，攏毋通。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "לך",
+      "gloss": "家己"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "抑是任何"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "形象"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天內底"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "抑是彼個"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇大地內底"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下面"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "抑是彼個"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水內底"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:49.953901977Z",
+  "model": "glm-5.3"
+}

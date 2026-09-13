@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇彼日,佇書珊城堡內底刣死的人的數目,入來到王面前。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入來到"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "刣死的人"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "城堡"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:38.237690263Z",
+  "model": "glm-5.3"
+}

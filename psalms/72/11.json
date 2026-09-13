@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "眾王攏欲向伊跪拜,列國攏欲服事伊。",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "佮欲跪拜"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "眾王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "欲服事伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:39.642808596Z",
+  "model": "glm-5.3"
+}

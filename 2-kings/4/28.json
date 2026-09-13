@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊講:「我敢有對阿多奈求過囝仔⟨את⟩?我毋是講過,毋通瞞騙⟨את⟩我?」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "…講"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "我敢有求過"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩對"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "毋是…無"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講過"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "瞞騙"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:53.423784734Z",
+  "model": "glm-5.3"
+}

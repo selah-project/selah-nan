@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為世上無義人佇地上,會做好閣毋犯罪的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "世人"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "會做"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "犯罪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:03.573665865Z",
+  "model": "glm-5.3"
+}

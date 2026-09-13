@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "停止相爭是人的榮光;凡愚戇的人攏咧爭鬧。",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "對人"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "停止"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "咧爭鬧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:52.433495248Z",
+  "model": "glm-5.3"
+}

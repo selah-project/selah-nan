@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "這一切攏臨到尼布甲尼撒王身上。",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……身上"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:44:19.799411532Z",
+  "model": "glm-5.3"
+}

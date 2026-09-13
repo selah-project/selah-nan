@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "佇彼些日仔佮彼个時陣,雅威的神諭講:人欲揣⟨את⟩以色列的過犯,卻無存在;閣⟨את⟩猶大的罪,嘛揣袂著;因為我欲赦免我所留落來的人。",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "佇彼些日仔"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼些"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "佮佇彼个時陣"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "人欲揣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的過犯"
+    },
+    {
+      "surface": "עון",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "卻無存在"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的罪"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "揣袂著"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "我欲赦免"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "對……的人"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "我所留落來的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:14.594597417Z",
+  "model": "glm-5.3"
+}

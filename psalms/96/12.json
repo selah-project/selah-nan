@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "願田野歡騰,佮伊內底所有的;當彼時,森林所有的樹攏欲唱歌出聲。",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "歡騰"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田野"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "אז",
+      "gloss": "當彼時"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "唱歌出聲"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "樹"
+    },
+    {
+      "surface": "יער",
+      "gloss": "森林"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:33.705439592Z",
+  "model": "glm-5.3"
+}

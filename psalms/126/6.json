@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 126,
+  "translation": "一直行、行去,哮夯撒種的袋,確定欲佇歡呼內倒來,夯伊的禾捆。",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "一直行"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "行去"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "哮"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "夯"
+    },
+    {
+      "surface": "משך",
+      "gloss": "撒種的袋"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "彼撒的種"
+    },
+    {
+      "surface": "בא",
+      "gloss": "確定欲"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "倒來"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "佇歡呼內"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "夯"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "伊的禾捆"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.660492032Z",
+  "model": "glm-5.3"
+}

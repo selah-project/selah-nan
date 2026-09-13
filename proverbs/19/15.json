@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "懈怠予人沉沉睏,佮散慢的性命會枵。",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "懈怠"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "予人沉落去"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "沉沉睏"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "佮性命"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "散慢"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "會枵"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:15.822457836Z",
+  "model": "glm-5.3"
+}

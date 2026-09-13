@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "雅威看守⟨את⟩一切疼伊的人,閣⟨את⟩一切歹人伊欲滅無。",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切疼伊的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "疼伊的人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "一切歹人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "欲滅無"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.792077075Z",
+  "model": "glm-5.3"
+}

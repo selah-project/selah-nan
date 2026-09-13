@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "著聽你的老父,就是生你的;你的老母老的時,毋通看輕伊。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "זה",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "生你的"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "看輕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "老"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你的老母"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:28.850847387Z",
+  "model": "glm-5.3"
+}

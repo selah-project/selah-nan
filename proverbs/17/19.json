@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "愛過犯的,愛冤家;懸高伊門口的,咧揣破敗。",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "冤家"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "懸高"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "伊的門口"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "咧揣"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "破敗"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:30.322770031Z",
+  "model": "glm-5.3"
+}

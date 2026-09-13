@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你自己愛謹慎,免得汝袂記得⟨את⟩雅威,就是祂帶汝出米茲拉因(埃及)地、對奴僕的厝出來的彼位。",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "愛謹慎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你自己"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "帶汝出"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對……的厝"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T06:25:12.319588406Z",
+  "model": "glm-5.3"
+}

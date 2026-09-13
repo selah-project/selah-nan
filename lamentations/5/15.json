@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "阮心肝的歡喜停止矣,阮的舞蹈反轉做哀傷。",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "停止"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "阮心肝"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "反轉做"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "阮的舞蹈"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:26.906645531Z",
+  "model": "glm-5.3"
+}

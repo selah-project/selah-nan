@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶倒退落去,背信親像𪜶的祖先;𪜶變到親像一張詭詐的弓。",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "倒退落去"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "背信"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "親像𪜶的祖先"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "變到"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "親像一張弓"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "詭詐的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:35.937684932Z",
+  "model": "glm-5.3"
+}

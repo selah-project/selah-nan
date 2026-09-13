@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為惱怒會害死戇愚人,嫉妒嘛會害死憨直的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "戇愚人"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "會害死"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "惱怒"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "閣憨直的"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "嘛會害死"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "嫉妒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:00.161069405Z",
+  "model": "glm-5.3"
+}

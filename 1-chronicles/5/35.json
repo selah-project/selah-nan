@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "亞希瑪斯生⟨את⟩亞撒利雅,亞撒利雅生⟨את⟩約哈難。",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "亞希瑪斯"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞撒利雅"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約哈難"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "約哈難"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:18.070395454Z",
+  "model": "glm-5.3"
+}

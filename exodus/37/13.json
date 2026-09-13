@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊閣為伊鑄四個金環,將⟨את⟩彼个環下佇四個邊角頂,彼四个角就是佇桌的四支跤遐。",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "鑄"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四個"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "環"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "下佇"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个環"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "彼个環"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四個"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "邊角"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "佇四支"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的跤"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:05.285294392Z",
+  "model": "glm-5.3"
+}

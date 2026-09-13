@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "有福氣啊,你的人!閣有福氣啊,你諸个奴僕,就是常常徛佇你面前、聽你智慧⟨את⟩的遮个!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "你的人"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "閣有福氣啊"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你諸个奴僕"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "閣聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的智慧"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    }
+  ],
+  "timestamp": "2026-09-13T04:49:22.459983917Z",
+  "model": "glm-5.3"
+}

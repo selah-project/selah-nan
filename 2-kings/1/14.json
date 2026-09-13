@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「你看,火對天落落來,吞食⟨את⟩頭前彼兩個五十人的隊長佮⟨את⟩𪜶的五十人;這陣,求你互我的性命佇你的目睭內看做貴重。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "落落來"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭前彼兩個五十人的隊長"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "隊長"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "五十人的"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "頭前的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的五十人"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "𪜶的五十人"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "看做貴重"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "佇你的目睭內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:18.819255415Z",
+  "model": "glm-5.3"
+}

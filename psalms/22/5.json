@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "阮的祖先佇你倚靠;𪜶倚靠,你就救𪜶脫離。",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "你就救𪜶脫離"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:17.062035317Z",
+  "model": "glm-5.3"
+}

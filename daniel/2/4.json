@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "迦勒底人就用亞蘭話對王講:王啊,願王萬歲!請王將夢講互恁的奴僕聽,阮就會當解說伊的意思。",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "對王"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "用亞蘭話"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王啊"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "萬歲(到永遠)"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "願…活"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "請講"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "夢"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "互恁的奴僕"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "伊的意思(解釋)"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "阮就會當解說"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:36.128273632Z",
+  "model": "glm-5.3"
+}

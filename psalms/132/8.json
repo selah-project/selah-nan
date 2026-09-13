@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "雅威啊,起來,入去你的安息所在——你,以及你權能的約櫃。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "入去你的安息所在"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "以及約櫃"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你權能的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.886445931Z",
+  "model": "glm-5.3"
+}

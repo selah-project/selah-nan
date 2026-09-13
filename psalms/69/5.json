@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "恨我無緣故的人,比阮頭殼頂的頭毛較濟;欲滅絕我的人、用白賊做我對敵的,攏真強;我無搶奪的,彼時我就愛還。",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "較濟"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "頭毛"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "恨我的人"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無緣故"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "攏真強"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "欲滅絕我的人"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "我搶奪"
+    },
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我就愛還"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:29.848047537Z",
+  "model": "glm-5.3"
+}

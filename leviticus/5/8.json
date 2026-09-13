@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "伊著帶⟨את⟩𪜶到祭司面前,閣獻⟨את⟩彼個做贖罪祭的——代先——閣對伊頷頸的前面扭斷⟨את⟩伊的頭,毋通完全分開。",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "伊著帶"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(兩隻鳥仔)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "閣獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個做贖罪祭的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個…的"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做贖罪祭"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "代先"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "閣扭斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的頭"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "對…的前面"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "伊的頷頸"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "完全分開"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:35.139441327Z",
+  "model": "glm-5.3"
+}

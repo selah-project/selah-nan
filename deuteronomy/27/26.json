@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "受咒詛的是彼个毋設立⟨את⟩這部律法的話來行⟨את⟩𪜶的人;規個百姓攏欲講:阿門。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "受咒詛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "設立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這部律法的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "這部律法"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "來行"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "這部律法的話"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "攏欲講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿門"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:42.112885752Z",
+  "model": "glm-5.3"
+}

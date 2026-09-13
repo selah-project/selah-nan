@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "後來,大衛拍擊⟨את⟩非利士人,予𪜶降伏,閣對非利士人的手中奪取⟨את⟩迦特佮伊的附屬城鎮。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "拍擊"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "予𪜶降伏"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "奪取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦特"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "佮伊的附屬城鎮"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手中"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:58.970997778Z",
+  "model": "glm-5.3"
+}

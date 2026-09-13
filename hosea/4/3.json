@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 4:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為按呢，土地欲哭悲，佇⟨伊⟩面頂徛的攏欲衰弱── 田裡的野獸、天頂的飛鳥，連海裡的魚嘛欲消無。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "欲哭悲"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ואמלל",
+      "gloss": "攏欲衰弱"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊面頂"
+    },
+    {
+      "surface": "בחית",
+      "gloss": "佇野獸"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "佇飛鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "連……嘛"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "魚"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海裡的"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "欲消無"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:09.289270866Z",
+  "model": "glm-5.3"
+}

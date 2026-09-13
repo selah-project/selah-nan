@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 111,
+  "translation": "敬畏雅威是智慧的起頭;行遮個誡命的,攏有好的明達;伊的讚美徛到永遠。",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "明達"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "行遮個誡命的"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "伊的讚美"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:43.386331695Z",
+  "model": "glm-5.3"
+}

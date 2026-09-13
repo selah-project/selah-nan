@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅各入埃及了,恁的祖先向雅威哀叫,雅威就差⟨את⟩摩西佮⟨את⟩亞倫,𪜶共⟨את⟩恁的祖先對埃及帶出來,安置𪜶佇這個所在。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "哀叫"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "恁的祖先"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就差"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "亞倫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "𪜶帶出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的祖先"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "恁的祖先"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對埃及"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "安置𪜶"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇…所在"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:09.058058530Z",
+  "model": "glm-5.3"
+}

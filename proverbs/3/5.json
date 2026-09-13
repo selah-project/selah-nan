@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "用你規個心倚靠雅威,毋通倚靠你家己的聰明;",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向(倚靠的對象)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用規個"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "也毋通向"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "你的聰明"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "倚靠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:46.190867343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊講:因為 ⟨את⟩ 七隻母羊囝你欲對我手裡提,為著欲做我的見證,講是我掘 ⟨את⟩ 這口井。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七隻母羊囝"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "母羊囝"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "對我手裡"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "為著"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "見證"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "我掘"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這口井"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "井"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這口"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:41.116692157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "「因為我剝光⟨את⟩以掃,我露出⟨את⟩伊的隱匿所在,伊欲匿嘛袂當;伊的後裔受掠奪,伊的兄弟、伊的厝邊,伊已經無去矣。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "剝光"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以掃"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "我露出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的隱匿所在"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "伊的隱匿所在"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "欲匿"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "當"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "受掠奪"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "伊的後裔"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "伊的厝邊"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "伊無去矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:05:39.754213882Z",
+  "model": "glm-5.3"
+}

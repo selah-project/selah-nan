@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為萬民攏欲行,逐人佇伊的神的名;獨阮欲行佇雅威──阮的以羅欣──的名,到永遠,無息。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "佇…的名"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的神"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "獨阮"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "佇…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "無息"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:52.914551233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶的心毋是佮伊徛在,嘛毋是佇伊的約內面堅固。",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "𪜶的心"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋是"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "堅固"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "佇伊的約內面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:35.204467772Z",
+  "model": "glm-5.3"
+}

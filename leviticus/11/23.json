@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "若是一切泅動、會飛、有四跤的,彼个對恁是嫌惡物。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "若是一切"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "泅動"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "會飛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "跤"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "嫌惡物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:00.350299194Z",
+  "model": "glm-5.3"
+}

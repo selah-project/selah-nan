@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "起來,去尼尼微──彼個大城──向伊呼叫,因為𪜶的歹已經升到阮面頭前。",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "向伊呼叫"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "升到"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "𪜶的歹"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:42.851495481Z",
+  "model": "glm-5.3"
+}

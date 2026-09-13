@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "地就染著無清氣,我就追究伊的罪落佇伊身上,地就吐出 ⟨את⟩ 伊的居民。",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "就染著無清氣"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "我就追究"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "伊的罪"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "落佇伊身上"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "就吐出"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的居民"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "伊的居民"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:09.425840736Z",
+  "model": "glm-5.3"
+}

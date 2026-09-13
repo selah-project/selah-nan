@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 1:15",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "十日了後,𪜶的面容顯出較好、肉較肥,贏過一切食⟨את⟩王美食的少年仔。",
+  "tokens": [
+    {
+      "surface": "ומקצת",
+      "gloss": "對……的尾"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "顯出"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "𪜶的面容"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "ובריאי",
+      "gloss": "較肥"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "מן",
+      "gloss": "贏過"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "少年仔"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "食……的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王美食"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "美食"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:02.799955939Z",
+  "model": "glm-5.3"
+}

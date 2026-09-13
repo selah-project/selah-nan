@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "我,就是我,彼位咧抹消你的過犯,為著我家己的緣故,你的罪我毋閣記念。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "就是我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "抹消"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "你的過犯"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "為著我家己的緣故"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "你的罪"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "記念"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:26.309994444Z",
+  "model": "glm-5.3"
+}

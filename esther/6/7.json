@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "哈曼就對王講:「對彼个人,就是王所意愛欲尊崇伊的——",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "איש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "所意愛"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "欲尊崇伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:42.579603133Z",
+  "model": "glm-5.3"
+}

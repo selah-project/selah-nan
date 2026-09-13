@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "後面佮前面,你圍牢我;你勘你的手掌佇我身上。",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "後面"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "佮前面"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "你圍牢我"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "你勘"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我身上"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "你的手掌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:55.041397985Z",
+  "model": "glm-5.3"
+}

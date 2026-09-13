@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "按呢耶利米出入佇人民的中間,因為𪜶猶未將⟨את⟩伊關入監牢。",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼个人民"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "將…關"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "בית",
+      "gloss": "監牢"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "彼个關押"
+    }
+  ],
+  "timestamp": "2026-09-12T04:01:10.733915034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "伊導⟨𪜶⟩出黑暗佮死蔭，閣共𪜶的鎖鏈拆斷。",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "伊導𪜶出"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "佮死蔭"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "閣𪜶的鎖鏈"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "拆斷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:34.854876299Z",
+  "model": "glm-5.3"
+}

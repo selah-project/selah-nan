@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "閣 ⟨את⟩ 南方,閣 ⟨את⟩ 彼個平洋,耶利哥的溪谷,棕欉之城,一直到瑣珥。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "南方"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南方"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "彼個平洋"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "彼個平洋"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "溪谷"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "棕欉"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "צער",
+      "gloss": "瑣珥"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:39.819311307Z",
+  "model": "glm-5.3"
+}

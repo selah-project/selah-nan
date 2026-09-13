@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "因為我的老父佮我的老母放捨我,總是雅威欲收留我。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的老父"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "佮我的老母"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "放捨我"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "總是雅威"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "欲收留我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:51.893785256Z",
+  "model": "glm-5.3"
+}

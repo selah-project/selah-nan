@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶佇何烈做一隻牛犢，閣向鑄像跪拜。",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "一隻牛犢"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "佇何烈"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "閣跪拜"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "向鑄像"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:19.420508567Z",
+  "model": "glm-5.3"
+}

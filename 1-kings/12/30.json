@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "這个代誌成做罪:百姓行到彼一隻的面前,直到但。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就成做"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼个代誌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做罪"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼百姓"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "到…的面前"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一隻"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:50.513428360Z",
+  "model": "glm-5.3"
+}

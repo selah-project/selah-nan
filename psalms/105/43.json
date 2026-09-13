@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊導𪜶的子民出去,用歡喜;用歌唱,⟨את⟩伊所揀選的人。",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "伊導……出去"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "𪜶的子民"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "用歡喜"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "用歌唱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所揀選的人"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "伊所揀選的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:57.994503626Z",
+  "model": "glm-5.3"
+}

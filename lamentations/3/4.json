@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊消磨我的肉佮我的皮,伊拍碎我的骨頭。",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "伊消磨"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "佮我的皮"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "伊拍碎"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "我的骨頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:09.237076040Z",
+  "model": "glm-5.3"
+}

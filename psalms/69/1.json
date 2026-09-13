@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "互指揮者,用「舒善寧」(百合花),大衛的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "「舒善寧」(百合花)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的詩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:50.031797053Z",
+  "model": "glm-5.3"
+}

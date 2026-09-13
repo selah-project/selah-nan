@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "你管轄海的傲氣;海的湧揚起的時,你鎮靜𪜶。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "佇…的傲氣"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "佇…揚起的時"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "伊的湧"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "鎮靜𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:25.821434496Z",
+  "model": "glm-5.3"
+}

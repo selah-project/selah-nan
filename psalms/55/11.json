@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "日時佮暗時,𪜶攏佇城的牆圍繞伊;乖謬佮災禍佇伊的中間。",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暗時"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "𪜶攏圍繞伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "城的牆"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "佮乖謬"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "佮災禍"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "佇伊的中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:57.464318212Z",
+  "model": "glm-5.3"
+}

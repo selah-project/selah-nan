@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 39:19",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "恁欲食油到飽,飲血到醉,這是我為恁所宰的祭祀。",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "恁欲食"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "到飽"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "飲"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לשכרון",
+      "gloss": "到醉"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "對我的祭祀"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "這是"
+    },
+    {
+      "surface": "זבחתי",
+      "gloss": "我所宰的"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為恁"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:43.240952105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "你共你的子民賣做無值,嘛無對𪜶的價數得著啥物利益。",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "你共…賣"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的子民"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "做無"
+    },
+    {
+      "surface": "הון",
+      "gloss": "值(財利)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "得著加添"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "對𪜶的價數"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:25.700239706Z",
+  "model": "glm-5.3"
+}

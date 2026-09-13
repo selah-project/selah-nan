@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "𪜶就行來行去,對一個邦國到一個邦國,對一個王國到別族的人民。",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "𪜶就行來行去"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "對一個邦國"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "一個邦國"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "閣對一個王國"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別族"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:12.227476674Z",
+  "model": "glm-5.3"
+}

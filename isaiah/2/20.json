@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佇彼日,人會擲掉⟨את⟩伊銀仔做的虛無神明,閣擲掉⟨את⟩伊金仔做的虛無神明,就是𪜶家己做出來拜的,予齧鼠仔佮暗光鳥。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "會擲掉"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊銀仔做的虛無神明"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "虛無神明"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "伊銀仔做的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊金仔做的虛無神明"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "虛無神明"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "伊金仔做的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做出來"
+    },
+    {
+      "surface": "לו",
+      "gloss": "𪜶家己"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "拜"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "予齧鼠仔"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "齧鼠仔的洞穴"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "佮暗光鳥"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:04.559547228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 137,
+  "translation": "願我的舌黏佇我的口腔頂,我若無記得你;我若無捧耶路撒冷⟨את⟩踮我的歡喜的頭前。",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "願…黏"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的舌"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "我的口腔"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "我記得你"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "我捧"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "על",
+      "gloss": "踮…頂"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "我的歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:11.799891160Z",
+  "model": "glm-5.3"
+}

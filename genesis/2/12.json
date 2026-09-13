@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣彼地的金是好──遐有布德拉克(一種香膠)佮紹罕石。",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "閣…的金"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "布德拉克"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "佮…石"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "紹罕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:32.457490649Z",
+  "model": "glm-5.3"
+}

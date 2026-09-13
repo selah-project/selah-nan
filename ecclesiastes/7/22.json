@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為真濟擺,你的心嘛知影,你也曾按呢咒詛過別人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "──"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "咒詛過"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:08.965491546Z",
+  "model": "glm-5.3"
+}

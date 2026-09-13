@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為𪜶的磐石毋親像咱的磐石,連阮的敵人嘛做審判。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "親像咱的磐石"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "𪜶的磐石"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "連阮的敵人"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "做審判"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:00.989861680Z",
+  "model": "glm-5.3"
+}

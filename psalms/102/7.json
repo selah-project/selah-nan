@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "阮親像曠野的鵁鴒,阮成做親像荒埔的貓頭鳥。",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "阮親像"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "鵁鴒"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "阮成做"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "親像貓頭鳥"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "荒埔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:23.367184650Z",
+  "model": "glm-5.3"
+}

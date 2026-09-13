@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "一條河對伊甸流出來,欲沃⟨את⟩園,閣對遐分開,做四個頭。",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "一條河"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "流出來"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "對伊甸"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "欲沃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "園"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "閣對遐"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "分開"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "四個"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "頭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:32.456339175Z",
+  "model": "glm-5.3"
+}

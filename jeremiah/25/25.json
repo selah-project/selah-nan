@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣⟨את⟩洗姆里所有的王,閣⟨את⟩以攬所有的王,閣⟨את⟩瑪代所有的王。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "洗姆里所有的王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "洗姆里"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以攬所有的王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "以攬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "瑪代所有的王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "瑪代"
+    }
+  ],
+  "timestamp": "2026-09-12T03:55:29.738113143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "日頭、月光徛佇𪜶的居所;佇你箭的光中間𪜶行動;佇閃爍,你燦爛的戟。",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月光"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "𪜶的居所"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "佇光中間"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "你的箭"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "𪜶行動"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "佇閃爍"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "燦爛"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "你的戟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:55.159026611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "追我、做我對敵的人真濟;若是對你的證言我無偏斜去。",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "追我的"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "佮我的對敵"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "你的證言"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "偏斜去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:29.175238799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "⟨את⟩ 雅威,汝今仔日宣告伊欲做汝的以羅欣,閣欲行佇伊的道路,守伊的律例、伊的誡命佮伊的典章,閣聽伊的聲。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "汝的"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "佇伊的道路"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "閣守"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "伊的律例"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "佮伊的誡命"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "佮伊的典章"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "閣聽"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "佇伊的聲"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:37.630074474Z",
+  "model": "glm-5.3"
+}

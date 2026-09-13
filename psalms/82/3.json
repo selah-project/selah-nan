@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 82,
+  "translation": "替軟弱的佮孤囝審判,予窮苦的佮散凶人得著公道。",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "替……審判"
+    },
+    {
+      "surface": "דל",
+      "gloss": "軟弱的"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "佮孤囝"
+    },
+    {
+      "surface": "עני",
+      "gloss": "窮苦的"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "佮散凶人"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "予……得著公道"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:58.904574514Z",
+  "model": "glm-5.3"
+}

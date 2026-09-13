@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "榮光佮威嚴佇伊面前;力量佮美好佇伊的聖所。",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "佮威嚴"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "佮美好"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "佇伊的聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:46.481001410Z",
+  "model": "glm-5.3"
+}

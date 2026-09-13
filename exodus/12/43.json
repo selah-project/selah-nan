@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅威對摩西佮亞倫講:這是逾越節的定例:逐個外國仔毋通食伊。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "…的定例"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "逾越節"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外國"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊(在其中)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:40.135018348Z",
+  "model": "glm-5.3"
+}

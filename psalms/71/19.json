@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "閣汝的公義,以羅欣啊,到懸高的所在;汝行大代誌——以羅欣啊,啥人親像汝?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "閣汝的公義"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "懸高的所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "汝行"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大代誌"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "親像汝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:09.311529232Z",
+  "model": "glm-5.3"
+}

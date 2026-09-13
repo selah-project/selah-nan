@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "我的體骨對你無隱藏,我佇隱密所在受造,佇土腳的深處得編織。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "隱藏"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "我的體骨"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(彼時)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我受造"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "佇隱密所在"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "我得編織"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "佇深處"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土腳"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:53.514049788Z",
+  "model": "glm-5.3"
+}

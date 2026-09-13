@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "歡喜的心會使醫好身體;憂悶的氣神會予骨頭焦乾。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "歡喜的"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "會使醫好"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "身體"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "的氣神"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "憂悶的"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "會予焦乾"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "骨頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:56.400292848Z",
+  "model": "glm-5.3"
+}

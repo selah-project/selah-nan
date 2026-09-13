@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "給伊唱,給伊奏樂,數念伊一切的奇妙。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "唱"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "奏樂"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "數念"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "奇妙"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:42.469965134Z",
+  "model": "glm-5.3"
+}

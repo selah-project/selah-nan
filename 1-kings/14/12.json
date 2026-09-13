@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "你起來,轉去你的家;你的跤一入城,彼个囡仔就會死。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "你"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "轉去"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "去你的家"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "一入"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "你的跤"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "城"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "就會死"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "彼个囡仔"
+    }
+  ],
+  "timestamp": "2026-09-12T03:09:14.244224639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "願天佮地讚美伊,海佮一切佇遮爬行游動的活物。",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "讚美伊"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮地"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "爬行游動的活物"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇遮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:38.264977830Z",
+  "model": "glm-5.3"
+}

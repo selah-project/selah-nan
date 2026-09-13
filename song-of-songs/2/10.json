@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我的心阿兄應我，閣對我講：「起來，我的愛人，我的美人，來走吧。」",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "應"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我的心阿兄"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "我的愛人"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "我的美人"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "閣來走"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:04.404039605Z",
+  "model": "glm-5.3"
+}

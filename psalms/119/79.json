@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "願敬畏你的人倒轉來歸我,知影你的見證。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "願𪜶倒轉來"
+    },
+    {
+      "surface": "לי",
+      "gloss": "歸我"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "敬畏你的人"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "知影"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "你的見證"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:21.745681048Z",
+  "model": "glm-5.3"
+}

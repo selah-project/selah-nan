@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "啥物事予你誇口佇歹的所在,勇士啊?以勒的赫瑟德歸工攏佇咧。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物事"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "予你誇口"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "佇歹的所在"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "היום",
+      "gloss": "工"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:29.287153292Z",
+  "model": "glm-5.3"
+}

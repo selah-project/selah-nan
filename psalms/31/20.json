@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "你的好貨偌濟啊,你為敬畏你的人所收囥的,為倚靠你的人佇人的子面前所行出的!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "偌濟啊"
+    },
+    {
+      "surface": "רב",
+      "gloss": "…偌濟"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "你的好貨"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "你收囥"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "為敬畏你的人"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "你行出"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "為倚靠你的人"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:06.818901714Z",
+  "model": "glm-5.3"
+}

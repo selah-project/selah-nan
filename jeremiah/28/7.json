@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "毋拘,今請你聽這個話,就是我所講佇你耳仔邊,嘛佇逐個百姓的耳仔邊的。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今請"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這個話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "佇你耳仔邊"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "嘛佇…耳仔邊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T06:30:18.865875455Z",
+  "model": "glm-5.3"
+}

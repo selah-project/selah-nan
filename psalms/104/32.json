@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "伊看落地,地就震動;伊摸著山,山就冒煙。",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "伊看"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "落地"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "地就震動"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "伊摸著"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "山就冒煙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:42.996972032Z",
+  "model": "glm-5.3"
+}

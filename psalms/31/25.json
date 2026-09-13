@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "著膽勇,雅威欲互恁的心勇健,恁攏總向望雅威的人。",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "著膽勇"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "欲互…勇健"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "恁的心"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "向望…的人"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:42.934665688Z",
+  "model": "glm-5.3"
+}

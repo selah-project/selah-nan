@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "以色列攏總有照族譜數點，看𪜶記載佇以色列諸王的冊頂；猶大嘛記佇遐。因為𪜶的背逆，𪜶互人流放到巴比倫。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "有照族譜數點"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "看𪜶"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "記載"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "猶大嘛"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "互人流放"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "到巴比倫"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "因為𪜶的背逆"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:15.058786619Z",
+  "model": "glm-5.3"
+}

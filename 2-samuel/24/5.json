@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "𪜶過⟨את⟩約旦河,就紮營佇亞羅珥,佇佇迦得溪谷中間彼個城的正手爿,閣行到雅謝。",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "𪜶過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約旦河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "就紮營"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "佇亞羅珥"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "正手爿"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "彼個溪谷"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣行到"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "雅謝"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:01.497089448Z",
+  "model": "glm-5.3"
+}

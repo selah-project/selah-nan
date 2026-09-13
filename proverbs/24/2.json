@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "因為𪜶的心咧思謀毀壞,𪜶的嘴脣講出害人的代誌。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שד",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "咧思謀"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "𪜶的心"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "害人的"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "𪜶的嘴脣"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "講出"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:02.773840893Z",
+  "model": "glm-5.3"
+}

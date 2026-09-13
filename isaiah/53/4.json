@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "其實,咱的病痛,伊擔當;咱的痛苦,伊背負;若是咱掠伊做受著災害、予以羅欣拍、閣受磨難的。",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "其實"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "咱的病痛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "擔當"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "閣咱的痛苦"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "伊背負"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "若是咱"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "掠伊做"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "受著災害"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "予…拍"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "閣受磨難"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:51.477047582Z",
+  "model": "glm-5.3"
+}

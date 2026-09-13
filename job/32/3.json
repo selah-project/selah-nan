@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "伊嘛對伊的三个朋友發怒氣,因為𪜶尋無回答,猶閣判⟨את⟩約伯有罪。",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "嘛對…三"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "伊的朋友"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "發"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "回答"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "猶閣判有罪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約伯"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:17.463018992Z",
+  "model": "glm-5.3"
+}

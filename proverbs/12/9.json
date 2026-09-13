@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "卡好是佇人看輕、家己猶有奴僕𪜶的,贏過家己捧家己、煞無餅通食的。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "卡好"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "佇人看輕"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "猶有奴僕"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "家己捧家己"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "煞無"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅通食"
+    }
+  ],
+  "timestamp": "2026-09-13T04:46:47.060681883Z",
+  "model": "glm-5.3"
+}

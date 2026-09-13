@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "耶戶就刣刣死⟨את⟩亞哈的家佇耶斯列殘留的一切,閣有伊的大官、伊的熟識、伊的祭司,直到無留一個活命的人予伊。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殘留的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "殘留的"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "佇耶斯列"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "伊的大官"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "伊的熟識"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "伊的祭司"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "無"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "留"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "一個活命的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:24.107196407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "阮子啊,你若掠受阮的話語,閣將阮的誡命佮⟨את⟩你收藏起來,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "阮子啊"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "掠受"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "阮的話語"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "閣阮的誡命"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "收藏起來"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "佮⟨את⟩你",
+      "marks": "收藏的所在 —— 佮你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:59.349442845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "渡口攏被佔去,𪜶用火燒 ⟨את⟩ 彼啲水池蘆葦,作戰的人攏驚惶矣。",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "渡口"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "被佔去"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼啲水池蘆葦"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "水池蘆葦"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "佮…的人"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "作戰"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:59.611418140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣我賞以撒 ⟨את⟩ 雅各佮 ⟨את⟩ 以掃;閣我賞以掃 ⟨את⟩ 西珥山,來得著 ⟨את⟩ 伊;雅各佮伊的囝落去埃及。",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "閣我賞"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "對以撒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以掃"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "閣我賞"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "對以掃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西珥山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "來得著"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(西珥山)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "佮伊的囝"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "落去"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:44.342344518Z",
+  "model": "glm-5.3"
+}

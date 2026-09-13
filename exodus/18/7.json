@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "摩西出去迎接伊的親家公,伊跪落叩頭,唚伊,𪜶彼此相問平安,然後入去帳棚。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "迎接"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "伊的親家公"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "伊跪落叩頭"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "唚"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "𪜶問"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "對伊的同伴"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:53.969717590Z",
+  "model": "glm-5.3"
+}

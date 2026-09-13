@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "你佇城裡受咒詛,佇田裡嘛受咒詛。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "受咒詛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城裡"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "嘛受咒詛"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:44.769317388Z",
+  "model": "glm-5.3"
+}

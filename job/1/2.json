@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "生七個後生佮三個查某囝給伊。",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "生落來"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七個"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "佮三個"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "查某囝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:40.954426320Z",
+  "model": "glm-5.3"
+}

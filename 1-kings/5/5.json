@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "猶大佮以色列安然徛起,逐人佇伊的葡萄樹跤、閣佇伊的無花果樹跤,對但到別是巴,所羅門的日子攏按呢。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "佮以色列"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…跤"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "伊的葡萄樹"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "閣佇…跤"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "伊的無花果樹"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "對但"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "באר",
+      "gloss": "別"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "是巴"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:13.939173654Z",
+  "model": "glm-5.3"
+}

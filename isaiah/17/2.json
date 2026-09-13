@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "亞羅珥的城攏被放棄,欲互羊群做巢;羊欲倒佇遐,無啥物通驚惶。",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "攏被放棄"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "亞羅珥"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "欲互羊群"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "做巢"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "羊欲倒佇遐"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "啥物通驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:54.405324525Z",
+  "model": "glm-5.3"
+}

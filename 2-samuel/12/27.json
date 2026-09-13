@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "約押差使者去大衛遐,講:「我佮拉巴相戰,嘛已經掠了⟨את⟩水城。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "我相戰"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "佮拉巴"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "已經掠了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "水城"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:13.980340515Z",
+  "model": "glm-5.3"
+}

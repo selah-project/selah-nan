@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "𪜶向伊看,就發光,𪜶的面永遠毋通見笑。",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "𪜶看"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "就發光"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "𪜶的面"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "見笑"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:51.021440719Z",
+  "model": "glm-5.3"
+}

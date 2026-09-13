@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "你賞敬畏你的人一面旗,通對正直的面揚起來。細拉。",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "你賞"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "敬畏你的人"
+    },
+    {
+      "surface": "נס",
+      "gloss": "一面旗"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "通揚起來"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "正直(真理)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:22.473518557Z",
+  "model": "glm-5.3"
+}

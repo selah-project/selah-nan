@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅威佇米茲拉因地對摩西佮亞倫講話,講:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:11.736815655Z",
+  "model": "glm-5.3"
+}

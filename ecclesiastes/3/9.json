@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "啥物利益，彼個做工的人佇伊勞碌的所在，會當得著？",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "利益"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "彼個做工的人"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "佇…的所在"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:00.889880827Z",
+  "model": "glm-5.3"
+}

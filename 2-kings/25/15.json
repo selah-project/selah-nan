@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣⟨את⟩彼火鼎、⟨את⟩彼碗,金的就攏是金,銀的就攏是銀,侍衛長攏提去矣。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼火鼎"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "彼火鼎"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼碗"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "彼碗"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金的就攏是金"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "以及"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀的就攏是銀"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "攏提去矣"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "侍衛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:46.740077321Z",
+  "model": "glm-5.3"
+}

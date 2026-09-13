@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "恁毋通跪拜𪜶的神明，毋通事奉𪜶，嘛毋通行𪜶的所行；獨獨著徹底拆毀𪜶，拍破𪜶的石柱。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "𪜶的神明"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "事奉𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "𪜶的所行"
+    },
+    {
+      "surface": "כי",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "徹底"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "拆毀𪜶"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "拍破"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "拍破"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "𪜶的石柱"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:09.270503952Z",
+  "model": "glm-5.3"
+}

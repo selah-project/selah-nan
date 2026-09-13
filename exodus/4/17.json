@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣⟨את⟩這支柺仔你欲攑佇你的手裡,你欲用伊行⟨את⟩這些記號。」",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "這支柺仔"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "這支柺仔"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "攑"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手裡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "בו",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些記號"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "這些記號"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:54.752922567Z",
+  "model": "glm-5.3"
+}

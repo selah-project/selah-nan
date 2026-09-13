@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "雅威對撒母耳講:「聽這個百姓的聲,照𪜶對你講的一切;因為𪜶無棄撒你⟨את⟩,是因為𪜶棄撒我⟨את⟩,免得我徛做王佇𪜶頂面。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這個百姓"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "照…所"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "棄撒你"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "棄撒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是因為"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "棄撒我"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "棄撒"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "徛做王"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:04.327381061Z",
+  "model": "glm-5.3"
+}

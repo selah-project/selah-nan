@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊的喙內滿是咒誓佮欺騙佮強暴,伊的舌頭下底是勞苦佮不法。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "伊的喙"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿是"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "佮欺騙"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "佮強暴"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "伊的舌頭"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞苦"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "佮不法"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:11.325289202Z",
+  "model": "glm-5.3"
+}

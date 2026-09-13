@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "歹人欲倒轉去示阿勒,攏總忘記以羅欣的列國嘛是按呢。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "去示阿勒"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "忘記…的"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:00.279386285Z",
+  "model": "glm-5.3"
+}

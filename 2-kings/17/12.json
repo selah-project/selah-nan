@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "閣𪜶事奉偶像(吉碌碌),就是雅威曾對𪜶講:「恁毋通做這個代誌 ⟨את⟩」的。",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "𪜶事奉"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個代誌"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:22.730025412Z",
+  "model": "glm-5.3"
+}

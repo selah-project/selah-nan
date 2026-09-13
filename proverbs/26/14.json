@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "門佇伊的戶樞頂面輾來輾去,懶惰人嘛安呢佇伊的眠床頂面。",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "門"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "輾來輾去"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "伊的戶樞"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "懶惰人嘛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "伊的眠床"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:15.967254568Z",
+  "model": "glm-5.3"
+}

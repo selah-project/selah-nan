@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "我就共𪜶講:「若佇恁目睭內看做好,就給我工錢;若毋好,就免。」𪜶就秤⟨את⟩我的工錢,三十塊銀。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "共𪜶"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "佇恁目睭內"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "給"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "我的工錢"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "就免"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "就秤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的工錢"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "我的工錢"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:10.720715653Z",
+  "model": "glm-5.3"
+}

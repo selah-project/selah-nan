@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "你用大水淹𪜶;𪜶親像一場睏眠;佇透早親像草按呢變遷。",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "你用大水淹𪜶"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "睏眠"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "𪜶親像"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇透早"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "親像草"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "按呢變遷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:46.000670592Z",
+  "model": "glm-5.3"
+}

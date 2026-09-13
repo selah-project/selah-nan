@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊講,蠓蟲就來;蠓仔佇𪜶全部的境內。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "就來"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "蠓蟲"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "蠓仔"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…全部"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "𪜶的境內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:20.438328110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇銀索猶未斷,金碗猶未拍破,瓶仔佇泉源頭猶未拍破,輪仔猶未落去井裡裂開以前。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "佇…以前"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨彼時⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "斷(離開)"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "索"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "猶未拍破"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "碗"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "猶未拍破"
+    },
+    {
+      "surface": "כד",
+      "gloss": "瓶仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "泉源頭"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "猶未裂開"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "輪仔"
+    },
+    {
+      "surface": "אל",
+      "gloss": "落去"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "井裡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:58.491469291Z",
+  "model": "glm-5.3"
+}

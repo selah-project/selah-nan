@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "雅威啊,你佇喜愛你百姓的時著紀念我;用你的拯救眷顧我。",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "紀念我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "佇喜愛"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "眷顧我"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "用你的拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:10.322857991Z",
+  "model": "glm-5.3"
+}

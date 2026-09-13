@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "律法，摩西有命令予阮，做雅各會眾的產業。",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "予阮"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "產業"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "會眾的"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:55.518015795Z",
+  "model": "glm-5.3"
+}

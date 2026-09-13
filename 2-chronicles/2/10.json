@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "戶蘭(希蘭)——推羅的王——用批應答,寄互所羅門,講:「因為雅威疼⟨את⟩伊的百姓,就互你做王佇𪜶頂面。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "戶蘭(希蘭)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צר",
+      "gloss": "推羅"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "用批"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就寄"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "因為疼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的百姓"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "互你"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:53.165528144Z",
+  "model": "glm-5.3"
+}

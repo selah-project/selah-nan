@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "猶大眾人就把五穀、新酒佮油的十分一,帶入去庫房。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "眾人攏"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "就把…帶入去"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "十分一"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "新酒"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "佮油"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "庫房"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:10.923438104Z",
+  "model": "glm-5.3"
+}

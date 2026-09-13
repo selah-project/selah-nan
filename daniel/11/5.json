@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "南方的王會堅強,閣對伊的官長之中(有一个);伊會比伊卡堅強,閣掌權;伊的管轄會做大的管轄。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "會堅強"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南方"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "閣對…之中"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "伊的官長"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "會堅強"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "閣掌權"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "統治"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "伊的管轄"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:55.819177938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "閣彼個地有饑荒,是佇亞伯拉罕彼陣所有的頭一擺饑荒以外的;以撒就去非利士人的王亞比米勒遐,去基拉耳。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇彼個地"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "以外"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "彼個饑荒"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一擺的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇……彼陣"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去……遐"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "基拉耳"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:20.556712243Z",
+  "model": "glm-5.3"
+}

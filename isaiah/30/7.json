@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "米茲拉因(埃及)是空虛閣無採工𢜪幫助;所以我按呢叫伊:拉哈布 —— 坐咧無做工。",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "閣無採工"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "𪜶幫助"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我叫"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "拉哈布"
+    },
+    {
+      "surface": "הם",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "坐咧無做工"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:01.608795923Z",
+  "model": "glm-5.3"
+}

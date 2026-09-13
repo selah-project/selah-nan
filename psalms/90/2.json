@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "佇諸個山猶未出生、你猶未生出土地佮世界進前,對永遠到永遠,你就是以勒。",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "佇猶未…進前"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸個山"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "出生"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "閣你生出"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "佮世界"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "對永遠"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:54.342510155Z",
+  "model": "glm-5.3"
+}

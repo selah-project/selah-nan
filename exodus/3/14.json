@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以羅欣對摩西講:「我是彼個我是。」閣講:「你欲按呢對以色列的子兒講:『「我是」差我來到恁遮。』」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我是"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我是"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "對……的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "「我是」"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "差我"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "到恁遮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:27.017504375Z",
+  "model": "glm-5.3"
+}

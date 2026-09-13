@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "伊欲活落去,人欲互伊示巴的金,人欲替伊祈禱無歇,規個日攏祝福伊。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "伊欲活落去"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "人欲互"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "人欲替伊祈禱"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "無歇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "攏祝福伊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:11.986647753Z",
+  "model": "glm-5.3"
+}

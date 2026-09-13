@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "一个細小的城,城內的人干焦少少;有一个大王來到遐,包圍⟨伊⟩⟨את⟩,閣佇城面頂起造真大的堡壘。",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "細小的"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "佮人"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "少少"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "閣來"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "到遐"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "包圍"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(彼个城)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "閣起造"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇城面頂"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "真大的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:29.301659101Z",
+  "model": "glm-5.3"
+}

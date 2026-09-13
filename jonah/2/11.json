@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威對彼尾魚講，魚就吐出⟨את⟩約拿到旱地裡。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "對彼尾魚"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "就吐出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約拿"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "旱地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:55.198978561Z",
+  "model": "glm-5.3"
+}

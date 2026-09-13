@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "願大地有豐盛的五穀,佇山嶺頂仔;伊的果子欲搖動親像黎巴嫩,對城茂盛發芽,親像土地的草。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願有"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "豐盛"
+    },
+    {
+      "surface": "בר",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇大地"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "佇…頂仔"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山嶺"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "欲搖動"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "親像黎巴嫩"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "茂盛發芽"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "對城"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "親像…的草"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:11.332554810Z",
+  "model": "glm-5.3"
+}

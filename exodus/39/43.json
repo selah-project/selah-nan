@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 39:43",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "摩西看 ⟨את⟩ 全部的工,看啊,𪜶照雅威所命令的做好 ⟨את⟩ 伊;按呢做好。摩西就祝福 ⟨את⟩ 𪜶。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部的工"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做好"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ 伊",
+      "marks": "彼個工"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照…所…的"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做好"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:39.189406358Z",
+  "model": "glm-5.3"
+}

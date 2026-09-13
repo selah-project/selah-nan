@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "願伊的名徛到永遠;佇日頭進前伊的名發芛延續;閣列國欲用伊來求福,攏總的邦國欲稱伊有福氣。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…進前"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "發芛延續"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "閣欲用…來求福"
+    },
+    {
+      "surface": "בו",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總的"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "邦國"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "稱伊有福氣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:16.897082326Z",
+  "model": "glm-5.3"
+}

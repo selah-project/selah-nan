@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣伊欲對伊身上提起 ⟨את⟩ 所有的油,閣佇祭壇頂燒薰。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "所有的油"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "伊的油"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "提起"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "閣燒薰"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:09.460457343Z",
+  "model": "glm-5.3"
+}

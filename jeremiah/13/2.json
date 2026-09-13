@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我就去買彼條⟨את⟩腰帶,照雅威的話,縛佇我的腰。",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "我就去買"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "腰帶"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "彼條腰帶"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "縛佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "我的腰"
+    }
+  ],
+  "timestamp": "2026-09-12T03:51:54.823089390Z",
+  "model": "glm-5.3"
+}

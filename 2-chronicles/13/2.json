@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 13:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊佇耶路撒冷做王三年。伊老母的名叫米迦雅，是烏列的女兒，對基比亞來。亞比雅佮耶羅波安的中間有戰爭。",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "的名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "米迦雅"
+    },
+    {
+      "surface": "בת",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "烏列"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "基比亞"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "閣有戰爭"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "亞比雅"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:41.920929395Z",
+  "model": "glm-5.3"
+}

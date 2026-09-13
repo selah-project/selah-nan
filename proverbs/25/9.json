@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你的案件佮⟨את⟩你的同伴辯論,別人的秘密毋通洩漏;",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "你的案件"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "辯論"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的同伴"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的同伴"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "佮…秘密(做夥)"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "洩漏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:22.998227784Z",
+  "model": "glm-5.3"
+}

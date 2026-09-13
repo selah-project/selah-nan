@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "𪜶對你厝的肥潤得著飽足;閣你用你歡喜的溪流予𪜶啉。",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "𪜶得著飽足"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "肥潤"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你厝"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "閣溪流"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "你歡喜的"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "予𪜶啉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:58.833745457Z",
+  "model": "glm-5.3"
+}

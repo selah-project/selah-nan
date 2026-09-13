@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 22:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "閣恁佇兩片牆的中間做一個蓄水池,貯舊池的水;獨獨對造伊的,恁無看向;對遠遠形成伊的,恁無看見。",
+  "tokens": [
+    {
+      "surface": "ומקוה",
+      "gloss": "閣蓄水池"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "恁做"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "兩片牆"
+    },
+    {
+      "surface": "למי",
+      "gloss": "為著…的水"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "池"
+    },
+    {
+      "surface": "הישנה",
+      "gloss": "舊的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "獨獨無"
+    },
+    {
+      "surface": "הבטתם",
+      "gloss": "恁無看向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "造伊的"
+    },
+    {
+      "surface": "ויצרה",
+      "gloss": "閣形成伊"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "恁看見"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:32.568260166Z",
+  "model": "glm-5.3"
+}

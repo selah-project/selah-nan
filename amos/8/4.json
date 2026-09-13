@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "恁聽這个,恁諸个吞噬 窮散人、欲予土地 的窮謙人斷根的!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "吞噬的"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "窮散人"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "欲予…斷根"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "窮謙人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:42.893039260Z",
+  "model": "glm-5.3"
+}

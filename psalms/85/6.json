@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "你敢欲對永遠生阮的氣?你的怒敢欲延長到一代閣一代?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "敢欲對永遠"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "生氣"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "延長"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的怒"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "到一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:14.672360644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "遮是「以掃」的眾子的名:「以利法」,是「亞大」——「以掃」的某——的子;「流珥」,是「巴實抹」——「以掃」的某——的子。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "以利法"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "亞大"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "流珥"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "巴實抹"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:46.094011469Z",
+  "model": "glm-5.3"
+}

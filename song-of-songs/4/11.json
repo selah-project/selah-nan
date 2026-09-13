@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 4:11",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "新娘啊,你的嘴脣滴蜜,親像蜂巢;蜂蜜佮牛奶佇你的舌頭下底;你的衫的味,親像黎巴嫩的味。",
+  "tokens": [
+    {
+      "surface": "נפת",
+      "gloss": "蜂巢的蜜"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "滴落來"
+    },
+    {
+      "surface": "שפתותיך",
+      "gloss": "你的嘴脣"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "新娘"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜂蜜"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "佮牛奶"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下底"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "你的舌頭"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "佮…的味"
+    },
+    {
+      "surface": "שלמתיך",
+      "gloss": "你的衫"
+    },
+    {
+      "surface": "כריח",
+      "gloss": "親像…的味"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:14.295005186Z",
+  "model": "glm-5.3"
+}

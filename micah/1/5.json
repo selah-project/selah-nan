@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "為著雅各个背逆,才有這一切,嘛為著以色列家个罪。啥物是雅各个背逆?豈毋是撒馬利亞?啥物是猶大个邱壇?豈毋是耶路撒冷?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "為著……个背逆"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "嘛為著……个罪"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "背逆"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "佮啥物"
+    },
+    {
+      "surface": "במות",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:05.741240823Z",
+  "model": "glm-5.3"
+}

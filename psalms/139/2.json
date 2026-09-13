@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "你知我坐落去佮我起來,你對遠遠就明白我的想法。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "我的坐落去"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "佮我的起來"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "明白"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "我的想法"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "對遠遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:29.024797254Z",
+  "model": "glm-5.3"
+}

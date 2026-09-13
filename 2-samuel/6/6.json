@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 6:6",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "𪜶來到拿艮的禾埕,烏撒對以羅欣的約櫃伸出手,掠牢伊,因為牛搖動。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "𪜶來到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "禾埕"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "拿艮"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "伸"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "烏撒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "掠牢"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:01.656560584Z",
+  "model": "glm-5.3"
+}

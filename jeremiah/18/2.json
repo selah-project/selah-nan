@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "起來,落去抐土師傅的厝,佇遐我欲互你聽⟨את⟩我的話。",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "落去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "抐土師傅的"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "我欲互你聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "我的話"
+    }
+  ],
+  "timestamp": "2026-09-12T03:54:11.887020163Z",
+  "model": "glm-5.3"
+}

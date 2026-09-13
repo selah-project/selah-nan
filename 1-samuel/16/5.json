@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊講:「平安。我來是欲給雅威獻祭;恁著家己成聖,佮⟨את⟩我做伙來赴祭。」伊就使⟨את⟩耶西佮⟨את⟩伊的眾子成聖,叫𪜶來赴祭。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "欲獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "我來"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "恁著家己成聖"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "恁閣來"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "佮⟨את⟩我"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "赴祭"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "伊就使成聖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶西"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的眾子"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的眾子"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊叫"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "來赴祭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:20.662952435Z",
+  "model": "glm-5.3"
+}

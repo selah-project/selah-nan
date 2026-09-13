@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 25:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "彼個人的名叫拿八,伊某的名叫亞比該;彼個女人有好的智慧閣媠的面容,彼個男人硬梗閣歹的行為,伊是迦勒的後代。",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "名叫"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "拿八"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "名叫"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊某"
+    },
+    {
+      "surface": "אבגיל",
+      "gloss": "亞比該"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "彼個女人"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "好的"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "閣媠的"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "面容"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "彼個男人"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "硬梗"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "閣歹的"
+    },
+    {
+      "surface": "מעללים",
+      "gloss": "行為"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כלבו",
+      "gloss": "是迦勒的後代"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:34.709311343Z",
+  "model": "glm-5.3"
+}

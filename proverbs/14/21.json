@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "看輕伊厝邊⟨的⟩,是犯罪;憐憫散凶人⟨的⟩,伊有福氣。",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "看輕"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "伊的厝邊"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "是犯罪"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "散凶人"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "伊有福氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:36.826743913Z",
+  "model": "glm-5.3"
+}

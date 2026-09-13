@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "約瑟供養⟨את⟩伊的老父佮⟨את⟩伊的兄弟,閣⟨את⟩伊老父的歸厝內,食物照囡仔的嘴。",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "供養"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的老父"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的兄弟"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊老父的歸厝內"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "照…的嘴"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "囡仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:56.491283868Z",
+  "model": "glm-5.3"
+}

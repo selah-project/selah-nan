@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "你的信實到一代閣一代;你建立大地,伊徛在。",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "到一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "你建立"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "伊徛在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:50.991601358Z",
+  "model": "glm-5.3"
+}

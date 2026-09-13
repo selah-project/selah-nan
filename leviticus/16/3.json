@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "亞倫著按呢入去聖所:用一隻牛仔、牛群的子,做贖罪祭,閣用一隻公羊做燒祭。",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "用一隻牛"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做贖罪祭"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "閣用一隻公羊"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "做燒祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:34.596533747Z",
+  "model": "glm-5.3"
+}

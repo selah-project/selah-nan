@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "雅威對摩西講:「你按呢對以色列的子孫講:『恁家己有看見,我對天頂佮恁講話。』",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你……講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁家己"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "有看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……(連詞)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我……講話"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:07.604122224Z",
+  "model": "glm-5.3"
+}

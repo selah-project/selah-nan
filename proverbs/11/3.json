@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "正直的人的純全會引導𪜶,姦詐的人的彎曲會毀滅𪜶。",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "純全"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直的人"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "引導𪜶"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "佮彎曲"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "姦詐的人"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "毀滅𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:38.064938184Z",
+  "model": "glm-5.3"
+}

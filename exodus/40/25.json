@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊點著燈佇雅威面前,照雅威所命令⟨את⟩摩西的。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "點著"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "燈"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:49.923557202Z",
+  "model": "glm-5.3"
+}

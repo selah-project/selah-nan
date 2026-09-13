@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "必死的人,伊的日子親像草;親像田野的花,伊按呢開花。",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "必死的人"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "親像草"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "伊的日子"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "親像……的花"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "開花"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:40.621954403Z",
+  "model": "glm-5.3"
+}

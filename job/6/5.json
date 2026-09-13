@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "野驢佇青草頂敢會哮?抑是牛佇伊的草料頂敢會哼?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "敢會哮"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "野驢"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "青草"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "敢會哼"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "伊的草料"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:16.153413498Z",
+  "model": "glm-5.3"
+}

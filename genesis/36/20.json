@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "遮个是西珥何利人的後生,就是徛佇彼地的:羅坍、朔巴、洗別,閣亞拿。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的後生"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "何利人"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "徛佇…的居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼地"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "羅坍"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "閣朔巴"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "閣洗別"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "閣亞拿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:10.714591402Z",
+  "model": "glm-5.3"
+}

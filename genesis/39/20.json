@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "約瑟的主人就提⟨את⟩伊,共伊關入監獄,就是王的犯人受捆綁的所在;伊就佇遐佇監獄內。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "主人"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "共伊關入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "監獄"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "犯人"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "受捆綁"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "伊就佇"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇監獄"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "彼个所在內底"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:21.889293271Z",
+  "model": "glm-5.3"
+}

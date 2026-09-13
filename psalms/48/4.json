@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "以羅欣佇伊的城堡內顯明做堡壘。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "佇伊的城堡內"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "做堡壘"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.901573749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "當伊咧展示⟨את⟩伊王權榮耀的財富，閣展示⟨את⟩伊偉大光采的尊貴，真濟日——八十佮一百日。",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "當伊咧展示"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊王權榮耀的財富"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "財富"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "伊王權的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣展示⟨את⟩",
+      "marks": "伊偉大光采的尊貴"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "尊貴"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "光采"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "伊偉大"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "佮一百"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:49.567303714Z",
+  "model": "glm-5.3"
+}

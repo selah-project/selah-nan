@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "著唱歌予雅威聽,因為伊有做威嚴的事;這件事已經互歸個大地攏知。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "著唱歌"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "有做"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "已經知"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這件事"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇歸個"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:43.846308142Z",
+  "model": "glm-5.3"
+}

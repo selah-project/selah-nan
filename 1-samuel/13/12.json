@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我就講:『今非利士人欲落來到吉甲我遮,雅威的面我猶未求得』,所以我勉強家己,獻上燒祭。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "欲落來"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到…我遮"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "吉甲"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "求得"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "勉強家己"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:49.164953391Z",
+  "model": "glm-5.3"
+}

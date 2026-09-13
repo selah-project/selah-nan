@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "總是以羅欣欲忽然用箭射𪜶;𪜶的傷就按呢成。",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "總是……欲射𪜶"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "用箭"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "忽然"
+    },
+    {
+      "surface": "היו",
+      "gloss": "就按呢成"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "𪜶的傷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:49.613885484Z",
+  "model": "glm-5.3"
+}

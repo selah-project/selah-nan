@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 9:10",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "見凡犯罪的,屬我的百姓的,攏欲死佇刀劍——𪜶就是彼啲講:「災禍袂逼近,嘛袂比阮先到。」",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "佇刀劍"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "欲死"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見凡"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "犯罪的"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תגיש",
+      "gloss": "袂逼近"
+    },
+    {
+      "surface": "ותקדים",
+      "gloss": "先到"
+    },
+    {
+      "surface": "בעדינו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "災禍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:18.943433367Z",
+  "model": "glm-5.3"
+}

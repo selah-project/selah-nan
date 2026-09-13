@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "以羅欣啊,你知我的愚戇;我的過失對你面前無被隱瞞。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你知"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "我的愚戇"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "佮我的過失"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "被隱瞞"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:29.848300832Z",
+  "model": "glm-5.3"
+}

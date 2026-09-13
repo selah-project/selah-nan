@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "「上來阮遮,鬥陣幫贊阮,咱來拍⟨את⟩基遍,因為伊已經佮⟨את⟩約書亞佮⟨את⟩以色列的子兒講和矣。」",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "上來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "阮遮"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "鬥陣幫贊阮"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "咱來拍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基遍"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "基遍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "講和"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約書亞"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "以色列的子兒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:26:45.097346516Z",
+  "model": "glm-5.3"
+}

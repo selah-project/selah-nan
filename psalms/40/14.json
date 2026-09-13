@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "雅威啊，願你歡喜救我；雅威啊，緊來幫贊我。",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "願你歡喜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "幫贊我"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "緊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:57.268456830Z",
+  "model": "glm-5.3"
+}

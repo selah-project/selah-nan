@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "雅威對 ⟨את⟩ 約伯,對暴風裡底應,講:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "應"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約伯"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "對…裡底"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "暴風"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T05:31:21.748040892Z",
+  "model": "glm-5.3"
+}

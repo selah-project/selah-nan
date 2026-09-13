@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「今閣,雅威我的以羅欣啊,你立⟨את⟩你的奴僕代替大衛我的阿爸做王;猶過我是細漢的囡仔,毋知欲按怎出去、按怎入來。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今閣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "立…做王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的奴僕"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代替"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的阿爸"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "נער",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "細漢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "出去"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "佮入來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:29.763555197Z",
+  "model": "glm-5.3"
+}

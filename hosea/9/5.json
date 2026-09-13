@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "恁欲做啥物,佇定著節期的日,閣佇雅威節慶的日?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁欲做"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "佇…的日"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "定著的節期"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "閣佇…的日"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節慶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:51.973298705Z",
+  "model": "glm-5.3"
+}

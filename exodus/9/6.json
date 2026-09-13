@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "隔轉日,雅威行⟨את⟩這個話,埃及人的牲畜攏死去,總是以色列囝仔的牲畜,一隻嘛無死。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這個話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "隔轉日"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "以色列囝仔的牲畜"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:37.551344453Z",
+  "model": "glm-5.3"
+}

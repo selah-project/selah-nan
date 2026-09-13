@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 22:4",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我欲求叫雅威,伊是堪得讚美的;我就對我的仇敵得救。",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "堪得讚美的"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我欲求叫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומאיבי",
+      "gloss": "閣對我的仇敵"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "我得救"
+    }
+  ],
+  "timestamp": "2026-09-12T02:58:43.796009899Z",
+  "model": "glm-5.3"
+}

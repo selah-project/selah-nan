@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "恁毋通褻瀆⟨את⟩我的聖名，我欲佇以色列子兒的中間成做聖；我是雅威，聖化恁的。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "恁褻瀆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的聖名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "我的聖"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "我欲成做聖"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…的中間"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "聖化恁的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:33.466499079Z",
+  "model": "glm-5.3"
+}

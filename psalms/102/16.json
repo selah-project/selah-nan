@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "按呢列國欲敬畏⟨את⟩雅威的名,地上所有的王〈欲敬畏⟩⟨את⟩你的榮光。",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "按呢……欲敬畏"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "……的王"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的榮光"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "你的榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:35.353729501Z",
+  "model": "glm-5.3"
+}

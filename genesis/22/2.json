@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 22:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊講:「今帶⟨את⟩你的子,⟨את⟩你獨一的子,就是你所疼的⟨את⟩以撒,你自己去到摩利亞地,佇遐獻伊做燒祭,佇諸山中一座──彼个我所欲對你講的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "קח",
+      "gloss": "帶"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的子"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你的子"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你獨一的子"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "你獨一的子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "你所疼的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "且去"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你自己去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "המריה",
+      "gloss": "摩利亞"
+    },
+    {
+      "surface": "והעלהו",
+      "gloss": "且獻伊"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "做燒祭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一座"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "我欲講"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:11.960709197Z",
+  "model": "glm-5.3"
+}

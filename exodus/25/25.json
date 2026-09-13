@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣你欲給伊做一个圍框,一虎口闊,四箍輾,閣你欲給伊个圍框做一个金牙邊,四箍輾。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "閣你欲做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "圍框"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "一虎口"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍輾"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "閣你欲做"
+    },
+    {
+      "surface": "זר",
+      "gloss": "牙邊"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "給伊个圍框"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍輾"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:03.137150066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "以深淵做一件衫,你共伊蓋--起來;水徛佇山嶺頂。",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "做一件衫"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "你共伊蓋--起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山嶺"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:16.039954967Z",
+  "model": "glm-5.3"
+}

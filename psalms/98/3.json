@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 98,
+  "translation": "伊數念伊的赫瑟德佮伊的信實,向以色列的家;地的極頭攏總看見⟨את⟩阮以羅欣的救恩。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "伊數念"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "佮伊的信實"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "向…的家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "攏總看見"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "極頭"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮以羅欣的救恩"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "…的救恩"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.457698371Z",
+  "model": "glm-5.3"
+}

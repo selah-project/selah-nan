@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 7:9",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以撒的高地欲變荒廢,以色列的聖所欲予人拆毀;我欲起來對敵耶羅波安的家,用刀。",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "欲變荒廢"
+    },
+    {
+      "surface": "במות",
+      "gloss": "高地"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "佮…的聖所"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "欲予人拆毀"
+    },
+    {
+      "surface": "וקמתי",
+      "gloss": "我欲起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:08.066684309Z",
+  "model": "glm-5.3"
+}

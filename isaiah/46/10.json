@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "對起頭宣示路尾的代誌,閣對上古彼個猶未做成的;我講:我的計謀會徛在,一切我所歡喜的我欲做成。",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "宣示"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "對起頭"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "路尾的代誌"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "閣對上古"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "做成的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "我的計謀"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "會徛在"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "我所歡喜的"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我欲做成"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:58.684169641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "雅威對我講:「家己提一塊大版,用人的筆仔寫佇頂面:瑪黑沙拉勒哈施罷斯(緊搶掠物,緊奪財物)。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "קח",
+      "gloss": "提"
+    },
+    {
+      "surface": "לך",
+      "gloss": "家己"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "版"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "用筆仔"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人的"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "瑪黑沙(緊搶)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "拉勒(掠物)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "哈施(緊奪)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "罷斯(財物)"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:51.040875205Z",
+  "model": "glm-5.3"
+}

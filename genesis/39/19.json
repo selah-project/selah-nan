@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 39:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "發生啊,佇伊的主人聽⟨את⟩伊某的話、就是伊對伊講的、講:「你的奴僕按呢對待我」的時,伊的受氣就著起來。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生啊"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "佇…聽的時"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊某的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊某"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "對待"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "就著起來"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊的受氣"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:59.981901006Z",
+  "model": "glm-5.3"
+}

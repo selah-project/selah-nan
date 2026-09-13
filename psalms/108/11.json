@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 108,
+  "translation": "啥人欲帶阮入堅固的城?啥人欲導阮到以東?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "欲帶阮入"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "欲導阮"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:49.776790365Z",
+  "model": "glm-5.3"
+}

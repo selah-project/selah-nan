@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-kings 8:66",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "佇第八日伊放送⟨את⟩百姓,𪜶就祝福⟨את⟩彼個王,就去𪜶的帳棚,歡喜佮心內好,因為雅威為伊的奴僕大衛佮伊的百姓以色列所行的一切好代。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇第八日"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放送"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "𪜶就祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "彼個王"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "就去"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "去𪜶的帳棚"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "佮好"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "好代"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "為大衛"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "佮為以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    }
+  ],
+  "timestamp": "2026-09-13T06:29:13.806513874Z",
+  "model": "glm-5.3"
+}

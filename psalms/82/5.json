@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 82,
+  "translation": "𪜶毋知,嘛毋了解;𪜶佇烏暗中行來行去,徛在,大地一切的根基攏會搖撼。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "了解"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "佇烏暗中"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "行來行去"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "搖撼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "根基"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:04.844441985Z",
+  "model": "glm-5.3"
+}

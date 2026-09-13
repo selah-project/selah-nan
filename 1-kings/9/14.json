@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "希蘭送互王一百二十他連得黃金。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "送互"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "互王"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "他連得"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "黃金"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:47.170900905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 142,
+  "translation": "求你對監牢提出我的性命,通感謝⟨את⟩你的名;義人欲圍倚我,因為你欲厚待我。",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "求你提出"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "對監牢"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "通感謝"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的名"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "בי",
+      "gloss": "圍倚我"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "𪜶欲圍"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "你欲厚待"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:07.740490813Z",
+  "model": "glm-5.3"
+}

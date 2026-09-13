@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "願毀滅臨到伊,伊毋知,伊所匿的網揪著伊,伊欲墜落佇彼個毀滅內。",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "臨到伊"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "佮伊的網"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "伊匿"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "揪著伊"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "佇毀滅"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "伊欲墜落"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼個"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:17.269798884Z",
+  "model": "glm-5.3"
+}

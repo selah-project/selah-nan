@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "願雅威你的以羅欣給阮講明⟨את⟩這條阮所愛行的路,佮⟨את⟩這件阮所愛做的代誌。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "講明"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "給阮"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這條阮所愛行的路"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "這條路"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "這件阮所愛做的代誌"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這件代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "做"
+    }
+  ],
+  "timestamp": "2026-09-12T04:02:54.107537635Z",
+  "model": "glm-5.3"
+}

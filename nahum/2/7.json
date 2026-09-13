@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "河流的門仔開矣,宮殿熔化無去矣。",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "門"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "彼個河流的"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "開矣"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "佮彼個宮殿"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "熔化無去矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:18.345317176Z",
+  "model": "glm-5.3"
+}

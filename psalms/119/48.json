@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我嘛欲舉我的雙手向汝的誡命,彼个我疼的,我嘛欲默想汝的律例。",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "我嘛欲舉"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的雙手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "汝的誡命"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个…的"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我疼"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "我嘛欲默想"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "汝的律例"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:28.678225075Z",
+  "model": "glm-5.3"
+}

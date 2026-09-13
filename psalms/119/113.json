@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "心分岔的人我怨恨,你的律法我疼。",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "心分岔的人"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "我怨恨"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "你的律法"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我疼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:48.227394593Z",
+  "model": "glm-5.3"
+}

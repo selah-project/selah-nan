@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "毋拘王的話對約押真硬,約押就出去,行遍歸以色列,倒來耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "王的話"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "真硬"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "行遍"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "倒來"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:00.251197197Z",
+  "model": "glm-5.3"
+}

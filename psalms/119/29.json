@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "欺騙的路,對阮烏伊掉;用你的律法施恩互我。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "欺騙"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "烏伊掉"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "佮你的律法"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "施恩互我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:14.829158484Z",
+  "model": "glm-5.3"
+}

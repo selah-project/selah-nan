@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "對二十歲以上，以色列中凡出去當兵的，恁佮亞倫著照𪜶的隊伍點算𪜶⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "對…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "當兵"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "以色列中"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "恁著點算"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(以色列的兵)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "照𪜶的隊伍"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:07.814120687Z",
+  "model": "glm-5.3"
+}

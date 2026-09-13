@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "大衛就講:「恁毋通按呢做,阮的兄弟,照雅威所賞賜 ⟨את⟩ 予咱的,閣 ⟨את⟩ 保守咱,閣將 ⟨את⟩ 彼个來攻擊咱的隊伍交佇咱的手。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "阮的兄弟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所賞賜彼个"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "予咱"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩阮"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "閣交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个隊伍"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "彼个隊伍"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "來"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "攻擊咱"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "佇咱的手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:38.542638361Z",
+  "model": "glm-5.3"
+}

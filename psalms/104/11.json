@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "𪜶飼田野一切的活物飲水,野驢解𪜶的嘴焦。",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "𪜶飼……飲水"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "活物"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田野"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "解"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "野驢"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "𪜶的嘴焦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:36.085586775Z",
+  "model": "glm-5.3"
+}

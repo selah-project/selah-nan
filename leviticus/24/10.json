@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 24:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "有一个以色列婦人的仔——伊的父親是埃及人——出去,佇以色列人的中間;彼個以色列婦人的仔佮一个以色列人佇營內相爭。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "婦人的"
+    },
+    {
+      "surface": "ישראלית",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "佇營內"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "彼個以色列婦人的"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮一个人"
+    },
+    {
+      "surface": "הישראלי",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:31.673750640Z",
+  "model": "glm-5.3"
+}

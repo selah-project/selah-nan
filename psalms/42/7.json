@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我的以羅欣啊,我的性命佇我內面沉落;為著按呢我對約旦的地、對黑門諸山、對密薩爾山,想念你。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "沉落"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "想念你"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…的地"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "約旦"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "佮黑門諸山"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "對…山"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "密薩爾"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:08.781965505Z",
+  "model": "glm-5.3"
+}

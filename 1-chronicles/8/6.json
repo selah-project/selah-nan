@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 8:6",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "諸個是伊戶得的後生;𪜶是徛佇基比亞徛起的人的父系宗族的頭。𪜶共人徙去瑪拿哈。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣諸個"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的後生"
+    },
+    {
+      "surface": "אחוד",
+      "gloss": "伊戶得"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "…的頭"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父系宗族"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "對徛佇…徛起的人"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "基比亞"
+    },
+    {
+      "surface": "ויגלום",
+      "gloss": "𪜶共𪜶徙去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "瑪拿哈"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:37.383020253Z",
+  "model": "glm-5.3"
+}

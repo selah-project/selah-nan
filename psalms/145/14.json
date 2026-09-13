@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "雅威扶起一切倒落的人,嘛抬一切彎腰屈背的人。",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "扶起"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "倒落的人"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "嘛抬"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "彎腰屈背的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:01.669391100Z",
+  "model": "glm-5.3"
+}

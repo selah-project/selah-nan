@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "啥物人親像智者?啥物人捌一句話个解釋?人个智慧會照光伊个面,伊面頂个強硬會被改變。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "親像智者"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "佮啥物人"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "捌"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "解釋"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "會照光"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊个面"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "佮強硬"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊个面"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "會被改變"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:49.365228986Z",
+  "model": "glm-5.3"
+}

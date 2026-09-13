@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "列國沉落佇𪜶所掘的坑;佇這個𪜶掩藏的網,𪜶的腳予網縛牢。",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "沉落"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "佇坑"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "所掘的"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "佇網"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這個"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "𪜶掩藏"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "縛牢"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "𪜶的腳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:22.134930604Z",
+  "model": "glm-5.3"
+}

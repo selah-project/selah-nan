@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "後來,佇羅波安做王第五年,米茲拉因(埃及)的王示撒上來攻擊耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "佇……年"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "第五"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "示撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:06.005116339Z",
+  "model": "glm-5.3"
+}

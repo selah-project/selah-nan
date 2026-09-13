@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "坐恬恬,入去暗暗的所在,迦勒底人的查某子啊,因為𪜶袂閣叫妳做列國的女主人。",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "坐恬恬"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "恬恬"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "暗暗的所在"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某子"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "袂閣"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "𪜶叫"
+    },
+    {
+      "surface": "לך",
+      "gloss": "妳"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "女主人"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "列國"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:56.607854523Z",
+  "model": "glm-5.3"
+}

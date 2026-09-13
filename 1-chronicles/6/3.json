@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "哥轄的仔是暗蘭、以斯哈、希伯倫佮烏薛。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "閣…的仔"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "哥轄"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "暗蘭"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "佮以斯哈"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "佮希伯倫"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "佮烏薛"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:53.016019519Z",
+  "model": "glm-5.3"
+}

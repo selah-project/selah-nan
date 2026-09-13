@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "「雅威啊,聽阮的祈禱,阮的哀求你著傾聽;對著我的目屎,毋通恬默,因為我做出外人佇你身邊,做寄腳,親像阮的祖先攏總按呢。」",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "阮的祈禱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "佮我的哀求"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "傾聽"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對著"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "我的目屎"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "恬默"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גר",
+      "gloss": "出外人"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佇你身邊"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "寄腳"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "親像攏總"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "阮的祖先"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:19.346569053Z",
+  "model": "glm-5.3"
+}

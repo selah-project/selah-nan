@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "撒拉死佇基列亞巴——伊就是希伯崙——佇迦南的地;亞伯拉罕入去為撒拉哀哭,為伊啼哭。",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "死"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "佇……城"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "亞巴"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊就是"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇……的地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "為……哀哭"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "為伊啼哭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:18.166619898Z",
+  "model": "glm-5.3"
+}

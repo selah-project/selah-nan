@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 3:22",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣我看見,人佇伊所做的工課歡喜,以外無啥物較好,因為彼个是伊的份;因為啥人會當帶伊來看伊了後會變做啥物?",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "閣我看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "以外"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "佇伊所做的工課"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "伊的份"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "會當帶伊"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "來看"
+    },
+    {
+      "surface": "במה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "會變做"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "伊了後"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:47.588824363Z",
+  "model": "glm-5.3"
+}

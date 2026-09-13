@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "我的話出對正直的心,我的嘴唇清清楚楚講出所知的。",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "的心"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "我的話"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "所知的"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的嘴唇"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "清清楚楚"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "講出"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:05.476493453Z",
+  "model": "glm-5.3"
+}

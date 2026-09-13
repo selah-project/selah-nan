@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "因為𪜶是我雅威的奴僕,是我對埃及地帶出來⟨את⟩𪜶的;𪜶袂當照賣奴僕的款賣出去。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是我"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "帶出來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "賣出去"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "照賣…的款"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:54.425082867Z",
+  "model": "glm-5.3"
+}

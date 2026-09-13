@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "𪜶放火入你的聖所,𪜶污瀆你名的居所,予伊落到土腳。",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "𪜶放"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "你的聖所"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "到土腳"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "𪜶污瀆"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "居所"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:54.003714415Z",
+  "model": "glm-5.3"
+}

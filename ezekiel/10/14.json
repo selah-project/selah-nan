@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 10:14",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣每一个有四張面:頭一個彼个的面是基路伯(天使的形)的面,第二个的面是人的面,第三個的面是獅仔的面,第四個的面是鷹仔的面。",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "閣四"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "每一个"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "閣…的面"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二个"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "והשלישי",
+      "gloss": "閣第三個"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅仔"
+    },
+    {
+      "surface": "והרביעי",
+      "gloss": "閣第四個"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "鷹仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:10:53.192663274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "你巡視地面,伊就得潤;你多多互伊富足——以羅欣的水路滿滿是水;你備辦𪜶的五穀,因為你按呢備辦伊。",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "你巡視"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "伊就得潤"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "多多"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "互伊富足"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "水路"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "מים",
+      "gloss": "是水"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "你備辦"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "𪜶的五穀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "你備辦伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:19.987680485Z",
+  "model": "glm-5.3"
+}

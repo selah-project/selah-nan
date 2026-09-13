@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "首領嘛坐啵講我个壞話,總是祢的奴僕默想祢的律例。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "坐"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "講壞話"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "祢的奴僕"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "默想"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "祢的律例"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:19.168069072Z",
+  "model": "glm-5.3"
+}

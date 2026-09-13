@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為我講:「我的床欲安慰我,我的榻欲擔走我的怨嘆。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "安慰我"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "我的榻"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "擔走"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "我的怨嘆"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "我的床"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:09.585428341Z",
+  "model": "glm-5.3"
+}

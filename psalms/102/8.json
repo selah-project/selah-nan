@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "阮規暝無睏,阮成做親像孤鳥單獨徛佇厝頂。",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "阮規暝無睏"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "阮成做"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "親像鳥仔"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "孤單單獨"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "גג",
+      "gloss": "厝頂"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:23.367305677Z",
+  "model": "glm-5.3"
+}

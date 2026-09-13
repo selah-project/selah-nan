@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我講:我欲帶⟨את⟩恁對米茲拉因(埃及)的苦難中起來,去迦南人、赫人、亞摩利人、比利洗人、希未人、耶布斯人的地,去遐一个流奶佮蜜的地。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "我欲帶……起來"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "對……的苦難中"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "……的地"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "佮赫人"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "佮亞摩利人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "佮比利洗人"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "佮希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "佮耶布斯人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "一个地"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "流"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "奶"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "佮蜜"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:05.934236744Z",
+  "model": "glm-5.3"
+}

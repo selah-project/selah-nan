@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "見若開胎的是我的;佮你一切的牲畜,頭胎公的——牛抑是羊。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "開胎的"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "胎"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是我的"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "公的"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "頭胎"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "抑是羊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:07.792742645Z",
+  "model": "glm-5.3"
+}

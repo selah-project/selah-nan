@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "賄賂毋通提;因為賄賂會使目睭光的人青盲,會使彎曲公義人的話。",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "佮賄賂"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "彼个賄賂"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "會使…青盲"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "目睭光的人"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "會使彎曲"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "公義人的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:53.159162892Z",
+  "model": "glm-5.3"
+}

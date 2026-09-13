@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "見若人若摸著伊的床,伊著洗伊的衫,佮佇水底洗身軀,就無清氣到暗頭。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "佮見若人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "摸著"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "伊的床"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "著洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "佮洗身軀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水底"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "就無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗頭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:41.293249609Z",
+  "model": "glm-5.3"
+}

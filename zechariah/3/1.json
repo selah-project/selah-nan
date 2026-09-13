@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 3:1",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊互我看見⟨את⟩約書亞,彼個大祭司,徛佇雅威的天使面前,撒但徛佇伊的正手爿,欲控告伊。",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "伊互我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約書亞"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "彼個祭司"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "天使"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והשטן",
+      "gloss": "佮撒但"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "伊的正手爿"
+    },
+    {
+      "surface": "לשטנו",
+      "gloss": "欲控告伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:09.235225667Z",
+  "model": "glm-5.3"
+}

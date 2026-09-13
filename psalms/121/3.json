@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "願伊毋互你的腳搖動;看守你的,毋會瞌眼。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "瞌眼"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "看守你的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:30.594011021Z",
+  "model": "glm-5.3"
+}

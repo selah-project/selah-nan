@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "伊帶我入去聖殿,量⟨את⟩彼號門柱,對這爿闊六肘,對彼爿閣闊六肘,就是帳棚的闊。",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "伊帶我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "聖殿"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼號門柱"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "彼號門柱"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "對這爿"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "閣六"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "對彼爿"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "的闊"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:40.513369628Z",
+  "model": "glm-5.3"
+}

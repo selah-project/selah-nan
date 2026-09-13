@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "對萬族有人來聽⟨את⟩所羅門的智慧,對⟨את⟩地上逐個王,因為𪜶攏有聽見⟨את⟩伊的智慧。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "𪜶來"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對萬"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "族的人"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "來聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門的智慧"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "的智慧"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "王"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為…"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "𪜶聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的智慧"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "伊的智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:09.858101122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "摩西對𪜶講:「恁內底毋通有人留伊半項到隔轉早起。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "留半項"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "隔轉早起"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:56.551445490Z",
+  "model": "glm-5.3"
+}

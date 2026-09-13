@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "對耶西的樹頭欲出一枝枝仔,對伊的根欲發出一欉新芽。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "欲出"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "枝仔"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "對樹頭"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "閣新芽"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "對伊的根"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "發出"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:22.415589686Z",
+  "model": "glm-5.3"
+}

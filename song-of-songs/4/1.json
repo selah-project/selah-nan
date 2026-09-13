@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 4:1",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "看啊,妳真媠,我的人民伴;看啊,妳真媠!妳的目睭親像鴿仔,佇妳的面帕內面;妳的頭鬃親像山羊的羊群,對基列的山咧落下來。",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "真媠"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "我的人民伴"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "真媠"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "妳的目睭"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "鴿仔"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "佇…內面"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "妳的面帕"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "妳的頭鬃"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "親像…的羊群"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "咧落下來"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "對…的山"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:01.613255581Z",
+  "model": "glm-5.3"
+}

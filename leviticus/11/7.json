@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩豬,因為伊蹄有分,嘛有裂開蹄縫,毋過伊無反芻,伊對恁是無清氣的。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "豬"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "豬"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "有分蹄"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "蹄"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "嘛有裂開"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "蹄縫"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "蹄"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "毋過伊"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "咧反芻"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:06.753104604Z",
+  "model": "glm-5.3"
+}

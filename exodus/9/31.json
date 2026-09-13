@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佮彼陣,亞麻佮大麥攏受擊打,因為大麥青穗,亞麻結蕾。",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "佮亞麻"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "佮大麥"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "受擊打"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "青穗"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "佮亞麻"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "結蕾"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:15.269855188Z",
+  "model": "glm-5.3"
+}

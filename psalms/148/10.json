@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "野獸佮攏總的家畜;爬行的動物,佮有翼的鳥仔,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "野獸"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總的"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "家畜"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "爬行的動物"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "佮鳥仔"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "有翼的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:27.608398197Z",
+  "model": "glm-5.3"
+}

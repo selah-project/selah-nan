@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "親像祢的名,以羅欣啊,按呢祢的讚美到地的極頭;公義充滿祢的正手。",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "親像祢的名"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "祢的讚美"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "…的極頭"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "祢的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:40.945967618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "「彼件比利阿勒的歹代誌傾洩佇伊身上,伊一旦倒落去,就袂閣起來矣。」",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "比利阿勒的歹"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "傾洩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "伊一旦"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "起來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:32.397402050Z",
+  "model": "glm-5.3"
+}

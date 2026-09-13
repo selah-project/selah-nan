@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊就導 ⟨את⟩ 摩押王的面頭前,𪜶就佮伊蹛,大衛踮山寨的歸暝日。",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "伊就導"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩押王的面頭前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "就蹛"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "暝日"
+    },
+    {
+      "surface": "היות",
+      "gloss": "踮"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "山寨"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:36.308623205Z",
+  "model": "glm-5.3"
+}

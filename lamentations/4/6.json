@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 4:6",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我子民⼥兒的罪孽,⼤過所多瑪的罪;所多瑪瞬間就翻覆,無⼈伸⼿攪擾伊。",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "⼤過"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⼥兒"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我子民"
+    },
+    {
+      "surface": "מחטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "所多瑪"
+    },
+    {
+      "surface": "ההפוכה",
+      "gloss": "翻覆"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "就"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "瞬間"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "攪擾"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "伸⼿"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:47.999281203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 32:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "⟨伊⟩載伊去騎佇土地的高處,予伊食田園的出產;⟨伊⟩予伊吸對石磐出來的蜜,佮對硬石出來的油。",
+  "tokens": [
+    {
+      "surface": "ירכבהו",
+      "gloss": "載伊去騎"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "高處"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "伊就食"
+    },
+    {
+      "surface": "תנובת",
+      "gloss": "出產"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田園"
+    },
+    {
+      "surface": "וינקהו",
+      "gloss": "予伊吸"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "對石磐"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "佮油"
+    },
+    {
+      "surface": "מחלמיש",
+      "gloss": "對硬石"
+    },
+    {
+      "surface": "צור",
+      "gloss": "石磐"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:59.752545137Z",
+  "model": "glm-5.3"
+}

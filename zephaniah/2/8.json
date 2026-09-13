@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我聽見摩押的譏誚,佮亞捫囝仔的辱罵,因為𪜶譏誚⟨את⟩我的人民,閣對𪜶的邊界自誇家大。",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "佮辱罵"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的人民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "閣自誇家大"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "𪜶的邊界"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:19.222574644Z",
+  "model": "glm-5.3"
+}

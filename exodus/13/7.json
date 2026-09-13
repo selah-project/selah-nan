@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "無酵餅欲食⟨את⟩七个日;發酵的物件毋通佇你遐予人看著,酵母嘛毋通佇你通個疆界內予人看著。",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七个日"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "个日"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "予人看著"
+    },
+    {
+      "surface": "לך",
+      "gloss": "佇你遐"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "發酵的物件"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "予人看著"
+    },
+    {
+      "surface": "לך",
+      "gloss": "佇你遐"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "酵母"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇通個"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "你的疆界"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:53.570523453Z",
+  "model": "glm-5.3"
+}

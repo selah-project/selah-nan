@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "求你舉起你的腳步,到永遠的毀壞,因為對敵佇聖所做的,攏是歹代。",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "求你舉起"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "你的腳步"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "到毀壞"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "所做的歹"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:09.391536308Z",
+  "model": "glm-5.3"
+}

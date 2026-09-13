@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 9:29",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "啥人會當將⟨את⟩這個百姓交佇我手裡啊!我就欲除掉⟨את⟩亞比米勒。」閣伊講──對亞比米勒講:「加添你的軍隊,出來啦!」",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會當…交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "佇我手裡"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "我就欲除掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比米勒"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣伊講"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "對亞比米勒"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "加添"
+    },
+    {
+      "surface": "צבאך",
+      "gloss": "你的軍隊"
+    },
+    {
+      "surface": "וצאה",
+      "gloss": "出來啦"
+    }
+  ],
+  "timestamp": "2026-09-12T02:32:26.200756461Z",
+  "model": "glm-5.3"
+}

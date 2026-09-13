@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威講:「猶大欲上去;看啊,我已經將⟨את⟩彼個地交佇伊的手裡。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "欲上去"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我已經交落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:18.322885713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "坐佇墳墓中的,瞑佇隱密所在的;食豬肉的,𪜶的碗器內有可憎物的湯。",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "坐…的"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "佇墳墓中"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "佮佇隱密所在"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "瞑"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "食…的"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "豬"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "佮…的湯"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "可憎物"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "𪜶的碗器"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:58.346065676Z",
+  "model": "glm-5.3"
+}

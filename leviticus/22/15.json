@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "𪜶毋通褻瀆⟨את⟩以色列囝仔的聖物,就是⟨את⟩𪜶奉獻互雅威的。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "𪜶毋通"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "褻瀆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列囝仔的聖物"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "בני",
+      "gloss": "以色列囝仔的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶奉獻互雅威的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "奉獻"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:59.653804602Z",
+  "model": "glm-5.3"
+}

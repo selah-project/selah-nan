@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "俄備得生⟨את⟩耶西,耶西生⟨את⟩大衛。",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "俄備得"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶西"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:12.643317067Z",
+  "model": "glm-5.3"
+}

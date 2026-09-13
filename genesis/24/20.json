@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "伊就趕緊,將伊个水罐倒入水槽,閣走到井遐去汲水,替伊所有个駱駝汲。",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "伊就趕緊"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "倒入去"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "伊个水罐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "水槽"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "就走"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "井遐"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "去汲水"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "就替……汲"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "所有个"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "伊个駱駝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:12.920932167Z",
+  "model": "glm-5.3"
+}

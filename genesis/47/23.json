@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "約瑟對百姓講:「你看,今仔日我買了⟨את⟩恁佮⟨את⟩恁的地予法老;遮有種子予恁,恁去播種⟨את⟩土地。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣…講"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הן",
+      "gloss": "你看"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "我買了"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "恁的地"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "恁的地"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "予法老"
+    },
+    {
+      "surface": "הא",
+      "gloss": "遮有"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "予恁"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種子"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "恁去播種"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:52.590536262Z",
+  "model": "glm-5.3"
+}

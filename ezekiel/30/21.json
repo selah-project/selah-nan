@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 30:21",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "人子啊,我已經折斷法老——埃及王——的手臂⟨את⟩;看啊,伊無受包紮,袂當得著醫治,袂當纏裹布來包伊,來互伊勇壯,會當攑劍。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "人子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "啊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法老——埃及王——的手臂"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "手臂"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "我已經折斷"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חבשה",
+      "gloss": "受包紮"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "來互……得著"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "醫治"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "來纏"
+    },
+    {
+      "surface": "חתול",
+      "gloss": "裹布"
+    },
+    {
+      "surface": "לחבשה",
+      "gloss": "來包伊"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "來互伊勇壯"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "會當攑"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "劍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:19:13.713921875Z",
+  "model": "glm-5.3"
+}

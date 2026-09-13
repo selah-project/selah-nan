@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊佇比色點𪜶的數:以色列的子兒三十萬,猶大的人三萬。",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "伊點…的數"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "佇比色"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:50.383642184Z",
+  "model": "glm-5.3"
+}

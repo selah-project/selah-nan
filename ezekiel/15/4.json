@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 15:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "看啊,伊已經予人攏去火裡做柴燒;火食掉⟨את⟩伊的兩个尾頭,伊的中段嘛燒甲烏焦矣,伊閣有路用做路用無?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "去火裡"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "予人攏"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "做柴燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的兩个尾頭"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "尾頭"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "食掉"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ותוכו",
+      "gloss": "伊的中段"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "燒甲烏焦"
+    },
+    {
+      "surface": "היצלח",
+      "gloss": "有路用"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "做路用"
+    }
+  ],
+  "timestamp": "2026-09-13T04:32:36.343966271Z",
+  "model": "glm-5.3"
+}

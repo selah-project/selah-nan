@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "𪜶內心的拍算是:𪜶的厝徛到永遠,𪜶的徛家到一代閣一代;𪜶用家己的名叫𪜶的地。",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "𪜶內心的拍算"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "𪜶的厝"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "𪜶的徛家"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "到一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "叫"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "用𪜶的名"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.606987349Z",
+  "model": "glm-5.3"
+}

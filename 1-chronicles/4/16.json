@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣耶哈勒列的後生,是西弗、西法、提利雅、搭亞斯列。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "閣……的後生"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "耶哈勒列"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "西弗"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "西法"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "提利雅"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "亞斯列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:27.006326369Z",
+  "model": "glm-5.3"
+}

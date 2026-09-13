@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊的心佇雅威的路懸懸徛 -- 閣進一步,伊無閣留 ⟨את⟩ 丘壇佮 ⟨את⟩ 亞舍拉,對猶大𪜶除去。",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "懸懸徛"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "佇…的路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "閣進一步"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "除去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "丘壇"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "丘壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "亞舍拉"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "亞舍拉"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "對猶大"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:41.183445759Z",
+  "model": "glm-5.3"
+}

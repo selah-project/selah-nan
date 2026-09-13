@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 21:18",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "彼个井,是首領掘的,百姓的尊貴人用權杖、用手杖挖的。對曠野到瑪坦拿。",
+  "tokens": [
+    {
+      "surface": "באר",
+      "gloss": "井"
+    },
+    {
+      "surface": "חפרוה",
+      "gloss": "掘的"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "כרוה",
+      "gloss": "挖的"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "尊貴人"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "במחקק",
+      "gloss": "用權杖"
+    },
+    {
+      "surface": "במשענתם",
+      "gloss": "用手杖"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "對曠野"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "瑪坦拿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:45.344785627Z",
+  "model": "glm-5.3"
+}

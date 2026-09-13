@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "因為汝做我的幫助;我佇汝翅膀的影內歡喜唱歌。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היית",
+      "gloss": "汝做"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "佇……的影內"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "汝的翅膀"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "我歡喜唱歌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:52.214704715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為石對壁會哮,對柴的樑仔會應伊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "對壁"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "會哮"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "佮彼个樑仔"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "對柴"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "會應伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:59.825824969Z",
+  "model": "glm-5.3"
+}

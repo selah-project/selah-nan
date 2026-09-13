@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅威欲代先救⟨את⟩猶大的帳棚,免得大衛的家的榮光,佮耶路撒冷居民的榮光,昇懸超過猶大。",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "欲救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的帳棚"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "代先"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "昇懸"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "佮…的榮光"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "居民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "על",
+      "gloss": "超過"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:02.032869417Z",
+  "model": "glm-5.3"
+}

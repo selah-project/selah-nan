@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "𪜶對雅威咒誓,用大聲,用歡呼,用號頭佮羊角。",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "𪜶咒誓"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "用聲"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "用歡呼"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "用號頭"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "用羊角"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:16.229179008Z",
+  "model": "glm-5.3"
+}

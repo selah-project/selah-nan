@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊講:「請你互我看 ⟨את⟩ 你的榮光。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "互我看"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的榮光"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "你的榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:56.333274079Z",
+  "model": "glm-5.3"
+}

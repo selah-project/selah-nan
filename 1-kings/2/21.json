@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊講:「著予⟨את⟩亞比煞・書念的查某做亞多尼雅——你小弟——的某。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "著予"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比煞・書念的查某"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "亞比煞"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "書念的查某"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "做亞多尼雅"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你兄弟"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "的某"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:55.536985157Z",
+  "model": "glm-5.3"
+}

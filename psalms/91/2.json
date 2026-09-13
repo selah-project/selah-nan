@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "我欲對雅威講:阮的避難所,阮的堡壘;阮的以羅欣,阮欲倚靠伊。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "我欲講"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "阮的避難所"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "阮的堡壘"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "阮欲倚靠"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:10.069804040Z",
+  "model": "glm-5.3"
+}

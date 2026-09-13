@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "彼時,約書亞起造一座祭壇予雅威、以色列个以羅欣,佇以巴勒山。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇…山"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "以巴勒"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:34.351795516Z",
+  "model": "glm-5.3"
+}

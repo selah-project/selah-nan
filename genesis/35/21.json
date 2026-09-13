@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "以色列起行,閣佇米格達勒以勒(羊群的瞭望塔)彼爿張伊的帳棚。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "起行"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "張"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "彼爿"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "米格達勒"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:44.587047432Z",
+  "model": "glm-5.3"
+}

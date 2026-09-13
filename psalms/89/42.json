@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "所有行過路的人攏搶奪伊;伊已經變做伊厝邊的笑柄。",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "搶奪伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "行過的"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "היה",
+      "gloss": "已經變做"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "笑柄(羞辱)"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "對伊的厝邊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:24.432879470Z",
+  "model": "glm-5.3"
+}

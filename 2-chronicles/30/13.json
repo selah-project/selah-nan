@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "遮的人民聚集佇耶路撒冷,真濟人,欲守⟨את⟩無酵的節佇第二個月,會眾聚集到真濟真濟。",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "欲守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "無酵的節"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "到真濟"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真濟真濟"
+    }
+  ],
+  "timestamp": "2026-09-12T06:36:36.064031672Z",
+  "model": "glm-5.3"
+}

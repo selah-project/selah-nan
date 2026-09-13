@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 27:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "遮來的日子,雅各欲扎根,以色列欲發芛開花,欲用出產充滿全地的面。",
+  "tokens": [
+    {
+      "surface": "הבאים",
+      "gloss": "遮來的日子"
+    },
+    {
+      "surface": "ישרש",
+      "gloss": "扎根"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "發芛"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "開花"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "全地"
+    },
+    {
+      "surface": "תנובה",
+      "gloss": "出產"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:11.286082695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "阮攏總的骨頭欲講:雅威,啥人親像你,救窮困的人脫離比伊較強的,救窮困佮散赤的人脫離搶奪伊的?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "阮的骨頭"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "欲講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "親像你"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "救"
+    },
+    {
+      "surface": "עני",
+      "gloss": "窮困的人"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "比伊較強的"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "脫離伊"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "佮窮困的人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散赤的人"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "搶奪伊的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:09.305419657Z",
+  "model": "glm-5.3"
+}

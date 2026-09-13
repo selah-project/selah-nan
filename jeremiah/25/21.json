@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "⟨את⟩ 以東、⟨את⟩ 摩押、閣⟨את⟩ 亞捫的後代",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以東"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "摩押"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞捫的後代"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的後代"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:54:38.810504925Z",
+  "model": "glm-5.3"
+}

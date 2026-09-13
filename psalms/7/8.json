@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣願列國的會眾環繞你;為著𪜶,你對懸處倒轉來。",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "閣會眾"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "環繞你"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "閣踮伊的頂面"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "到懸處"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "倒轉來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:10.373706708Z",
+  "model": "glm-5.3"
+}

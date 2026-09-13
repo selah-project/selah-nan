@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "亞多尼雅、哈吉的子,來到拔示巴、所羅門的母親遐。伊講:「你來有平安無?」伊講:「平安。」",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "哈吉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בת",
+      "gloss": "拔"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母親"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "有平安無"
+    },
+    {
+      "surface": "באך",
+      "gloss": "你來"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:15.979140079Z",
+  "model": "glm-5.3"
+}

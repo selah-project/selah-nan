@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣⟨את⟩四台車仔佮⟨את⟩八隻牛,伊互米拉利的子孫,照𪜶所欠的工,佇以塔瑪的手下,伊是亞倫的仔、祭司。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "四台車仔"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "台車仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "八隻牛"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "八"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "隻牛"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "米拉利"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "照"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "𪜶的工"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手下"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "以塔瑪"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-09-13T04:42:47.412292916Z",
+  "model": "glm-5.3"
+}

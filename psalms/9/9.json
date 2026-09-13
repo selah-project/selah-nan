@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣伊欲審判世界佇公義中間,欲治理列邦佇正直內面。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "閣伊"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "欲審判"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "佇公義中間"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "欲治理"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "佇正直內面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:03.587955807Z",
+  "model": "glm-5.3"
+}

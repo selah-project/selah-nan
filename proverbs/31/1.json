@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "利慕伊耳的話——王——一個負擔,是伊老母管教伊的。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "利慕伊耳"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "משא",
+      "gloss": "負擔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "管教伊"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:58.652893545Z",
+  "model": "glm-5.3"
+}

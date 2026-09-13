@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 54:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "「受苦難、予風暴掃蕩、得無安慰的啊,你看,我欲用烏青礦做你的石頭的妝飾,用藍寶石立你的地基。",
+  "tokens": [
+    {
+      "surface": "עניה",
+      "gloss": "受苦難的"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "予風暴掃蕩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נחמה",
+      "gloss": "得安慰"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מרביץ",
+      "gloss": "欲…鋪設"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "用烏青礦"
+    },
+    {
+      "surface": "אבניך",
+      "gloss": "你的石頭"
+    },
+    {
+      "surface": "ויסדתיך",
+      "gloss": "立你的地基"
+    },
+    {
+      "surface": "בספירים",
+      "gloss": "用藍寶石"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:17.801425401Z",
+  "model": "glm-5.3"
+}

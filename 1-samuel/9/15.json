@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威有啟示⟨את⟩撒母耳的耳仔,佇掃羅來的一日前,講:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "有啟示"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒母耳的耳仔"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…進前"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "來"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:28.707005737Z",
+  "model": "glm-5.3"
+}

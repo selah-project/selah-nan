@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "有恩惠的查某人抱牢榮光;殘忍的人抱牢錢財。",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩惠"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "抱牢"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "殘忍的人"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "抱牢"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "錢財"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:21.496784949Z",
+  "model": "glm-5.3"
+}

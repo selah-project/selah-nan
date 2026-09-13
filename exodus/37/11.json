@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊用純金包⟨את⟩伊,閣給伊做金做的邊框圍四箍圍仔。",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "包"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "זר",
+      "gloss": "邊框"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍四箍圍仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:44.756345237Z",
+  "model": "glm-5.3"
+}

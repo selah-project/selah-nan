@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 28:28",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣𪜶的素祭是攪油的好麵粉:一隻牛犢用三十分之一伊法,一隻公羊仔用二十分之一伊法。",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "閣𪜶的素祭"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "好麵粉"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "攪"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三個"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "十分之一(伊法)"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "為著一隻牛犢"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一隻"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "十分之一(伊法)"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "為著彼隻公羊仔"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一隻"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:20.336271238Z",
+  "model": "glm-5.3"
+}

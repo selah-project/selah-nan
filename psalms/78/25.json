@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "人食阿比里姆的餅,伊差遣食物予𪜶,食甲飽。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "阿比里姆(勇者\/天使)"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "食物"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "להם",
+      "gloss": "予𪜶"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "食甲飽"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:24.005699104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "無人做主佇風,通將⟨את⟩彼個風關牢;死的日子嘛無權柄;戰爭中嘛無放免;歹事救袂脫⟨את⟩伊的主人。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "做主"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "佇風"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "通關牢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個風"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "彼個風"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "權柄"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "המות",
+      "gloss": "彼個死"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "放免"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "佇戰爭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "救脫"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的主人"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "伊的主人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:18.540028493Z",
+  "model": "glm-5.3"
+}

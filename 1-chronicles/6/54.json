@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣有⟨את⟩亞雅崙佮⟨את⟩伊的郊野,閣有⟨את⟩迦特琳們佮⟨את⟩伊的郊野。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "亞雅崙"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "亞雅崙"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的郊野"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "伊的郊野"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "迦特琳們"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "琳們"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的郊野"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "伊的郊野"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:48.268123043Z",
+  "model": "glm-5.3"
+}

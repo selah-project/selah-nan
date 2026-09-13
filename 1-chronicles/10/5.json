@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "扛伊家私的看見掃羅死矣,伊嘛伏佇刀頂,就死去。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "扛"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的家私"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "伏落"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "彼把刀"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "就死去"
+    }
+  ],
+  "timestamp": "2026-09-13T04:25:45.230648432Z",
+  "model": "glm-5.3"
+}

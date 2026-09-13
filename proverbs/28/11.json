@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "有錢人佇家己目睭內是智者,若是窮苦閣有明白的人會勘破伊。",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "智者"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇家己目睭內"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "有錢"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "閣窮苦"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "有明白的"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "會勘破伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:37.345991499Z",
+  "model": "glm-5.3"
+}

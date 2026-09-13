@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為我欲對伊的喙內提掉⟨את⟩諸個巴力的名,𪜶的名毋閣閣予人用𪜶的名數念。",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "閣我欲提掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個名"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "諸個名"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "諸個巴力"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "對伊的喙"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "數念"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "用𪜶的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:31.505028817Z",
+  "model": "glm-5.3"
+}

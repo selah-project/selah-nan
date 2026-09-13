@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "這馬,我仔,著聽我的話,照我所命令你 ⟨את⟩ 的去做。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我仔"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "我的話"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "照…的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "所命令"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:29.060518187Z",
+  "model": "glm-5.3"
+}

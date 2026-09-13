@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "迦勒──伊是耶拉篤伊的兄弟──的後生是米沙,米沙是伊的頭生子,伊是齊弗的老爸;瑪利沙的後生是希伯崙的老爸。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "耶拉篤伊"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "米沙"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "伊的頭生子"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "老爸"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "齊弗"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "瑪利沙"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "老爸"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:00.486325640Z",
+  "model": "glm-5.3"
+}

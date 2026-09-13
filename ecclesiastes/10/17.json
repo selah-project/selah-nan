@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "你有福氣啊,地啊,你的王是貴族的後生,你的官員照時陣食,為著氣力,毋是為著啉酒!",
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "你有福氣啊"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地啊"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "你的王"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "貴族"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "閣你的官員"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "照時陣"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "為著氣力"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "為著啉酒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:13.184914592Z",
+  "model": "glm-5.3"
+}

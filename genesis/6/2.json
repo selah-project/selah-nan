@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "以羅欣的子看見⟨את⟩人的查某囝,見𪜶真媠,就對一切𪜶所揀的,娶來做某。",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人的查某囝"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "見"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "真媠"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "娶"
+    },
+    {
+      "surface": "להם",
+      "gloss": "來"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "做某"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "𪜶揀"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:54.981405416Z",
+  "model": "glm-5.3"
+}

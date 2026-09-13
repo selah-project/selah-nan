@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "「收棚節」你欲家己守七工,佇你對你的粟埕佮你的酒醡收成的時。",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "節"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "收棚節(諸棚仔的節)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲守"
+    },
+    {
+      "surface": "לך",
+      "gloss": "家己"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "工(日)"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "佇你收成的時"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "你的粟埕"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "佮你的酒醡"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:38.468686106Z",
+  "model": "glm-5.3"
+}

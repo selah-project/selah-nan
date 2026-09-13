@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "我也會互草生佇恁的田裡,互恁的牲畜食,恁就會食閣會飽。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我也會互"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "佇恁的田裡"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "互恁的牲畜"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "恁就會食"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "閣會飽"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:23.654409396Z",
+  "model": "glm-5.3"
+}

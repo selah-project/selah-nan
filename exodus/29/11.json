@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你欲佇雅威面頭前,佇會幕門口,刣⟨את⟩這隻牛。",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "你欲刣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這隻牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "這隻牛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會(相刵的所在)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:24.032530685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "恁著極細膩看守恁的家己,去疼⟨את⟩雅威、恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "恁著看守"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極細膩"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "恁的家己"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "去疼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威恁的以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:25.933507732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊入去徛佇米茲拉因的軍營佮以色列的軍營中間;閣有雲佮烏暗,伊照光⟨את⟩彼個暗暝,歸暝彼個攏無接近這個。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "伊入去徛"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "軍營"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "軍營"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "佮烏暗"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "伊照光"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個暗暝"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "彼個暗暝"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "攏無"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "接近"
+    },
+    {
+      "surface": "זה",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "暝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:23.651118116Z",
+  "model": "glm-5.3"
+}

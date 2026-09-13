@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 138,
+  "translation": "因為雅威懸高,毋拘伊看顧謙卑的人;高傲的人,伊對遠遠就知矣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רם",
+      "gloss": "懸高"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "毋拘…謙卑的人"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "伊看顧"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "高傲的人"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "伊知"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:46.059941850Z",
+  "model": "glm-5.3"
+}

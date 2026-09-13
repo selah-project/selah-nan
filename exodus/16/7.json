@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "閣到早起,恁欲看著雅威的榮光⟨את⟩,因為伊佇聽見恁對雅威的怨言⟨את⟩;閣阮是啥物,恁哪會對阮怨妒?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "閣到早起"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "恁欲看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的榮光"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "佇伊聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的怨言"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "恁的怨言"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "閣阮"
+    },
+    {
+      "surface": "מה",
+      "gloss": "是啥物"
+    },
+    {
+      "surface": "כי",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "恁怨妒"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "對阮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:26.006951169Z",
+  "model": "glm-5.3"
+}

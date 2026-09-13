@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為雅威會替𪜶爭訟,閣會奪去彼个搶奪𪜶的人⟨את⟩的性命。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "替𪜶爭訟"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "𪜶的訟案"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "閣會奪去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "搶奪𪜶的人"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "搶奪𪜶的人"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:13.564917881Z",
+  "model": "glm-5.3"
+}

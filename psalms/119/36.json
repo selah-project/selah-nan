@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "互我的心彎向祢的見證,毋通向不法所得。",
+  "tokens": [
+    {
+      "surface": "הַט",
+      "gloss": "互…彎向"
+    },
+    {
+      "surface": "לִבִּי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עֵדְוֺתֶיךָ",
+      "gloss": "祢的見證"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "向"
+    },
+    {
+      "surface": "בָּצַע",
+      "gloss": "不法所得"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:21.142422781Z",
+  "model": "glm-5.3"
+}

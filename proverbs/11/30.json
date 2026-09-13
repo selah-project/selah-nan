@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "公義的人的果子是活命的樹仔;掠取性命的是智慧人。",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹仔"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "掠取"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "性命"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:27.087382022Z",
+  "model": "glm-5.3"
+}

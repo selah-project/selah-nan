@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 23:33",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "酩醉佮憂傷,你欲斟滿;驚駭佮荒涼的杯 —— 你阿姊撒馬利亞的杯。",
+  "tokens": [
+    {
+      "surface": "שכרון",
+      "gloss": "酩醉"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "佮憂傷"
+    },
+    {
+      "surface": "תמלאי",
+      "gloss": "你欲斟滿"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "…的杯"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "驚駭"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "佮荒涼"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "…的杯"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "你阿姊"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:34.861146282Z",
+  "model": "glm-5.3"
+}

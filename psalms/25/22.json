@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "以羅欣啊,救贖以色列,救⟨את⟩以色列脫離伊一切的困厄。",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "救贖"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離伊一切的"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "困厄"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:29.330072291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "阮思念祢的赫瑟德(慈愛),以羅欣啊,佇祢的宮殿中間。",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "阮思念"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "祢的赫瑟德"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "祢的宮殿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:40.945787476Z",
+  "model": "glm-5.3"
+}

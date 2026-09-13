@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "諸個是王所羅門的官員的首領,共五十佮二百,就是遐啲管轄人民的。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…的首領"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "官員"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "佮二百"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "人民"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:46.001052199Z",
+  "model": "glm-5.3"
+}

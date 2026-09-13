@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞伯拉罕生⟨את⟩以撒。以撒的囝仔:以掃佮以色列。",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "生"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:00.278737698Z",
+  "model": "glm-5.3"
+}

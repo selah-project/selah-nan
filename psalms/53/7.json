@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "啥人會對錫安賞賜以色列救恩?佇以羅欣倒轉伊子民受掠的境遇的時,雅各會歡喜,以色列會快樂。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "對錫安"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "救恩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "受掠的境遇"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的子民"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:57.736907997Z",
+  "model": "glm-5.3"
+}

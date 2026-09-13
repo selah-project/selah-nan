@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "著感謝雅威,因為伊雅威好,因為伊的赫瑟德(慈愛)永遠佇遐;",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "著感謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德(慈愛)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:38.192228205Z",
+  "model": "glm-5.3"
+}

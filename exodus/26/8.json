@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 26:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "一塊幔仔的長是三十肘,一塊幔仔的闊是四肘,十一塊幔仔攏同一个尺寸。",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "彼塊幔仔"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一塊"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "閣…闊"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "彼塊幔仔"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一塊"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "尺寸"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "同一个"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "對彼十一"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(十)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幔仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:33.979886608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "因為你設城做石堆,設堅固的城做廢墟;外人的堡壘對城永遠袂閣起造。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "你設"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "做石堆"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "做廢墟"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外人的"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "對城"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "閣起造"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:24.138416207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "伊就捧到掃羅面前,閣捧到伊的奴僕面前,𪜶就食;𪜶起來,就佇彼暝行去。",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "伊就捧到"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "閣…面前"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "𪜶就食"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "𪜶起來"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "就行去"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "佇彼暝"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:52.844709335Z",
+  "model": "glm-5.3"
+}

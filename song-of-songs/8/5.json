@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "啥人是這个,對曠野起來,倚靠佇伊的良人?佇蘋果樹下我喚醒你;遐你的老母懷你;遐彼个生你的老母懷你。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "伊的良人"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "蘋果樹"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "我喚醒你"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "懷你"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你的老母"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "懷"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "生你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:33.162152592Z",
+  "model": "glm-5.3"
+}

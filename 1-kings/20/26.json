@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "到一年轉回的時,便哈達就點算亞蘭⟨את⟩,上去亞弗,欲佮以色列相戰。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到……的時"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "轉回"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "一年"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "就點算"
+    },
+    {
+      "surface": "בן",
+      "gloss": "便"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞蘭"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "亞弗"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "欲相戰"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:36.442561993Z",
+  "model": "glm-5.3"
+}

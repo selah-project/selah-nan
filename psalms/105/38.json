@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "米茲拉因(埃及)佇𪜩出去的時歡喜,因為驚惶落佇𪜩身上。",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "佇𪜩出去的時"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "落"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜩身上"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:46.978137064Z",
+  "model": "glm-5.3"
+}

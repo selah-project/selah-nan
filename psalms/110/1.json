@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 110,
+  "translation": "大衛的詩。雅威的神諭對我的阿多奈講:「你坐佇我的正手邊,等我放你的對敵做跤踏仔佇你的跤下。」",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "對我的阿多奈"
+    },
+    {
+      "surface": "שב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "佇我的正手邊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "等到"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "我放"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "跤踏仔"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "佇你的跤下"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:34.419770432Z",
+  "model": "glm-5.3"
+}

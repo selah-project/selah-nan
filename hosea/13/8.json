@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 13:8",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我欲親像失落幼仔的熊撞著𪜶,欲裂開𪜶心肝的膜,佇遐欲親像母獅共𪜶食掉;田野的野獸欲裂開𪜶。",
+  "tokens": [
+    {
+      "surface": "אפגשם",
+      "gloss": "我欲撞著𪜶"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "親像…的熊"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "失落幼仔"
+    },
+    {
+      "surface": "ואקרע",
+      "gloss": "欲裂開"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "…的膜"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "𪜶心肝"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "欲共𪜶食掉"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "親像母獅"
+    },
+    {
+      "surface": "חית",
+      "gloss": "…的野獸"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "תבקעם",
+      "gloss": "欲裂開𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:37.824936397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "醒起來,起來到我的判斷,我的以羅欣、我的阿多奈啊,到我的訴訟。",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "到我的判斷"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "我的阿多奈"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "到我的訴訟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:12.712034966Z",
+  "model": "glm-5.3"
+}

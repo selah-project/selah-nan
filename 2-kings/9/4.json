@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "彼个少年家,就是先知的少年家,就去拉抹•基列。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼个少年家"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "就是…少年家"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知的"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "拉抹"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:14.395666374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "濟多人咧講:啥人欲互咱看著好物?雅威啊,願你掠你面的光照起佇咱頂面。",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "濟多人"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "咧講"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "欲互咱看著"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好物"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "願掠……照起"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "佇咱頂面"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你面的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:53.021384982Z",
+  "model": "glm-5.3"
+}

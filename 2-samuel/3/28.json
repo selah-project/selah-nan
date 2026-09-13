@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 3:28",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "大衛後來聽見,就講:「我佮我的王國佇雅威面前永遠清白,免負押尼珥、尼珥的囝的血。」",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "就聽見"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "כן",
+      "gloss": "彼擺"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "清白"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "וממלכתי",
+      "gloss": "佮我的王國"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "מדמי",
+      "gloss": "免負…的血"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "נר",
+      "gloss": "尼珥"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:05.962312013Z",
+  "model": "glm-5.3"
+}

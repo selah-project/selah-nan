@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "著孝敬⟨את⟩你的老父佮⟨את⟩你的老母,照雅威——你的以羅欣——所命令你的,欲互你的日子會久長,閣欲互你佇雅威——你的以羅欣——所賞賜你的彼片土地頂面得好過。",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "著孝敬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的老父"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你的老母"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你的老母"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "所命令你的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "למען",
+      "gloss": "欲互"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "會久長"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日子"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "閣欲互"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "得好過"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "彼片土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "所賞賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:15.200871302Z",
+  "model": "glm-5.3"
+}

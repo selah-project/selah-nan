@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "你的坐、你的出、你的入,我攏知,閣⟨את⟩你對我的受氣。",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "你的坐"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "你的出"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "你的入"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我攏知"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你對我的受氣"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "你的受氣"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:56.565303860Z",
+  "model": "glm-5.3"
+}

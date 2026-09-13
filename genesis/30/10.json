@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "悉帕,利亞的婢女,就替雅各生一個子。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "就生"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "悉帕"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "利亞的"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "替雅各"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個子"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:38.432853543Z",
+  "model": "glm-5.3"
+}

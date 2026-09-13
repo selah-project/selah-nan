@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "汝命令汝的法度照公義，佮誠信到極。",
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "汝命令"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "汝的法度"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "佮誠信"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "到極"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:15.640745104Z",
+  "model": "glm-5.3"
+}

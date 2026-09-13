@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "勇士啊,縛你的刀佇你的大腿;你的威嚴,佮你的尊貴。",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "縛"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "你的刀"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "大腿"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "你的威嚴"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "佮你的尊貴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:21.049096822Z",
+  "model": "glm-5.3"
+}

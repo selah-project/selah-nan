@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "義人的心思是審判,惡人的計謀是詭詐。",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "心思"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人的"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.263937204Z",
+  "model": "glm-5.3"
+}

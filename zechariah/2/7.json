@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "看啊,佇我內面講話彼个天使出去,閣另外一个天使出去迎接伊。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "彼个天使"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "בי",
+      "gloss": "佇我內面"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "閣一天使"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "另外"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "迎接伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:59.042415434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 84,
+  "translation": "你的帳幕偌可愛啊,雅威・采巴奧特!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "偌"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "可愛"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "你的帳幕"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:58.513855519Z",
+  "model": "glm-5.3"
+}

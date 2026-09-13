@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "擊打牲畜的性命的,愛賠償伊;性命換性命。",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "擊打…的"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "愛賠償伊"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "換"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:31.805016728Z",
+  "model": "glm-5.3"
+}

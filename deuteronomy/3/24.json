@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「阿多奈雅威啊,你已經開始欲予⟨את⟩你个奴僕看見⟨את⟩你个偉大,佮⟨את⟩你个大有力个手;因為佇天裡、佮佇地上,啥人以勒會當照你个所行、照你个大權能來行?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "已經開始"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "欲予……看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你个奴僕"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你个奴僕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你个偉大"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "你个偉大"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "你个大有力个手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你个手"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "大有力个"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為……个"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天裡"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "佮佇地上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……个"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "會行"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "照你个所行"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "佮照你个大權能"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:11.080462728Z",
+  "model": "glm-5.3"
+}

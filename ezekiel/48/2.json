@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "佇但的界頂,對東邊到海彼爿:亞設,一份。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "界"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "對…邊"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海彼爿"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "亞設"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一份"
+    }
+  ],
+  "timestamp": "2026-09-12T04:25:57.016059809Z",
+  "model": "glm-5.3"
+}

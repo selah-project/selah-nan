@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "願雅威以羅欣、以色列的以羅欣受謳咾,伊獨獨行奇妙的事。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "受謳咾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇妙的事"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "伊獨獨"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:16.897302858Z",
+  "model": "glm-5.3"
+}

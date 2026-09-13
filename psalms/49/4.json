@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "我的喙會講智慧,我的心所沉思的,是明達。",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "會講"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "…所沉思的"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "明達"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.199731206Z",
+  "model": "glm-5.3"
+}

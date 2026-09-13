@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊徛佇死人佮活人中間,瘟疫就擋牢矣。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "伊徛"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死人"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "就擋牢"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "瘟疫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:43.257642907Z",
+  "model": "glm-5.3"
+}

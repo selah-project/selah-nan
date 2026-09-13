@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "這陣請汝細膩保重,毋通啉酒佮烈酒,嘛毋通食任何無清氣的物。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "請汝細膩保重"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請汝"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "啉"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "佮烈酒"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "食"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "無清氣的物"
+    }
+  ],
+  "timestamp": "2026-09-12T02:34:28.291034425Z",
+  "model": "glm-5.3"
+}

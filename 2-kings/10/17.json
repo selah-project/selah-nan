@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊入撒馬利亞,擊殺⟨את⟩所有亞哈佇撒馬利亞猶留落來的人,直到共伊滅無,照雅威的話,就是⟨伊⟩對以利亞所講的。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有亞哈猶留落來的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "猶留落來的人"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "亞哈的"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒馬利亞"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "共伊滅無"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所講的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:21.255573023Z",
+  "model": "glm-5.3"
+}

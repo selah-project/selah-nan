@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "摩西講:「你也欲將祭物佮燒祭交佇阮手內,阮欲獻互雅威阮的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "欲…交"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "佇阮手內"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "佮燒祭"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "阮欲獻"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:23.994732659Z",
+  "model": "glm-5.3"
+}

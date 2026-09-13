@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "排好⟨彼個⟩桌仔,鋪好所鋪的,食啦,啉啦;起來,諸個首領,抹油佇盾牌。",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "排好"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "鋪"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "所鋪的"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "食"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "啉"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "諸個首領"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "抹油"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "盾牌"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:33.082702506Z",
+  "model": "glm-5.3"
+}

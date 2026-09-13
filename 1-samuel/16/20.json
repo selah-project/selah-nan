@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "耶西就攑一隻驢仔載餅、一囊酒、一隻山羊仔,對伊的後生大衛的手中差去予掃羅。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就攑"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "載餅"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "一囊"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "一隻山羊仔"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "差去"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "對…的手中"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去予"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:22.784615167Z",
+  "model": "glm-5.3"
+}

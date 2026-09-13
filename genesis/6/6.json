@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威因為家己佇地上造 ⟨את⟩ 人來後悔,伊的心真艱苦。",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "後悔"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "真艱苦"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:09.092179923Z",
+  "model": "glm-5.3"
+}

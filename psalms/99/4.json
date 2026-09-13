@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 99,
+  "translation": "閣王的氣力疼公道,你建立正直,你佇雅各行公道佮公義。",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "閣…氣力"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "建立"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "正直"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "佮公義"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "佇雅各"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:41.244615080Z",
+  "model": "glm-5.3"
+}

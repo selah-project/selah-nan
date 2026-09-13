@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "𪜶著承認⟨את⟩𪜶所行的罪過,閣伊著歸還⟨את⟩伊的賠罪本額,閣佇頂面加五分之一,互伊所得罪的人。",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "閣𪜶著承認"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的罪過"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "𪜶的罪過"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行的"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "閣伊著歸還"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的賠罪"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "伊的賠罪"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "本額"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "閣五分之一"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "加"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "閣互"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "互彼個人"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "所得罪的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:17.477167795Z",
+  "model": "glm-5.3"
+}

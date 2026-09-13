@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "這是燒祭、素祭、贖罪祭、贖愆祭、按立祭,佮平安祭之祭牲的律法。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "贖愆祭"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "按立祭"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "之祭牲"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:42.358405848Z",
+  "model": "glm-5.3"
+}

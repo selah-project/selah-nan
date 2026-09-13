@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "閣我欲差一個使者行佇你面前,我欲趕出⟨את⟩迦南人、亞摩利人、赫人、比利洗人、希未人,閣耶布斯人。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "閣我欲差"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "我欲趕出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "耶布斯人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:42.421234832Z",
+  "model": "glm-5.3"
+}

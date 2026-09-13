@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "大衛——耶西的仔——的祈禱,攏結束矣。",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "結束矣"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:16.897558989Z",
+  "model": "glm-5.3"
+}

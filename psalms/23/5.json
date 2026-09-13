@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你佇我面前排設桌席,徛佇我對敵的對面;你用油抹我的頭殼,我的杯是滿溢。",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "你排設"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "桌席"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "徛佇…對面"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "你抹"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭殼"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "我的杯"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "滿溢"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:38.121147569Z",
+  "model": "glm-5.3"
+}

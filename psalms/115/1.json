@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "毋是予阮,雅威,毋是予阮,是為著你的名,你互⟨伊⟩榮光,為著你的赫瑟德(慈愛),為著你的信實。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "予阮"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "予阮"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是為著"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "תן",
+      "gloss": "你互"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你的信實"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:32.023169898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩瑣拉、⟨את⟩亞雅崙、⟨את⟩希伯崙,就是佇猶大佮佇便雅憫的堡壘城。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "瑣拉"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "瑣拉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞雅崙"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "亞雅崙"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "希伯崙"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "佇猶大"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "佮佇便雅憫"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "堡壘"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:00.998115735Z",
+  "model": "glm-5.3"
+}

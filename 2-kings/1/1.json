@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞哈死了後,摩押就背叛以色列。",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "就背叛"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:52.083736030Z",
+  "model": "glm-5.3"
+}

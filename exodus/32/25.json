@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "摩西看見 ⟨את⟩ ⟨彼個⟩百姓,因為𪜶已經放蕩失控制,因為亞倫放縱𪜶,致到佇𪜶對敵的中間做笑詼。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼個百姓"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "放蕩失控制"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "放縱"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "做笑詼"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "佇𪜶對敵的中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:15.215243397Z",
+  "model": "glm-5.3"
+}

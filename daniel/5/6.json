@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼時王的面色變矣，伊的念頭驚惶伊，伊腰的關節鬆去，雙膝一个對一个相磕。",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "面色"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "變"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "佮伊的念頭"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "驚惶伊"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "佮…的關節"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "腰"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "鬆去"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "佮伊的雙膝"
+    },
+    {
+      "surface": "דא",
+      "gloss": "一个"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "對另外一个"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "相磕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:44:36.788802638Z",
+  "model": "glm-5.3"
+}

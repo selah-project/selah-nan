@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇拍死⟨את⟩西宏、亞摩利人的王、徛佇希實本的,閣拍死⟨את⟩噩、巴珊的王、徛佇亞斯她錄佇以得來的,了後",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "了後(佇……之後)"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "拍死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西宏"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "西宏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "希實本"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "噩"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "噩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "亞斯她錄"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "以得來"
+    }
+  ],
+  "timestamp": "2026-09-13T06:24:00.706922424Z",
+  "model": "glm-5.3"
+}

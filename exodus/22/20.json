@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "寄腳的,你毋通欺負,嘛毋通壓迫伊,因為恁佇米茲拉因(埃及)的地做過寄腳。",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "寄腳的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "欺負"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "壓迫伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "做寄腳"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "恁做過"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇……的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:17.220012629Z",
+  "model": "glm-5.3"
+}

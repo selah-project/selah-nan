@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "大衛的祈禱。雅威啊,請聽公義,注意聽我的呼求,側耳聽我的祈禱——對無詭詐的嘴脣發出的。",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "請聽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "注意聽"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "我的呼求"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "側耳聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "嘴脣"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:06.169163019Z",
+  "model": "glm-5.3"
+}

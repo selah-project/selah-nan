@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "入去石磐內,匿佇土粉中,對雅威的驚惶,對伊威嚴的光彩。",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "石磐內"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "匿佇"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "土粉中"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "對…光彩"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "伊威嚴的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:28.733309953Z",
+  "model": "glm-5.3"
+}

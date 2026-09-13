@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "會記得伊所行的奇妙,伊的神蹟,佮伊的嘴的判斷。",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "會記得"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "伊的奇妙"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所行"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "伊的神蹟"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "佮…的判斷"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "伊的嘴"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:42.470509228Z",
+  "model": "glm-5.3"
+}

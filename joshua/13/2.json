@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "這是猶無去的土地:非利士人的所有的境,閣所有的革書利人。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "猶無去的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "境"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "非利士人的"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣所有的"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "革書利人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:22.135399850Z",
+  "model": "glm-5.3"
+}

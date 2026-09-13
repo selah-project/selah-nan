@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 22:33",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "戰車的頭目一看見伊毋是以色列的王,就對伊的後面倒轉去。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "一看見"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "對伊的後面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:19.918903195Z",
+  "model": "glm-5.3"
+}

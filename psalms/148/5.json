@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "見若𪜶著謳咾雅威的名⟨את⟩;因為伊命令,𪜶就受創造。",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "𪜶著謳咾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "𪜶就受創造"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:36.152803543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "我就拍算欲知影這項,伊佇我的目睭是艱苦。",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "我就拍算"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "欲知影"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這項"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "艱苦"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇我的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:32.762765106Z",
+  "model": "glm-5.3"
+}

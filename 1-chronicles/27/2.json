@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "頭一個月頭一個班次,是撒比迪伊的仔雅沙班做頭;伊的班有二十佮四千人。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "做頭"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "班次"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "雅沙班"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "撒比迪伊"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "伊的班"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:33.565669624Z",
+  "model": "glm-5.3"
+}

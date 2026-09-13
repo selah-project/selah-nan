@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "欲做餅的五穀會碾碎,因為伊毋是永遠咧踏伊;伊的牛車的輪仔隆隆輾過,伊的馬嘛毋會碾碎伊。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "欲做餅的五穀"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "會碾碎"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "咧踏"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "踏伊"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "隆隆"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "輪仔"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "伊的牛車"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "佮伊的馬"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "碾碎伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:07.122275914Z",
+  "model": "glm-5.3"
+}

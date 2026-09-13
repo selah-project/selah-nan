@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "「雅威采巴奧特(萬軍)、以色列的以羅欣、坐佇基路伯頂面的,祢是獨獨佇地上眾王國做以羅欣彼位;祢造⟨את⟩諸天佮⟨את⟩這地。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "祢"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "獨獨祢"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "佇…眾"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "祢"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "這地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:33.787761535Z",
+  "model": "glm-5.3"
+}

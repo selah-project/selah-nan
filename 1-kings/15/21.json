@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "彼時,巴沙一聽見,就停止無閣起造⟨את⟩拉瑪,伊就徛起佇得撒。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "一聽見"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "就停止"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "無閣起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉瑪"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "拉瑪"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "伊就徛起"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "佇得撒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:01.318146305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "𪜶用腳鐐壓制伊的腳，鐵進入伊的性命。",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "壓制"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "用腳鐐"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的腳"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "באה",
+      "gloss": "進入"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:02.959395638Z",
+  "model": "glm-5.3"
+}

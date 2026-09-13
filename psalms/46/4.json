@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "伊的水哮嘩滾沸,山佇伊的威勢中震動。細拉。",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "哮嘩"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "滾沸"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "伊的水"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "震動"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "佇伊的威勢中"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:58.271512016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊責備海,海就焦去,伊予所有的河攏焦涸;巴珊枯萎,迦密佮利巴嫩的花嘛枯萎。",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "責備"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "予伊焦去"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "許个河"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "焦涸"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "枯萎"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "巴珊"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "佮迦密"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "佮…的花"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "利巴嫩"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "枯萎"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:03.105824852Z",
+  "model": "glm-5.3"
+}

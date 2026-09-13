@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "我愛怎樣報答雅威,為著伊對我一切的好處?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "怎樣"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我愛…報答"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "伊的好處"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:46.997426744Z",
+  "model": "glm-5.3"
+}

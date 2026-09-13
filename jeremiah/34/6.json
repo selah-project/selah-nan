@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "先知耶利米就對猶大王西底家講⟨את⟩諸個一切的話,佇耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個一切的話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "諸個話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:59:53.931033934Z",
+  "model": "glm-5.3"
+}

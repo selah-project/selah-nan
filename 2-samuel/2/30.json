@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "約押對追押尼珥轉來,招齊⟨את⟩所有的人民,就數點大衛的奴僕,無去十九个佮亞撒黑。",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "שב",
+      "gloss": "轉來"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "對追"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "招齊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的人民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "就數點"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "對大衛的奴僕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "九"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "איש",
+      "gloss": "个"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "佮亞撒黑"
+    },
+    {
+      "surface": "אל",
+      "gloss": "亞撒黑"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:07.863709604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願伊的囝變做孤囝,伊的某做寡婦。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "願…變做"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤囝"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "佮伊的某"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:09.427158978Z",
+  "model": "glm-5.3"
+}

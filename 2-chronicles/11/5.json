@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "羅波安徛佇耶路撒冷,伊起造城做堡壘,佇猶大境內。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "伊起造"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "做堡壘"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "佇猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:57.704045608Z",
+  "model": "glm-5.3"
+}

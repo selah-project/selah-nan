@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "⟨את⟩南方的邊伊量矣,五百枝葦仔,用量度⟨的⟩葦仔。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "南方的邊"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "方向"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "南方的"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "伊量矣"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "葦仔"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "用量度葦仔"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "量度"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:27.985899025Z",
+  "model": "glm-5.3"
+}

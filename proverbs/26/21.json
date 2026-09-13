@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 26:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "「炭」對「燒火炭」,「柴」對「火,照按呢,「好爭論的人」對「煽起爭執」。",
+  "tokens": [
+    {
+      "surface": "פחם",
+      "gloss": "炭"
+    },
+    {
+      "surface": "לגחלים",
+      "gloss": "對燒火炭"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "佮柴"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "對火"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮好爭論的人"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "爭論"
+    },
+    {
+      "surface": "לחרחר",
+      "gloss": "對煽起"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "爭執"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:48.997569251Z",
+  "model": "glm-5.3"
+}

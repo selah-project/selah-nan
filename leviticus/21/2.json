@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "獨獨若是為著伊的血親、親近伊的 —— 伊的老母、伊的老父、伊的後生、伊的查某囝、佮伊的小弟,才會使。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "為著伊的血親"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "親近的"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "佮伊的老父"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "佮伊的後生"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "佮伊的查某囝"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "佮伊的小弟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:23.137442291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "閣看有傷心痛的路佇我內底無,導我行永遠的路。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "閣看"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢有"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "傷心痛的"
+    },
+    {
+      "surface": "בי",
+      "gloss": "佇我內底"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "導我行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:45.357289715Z",
+  "model": "glm-5.3"
+}

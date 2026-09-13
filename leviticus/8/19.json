@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶宰了,摩西灑⟨את⟩血佇祭壇的四箍圍。",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "宰"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "灑"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍圍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:09.744168634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「你以色列若欲倒轉,雅威的神諭講:就倒轉來我遮;你若共你的可憎物對我面前除去,就袂振動。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "來我"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "除去"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "你的可憎物"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "振動"
+    }
+  ],
+  "timestamp": "2026-09-12T03:48:06.111980131Z",
+  "model": "glm-5.3"
+}

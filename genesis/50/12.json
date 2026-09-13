@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "伊的眾子就照伊所命令𪜶的按呢給伊行。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "就行"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的眾子"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照…所"
+    },
+    {
+      "surface": "צום",
+      "gloss": "命令𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:43.315207639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "看啊,彼个日子!看啊,伊來矣;清晨出去矣;杖發苞矣,驕傲發芽矣。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "היום",
+      "gloss": "彼个日子"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "באה",
+      "gloss": "伊來矣"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "出去矣"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "清晨"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "發苞矣"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "杖"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "開花矣"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "驕傲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:42.379376778Z",
+  "model": "glm-5.3"
+}

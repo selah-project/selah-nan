@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "敬畏雅威是知識的起頭;智慧佮管教,愚妄的人攏藐視。",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "佮管教"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "愚妄的人"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "藐視"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:16.633815090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "看啊,𪜶的勇士攏佇外面嚎;和平的使者苦苦咧哭。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "𪜶的勇士"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "嚎"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "佇外面"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "的使者"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "和平"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦苦"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "咧哭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:15.349105392Z",
+  "model": "glm-5.3"
+}

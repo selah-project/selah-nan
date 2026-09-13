@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "若是恁放棄⟨את⟩雅威,去事奉外邦的神明,伊就倒轉向恁做歹,佇伊對恁做好了後,共⟨את⟩恁滅無去。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "恁放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "去事奉"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的神明"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外邦"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "伊就倒轉"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "做歹"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "向恁"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "閣滅無"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇…了後"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼陣"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "做好"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:45.997047864Z",
+  "model": "glm-5.3"
+}

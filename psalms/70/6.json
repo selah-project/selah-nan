@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 70,
+  "translation": "毋過我是散凶人佮欠缺的人;以羅欣啊,趕緊來我遮!我的幫助、救我脫離的,⟨是⟩你;雅威啊,毋通延延!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "毋過我"
+    },
+    {
+      "surface": "עני",
+      "gloss": "散凶人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮欠缺的人"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "לי",
+      "gloss": "來我遮"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "我的幫助"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "救我脫離的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "延延"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:29.166027395Z",
+  "model": "glm-5.3"
+}

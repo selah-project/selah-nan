@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "獨獨諸個邱壇無廢掉,百姓猶原佇邱壇獻祭佮燒香。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "諸個邱壇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶原"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "佮燒香"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "佇邱壇"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:10.581768320Z",
+  "model": "glm-5.3"
+}

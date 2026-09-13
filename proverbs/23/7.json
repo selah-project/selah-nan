@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "因為伊佇伊的心內咧算計,伊就是按呢;「食啦,啉啦」,伊對你按呢講,毋閣伊的心攏無佮你佇咧。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "שער",
+      "gloss": "咧算計"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "佇伊的心內"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊就是"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "啉"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "伊會講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "毋閣伊的心"
+    },
+    {
+      "surface": "בל",
+      "gloss": "攏無"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你佇咧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:42.361924346Z",
+  "model": "glm-5.3"
+}

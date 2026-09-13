@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "死个胡蠅會使配香个人个油發出臭味;一點仔个愚戇比智慧閣較貴重,比榮光嘛是。",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "胡蠅"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "發臭"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "會使…湠出"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "配香个人个"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "貴重"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "比智慧"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "比榮光"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "愚戇"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "一點仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:24.862573640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇馬門頂面,祭司逐个修理,逐人徛佇家己厝的對面。",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "修理"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "徛佇…的對面"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "家己厝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:54:07.365972318Z",
+  "model": "glm-5.3"
+}

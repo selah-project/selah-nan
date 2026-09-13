@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "你佇患難的日子若鬆懈,你的氣力就真狹小。",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "鬆懈"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "患難"
+    },
+    {
+      "surface": "צר",
+      "gloss": "狹小"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "你的氣力"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:40.401389907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 21:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣對可拉剩落來的子孫,對以法蓮支派的家庭、對但支派、對瑪拿西半個支派,用抽籤得十座城。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "閣對…的子孫"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "剩落來的"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "對…的家庭"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "支派"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "閣對…的支派"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "ומחצי",
+      "gloss": "閣對…半個"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "支派"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "用抽籤"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-09-12T02:26:57.674065318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "活命佮赫瑟德你對待我，閣你的看顧保守我的氣息。",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "佮赫瑟德"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你做"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "閣你的看顧"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "保守"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的氣息"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:25.532356721Z",
+  "model": "glm-5.3"
+}

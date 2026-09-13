@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "地搖來搖去,親像啉酒醉的人;閣搖擺,親像草寮;伊的背叛重重重壓佇伊頂面,伊就倒落去,袂擱再爬起來。",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "搖來搖去"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "親像啉酒醉的人"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "閣搖擺"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "親像草寮"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "閣重"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "壓佇伊頂面"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "伊的背叛"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "伊就倒落去"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "擱再"
+    },
+    {
+      "surface": "קום",
+      "gloss": "爬起來"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:53.151348834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威以羅欣提著⟨את⟩彼個人,安置伊佇伊甸園,欲互伊耕耘伊、看守伊。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "提著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "安置伊"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "佇園"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "欲耕耘伊"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "佮看守伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:39.871904932Z",
+  "model": "glm-5.3"
+}

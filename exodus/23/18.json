@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你毋通將我祭牲的血獻佇酵物頂面，我節期〈的〉油嘛毋通留隔暝到早起。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "酵物"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "我的祭牲"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋通"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "留隔暝"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "我的節期"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早起"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:06.488808502Z",
+  "model": "glm-5.3"
+}

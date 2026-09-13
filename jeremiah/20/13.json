@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "著唱詩予雅威,讚美⟨את⟩雅威,因為伊有救出⟨את⟩窮乏人的性命脫離歹人的手。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "著唱詩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "有救出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "窮乏人的性命"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "窮乏人"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "歹人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:07.185638026Z",
+  "model": "glm-5.3"
+}

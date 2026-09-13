@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 8:21",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "約書亞佮以色列攏看見埋伏的人已經攻落⟨את⟩城,城內的煙已經沖上天,𪜶就倒頭轉,擊殺⟨את⟩艾城的人。",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "攻落"
+    },
+    {
+      "surface": "הארב",
+      "gloss": "埋伏的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "佮因為"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "沖上天"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城的"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "𪜶就倒頭轉"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "艾城的人"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "人"
+    },
+    {
+      "surface": "העי",
+      "gloss": "艾城的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:31.670863586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "佇𪜶猶是人數少、真少、閣寄居佇彼個地的時,",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "佇𪜶猶是…的時"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "人"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數少"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "真少"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "閣寄居的"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼個地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:45.342367852Z",
+  "model": "glm-5.3"
+}

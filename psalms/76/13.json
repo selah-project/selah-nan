@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 76,
+  "translation": "伊欲割斷王子頭人的氣息,雅威予地上諸王的確驚惶。",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "割斷"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣息"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "王子頭人"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "予人驚惶"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:07.903988435Z",
+  "model": "glm-5.3"
+}

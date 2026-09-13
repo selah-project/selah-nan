@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 7:39",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊安⟨את⟩五座佇厝的正手爿,五座佇厝的倒手爿;閣安⟨את⟩彼海佇厝正手爿彼爿,向東爿,對南。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "伊安"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "五座(座架)"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "座架"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五座"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "邊角"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "對正手爿"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "閣五座"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "邊角"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "משמאלו",
+      "gloss": "對伊的倒手爿"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼海"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "安放"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "對邊角"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "正手爿彼爿"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "向東爿"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "對"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:11.362487161Z",
+  "model": "glm-5.3"
+}

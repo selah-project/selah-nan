@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "利巴嫩啊,開你的門,火就欲吞食你的香柏樹!",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "利巴嫩"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "你的門"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "就欲吞食"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "佇你的香柏樹"
+    }
+  ],
+  "timestamp": "2026-09-12T04:40:50.927967523Z",
+  "model": "glm-5.3"
+}

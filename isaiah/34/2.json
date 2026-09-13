@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "因為雅威受氣攏對列國,祂的烈怒對𪜶一切的軍隊;祂已經滅無𪜶,已經交𪜶去互人刣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "佮烈怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "𪜶的軍隊"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "祂已經滅無𪜶"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "已經交𪜶"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "去互人刣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:47.588131352Z",
+  "model": "glm-5.3"
+}

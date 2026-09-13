@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "因為這是以色列的律例,是雅各的以羅欣的典章。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חק",
+      "gloss": "律例"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "典章"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:22.102516596Z",
+  "model": "glm-5.3"
+}

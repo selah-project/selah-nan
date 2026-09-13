@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "指揮者的,大衛的一首詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "一首詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:16.265009407Z",
+  "model": "glm-5.3"
+}

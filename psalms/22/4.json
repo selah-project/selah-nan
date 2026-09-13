@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "毋拘你是聖的,坐佇以色列的讚美。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋拘你"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "是聖的"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "坐佇"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "的讚美"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:00.688363518Z",
+  "model": "glm-5.3"
+}

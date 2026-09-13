@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "閣𪜶越頭閣試探以勒,閣限定以色列的聖者的界限。",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "閣𪜶越頭"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "閣試探"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "閣…的聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "限定…的界限"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:06.801792089Z",
+  "model": "glm-5.3"
+}

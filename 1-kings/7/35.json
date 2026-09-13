@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 7:35",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "佇彼座的頂頭有一个圓箍,半肘懸,四圍圍圇仔;閣佇彼座的頂頭,𪜶的撐架佮𪜶的框,攏是對伊出來的。",
+  "tokens": [
+    {
+      "surface": "ובראש",
+      "gloss": "佇……的頂頭"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "彼座"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "半"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "懸"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "圓的"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇……頂面"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂頭"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "彼座"
+    },
+    {
+      "surface": "ידתיה",
+      "gloss": "𪜶的撐架"
+    },
+    {
+      "surface": "ומסגרתיה",
+      "gloss": "佮𪜶的框"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊出來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:31.388375476Z",
+  "model": "glm-5.3"
+}

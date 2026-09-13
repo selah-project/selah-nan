@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "閣將⟨את⟩𪜶一枝搭一枝,為著你做一根柴,閣𪜶欲佇你的手裡合做一體。",
+  "tokens": [
+    {
+      "surface": "וקרב",
+      "gloss": "閣將…挨近"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(兩枝柴)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一枝"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一枝"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "做一根柴"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一根"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "閣𪜶欲做"
+    },
+    {
+      "surface": "לאחדים",
+      "gloss": "合做一體"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手裡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:10.803948422Z",
+  "model": "glm-5.3"
+}

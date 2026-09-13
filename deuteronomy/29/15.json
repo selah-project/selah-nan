@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "因為恁知影⟨את⟩阮佇埃及(米茲拉因)的地所徛起的,佮⟨את⟩阮行過恁所行過彼啲列國中間的——",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "知影"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮佇埃及的地所徛起的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "阮徛起"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及(米茲拉因)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "阮行過列國中間的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "阮行過"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "恁行過"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:05.105071866Z",
+  "model": "glm-5.3"
+}

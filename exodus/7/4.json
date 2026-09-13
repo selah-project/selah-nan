@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "法老欲毋聽恁,我欲將⟨את⟩我的手按佇埃及,我欲導出⟨את⟩我的軍旅、⟨את⟩我的百姓以色列的子兒,離開埃及地,用大个審判。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲將…按"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇埃及"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "我欲導出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的軍旅"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "我的軍旅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "離開…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "用…審判"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大个"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:18.249707752Z",
+  "model": "glm-5.3"
+}

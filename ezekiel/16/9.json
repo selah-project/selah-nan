@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "我就用水洗汝,共汝的血對汝身上洗掉,閣用油抹汝。",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "我就洗汝"
+    },
+    {
+      "surface": "במים",
+      "gloss": "用水"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "洗掉"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "汝的血"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "對汝身上"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "閣用油抹汝"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    }
+  ],
+  "timestamp": "2026-09-12T04:12:37.670358130Z",
+  "model": "glm-5.3"
+}

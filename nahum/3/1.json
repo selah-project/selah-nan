@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "禍哉,血流成河的城!伊完全是詭詐佮搶奪,攏滿滿,掠物無離開!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血流成河的"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "伊完全"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "詭詐"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "搶奪"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "離開"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "掠物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:22.565211062Z",
+  "model": "glm-5.3"
+}

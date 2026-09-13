@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊就落去禾埕,照伊大家所命令伊的一切去做。",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "伊就落去"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "禾埕"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "去做"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "所命令伊"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "伊大家"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:46.601433354Z",
+  "model": "glm-5.3"
+}

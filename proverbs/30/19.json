@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "鷹鳥佇天裡的路,蛇佇石頭頂的路,船佇海中央的路,佮查埔人佇查某囡仔身的路。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "鷹鳥"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天裡"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "צור",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "船"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "佇…中央"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "佮…的路"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "查埔人"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "佇查某囡仔身"
+    }
+  ],
+  "timestamp": "2026-09-13T04:53:53.453284161Z",
+  "model": "glm-5.3"
+}

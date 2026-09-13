@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 23:19",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "約西亞嘛除去 ⟨את⟩ 撒馬利亞諸城內所有的邱壇殿,就是以色列諸王所做來激以羅欣受氣的;伊對 𪜶 行,照伊佇伯特利所行的一切代誌。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的邱壇殿"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "殿"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בערי",
+      "gloss": "諸城內"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "所做"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "來激受氣"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "除去"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "伊行"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對 𪜶"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所行"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:28.540149568Z",
+  "model": "glm-5.3"
+}

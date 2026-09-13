@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "以羅欣的祭⟨是⟩破碎的靈;破碎佮受壓傷的心,以羅欣啊,你毋會看輕。",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "祭"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "破碎的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "破碎"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "佮受壓傷"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋會"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "看輕"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:51.008030337Z",
+  "model": "glm-5.3"
+}

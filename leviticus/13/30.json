@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司就愛看⟨את⟩彼個災病,看啊,伊的外觀比皮膚較深,佇伊內底有幼細的黃色毛,祭司就愛判定伊毋潔⟨את⟩——彼是禿瘡,伊是頭殼抑是喙鬚的癩疥。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "就看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個災病"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "彼個災病"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "伊的外觀"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "較深"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比"
+    },
+    {
+      "surface": "העור",
+      "gloss": "皮膚"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "黃色"
+    },
+    {
+      "surface": "דק",
+      "gloss": "幼細"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "判毋潔"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "禿瘡"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "癩疥"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭殼"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "喙鬚"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:07.128778675Z",
+  "model": "glm-5.3"
+}

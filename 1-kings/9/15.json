@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "這是所羅門王所徵的勞役的代誌,為著欲起⟨את⟩雅威的家、⟨את⟩伊的家、⟨את⟩米羅、⟨את⟩耶路撒冷的城牆,閣⟨את⟩夏瑣、⟨את⟩米吉多、⟨את⟩基色。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "המס",
+      "gloss": "勞役"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "העלה",
+      "gloss": "徵"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "為著欲起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "米羅"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "米羅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的城牆"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "夏瑣"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "夏瑣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "米吉多"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "米吉多"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "基色"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "基色"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:19.046798082Z",
+  "model": "glm-5.3"
+}

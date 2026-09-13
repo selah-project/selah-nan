@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你毋通對你的兄弟討利息:銀的利息、糧食的利息、凡是會討利息的物的利息。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "討利息"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "對你的兄弟"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "糧食"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "會討利息"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:28.437113594Z",
+  "model": "glm-5.3"
+}

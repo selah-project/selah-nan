@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "阮毋欲對𪜶的囡仔隱瞞,欲對後世代講雅威的讚美,佮伊的氣力,佮伊奇妙的事,就是伊所做的。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "隱瞞"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "對𪜶的囡仔"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "對……世代"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "後"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "講"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "佮伊的氣力"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "佮伊奇妙的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是……的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:24.188454951Z",
+  "model": "glm-5.3"
+}

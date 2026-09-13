@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我的手會佮伊徛在;我的膀臂嘛會堅固伊。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "會徛在"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "我的膀臂"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "會堅固伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:45.523758343Z",
+  "model": "glm-5.3"
+}

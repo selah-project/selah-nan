@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是佇挖壁孔的所在揣著彼个賊仔,伊予人拍,死了,伊就無血債。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "佇挖壁孔的所在"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "彼个賊仔"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "伊予人拍"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血債"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:26.293136813Z",
+  "model": "glm-5.3"
+}

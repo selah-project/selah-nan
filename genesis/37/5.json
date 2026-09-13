@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "約瑟夢著一個夢,伊就講予伊的兄弟聽,𪜶就閣較怨恨⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "夢著"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "一個夢"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "講予……聽"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "予伊的兄弟"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "閣添"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣較"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:13.976031950Z",
+  "model": "glm-5.3"
+}

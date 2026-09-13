@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "「因為我哪會當看見災禍臨到⟨את⟩我族?閣我哪會當看見我的親族的滅亡?」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "哪"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "會當"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "找到"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我族"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我族"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "閣哪"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "會當"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "看見"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "滅亡"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "我的親族"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:38.119134185Z",
+  "model": "glm-5.3"
+}

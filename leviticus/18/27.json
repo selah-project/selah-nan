@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "因為佇恁面前的人,做過 ⟨את⟩ 這一切可憎的事,地就染著無清氣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切可憎的事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "האל",
+      "gloss": "這些"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做過"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "的人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "佇恁面前"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "就染著無清氣"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:09.426324221Z",
+  "model": "glm-5.3"
+}

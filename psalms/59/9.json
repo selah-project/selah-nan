@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "毋過你——雅威——欲咧笑𪜶;欲譏誚所有的列國。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋過你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "欲咧笑"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "欲譏誚"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:04.811148322Z",
+  "model": "glm-5.3"
+}

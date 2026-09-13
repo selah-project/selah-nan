@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "歌,亞薩的詩篇。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.298794936Z",
+  "model": "glm-5.3"
+}

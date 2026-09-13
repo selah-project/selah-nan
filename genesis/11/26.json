@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "他拉活了七十歲,就生了⟨את⟩亞伯蘭、⟨את⟩拿鶴佮⟨את⟩哈蘭。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "活了"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "他拉"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯蘭"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿鶴"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "拿鶴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "哈蘭"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "哈蘭"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:21.114930774Z",
+  "model": "glm-5.3"
+}

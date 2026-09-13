@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊行佇伊老爸一切的罪,就是伊以前佇伊面前所做的;伊的心佮雅威伊的以羅欣無親像大衛伊老爸的心按呢完全。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "伊行"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "罪"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "完全"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "親像…的心"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老爸"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:02.311405089Z",
+  "model": "glm-5.3"
+}

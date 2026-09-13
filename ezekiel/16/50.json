@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "𪜶高傲,閣佇我面前做可憎的事;我就照我所看見的將⟨את⟩𪜶除掉。",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "𪜶高傲"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "我就除掉"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(撒多瑪佮伊的查某子)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我所看見的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:12:29.159251463Z",
+  "model": "glm-5.3"
+}

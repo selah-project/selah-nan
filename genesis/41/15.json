@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "法老對約瑟講:「我做一個夢,無人會當解釋⟨את⟩伊;我聽人講關於你,講你聽夢就會當解釋⟨את⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "我夢見"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "解釋"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "有聽著"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "關於你"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "你聽"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "來解釋"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:38.604705586Z",
+  "model": "glm-5.3"
+}

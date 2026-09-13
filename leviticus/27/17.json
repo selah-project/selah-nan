@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是對禧年的年頭就分別做聖伊的田,照你的估價伊就徛在。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "對……的年頭"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "禧年"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "分別做聖"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "伊的田"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "照你的估價"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "伊就徛在"
+    }
+  ],
+  "timestamp": "2026-09-13T04:41:27.248375123Z",
+  "model": "glm-5.3"
+}

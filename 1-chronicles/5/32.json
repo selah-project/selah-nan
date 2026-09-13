@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "烏西生⟨את⟩撒拉雅;撒拉雅生⟨את⟩米拉約。",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "烏西"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒拉雅"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "撒拉雅"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "撒拉雅"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米拉約"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "米拉約"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:36.222824048Z",
+  "model": "glm-5.3"
+}

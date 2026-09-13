@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "法老的心變硬,伊就無放⟨את⟩以色列的子孏出去,親像雅威藉摩西的手所講的。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "變硬"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放…出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的子孏"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孏"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所講的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:58.860704805Z",
+  "model": "glm-5.3"
+}

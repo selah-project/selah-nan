@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 8:3",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "彼日,殿 的歌欲變做嚎哭,這是阿多奈雅威講的:死體 真濟,佇逐所在攏恬恬擲出去 —— 恬!",
+  "tokens": [
+    {
+      "surface": "והילילו",
+      "gloss": "欲嚎"
+    },
+    {
+      "surface": "שירות",
+      "gloss": "歌"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "講"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "הפגר",
+      "gloss": "死體"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "擲出去"
+    },
+    {
+      "surface": "הס",
+      "gloss": "恬!"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:42.892845380Z",
+  "model": "glm-5.3"
+}

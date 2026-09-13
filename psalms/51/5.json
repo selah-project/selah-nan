@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "因為我的過犯,我知影,我的罪攏徛佇我面前無歇。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "我的過犯"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "我的罪"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "徛佇我面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "攏無歇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:47.992242074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "做歹的人豈攏毋知影?𪜶食我的百姓,親像食餅,𪜶嘛無哀求雅威。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈……毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知影"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "做……的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "歹"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "食……的人"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "𪜶食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "哀求"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:44.892577251Z",
+  "model": "glm-5.3"
+}

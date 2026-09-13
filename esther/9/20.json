@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "末底改寫諸個話⟨את⟩,寄批去予猶太人攏總,佇亞哈隨魯王各省的,近的佮遠的。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "伊寫"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "伊寄"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "批"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去予"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶太人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇攏總"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "省"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "近的"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "佮遠的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:15.386127854Z",
+  "model": "glm-5.3"
+}

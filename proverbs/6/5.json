@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "家己救出來,親像鹿仔對⟨獵人的⟩手,閣親像鳥仔對掠鳥人的手。",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "家己救出來"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "親像鹿仔"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對手"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "閣親像鳥仔"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對手"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "掠鳥人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:31.144532736Z",
+  "model": "glm-5.3"
+}

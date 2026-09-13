@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "亞當伊活的日子攏總是九百年閣三十年,伊就死矣。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "攏總是"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "閣三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "伊就死矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:03.064632195Z",
+  "model": "glm-5.3"
+}

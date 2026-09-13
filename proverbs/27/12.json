@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "精明的人看見災禍就家己匿起來;戇直的人攏繼續行過去,就受罰。",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "精明的人"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "匿起來"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "戇直的人"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "行過去"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "受罰"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:37.620639210Z",
+  "model": "glm-5.3"
+}

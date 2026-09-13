@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼个財富佇歹的境遇中失落去矣,閣伊生一个後生,伊的手內啥物攏無。",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "失落去矣"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "彼个財富"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "佇境遇中"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "閣生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "攏無"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手內"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "啥物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:21.466484180Z",
+  "model": "glm-5.3"
+}

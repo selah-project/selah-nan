@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "一個夢我看見，伊互我驚惶；我眠床頂的思想，佮我頭殼的異象，攏互我著驚。",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "一個夢"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "伊互我驚惶"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "佮…思想"
+    },
+    {
+      "surface": "על",
+      "gloss": "…頂"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "我的眠床"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "佮…異象"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭殼"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "互我著驚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:45:10.944255628Z",
+  "model": "glm-5.3"
+}

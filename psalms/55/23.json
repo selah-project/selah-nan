@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "你的重擔著交落予雅威,閣伊欲扶持你;伊到永遠毋欲互義人搖動。",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "交落"
+    },
+    {
+      "surface": "על",
+      "gloss": "予"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "你的重擔"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "閣伊"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "欲扶持你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "義人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:24.212634421Z",
+  "model": "glm-5.3"
+}

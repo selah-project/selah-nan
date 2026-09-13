@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "「諸天喔,唱歌歡呼!土地喔,歡喜!山嶺喔,爆出歡呼!因為雅威安慰伊的子民,伊受苦的百姓伊憐憫。」",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "唱歌歡呼"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "佮歡喜"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "爆出"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山嶺"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "安慰"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的子民"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "佮伊受苦的"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "憐憫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:25.087264758Z",
+  "model": "glm-5.3"
+}

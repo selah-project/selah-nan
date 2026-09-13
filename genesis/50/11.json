@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 50:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "彼地的居民、迦南人,看見⟨את⟩佇亞撻的禾埕的哀傷,就講:「這對埃及人是一場沉重的哀傷。」所以人共彼个所在叫名做亞伯米茲拉因,佇約旦河的對岸。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼地"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "佇亞撻的禾埕的哀傷"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "佇…的禾埕"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "亞撻"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "沉重"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "對埃及人"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫名做"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "亞伯"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "佇…對岸"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:43.314858045Z",
+  "model": "glm-5.3"
+}

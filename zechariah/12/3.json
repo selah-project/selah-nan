@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 12:3",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "彼個日子欲按呢:我欲設 ⟨את⟩ 耶路撒冷做一塊沉重的石頭,予所有的列國;凡若扞伊重擔的,攏欲割傷到重;地上所有的國家嘛欲聚集對抗伊。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "欲按呢"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我欲設"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "מעמסה",
+      "gloss": "沉重的"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "予所有的"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡若"
+    },
+    {
+      "surface": "עמסיה",
+      "gloss": "扞伊重擔的"
+    },
+    {
+      "surface": "שרוט",
+      "gloss": "割傷"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "攏割傷到重"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "閣聚集"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對抗伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "國家"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:42.401475242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "戰爭閣再起,大衛出去佮非利士人相戰,𢭃𪜶大敗一擺,𪜶就對伊面前逃走。",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "起"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "佮非利士人"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "𢭃…大敗"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "一擺拍擊"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:43.481764239Z",
+  "model": "glm-5.3"
+}

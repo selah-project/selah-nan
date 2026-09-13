@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "願我喙內的話佮我心內的默唸,佇你面頭前蒙悅納,雅威,我的磐石,閣是我的救贖者。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "願……成做"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "蒙悅納"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "話"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我喙內的"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "閣……默唸"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我心內的"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面頭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "閣是我的救贖者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:27.956267847Z",
+  "model": "glm-5.3"
+}

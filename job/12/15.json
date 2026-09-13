@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "看啊,伊若擋牢諸個水,𪜶就焦去;伊若放𪜶出去,𪜶就翻覆大地。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "擋牢"
+    },
+    {
+      "surface": "במים",
+      "gloss": "諸個水"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "𪜶就焦去"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "伊若放𪜶出去"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "𪜶就翻覆"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:14.266339544Z",
+  "model": "glm-5.3"
+}

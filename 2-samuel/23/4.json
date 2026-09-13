@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "閣親像早時的光,清晨日頭照出來,無烏雲的清晨,對光燦、對雨水,草對土地發出來。",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "閣親像…的光"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "清晨"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "照出來"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "清晨"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "烏雲"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "對光燦"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "對雨水"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "草"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:02.105127745Z",
+  "model": "glm-5.3"
+}

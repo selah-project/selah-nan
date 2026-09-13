@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 42:15",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "伊量完了⟨את⟩內殿的尺寸了後,就帶我對彼個面向東爿路的門出去,伊四箍輾轉量伊。",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "量完了後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "內殿的尺寸"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "尺寸"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "內"
+    },
+    {
+      "surface": "והוציאני",
+      "gloss": "帶我出去"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "對……的路"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "向東爿"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "伊量伊"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍輾轉"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "輾轉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:19.973463488Z",
+  "model": "glm-5.3"
+}

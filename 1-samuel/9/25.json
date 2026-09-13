@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "𪜶對彼個邱壇落來到城裡,撒母耳佮掃羅講話佇屋頂頂面。",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "𪜶落來"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "對彼個邱壇"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "到城裡"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "撒母耳講話"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "屋頂"
+    }
+  ],
+  "timestamp": "2026-09-13T04:28:02.187034896Z",
+  "model": "glm-5.3"
+}

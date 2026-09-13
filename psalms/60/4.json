@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "你搖動大地,你裂開伊;醫伊的破裂,因為伊咧搖晃。",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "你搖動"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "你裂開伊"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "醫"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "伊的破裂"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "伊咧搖晃"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:16.716891762Z",
+  "model": "glm-5.3"
+}

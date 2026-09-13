@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "雅威啊,憐憫我,因為我抵著困迫;我的目睭、我的性命、我的腹肚,攏佇怨嘆中消瘦。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "憐憫我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צר",
+      "gloss": "困迫"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我抵著"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "消瘦"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "佇怨嘆中"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "閣有我的腹肚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:01.880711023Z",
+  "model": "glm-5.3"
+}

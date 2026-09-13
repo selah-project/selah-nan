@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我欲差火入去猶大,伊欲吞食耶路撒冷的宮殿。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "入去猶大"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "伊欲吞食"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:44.488039017Z",
+  "model": "glm-5.3"
+}

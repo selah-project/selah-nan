@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "以色列疼⟨את⟩約瑟,勝過伊的眾囝,因為伊是伊年老所得的囝;伊就為伊做一件彩色的長衫。",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "勝過…一切"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的眾囝"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的囝"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "年老"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "就做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "長衫"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "彩色的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:52.171727921Z",
+  "model": "glm-5.3"
+}

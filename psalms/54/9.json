@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "因為伊對逐項患難救我,我个目睭亦看見我个對敵。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對逐項"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "患難"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "亦在我个對敵"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我个目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:35.139081010Z",
+  "model": "glm-5.3"
+}

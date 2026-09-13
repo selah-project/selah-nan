@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "任何活佇地上的精牲的形像,任何有翼鳥仔佇諸天飛的形像,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "形像"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "精牲"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "形像"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "有翼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "飛"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:44.692573312Z",
+  "model": "glm-5.3"
+}

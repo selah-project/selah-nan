@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我就互⟨את⟩恁徛蹛佇這個所在,佇我賜互恁的祖先的彼片土地,對遠古一直到永遠。",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "我就互…徛蹛"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "徛蹛佇這個所在"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇…所在"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我賜"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "互恁的祖先"
+    },
+    {
+      "surface": "למן",
+      "gloss": "對…起頭"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "遠古"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T03:48:37.311888757Z",
+  "model": "glm-5.3"
+}

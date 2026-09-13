@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "我驚的彼日,我欲倚靠你。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "我驚"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "倚靠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:19.348981870Z",
+  "model": "glm-5.3"
+}

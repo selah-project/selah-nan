@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "𪜶恬坐三冬,阿拉姆佮以色列中間無戰爭。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "恬坐"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "冬"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "阿拉姆"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:17.541337369Z",
+  "model": "glm-5.3"
+}

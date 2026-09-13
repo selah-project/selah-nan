@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "2-samuel 15:7",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "到四十年的尾,押沙龍就對王講:「請互我去,我欲去還我所許的願,就是我所許予雅威佇希伯崙的願 ⟨את⟩。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "到…的尾"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "我去"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "我欲還"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我所許的願"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "我所許的願"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "我所許的"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "佇希伯崙"
+    }
+  ],
+  "timestamp": "2026-09-13T06:54:21.354693833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "耶路撒冷啊,你著謳咾⟨את⟩ 雅威;錫安啊,你著讚美你的以羅欣。",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "你著謳咾"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷啊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "你著讚美"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安啊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:27.442399983Z",
+  "model": "glm-5.3"
+}

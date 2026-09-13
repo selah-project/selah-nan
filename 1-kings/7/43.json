@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣⟨את⟩十座座架,佮⟨את⟩十個洗盆,下佇座架頂。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "座架"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "座架"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "洗盆"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "洗盆"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "座架"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:26.650541861Z",
+  "model": "glm-5.3"
+}

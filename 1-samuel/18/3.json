@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "約拿單佮大衛立約，因為伊疼⟨את⟩伊，親像疼家己。",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "立"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "佮大衛"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "因為疼"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(大衛)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "親像疼家己"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:07.517334265Z",
+  "model": "glm-5.3"
+}

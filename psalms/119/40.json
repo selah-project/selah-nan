@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "看啊,阮渴慕祢的律例;佇祢的公義活阮。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "阮渴慕"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "祢的律例"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "佇祢的公義"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "活阮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:03.889103017Z",
+  "model": "glm-5.3"
+}

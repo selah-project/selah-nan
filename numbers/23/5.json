@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "雅威將一句話下佇比蘭的喙內,講:「倒轉去巴勒遐,按呢你才通講。」",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "下"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "佇喙內"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "比蘭"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "巴勒"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "你才通講"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:17.355121192Z",
+  "model": "glm-5.3"
+}

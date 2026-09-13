@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "大衛為著彼個囝仔懇求⟨את⟩以羅欣;大衛禁食,入去內面,佇遐過暝,倒佇土腳。",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "懇求"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "為著"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼個囝仔"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "צום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "過暝"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "倒"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "佇土腳"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:23.663366279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "彼號戶蘭(希蘭)給所羅門的城,所羅門共⟨את⟩𪜶起造起來,閣伊安置⟨את⟩以色列的囡仔佇遐。",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "彼號城"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "戶蘭"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "彼號城"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "安置……徛起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的囡仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囡仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:43.001638022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "對你,我的心曾講:「尋求我個面。」你個面,雅威啊,我欲尋求 ⟨את⟩ 你個面。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "曾講"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我個面"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你個面"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你個面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "我欲尋求"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:28.208868434Z",
+  "model": "glm-5.3"
+}

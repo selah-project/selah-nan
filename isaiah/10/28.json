@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊來到亞雅,經過密格綸,佇密抹點交伊的器具。",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "עית",
+      "gloss": "亞雅"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "經過"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "佇密格綸"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "佇密抹"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "點交"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的器具"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:09.384138077Z",
+  "model": "glm-5.3"
+}

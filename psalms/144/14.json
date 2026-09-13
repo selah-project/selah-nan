@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "阮的牛堪得載重,無破口,無走出去的,嘛無叫咧行佇阮的街路上。",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "阮的牛"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "堪得載重"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "破口"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "亦無"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "走出去的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "亦無"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "叫咧行"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "佇阮的街路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:55.032145989Z",
+  "model": "glm-5.3"
+}

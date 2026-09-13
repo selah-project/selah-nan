@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "啥物事予恁?恁踹碎我的人民,閣磨破碎困苦人的面——阿多奈・雅威・采巴奧特(萬軍)講的。",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "啥物事予恁"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "恁踹碎"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "閣……的面"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "磨破碎"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "講的(神諭)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:15.793552174Z",
+  "model": "glm-5.3"
+}

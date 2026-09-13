@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 56:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "閣彼啲外人的子,黏倚雅威、欲服事伊、疼 ⟨את⟩ 雅威的名、欲做伊的奴僕的——逐个守安息日、無褻瀆伊、閣捉牢我的約——",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "閣…的子"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "外人"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "彼啲黏倚的"
+    },
+    {
+      "surface": "על",
+      "gloss": "倚"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "欲服事伊"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "佮疼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "無褻瀆伊"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "閣捉牢"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "我的約"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:11.666870432Z",
+  "model": "glm-5.3"
+}

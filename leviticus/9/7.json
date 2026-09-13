@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "摩西給亞倫講:「倚近祭壇,獻⟨את⟩你的贖罪祭佮⟨את⟩你的燔祭,為你家己佮為人民行贖罪;閣獻⟨את⟩人民的祭物,為𪜶行贖罪,照雅威所命令的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "給"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的贖罪祭"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "你的贖罪祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "你的燔祭"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "你的燔祭"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "行贖罪"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "為你家己"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "佮為"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "閣獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人民的祭物"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "閣行贖罪"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "為𪜶"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:13.056494762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "腳會踏踏伊——窮困人的腳,軟弱人的腳步。",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "會踏踏伊"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "腳"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "…的腳"
+    },
+    {
+      "surface": "עני",
+      "gloss": "窮困人"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "…的腳步"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "軟弱人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:33.991732689Z",
+  "model": "glm-5.3"
+}

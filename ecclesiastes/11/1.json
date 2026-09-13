@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "放你的餅落水面頂,因為過真濟日了你會揣著伊。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "放……落"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "你的餅"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "佇濟……"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "你會揣著伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:08.386915473Z",
+  "model": "glm-5.3"
+}

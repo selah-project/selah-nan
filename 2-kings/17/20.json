@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "雅威棄撒以色列全族的後代,苦待𪜶,共𪜶交佇搶奪者的手裡,一直到伊共𪜶對伊的面前摔出去。",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "棄撒"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "後代"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "苦待𪜶"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "共𪜶交"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "搶奪者"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "到"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "摔𪜶出去"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊的面前"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:33.130448685Z",
+  "model": "glm-5.3"
+}

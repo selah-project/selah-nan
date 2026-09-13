@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你欲對牛的血提一寡,用你的指頭仔搵血抹佇祭壇的角仔;閣⟨את⟩全部的血,你著灑落去祭壇的崁底。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你欲…提"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "對…的血提一寡"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "搵血抹佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "角仔"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇的"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "用你的指頭仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全部的血"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "的血"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "你著灑"
+    },
+    {
+      "surface": "אל",
+      "gloss": "落去"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "崁底"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:24.032697992Z",
+  "model": "glm-5.3"
+}

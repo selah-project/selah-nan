@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "人的心圖謀伊的路,獨獨雅威安定伊的腳步。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "獨獨雅威"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "安定"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "伊的腳步"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:39.427461303Z",
+  "model": "glm-5.3"
+}

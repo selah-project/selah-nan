@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佮彼個摸著患漏症的人的身軀肉的,著洗伊的衫,佮佇水底洗身軀,就無清氣到暗頭。",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "佮彼個摸著"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "的肉"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "患漏症的人"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "著洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "佮洗身軀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水底"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "就無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗頭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:41.293614983Z",
+  "model": "glm-5.3"
+}

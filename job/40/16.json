@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 40:16",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "你看,伊的氣力佇伊的腰,伊的勇勁佇伊肚腹的筋肉。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啊"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "伊的氣力"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "佇伊的腰"
+    },
+    {
+      "surface": "ואנו",
+      "gloss": "佮伊的勇勁"
+    },
+    {
+      "surface": "בשרירי",
+      "gloss": "佇……的筋肉"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "伊的肚腹"
+    }
+  ],
+  "timestamp": "2026-09-13T04:38:08.797381113Z",
+  "model": "glm-5.3"
+}

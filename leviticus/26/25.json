@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 26:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我欲帶刀劍來到恁身上,行盟約的報仇;恁欲聚集入恁的城內,我欲差瘟疫入恁中間,恁欲落佇對敵的手裡。",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "我欲帶來"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "到恁身上"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "行…的報仇"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報仇"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "盟約"
+    },
+    {
+      "surface": "ונאספתם",
+      "gloss": "恁欲聚集"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "恁的城"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "佇恁中間"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "恁欲互"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:54.665100761Z",
+  "model": "glm-5.3"
+}

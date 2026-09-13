@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "恁的羊群伊欲掠十分之一,恁嘛欲做伊的奴僕。",
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "恁的羊群"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "掠十分之一"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:02.379489761Z",
+  "model": "glm-5.3"
+}

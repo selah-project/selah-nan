@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "我的目睭無歇向雅威,因為伊欲對網仔共我的腳救出來。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "無歇"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "欲救出來"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "對網仔"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:53.328445505Z",
+  "model": "glm-5.3"
+}

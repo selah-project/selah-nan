@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "我的囝啊,食蜜,因為⟨是⟩好的;蜂巢滴落的蜜汁,甜佇你的喙腔。",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的囝"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "佮蜂巢滴落的蜜汁"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "甜"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "你的喙腔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:06.088235303Z",
+  "model": "glm-5.3"
+}

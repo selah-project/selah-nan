@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊薰燒⟨את⟩伊的燒祭佮⟨את⟩伊的素祭,奠⟨את⟩伊的酒祭,閣灑⟨את⟩和平祭的血 —— 彼個是伊的 —— 佇祭壇頂。",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "薰燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的燒祭"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "伊的燒祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的素祭"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "伊的素祭"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "奠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的酒祭"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "伊的酒祭"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "閣灑"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "和平祭的血"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "和平祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:09.136514054Z",
+  "model": "glm-5.3"
+}

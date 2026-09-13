@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "佮𪜶愛看守⟨את⟩會幕的職守、⟨את⟩聖所的職守,佮𪜶的兄弟亞倫子孫的職守,為著雅威的家的服事。",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "佮𪜶愛看守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕的職守"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "職守"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "聖所的職守"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "職守"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所的"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "佮…職守"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "𪜶的兄弟"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "為著…的服事"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:37.969515543Z",
+  "model": "glm-5.3"
+}

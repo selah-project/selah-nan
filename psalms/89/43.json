@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "你高舉伊對敵的右手;你予伊所有的仇敵歡喜。",
+  "tokens": [
+    {
+      "surface": "הרימות",
+      "gloss": "你高舉"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右手"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "伊的對敵"
+    },
+    {
+      "surface": "השמחת",
+      "gloss": "你予……歡喜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "伊的仇敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:24.433037269Z",
+  "model": "glm-5.3"
+}

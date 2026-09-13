@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 13:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司著看⟨את⟩伊,看啊,若斑內底的毛變做白色,伊的樣看起來比皮較深,這就是痲瘋,佇火燒的所在發出來,祭司就判定⟨את⟩伊無清氣:這是痲瘋的病災。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "著看"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "變做"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白色"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "佇斑內底"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "伊的樣"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "較深"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比"
+    },
+    {
+      "surface": "העור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "痲瘋"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這就是"
+    },
+    {
+      "surface": "במכוה",
+      "gloss": "佇火燒的所在"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "發出來"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "判定無清氣"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "病災"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "痲瘋"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:37.515250166Z",
+  "model": "glm-5.3"
+}

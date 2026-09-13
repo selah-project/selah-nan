@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "雅各差人去,叫拉結佮利亞到田野去伊的羊群遐。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "拉結"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "佮利亞"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "伊的羊群遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:19.418247655Z",
+  "model": "glm-5.3"
+}

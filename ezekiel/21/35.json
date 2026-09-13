@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "互伊倒轉入伊的鞘!佇你受造的所在,佇你出身的地,我欲審判⟨את⟩你。",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "互倒轉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "伊的鞘"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "你受造"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "你出身的"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "我欲審判"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你",
+      "marks": "你(刀劍\/亞捫)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:14:38.095855996Z",
+  "model": "glm-5.3"
+}

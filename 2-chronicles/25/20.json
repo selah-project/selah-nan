@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "亞瑪謝毋聽,因為彼个是對以羅欣來的,為著欲予𪜶落入去手中,因為𪜶有尋⟨את⟩以東的神明。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "亞瑪謝"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "對以羅欣"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼个是"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "予𪜶"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "落入去手中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "𪜶有尋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以東的神明"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:25.777680537Z",
+  "model": "glm-5.3"
+}

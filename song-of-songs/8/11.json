@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "示羅摩有一个葡萄園佇巴阿勒哈蒙;伊將⟨את⟩葡萄園交予看守的人,逐人為著伊的果子提一千銀。",
+  "tokens": [
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "歸示羅摩"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "佇巴阿勒"
+    },
+    {
+      "surface": "המון",
+      "gloss": "哈蒙"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "葡萄園"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "這葡萄園"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "予看守的人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "提"
+    },
+    {
+      "surface": "בפריו",
+      "gloss": "為著伊的果子"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:36.996521003Z",
+  "model": "glm-5.3"
+}

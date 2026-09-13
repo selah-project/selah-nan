@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 26:25",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "佮伊的兄弟屬以利以謝的:伊的子利哈比雅、伊的子以賽雅、伊的子約蘭、伊的子細基利、伊的子示羅密。",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "佮伊的兄弟"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "屬以利以謝的"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "利哈比雅"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "וישעיהו",
+      "gloss": "伊的子以賽雅"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "伊的子約蘭"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "伊的子細基利"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "伊的子示羅密"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:07.957233519Z",
+  "model": "glm-5.3"
+}

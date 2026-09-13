@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "佇阮跛腳的時𪜶歡喜,𪜶集合,集合來對抗阮,是毀謗阮的人,阮毋捌𪜶;𪜶撕阮,無停止。",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "佇阮跛腳的時"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "𪜶歡喜"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "𪜶集合"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "集合"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "來對抗阮"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "毀謗阮的人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "阮捌𪜶"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "𪜶撕阮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "停止"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:26.016992274Z",
+  "model": "glm-5.3"
+}

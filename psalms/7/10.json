@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "願歹人的歹結束,啊,願義人得堅固;以羅欣公義,考驗心佮腰子。",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "願……結束"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啊"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人的"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "願堅固"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "考驗"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "心"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "佮腰子"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:30.089657367Z",
+  "model": "glm-5.3"
+}

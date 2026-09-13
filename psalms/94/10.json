@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "管教列國的,豈無責備嗎?教示人知識的,⟨豈無知影嗎⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "管教……的"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈無"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "責備"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "教示……的"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:14.298317896Z",
+  "model": "glm-5.3"
+}

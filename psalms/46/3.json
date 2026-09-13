@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "因為按呢,阮毋驚,雖然地咧變動,雖然山搖撼落佇海的心。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "佇…變動"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "佮佇…搖撼"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "佇…的心"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:58.271374978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "所羅門做完⟨את⟩雅威的家、閣⟨את⟩王的家的工,閣⟨את⟩一切上到所羅馬心內欲佇雅威的家、佇伊家內所做的一切,伊攏做好勢。",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "做完"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "王的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "上到"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心內"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "閣佇伊家內"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "伊攏做好勢"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:22.593008268Z",
+  "model": "glm-5.3"
+}

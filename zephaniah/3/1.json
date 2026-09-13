@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "禍哉,彼個悖逆閣受污染的,彼個欺壓人的城!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "閣受污染"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "欺壓人的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:22.215370642Z",
+  "model": "glm-5.3"
+}

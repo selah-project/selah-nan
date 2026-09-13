@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "人子啊,你的餅著佇震恐中食,你的水著佇驚惶佮憂愁中飲。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "你的餅"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "佇震恐中"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "佮你的水"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "佇驚惶中"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "佮佇憂愁中"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "飲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:10:46.425186525Z",
+  "model": "glm-5.3"
+}

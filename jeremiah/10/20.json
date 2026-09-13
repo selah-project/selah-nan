@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 10:20",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我的帳棚受搶劫矣,我的索攏總斷去矣;我的子離開我出去,𪜶已經無佇遐矣。無人閣會當張我的帳棚,嘛無人會當豎我的幔仔。",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "我的帳棚"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "受搶劫"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "我的……攏總"
+    },
+    {
+      "surface": "מיתרי",
+      "gloss": "索"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "斷去矣"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的子"
+    },
+    {
+      "surface": "יצאני",
+      "gloss": "離開我出去"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "𪜶已經無佇遐矣"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無人"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "張"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "我的帳棚"
+    },
+    {
+      "surface": "ומקים",
+      "gloss": "嘛……豎"
+    },
+    {
+      "surface": "יריעותי",
+      "gloss": "我的幔仔"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:30.709794054Z",
+  "model": "glm-5.3"
+}

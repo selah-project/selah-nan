@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "歸陣在地的人攏歡喜,彼個城嘛安靜落去;閣⟨את⟩亞他利雅𪜶用刀殺死,佇王宮彼爿。",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "攏歡喜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸陣"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "佇地的人"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "彼個城嘛"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "安靜落去"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞他利雅"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "亞他利雅"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "𪜶用刀殺死"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "בית",
+      "gloss": "佇…宮"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-13T04:49:05.393718418Z",
+  "model": "glm-5.3"
+}

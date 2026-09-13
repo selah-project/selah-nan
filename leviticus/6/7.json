@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "這是素祭的律法:亞倫的子孫愛獻 ⟨את⟩ 伊佇雅威面前,向祭壇的面。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "佮這"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "獻近"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:28.524756671Z",
+  "model": "glm-5.3"
+}

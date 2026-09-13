@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊差伊的查某囡仔出去,伊佇城的懸頂大聲喝",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "差…出去"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "伊的查某囡仔"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "大聲喝"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "懸頂"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "懸頂(重疊)"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "城"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:17.015968705Z",
+  "model": "glm-5.3"
+}

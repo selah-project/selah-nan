@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣⟨את⟩彼隻公羊剁做伊的塊仔,摩西燒⟨את⟩頭、⟨את⟩彼的塊仔、閣⟨את⟩彼個油。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼隻公羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "彼隻公羊"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "剁"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "做伊的塊仔"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "燒"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼的塊仔"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "彼的塊仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼個油"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "彼個油"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:09.744345911Z",
+  "model": "glm-5.3"
+}

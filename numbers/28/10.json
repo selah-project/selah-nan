@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "安息日的燔祭,佇伊的安息日獻,是佇常常的燔祭以外,閣伊的奠祭。",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "佇伊的安息日"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…以外"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "常常的"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "閣伊的奠祭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:26.360428170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "牛母佮熊欲做夥食草,𪜶的幼仔欲做夥倒;獅子欲親像牛仝款食稻草。",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "牛母"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "佮熊"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "欲食草"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做夥"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "倒"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "𪜶的幼仔"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "親像牛"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "稻草"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:51.851793647Z",
+  "model": "glm-5.3"
+}

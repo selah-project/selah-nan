@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "唱歌的行佇頭前,彈樂器的綴佇後壁,佇中間有少女咧拍鼓。",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "行佇頭前"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "唱歌的"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "綴佇後壁"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "彈樂器的"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇中間"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "少女"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "咧拍鼓"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:15.693522019Z",
+  "model": "glm-5.3"
+}

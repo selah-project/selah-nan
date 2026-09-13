@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "伊欲用伊的翎毛遮蔽你,閣佇伊的翅下你可以避難;伊的誠實是大盾牌佮小盾牌。",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "用伊的翎毛"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "遮蔽"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "閣佇……下"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "伊的翅"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "避難"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "大盾牌"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "佮小盾牌"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "伊的誠實"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:10.070126692Z",
+  "model": "glm-5.3"
+}

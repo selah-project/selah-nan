@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊對摩西講:「我——你的親家公葉特羅——來到你遮,閣你的某佮伊的兩个後生佮伊做伙。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "你的親家公"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "葉特羅"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你遮"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "閣你的某"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "佮伊做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:53.969561054Z",
+  "model": "glm-5.3"
+}

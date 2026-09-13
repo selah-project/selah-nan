@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "日頭照起來,當伊已經行過⟨את⟩比努伊勒的時,伊跛腳,因為伊的大腿。",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "日頭照起來"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為著伊"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "行過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "比努伊勒"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "比努伊勒"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "跛腳"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "伊的大腿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:53.570986270Z",
+  "model": "glm-5.3"
+}

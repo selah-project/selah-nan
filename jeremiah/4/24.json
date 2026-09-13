@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我看諸個山,看啊,𪜶咧震動;所有的丘陵攏搖撼。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我看"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "諸個山"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "咧震動"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "丘陵"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "攏搖撼"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:26.997215695Z",
+  "model": "glm-5.3"
+}

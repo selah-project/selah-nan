@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼時雅威呼叫撒母耳,伊就應講:「我佇遮。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "呼叫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就應講"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我佇遮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:43.227501302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "汝愛歹贏過好,愛白賊贏過講公義。細拉。",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "汝愛"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "贏過好"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "贏過講"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:21.391020410Z",
+  "model": "glm-5.3"
+}

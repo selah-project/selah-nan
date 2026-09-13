@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 11:34",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "毋過我毋欲對伊的手內提⟨את⟩全個王國,因為我欲設伊做首領,佇伊一世人攏總的日子,為著我的奴僕大衛——我揀選⟨את⟩伊的,伊有守我的誡命佮我的律例。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋過我毋欲"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全個王國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "個王國"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "對伊的手內"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "首領"
+    },
+    {
+      "surface": "אשתנו",
+      "gloss": "我欲設伊做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "伊一世人"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我揀選"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(大衛)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "有守"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "我的誡命"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "佮我的律例"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:07.787961412Z",
+  "model": "glm-5.3"
+}

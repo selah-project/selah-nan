@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊聚集人到伊遐,做掠奪隊的首領,佇大衛殺 ⟨את⟩ 𪜶的時;𪜶去大馬士革,徛佇遐,佇大馬士革做王。",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "到伊"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "שר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "掠奪隊"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "佇殺"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "𪜶去"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "佇大馬士革"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:19.171263014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "互指揮的,用基提琴,屬亞薩的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮的"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "基提琴"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "屬亞薩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.159875811Z",
+  "model": "glm-5.3"
+}

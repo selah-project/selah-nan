@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "閣毋通入去審判 ⟨את⟩ 你的奴僕,因為佇你面前,無一個活人會得稱義。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "閣毋通"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的奴僕"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "會得稱義"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一個…一切"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:09.773650592Z",
+  "model": "glm-5.3"
+}

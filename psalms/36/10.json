@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "因為對你遐⟨是⟩活命的泉源;佇你的光內,咱看會著光。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "對你遐"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "佇你的光內"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "咱看會著"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:58.834019223Z",
+  "model": "glm-5.3"
+}

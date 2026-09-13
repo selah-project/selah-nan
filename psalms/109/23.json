@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "我行去親像蔭影斜去的時,我互人搖掉親像草蜢。",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "親像蔭影"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "斜去的時"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "我行去"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "我互人搖掉"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "親像草蜢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:59.616043945Z",
+  "model": "glm-5.3"
+}

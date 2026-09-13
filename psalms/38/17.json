@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "因為我講:「免得𪜶對我歡喜;我的腳咧跋倒,𪜶對我家己放大。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "𪜶歡喜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "佇…跋倒"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "𪜶放大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:29.225169351Z",
+  "model": "glm-5.3"
+}

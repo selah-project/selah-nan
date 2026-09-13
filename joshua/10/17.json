@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "有人去共約書亞報講,講:「五個王揣著矣,匿佇馬基大的一個山穴。」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人去報"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "共約書亞"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "揣著矣"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "五個"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "匿"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "佇山穴"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "佇馬基大"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:30.317121885Z",
+  "model": "glm-5.3"
+}

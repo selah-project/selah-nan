@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "求你看顧我,應答我,雅威我的以羅欣!求你互我的目睭光,免得我睏死亡的睏;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "求你看顧"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應答我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "求你互…光"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "我睏"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死亡的(睏)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:37.840950233Z",
+  "model": "glm-5.3"
+}

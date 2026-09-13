@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "山欲擔沙龍(和平)互人民,丘陵照公義。",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "擔"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "沙龍(和平)"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "互人民"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "閣丘陵"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "照公義"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:17.221597855Z",
+  "model": "glm-5.3"
+}

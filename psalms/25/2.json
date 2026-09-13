@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "我的以羅欣啊,我倚靠你;毋通互我見笑,毋通互我的對敵對我歡喜。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "互我見笑"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "互…歡喜"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:54.957082449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "因為連母鹿佇田裡生囝了後,嘛放棄⟨伊⟩,因為無草。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "母鹿"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生囝"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "嘛放棄"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "草"
+    }
+  ],
+  "timestamp": "2026-09-12T03:51:41.566852822Z",
+  "model": "glm-5.3"
+}

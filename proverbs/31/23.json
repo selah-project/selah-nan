@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "伊的翁佇城門口出名,伊坐佮地的長老做夥。",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "出名"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "佇城門口"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "伊的翁"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "伊坐"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮……做夥"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:47.843173959Z",
+  "model": "glm-5.3"
+}

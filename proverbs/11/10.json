@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "義人興旺,城市就歡喜;歹人滅亡,就有歡呼。",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "興旺"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城市"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "總是…滅亡"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "有歡呼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:44.787029861Z",
+  "model": "glm-5.3"
+}

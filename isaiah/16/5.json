@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "閣寶座欲佇赫瑟德裡得設立,伊欲徛佇頂面,佇真實裡,佇大衛的帳棚——審判,閣追求公義,閣趕緊行公義。",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "閣……得設立"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "佇赫瑟德裡"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "徛(坐)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "佇真實裡"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "佇帳棚"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "閣追求"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義(判準)"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "閣趕緊"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:40.892090445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「有福氣」是彼个人尋著智慧的人,抑是彼个人得著聰明的人。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "「有福氣」"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "抑是人"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "得著"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "聰明"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:38.034243791Z",
+  "model": "glm-5.3"
+}

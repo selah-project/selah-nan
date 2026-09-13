@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "無知的人毋通閣叫做高貴的人,倚靠錢財的人嘛毋通叫做好額人。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "叫做"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "無知的人"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "高貴的人"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "嘛對倚靠錢財的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "講做"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "好額人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:49.759510392Z",
+  "model": "glm-5.3"
+}

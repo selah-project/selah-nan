@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "閣願伊榮光的名受謳咾到永遠;願伊的榮光充滿⟨את⟩歸個大地。阿們,閣阿們。",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "閣願…受謳咾"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊榮光的"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "願…充滿"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歸個大地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸個"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿們"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "閣阿們"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:16.897443734Z",
+  "model": "glm-5.3"
+}

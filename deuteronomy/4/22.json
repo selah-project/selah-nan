@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為我欲死佇這個地,我袂使過⟨את⟩約旦河;獨恁欲過去,得著⟨את⟩彼个好的地——就是這個。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇這個地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "我毋是"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約旦河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "獨恁"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "欲過去"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "得著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个好的地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼个地"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "好的"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:05.804117829Z",
+  "model": "glm-5.3"
+}

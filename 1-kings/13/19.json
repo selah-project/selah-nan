@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊就⟨את⟩佮伊倒轉去,佇伊的厝食餅、飲水。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "伊就倒轉去"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩佮伊",
+      "marks": "佮伊"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊的厝"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "飲"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:42.272102898Z",
+  "model": "glm-5.3"
+}

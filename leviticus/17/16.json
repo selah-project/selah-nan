@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "若是伊毋洗衫,身軀嘛毋洗,就愛擔當伊的罪孽。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "洗衫"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "伊的身軀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "洗"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "就愛擔當"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "伊的罪孽"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:43.353686262Z",
+  "model": "glm-5.3"
+}

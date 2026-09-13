@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "以色列啊,聽:今仔日汝欲過⟨את⟩約但河,入去佔有比汝閣卡大閣卡強的列國,城大閣堅固到天。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "過"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約但河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約但河"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "佔有"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "閣強"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "比汝"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "大"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "閣堅固"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "到天"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:45.948517908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "愚戇的人譏笑罪咎,佇正直人中間有恩惠。",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "譏笑"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "罪咎"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "恩惠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:34.594537666Z",
+  "model": "glm-5.3"
+}

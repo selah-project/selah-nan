@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "以羅欣,你毋通毀謗;你百姓的領袖,你毋通咒詛。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "毀謗"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "領袖"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "你百姓的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "咒詛"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:45.404217818Z",
+  "model": "glm-5.3"
+}

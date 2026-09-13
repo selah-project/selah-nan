@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "以羅欣采巴奧特啊,求你倒轉來;對天頂看落來,看見,佮看顧這株葡萄樹——",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "看落來"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "對天頂"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "佮看見"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "佮看顧"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "葡萄樹"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這株"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.907467685Z",
+  "model": "glm-5.3"
+}

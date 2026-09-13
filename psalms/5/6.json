@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "誇口的人攏袂徛佇你目睭頭前;你怨恨逐個做孽的人。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "徛"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "誇口的人"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "佇…頭前"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "你怨恨"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "做…的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "孽"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:39.105521794Z",
+  "model": "glm-5.3"
+}

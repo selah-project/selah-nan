@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶頭一擺啟程,照雅威用摩西的手所講的嘴音。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "啟程"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "頭一擺"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "פי",
+      "gloss": "嘴音"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:56.066585688Z",
+  "model": "glm-5.3"
+}

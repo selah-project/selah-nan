@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我欲對⟨את⟩𪜶講我的判決,為著𪜶一切的歹——𪜶放棄我,閣燒香獻互別个以羅欣,閣跪拜𪜶家己的手所做的工。",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "我欲講"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的判決"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "𪜶的歹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為…"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "𪜶放棄我"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "閣燒香"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "獻互以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別个"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "閣跪拜"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "對…所做的工"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:41.247535267Z",
+  "model": "glm-5.3"
+}

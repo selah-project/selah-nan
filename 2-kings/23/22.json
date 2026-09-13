@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "因為對治理⟨את⟩以色列的士師彼日以來，閣佇以色列諸王佮猶大諸王一切的日子，未曾守過親像這個逾越節的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "未曾"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "守過"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "親像逾越節"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "對…的日子以來"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "士師"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "治理"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣一切"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "佮諸王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:44.463507769Z",
+  "model": "glm-5.3"
+}

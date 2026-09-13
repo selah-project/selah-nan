@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "公義、公義,你著追趕,以致你會當活落去,閣會當承受⟨את⟩雅威你的以羅欣所賜你的土地。",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "你著追趕"
+    },
+    {
+      "surface": "למען",
+      "gloss": "以致"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "你會當活落去"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "閣會當承受"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:12:02.060503515Z",
+  "model": "glm-5.3"
+}

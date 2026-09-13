@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佇攏總恁所掌業的土地,恁著給土地贖回的權利。",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "佇攏總"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…土地"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "恁所掌業的"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "贖回的權利"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "恁著給"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "予土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:43.265369581Z",
+  "model": "glm-5.3"
+}

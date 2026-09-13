@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "按呢,用你的旋風趕逐𪜶,閣用你的暴風互𪜶驚惶。",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "趕逐𪜶"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "用你的旋風"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "閣用你的暴風"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "互𪜶驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:18.591460313Z",
+  "model": "glm-5.3"
+}

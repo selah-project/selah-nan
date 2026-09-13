@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "你威儀的榮耀赫赫,閣你奇妙的話,我欲講論。",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "赫赫"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮耀"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "你威儀的"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "閣…的話"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "你奇妙的"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "我欲講論"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:47.993108063Z",
+  "model": "glm-5.3"
+}

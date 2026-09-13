@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "阮的舌願應答祢的話,因為祢一切的誡命攏是公義。",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "願應答"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "阮的舌"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "祢的話"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏是"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "祢一切的誡命"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:01.954325996Z",
+  "model": "glm-5.3"
+}

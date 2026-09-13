@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "阮對伊講:阮是誠實的人,阮毋是探子;",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "阮……講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "誠實的人"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "是"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "探子"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:54.799392130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊對高天差落來,提我,對真濟大水中間拉我出來。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "差落來"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "對高天"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "提我"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "拉我出來"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "對水中間"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:44.277721670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我行佇公義的道路,行佇公平的路徑中央。",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "佇……的道路"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "我行"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇……中央"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "路徑"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:59.582316707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊的軍隊佮𪜶點算的,是五萬七千閣四百。",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "佮伊的軍隊"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "佮𪜶點算的"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "閣五十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "閣四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:01.525253998Z",
+  "model": "glm-5.3"
+}

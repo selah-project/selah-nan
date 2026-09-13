@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "棍仔欲徛佇阿倫的環仔內;𪜶毋通對伊抽離。",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "佇…的環仔內"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "阿倫"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "棍仔"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "抽離"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:31.191651657Z",
+  "model": "glm-5.3"
+}

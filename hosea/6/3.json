@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "咱欲識雅威,用心追到識 ⟨את⟩ 雅威;伊的出現穩當親像早起,伊欲到阮遮親像雨,親像晚雨沃地。",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "咱欲識"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "用心追"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "到識"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "親像早起"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "穩當"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "伊的出現"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "伊欲到"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "親像雨"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮遮"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "親像晚雨"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "沃"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:02.289732267Z",
+  "model": "glm-5.3"
+}

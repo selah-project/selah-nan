@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "撒瑪利亞欲滅無啊,伊的王親像水面頂的泡沬。",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "伊的王"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "親像泡沬"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:11.832872309Z",
+  "model": "glm-5.3"
+}

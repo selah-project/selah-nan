@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "看啊,雅威的手無變短,袂當去拯救;伊的耳仔嘛無變重,袂當去聽。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "變短"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "去拯救"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "亦無"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "變重"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "伊的耳仔"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "去聽"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:40.016417156Z",
+  "model": "glm-5.3"
+}

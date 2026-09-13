@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "彼時希西家割落⟨את⟩雅威殿的門扇,佮⟨את⟩彼門柱,就是希西家猶大王包金的,來交予亞述王。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "佇…時"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "割落"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿的門扇"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "門扇"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼門柱"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "門柱"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "包金"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "來交予𪜶"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "予…王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:28.607814180Z",
+  "model": "glm-5.3"
+}

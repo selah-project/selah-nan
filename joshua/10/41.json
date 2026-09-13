@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "約書亞刣𪜶,對加低斯巴尼亞到亞扎(加薩),閣有⟨את⟩歌珊全地,一直到基遍。",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "刣𪜶"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "對加低斯"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "巴尼亞"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "亞扎(加薩)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "歌珊全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "歌珊"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "基遍"
+    }
+  ],
+  "timestamp": "2026-09-13T04:38:35.019686633Z",
+  "model": "glm-5.3"
+}

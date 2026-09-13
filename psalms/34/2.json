@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "我欲佇逐个時刻讚美雅威,⟨את⟩雅威祂的讚美常常佇我的喙內。",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "我欲…讚美"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐个"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時刻"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "祂的讚美"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "佇我的喙內"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:01.580621616Z",
+  "model": "glm-5.3"
+}

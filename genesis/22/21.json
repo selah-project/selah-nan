@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "⟨את⟩ 烏茲(伊的頭生子)、⟨את⟩ 布斯(伊的兄弟)、閣⟨את⟩ 基母以勒(亞蘭的父)。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏茲"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "烏茲"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "伊的頭生子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "布斯"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "布斯"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "基母以勒"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "基母以勒"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "的父"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:53.547155883Z",
+  "model": "glm-5.3"
+}

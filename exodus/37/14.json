@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "環對向框仔遐,做槓仔的厝,通扛⟨את⟩桌。",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "對向"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "框仔"
+    },
+    {
+      "surface": "היו",
+      "gloss": "做"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "彼个環"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "厝(座位)"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "予槓仔"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "通扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桌"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:05.285527358Z",
+  "model": "glm-5.3"
+}

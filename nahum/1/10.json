@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "因為親像纏做伙的刺叢,嘛親像啉𪜶的酒啉甲醉茫茫,𪜶會予吞食,親像全乾的稿仔。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "刺叢"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "纏做伙"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "佮𪜶的酒"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "啉甲醉茫茫"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "予吞食"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "親像稿仔"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "乾"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "全乾"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:49.545207331Z",
+  "model": "glm-5.3"
+}

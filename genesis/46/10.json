@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "西緬的後生有:耶母利、雅憫、阿轄、雅斤、瑣轄,閣有姦迦南查某人彼個囝掃羅。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "耶母利"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "雅憫"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "阿轄"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "雅斤"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "瑣轄"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "彼個姦迦南查某人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:33.902608666Z",
+  "model": "glm-5.3"
+}

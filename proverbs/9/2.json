@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊刣伊的牲禮,伊攪伊的酒,嘛排設伊的桌。",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "刣"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "伊的牲禮"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "攪"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "伊的酒"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "排設"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "伊的桌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:17.015739767Z",
+  "model": "glm-5.3"
+}

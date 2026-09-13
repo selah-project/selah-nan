@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 14:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "你的威嚴下落到示阿勒,連你的豎琴的聲;你的下底鋪的是蟲,你的被的是蛆。",
+  "tokens": [
+    {
+      "surface": "הורד",
+      "gloss": "下落到"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "你的威嚴"
+    },
+    {
+      "surface": "המית",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "你的豎琴"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "你的下底"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "鋪的是"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "蟲"
+    },
+    {
+      "surface": "ומכסיך",
+      "gloss": "閣你的被的是"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "蛆"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:10.577949463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "閣沿西緬的地界,對東爿的邊界到海爿的邊界,以薩迦一分。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣沿"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "地界"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "對……的邊界"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "東爿"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海爿"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "以薩迦"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一分"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:00.933139197Z",
+  "model": "glm-5.3"
+}

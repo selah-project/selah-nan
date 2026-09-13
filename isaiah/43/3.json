@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "因為我是雅威,你的以羅欣,以色列的聖者,你的拯救者;我有給埃及(米茲拉因)做你的贖金,閣給古實佮示巴替你。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "你的拯救者"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我給"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "你的贖金"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及(米茲拉因)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "閣示巴"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "替你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:33.274430879Z",
+  "model": "glm-5.3"
+}

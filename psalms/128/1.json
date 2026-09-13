@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 128,
+  "translation": "上台階之歌。凡敬畏雅威、行佇伊道路的人——有福氣喔!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上台階的"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣喔"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "佇伊道路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.657720410Z",
+  "model": "glm-5.3"
+}

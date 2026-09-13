@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 22:20",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "上去黎巴嫩啼哭,佇巴珊吼出你的聲,對亞巴琳啼哭,因為你的一切疼你的人攏拍碎矣。",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "上去"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "黎巴嫩"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "佮啼哭"
+    },
+    {
+      "surface": "ובבשן",
+      "gloss": "佮佇巴珊"
+    },
+    {
+      "surface": "תני",
+      "gloss": "吼出"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "你的聲"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "佮啼哭"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "對亞巴琳"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נשברו",
+      "gloss": "攏拍碎"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "疼你的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:46.159646170Z",
+  "model": "glm-5.3"
+}

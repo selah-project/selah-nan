@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "毋過你佮你的奴僕,我知影恁猶未驚雅威以羅欣的面。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋過你"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "佮你的奴僕"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "恁驚"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "的面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:15.269522457Z",
+  "model": "glm-5.3"
+}

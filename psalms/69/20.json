@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "你知我的凌辱、我的見誚，佮我的失體面；我的對敵攏佇你面前。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "我的凌辱"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "佮我的見誚"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "佮我的失體面"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "我的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:56.461190281Z",
+  "model": "glm-5.3"
+}

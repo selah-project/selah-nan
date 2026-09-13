@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣以薩迦的子兒是陀拉、普阿、雅述、佮伸崙,四个。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "閣…的子兒"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "以薩迦"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "陀拉"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "佮普阿"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "雅述"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "佮伸崙"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四个"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:10.965033399Z",
+  "model": "glm-5.3"
+}

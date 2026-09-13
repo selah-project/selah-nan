@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 31:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "伊計劃一塊田,就買落來;對伊的手的果子,栽一個葡萄園。",
+  "tokens": [
+    {
+      "surface": "זממה",
+      "gloss": "伊計劃"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "一塊田"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "就買落來"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "對…的果子"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "栽"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:46.855273675Z",
+  "model": "glm-5.3"
+}

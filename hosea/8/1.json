@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "號角貼佇你的喙,親像鷹鴞對雅威的家衝落來;因為𪜶越過我的約,閣對我的律法悖逆。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "你的喙"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "號角"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "親像鷹鴞"
+    },
+    {
+      "surface": "על",
+      "gloss": "對……衝落來"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "𪜶越過"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我的律法"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "𪜶悖逆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:38.707765443Z",
+  "model": "glm-5.3"
+}

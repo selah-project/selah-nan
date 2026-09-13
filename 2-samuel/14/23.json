@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "約押起來,去基述,帶⟨את⟩押沙龍入來耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "基述"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "帶……入來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "押沙龍"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:27.436234523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣𪜶欲佇這个暗暝食⟨את⟩彼的肉,火烤--的,配無酵餅;配苦菜𪜶食伊。",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "閣𪜶食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼的肉"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "彼的肉"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "佇暗暝"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "烤--的"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "佮無酵餅"
+    },
+    {
+      "surface": "על",
+      "gloss": "配"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "苦菜"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "𪜶食伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:16.208920417Z",
+  "model": "glm-5.3"
+}

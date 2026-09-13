@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "較好是你毋許願,贏過許願了佮毋還。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是…个代誌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "許願"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "贏過許願了"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "還"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:52.037119788Z",
+  "model": "glm-5.3"
+}

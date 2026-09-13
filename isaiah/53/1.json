@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "啥人相信咱所聽見的?雅威的手臂向啥人顯明出來?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "相信"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "咱所聽見的"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "佮手臂"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "顯明出來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:51.476360848Z",
+  "model": "glm-5.3"
+}

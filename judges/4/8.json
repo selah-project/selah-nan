@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "巴拉克對伊講:「你若佮我去,我就去;你若毋佮我去,我就毋去。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "巴拉克"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "你去"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "我就去"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "你去"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我去"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:35.613929010Z",
+  "model": "glm-5.3"
+}

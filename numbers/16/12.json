@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 16:12",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "摩西就差人去叫大坍佮亞比蘭,以利押的仔;𪜶講:「阮毋上去。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "就差人去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "לדתן",
+      "gloss": "大坍"
+    },
+    {
+      "surface": "ולאבירם",
+      "gloss": "佮亞比蘭"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "以利押"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "上去"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:56.240916125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "義人恨假話,惡人臭氣佮見笑。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "假"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "恨"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "佮惡人"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "臭氣"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "佮見笑"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:36.211273971Z",
+  "model": "glm-5.3"
+}

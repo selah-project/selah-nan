@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 28:42",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣你欲為𪜶做麻布的褲仔,通掩蓋赤身的肉;對腰到大腿,彼褲仔著照遮。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "閣你欲做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為𪜶"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "褲仔"
+    },
+    {
+      "surface": "בד",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "通掩蓋"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "赤身"
+    },
+    {
+      "surface": "ממתנים",
+      "gloss": "對腰"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירכים",
+      "gloss": "大腿"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "彼褲仔著照遮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:03.733742098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊起來,入去,向撒馬利亞行;伊佇路中,到牧羊人的剪羊毛厝——伯伊克。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝…伯"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "伊克"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧羊人的"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路中"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:24.107340449Z",
+  "model": "glm-5.3"
+}

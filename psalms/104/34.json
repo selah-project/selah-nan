@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "願我的默想佇伊面前甜蜜;我——我欲佇雅威歡喜。",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "願……甜蜜"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "我的默想"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "我欲歡喜"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:43.871623608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "恁傾聽,來聽我的聲;恁注意,來聽我的話。",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "恁傾聽"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "來聽"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "恁注意"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "來聽"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我的話"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:53.973641621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "的確,以羅欣欲捶碎伊仇敵的頭殼,捶碎彼个長頭毛頂、行佇伊罪惡中的人的頭殼頂。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "欲捶碎"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭殼"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "伊的仇敵"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "頭殼頂"
+    },
+    {
+      "surface": "שער",
+      "gloss": "長頭毛"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "行佇…中"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "伊的罪惡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:05.691252176Z",
+  "model": "glm-5.3"
+}

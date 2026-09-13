@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "求你救我脫離我兄弟的手,脫離以掃的手,因為我驚 ⟨את⟩ 伊,驚得伊來共我拍擊,母親及囝仔做伙受難。」",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我的兄弟"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "פן",
+      "gloss": "驚得"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "伊來"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "閣共我拍擊"
+    },
+    {
+      "surface": "אם",
+      "gloss": "母親"
+    },
+    {
+      "surface": "על",
+      "gloss": "及"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:57.312692719Z",
+  "model": "glm-5.3"
+}

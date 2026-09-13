@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "水對地面倒轉去,去閣來、來閣去,到一百五十日了後,水就少去矣。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "閣來"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "就少去"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "到…了後"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "佮一百"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:28.591656880Z",
+  "model": "glm-5.3"
+}

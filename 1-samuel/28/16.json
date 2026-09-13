@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "撒母耳講:「你閣為啥物問我?雅威已經對你離開,閣做你的對敵。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "閣為啥物"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "你問我"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "閣雅威"
+    },
+    {
+      "surface": "סר",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "你的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:36.476388571Z",
+  "model": "glm-5.3"
+}

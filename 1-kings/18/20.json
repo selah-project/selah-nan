@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "亞哈就差人去以色列眾子中間,閣召集⟨את⟩諸個先知到迦密山。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "就差人"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "…中間的眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "閣召集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個先知"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "諸個先知"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "迦密"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:48.512697205Z",
+  "model": "glm-5.3"
+}

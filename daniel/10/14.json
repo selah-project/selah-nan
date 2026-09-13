@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我來欲乎你明白⟨את⟩佇諸日的尾日會遇著你的百姓的彼個代誌,因為彼個異象猶原是為著諸日。」",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "我來"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "欲乎你明白"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個代誌(會遇著你的百姓的)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "會遇著"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "佇…的尾日"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "諸日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶原"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "是為著諸日"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:33.430826853Z",
+  "model": "glm-5.3"
+}

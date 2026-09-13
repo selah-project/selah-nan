@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "亞倫娶⟨את⟩以利沙伯,伊是亞米拿達的查某囝、拿順的阿姊,做伊的某;伊給伊生⟨את⟩拿答、⟨את⟩亞比戶、⟨את⟩以利亞撒、⟨את⟩以他瑪。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利沙伯"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "以利沙伯"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "亞米拿達"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "阿姊"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "拿順"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "做某"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿答"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "拿答"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞比戶"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "亞比戶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞撒"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以他瑪"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "以他瑪"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:17.816206755Z",
+  "model": "glm-5.3"
+}

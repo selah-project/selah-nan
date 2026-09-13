@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "敢毋是規个地攏佇你面前嗎?請你佮我分開;你若向倒手,我就去正手;你若去正手,我就去倒手。」",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "敢毋是"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規个"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "分開"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "向倒手"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "我就去正手"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "去正手"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "我就去倒手"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:37.420224602Z",
+  "model": "glm-5.3"
+}

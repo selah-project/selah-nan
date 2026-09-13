@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "欺騙的秤是雅威所厭惡的,佮完全的法碼是伊所喜愛的。",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "秤"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺騙"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "佮石"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "完全"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "伊的喜愛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:38.064449478Z",
+  "model": "glm-5.3"
+}

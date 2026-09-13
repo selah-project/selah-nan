@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "含的子兒是古實、米茲拉因(埃及)、弗佮迦南。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "佮……的子兒"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "佮弗"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:31.151716936Z",
+  "model": "glm-5.3"
+}

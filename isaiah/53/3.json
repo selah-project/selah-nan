@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "伊受看輕,閣予人放棄,是個苦痛的人,閣熟悉病痛;親像人掩面毋看伊的按呢,伊受看輕,咱嘛無看重伊。",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "受看輕"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "閣予人放棄"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "對人們"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "苦痛"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "閣熟悉"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "病痛"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "親像掩面"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "受看輕"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "看重伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:51.476897528Z",
+  "model": "glm-5.3"
+}

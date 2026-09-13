@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "有一項惡我佇日頭下面看過,親像一項差錯,對彼個掌權者面前出來。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "一項惡"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看過"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下面"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "親像一項差錯"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "彼個掌權者"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:01.618017319Z",
+  "model": "glm-5.3"
+}

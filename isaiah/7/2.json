@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "有人通報大衛的家,講:「亞蘭倚佇以法蓮矣。」伊的心佮伊百姓的心就搖動,親像樹林的樹仔佇風面前搖按呢。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人通報"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "倚佇"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "就搖動"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "佮…的心"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "親像搖動"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "樹仔"
+    },
+    {
+      "surface": "יער",
+      "gloss": "樹林"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:45.473291600Z",
+  "model": "glm-5.3"
+}

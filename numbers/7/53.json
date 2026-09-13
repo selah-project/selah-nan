@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 7:53",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣對平安祭的牲禮:牛兩隻、公羊五隻、公山羊五隻、一歲的羊羔五隻:這是以利沙瑪 —— 亞米忽的囝 —— 的供物。",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "閣對……祭"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩隻"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五隻"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "公山羊"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五隻"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……歲的"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一歲"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五隻"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "供物"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "以利沙瑪"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "亞米忽"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:43.589407625Z",
+  "model": "glm-5.3"
+}

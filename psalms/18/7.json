@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "佇我的患難我哀求雅威,閣向我的以羅欣呼叫。伊對伊的殿聽我的聲,我的哀求到伊面前,入佇伊的耳。",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "佇患難"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我哀求"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣向"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "呼叫"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "伊聽"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "對伊的殿"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "我的哀求"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "到伊面前"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "入"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "佇伊的耳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:55.958515526Z",
+  "model": "glm-5.3"
+}

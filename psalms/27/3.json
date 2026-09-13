@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若有軍隊紮營對敵我,阮的心毋驚;若有戰爭起來對敵我,佇這个我猶會靠𤆬。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若有"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "紮營"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對敵我"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "阮的心"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若有"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對敵我"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "佇這个"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "靠𤆬"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:16.852988014Z",
+  "model": "glm-5.3"
+}

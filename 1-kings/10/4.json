@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "示巴的王后看著 ⟨את⟩ 所羅門一切的智慧,閣有伊所起的宮殿。",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "看著"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "王后"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的智慧"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "的智慧"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "閣有的宮殿"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊所…的"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:45.319286098Z",
+  "model": "glm-5.3"
+}

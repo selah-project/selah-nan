@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 39:22",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "伊嘲笑驚惶,毋會餒怯,嘛毋會對刀劍的面倒轉去。",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "嘲笑"
+    },
+    {
+      "surface": "לפחד",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋會"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "餒怯"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋會"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對……的面"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:52.587184685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "彼個非利士人倚來,早起時佮暗時,徛佇遐,四十日。",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "倚來"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "彼個非利士人"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "早起時"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "佮暗時"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "徛佇遐"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:49.524094842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "因為逐一个身上有缺陷的人,攏毋通近前:青盲的、抑是跛跤的、抑是鼻仔損傷的、抑是肢体變形過頭的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐一个"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佗一个"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "מום",
+      "gloss": "缺陷"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "近前"
+    },
+    {
+      "surface": "איש",
+      "gloss": "見若"
+    },
+    {
+      "surface": "עור",
+      "gloss": "青盲的"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "跛跤的"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "鼻仔損傷的"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "肢体變形過頭的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:27.752134501Z",
+  "model": "glm-5.3"
+}

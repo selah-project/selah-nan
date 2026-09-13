@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊就對王講:「我佇我的鄉土所聽的彼句話是真實的,論到你的話佮你的智慧。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "היה",
+      "gloss": "…是"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼句話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我所聽"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "佇我的鄉土"
+    },
+    {
+      "surface": "על",
+      "gloss": "論到"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮論到"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:22.974022033Z",
+  "model": "glm-5.3"
+}

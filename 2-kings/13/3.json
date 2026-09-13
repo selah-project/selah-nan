@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "雅威的受氣對以色列燒起來,𪜶就歸個日子攏落佇亞蘭王哈薛的手裡,佮哈薛的後生便哈達的手裡。",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "אף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "𪜶就…落"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手裡"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "嘛佇…的手裡"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "便哈達"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸個"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:32.431487058Z",
+  "model": "glm-5.3"
+}

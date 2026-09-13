@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣有窗三排,窗對窗相對,三擺。",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "窗"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "排"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "窗"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "窗"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:53.275773270Z",
+  "model": "glm-5.3"
+}

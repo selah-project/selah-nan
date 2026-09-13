@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "耶和蘭徛起來佇伊爸的國,家己強固起來,用刀刣死⟨את⟩伊所有的兄弟,嘛刣以色列的首領中間一寡。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "徛起來"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "耶和蘭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "…的國"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊爸"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "家己強固起來"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所有的兄弟"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "…的首領中間一寡"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:13.445486552Z",
+  "model": "glm-5.3"
+}

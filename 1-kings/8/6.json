@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "祭司就扛⟨את⟩雅威約的櫃入去伊的位,入去厝的內殿,入去聖中之聖,入去基路伯翅仔的下底。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "就…入去"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威約的櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "伊的位"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "內殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "諸聖的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翅仔"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "基路伯"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:06.114380732Z",
+  "model": "glm-5.3"
+}

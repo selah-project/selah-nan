@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "你到遐,看佇遐有耶戶,約沙法的仔,寧示的孫;你入去,招伊起來對伊兄弟的中間,紮⟨את⟩伊入去房間內底的房間。",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "你到"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "寧示"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "你入去"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "招伊起來"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "你紮…入去"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "房間"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "佇房間內底"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:14.395315948Z",
+  "model": "glm-5.3"
+}

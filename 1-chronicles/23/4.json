@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "對這其中,監督雅威殿裡工課的,有二十佮四千;做官吏佮審判官的,有六千。",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "對這其中"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "監督"
+    },
+    {
+      "surface": "על",
+      "gloss": "……的"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "工課"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "做官吏"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "佮審判官"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:17.782781623Z",
+  "model": "glm-5.3"
+}

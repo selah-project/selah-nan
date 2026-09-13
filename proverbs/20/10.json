@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "石頭佮石頭,伊法佮伊法,連兩个攏是雅威所厭惡的。",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "佮石頭"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "伊法"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "佮伊法"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "兩个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:23.575661830Z",
+  "model": "glm-5.3"
+}

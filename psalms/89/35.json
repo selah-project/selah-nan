@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我袂瀆我的約,對我喙唇出去的話,我袂改變。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "瀆"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "佮……出去的"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的喙唇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "改變"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:34.940315439Z",
+  "model": "glm-5.3"
+}

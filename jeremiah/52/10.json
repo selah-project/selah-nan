@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "巴比倫王刣⟨את⟩西底家的眾子,佇伊的目睭前;嘛刣⟨את⟩猶大眾首領攏佇利比拉。",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "刣"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西底家的眾子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "佇伊的目睭前"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大眾首領"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "眾首領"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "刣"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "佇利比拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:07:31.264082712Z",
+  "model": "glm-5.3"
+}

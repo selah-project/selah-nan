@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 126,
+  "translation": "彼時阮的嘴充滿笑,阮的舌充滿歡呼。彼時列國的人講:雅威為遮個做了大事。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "笑"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "阮的嘴"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "阮的舌"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "做大"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去做"
+    },
+    {
+      "surface": "עם",
+      "gloss": "對"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮個"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:43.366470120Z",
+  "model": "glm-5.3"
+}

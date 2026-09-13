@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "著將權能歸予以羅欣;伊的威嚴佇以色列頂面,伊的權能佇雲霄中。",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "著將…歸予"
+    },
+    {
+      "surface": "עז",
+      "gloss": "權能"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "予以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "伊的威嚴"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "伊的權能"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "佇雲霄中"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:21.632307777Z",
+  "model": "glm-5.3"
+}

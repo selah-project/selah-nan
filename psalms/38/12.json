@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我的疼人佮我的朋友對我的病災企佇較遠的所在,我的親人對遠遠企起。",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "我的疼人"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "佮我的朋友"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "對…較遠的所在"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "我的病災"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "企佇"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "閣我的親人"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "企起"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:35.144021256Z",
+  "model": "glm-5.3"
+}

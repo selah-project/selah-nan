@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊廢掉⟨את⟩外邦的祭壇佮邱壇,拍破⟨את⟩柱像,剁斷⟨את⟩亞舍拉。",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外邦的祭壇"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "外邦"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "佮邱壇"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "拍破"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柱像"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "剁斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞舍拉"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "亞舍拉"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:15.081238948Z",
+  "model": "glm-5.3"
+}

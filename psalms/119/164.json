@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "一日七擺我讚美你,因為你公義的判斷。",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "七擺"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "我讚美你"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "判斷"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "你公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:40.532291033Z",
+  "model": "glm-5.3"
+}

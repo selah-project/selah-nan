@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "我豈毋是為著日子艱難的人啼哭?我的性命豈毋是為著散赤人憂悶?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "豈"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "我啼哭"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "艱難的"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "憂悶"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "為著散赤人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:28:41.034928778Z",
+  "model": "glm-5.3"
+}

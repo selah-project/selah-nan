@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "看啊,我佇罪孽中出世,佇罪內底老母懷我。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "佇罪孽中"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "我出世"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "佇罪內底"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "老母懷我"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "老母"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:47.992658229Z",
+  "model": "glm-5.3"
+}

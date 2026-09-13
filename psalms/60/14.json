@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "對以羅欣阮欲行英勇的事,伊欲踐踏阮的對敵。",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "對以羅欣"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "阮欲行"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "英勇的事"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "欲踐踏"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "阮的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:50.320261615Z",
+  "model": "glm-5.3"
+}

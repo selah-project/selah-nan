@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 43:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "田野的野獸欲尊敬我,豺狼佮鴟鴞也欲尊敬我,因為我佇曠野有供水,佇孤荒地有河流,欲予我家己揀選的百姓飲。",
+  "tokens": [
+    {
+      "surface": "תכבדני",
+      "gloss": "欲尊敬我"
+    },
+    {
+      "surface": "חית",
+      "gloss": "野獸"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野的"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "豺狼"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "佮…的"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "鴟鴞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "有供"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "河流"
+    },
+    {
+      "surface": "בישימן",
+      "gloss": "佇孤荒地"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "欲予…飲"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "家己揀選的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:52.092135035Z",
+  "model": "glm-5.3"
+}

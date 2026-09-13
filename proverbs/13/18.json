@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 13:18",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "拒絕管教的人,伊會散凶兼見笑;遵守勸戒的人,伊會得著榮光。",
+  "tokens": [
+    {
+      "surface": "ריש",
+      "gloss": "散凶"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "兼見笑"
+    },
+    {
+      "surface": "פורע",
+      "gloss": "拒絕…的人"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "ושומר",
+      "gloss": "遵守…的人"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "勸戒"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "會得著榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:18.481260929Z",
+  "model": "glm-5.3"
+}

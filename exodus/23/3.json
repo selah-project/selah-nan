@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "嘛毋通偏袒散赤人佇伊的爭訟內底。",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "嘛…散赤人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "偏袒"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "佇伊的爭訟內底"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:25.889930834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 47:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "這陣妳著聽這個,嬌養的人,安安坐的人,心內講:「我,另外閣有啥物;我袂坐做寡婦,嘛袂知失子的疼痛。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "妳著聽"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "עדינה",
+      "gloss": "嬌養的人"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "安安坐的人"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安安"
+    },
+    {
+      "surface": "האמרה",
+      "gloss": "講"
+    },
+    {
+      "surface": "בלבבה",
+      "gloss": "心內"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "另外閣有啥物"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "坐做寡婦"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "失子的疼痛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:56.608515667Z",
+  "model": "glm-5.3"
+}

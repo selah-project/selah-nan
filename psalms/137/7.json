@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 137,
+  "translation": "雅威啊,求你記得提防以東的子孫,佇耶路撒冷的日子⟨את⟩——𪜶講:「拆毀!拆毀!到地基!」",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你記得"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "對…的子孫"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的日子"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "講…的"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "地基"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:11.801323632Z",
+  "model": "glm-5.3"
+}

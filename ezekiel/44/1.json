@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "伊帶我倒轉,行過 ⟨את⟩ 東爿聖所外面彼個門的路,彼個門面向東邊,伊是關閉的。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "帶我倒轉"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "路"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "外面的"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "面向"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東邊"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "關閉的"
+    }
+  ],
+  "timestamp": "2026-09-13T06:32:34.549517474Z",
+  "model": "glm-5.3"
+}

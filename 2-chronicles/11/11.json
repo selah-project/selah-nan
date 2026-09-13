@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊加強⟨את⟩遮个堡壘,佇內底設首領,閣貯糧食、油佮酒的倉庫。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "伊加強"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮个堡壘"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "遮个堡壘"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "設"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇內底"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "閣……倉庫"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "糧食"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "佮油"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "酒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:00.998347580Z",
+  "model": "glm-5.3"
+}

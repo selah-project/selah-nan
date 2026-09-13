@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "閣你寫字佇頂面的彼寡柴,欲佇你的手裡,佇𪜶的目睭前。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "閣…欲佇"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "彼寡柴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "你寫…的"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "你寫"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手裡"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "佇𪜶的目睭前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:10.804625477Z",
+  "model": "glm-5.3"
+}

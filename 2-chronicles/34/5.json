@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "閣祭司的骨骸,伊撒落去佇𪜶的祭壇頂燒,閣伊潔淨猶大⟨את⟩佮耶路撒冷⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "閣…的骨骸"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "燒"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "𪜶的祭壇"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "閣伊潔淨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:07.773859158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅弗的後生:歌篾、瑪各、瑪代、雅完、土巴、米設、佮提拉。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "雅弗"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "歌篾"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "瑪各"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "瑪代"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "雅完"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "土巴"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "米設"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "提拉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:41.394743743Z",
+  "model": "glm-5.3"
+}

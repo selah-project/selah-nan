@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威對綿羊羊群的後面提我來;雅威對我講:「你去,對我的百姓以色列講預言。」",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "提我來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "對……的後面"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "綿羊羊群"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "講預言"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:43.857128738Z",
+  "model": "glm-5.3"
+}

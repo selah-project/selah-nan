@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "雅威露出⟨את⟩伊的聖臂,佇列國眾人的目睭前;地上極遠的所在攏欲看見⟨את⟩阮的以羅欣的救恩。",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "露出"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的聖臂"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "臂"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "佇……的目睭前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "閣看見"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "極遠的尾端"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的以羅欣的救恩"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "救恩"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:17.968145650Z",
+  "model": "glm-5.3"
+}

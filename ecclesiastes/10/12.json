@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "智慧人嘴內的話有恩惠;愚戇人的嘴唇吞滅伊。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "פי",
+      "gloss": "嘴內"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "חן",
+      "gloss": "有恩惠"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "吞滅伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:56.095309593Z",
+  "model": "glm-5.3"
+}

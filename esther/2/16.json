@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "以斯帖予人帶去到王亞哈隨羅遐,入去伊个王宮,佇十月——就是提別月——佇伊做王第七年。",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "予人帶去"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨羅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "伊个王宮"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "第十"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "提別"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "第七"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "伊做王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:17.811826458Z",
+  "model": "glm-5.3"
+}

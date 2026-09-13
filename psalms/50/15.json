@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "佮患難的日你著呼叫我,我欲救你,你就會使榮光我。",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "佮…呼叫我"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "患難"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "我欲救你"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "你就會使榮光我"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:11.826473637Z",
+  "model": "glm-5.3"
+}

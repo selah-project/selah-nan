@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "汝愛攏總吞食人的話,詭騙的舌。",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "汝愛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭騙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:21.391236092Z",
+  "model": "glm-5.3"
+}

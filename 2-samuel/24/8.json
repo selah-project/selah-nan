@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "𪜶走遍全地,九個月閣二十日的了後,就來到耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "𪜶走遍"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "就來到"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "到…的尾"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "九個"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "月"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "閣二十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:01.497743528Z",
+  "model": "glm-5.3"
+}

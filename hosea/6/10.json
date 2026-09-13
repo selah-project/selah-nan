@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "佇以色列的家,我有看見一件恐怖的代誌;佇遐有以法蓮的淫亂,以色列已經染垃墋矣。",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "佇……的家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我有看見"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "一件恐怖的代誌"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "淫亂"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "以法蓮的"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "已經染垃墋"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:18.000636408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威閣對我講,講:我已經看著 ⟨את⟩ 這个百姓,看啊,這是一個頷頸硬⟨會曉反骨⟩的百姓。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我已經看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這个百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עם",
+      "gloss": "一個百姓"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "硬"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "頷頸"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:47.318568083Z",
+  "model": "glm-5.3"
+}

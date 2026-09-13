@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "抑是牛觸著一個查甫囝,抑是觸著一個查某囝,就照這個例款待伊。",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "בן",
+      "gloss": "查甫囝"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "觸著"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "觸著"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "照……的例"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "款待"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:46.636641930Z",
+  "model": "glm-5.3"
+}

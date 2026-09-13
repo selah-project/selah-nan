@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "坑的主人愛賠,銀子伊愛還予物件的主人;彼隻死的著歸伊。",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "主人"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "彼个坑"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "愛賠"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "伊愛還"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "予物件的主人"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "彼隻死的"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "著歸"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:12.384752149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "彼啲坐船落海的,佇大水內底做工課的,",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "落…的"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "坐船"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "做…的"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇…水內底"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:06.627259898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "是因為雅威疼恁⟨את⟩,佮因為伊守伊對恁的祖先所起的誓⟨את⟩,雅威才用強的手帶恁⟨את⟩出去,佮對奴僕的家救贖恁,對埃及王法老的手。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "是因為"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "出於疼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "佮守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誓"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "誓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "所起的"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "對恁的祖先"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "帶出去"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強的"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "佮救贖恁"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:14.951183601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊受困迫的時,向雅威伊的以羅欣的面懇求⟨את⟩,佇伊的祖先的以羅欣面前大大家己謙卑。",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "受困迫的時"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "懇求(軟化)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "家己謙卑"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "對…的面前"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的祖先"
+    }
+  ],
+  "timestamp": "2026-09-12T06:18:11.290395171Z",
+  "model": "glm-5.3"
+}

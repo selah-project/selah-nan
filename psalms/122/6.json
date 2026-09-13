@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 122,
+  "translation": "恁著求耶路撒冷的平安;疼你的人攏會亨通。",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "恁著求"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "攏會亨通"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "疼你的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:20.031572839Z",
+  "model": "glm-5.3"
+}

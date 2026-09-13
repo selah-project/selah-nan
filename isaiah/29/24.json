@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "心神迷惘的人欲得著明白,怨嘆的人欲學著教示。",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "欲得著明白"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "迷惘的人"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "心神"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "明白"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "怨嘆的人"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "欲學著"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "教示"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:24.291969423Z",
+  "model": "glm-5.3"
+}

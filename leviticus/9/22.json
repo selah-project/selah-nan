@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "亞倫向百姓舉起⟨את⟩伊的手,賜福𪜶,就對獻贖罪祭、燔祭佮平安祭的工課落來。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "賜福𪜶"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "落來"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "對…的工課"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "平安祭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:33.478171419Z",
+  "model": "glm-5.3"
+}

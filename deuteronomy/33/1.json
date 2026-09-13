@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "而這个⟨是⟩彼个祝福，就是以羅欣的人摩西佇伊死進前，祝福⟨את⟩以色列囝兒的。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "而這个"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "祝福的"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列囝兒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "進前"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "伊的死"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:55.517433245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "歹人的性命渴望歹代;伊的朋友佇伊目睭內得袂著恩惠。",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "渴望"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "得著恩惠"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊目睭內"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的朋友"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:45.980493314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "恁的長老佮恁的審判官就愛出去,量對彼个死亡者四圍的諸個城。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "就愛出去"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "恁的長老"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "佮恁的審判官"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "量"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "諸個城"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "死亡者"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:27.981764170Z",
+  "model": "glm-5.3"
+}

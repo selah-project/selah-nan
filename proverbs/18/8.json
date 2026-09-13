@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "讒誣人的話親像好食物,落去入腹肚內底的房間。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "讒誣人"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "親像好食物"
+    },
+    {
+      "surface": "והם",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "落去入"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "…的房間"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "腹肚內底"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:35.762147510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "佮⟨את⟩耶布斯人佮⟨את⟩亞摩利人佮⟨את⟩基迦西人。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "耶布斯人"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "亞摩利人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "基迦西人"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "基迦西人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:11.791020651Z",
+  "model": "glm-5.3"
+}

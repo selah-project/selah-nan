@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "對恁,諸個人,我咧呼喚;我的聲音是向人的子。",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "諸個人"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我咧呼喚"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "我的聲音"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人(亞當)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:58.215536770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 23:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "總是雅威 —— 你的以羅欣 —— 無愛聽巴蘭;雅威 —— 你的以羅欣 —— 為著你將⟨את⟩彼个詛咒翻做祝福,因為雅威 —— 你的以羅欣 —— 疼你。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "總是……毋"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "無愛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "翻做"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个詛咒"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "彼个詛咒"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "做祝福"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "疼你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:10.453028189Z",
+  "model": "glm-5.3"
+}

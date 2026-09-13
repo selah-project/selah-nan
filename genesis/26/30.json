@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "伊就為𪜶辦桌,𪜶就食,就啉。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊就辦"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為𪜶"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "辦桌(宴席)"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "𪜶就食"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "就啉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:22.183594182Z",
+  "model": "glm-5.3"
+}

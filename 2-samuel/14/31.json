@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 14:31",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "約押起來,入去押沙龍的厝裡,對伊講:『你的奴僕為啥物用火燒⟨את⟩我所有的彼塊田?』",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "的厝裡"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "對伊講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "הציתו",
+      "gloss": "燒"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼塊田"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "彼塊田"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼塊"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我所有"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:58.056365945Z",
+  "model": "glm-5.3"
+}

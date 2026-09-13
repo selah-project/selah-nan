@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊徛佇懸高的所在頭前,對著路,佇逐條路徑會合的所在。",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "佇…頭前"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "懸高的所在"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對著"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "בית",
+      "gloss": "所在"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "路徑"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "伊徛在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:58.215224158Z",
+  "model": "glm-5.3"
+}

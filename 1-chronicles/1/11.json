@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "米茲拉因生⟨את⟩路迪姆、⟨את⟩亞拿米姆、⟨את⟩勒哈比姆,閣⟨את⟩拿弗土希姆。",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "路迪姆"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "路迪姆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞拿米姆"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "亞拿米姆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "勒哈比姆"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "勒哈比姆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "拿弗土希姆"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "拿弗土希姆"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:50.175122412Z",
+  "model": "glm-5.3"
+}

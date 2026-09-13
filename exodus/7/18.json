@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "佇河裡的魚會死,彼條河會發臭,米茲拉因人(埃及人)會厭,無愛啉對彼條河來的水。",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "彼啲魚"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "河裡"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "會死"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "會發臭"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "彼條河"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "會厭"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "啉"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "彼條河"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:44.533101036Z",
+  "model": "glm-5.3"
+}

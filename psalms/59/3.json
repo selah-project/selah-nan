@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "救我脫離行孽的人,對流人血的人救我。",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "對…者脫離"
+    },
+    {
+      "surface": "און",
+      "gloss": "孽"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "佮…的人"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:00.057269282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你救我脫離百姓的爭鬥;你設我做列國的頭;我毋捌識的百姓欲服事我。",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "你救我脫離"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "…的爭鬥"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "你設我"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "做…的頭"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我捌識"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "欲服事我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:36.934176094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊越頭看佇伊後面,看見我,就叫 我;我講:「我佇遮。」",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "越頭"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "伊後面"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "看見我"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我佇遮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:12.821386939Z",
+  "model": "glm-5.3"
+}

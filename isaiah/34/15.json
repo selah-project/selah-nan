@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "遐箭蛇做巢、落卵、破殼,佇伊的影下蔭卵;獨獨遐,鳶鳥攏聚集,一隻佮伊的伴。",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "做巢"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "箭蛇"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "落卵"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "破殼"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "蔭卵"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "佇伊的影下"
+    },
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "攏聚集"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "鳶鳥"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "伊的伴"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:11.528693344Z",
+  "model": "glm-5.3"
+}

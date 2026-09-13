@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為伊的利潤比銀仔的生意較好,伊的出產比金較贏。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "伊的利潤"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "的生意"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "抑比金"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "伊的出產"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:38.034488971Z",
+  "model": "glm-5.3"
+}

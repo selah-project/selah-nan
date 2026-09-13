@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "互指揮者,大衛的。佇雅威我投靠;按呢恁哪會使共我的心肝講:飛走去山頂,親像鳥仔?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我投靠"
+    },
+    {
+      "surface": "איך",
+      "gloss": "哪會使"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "恁講"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "共我的心肝"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "飛走"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "山頂"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "鳥仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:00.729781676Z",
+  "model": "glm-5.3"
+}

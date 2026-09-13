@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "閣嘛羅得——彼个佮⟨את⟩亞伯蘭做伙行的——有羊群、牛，佮帳棚。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣嘛"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "行的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯蘭"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "佮牛"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "佮帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:15.139451597Z",
+  "model": "glm-5.3"
+}

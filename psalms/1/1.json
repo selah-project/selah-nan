@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "有福氣啊,彼個毋行佇歹人的計謀、毋徛佇罪人的路、毋坐佇譏誚的人的座位的人。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "佇…的計謀"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "嘛佇…的路"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "嘛佇…的座位"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "譏誚的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:38.563117163Z",
+  "model": "glm-5.3"
+}

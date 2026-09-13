@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 28:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣一切伊神魂內底所有的圖樣 —— 雅威殿的庭、四圍一切的廂房、以羅欣殿的庫房,閣聖物的庫房 ——",
+  "tokens": [
+    {
+      "surface": "ותבנית",
+      "gloss": "閣…圖樣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "神魂內底"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "…的庭"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "閣一切"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "廂房"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "לאצרות",
+      "gloss": "…的庫房"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "閣…的庫房"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖物的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:31.383395232Z",
+  "model": "glm-5.3"
+}

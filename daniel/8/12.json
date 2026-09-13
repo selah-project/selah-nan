@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 8:12",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "軍隊佮日常的祭,佇背逆中被交出去;伊將真理摔落塗跤,伊行事,嘛得順利。",
+  "tokens": [
+    {
+      "surface": "וצבא",
+      "gloss": "佮軍隊"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "被交出去"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "日常的祭"
+    },
+    {
+      "surface": "בפשע",
+      "gloss": "佇背逆中"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "摔落"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真理"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "塗跤"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "行事"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "得順利"
+    }
+  ],
+  "timestamp": "2026-09-12T05:45:52.892435688Z",
+  "model": "glm-5.3"
+}

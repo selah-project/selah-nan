@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以色列的人對米斯巴出去,追趕⟨את⟩非利士人,刣𪜶到伯卡(伯・卡)的下跤。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "米斯巴"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "刣𪜶"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下跤"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "כר",
+      "gloss": "卡"
+    }
+  ],
+  "timestamp": "2026-09-12T06:27:25.801323596Z",
+  "model": "glm-5.3"
+}

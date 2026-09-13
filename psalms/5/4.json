@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威啊,早起你欲聽我个聲;早起我欲為你排列〈祈禱〉,閣守望。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早起"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "你欲聽"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我个聲"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早起"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "我欲排列"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "閣守望"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:53.369248521Z",
+  "model": "glm-5.3"
+}

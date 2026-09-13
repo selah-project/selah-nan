@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶的對敵壓迫𪜶,𪜶就屈服佇𪜶的手下。",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "壓迫𪜶"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "𪜶的對敵"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "屈服"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…之下"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "𪜶的手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:01.316637864Z",
+  "model": "glm-5.3"
+}

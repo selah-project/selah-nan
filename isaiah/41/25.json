@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "我對北部振起一个,伊就來;對日頭出來的所在,伊叫我的名;伊欲臨到官長,親像臨到灰泥,閣親像窯匠踏土。",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "我振起"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "對北部"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "伊就來"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "對…出來的所在"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "伊叫"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "伊欲臨到"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "官長"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "灰泥"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "閣親像"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "窯匠"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "踏"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "土"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:22.654991250Z",
+  "model": "glm-5.3"
+}

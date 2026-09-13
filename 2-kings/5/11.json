@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 5:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "拿阿曼受氣,就行去,講:「看哪,我有講,伊一定會出來對我遮,徛咧,奉伊的以羅欣雅威的名呼召,閣向彼个所在搖伊的手,閣收回彼个癩疕。」",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "拿阿曼"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就行去"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我有講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "伊會出來"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "出來(確定)"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "閣徛"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "呼召"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "奉…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "閣搖"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "閣收回"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "彼个癩疕"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:15.457891032Z",
+  "model": "glm-5.3"
+}

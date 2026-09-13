@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我的人民,𪜶的壓迫者是幼囝,查某人統治𪜶。我的人民,稱呼你「有福氣」的迷惑你;𪜶吞滅你路途的路徑。",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "𪜶的壓迫者"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "幼囝"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "佮查某人"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "統治"
+    },
+    {
+      "surface": "בו",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "稱呼你「有福氣」的"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "迷惑"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "佮路"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "你路途的路徑"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "吞滅"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:30.430143789Z",
+  "model": "glm-5.3"
+}

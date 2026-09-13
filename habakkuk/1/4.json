@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 1:4",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所以律法會冷去,審判永遠袂出去,因為歹人圍 ⟨את⟩公義的人;所以審判出來攏彎曲。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "會冷去"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מכתיר",
+      "gloss": "圍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "公義的人"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "因"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "מעקל",
+      "gloss": "攏彎曲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:44.473158613Z",
+  "model": "glm-5.3"
+}

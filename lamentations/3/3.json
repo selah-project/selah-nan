@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "實在,獨獨對我,伊倒轉來,伊一日到暗攏翻轉伊的手。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "實在"
+    },
+    {
+      "surface": "בי",
+      "gloss": "獨獨對我"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "伊倒轉來"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "攏翻轉"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "היום",
+      "gloss": "一日到暗"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:09.236909134Z",
+  "model": "glm-5.3"
+}

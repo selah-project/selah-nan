@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "祢差出祢的氣,𪜶就受創造;祢更新地的面。",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "祢差出"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "祢的氣"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "𪜶就受創造"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "祢更新"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:42.996635854Z",
+  "model": "glm-5.3"
+}

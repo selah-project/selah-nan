@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "⟨את⟩桌仔、⟨את⟩伊一切的器具,佮⟨את⟩面前的餅。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桌仔"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊一切的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的器具"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "面前的餅"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "面前的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:43.910922340Z",
+  "model": "glm-5.3"
+}

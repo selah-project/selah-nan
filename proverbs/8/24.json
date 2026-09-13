@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "深淵猶未有的時,我受生出;湧出重水的泉頭猶未有的時。",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "猶未有的時"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "我受生出"
+    },
+    {
+      "surface": "באין",
+      "gloss": "猶未有的時"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "泉頭"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "湧出重…的"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:42.590915920Z",
+  "model": "glm-5.3"
+}

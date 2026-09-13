@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊拍𪜶的江河變做血,𪜶的水流,𪜶一點仔嘛袂當啉。",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "拍…變做"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "做血"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "𪜶的江河"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "𪜶的水流"
+    },
+    {
+      "surface": "בל",
+      "gloss": "一點仔嘛袂當"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "啉"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:01.981952395Z",
+  "model": "glm-5.3"
+}

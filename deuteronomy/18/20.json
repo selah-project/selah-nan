@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "獨獨彼个先知若擅敢奉我的名講⟨את⟩我無命令伊講的話,抑是奉別个神的名講話,彼个先知就著死。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "彼个先知"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "擅敢"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "奉我的名"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我無命令伊講的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "我命令伊"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "奉…的名"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別个"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "就著死"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "彼个先知"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:24.221580191Z",
+  "model": "glm-5.3"
+}

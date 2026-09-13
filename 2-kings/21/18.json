@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "瑪拿西佮伊的列祖同睏,埋葬佇伊家己的園裡,就是佇烏撒的園;伊的子亞們接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "同睏"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "佇……的園"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "佇……的園"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "烏撒"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "亞們"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:59.967488350Z",
+  "model": "glm-5.3"
+}

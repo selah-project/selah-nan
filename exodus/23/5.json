@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你若看見恨你的人伊的驢仔伏佇伊的重擔下底,你著停止放伊落去;的確愛卸予伊,佮伊做伙。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "你看見"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "恨你的人"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "伏"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下底"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "伊的重擔"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "你著停止"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "放伊落去"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "卸予開"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "的確愛卸"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:53.158387285Z",
+  "model": "glm-5.3"
+}

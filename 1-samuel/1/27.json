@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「為著彼個囡仔我祈禱,雅威就賞賜我 ⟨את⟩ 我所求的,就是我對伊求的彼項。」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "為著"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼個囡仔"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "彼"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "我祈禱"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "就賞賜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我所求的"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "我所求的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "我求"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:32.884168364Z",
+  "model": "glm-5.3"
+}

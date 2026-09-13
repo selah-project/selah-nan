@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "大衛佮以色列全家,用歡呼佮羊角的聲,抬 ⟨את⟩ 雅威的約櫃。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…全家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "抬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "用歡呼"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "佮…的聲"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "羊角"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:56.620141704Z",
+  "model": "glm-5.3"
+}

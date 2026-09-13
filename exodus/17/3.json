@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "會眾佇遐嘴乾愛水,會眾就向摩西出怨言,講:「你啥物緣故按呢共阮對米茲拉因(埃及)帶起來,欲用嘴乾互死我⟨את⟩、閣我⟨את⟩的囝仔、我⟨את⟩的牲畜?」",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "嘴乾"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "העם",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "למים",
+      "gloss": "愛水"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "出怨言"
+    },
+    {
+      "surface": "העם",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "זה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "你共阮帶起來"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "欲互死"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "我"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "我的囝仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的囝仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "我的牲畜"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "我的牲畜"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "用嘴乾"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:13.742917046Z",
+  "model": "glm-5.3"
+}

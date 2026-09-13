@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 120,
+  "translation": "勇士个箭,磨利利个,佮荊柴个炭火。",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "箭"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士个"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "磨利利个"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "炭火"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "荊柴个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:29.130878780Z",
+  "model": "glm-5.3"
+}

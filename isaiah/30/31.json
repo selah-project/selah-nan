@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "因為對雅威的聲,亞述會驚惶仆落;伊欲用杖拍擊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "驚惶仆落"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用杖"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "拍擊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:12.350084873Z",
+  "model": "glm-5.3"
+}

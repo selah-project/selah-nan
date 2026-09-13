@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "judges 11:35",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "當伊看見⟨את⟩伊的時,就撕裂⟨את⟩伊的衫,講:唉啊,我的查某囝!你真正屈落我,佮你是佇我受損害的人中間;閣我已經對雅威開我的喙,我袂使閣倒轉去。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "כראותו",
+      "gloss": "伊看見"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(伊的查某囝)"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "就撕裂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的衫"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "唉啊"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "我的查某囝"
+    },
+    {
+      "surface": "הכרע",
+      "gloss": "屈落"
+    },
+    {
+      "surface": "הכרעתני",
+      "gloss": "你屈落我"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "היית",
+      "gloss": "是"
+    },
+    {
+      "surface": "בעכרי",
+      "gloss": "佇我受損害的人中"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "פציתי",
+      "gloss": "開"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "會"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "閣倒轉去"
+    }
+  ],
+  "timestamp": "2026-09-12T02:35:10.905140831Z",
+  "model": "glm-5.3"
+}

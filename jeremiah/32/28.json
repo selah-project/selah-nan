@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 32:28",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "所以雅威按呢講:看啊,我欲將⟨את⟩這城交佇迦勒底人的手裡,佇巴比倫王尼布甲尼撒的手裡,伊欲攻落伊。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…手裡"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "閣佇…手裡"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "伊欲攻落伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:58:48.651391557Z",
+  "model": "glm-5.3"
+}

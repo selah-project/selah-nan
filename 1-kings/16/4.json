@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "屬巴沙的死佇城內的,狗欲食伊;屬伊的死佇田野的,天頂的鳥仔欲食伊。」",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "屬巴沙"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "狗"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "…死的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬伊"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田野"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:46.359581283Z",
+  "model": "glm-5.3"
+}

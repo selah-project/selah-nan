@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 126,
+  "translation": "雅威為阮做了大事,阮就歡喜。",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "做大"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去做"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "阮是"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "歡喜的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:43.366618931Z",
+  "model": "glm-5.3"
+}

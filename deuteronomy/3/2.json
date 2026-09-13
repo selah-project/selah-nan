@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威對我講:「毋通驚⟨את⟩伊,因為我已經將⟨את⟩伊交佇你的手中,閣⟨את⟩伊全部的百姓佮⟨את⟩伊的地;你著照你待佇希實本的亞摩利王西宏的款待伊,伊就是坐起佇希實本的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(噩)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手中"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我已經交"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(噩)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊全部的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊的地"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "你著行"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你所行的"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "對西宏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "坐起"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "佇希實本"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:00.805118504Z",
+  "model": "glm-5.3"
+}

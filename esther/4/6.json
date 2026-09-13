@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "哈他克就出去,到末底改遐,到城內的街市,佇王的門頭前。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "התך",
+      "gloss": "哈他克"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "街市"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:58.168996380Z",
+  "model": "glm-5.3"
+}

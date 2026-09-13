@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 134,
+  "translation": "上階之歌。看啊,雅威的奴僕攏總,徛佇雅威的厝內、佇逐暝的,著來祝福⟨את⟩雅威!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "之歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上階"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "著來祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "徛"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇厝內"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "佇逐暝"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:55.566752593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "毋拘伊看見𪜶的患難,佇伊聽見⟨את⟩𪜶哀求聲的時。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "伊看見"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "患難"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "佇伊聽見…的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶哀求聲"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "𪜶哀求聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:01.317084418Z",
+  "model": "glm-5.3"
+}

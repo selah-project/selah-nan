@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我欲對我的兄弟講述你的名,佇會眾中間我欲謳咾你。",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "我欲講述"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "對我的兄弟"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "我欲謳咾你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:24.560482737Z",
+  "model": "glm-5.3"
+}

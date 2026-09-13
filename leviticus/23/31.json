@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "任何工課恁毋通做;這是恁世世代代永遠的律例,佇恁一切所蹛的所在。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "律例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "恁世世代代"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "恁所蹛的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:53.761253238Z",
+  "model": "glm-5.3"
+}

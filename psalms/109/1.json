@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "互指揮者,大衛个詩篇。我讚美个以羅欣啊,毋通恬默。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛个"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣(我个)"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "我个讚美"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "恬默"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:25.911055001Z",
+  "model": "glm-5.3"
+}

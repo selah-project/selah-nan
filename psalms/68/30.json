@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "對你的殿,佇耶路撒冷頂面,諸王欲帶貢物到你遮。",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "對你的殿"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לך",
+      "gloss": "到你"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "欲帶來"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "שי",
+      "gloss": "貢物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:37.726313593Z",
+  "model": "glm-5.3"
+}

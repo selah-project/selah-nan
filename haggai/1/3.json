@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威的話閣透過先知哈該的手來,講:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣……來"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "透過……的手"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "哈該"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:02.740572623Z",
+  "model": "glm-5.3"
+}

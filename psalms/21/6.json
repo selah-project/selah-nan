@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊的榮光佇你的救恩真大;你將威嚴佮尊貴下佇伊身上。",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "真大"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "佇你的救恩"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "佮尊貴"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "你下"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:56.628655273Z",
+  "model": "glm-5.3"
+}

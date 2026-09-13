@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "這个會講:「我屬雅威」;這个會用雅各的名來叫;這个會用手寫:「屬雅威」,閣用以色列的名稱呼家己。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "會講"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "會叫"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "用…的名"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "閣這个"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "會寫"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "閣用…的名"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "稱呼(伊家己)"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:41.174448224Z",
+  "model": "glm-5.3"
+}

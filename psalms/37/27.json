@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "轉離歹事,做好事,就會安居到永遠。",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "轉離"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好事"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "就會安居"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:15.212211400Z",
+  "model": "glm-5.3"
+}

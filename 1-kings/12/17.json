@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "總是佇猶大諸城市徛起的以色列人,羅波安做王管𪜶。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "總是…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "徛起的"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "佇諸城市"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "管𪜶"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:44.838808196Z",
+  "model": "glm-5.3"
+}

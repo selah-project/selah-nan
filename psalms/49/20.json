@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "伊會入去到伊祖先的世代,到永遠𪜶毋會看著光。",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "伊祖先的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "看著"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:49.665725050Z",
+  "model": "glm-5.3"
+}

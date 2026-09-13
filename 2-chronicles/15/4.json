@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佇⟨𪜶的⟩患難中,𪜶倒轉歸向雅威、以色列的以羅欣,尋伊,伊就互𪜶尋著。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "𪜶倒轉歸向"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊⟨的⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "歸向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "𪜶尋伊"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "伊互…尋著"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:38.676171939Z",
+  "model": "glm-5.3"
+}

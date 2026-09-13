@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "我困苦,閣對少年時代就咧欲無氣息;我擔當你的驚駭,我心頭亂糟糟。",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "閣咧欲無氣息"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "對少年時代"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "我擔當"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "你的驚駭"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "我心頭亂糟糟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:23.613276894Z",
+  "model": "glm-5.3"
+}

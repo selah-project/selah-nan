@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "欲宣揚講雅威是正直的,⟨是⟩阮的磬石,佇伊內底無不義;",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "欲宣揚"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "阮的磬石"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "不義"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    }
+  ],
+  "timestamp": "2026-09-13T04:57:35.524407288Z",
+  "model": "glm-5.3"
+}

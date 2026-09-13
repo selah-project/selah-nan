@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "摩西講完⟨את⟩遮的一切話,予以色列眾人听。",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "講完"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮的一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遮的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "予"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:53.157793381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "親像夢伊會飛走,𪜶會揣無伊;伊會親像暗暝的異象被趕走。",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "親像夢"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "伊會飛走"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "抑無"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "𪜶會揣無伊"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "伊會被趕走"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "親像異象"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暗暝的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:25:57.394625909Z",
+  "model": "glm-5.3"
+}

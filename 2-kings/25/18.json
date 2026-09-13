@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣刣人的頭提 ⟨את⟩ 撒拉雅祭司頭,佮 ⟨את⟩ 西番雅第二個祭司,閣 ⟨את⟩ 顧門檻的三个人。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "閣…提"
+    },
+    {
+      "surface": "רב",
+      "gloss": "頭"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "刣人者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒拉雅"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "撒拉雅"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "西番雅"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "西番雅"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "三个顧門檻的"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三个"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "顧…的"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "門檻"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:43.336314091Z",
+  "model": "glm-5.3"
+}

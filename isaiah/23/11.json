@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊的手伸對海面,伊互列國震動;雅威對迦南(肯阿安)有落命令,欲毀滅𪜶的堡壘。",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "伸"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海面"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "互震動"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "列國"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "有落命令"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "欲毀滅"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "𪜶的堡壘"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:31.717163811Z",
+  "model": "glm-5.3"
+}

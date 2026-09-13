@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "彼个知識對我來講傷過奇妙;伊懸甲我袂當了。",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "奇妙"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "懸甲"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "了"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:55.041903154Z",
+  "model": "glm-5.3"
+}

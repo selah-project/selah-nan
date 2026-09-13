@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 11:17",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "對哈拉克山(光禿的山),彼座上去西珥的,一直到巴力迦得,佇黎巴嫩的山谷、黑門山下;伊掠⟨את⟩𪜶所有的諸個王,擊𪜶,刣死𪜶。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "哈拉克(光禿的)"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "佇山谷"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "黎巴嫩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "黑門"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶所有的諸個王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "𪜶的諸個王"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "掠"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "擊𪜶"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "刣死𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:58.156943280Z",
+  "model": "glm-5.3"
+}

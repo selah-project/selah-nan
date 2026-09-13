@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 20:2",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "以色列逐人行離大衛,去綴示巴・比基利的子;毋過猶大人纏倚𪜶的王,對約旦河一直到耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "行離"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "對…的後面"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "比基利"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "毋過…人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "דבקו",
+      "gloss": "纏倚"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "𪜶的王"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T02:58:10.559668041Z",
+  "model": "glm-5.3"
+}

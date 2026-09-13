@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 3:18",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼時我命令⟨את⟩恁,講:雅威恁的以羅欣已經將⟨את⟩這塊地賞恁,互恁得著伊做產業;恁著穿好軍裝,佇恁的兄弟以色列人的面頭前過河,攏總是勇敢的戰士。",
+  "tokens": [
+    {
+      "surface": "ואצו",
+      "gloss": "我命令"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…時"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "已經賞"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "互恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這塊地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "互恁得著伊做產業"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "穿好軍裝"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "恁著過河"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面頭前"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "恁的兄弟"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇敢"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:40.124467883Z",
+  "model": "glm-5.3"
+}

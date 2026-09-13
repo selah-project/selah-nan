@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "該隱就對雅威的面前往出去,徛起佇挪得(流蕩)的地,佇伊甸的東邊。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "對…的面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "挪得(流蕩)"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "東邊"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:09.382687723Z",
+  "model": "glm-5.3"
+}

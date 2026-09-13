@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "看啊,日子欲到,我欲砍斷⟨את⟩你的跤臂,佮⟨את⟩你祖先的家的跤臂,免得有老人佇你的家。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "באים",
+      "gloss": "欲到"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "我欲砍斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的跤臂"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的跤臂"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "你祖先的家的跤臂"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "跤臂"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的祖先"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "免得有"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老人"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "佇你的家"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:17.537724881Z",
+  "model": "glm-5.3"
+}

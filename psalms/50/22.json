@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "恁遮个袂記得以羅亞个,今著明瞭這个,驚了我共恁撕碎,閣無人會救。",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "著明瞭"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "恁遮个袂記得"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "以羅亞"
+    },
+    {
+      "surface": "פן",
+      "gloss": "驚了"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "我共恁撕碎"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "人會救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.901651378Z",
+  "model": "glm-5.3"
+}

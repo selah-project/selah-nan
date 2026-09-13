@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以色的後生是比哈蘭、撒安、雅干;以旬的後生是烏斯佮亞蘭。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "以色"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "比哈蘭"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "佮撒安"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "雅干"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "以旬"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "烏斯"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "佮亞蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:55.254208708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 137,
+  "translation": "耶路撒冷啊,我若袂記得你,願我的正手嘛袂記得。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "我袂記得你"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "我的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:11.798305197Z",
+  "model": "glm-5.3"
+}

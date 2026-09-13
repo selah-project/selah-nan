@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "頂早你安立⟨了⟩地的根基,諸天是你雙手所做的。",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "頂早"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "你安立"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你雙手"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.889827368Z",
+  "model": "glm-5.3"
+}

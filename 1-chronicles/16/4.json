@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 16:4",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊閣設立利未人佇雅威的約櫃面前服事,欲記念、欲感謝、欲頌讚雅威——以色列的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "設立"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…中"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "服事"
+    },
+    {
+      "surface": "ולהזכיר",
+      "gloss": "欲記念"
+    },
+    {
+      "surface": "ולהודות",
+      "gloss": "欲感謝"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "欲頌讚"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:45.061364288Z",
+  "model": "glm-5.3"
+}

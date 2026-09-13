@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊起造⟨את⟩伯夙崙上城,閣⟨את⟩伯夙崙下城,做堅固的城,有城牆、門扇佮門閂,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "伊起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伯夙崙上城"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "夙崙"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "上城"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伯夙崙下城"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "夙崙"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "下城"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "堅固"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "門扇"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "佮門閂"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:24.402918911Z",
+  "model": "glm-5.3"
+}

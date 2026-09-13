@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的熱心共我消磨殆盡，因為我的對敵攏袂記得汝的話。",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "共我消磨殆盡"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "我的熱心"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "攏袂記得"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "汝的話"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "我的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:15.640945877Z",
+  "model": "glm-5.3"
+}

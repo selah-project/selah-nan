@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "若雲滿咧,𪜶就落雨瀉落佇地上;若樹仔倒向落南,抑是倒向北,佇樹仔倒落的所在,伊就佇遐。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "滿咧"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "瀉落"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "抑若"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "倒落"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹仔"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "向落南"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "抑若"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "向北"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "倒落"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "彼棵樹仔"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "伊就⟨佇⟩"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:37.431860044Z",
+  "model": "glm-5.3"
+}

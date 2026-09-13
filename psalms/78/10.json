@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶無守以羅欣的約,佇伊的律法嘛毋肯行。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "守"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "佇伊的律法"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "毋肯"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:19.626085229Z",
+  "model": "glm-5.3"
+}

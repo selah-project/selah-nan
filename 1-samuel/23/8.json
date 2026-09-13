@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "掃羅就召集⟨את⟩全部的百姓去相戰,欲落去基伊拉,圍大衛佮伊的人。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "召集"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "העם",
+      "gloss": "的百姓"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "去相戰"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "欲落去"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "圍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "伊的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:14.689018557Z",
+  "model": "glm-5.3"
+}

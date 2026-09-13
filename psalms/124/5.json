@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "彼時驕傲的水就欲沖過阮的性命。",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "沖過"
+    },
+    {
+      "surface": "על",
+      "gloss": "過"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "阮的性命"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "驕傲的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:45.101786559Z",
+  "model": "glm-5.3"
+}

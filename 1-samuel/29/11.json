@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "大衛佮伊的手下早早起來,透早起行,倒轉去非利士人的地;非利士人上到耶斯列。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "早早起來"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "佮伊的手下"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "去行"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇透早"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上去"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "耶斯列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:06.080358808Z",
+  "model": "glm-5.3"
+}

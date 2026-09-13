@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "草埔穿羊群做衫,山谷攏包滿五穀;𪜶出歡喜的聲,嘛咧唱歌。",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "穿……做衫"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "草埔(羊群)"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "包滿"
+    },
+    {
+      "surface": "בר",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "出歡喜的聲"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "咧唱歌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:54.422594619Z",
+  "model": "glm-5.3"
+}

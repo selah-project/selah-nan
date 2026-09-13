@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "獅敢會佇樹林吼,若無掠著食物?幼獅敢會對伊的穴發出聲,若無捕著啥物?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "敢會吼"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "佇樹林"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "掠著食物"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "敢會發出"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "聲"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "對伊的穴"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "若無"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "捕著"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:18.926855990Z",
+  "model": "glm-5.3"
+}

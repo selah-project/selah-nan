@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "阿多奈雅威佇伊的聖中發誓,講:看啊,日子欲到佇恁身軀,𪜶欲用鉤仔將恁⟨את⟩鉤出去,恁的後尾用掠魚的鉤。",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "發誓"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "佇伊的聖中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "באים",
+      "gloss": "欲到"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "佇恁身軀"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "鉤出去"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "用鉤仔"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "恁的後尾"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "用鉤"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "掠魚的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:57.661948943Z",
+  "model": "glm-5.3"
+}

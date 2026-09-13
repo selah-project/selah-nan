@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "既然我的手已經搶著偶像的諸王國,𪜶雕刻的偶像比耶路撒冷佮撒馬利亞的較濟;",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "既然"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "已經搶著"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "…的諸王國"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "偶像的"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "𪜶雕刻的偶像"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "比耶路撒冷"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "佮撒馬利亞的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:04.405193634Z",
+  "model": "glm-5.3"
+}

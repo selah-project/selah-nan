@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊就排設⟨את⟩柴,剖⟨את⟩彼隻牛,下佇柴頂。",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "就排設"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻柴"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "柴"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "剖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "下"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "柴"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:01.902686674Z",
+  "model": "glm-5.3"
+}

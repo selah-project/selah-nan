@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "有一個人揣著伊,看--著,伊佇田裡咧流浪;彼個人就問伊講:「你咧揣啥物?」",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "揣著伊"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看--著"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "咧流浪"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "問伊"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "你咧揣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:23.978078920Z",
+  "model": "glm-5.3"
+}

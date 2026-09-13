@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "欲互人的子兒知伊的大權能,佮伊國度榮光威嚴的榮光。",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "欲互…知"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "人的子兒"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "(人)"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "伊的大權能"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "伊國度的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:38.713041885Z",
+  "model": "glm-5.3"
+}

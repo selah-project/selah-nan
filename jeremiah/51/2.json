@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "閣我欲差遣外人去巴比倫,𪜶欲揚伊,欲掏空伊⟨את⟩的土地;因為佇患難的日子,𪜶攏佇伊四箍圍對付伊。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "閣我欲差遣"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "去巴比倫"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外人"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "𪜶欲揚伊"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "欲掏空"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的土地"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היו",
+      "gloss": "攏對付"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四箍圍"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日子"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "患難的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:52.424196398Z",
+  "model": "glm-5.3"
+}

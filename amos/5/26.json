@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "恁扛⟨את⟩恁的王悉窟(蘇庫特),閣⟨את⟩恁的形像基運,恁的諸神明的星,是恁家己造的。",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "恁扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的王悉窟"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "悉窟"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "恁的王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "基運"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "基運"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "恁的形像"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "星"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的諸神明"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "恁造"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為恁家己"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:34.990225677Z",
+  "model": "glm-5.3"
+}

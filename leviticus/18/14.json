@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你阿爸的兄弟的露體,你毋通揭露;伊的某,你毋通接近,伊是你的嬸姆。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "露體"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你阿爸的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "揭露"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "接近"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "你的嬸姆"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:28.685348567Z",
+  "model": "glm-5.3"
+}

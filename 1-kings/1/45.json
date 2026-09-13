@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "撒督祭司佮拿單先知已經佇基訓膏抹⟨את⟩伊做王;𪜶對遐歡歡喜喜上來,規城攏鬧熱起來——彼个就是恁所聽見的聲。",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "膏抹"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(所膏抹的對象)"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "撒督"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "佮拿單"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "佇基訓"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "上來"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "歡歡喜喜"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "鬧熱起來"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "規城"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "恁所聽見"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:20.100419926Z",
+  "model": "glm-5.3"
+}

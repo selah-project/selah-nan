@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊做一座銅祭壇,長二十肘,闊二十肘,懸十肘。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "伊的懸"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:43.534334318Z",
+  "model": "glm-5.3"
+}

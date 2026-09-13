@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "救贖我脫離人的欺壓,我欲謹守汝的訓令。",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "救贖我"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "脫離欺壓"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "我欲謹守"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "汝的訓令"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:08.783628031Z",
+  "model": "glm-5.3"
+}

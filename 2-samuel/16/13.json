@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 16:13",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "大衛佮伊的人沿路咧行,示每行佇山邊對面彼爿,一咧行一咧咒詛,閣用石頭對伊擲,嘛用塗埃揚。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "行"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "佮伊的人"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "沿路"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בצלע",
+      "gloss": "佇山邊"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "對面彼爿"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "一咧行"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "一咧咒詛"
+    },
+    {
+      "surface": "ויסקל",
+      "gloss": "閣擲"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "用石頭"
+    },
+    {
+      "surface": "לעמתו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "嘛用塗埃"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "揚塵"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:56.989112338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "我也毋捌學智慧,嘛毋知影至聖者的知識。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "也毋"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "捌學"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "嘛…知識"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "至聖者"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知影"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:34.502434234Z",
+  "model": "glm-5.3"
+}

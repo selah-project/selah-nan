@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "摩西上彼座山,雲就遮閘彼座山 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "就遮閘"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼座山"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:21.088054852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我子啊,毋通佮⟨את⟩𪜶行佇彼條路;你的腳著離開𪜶的路徑。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我子啊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇彼條路"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "佮⟨את⟩𪜶"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "著離開"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "對𪜶的路徑"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:16.787088607Z",
+  "model": "glm-5.3"
+}

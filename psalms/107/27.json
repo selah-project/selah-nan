@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "𪜶輾來輾去,搖來搖去,親像酒醉的人,𪜶所有的智慧攏吞滅無去。",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "輾來輾去"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "搖來搖去"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "親像酒醉的人"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "𪜶的智慧"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "攏吞滅無去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:39.309676863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "泰爾家己起一座堡壘,堆銀親像土粉,堆精金親像街路的爛塗。",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "伊家己起"
+    },
+    {
+      "surface": "צר",
+      "gloss": "泰爾"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "לה",
+      "gloss": "為伊家己"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "堆"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "親像土粉"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "精金"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "親像爛塗"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "街路"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:50.023785027Z",
+  "model": "glm-5.3"
+}

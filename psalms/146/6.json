@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 146,
+  "translation": "就是彼個創造天佮地、⟨את⟩海佮⟨את⟩海內底所有的物的,伊守誠實直到永遠。",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "創造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "所有的物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇𪜶內底"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "守"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "誠實"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:54.556576236Z",
+  "model": "glm-5.3"
+}

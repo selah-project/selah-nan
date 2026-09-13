@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "大衛閣佇耶路撒冷娶細姨,大衛閣生後生佮查某囝。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "細姨"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "閣生"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "佮查某囝"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:18.401418651Z",
+  "model": "glm-5.3"
+}

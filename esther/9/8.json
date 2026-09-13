@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣⟨את⟩坡拉塔、⟨את⟩阿達利雅、⟨את⟩阿里達塔 ——",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "坡拉塔"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "坡拉塔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "阿達利雅"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "阿達利雅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "阿里達塔"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "阿里達塔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:28.223741127Z",
+  "model": "glm-5.3"
+}

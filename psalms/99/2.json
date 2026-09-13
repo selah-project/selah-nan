@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 99,
+  "translation": "雅威佇錫安真大,伊懸過一切的百姓。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "佇錫安"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "真大"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "懸過"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "過"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:41.244308921Z",
+  "model": "glm-5.3"
+}

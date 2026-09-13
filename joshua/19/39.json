@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 19:39",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "這是拿弗他利支派、𪜶的囝仔的產業,照𪜶的家族,諸個城佮𪜶的莊園。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "產業"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "支派"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "拿弗他利"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "諸個城"
+    },
+    {
+      "surface": "ויחצריהן",
+      "gloss": "佮𪜶的莊園",
+      "note": "surface 應為 וחצריהן"
+    }
+  ],
+  "timestamp": "2026-09-13T04:52:47.809664882Z",
+  "model": "glm-5.3"
+}

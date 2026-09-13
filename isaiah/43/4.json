@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "因為你佇我目睭內看做寶貴,你得著尊重,我嘛疼你;所以我欲用人替你,用列國換你的性命。",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "你寶貴"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇我目睭內"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "你得尊重"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "我疼你"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "閣我欲給"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "替你"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "閣列國"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "替"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:33.274597285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "密雲瀉落雨水,諸天發出聲,你的箭嘛四界行。",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "瀉落"
+    },
+    {
+      "surface": "מים",
+      "gloss": "雨水"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "密雲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "發出"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "你的箭"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "四界行"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:59.816538599Z",
+  "model": "glm-5.3"
+}

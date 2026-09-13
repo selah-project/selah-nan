@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "基拿拿的子西底家給家己做鐵角,講:「雅威按呢講:你欲用這个抵亞蘭⟨את⟩,一直到𪜶攏消滅。」",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給家己"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "西底家"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "基拿拿"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "角"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "用這个"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "抵"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞蘭"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "𪜶攏消滅"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:44.131618134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "嘩哦伊,伊逐個天使;嘩哦伊,伊逐個軍隊。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "嘩哦伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "伊的天使"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "嘩哦伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "伊的軍隊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:36.096261325Z",
+  "model": "glm-5.3"
+}

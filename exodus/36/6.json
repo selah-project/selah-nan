@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "摩西就落命令,𪜶就佇全營內傳出聲音,講:「查埔人查某人,毋通閣為著聖的奉獻做啥物工課。」人民就停睏,無閣帶來。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "就落命令"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "𪜶就傳出"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "佇全營內"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "איש",
+      "gloss": "查埔人"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "啥物工課"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "為著…的奉獻"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "就停睏"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "無閣帶來"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:12.086809592Z",
+  "model": "glm-5.3"
+}

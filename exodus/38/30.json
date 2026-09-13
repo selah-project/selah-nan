@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊用彼個做⟨את⟩會幕門口的座,佮⟨את⟩銅祭壇,佮⟨את⟩伊的銅網格,佮⟨את⟩祭壇一切的器具——",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊用……做"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼個(銅)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕門口的座"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "座"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕(帳棚)"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "聚會的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "銅祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "銅的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的銅網格"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "網格"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "銅的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "祭壇一切的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:57.686494913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "我欲放⟨את⟩你的肉佇諸山頂,我欲用你的屍堆填滿諸山谷。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的肉"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "你的肉"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "諸山頂"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "我欲填滿"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "諸山谷"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "你的屍堆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:19:20.435978900Z",
+  "model": "glm-5.3"
+}

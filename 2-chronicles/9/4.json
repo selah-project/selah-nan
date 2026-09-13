@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 9:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣有伊桌的食物、伊奴僕的座位、伊差役的徛勢、𪜶的衣裳,伊捧酒的佮𪜶的衣裳,閣有伊上雅威殿的彼條路,伊就無閣有心神佇伊身軀。",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "閣有食物"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "伊桌的"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "座位"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊奴僕的"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "徛勢"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "伊差役的"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "𪜶的衣裳"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "伊捧酒的"
+    },
+    {
+      "surface": "ומלבושיהם",
+      "gloss": "𪜶的衣裳"
+    },
+    {
+      "surface": "ועליתו",
+      "gloss": "閣有伊上去的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼條"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊身軀"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "心神"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:30.226387808Z",
+  "model": "glm-5.3"
+}

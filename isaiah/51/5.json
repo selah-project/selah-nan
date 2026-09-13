@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "近啊,我的公義;我的拯救已經出去,我的手臂欲審判萬民;海島欲向我看候,佮我的手臂𪜶欲向望。",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "近啊"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "我的公義"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "已經出去"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "我的拯救"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "佮我的手臂"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "欲審判"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "איים",
+      "gloss": "海島"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "看候"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮向"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "我的手臂"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "向望"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:22.276613621Z",
+  "model": "glm-5.3"
+}

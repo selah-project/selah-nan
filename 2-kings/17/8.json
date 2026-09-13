@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "閣行佇雅威對以色列子兒面前所趕出去的列國的律例,佮以色列諸王所做的規矩。",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "佇…的律例"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "趕出去"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "佮…諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "所做的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:53.259017722Z",
+  "model": "glm-5.3"
+}

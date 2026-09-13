@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 70,
+  "translation": "願𪜶因為𪜶的見笑倒轉去,彼號講「嘿啊、嘿啊」的。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "願倒轉去"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "(緣故)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "𪜶的見笑"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "彼號講…的"
+    },
+    {
+      "surface": "האח",
+      "gloss": "嘿啊"
+    },
+    {
+      "surface": "האח",
+      "gloss": "嘿啊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:06.865739784Z",
+  "model": "glm-5.3"
+}

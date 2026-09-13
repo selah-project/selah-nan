@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "有黃金,閣有真濟珍珠,嘛有寶貴的器皿——知識的喙唇。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "黃金"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "閣有真濟"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "珍珠"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "嘛有……器皿"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "寶貴的"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "喙唇"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:51.716024253Z",
+  "model": "glm-5.3"
+}

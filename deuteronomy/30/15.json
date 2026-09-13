@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "看啊,今仔日我下佇你面前 ⟨את⟩ 活命佮 ⟨את⟩ 好,以及 ⟨את⟩ 死亡佮 ⟨את⟩ 歹。",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我下"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "活命"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "好"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "以及 ⟨את⟩",
+      "marks": "死亡"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "歹"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "歹"
+    }
+  ],
+  "timestamp": "2026-09-13T06:30:27.678336903Z",
+  "model": "glm-5.3"
+}

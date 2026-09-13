@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "手鼓的歡喜停矣,歡樂人的喧嘩停止,琴的歡喜停矣。",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "停"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "手鼓"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "停止"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "歡樂人"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "停"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:08.281804250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "大衛提⟨את⟩一切的羊佮牛;𪜶趕彼群精牲頭做頭前,𪜶講:「這是大衛的掠物。」",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的羊佮牛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "佮牛"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "趕"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "做頭前"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "彼群精牲頭"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "掠物"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:10.313209166Z",
+  "model": "glm-5.3"
+}

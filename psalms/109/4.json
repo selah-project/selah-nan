@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "抵替我个疼,𪜶毀謗〈我〉;我——是祈禱。",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "抵替"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我个疼"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "毀謗我"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "而我"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:25.911600629Z",
+  "model": "glm-5.3"
+}

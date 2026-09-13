@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "巴勒・洗規的囝看見⟨את⟩以色列對亞摩利人所做的一切。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "巴勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……的囝"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "洗規"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列對亞摩利人所做的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "對亞摩利人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:00:22.970449856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊就對伊的百姓講:「你看,以色列阮的百姓,比咱濟閣比咱強。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子弟"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "רב",
+      "gloss": "濟"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "閣強"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "比咱"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:13.303663517Z",
+  "model": "glm-5.3"
+}

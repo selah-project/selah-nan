@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "伊起造⟨את⟩雅威的家的上門,閣佇俄斐勒的牆起造真濟。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的家的上門"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "上的"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "閣佇…的牆"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "俄斐勒"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "真濟"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:19.867951418Z",
+  "model": "glm-5.3"
+}

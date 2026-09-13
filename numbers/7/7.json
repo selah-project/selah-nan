@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "⟨את⟩兩台車仔佮⟨את⟩四隻牛,伊分互革順的子孫,照𪜶的工。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩台車仔"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "台車仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "四隻牛"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "四"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "隻牛"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "伊分"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "互…的子孫"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "革順"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "照"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "𪜶的工"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:27.711903353Z",
+  "model": "glm-5.3"
+}

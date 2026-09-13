@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "伊做⟨את⟩以弗得(掛佇肩頭的祭司衣),用金仔、藍色、紫色、朱紅色,佮捻過的幼苧麻。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以弗得"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金仔"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "藍色"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "佮紫色"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "佮朱紅蟲仔"
+    },
+    {
+      "surface": "שני",
+      "gloss": "色"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "佮苧麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "捻過的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:45.472100240Z",
+  "model": "glm-5.3"
+}

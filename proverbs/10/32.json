@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "義人的嘴脣知影啥物合宜,惡人的喙攏是顛倒話。",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "嘴脣"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "知影"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "合宜"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "佮喙"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "顛倒話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:35.814220280Z",
+  "model": "glm-5.3"
+}

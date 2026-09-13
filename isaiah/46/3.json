@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "雅各的家啊,聽我!以色列的家所剩落來的攏總啊,對肚腹就互我擔、對母胎就互我捧的:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "所剩的"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "互我擔的"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "肚腹"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "互我捧的"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "母胎"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:48.750731225Z",
+  "model": "glm-5.3"
+}

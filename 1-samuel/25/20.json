@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "彼時伊騎佇驢仔面頂,落佇山的隱密處,看著,大衛佮伊的人落來對面迎伊,伊就抵著⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "騎"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…面頂"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "隱密處"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看著"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "佮伊的人"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "落來"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "對面迎伊"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "伊就抵著"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:44.700855737Z",
+  "model": "glm-5.3"
+}

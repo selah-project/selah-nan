@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "佇彼个日子著食⟨伊⟩，恁毋通留半屑對伊到隔轉早起；我是雅威。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "著食"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "恁留"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "隔轉早起"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:33.466225043Z",
+  "model": "glm-5.3"
+}

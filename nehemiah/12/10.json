@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "耶書亞生⟨את⟩約雅金,約雅金生⟨את⟩以利亞實,以利亞實生⟨את⟩約亞大。",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "耶書亞"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約雅金"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "約雅金"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "約雅金"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞實"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "以利亞實"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "以利亞實"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約亞大"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "約亞大"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:20.568816221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 130,
+  "translation": "我咧等雅威,我的性命咧等,閣對伊的話我抱向望。",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "我咧等"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "咧等"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "閣對伊的話"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "我抱向望"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:22.894339889Z",
+  "model": "glm-5.3"
+}

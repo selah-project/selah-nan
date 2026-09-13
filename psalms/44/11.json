@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "你互阮對敵人向後倒退,佮怨恨阮的人為家己搶奪。",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "你互阮倒退"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "向後"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "צר",
+      "gloss": "敵人"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "佮怨恨阮的人"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "搶奪"
+    },
+    {
+      "surface": "למו",
+      "gloss": "為家己"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.352208607Z",
+  "model": "glm-5.3"
+}

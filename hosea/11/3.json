@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "是我教以法蓮行路,攬𪜶佇手胳頂;總是𪜶毋知是我醫好𪜶。",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "是我"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "教行路"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "攬𪜶"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "手胳"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "醫好𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:35.269606018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "恁著唱歌予徛佇錫安的雅威,著佇列邦中間宣揚伊的做為。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "恁著唱歌"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "著宣揚"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "佇列邦中間"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "伊的做為"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:03.590085004Z",
+  "model": "glm-5.3"
+}

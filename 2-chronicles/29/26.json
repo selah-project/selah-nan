@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "利未人徛佇大衛的樂器遐,祭司徛佇喇叭遐。",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "徛"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "佇……的樂器"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "閣祭司"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "佇喇叭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:18:12.456112414Z",
+  "model": "glm-5.3"
+}

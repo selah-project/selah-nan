@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "你著家己謹慎,免得你拋捒⟨את⟩利未人,佇你的土地上,你的逐個日。",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "著謹慎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你自己"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "你拋捒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "利未人"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……上"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T02:12:01.634160560Z",
+  "model": "glm-5.3"
+}

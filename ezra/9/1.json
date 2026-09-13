@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 9:1",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "遮的代誌完成了後,首領就近來我遮,講:以色列的百姓、祭司佮利未人,無對在地的人分別出來,照𪜶的可憎之事,就是迦南人、赫人、比利洗人、耶布斯人、亞捫人、摩押人、埃及人佮亞摩利人。",
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "完成了後"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮的代誌"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "就近來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נבדלו",
+      "gloss": "分別出來"
+    },
+    {
+      "surface": "העם",
+      "gloss": "的百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "佮祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "對…的人"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "在地"
+    },
+    {
+      "surface": "כתועבתיהם",
+      "gloss": "照𪜶的可憎之事"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "對迦南人"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "亞捫人"
+    },
+    {
+      "surface": "המאבי",
+      "gloss": "摩押人"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "佮亞摩利人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:52:31.591777856Z",
+  "model": "glm-5.3"
+}

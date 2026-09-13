@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 51:4",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "閣刣死的人會仆倒佇迦勒底人的境內,予刀刺死的人佇伊的街仔路。",
+  "tokens": [
+    {
+      "surface": "ונפלו",
+      "gloss": "閣會仆倒"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "刣死的人"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…境內"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "ומדקרים",
+      "gloss": "予刀刺死的"
+    },
+    {
+      "surface": "בחוצותיה",
+      "gloss": "佇伊的街仔路"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:52.424532124Z",
+  "model": "glm-5.3"
+}

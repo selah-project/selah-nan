@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "我聽見⟨את⟩這个話,就裂開⟨את⟩我的衫佮我的外袍,對我的頭殼的毛佮我的喙鬚拔落來,我就坐咧驚愕。",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "我裂開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的衫"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "我的衫"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "佮我的外袍"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "我拔落來"
+    },
+    {
+      "surface": "משער",
+      "gloss": "對…的毛"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭殼"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "佮我的喙鬚"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "我就坐"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "驚愕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:52:31.592271201Z",
+  "model": "glm-5.3"
+}

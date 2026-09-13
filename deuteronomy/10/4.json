@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊就照頭一擺所寫的,佇彼版面寫⟨את⟩十句話,就是雅威佇集會彼日、佇山裡對火的中間對恁所講的;閣雅威共彼兩塊版予我。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "伊就寫"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "彼版"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "照…所寫的"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一擺的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十句話"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十句"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "集會"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "閣伊共…予"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:04.622255835Z",
+  "model": "glm-5.3"
+}

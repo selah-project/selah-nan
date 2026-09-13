@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "伊看守伊一切的骨,一根攏毋捌折斷。",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "伊的骨"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一根"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "對彼中間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "捌折斷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:47.654773227Z",
+  "model": "glm-5.3"
+}

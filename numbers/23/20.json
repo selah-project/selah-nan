@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "看矣,祝福我已經接落來;伊祝福,我袂當給伊擱倒轉去。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看矣"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "我已經接落來"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "伊祝福"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "給伊擱倒轉去"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:17.720693203Z",
+  "model": "glm-5.3"
+}

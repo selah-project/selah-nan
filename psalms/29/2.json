@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "著給雅威伊的名應得的榮光;向雅威跪拜,佇聖潔的華美裡。",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "著給"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "佇…的華美裡"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖潔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:05.288061101Z",
+  "model": "glm-5.3"
+}

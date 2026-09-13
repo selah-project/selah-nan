@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "閣 ⟨את⟩ 伊的兩个囝,其中一个名叫革舜,因為伊講:「我做工佇外地,做寄居的。」",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "伊的兩个囝"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "其中一个"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "革舜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居的"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我做"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "外地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:05.214176655Z",
+  "model": "glm-5.3"
+}

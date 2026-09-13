@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "伊欲對天垂落來救我;彼个咧侮辱、欲吞食我的人。細拉。以羅欣欲差伊的赫瑟德(慈愛)佮伊的誠實。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "伊欲差"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "對天"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "閣救我"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "侮辱"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "彼个咧吞食我的人"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "伊欲差"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "佮伊的誠實"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:51.463886435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "彼時基色王何暗上來援助拉吉 ⟨את⟩,約書亞就擊殺伊佮⟨את⟩伊的百姓,直到無留落伊任何殘存的人。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "何暗"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "基色"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "援助"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉吉"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "拉吉"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "擊殺伊"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的百姓"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "無"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "留落"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "殘存的人"
+    }
+  ],
+  "timestamp": "2026-09-13T04:52:00.297710703Z",
+  "model": "glm-5.3"
+}

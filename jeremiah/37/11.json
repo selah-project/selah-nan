@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "彼時,迦勒底的軍隊為著欲閃避法老的軍隊,對耶路撒冷徛起來離開去。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "起來離開"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "為著欲閃避"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T04:01:12.339654361Z",
+  "model": "glm-5.3"
+}

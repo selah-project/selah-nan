@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "你的目睭毋通同情:性命賠性命,目睭賠目睭,喙齒賠喙齒,手賠手,跤賠跤。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "同情"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "賠性命"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "賠目睭"
+    },
+    {
+      "surface": "שן",
+      "gloss": "喙齒"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "賠喙齒"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "賠手"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "跤"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "賠跤"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:40.721269913Z",
+  "model": "glm-5.3"
+}

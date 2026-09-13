@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為以色列家佮猶大家背叛閣背叛我,這是雅威的神諭。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "背叛"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "閣背叛"
+    },
+    {
+      "surface": "בי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "佮家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:50.116299271Z",
+  "model": "glm-5.3"
+}

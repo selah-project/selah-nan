@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "因為蛀蟲欲親像衫仔共𪜶食去,嘛親像羊毛,蟲欲共𪜶食去;獨獨我的公義欲永遠在,我的拯救到代代。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "親像衫仔"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "共𪜶食去"
+    },
+    {
+      "surface": "עש",
+      "gloss": "蛀蟲"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "嘛親像羊毛"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "共𪜶食去"
+    },
+    {
+      "surface": "סס",
+      "gloss": "蟲"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "佮我的公義"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會在"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "佮我的拯救"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "到代"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "代代"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:22.277198997Z",
+  "model": "glm-5.3"
+}

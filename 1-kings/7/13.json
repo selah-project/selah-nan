@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "所羅門王差遣去，就對推羅提⟨את⟩希蘭來。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "就差遣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "希蘭"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "對推羅"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:55.485253486Z",
+  "model": "glm-5.3"
+}

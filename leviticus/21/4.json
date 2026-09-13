@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "做人大夫的,毋通佇伊的百姓中間家己無清氣,來褻瀆家己。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "家己無清氣"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "做人大夫的"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "佇伊的百姓"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "來褻瀆家己"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:23.137676499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊嘛按呢對待伊所有外邦的某,𪜶燒香閣獻祭予𪜶的神明。",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "嘛按呢"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "對待"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對所有"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "外邦的"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "燒香"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "閣獻祭"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "予𪜶的神明"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:46.426603938Z",
+  "model": "glm-5.3"
+}

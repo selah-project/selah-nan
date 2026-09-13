@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "佇彼个時陣,耶羅波安的後生亞比雅破病矣。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "佇…時陣"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "破病"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "亞比雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:09:18.794314497Z",
+  "model": "glm-5.3"
+}

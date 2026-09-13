@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "我,就是我,是雅威;除了我以外無拯救者。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "就是我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "除了我以外"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "拯救者"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:28.316335093Z",
+  "model": "glm-5.3"
+}

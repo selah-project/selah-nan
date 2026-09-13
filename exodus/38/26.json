@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 38:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "一個貝卡按人頭,就是半舍客勒,照聖所的舍客勒,見若對二十歲以上、行過去受普查的,共六十萬閣三千五百五十人。",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "貝卡"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "按人頭"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "半"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "照…舍客勒"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所的"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "見凡"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "行過去的"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "受普查的"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…的人"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "לשש",
+      "gloss": "六十"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "萬"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "(千)…千"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "閣三"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "閣五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "閣五十"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:24.045000352Z",
+  "model": "glm-5.3"
+}

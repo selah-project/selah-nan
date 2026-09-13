@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "我夯重的,佮阮禾埕的子啊,我對雅威采巴奧特、以色列的以羅欣⟨את⟩所聽見的,已經報予恁知矣。",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "我夯重的"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "佮…的子"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "阮禾埕"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "雅威采巴奧特、以色列的以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "我報"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "予恁"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:20.439850531Z",
+  "model": "glm-5.3"
+}

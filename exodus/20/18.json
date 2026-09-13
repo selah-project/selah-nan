@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "歸陣的百姓攏看見 ⟨את⟩ 諸個雷聲佮 ⟨את⟩ 火炬,閣 ⟨את⟩ 角螺的聲,佮 ⟨את⟩ 冒煙的山;百姓看見就搖撼,徛佇遠遠的所在。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "佮歸陣的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個雷聲"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "諸個雷聲"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "火炬"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "火炬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "角螺的聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "角螺"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "山"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "冒煙的"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "搖撼"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "徛"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "佇遠遠的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:50.615537691Z",
+  "model": "glm-5.3"
+}

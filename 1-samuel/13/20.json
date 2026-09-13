@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "以色列眾人攏落去非利士遐,逐家去磨家己的犁頭⟨את⟩、伊的鋤頭⟨את⟩、伊的斧頭⟨את⟩,佮伊的耙⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "落去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "去磨"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐家"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "犁頭"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "伊的犁頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "鋤頭"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "伊的鋤頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "斧頭"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "伊的斧頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耙"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "伊的耙"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:14.234228210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 15:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "東爿的界是鹽海,一直到約旦河的尾頭;北爿的界是對海的舌頭、約旦河的尾頭起,",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "閣界"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "向東爿"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "彼個鹹的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "尾頭"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "閣界"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "對…的邊仔"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "北爿"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "對海的舌頭"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼個海"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "對…的尾頭"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:21.646013363Z",
+  "model": "glm-5.3"
+}

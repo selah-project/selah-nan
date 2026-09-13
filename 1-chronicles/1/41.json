@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞拿的後生是以旬;以旬的後生是哈姆蘭、以實班、以特蘭、佮基蘭。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "亞拿"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "以旬"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "佮…的後生"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "以旬"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "哈姆蘭"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "佮以實班"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "佮以特蘭"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "佮基蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:55.253781482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 25:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣,遮是以實瑪利在世的年日:一百歲、佮三十歲、佮七歲;伊斷氣死去,伊受聚集到伊的百姓遐。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣遮"
+    },
+    {
+      "surface": "שני",
+      "gloss": "…的年日"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "在世"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "佮三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "佮七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "伊斷氣"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死去"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "伊受聚集"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "伊的百姓遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:16.351327136Z",
+  "model": "glm-5.3"
+}

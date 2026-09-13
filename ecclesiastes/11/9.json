@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 11:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "少年人啊,佇你的少年時期歡喜,佇你少年的日子互你的心好好對待你;行你的心所愛行的路,佮你的目睭所看的,毋閣你著知:因為對這一切,以羅欣欲帶你入審判。",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "בילדותיך",
+      "gloss": "佇你的少年時期"
+    },
+    {
+      "surface": "ויטיבך",
+      "gloss": "互你的心好好對待你"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "בחורותך",
+      "gloss": "你的少年"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "…所愛行的路"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "ובמראי",
+      "gloss": "佮…所看的"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "毋閣你著知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "欲帶你入"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "審判"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:43.571701140Z",
+  "model": "glm-5.3"
+}

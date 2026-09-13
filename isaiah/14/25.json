@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "欲佇我的地拍破亞述,佇我的山陵踐踏伊;伊的軛對𪜶身上取消,伊的重擔對𪜶的肩頭移開。",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "欲拍破"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "佇我的地"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "我的山陵"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "踐踏伊"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "取消"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "對𪜶身上"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "伊的軛"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "伊的重擔"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "𪜶的肩頭"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "移開"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:56.560538729Z",
+  "model": "glm-5.3"
+}

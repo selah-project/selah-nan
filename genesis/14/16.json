@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊搶轉來⟨את⟩所有的財物,嘛搶轉來⟨את⟩伊的兄弟羅得佮伊的財物,嘛有⟨את⟩遐的婦人人,閣有⟨את⟩遐的百姓。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "搶轉來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的財物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "財物"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的兄弟羅得"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "佮伊的財物"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "搶轉來"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛有"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遐的婦人人"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "婦人人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "遐的百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:51.608753424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "塞特生了⟨את⟩以挪士了後,閣活八百零七年,就生查甫囝佮查某囝。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "活"
+    },
+    {
+      "surface": "שת",
+      "gloss": "塞特"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以挪士"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "以挪士"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "閣八"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "就生"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "查甫囝"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "佮查某囝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:03.065494112Z",
+  "model": "glm-5.3"
+}

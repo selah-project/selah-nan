@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "毋通嫉妒強暴的人,嘛毋通揀伊任何的一條路。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "嫉妒"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "對…的人"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "揀"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…一切"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "伊的路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:14.168373946Z",
+  "model": "glm-5.3"
+}

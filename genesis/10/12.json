@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣⟨את⟩利鮮,佇尼尼微佮迦拉中間——彼就是彼个大城。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "利鮮"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "利鮮"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "迦拉"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼就是"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼个城"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:14.457296098Z",
+  "model": "glm-5.3"
+}

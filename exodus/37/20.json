@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "閣佇燈台頂有四個杏仁形的杯,伊的球佮伊的花。",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "閣佇燈台頂"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "個杯"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "杏仁形的"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "伊的球"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "佮伊的花"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:25.721540834Z",
+  "model": "glm-5.3"
+}

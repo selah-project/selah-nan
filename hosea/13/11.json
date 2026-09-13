@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我佇我的受氣中給你一個王,閣我佇我的烈怒中共伊提去。",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "我給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "一個王"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "佇我的受氣中"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "閣我提去"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "佇我的烈怒中"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:20.168075571Z",
+  "model": "glm-5.3"
+}

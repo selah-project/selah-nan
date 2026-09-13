@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 3:37",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣有圍牆院四箍圍的柱仔,佮𪜶的座,佮𪜶的橛仔,佮𪜶的索仔。",
+  "tokens": [
+    {
+      "surface": "ועמדי",
+      "gloss": "閣有…的柱仔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "圍牆院"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍圍"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "佮𪜶的座"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "佮𪜶的橛仔"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "佮𪜶的索仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:57.762125692Z",
+  "model": "glm-5.3"
+}

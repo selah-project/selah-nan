@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "以斯帖就叫哈他革來 —— 伊是王的一名太監,是王徛佇伊面前的 —— 閣命令伊去見末底改,欲知影這是啥物代誌,佮為啥物是按呢。",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "就叫…來"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "哈他革"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "太監(的一名)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是…的"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "徛(安置)"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "閣命令伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "去見"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "欲知影"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這(代誌)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮為"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這(是按呢)"
+    }
+  ],
+  "timestamp": "2026-09-13T04:50:37.016269638Z",
+  "model": "glm-5.3"
+}

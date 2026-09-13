@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "曠野佮焦燥的地欲歡喜;旱地(亞拉巴)欲快樂,欲開花親像玫瑰花。",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "欲歡喜"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "佮焦燥的地"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "欲快樂"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "旱地(亞拉巴)"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "欲開花"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "親像玫瑰花"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:49.962288500Z",
+  "model": "glm-5.3"
+}

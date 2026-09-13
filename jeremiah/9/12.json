@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威講:因為𪜶放棄⟨את⟩我的律法,就是我排佇𪜶面前的,𪜶無順趁我的聲,嘛無照彼行。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "𪜶放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的律法"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我的律法"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我排"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "佇𪜶面前"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "順趁"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "בה",
+      "gloss": "照彼"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:09.373632118Z",
+  "model": "glm-5.3"
+}

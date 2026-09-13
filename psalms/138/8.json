@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 138,
+  "translation": "雅威欲替我成就;雅威啊,祢的赫瑟德(慈愛)到永遠;祢雙手的工,祢毋通放袂記。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "欲成就"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "祢的赫瑟德"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "…的工"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "祢雙手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "放袂記"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:46.060404675Z",
+  "model": "glm-5.3"
+}

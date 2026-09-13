@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 5:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威啊,你對西珥出來,你對以東的田野踏行的時,地搖動,天嘛滴落,雲嘛滴落水。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "你出來的時"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "對西珥"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "你踏行的時"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "對…的田野"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "滴落"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "滴落"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T02:30:45.796257738Z",
+  "model": "glm-5.3"
+}

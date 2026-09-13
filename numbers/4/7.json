@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣佇陳設餅的桌仔頂面,𪜶欲展開藍紫色的布,欲佇頂面下⟨את⟩盤仔、⟨את⟩杯仔、⟨את⟩碗仔,佮⟨את⟩澆祭的甕仔;常設的餅欲佇頂面。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣佇……頂面"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "陳設(面)的"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "𪜶欲展開"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "布"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "藍紫色"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "欲下"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "盤仔"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "盤仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "杯仔"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "杯仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "碗仔"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "碗仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "澆祭的甕仔"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "甕仔"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "澆祭的"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "佮餅"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "常設的"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲佇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:37.633495187Z",
+  "model": "glm-5.3"
+}

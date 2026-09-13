@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "以色列的以羅欣講,以色列的磐石對我講:佇人的頂面統治的,公義來統治,佇敬畏以羅欣來統治。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "統治"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "佇人"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "統治"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:02.104903857Z",
+  "model": "glm-5.3"
+}

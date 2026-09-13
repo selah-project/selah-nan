@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "恁設計謀,計謀欲破碎;恁講話,話毋會成立,因為以勒佮咱佇咧。",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "恁設"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "欲破碎"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "恁講"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋會"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "成立"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "佮咱"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:33.588679509Z",
+  "model": "glm-5.3"
+}

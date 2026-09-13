@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "因為耳仔試驗話,親像嘴胛嚐味通食。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "話"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "試驗"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "嘴胛"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "嚐味"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "通食"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:02.893164094Z",
+  "model": "glm-5.3"
+}

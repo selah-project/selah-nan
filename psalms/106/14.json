@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶佇曠野起貪慾,佇荒漠試探以勒。",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "起貪慾"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "貪慾"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "試探"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "佇荒漠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:17.250109035Z",
+  "model": "glm-5.3"
+}

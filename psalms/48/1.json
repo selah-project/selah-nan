@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "一首歌,一篇詩,可拉的後生的。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "一篇詩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的後生的"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.901090453Z",
+  "model": "glm-5.3"
+}

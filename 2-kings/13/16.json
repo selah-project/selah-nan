@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊對以色列的王講:「將你的手按佇弓頂。」伊就將手按落去;以利沙將伊的雙手按佇王的手面頂。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "對王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "按"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "按落去"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "放置"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的雙手"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……面頂"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:04.675381982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威咱的以羅欣就交伊佇阮面前,阮擊打⟨את⟩伊,佮⟨את⟩伊的囝,佮⟨את⟩伊所有的百姓。",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "就交伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "佇阮面前"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "阮擊打"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的囝"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊所有的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:35.421215364Z",
+  "model": "glm-5.3"
+}

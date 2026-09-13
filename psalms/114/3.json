@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 114,
+  "translation": "海看見就走閃,約旦河倒轉向後壁。",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "就走閃"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "向後壁"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:20.747674037Z",
+  "model": "glm-5.3"
+}

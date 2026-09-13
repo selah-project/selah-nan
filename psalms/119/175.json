@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "願我的性命活起來,伊就會讚美你;你的判斷嘛會援助我。",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "願……活起來"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "伊就會讚美你"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "你的判斷"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "嘛會援助我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:42.039617154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣祭司欲互⟨את⟩彼个婦人啉⟨את⟩這个苦水，就是會咒詛个苦水，閣這个會咒詛个水欲入去伊个身軀內做苦。",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "欲互…啉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个婦人"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼个婦人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个苦水"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "苦个"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "會咒詛个"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "閣入去"
+    },
+    {
+      "surface": "בה",
+      "gloss": "入伊身內"
+    },
+    {
+      "surface": "המים",
+      "gloss": "這个水"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "會咒詛个"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "做苦"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:06.613372924Z",
+  "model": "glm-5.3"
+}

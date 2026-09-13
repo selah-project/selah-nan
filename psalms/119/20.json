@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的性命為著對你判語的渴慕,碾到破裂,逐時攏按呢。",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "碾到破裂"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "為著……的渴慕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判語"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "逐……攏"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:12.355205226Z",
+  "model": "glm-5.3"
+}

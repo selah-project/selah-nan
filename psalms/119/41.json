@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "願你的赫瑟德到我遮,雅威啊,閣有你的拯救,照你的話。",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "願…到我遮"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "你的拯救"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "照你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:05.743942339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "雅威照我的公義給我報還,照我雙手佇伊目睭前的清氣來還我。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "給我報還"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "照我的公義"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "照…的清氣"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我雙手"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "佇…前"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:44.198267667Z",
+  "model": "glm-5.3"
+}

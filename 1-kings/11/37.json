@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 11:37",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣 ⟨את⟩ 你我欲提,你欲照你的性命所向望的一切做王,閣你欲做以色列的王。",
+  "tokens": [
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "我欲提"
+    },
+    {
+      "surface": "ומלכת",
+      "gloss": "你欲做王"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "向望"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "統治"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:15.000036637Z",
+  "model": "glm-5.3"
+}

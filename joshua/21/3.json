@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "以色列人就對𪜶的家業中,照雅威的嘴所命令的,將⟨את⟩遮的城佮⟨את⟩𪜶的郊野給利未人。",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "就給"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "予利未人"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "對𪜶的家業中"
+    },
+    {
+      "surface": "אל",
+      "gloss": "照"
+    },
+    {
+      "surface": "פי",
+      "gloss": "嘴"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮的城"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遮的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的郊野"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "𪜶的郊野"
+    }
+  ],
+  "timestamp": "2026-09-12T02:27:18.424484433Z",
+  "model": "glm-5.3"
+}

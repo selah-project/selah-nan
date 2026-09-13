@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "希西家王的奴僕就來到以賽亞遐。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "就來到"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "以賽亞遐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:46.440108983Z",
+  "model": "glm-5.3"
+}

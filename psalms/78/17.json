@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "閣𪜶猶原閣再得罪伊,佇焦燥的曠野悖逆至高者。",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶原"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "得罪"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "佇焦燥的曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:16.453214755Z",
+  "model": "glm-5.3"
+}

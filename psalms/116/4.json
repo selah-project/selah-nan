@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "我就用雅威的名求叫:喔,雅威啊,救我的命!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "用…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我就求叫"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "喔,我求你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "救"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:01.590227180Z",
+  "model": "glm-5.3"
+}

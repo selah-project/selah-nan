@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "雅威啊,以羅欣·采巴奧特,到啥物時陣你猶對你子民的祈禱冒煙〈受氣〉?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "冒煙〈受氣〉"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "佇……的祈禱"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的子民"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:28.830760172Z",
+  "model": "glm-5.3"
+}

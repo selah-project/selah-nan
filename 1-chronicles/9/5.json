@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣對示羅尼人的中間,有亞撒雅𪜶的頭生子,佮伊的後生。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "示羅尼人"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "亞撒雅"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "佮伊的後生"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:45.094104941Z",
+  "model": "glm-5.3"
+}

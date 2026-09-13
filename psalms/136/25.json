@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "伊賞賜麵包予一切的肉身,因為伊的赫瑟德(慈愛)存到永遠。",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "麵包"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "予一切的"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉身"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德(慈愛)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:11.014587671Z",
+  "model": "glm-5.3"
+}

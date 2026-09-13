@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "伊欲閣活到永遠,嘛毋通看著坑穴。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "伊欲閣活"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "看著"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "坑穴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.606643887Z",
+  "model": "glm-5.3"
+}

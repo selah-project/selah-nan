@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "佇夢內底,佇暗暝的異象,當沉睡落佇人身上的時,佇眠床頂的打盹——",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "佇夢內底"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暗暝的"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "當……落的時"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "沉睡"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……身上"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "佇打盹中"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "頂"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "眠床"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:01.833291324Z",
+  "model": "glm-5.3"
+}

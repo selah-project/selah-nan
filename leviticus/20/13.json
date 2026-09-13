@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣若有男人睏 ⟨את⟩ 男性,用佮查某人睏的款式,𪜶兩个做了可憎的事;一定愛處死𪜶,𪜶的血歸佇𪜶家己身上。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣若有男人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "睏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "男性"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男性"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "睏的款式"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做了"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "𪜶兩个"
+    },
+    {
+      "surface": "מות",
+      "gloss": "一定愛處死"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "處死𪜶"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "𪜶的血"
+    },
+    {
+      "surface": "בם",
+      "gloss": "歸佇𪜶身上"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:07.194086324Z",
+  "model": "glm-5.3"
+}

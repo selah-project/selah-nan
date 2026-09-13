@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "大衛蹛佇非利士人田園的日子,數目是幾若日佮四個月。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "是"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇…田園"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "幾若日"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:42.867151037Z",
+  "model": "glm-5.3"
+}

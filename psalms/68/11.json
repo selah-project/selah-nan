@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "你的活物徛佇彼內底;你用你的善良為窮人準備,以羅欣啊。",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "你的活物"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בה",
+      "gloss": "彼內底"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "你準備"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "用你的善良"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "為窮人"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:08.615657576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "聽啊,請恁聽這个:雅各的家的頭人,佮以色列的家的官長,就是𪜶予公平見笑、閣將⟨את⟩一切的正直彎曲掉的。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啊,請"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "佮官長"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "המתעבים",
+      "gloss": "𪜶予…見笑"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "一切的正直"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הישרה",
+      "gloss": "正直"
+    },
+    {
+      "surface": "יעקשו",
+      "gloss": "彎曲掉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:32.175458324Z",
+  "model": "glm-5.3"
+}

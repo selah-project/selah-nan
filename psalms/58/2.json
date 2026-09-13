@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "「恁真正啞咪公道,恁咧講嗎?恁審判正直嗎,世間人的子?」",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "真正"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "啞咪"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公道"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "恁咧講"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "正直"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "恁審判"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "世間人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:38.672743999Z",
+  "model": "glm-5.3"
+}

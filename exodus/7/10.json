@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "摩西佮亞倫就入去見法老,照雅威所命令的按呢做;亞倫擲⟨את⟩伊的枴仔佇法老面前佮伊的奴僕面前,枴仔就變做坦寧。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "就入去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "見"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "𪜶做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照…所"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "就擲"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的枴仔"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "伊的枴仔"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "閣佇…面前"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就變做"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "坦寧"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:23.097263857Z",
+  "model": "glm-5.3"
+}

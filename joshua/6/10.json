@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣約書亞命令⟨את⟩彼個百姓講:『恁毋通喝,嘛毋通予⟨את⟩恁的聲予人聽著,恁的喙內一句話嘛毋通出來,一直到我對恁講「喝!」的彼日,恁才喝。』",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼個百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼個百姓"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "喝"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "予人聽著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的聲"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "恁的聲"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "對恁的喙"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "יום",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "喝"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "恁才喝"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:55.646127580Z",
+  "model": "glm-5.3"
+}

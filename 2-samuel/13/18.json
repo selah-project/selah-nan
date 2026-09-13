@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 13:18",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "佇伊身上 ⟨是⟩ 一件彩色的長衫,因為王的女兒、在室的,攏按呢穿外袍;伊的僕人就共 ⟨את⟩ 伊趕出去外面,共門仔閂起來佇伊後面。",
+  "tokens": [
+    {
+      "surface": "ועליה",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "長衫"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "彩色的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תלבשן",
+      "gloss": "攏穿"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "在室的"
+    },
+    {
+      "surface": "מעילים",
+      "gloss": "外袍"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "趕出去"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "伊的僕人"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "去外面"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "共門仔閂起來"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "門仔"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "佇伊後面"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:11.013749508Z",
+  "model": "glm-5.3"
+}

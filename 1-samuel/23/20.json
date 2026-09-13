@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "今,王啊,照你性命一切所向望的,你欲落來就落來;交付伊佇王的手中,這是阮的工課。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אות",
+      "gloss": "所向望的"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "欲落來"
+    },
+    {
+      "surface": "רד",
+      "gloss": "落來"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "阮的工課是"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "交付伊"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手中"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:01.629746074Z",
+  "model": "glm-5.3"
+}

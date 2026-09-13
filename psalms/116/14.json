@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "我的願我欲還雅威,佇伊全體百姓的面前,求你。",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "我的願"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "還"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:02.364311998Z",
+  "model": "glm-5.3"
+}

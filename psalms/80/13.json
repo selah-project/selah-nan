@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "為啥物你拆破伊的籬笆,致使逐个過路的人攏摘伊?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "你拆破"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "伊的籬笆"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "致使伊被摘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "過路的人"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.907090607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊坐佇庄頭的埋伏所在,佇隱密的所在刣死無辜的人;伊的眼睛暗暗觀察,欲看無倚靠的人。",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "伊坐"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "佇埋伏所在"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "庄頭"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "佇隱密的所在"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜的人"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的眼睛"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "無倚靠的人"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "暗暗觀察"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:51.133894551Z",
+  "model": "glm-5.3"
+}

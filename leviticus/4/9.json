@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣⟨את⟩兩粒腰子,佮⟨את⟩彼个佇𪜶頂面的油,就是佇腰骨頂面的彼个,閣⟨את⟩肝頂的網油,佇腰子的頂面,伊欲提掉。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "兩粒腰子"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩粒"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腰子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼个油"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "腰骨"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "網油"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "網油"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "腰子"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "伊欲提掉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:04.864513973Z",
+  "model": "glm-5.3"
+}

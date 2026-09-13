@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "讚美雅!向雅威感謝,因為⟨伊⟩好,因為伊的赫瑟德存到永遠。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "感謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:09.697877148Z",
+  "model": "glm-5.3"
+}

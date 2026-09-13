@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣有⟨את⟩鴕鳥的女兒、閣有⟨את⟩暗光鳥、閣有⟨את⟩鷗仔,閣有⟨את⟩鷹仔照伊的類;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "鴕鳥的女兒"
+    },
+    {
+      "surface": "בת",
+      "gloss": "的女兒"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "鴕鳥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "暗光鳥"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "暗光鳥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "鷗仔"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "鷗仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "鷹仔"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "鷹仔"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "照伊的類"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:17.494363704Z",
+  "model": "glm-5.3"
+}

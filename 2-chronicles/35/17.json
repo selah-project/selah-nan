@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "佇彼个時陣,以色列中抵著的眾子民守⟨את⟩逾越節,嘛守⟨את⟩無酵節七日。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "守"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "抵著的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "逾越節"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "逾越節"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇彼个時陣"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "嘛守⟨את⟩",
+      "marks": "無酵節"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節期"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "無酵"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:07.836736324Z",
+  "model": "glm-5.3"
+}

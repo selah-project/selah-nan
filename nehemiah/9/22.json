@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "你賞賜𪜶王國佮列族,照角落分互𪜶;𪜶就承受⟨את⟩西宏的地、⟨את⟩希實本王的地、閣⟨את⟩巴珊王噩的地。",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "你賞賜"
+    },
+    {
+      "surface": "להם",
+      "gloss": "互𪜶"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "佮列族"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "你分𪜶"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "照角落"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "𪜶就承受"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西宏的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "西宏"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "希實本王的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "希實本"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "巴珊王噩的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "噩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:42.763595908Z",
+  "model": "glm-5.3"
+}

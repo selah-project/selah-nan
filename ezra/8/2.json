@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 8:2",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "對非尼哈的後裔中有革順;對以他瑪的後裔中有但以理;對大衛的後裔中有哈突施。",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "對……的後裔中"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "非尼哈"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "革順"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對……的後裔中"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "以他瑪"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對……的後裔中"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "哈突施"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:03.136230492Z",
+  "model": "glm-5.3"
+}

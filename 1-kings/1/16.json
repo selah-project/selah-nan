@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "拔示巴就屈身,向王下拜;王講:「你有啥物代誌?」",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "屈身"
+    },
+    {
+      "surface": "בת",
+      "gloss": "拔"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "閣下拜"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "向王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:54.710085299Z",
+  "model": "glm-5.3"
+}

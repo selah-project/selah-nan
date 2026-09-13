@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "你的聖城變做曠野,錫安變做曠野,耶路撒冷變做荒涼。",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    },
+    {
+      "surface": "היו",
+      "gloss": "變做"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "變做"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:25.282213476Z",
+  "model": "glm-5.3"
+}

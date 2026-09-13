@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "獅子吼,啥人無驚?阿多奈雅威講話,啥人無傳講預言?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "吼"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "傳講預言"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:44.045001482Z",
+  "model": "glm-5.3"
+}

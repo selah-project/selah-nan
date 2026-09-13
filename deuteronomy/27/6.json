@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "用完全的石頭,你欲起雅威、你的以羅欣的祭壇 ⟨את⟩,閣欲佇伊頂面獻燒祭給雅威、你的以羅欣。",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "完全的"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "你欲起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "閣欲獻上去"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:41.687074439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 10:26",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "親像醋傷嘴齒,閣親像煙刺目睭,按呢,懈怠的人對差伊的人也是按呢。",
+  "tokens": [
+    {
+      "surface": "כחמץ",
+      "gloss": "親像醋"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "傷嘴齒"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "閣親像煙"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "刺目睭"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "העצל",
+      "gloss": "懈怠的人"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "對差伊的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:28.200909051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "少年獅缺乏、閣枵飢，獨獨尋求雅威的人，啥物好物攏袂欠缺。",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "少年獅"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "缺乏"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "閣枵飢"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "獨獨尋求……的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "攏袂"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "欠缺"
+    },
+    {
+      "surface": "כל",
+      "gloss": "啥物……攏"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:04.260644848Z",
+  "model": "glm-5.3"
+}

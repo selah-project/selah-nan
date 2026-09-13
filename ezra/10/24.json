@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣對唱歌的:以利亞實;閣對顧門的:沙龍、提連,佮烏利。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "唱歌的"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "以利亞實"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "顧門的"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "沙龍"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "佮提連"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "佮烏利"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:30.189472490Z",
+  "model": "glm-5.3"
+}

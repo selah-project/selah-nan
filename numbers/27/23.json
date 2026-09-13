@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "伊就閣按伊的雙手⟨את⟩佇伊身上，命令伊，照雅威對摩西的手所講的。",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "就按"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的雙手"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的雙手"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "命令伊"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照…所"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:27.475479330Z",
+  "model": "glm-5.3"
+}

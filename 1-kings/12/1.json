@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "拉哈凡(羅波安)去示劍,因為以色列攏來到示劍,欲立⟨את⟩伊做王。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "拉哈凡"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "立伊做王"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(拉哈凡)"
+    }
+  ],
+  "timestamp": "2026-09-12T03:09:00.205659204Z",
+  "model": "glm-5.3"
+}

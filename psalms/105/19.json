@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "一直到伊的話來到的時陣，雅威的言語熬煉伊。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時陣"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "言語"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "熬煉伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:02.959572003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "閣⟨את⟩全拿破利的地,閣⟨את⟩以法蓮的地佮瑪拿西,閣⟨את⟩全猶大地,一直到後尾彼片海。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全拿破利的地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "拿破利"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以法蓮的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "佮瑪拿西"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全猶大地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼片海"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "後尾的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:19.162424136Z",
+  "model": "glm-5.3"
+}

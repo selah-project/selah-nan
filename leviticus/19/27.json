@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "恁毋通剃掉頭殼邊仔的毛,嘛毋通毀壞⟨את⟩你的鬍鬚的邊。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "剃掉"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊仔"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "恁的頭殼"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鬍鬚的邊"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "你的鬍鬚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:59.498944953Z",
+  "model": "glm-5.3"
+}

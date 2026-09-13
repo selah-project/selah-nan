@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "若有魂欲獻素祭互雅威做祭物,伊的祭物著是幼麵粉;伊著搵油佇頂面,閣放乳香佇頂面。",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "若有魂"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "獻"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "幼麵粉"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "著是"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "伊的祭物"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "伊著搵"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "閣放"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "乳香"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:46.643450191Z",
+  "model": "glm-5.3"
+}

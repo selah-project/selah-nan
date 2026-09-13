@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "約拿單佮大衛的家割立約,講:「願雅威對大衛的仇敵的手追究。」",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "割立約"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "願…追究"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:51.556175362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "伊的貴族無徛在彼位,欲有人叫王權,伊的官長攏欲歸無。",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "伊的貴族"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "שם",
+      "gloss": "徛在彼位"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "王權"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "欲有人叫"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "伊的官長"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲歸"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "無"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:41.063509175Z",
+  "model": "glm-5.3"
+}

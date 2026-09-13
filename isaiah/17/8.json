@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊毋欲向祭壇看——伊的手所做的;伊的手指頭所做的,伊嘛毋欲看,無論亞舍拉柱抑是日頭像。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "閣…彼個"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "伊的手指頭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "閣亞舍拉柱"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "閣日頭像"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:55.911800624Z",
+  "model": "glm-5.3"
+}

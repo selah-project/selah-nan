@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "因為彼个國佮彼个王國若毋服事你,就會滅亡;諸个國嘛會全然荒廢。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "彼个國"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "佮彼个王國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "服事你"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "就會滅亡"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "佮諸个國"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "全然荒廢"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "會荒廢"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:51.031591340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "我的皮佮我的肉黏牢我的骨;我干焦用喙齒的皮走閃起來。",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "我的皮"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "佮我的肉"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "黏牢"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "我的骨"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "我走閃起來"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "用……的皮"
+    },
+    {
+      "surface": "שני",
+      "gloss": "喙齒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:25:57.516187338Z",
+  "model": "glm-5.3"
+}

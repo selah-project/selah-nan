@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "對猶大人來講,有光明,有歡喜,有快樂,有尊貴。",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "對猶大人"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "有"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "光明"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "尊貴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:45.158353775Z",
+  "model": "glm-5.3"
+}

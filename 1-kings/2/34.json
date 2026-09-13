@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 2:34",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "耶何耶大的子比拿雅就上去,攻擊伊,刣死伊;𪜶埋葬伊佇伊家,佇曠野。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "就上去"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "比拿雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "刣死伊"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊家"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:40.793564476Z",
+  "model": "glm-5.3"
+}

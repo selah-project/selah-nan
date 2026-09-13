@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "會幕第二爿邊，向北爿，二十塊板。",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "第二爿邊"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕的"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "向"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北爿"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "塊板"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:47.237453822Z",
+  "model": "glm-5.3"
+}

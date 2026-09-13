@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 98,
+  "translation": "雅威已經報人知伊的救恩,佇列國的目睭頭前,伊顯明伊的公義。",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "已經報人知"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "伊的救恩"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "佇…的目睭頭前"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "伊的公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.457522146Z",
+  "model": "glm-5.3"
+}

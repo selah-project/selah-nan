@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "雅各對伊老母利百加講:你看,我阿哥以掃是毛茸茸的人,我⟨是⟩滑溜溜的人。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "利百加"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    },
+    {
+      "surface": "הן",
+      "gloss": "你看"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我阿哥"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛茸茸"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "滑溜溜"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:45.252404406Z",
+  "model": "glm-5.3"
+}

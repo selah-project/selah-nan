@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為我遵守雅威的道路,毋敢對我的以羅欣行歹。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "我遵守"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "道路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋敢"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "行歹"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "對我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:39.935088993Z",
+  "model": "glm-5.3"
+}

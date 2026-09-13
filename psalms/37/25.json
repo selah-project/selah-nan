@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "我做過少年仔,嘛已經老矣,猶毋捌看著義人被放棄,抑是伊的後代咧討飯食。",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "少年仔"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我做過"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "已經老矣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "猶毋"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "捌看著"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "被放棄"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "抑是伊的後代"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "咧討"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "飯食"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:15.211871034Z",
+  "model": "glm-5.3"
+}

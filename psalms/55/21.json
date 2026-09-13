@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "伊伸出伊的手攻擊佮伊和平的人;伊污瀆伊的約。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "佮伊和平的人"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "污瀆"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "伊的約"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:24.212280108Z",
+  "model": "glm-5.3"
+}

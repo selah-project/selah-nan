@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 9:12",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "米非波設有一个細漢囝，名叫米迦；凡蹛佇洗巴的家的，攏做米非波設的奴僕。",
+  "tokens": [
+    {
+      "surface": "ולמפיבשת",
+      "gloss": "米非波設有"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "細漢"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "名叫"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "米迦"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "洗巴"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "做…奴僕"
+    },
+    {
+      "surface": "למפיבשת",
+      "gloss": "米非波設的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:16.579497669Z",
+  "model": "glm-5.3"
+}

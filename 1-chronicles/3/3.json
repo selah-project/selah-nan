@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "第五个是示法提雅,阿比塔生--的;第六个是伊特兰,伊的妻子以格拉--生的。",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "第五个"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "示法提雅"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "阿比塔"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "第六个"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "伊特兰"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "以格拉"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的妻子"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:09.336927762Z",
+  "model": "glm-5.3"
+}

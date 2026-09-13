@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊用石頭擲大衛⟨את⟩佮⟨את⟩王大衛一切的奴僕;毋拘眾百姓佮眾勇士攏徛佇伊的正手爿佮倒手爿。",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "伊擲"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "用石頭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "王大衛一切的奴僕"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "伊的正手爿"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "佮倒手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:27.031004232Z",
+  "model": "glm-5.3"
+}

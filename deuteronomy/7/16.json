@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "你欲吞滅⟨את⟩逐个百姓,就是雅威你的以羅欣欲交互你的;你的目睭毋通憐惜𪜶,嘛毋通服事⟨את⟩𪜶的神明,因為彼个對你是網羅。",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "你欲吞滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "逐个百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "欲交"
+    },
+    {
+      "surface": "לך",
+      "gloss": "互你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "憐惜"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的神明"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的神明"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "網羅"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个是"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:58.588978083Z",
+  "model": "glm-5.3"
+}

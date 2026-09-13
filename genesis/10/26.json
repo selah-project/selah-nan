@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣約坦生⟨את⟩亞勒摩達、⟨את⟩示勒夫、⟨את⟩哈撒瑪委、閣⟨את⟩耶拉。",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "閣約坦"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞勒摩達"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "亞勒摩達"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "示勒夫"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "示勒夫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈撒瑪委"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "哈撒瑪委"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶拉"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "耶拉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:07.898583929Z",
+  "model": "glm-5.3"
+}

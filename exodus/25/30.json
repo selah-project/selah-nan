@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你欲佇彼个桌仔頂排面前的餅,一直佇我面前。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "你欲排"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "彼个桌仔"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面前(面)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "一直"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:02.523680641Z",
+  "model": "glm-5.3"
+}

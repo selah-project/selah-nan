@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你著帶⟨את⟩遮个所做的素祭到雅威遐,就近祭司,伊閣共伊捧到祭壇。",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "著帶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "素祭"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "對遮个"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "到雅威遐"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "就近"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "閣捧到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:28.531899872Z",
+  "model": "glm-5.3"
+}

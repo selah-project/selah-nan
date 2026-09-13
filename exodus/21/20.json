@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "若有人摃⟨את⟩伊的奴僕抑是⟨את⟩伊的婢女,用棍仔,死者佇伊的手下,一定愛受報應。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "摃"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的奴僕"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的婢女"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "伊的婢女"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用棍仔"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "死者"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……下"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "一定"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "愛受報應"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:47.916791265Z",
+  "model": "glm-5.3"
+}

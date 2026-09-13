@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "怎會按呢!彼座城孤孤單單坐啉,多多人民的,竟變做親像寡婦;佇列國中做大的,佇諸省做首領的,竟變做納貢的!",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "怎會按呢"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "坐啉"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "孤孤單單"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "做大"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民的"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "變做"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "親像寡婦"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "做大的"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "做首領的"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "佇諸省"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "竟變做"
+    },
+    {
+      "surface": "למס",
+      "gloss": "納貢的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:55.362040395Z",
+  "model": "glm-5.3"
+}

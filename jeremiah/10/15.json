@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "虛空是𪜶,是迷惑的工;佇𪜶受察訪的時,𪜶欲滅無。",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "המה",
+      "gloss": "是𪜶"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "…的工"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "迷惑"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…的時"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "𪜶受察訪"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "𪜶欲滅無"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:52.255559757Z",
+  "model": "glm-5.3"
+}

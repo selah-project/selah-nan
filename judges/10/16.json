@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶對𪜶中間除去 ⟨את⟩外邦的神,來服事 ⟨את⟩雅威;雅威的性命對以色列的苦楚袂堪得。",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "除去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "外邦的神"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的神"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "外邦"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "對𪜶中間"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "來服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "變短"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "對…的苦楚"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:32:38.876823168Z",
+  "model": "glm-5.3"
+}

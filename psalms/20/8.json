@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "遮的靠戰車,彼的靠馬;阮欲數念阮的以羅欣雅威的名。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮的"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "靠戰車"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "佮彼的"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "靠馬"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "佇…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "數念"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:42.868282480Z",
+  "model": "glm-5.3"
+}

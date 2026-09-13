@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣我,看啊,我佇遮,我欲堅固⟨את⟩米茲拉因人的心,𪜶就欲入去追佇𪜶後面,我欲得著榮光,佇法老身上,佮伊全副的軍力,佇伊的戰車頂,佮伊的騎兵。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我佇遮"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "欲堅固"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米茲拉因人的心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "𪜶就欲入去追"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "佇𪜶後面"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "我欲得著榮光"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "佇法老身上"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "佮全副"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "伊的軍力"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "佇伊的戰車頂"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "佮伊的騎兵"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:23.650540607Z",
+  "model": "glm-5.3"
+}

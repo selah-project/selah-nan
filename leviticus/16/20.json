@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊為⟨את⟩聖所、⟨את⟩聚會的帳幕、⟨את⟩祭壇贖罪了後,閣牽⟨את⟩彼隻活的山羊仔公來。",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "了後"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖所"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "聚會的帳幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "聚會"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "閣牽來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻活的山羊仔公"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "彼隻山羊仔公"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:13.696952761Z",
+  "model": "glm-5.3"
+}

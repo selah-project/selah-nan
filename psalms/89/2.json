@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "雅威的赫瑟德(慈愛)我欲唱到永遠;一代閣一代,我欲用我的喙傳揚祢的信實。",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "赫瑟德(慈愛)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我欲唱"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "我欲傳揚"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "祢的信實"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "用我的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:32.113929368Z",
+  "model": "glm-5.3"
+}

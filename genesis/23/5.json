@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "赫的後生就應亞伯拉罕 ⟨את⟩,對伊按呢講:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "就應"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "חת",
+      "gloss": "赫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "按呢講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:22.790171463Z",
+  "model": "glm-5.3"
+}

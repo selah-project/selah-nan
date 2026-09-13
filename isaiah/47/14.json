@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "看啊,𪜶親像稻草,火燒𪜶;𪜶救𪜶家己的性命 ⟨את⟩ 袂離火焰的手。無炭火通燒暖,也無火通坐佇伊面前。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "היו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "稻草"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "燒𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "性命"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "性命"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "火焰"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "炭火"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "通燒暖"
+    },
+    {
+      "surface": "אור",
+      "gloss": "火"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "通坐"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "佇伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:01.823659928Z",
+  "model": "glm-5.3"
+}

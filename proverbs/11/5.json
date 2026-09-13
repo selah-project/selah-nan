@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "完全人的公義會修正伊的路;歹人會因為家己的邪惡倒落去。",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "公義"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全人"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "會修正"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "因為家己的邪惡"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.641260779Z",
+  "model": "glm-5.3"
+}

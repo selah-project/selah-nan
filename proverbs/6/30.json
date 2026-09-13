@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "人袂看輕賊仔,當伊為著填飽伊的性命去偷,因為伊肚枵。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "袂看輕"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "賊仔"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "去偷"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "為著填飽"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "肚枵"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:54.438705757Z",
+  "model": "glm-5.3"
+}

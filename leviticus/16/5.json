@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊閣愛對⟨את⟩以色列子兒的會眾掠兩隻山羊公做贖罪祭,閣一隻公羊做燔祭。",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "閣對⟨את⟩",
+      "marks": "以色列子兒的會眾"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "掠"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩隻"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "山羊公"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做贖罪祭"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "閣公羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "做燔祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:00.936950399Z",
+  "model": "glm-5.3"
+}

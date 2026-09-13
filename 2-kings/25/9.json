@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "伊放火燒⟨את⟩雅威的殿,佮⟨את⟩王的殿,閣⟨את⟩耶路撒冷所有的厝,佮⟨את⟩逐間大厝,伊攏用火燒予無去。",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "放火燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "王的殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "所有的厝"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "逐間大厝"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐間"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:41.844670461Z",
+  "model": "glm-5.3"
+}

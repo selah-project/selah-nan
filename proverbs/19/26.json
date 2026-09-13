@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "「毀壞老父、趕走老母⟨的⟩,是一个予人見笑、閣帶來恥辱⟨的⟩囝。」",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "אב",
+      "gloss": "老父"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "אם",
+      "gloss": "老母"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "予人見笑"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "閣帶來恥辱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:57.639532198Z",
+  "model": "glm-5.3"
+}

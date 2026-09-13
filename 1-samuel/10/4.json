@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶會向你問平安，閣會給你兩个麵包；你著對𪜶的手提。",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "𪜶會問"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "𪜶會給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "麵包"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "你著提"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "對𪜶的手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:00.876416901Z",
+  "model": "glm-5.3"
+}

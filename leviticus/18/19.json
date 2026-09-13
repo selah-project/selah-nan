@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "到佇女人月經中、伊無清潔的期間,你毋通親近,來揭開伊的赤露。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "月經中(隔離的期間)"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "伊的無清潔"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "親近"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "來揭開"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "伊的赤露"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:05.153365847Z",
+  "model": "glm-5.3"
+}

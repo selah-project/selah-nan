@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣𪜶是汝的奴僕佮汝的百姓,是汝用大氣力佮勇健的手所贖回來的。",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "閣𪜶"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "汝的奴僕"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "佮汝的百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是…的"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "汝贖回"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "用汝的氣力"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "佮用汝的手"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "勇健的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:52:02.104386070Z",
+  "model": "glm-5.3"
+}

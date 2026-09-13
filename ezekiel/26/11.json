@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 26:11",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "用伊馬匹的蹄,伊欲踏破⟨את⟩你所有的街路;伊欲用刀殺死你的百姓,你氣力的柱仔欲倒落土腳。",
+  "tokens": [
+    {
+      "surface": "בפרסות",
+      "gloss": "用…的蹄"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "伊的馬匹"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "欲踏破"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你所有的街路"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "חוצותיך",
+      "gloss": "你的街路"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "欲殺死"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "佮…的柱仔"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你氣力的"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "倒落土腳"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "欲落去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:44.877968312Z",
+  "model": "glm-5.3"
+}

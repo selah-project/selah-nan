@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為亞蘭的頭是大馬士革,大馬士革的頭是利汛;閣較無六十五年,以法連就會破,毋成做百姓。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "的頭"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "佮…的頭"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "利汛"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "閣較無"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "佮五"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "會破"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法連"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "毋成做百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:13.720486877Z",
+  "model": "glm-5.3"
+}

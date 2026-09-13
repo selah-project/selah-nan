@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "剩的會倒轉——雅各的剩的——歸向以勒,大能者。",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "剩的"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "會倒轉"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "剩的"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "歸向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "大能者"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:03.110384305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "摩西就閣𪜶上山,亞倫、拿答、亞比戶,佮以色列的長老中間七十个,嘛上山。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上山"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "拿答"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "亞比戶"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "長老中間的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:20.135010556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "用你的計謀你引導我,了後你接我去榮光。",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "用你的計謀"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "你引導我"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "你接我去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:20.760081919Z",
+  "model": "glm-5.3"
+}

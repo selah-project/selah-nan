@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣你城牆懸懸的保障,伊欲互伊陷落、互伊降低、互伊捙落到土腳,一直到塗粉。",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "閣……保障"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "懸懸的碉堡"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "你的城牆"
+    },
+    {
+      "surface": "השח",
+      "gloss": "互伊陷落"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "互伊降低"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "互伊捙落"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "到土腳"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塗粉"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:39.833112684Z",
+  "model": "glm-5.3"
+}

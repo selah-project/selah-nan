@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "任何食著血的靈魂,彼个靈魂會對伊的百姓中間被剪除。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "靈魂"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食著"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "會被剪除"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "彼个靈魂"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "對伊的百姓中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:49.135159037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "今,雅威啊,你是阮的父;阮是土,你是塑造阮的,阮攏是你手的作品。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "阮的父"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "是土"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "你是"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "塑造阮的"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "的作品"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "阮攏"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:30.048008948Z",
+  "model": "glm-5.3"
+}

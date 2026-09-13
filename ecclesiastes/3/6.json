@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "有時陣欲揣,亦有時陣欲放棄;有時陣欲保存,亦有時陣欲擲掉。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "欲揣"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "欲放棄"
+    },
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "欲保存"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "欲擲掉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:55.140716638Z",
+  "model": "glm-5.3"
+}

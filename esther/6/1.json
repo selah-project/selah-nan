@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "佇彼暝,王的睏走閃去,伊就講愛提⟨את⟩記念之冊、日常的大事記錄,𪜶就佇王面前予人唸出來。",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "佇彼暝"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "走閃去"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "睏"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "愛提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "記念之冊"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "記念的"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "大事"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日常的"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "𪜶就"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "予人唸出來"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:52.544659618Z",
+  "model": "glm-5.3"
+}

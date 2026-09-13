@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "嗐!逐个喙乾的,攏來到水遮;彼个無銀的,來買來食;來,買酒佮奶,無銀嘛無價數。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "嗐"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "喙乾的"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "來"
+    },
+    {
+      "surface": "למים",
+      "gloss": "到水"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮彼个"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "來"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "買"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "來食"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "來"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "買"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "價數"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "佮奶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:50.892078194Z",
+  "model": "glm-5.3"
+}

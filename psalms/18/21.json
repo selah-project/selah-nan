@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "雅威照我的公義款待我,照我雙手的清潔伊報答我。",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "款待我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "照我的公義"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "照……的清潔"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的雙手"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "伊報答"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:15.528249406Z",
+  "model": "glm-5.3"
+}

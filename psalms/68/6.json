@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "孤兒的阿父,寡婦的審判者,⟨是⟩以羅欣,佇伊聖的居所。",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "阿父"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "佮審判"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "佇居所"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:10.835572052Z",
+  "model": "glm-5.3"
+}

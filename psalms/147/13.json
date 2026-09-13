@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "因為伊有互你城門的門閂堅固,閣佇你的中路有祝福你的子兒。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "互…堅固"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "門閂"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "你城門的"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的子兒"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "佇你的中路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:29.273599602Z",
+  "model": "glm-5.3"
+}

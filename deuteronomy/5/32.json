@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "恁著謹慎去行,照雅威恁的以羅欣所命令 ⟨את⟩ 恁的;恁毋通偏離正右,嘛毋通偏左。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "恁著謹慎"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去行"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "偏離"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "正右"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "嘛毋通偏左"
+    }
+  ],
+  "timestamp": "2026-09-12T06:25:20.117649143Z",
+  "model": "glm-5.3"
+}

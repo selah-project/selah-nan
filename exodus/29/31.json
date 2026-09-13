@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣⟨את⟩按立禮彼隻公羊,你欲掠,閣你欲佇聖的所在煮⟨את⟩伊的肉。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "按立禮彼隻公羊"
+    },
+    {
+      "surface": "איל",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "按立禮"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "你欲掠"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "閣你欲煮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的肉"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "佇所在"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:56.425493191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊獻 ⟨את⟩ 佇遐、佇祭壇頂所有的邱壇祭司,燒 ⟨את⟩ 人的骨佇 𪜶 頂面,就倒轉去耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "伊獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的邱壇祭司"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "伊燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人的骨"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骨"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇 𪜶 頂面"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就倒轉去"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:28.540347686Z",
+  "model": "glm-5.3"
+}

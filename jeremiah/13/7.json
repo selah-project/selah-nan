@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我就去比拉特,掘,對我埋匿彼條腰帶的所在提⟨את⟩彼條腰帶;看啊,彼條腰帶敗壞矣,啥物路用攏無。",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "比拉特"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "掘"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼條腰帶"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "彼條腰帶"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "我埋匿伊"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "敗壞"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "彼條腰帶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "有路用"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "啥物…攏"
+    }
+  ],
+  "timestamp": "2026-09-12T03:51:18.140733526Z",
+  "model": "glm-5.3"
+}

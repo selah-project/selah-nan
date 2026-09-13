@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "約拿單閣再互 ⟨את⟩ 大衛起誓,出於伊對伊的疼 ⟨את⟩ 伊,因為伊用家己性命的疼,疼伊。",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "互…起誓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "出於伊的疼"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "…的疼"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "疼伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:38.018255123Z",
+  "model": "glm-5.3"
+}

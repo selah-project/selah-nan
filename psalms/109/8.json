@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願伊的日子無幾若日,願別人提伊的職分。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "願成做"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "伊的日子"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "無幾若"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "伊的職分"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.772178218Z",
+  "model": "glm-5.3"
+}

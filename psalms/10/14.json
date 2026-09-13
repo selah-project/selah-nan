@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "汝有看見,因為汝注視勞苦佮冤枉,欲用手來報應;患難人將家己交託佇汝;孤兒,汝做伊的幫助者。",
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "汝有看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞苦"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "佮冤枉"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "注視"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "欲報應"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "用汝的手"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "佇汝"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "放交託"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "患難人"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "היית",
+      "gloss": "有做"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "幫助者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:26.579548734Z",
+  "model": "glm-5.3"
+}

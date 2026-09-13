@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "因為阮妒忌彼款哮嗨的人,看著歹人的平安。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "阮妒忌"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "彼款哮嗨的人"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "阮看著"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:25.229846207Z",
+  "model": "glm-5.3"
+}

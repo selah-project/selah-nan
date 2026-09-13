@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "𪜶搥⟨את⟩金仔做薄葉仔,閣鉸做幼線,通佇藍色內底、佇紫色內底、佇朱紅蟲仔色內底、佇苧麻內底做工,設計的工。",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "𪜶搥薄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金仔的薄葉仔"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "薄葉仔"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金仔的"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "閣鉸"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "幼線"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "通做"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…內底"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "藍色"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "佮佇…內底"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "紫色"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "佮佇…內底"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "朱紅蟲仔"
+    },
+    {
+      "surface": "השני",
+      "gloss": "色"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "佮佇…內底"
+    },
+    {
+      "surface": "השש",
+      "gloss": "苧麻"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "設計的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:45.472271576Z",
+  "model": "glm-5.3"
+}

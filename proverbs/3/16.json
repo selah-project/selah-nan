@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "長歲壽佇伊的正手,富貴佮榮光佇伊的倒手。",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "歲壽"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "佇伊的正手"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "佇伊的倒手"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "富貴"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "佮榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:38.034808896Z",
+  "model": "glm-5.3"
+}

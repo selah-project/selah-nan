@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 30:21",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "汝翻臉變做殘忍對待我;用汝手的大力,汝攻擊我、怨恨我。",
+  "tokens": [
+    {
+      "surface": "תהפך",
+      "gloss": "翻臉變做"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "殘忍"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對待我"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "用…大力"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "汝手"
+    },
+    {
+      "surface": "תשטמני",
+      "gloss": "攻擊我、怨恨我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:28:25.010588115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "大衛的,訓誨詩。有福氣啊,彼個過犯受擔免⟨的⟩,罪受掩密⟨的⟩!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "受擔免"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "過犯"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "受掩密"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:40.108241972Z",
+  "model": "glm-5.3"
+}

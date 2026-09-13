@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊講:「你去,對這个百姓講:『恁聽,聽了又聽,毋通明白;看,看了又看,毋通知。』」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "講"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "對百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "恁聽"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "聽了又聽"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "明白"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "看"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看了又看"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "知"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:13.694960595Z",
+  "model": "glm-5.3"
+}

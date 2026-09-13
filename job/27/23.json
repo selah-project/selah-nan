@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 27:23",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "人會對伊拍手掌,會用噓聲對伊咻 —— 對伊的所在趕伊離開。",
+  "tokens": [
+    {
+      "surface": "ישפק",
+      "gloss": "拍手"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כפימו",
+      "gloss": "伊的手掌"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "咻噓"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "對伊的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:27:17.505077190Z",
+  "model": "glm-5.3"
+}

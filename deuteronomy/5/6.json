@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "我是雅威,你的以羅欣,是我帶你出埃及地、對奴僕的家出來的。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是…的"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "帶你出來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:16.046447735Z",
+  "model": "glm-5.3"
+}

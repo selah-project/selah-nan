@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣我欲煽動米茲拉因攻擊米茲拉因,逐個欲佮伊的兄弟相刣,逐個佮伊的厝邊相刣,城對城,王國對王國。",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "閣我欲煽動"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "閣相刣"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "對伊的兄弟"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "閣逐個"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "對伊的厝邊"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "對城"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "王國"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "對王國"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:14.532984742Z",
+  "model": "glm-5.3"
+}

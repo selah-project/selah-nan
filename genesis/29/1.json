@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅各舉伊的跤,行到東方人的地。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "舉"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的跤"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行到"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "東方"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:57.545731042Z",
+  "model": "glm-5.3"
+}

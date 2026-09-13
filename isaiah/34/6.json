@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "屬雅威的刀充滿血,用脂油飼甲肥——對羊仔佮山羊仔的血,對公羊腰子的脂油;因為雅威佇波斯拉有獻祭,閣佇以東地有大屠宰。",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威的"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "用脂油飼甲肥"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "對脂油"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "對血"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "佮山羊仔"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "對脂油"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "腰子"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "佇波斯拉"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "閣屠宰"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:20.457308829Z",
+  "model": "glm-5.3"
+}

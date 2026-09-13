@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "一千會倒佇你的身邊,一萬佇你的正手爿,⟨災禍⟩毋會接近你。",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "會倒"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "佇你的身邊"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "佮一萬"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "佇你的正手爿"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "會接近"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:52.815611648Z",
+  "model": "glm-5.3"
+}

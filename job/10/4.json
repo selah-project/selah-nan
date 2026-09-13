@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "汝敢有肉體的眼目?抑是汝看,親像必死的人看的款?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "眼目敢有…抑是"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉體的"
+    },
+    {
+      "surface": "לך",
+      "gloss": "汝"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "親像…看"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "必死的人"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "汝看"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:21.544005829Z",
+  "model": "glm-5.3"
+}

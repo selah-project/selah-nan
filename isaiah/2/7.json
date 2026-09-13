@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊的土地充滿白銀佮黃金,伊的寶庫無尾;伊的土地充滿馬匹,伊的戰車無尾。",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "白銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "佮黃金"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "尾"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "伊的寶庫"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬匹"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "尾"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "伊的戰車"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:12.937205915Z",
+  "model": "glm-5.3"
+}

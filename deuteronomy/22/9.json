@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "你毋通佇你个葡萄園撒基拉伊姆(兩樣混雜个種),免得〈滿額〉成聖——你所撒个種,佮葡萄園个收成,攏總〈被分別起來〉。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "撒"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "你个葡萄園"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "基拉伊姆(兩樣混雜)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "成聖"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "滿額"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "所撒个種"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "你所"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "撒"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "佮…个收成"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "葡萄園个"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:37.313006409Z",
+  "model": "glm-5.3"
+}

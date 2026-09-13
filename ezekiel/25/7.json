@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 25:7",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "所以,看啊,我伸出⟨את⟩我的手佇你身上,欲互你做列國的掠物;我欲對萬民剪除你,對諸個國家消滅你,我欲毀滅你,你就欲知影我就是雅威。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊我"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "佇你身上"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "欲互你"
+    },
+    {
+      "surface": "לבג",
+      "gloss": "做掠物"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "互列國"
+    },
+    {
+      "surface": "והכרתיך",
+      "gloss": "我欲剪除你"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…中"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "והאבדתיך",
+      "gloss": "我欲消滅你"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "諸個國家"
+    },
+    {
+      "surface": "אשמידך",
+      "gloss": "我欲毀滅你"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "你就欲知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:19.233140805Z",
+  "model": "glm-5.3"
+}

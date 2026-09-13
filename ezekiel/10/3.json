@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "基路伯徛佇厝的正爿,當彼個人入去的時;雲充滿⟨את⟩院,就是內院。",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "閣基路伯"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "徛"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "正爿"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "當…入去的時"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "閣雲"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "院(內院)"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "內面的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:11:35.333253592Z",
+  "model": "glm-5.3"
+}

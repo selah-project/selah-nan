@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣地上一切的十分之一——地的種子、樹的果子——攏歸雅威;伊是聖的,歸雅威。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "閣一切"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "十分之一"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "對…的種子"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "對…的果子"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:30.180467865Z",
+  "model": "glm-5.3"
+}

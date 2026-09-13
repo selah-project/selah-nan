@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "手段懶惰的致到散凶,勤緊的手致到富裕。",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "散凶"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做……的"
+    },
+    {
+      "surface": "כף",
+      "gloss": "手段"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "懶惰"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "抑是……的手"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "勤緊的"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "致到富裕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.253626461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "啥緣故你的衫褏紅?你的衣裳哪會若親像踹佇酒醡的人?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "啥緣故"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "紅"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "你的衫褏"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "你的衣裳"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "若親像踹的"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "佇酒醡"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:03.749648718Z",
+  "model": "glm-5.3"
+}

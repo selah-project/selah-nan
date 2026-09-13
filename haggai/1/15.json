@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇彼個月——第六個月——二十佮四彼日，佇大流士王第二年。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "第…個月"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "佇第六"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "大流士"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:14.927178109Z",
+  "model": "glm-5.3"
+}

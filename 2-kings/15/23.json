@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 15:23",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佇猶大王亞撒利雅第五十年,米拿現的子比加雅佇撒馬利亞做以色列的王,做兩年。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "לעזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "比加雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "米拿現"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒馬利亞"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "兩年"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:18.045307238Z",
+  "model": "glm-5.3"
+}

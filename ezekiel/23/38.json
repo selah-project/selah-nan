@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "閣再,這項𪜶嘛對我做:佇彼日,𪜶玷污⟨את⟩我的聖所,嘛玷瀆⟨את⟩我的安息日。",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這項"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "玷污"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的聖所"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "我的聖所"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的安息日"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "我的安息日"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "玷瀆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:12.444923604Z",
+  "model": "glm-5.3"
+}

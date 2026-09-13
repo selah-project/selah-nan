@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "⟨את⟩頭一隻羊仔,你欲佇早起辦理;閣⟨את⟩第二隻羊仔,你欲佇兩个黃昏之間辦理。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭一隻羊仔"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "彼羊仔"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "頭一隻"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲辦理"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "第二隻羊仔"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "彼羊仔"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二隻"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲辦理"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…之間"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "兩个黃昏"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:46.465773354Z",
+  "model": "glm-5.3"
+}

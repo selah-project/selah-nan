@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "西布倫的後生有:色列、以倫、雅利勒。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "西布倫"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "色列"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "以倫"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "雅利勒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:31.906633576Z",
+  "model": "glm-5.3"
+}

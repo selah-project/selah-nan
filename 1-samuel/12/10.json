@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "𪜶向雅威哀求,講:咱犯罪矣,因為阮離棄⟨את⟩雅威,去服事⟨את⟩諸個巴力佮⟨את⟩諸個亞斯她錄;今救阮脫離阮對敵的手,阮就欲服事你。",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "哀求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "咱犯罪矣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "阮離棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "去服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個巴力"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "諸個巴力"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "諸個亞斯她錄"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "諸個亞斯她錄"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "救阮"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "阮的對敵"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "阮就欲服事你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:38.136142628Z",
+  "model": "glm-5.3"
+}

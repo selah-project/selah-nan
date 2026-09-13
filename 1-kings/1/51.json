@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 1:51",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "有人共所羅門報講:「你看,亞多尼雅驚⟨את⟩所羅門王,閣看,伊抱牢祭壇的角,講:『所羅門王今仔日著對我咒誓,袂用刀刣死伊的奴僕⟨את⟩。』」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "報"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "共所羅門"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "閣看"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "抱牢"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "角"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "אם",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的奴僕"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:39.383434273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "因為雅威叫你,親像一个被放棄、心神艱苦的查某人,閣像少年的某,當伊受棄嫌的時陣,你的以羅欣按呢講。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "親像查某人"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "被放棄"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "閣艱苦"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "心神"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "叫你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "閣某"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "少年"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "受棄嫌"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:14.798208940Z",
+  "model": "glm-5.3"
+}

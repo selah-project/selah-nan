@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "對古早我對你的法度就已經知:你設立𪜶到永遠。",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "對古早"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "就已經知"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "對你的法度"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……(引出內容)"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "你設立𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:36.269253446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 5:14",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "諸個是佇耶路撒冷出世予伊的囡仔的名:沙慕亞、朔罷、拿單、所羅門。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "沙慕亞"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "佮朔罷"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "佮拿單"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "佮所羅門"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:56.001476987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "小麥佮大麥的地，葡萄樹、無花果樹佮石榴樹的地；橄欖油佮蜜的地。",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "的地"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "小麥"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "佮大麥"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "佮葡萄樹"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "佮無花果樹"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "佮石榴樹"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "的地"
+    },
+    {
+      "surface": "זית",
+      "gloss": "橄欖"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "佮蜜"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:35.461850776Z",
+  "model": "glm-5.3"
+}

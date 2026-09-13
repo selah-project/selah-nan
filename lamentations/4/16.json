@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "雅威的面分散𪜶,伊無閣欲看𪜶;祭司的面𪜶無尊重,老人𪜶無憐憫。",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "分散𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "閣欲"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "看𪜶"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "尊重"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "老人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "憐憫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:32.292402261Z",
+  "model": "glm-5.3"
+}

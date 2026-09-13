@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "屬耶羅波安的死佇城內的,狗欲食伊;死佇田裡的,天頂的鳥仔欲食伊,因為雅威講矣。",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "屬耶羅波安"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "狗"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "佮死的"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:09:14.244098121Z",
+  "model": "glm-5.3"
+}

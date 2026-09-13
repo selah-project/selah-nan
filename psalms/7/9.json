@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威欲審判列邦;雅威啊,照我的公義、照我內底的完全,審判我。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "欲審判"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "審判我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "照我的公義"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "佮照我的完全"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:30.089270550Z",
+  "model": "glm-5.3"
+}

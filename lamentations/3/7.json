@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊築牆圍我,我袂當出去;伊互我的枷鎖重沉沉。",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "伊築牆圍"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "互…重沉沉"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "我的枷鎖"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:51.400104883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊趕我 ⟨את⟩,導我行入烏暗,無光。",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "趕"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "導我行"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "入烏暗"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:09.236743881Z",
+  "model": "glm-5.3"
+}

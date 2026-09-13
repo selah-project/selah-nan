@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 9:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威用⟨את⟩兩塊石版付我,版面有以羅欣的手指頭所寫的字,頂面照雅威佮恁講的一切話,彼日佇山裡,對火的中間,佇集合的日子。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "付"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩塊石版"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩塊"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "版"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石的"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "所寫的"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "用……手指頭"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山裡"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對……中間"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "集合"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:30.261029003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "閣⟨את⟩耶路撒冷的厝恁數過矣,恁拆厝來鞏固城牆。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的厝"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "恁數"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "恁拆"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "厝"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "來鞏固"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城牆"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:32.568077328Z",
+  "model": "glm-5.3"
+}

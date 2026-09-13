@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "今,智慧佮知識賞賜互阮,互阮會當出去佮入來佇這个百姓面前;因為啥人會當判斷⟨את⟩你這个極大的百姓?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "佮知識"
+    },
+    {
+      "surface": "תן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "互阮"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "互阮會當出去"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "佮入來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "會當判斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你這个極大的百姓"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "極大的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:36:28.911942141Z",
+  "model": "glm-5.3"
+}

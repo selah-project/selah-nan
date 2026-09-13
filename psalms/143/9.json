@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "雅威啊,救我脫離我的對敵;到你遐我受掩蔽。",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "脫離我的對敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你遐"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "我受掩蔽"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:57.241742594Z",
+  "model": "glm-5.3"
+}

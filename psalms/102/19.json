@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "這件事著愛寫落來互後來的世代,閣彼个將欲受造的百姓欲讚美雅。",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "著愛寫落來"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這件事"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "互……的世代"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "後來的"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "閣……的百姓"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "將欲受造"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "欲讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:47.580935470Z",
+  "model": "glm-5.3"
+}

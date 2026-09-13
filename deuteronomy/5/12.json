@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "遵守⟨את⟩安息日,來互伊成聖,照雅威、恁的以羅欣所命令恁的。",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "安息日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "……的日子"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "來互伊成聖"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "所命令恁的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:58.449281962Z",
+  "model": "glm-5.3"
+}

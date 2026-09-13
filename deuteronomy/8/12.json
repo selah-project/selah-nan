@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "驚你食飽,起美好的厝,閣住佇內面,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "驚"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "你食"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "飽"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "佮厝"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "美好的"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "你起"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "你住"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:29.456610998Z",
+  "model": "glm-5.3"
+}

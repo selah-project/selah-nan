@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇彼个日,我欲對以利行⟨את⟩一切我對伊的家所講過的代誌——對頭到尾。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇彼个日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "我欲行"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切我對伊的家所講過的代誌"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我講過"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "החל",
+      "gloss": "對頭"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "到尾"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:11.214409603Z",
+  "model": "glm-5.3"
+}

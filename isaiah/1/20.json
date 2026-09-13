@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "若恁拒絕閃悖逆,就會互刀劍食--掉;因為雅威的喙已經講出來。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "拒絕"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פי",
+      "gloss": "喙"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "已經講出來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:38.815642641Z",
+  "model": "glm-5.3"
+}

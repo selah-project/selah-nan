@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "我欲互我的箭啉血啄醉,我的刀欲食肉,對甦的血佮對俘虜,對敵人長頭毛的頭。",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "互……啄醉"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "我的箭"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "我的刀"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "對……的血"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "甦"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "佮俘虜"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "對……的頭"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "長頭毛的"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:21.358947250Z",
+  "model": "glm-5.3"
+}

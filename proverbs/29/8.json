@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "譏誚的人煽風點火,整個城受氣;毋拘智慧的人會曉挽回受氣。",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "煽風點火"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "毋拘智慧的人"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "會曉挽回"
+    },
+    {
+      "surface": "אף",
+      "gloss": "受氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:10.948325003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊閣替伊求問雅威,閣拿糧食予伊,閣拿⟨את⟩非利士人歌利亞的刀予伊。",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "閣求問"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "閣糧食"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿…予"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "歌利亞的刀"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "的刀"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "歌利亞"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "非利士人的"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿…予"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:36.876822097Z",
+  "model": "glm-5.3"
+}

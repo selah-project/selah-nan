@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "約書亞講:「共 ⟨את⟩ 彼個穴的嘴拍開,共 ⟨את⟩ 這五个王對穴裡帶出來到我遮。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "拍開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個穴的嘴"
+    },
+    {
+      "surface": "פי",
+      "gloss": "嘴"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "彼個穴"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "帶出來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這五个王"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "五"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "个王"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "穴裡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:37.790656253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "對高處伸出你的手,救我脫離,搶救我脫離大水,脫離外邦仔的手。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "對高處"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "救我脫離"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "搶救我脫離"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "脫離大水"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "(大的)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外邦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:35.549481819Z",
+  "model": "glm-5.3"
+}

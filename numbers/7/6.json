@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "摩西就提⟨את⟩彼寡車仔佮⟨את⟩彼寡牛,用⟨את⟩𪜶分互利未人。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡車仔"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "彼寡車仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼寡牛"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "彼寡牛"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "就分"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "互利未人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "互"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:27.711740855Z",
+  "model": "glm-5.3"
+}

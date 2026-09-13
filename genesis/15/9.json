@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊對亞伯蘭講:「你替我牽一隻三歲的母牛、一隻三歲的母山羊、一隻三歲的公羊,閣一隻斑鳩佮一隻雛鴿。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "你牽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "母牛"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "三歲的"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "閣母山羊"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "三歲的"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "閣公羊"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "三歲的"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "佮斑鳩"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "佮雛鴿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:33.811584651Z",
+  "model": "glm-5.3"
+}

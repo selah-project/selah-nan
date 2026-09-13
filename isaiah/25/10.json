@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "因為雅威的手會安歇佇這座山頂,閣摩押會佇伊下底予人踹踏,親像稻草予人踹佇馬德米那(糞埽埕)的水內底。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "會安歇"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山頂"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這座"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "閣會踹踏"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "佇伊下底"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "親像踹"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "稻草"
+    },
+    {
+      "surface": "במי",
+      "gloss": "佇…的水"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "馬德米那(糞埽埕)"
+    }
+  ],
+  "timestamp": "2026-09-13T04:36:13.706503494Z",
+  "model": "glm-5.3"
+}

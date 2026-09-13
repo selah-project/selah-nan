@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "阮共𪜶盡滅(חרם)⟨את⟩,親像阮對希實本王西宏所做的一樣;每一座城,阮攏盡滅(חרם)——眾人、諸個婦人人佮囡仔。",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "阮共…盡滅(חרם)"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(以色列的對敵)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "阮所做的"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "對西宏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "希實本"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "盡滅(חרם)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "座城"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "諸個婦人人"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "佮囡仔"
+    }
+  ],
+  "timestamp": "2026-09-13T06:30:39.750583195Z",
+  "model": "glm-5.3"
+}

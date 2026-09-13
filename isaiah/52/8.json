@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "你的瞭望人的聲!𪜶攑聲,做伙出歡喜的歌,因為𪜶欲目睭對目睭見,佇雅威倒來錫安的時。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "你的瞭望人"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "𪜶攑"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "出歡喜的歌"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "對目睭"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "見"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "倒來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:42.791062653Z",
+  "model": "glm-5.3"
+}

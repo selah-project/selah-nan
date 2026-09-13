@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "若伊毋佮你講和，反轉佮你相戰，你就著圍伊。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "講和"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "反轉…做"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "你就著圍"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:08.707994098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊心肝所向望的,你賞賜伊;伊嘴脣所求的,你無拒絕。細拉。",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "向望"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心肝"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "你賞賜"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "佮所求的"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "伊的嘴脣"
+    },
+    {
+      "surface": "בל",
+      "gloss": "無"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "拒絕"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:14.926957340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 84,
+  "translation": "雅威以羅欣采巴奧特(萬軍)啊,請聽我的祈禱;請入耳聽,雅各的以羅欣啊。細拉。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "請聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "請入耳聽"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:03.389518619Z",
+  "model": "glm-5.3"
+}

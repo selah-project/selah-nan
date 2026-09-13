@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "恁著謳咦伊名的榮光;恁著互伊的謳咦有榮光。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "恁著謳咦"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "恁著互……有"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "伊的謳咦"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:30.194258007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "我欲呼叫以羅欣・以里昂(至高者),呼叫為我成就一切的以勒。",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "我欲呼叫"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "向以羅欣"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以里昂(至高者)"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "向以勒"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "成就"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "為我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:51.463751621Z",
+  "model": "glm-5.3"
+}

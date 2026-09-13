@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "靠你智慧的多,閣靠你的生理買賣,你加添你的財力;你的心就因你的財力來高昇。",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "靠……的多"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "靠你的生理買賣"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "你加添"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "你的財力"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "來高昇"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "因你的財力"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:43.989586964Z",
+  "model": "glm-5.3"
+}

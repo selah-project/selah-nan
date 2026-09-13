@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "因為風對伊頂頭過去,伊就無去矣,伊的所在嘛毋閣認得伊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "過去"
+    },
+    {
+      "surface": "בו",
+      "gloss": "對伊頂頭"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "伊就無去矣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "閣認得伊"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "伊的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:40.622103265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "有人去共掃羅報,講:「你看,大衛佇拿約,佇拉瑪。」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "去報"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "共掃羅"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "佇拿約"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "佇拉瑪"
+    }
+  ],
+  "timestamp": "2026-09-12T06:27:17.915301001Z",
+  "model": "glm-5.3"
+}

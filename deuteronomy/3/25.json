@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "請互我過去,看⟨את⟩彼个好地,佇約但河對岸彼个所在;彼座好山,佮黎巴嫩。",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "互我過去"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "佮我看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个好地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼个地"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "好--的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的所在"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "佇對岸"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約但河"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "好--的"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "佮黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:00.489774682Z",
+  "model": "glm-5.3"
+}

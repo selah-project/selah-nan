@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "對指揮者,對「舒善・以杜特」(百合花的見證),大衛的米克坦(金詩),欲用來教示。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "對指揮者"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "舒善(百合)"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "以杜特(見證)"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "米克坦(金詩)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "欲用來教示"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:16.716313631Z",
+  "model": "glm-5.3"
+}

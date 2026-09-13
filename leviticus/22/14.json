@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是有人毋細膩食著聖物,就著添伊的五分之一佇頂面,閣將⟨את⟩彼聖物互祭司。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食著"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "毋細膩"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "就著添"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "伊的五分之一"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼聖物"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "彼聖物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:59.653676712Z",
+  "model": "glm-5.3"
+}

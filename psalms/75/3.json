@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "「我揀著時陣,我——我欲按正直審判。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "「"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "我揀著"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "時陣"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "按正直"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "審判"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:07.602178922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "阮向雅威——阮列祖的以羅欣——哀叫；雅威聽見⟨את⟩阮的聲，看見⟨את⟩阮的困苦、⟨את⟩阮的勞碌、閣⟨את⟩阮所受的壓迫。",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "阮哀叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "阮列祖"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的聲"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "阮的聲"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的困苦"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "阮的困苦"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "阮的勞碌"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "阮的勞碌"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "阮所受的壓迫"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "阮所受的壓迫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:36.385942182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "凡你的手尋著通做的,著用你的氣力去做;因為佇示阿勒,就是你欲去遐的所在,無做途、無計謀、無知識、閣無智慧。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "通做的"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "用你的氣力"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "著去做"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "做途"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "無計謀"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "無知識"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "閣無智慧"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "佇示阿勒"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "欲去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "去遐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:39.044881270Z",
+  "model": "glm-5.3"
+}

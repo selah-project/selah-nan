@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅各走去亞蘭的田野,以色列為著某做工,閣為著某看守羊。",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "走去"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "做工"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "為著某"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "閣為著某"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "看守"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:55.600559529Z",
+  "model": "glm-5.3"
+}

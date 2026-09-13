@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "「恁著結果子，添丁，佇地上湠甲滿滿，佇伊裡面添丁。」",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "結果子"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "添丁"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "湠甲滿滿"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "添丁"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊裡面"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:31.462172396Z",
+  "model": "glm-5.3"
+}

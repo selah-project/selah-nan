@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威坐王到永遠;伊為著審判堅固伊的寶座。",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "佮雅威"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐王"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "堅固"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "為著審判"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "伊的寶座"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:17.378528597Z",
+  "model": "glm-5.3"
+}

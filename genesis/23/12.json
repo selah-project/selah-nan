@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "亞伯拉罕就佇此地的人民面前跪落拜。",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "跪落拜"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:12.679590912Z",
+  "model": "glm-5.3"
+}

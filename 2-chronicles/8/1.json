@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "到二十年的尾,就是所羅門起造⟨את⟩雅威的家閣⟨את⟩伊家己的家的彼陣,事情發生矣。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "尾"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼陣"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊家己的家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊家己的家"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:43.001201456Z",
+  "model": "glm-5.3"
+}

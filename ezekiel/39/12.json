@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "以色列家欲埋葬𪜶,為著欲互⟨את⟩土地清氣,七個月久。",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "欲埋葬𪜶"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "清氣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:56.871662523Z",
+  "model": "glm-5.3"
+}

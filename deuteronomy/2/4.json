@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你愛命令⟨את⟩這个百姓,講:「恁欲經過恁兄弟,以掃的後代,徛起佇西珥的人的邊界;𪜶會驚恁,所以恁著細膩,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "這个百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這个百姓"
+    },
+    {
+      "surface": "צו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講:"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "經過"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "恁兄弟"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後代"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "徛起的人"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "佇西珥"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "𪜶會驚"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "恁著細膩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:52.627370299Z",
+  "model": "glm-5.3"
+}

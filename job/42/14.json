@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "伊叫頭一個的名號做耶米瑪,第二个的名號做克細亞,第三个的名號做克連哈普克。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "伊叫"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "耶米瑪"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮…的名"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二个"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "克細亞"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮…的名"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "第三个"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "克連"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "哈普克"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:04.790677273Z",
+  "model": "glm-5.3"
+}

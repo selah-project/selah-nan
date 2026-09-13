@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "啥人量過⟨את⟩雅威的靈?啥人做伊的謀士來教示伊?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "量過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的靈"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "啥人做"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "伊的謀士"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "教示伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:35.362119034Z",
+  "model": "glm-5.3"
+}

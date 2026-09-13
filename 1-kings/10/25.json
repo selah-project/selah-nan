@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣𪜶逐人帶伊的禮物——銀的器具佮金的器具、衫褲、兵器、香料、馬佮騾——一年閣一年。",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "閣𪜶"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "帶來"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "伊的禮物"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "佮器具"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "佮衫褲"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "佮兵器"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "佮香料"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "佮騾"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "定例"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "閣一年"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:37.232078548Z",
+  "model": "glm-5.3"
+}

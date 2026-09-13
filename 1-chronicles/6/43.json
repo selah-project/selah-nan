@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣⟨את⟩希崙佮⟨את⟩伊的草埔、⟨את⟩底璧佮⟨את⟩伊的草埔。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "希崙"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "希崙"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的草埔"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "伊的草埔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "底璧"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "底璧"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的草埔"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "伊的草埔"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:16.290208155Z",
+  "model": "glm-5.3"
+}

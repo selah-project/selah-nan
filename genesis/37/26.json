@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "猶大對伊的兄弟講:「咱若殺死⟨את⟩咱的兄弟,閣掩遮⟨את⟩伊的血,有啥物利益?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "利益"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "咱殺死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "咱的兄弟"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "咱的兄弟"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "閣咱掩遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:23.546639868Z",
+  "model": "glm-5.3"
+}

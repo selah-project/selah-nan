@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣⟨את⟩法老、米茲拉因(埃及)的王,佮⟨את⟩伊的奴僕,佮⟨את⟩伊的官長,佮⟨את⟩伊一切的百姓;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法老"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…的王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的奴僕"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的官長"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "伊的官長"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊一切的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T03:55:57.406101859Z",
+  "model": "glm-5.3"
+}

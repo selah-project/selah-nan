@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "彼个罪,就是𪜶所犯的,若顯明出來,會眾著獻一隻牛,牛槽的仔,做贖罪祭,閣帶 ⟨את⟩ 伊到會幕的面前;",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "若顯明出來"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "彼个罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "𪜶所犯"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對著伊"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "著獻"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "פר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛槽"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做贖罪祭"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "閣帶"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(彼隻牛)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "到…的面前"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:12.777540169Z",
+  "model": "glm-5.3"
+}

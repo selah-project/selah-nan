@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "大衛獻完燒祭佮平安祭了,就用雅威采巴奧特(萬軍)的名祝福⟨את⟩這個人民。",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "獻完了"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "對獻"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "佮平安祭"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "就祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個人民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這個人民"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "用…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:44.278786698Z",
+  "model": "glm-5.3"
+}

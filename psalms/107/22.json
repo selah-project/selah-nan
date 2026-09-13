@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "願𪜶獻上感謝的祭物,佮用吟唱歌聲來述說伊的作為。",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "願𪜶獻祭"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "…的祭物"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "感謝"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "佮述說"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "伊的作為"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "用吟唱歌聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:06.627090256Z",
+  "model": "glm-5.3"
+}

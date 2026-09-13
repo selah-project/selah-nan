@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 76,
+  "translation": "佇撒冷有伊的草寮,伊徛起的所在佇錫安。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "佇撒冷"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "伊的草寮"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "伊徛起的所在"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "佇錫安"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.022441297Z",
+  "model": "glm-5.3"
+}

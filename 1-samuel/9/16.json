@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 9:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "「此時明日,我欲差一個人對便雅憫的地來到你遮,你欲用油膏伊做首領,管我的子民以色列;伊欲救⟨את⟩我的子民脫離非利士人的手,因為我有看著⟨את⟩我的子民,因為𪜶的哀叫已經到我遮。",
+  "tokens": [
+    {
+      "surface": "כעת",
+      "gloss": "此時"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明日"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你遮"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…的地"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ומשחתו",
+      "gloss": "你欲用油膏伊"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "做首領"
+    },
+    {
+      "surface": "על",
+      "gloss": "管"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的子民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והושיע",
+      "gloss": "伊欲救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的子民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的子民"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我有看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的子民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的子民"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "באה",
+      "gloss": "已經到"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "伊的哀叫"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我遮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:28.707231058Z",
+  "model": "glm-5.3"
+}

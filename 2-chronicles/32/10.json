@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "亞述王西拿基立按呢講:恁倚靠啥物,徛佇耶路撒冷受圍困?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "西拿基立"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "徛佇咧"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "受圍困"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:19:23.808541439Z",
+  "model": "glm-5.3"
+}

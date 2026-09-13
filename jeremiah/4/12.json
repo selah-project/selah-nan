@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "一陣滿滿的風對遮對我吹來;這陣我嘛欲對⟨את⟩𪜶講出判語。",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "…風"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿的"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "對遮"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "會吹來"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "欲講出"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "判語"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(指這個人民)"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:38.866790252Z",
+  "model": "glm-5.3"
+}

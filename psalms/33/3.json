@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "著唱新的歌予伊;著彈了好勢,用大聲吶喝。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "著唱"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "著彈了好勢"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "彈"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "用大聲吶喝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:50.793885823Z",
+  "model": "glm-5.3"
+}

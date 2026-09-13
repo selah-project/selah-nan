@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "你若對你的厝邊起啥物債,就毋通入去到伊的厝裡去提伊的抵押。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "起債(借)"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "對你的厝邊"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "債"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "啥物(物件)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的厝"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "去提抵押"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "伊的抵押"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:20.538709953Z",
+  "model": "glm-5.3"
+}

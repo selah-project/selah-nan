@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "彼個囝仔大漢閣斷奶矣;亞伯拉罕佇⟨את⟩以撒斷奶彼日,辦一個大宴席。",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "大漢"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "彼個囝仔"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "斷奶矣"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "辦"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴席"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "斷奶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:06.230055481Z",
+  "model": "glm-5.3"
+}

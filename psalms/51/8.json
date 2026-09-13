@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "看啊,你愛真實佇內心深處,佇隱密所在你欲互我知影智慧。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "你愛"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "佇內心深處"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "佇隱密所在"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "你欲互我知影"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:47.992787682Z",
+  "model": "glm-5.3"
+}

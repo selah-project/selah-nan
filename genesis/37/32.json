@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "𪜶差人送⟨את⟩彼件彩色的長衫去,帶到𪜶老父遐,講:「這是阮揣著的;請汝認看覓,這敢是汝囝的長衫,抑毋是?」",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "差人送"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼件彩色的長衫"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "長衫"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "彩色的"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "帶到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "𪜶老父"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "阮揣著的"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "認"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "這長衫"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "汝囝的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:41.089434480Z",
+  "model": "glm-5.3"
+}

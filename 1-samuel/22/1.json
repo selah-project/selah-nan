@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "大衛就對遐行去,走到亞杜蘭的洞穴;伊的兄弟佮伊的歸個父家聽著,就落去遐到伊遐。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就行去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "走到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "洞穴"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "亞杜蘭"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "聽著"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮歸個"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "就落去"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遐"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:36.307921432Z",
+  "model": "glm-5.3"
+}

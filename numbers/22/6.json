@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 22:6",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "「這馬請你來替我咒詛⟨את⟩這个族群,因為伊比我較強;我做伙拍伊,共伊對這片地趕出去,因為我知⟨את⟩你祝福啥人,啥人就得福,你咒詛啥人,啥人就受咒詛。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "請你來"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个族群"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這个"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "族群"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "較強"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "比我"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "我會當"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "拍"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ואגרשנו",
+      "gloss": "共伊趕出去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這片地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你祝福啥人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "你祝福"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "就得福"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "你咒詛"
+    },
+    {
+      "surface": "יואר",
+      "gloss": "就受咒詛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:00:25.522114132Z",
+  "model": "glm-5.3"
+}

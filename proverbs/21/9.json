@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "坐佇厝頂的壁角較好,贏過佮愛相諍的某、佮闊厝。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "壁角"
+    },
+    {
+      "surface": "גג",
+      "gloss": "厝頂"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "贏過某"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "愛相諍的"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "佮厝"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "闊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:45.980212695Z",
+  "model": "glm-5.3"
+}

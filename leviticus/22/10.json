@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "見若外人格（毋是祭司家內的人）攏毋通食聖物；祭司的寄居者佮倩的工人，攏毋通食聖物。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "זר",
+      "gloss": "外人格"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司的"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "佮倩的工人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖物"
+    }
+  ],
+  "timestamp": "2026-09-13T04:40:57.864950047Z",
+  "model": "glm-5.3"
+}

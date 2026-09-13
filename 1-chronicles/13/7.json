@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "𪜶將⟨את⟩以羅欣的約櫃下佇一台新的車仔,對亞比拿達的厝運出來;烏撒佮伊的兄弟亞希約駛彼台車仔。",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "將…下佇(車仔頂)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "車仔"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "新的"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的厝"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "亞比拿達"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "烏撒"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "佮伊的兄弟"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "駛"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "彼台車仔"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:50.397520228Z",
+  "model": "glm-5.3"
+}

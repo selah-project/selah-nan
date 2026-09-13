@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "伊就祝福約瑟 ⟨את⟩,講:「彼位以羅欣——我的祖先亞伯拉罕佮以撒佇伊面前行踏的,彼位對我出世以來一直牧養 ⟨את⟩ 我到今仔日的以羅欣——",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "就祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼位…的"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "行踏"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "我的祖先"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "佮以撒"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "牧養"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "我"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "對我出世以來"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:50.070299024Z",
+  "model": "glm-5.3"
+}

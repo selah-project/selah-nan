@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "雅威⟨是⟩我份額的份、我的杯;汝扶持我的籤。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "份額"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "我的份"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "我的杯"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "扶持"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "我的籤"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:57.097424077Z",
+  "model": "glm-5.3"
+}

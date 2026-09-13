@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "佇伊的地、普天下咧戲笑,我的歡喜是佇⟨את⟩人的子身上。",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "咧戲笑"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "佇普天下"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊的地"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "閣我的歡喜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人的子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人(亞當)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.098273886Z",
+  "model": "glm-5.3"
+}

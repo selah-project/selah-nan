@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "六日汝欲做工,閣做汝一切的工課;",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "汝欲做工"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "汝的工課"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:47.129431101Z",
+  "model": "glm-5.3"
+}

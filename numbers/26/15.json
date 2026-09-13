@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "迦得的後代，照𪜶的宗族：屬洗分的，有洗分宗族；屬哈基的，有哈基宗族；屬書尼的，有書尼宗族。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後代"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的宗族"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "屬洗分"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "洗分族"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "屬哈基"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "哈基族"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "屬書尼"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "書尼族"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:36.633005455Z",
+  "model": "glm-5.3"
+}

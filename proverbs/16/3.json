@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "將你的所做輾予雅威,你的計謀就會得堅立。",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "輾予"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的所做"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "就會得堅立"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "你的計謀"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:20.845841703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "因為𪜶的腳走去行歹,𪜶嘛真緊欲流血。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "𪜶的腳"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "去行歹"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "走"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "嘛真緊"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "欲流出"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:16.788416885Z",
+  "model": "glm-5.3"
+}

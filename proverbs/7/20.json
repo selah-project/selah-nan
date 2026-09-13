@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "一包銀仔提佇伊的手內,到月圓彼日伊才會轉來伊的厝。",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "一包"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "彼个銀仔"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手內"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "到彼日"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "月圓"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "伊會轉來"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的厝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:58.813305934Z",
+  "model": "glm-5.3"
+}

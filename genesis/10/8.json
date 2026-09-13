@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "古實閣生⟨את⟩寧錄;伊開始佇地上做勇士。",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "寧錄"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "寧錄"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "החל",
+      "gloss": "開始"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "做"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:31.152688838Z",
+  "model": "glm-5.3"
+}

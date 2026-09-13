@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "願我的祈禱到佇你面頭前;願你彎你的耳向我的哀聲。",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "願…到"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "你面頭前"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "彎"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "向我的哀聲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:17.704512429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "將祢个烈怒瀉落佇列國,就是毋知影祢个,閣瀉落佇彼兜族親,就是毋用祢个名呼求个;因為𪜶啉食雅各 ⟨את⟩,共伊食甲空空、共伊了盡,閣將伊个厝宅 ⟨את⟩ 毀棄做荒埔。",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "瀉落"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "祢个烈怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "知影祢"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣瀉落佇"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "族親"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "用祢个名"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "呼求"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "𪜶啉食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "共伊食甲空空"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "共伊了盡"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊个厝宅"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "伊个厝宅"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "毀棄做荒埔"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:12.104976898Z",
+  "model": "glm-5.3"
+}

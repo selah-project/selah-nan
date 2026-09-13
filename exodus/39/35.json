@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "⟨את⟩見證的櫃仔、⟨את⟩伊的槓仔,佮⟨את⟩施恩座。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "見證的櫃仔"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "櫃仔"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "見證的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的槓仔"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "伊的槓仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "施恩座"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "施恩座"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:43.910791183Z",
+  "model": "glm-5.3"
+}

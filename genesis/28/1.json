@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "以撒叫雅各來,祝福 ⟨את⟩ 伊,命令伊,閣對伊講:「汝毋通對迦南的查某囝娶牽手。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "叫……來"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "命令伊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "牽手"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "對……的查某囝"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:52.154444842Z",
+  "model": "glm-5.3"
+}

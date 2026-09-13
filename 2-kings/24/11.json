@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "巴比倫王尼布甲尼撒來到城邊,伊的奴僕圍攻伊。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "圍攻"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:19.648991991Z",
+  "model": "glm-5.3"
+}

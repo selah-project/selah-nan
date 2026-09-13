@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "為啥物祢永遠袂記得阮？為啥物拋捒阮這麼濟日？",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "袂記得阮"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "拋捒阮"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "這麼濟"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:27.399443125Z",
+  "model": "glm-5.3"
+}

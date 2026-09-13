@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以羅欣做⟨את⟩穹蒼,分開彼穹蒼下底的水佮彼穹蒼頂面的水;就按呢。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "做"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "穹蒼"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "彼穹蒼"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "分開"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…佮…之間"
+    },
+    {
+      "surface": "המים",
+      "gloss": "彼水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "佇…下底"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "彼穹蒼"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…之間"
+    },
+    {
+      "surface": "המים",
+      "gloss": "彼水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "彼穹蒼"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:07.525594495Z",
+  "model": "glm-5.3"
+}

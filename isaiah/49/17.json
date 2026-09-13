@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "你的起造者趕緊來到;你的毀壞者佮拆毀你的人,對你遐出去。",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "趕緊來到"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的起造者"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "你的毀壞者"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "佮拆毀你的人"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你遐"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:35.739236959Z",
+  "model": "glm-5.3"
+}

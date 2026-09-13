@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "公義保守行純全路⟨的人⟩;邪惡扳倒罪。",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "תם",
+      "gloss": "純全"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "佮邪惡"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "扳倒"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:36.211539992Z",
+  "model": "glm-5.3"
+}

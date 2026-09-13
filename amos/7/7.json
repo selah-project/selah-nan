@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 7:7",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "按呢伊互我看,看啊,阿多奈徛佇鉛垂牆頂面,手內閣提一條鉛垂。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "互我看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "牆"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "鉛垂"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "佇伊手內"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "鉛垂"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:27.722608307Z",
+  "model": "glm-5.3"
+}

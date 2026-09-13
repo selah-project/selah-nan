@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "你的官長攏做伙閃避弓,攏總被縛做伙;對遠遠,𪜶攏總走逃。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "你的官長"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "閃避"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "對弓"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "被縛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "你的被尋著的"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "被縛"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "走逃"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:11.022542656Z",
+  "model": "glm-5.3"
+}

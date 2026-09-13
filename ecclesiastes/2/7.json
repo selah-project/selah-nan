@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 2:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我買奴僕佮婢女,亦有佇厝內底出生的奴僕;閣牛羊我真濟,比佇耶路撒冷以前的所有的人閣較濟。",
+  "tokens": [
+    {
+      "surface": "קניתי",
+      "gloss": "我買"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "ושפחות",
+      "gloss": "佮婢女"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "亦……出生的"
+    },
+    {
+      "surface": "בית",
+      "gloss": "佇厝內底"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "佮羊"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比所有……閣較濟"
+    },
+    {
+      "surface": "שהיו",
+      "gloss": "的人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "以前"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:21.488047332Z",
+  "model": "glm-5.3"
+}

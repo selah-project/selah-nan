@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 127,
+  "translation": "看啊,子兒是雅威的業份;腹肚所結的果子是伊的報賞。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "業份"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "報賞"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "彼個腹肚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:28.718654225Z",
+  "model": "glm-5.3"
+}

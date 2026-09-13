@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "按呢,我猶活佇世間的時欲祝福汝;佇汝的名我欲舉起我的手掌。",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "欲祝福汝"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "佇我活著的時"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "佇汝的名"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "欲舉起"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的手掌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:52.213912625Z",
+  "model": "glm-5.3"
+}

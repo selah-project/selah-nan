@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "互指揮者;「莫毀壞」;大衛的;米克坦。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "莫"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "米克坦"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:38.672469452Z",
+  "model": "glm-5.3"
+}

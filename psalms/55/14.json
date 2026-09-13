@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "毋過是你——一个像我平樣的人,我的同伴,嘛是我上熟似的人。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋過是你"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "一个凡人"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "像我平樣"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "我的同伴"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "嘛是我上熟似的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:15.610692126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "空蕩閣閣空蕩,大地欲予人空蕩;搶奪閣閣搶奪,欲予人搶奪,因為雅威已經講出⟨את⟩這句話。",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "空蕩閣"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "閣空蕩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "搶奪閣"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "閣搶奪"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "已經講出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這句話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:28.488398282Z",
+  "model": "glm-5.3"
+}

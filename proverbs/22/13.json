@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "懶惰人講:「獅佇外口,我佇街仔路中間會予刣死。」",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶惰人"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "獅"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "佇外口"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "街仔路"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "會予刣死"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:11.974642860Z",
+  "model": "glm-5.3"
+}

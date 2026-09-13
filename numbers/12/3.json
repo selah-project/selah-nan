@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "(彼个人摩西佇世上眾人當中,是地上逐个人上謙卑、上溫柔的一个——",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "謙卑、溫柔"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "上"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "佇……當中"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "逐个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面上"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-13T04:42:31.616744372Z",
+  "model": "glm-5.3"
+}

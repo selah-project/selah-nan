@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "若是彼个人是散赤人,你就毋通攬伊的抵押來睏。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "איש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "עני",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "睏"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "攬伊的抵押"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:20.541740475Z",
+  "model": "glm-5.3"
+}

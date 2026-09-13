@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "佇以羅欣阮逐日誇耀,你的名阮欲感謝到永遠。細拉。",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "佇以羅欣"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "阮誇耀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "佮你的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "阮欲感謝"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.351900985Z",
+  "model": "glm-5.3"
+}

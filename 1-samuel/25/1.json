@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "撒母耳死矣,以色列眾人攏聚集,為伊哀哭,埋葬伊佇伊的家,佇拉瑪。大衛起來,落去巴蘭曠野。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "攏聚集"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "哀哭"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "埋葬伊"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊的家"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "佇拉瑪"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "巴蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:34.708583970Z",
+  "model": "glm-5.3"
+}

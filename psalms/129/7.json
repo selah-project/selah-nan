@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 129,
+  "translation": "割的人,手捧袂滿;捆稻的,懷裡嘛袂滿。",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "手捧"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "割的人"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "懷裡嘛"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "捆稻的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:21.764885559Z",
+  "model": "glm-5.3"
+}

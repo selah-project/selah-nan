@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊講:「擲落塗跤。」伊就擲落塗跤,伊變做蛇,摩西對伊面前走閃。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "擲落"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "塗跤"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "伊就擲落"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "塗跤"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "變做"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "走閃"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:52.412228293Z",
+  "model": "glm-5.3"
+}

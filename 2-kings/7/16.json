@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "百姓就出去,搶劫⟨את⟩亞蘭的營;一細亞的細麵一舍客勒,兩細亞的大麥一舍客勒,照雅威所講的話。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "搶劫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞蘭的營"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "一細亞"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "一舍客勒"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "兩細亞"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "一舍客勒"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:55.038772720Z",
+  "model": "glm-5.3"
+}

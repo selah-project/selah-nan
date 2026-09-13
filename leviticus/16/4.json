@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊著穿聖的苧麻衫,苧麻褲著佇伊的身軀頂,伊著用苧麻帶束腰,閣用苧麻帽纏頭殼;這些是聖裳。伊著佇水裡洗⟨את⟩伊的身軀,才穿𪜶。",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "衫"
+    },
+    {
+      "surface": "בד",
+      "gloss": "苧麻"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "伊著穿"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "褲"
+    },
+    {
+      "surface": "בד",
+      "gloss": "苧麻"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "著佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的身軀"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "閣用帶"
+    },
+    {
+      "surface": "בד",
+      "gloss": "苧麻"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "伊著束腰"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "閣用帽"
+    },
+    {
+      "surface": "בד",
+      "gloss": "苧麻"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "伊著纏頭殼"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "裳"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "הם",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "伊著洗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水裡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的身軀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的身軀"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "才穿𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:34.596703459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "伊欲用公義審判你的百姓,閣用判斷替你的困苦人伸冤。",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "審判"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "用公義"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "閣你的困苦人"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "用判斷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:17.221433594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "雅威的眼中,伊行赫瑟德的人的死,是真寶貴。",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "真寶貴"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "…的死"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "伊行赫瑟德的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:02.364486780Z",
+  "model": "glm-5.3"
+}

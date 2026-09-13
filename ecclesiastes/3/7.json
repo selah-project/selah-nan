@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "有時陣欲擘破,亦有時陣欲縫;有時陣欲恬恬,亦有時陣欲講話。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "欲擘破"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "欲縫"
+    },
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "欲恬恬"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "欲講話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:55.141072744Z",
+  "model": "glm-5.3"
+}

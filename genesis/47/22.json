@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 47:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "獨獨祭司的地,伊無買,因為祭司有對⟨את⟩法老得著定例的份,𪜶有食⟨את⟩𪜶彼个份,就是法老有給𪜶的;因為按呢,𪜶毋賣⟨את⟩𪜶的地。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "地"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "買"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חק",
+      "gloss": "定例的份"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "予祭司"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "閣𪜶有食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的份"
+    },
+    {
+      "surface": "חקם",
+      "gloss": "𪜶的份"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个…的"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "להם",
+      "gloss": "予𪜶"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "𪜶賣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的地"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "𪜶的地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:52.590035344Z",
+  "model": "glm-5.3"
+}

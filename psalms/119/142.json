@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "汝个公義⟨是⟩永遠个公義,閣汝个律法⟨是⟩真實。",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "汝个公義"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "閣汝个律法"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:20.634373345Z",
+  "model": "glm-5.3"
+}

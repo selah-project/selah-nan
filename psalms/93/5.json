@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 93,
+  "translation": "祢的見證極其堅固;聖潔合宜祢的家,雅威啊,到長遠的日子。",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "祢的見證"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "極其堅固"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "祢的家"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "合宜"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "到長遠的"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:49.301738620Z",
+  "model": "glm-5.3"
+}

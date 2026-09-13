@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊的兄弟去飼⟨את⟩𪜶阿爸的羊群，佇示劍。",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "飼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶阿爸的羊群"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "𪜶阿爸"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "佇示劍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:21.859739291Z",
+  "model": "glm-5.3"
+}

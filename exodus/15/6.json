@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "你的右手,雅威,佇氣力中大顯威嚴;你的右手,雅威,拍碎對敵。",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "你的右手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "大顯威嚴"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "佇氣力中"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的右手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "拍碎"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:24.526079062Z",
+  "model": "glm-5.3"
+}

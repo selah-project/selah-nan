@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "免得伊親像獅仔撕我的性命,扯裂,無人通救。",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "撕"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "親像獅仔"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "扯裂"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "人通救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:10.922616184Z",
+  "model": "glm-5.3"
+}

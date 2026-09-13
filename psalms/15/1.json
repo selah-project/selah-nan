@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "大衛的詩篇。雅威啊,啥物人通寄居佇你的帳棚?啥物人通徛佇你的聖山?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "通寄居"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "佇你的帳棚"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "通徛"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇…山"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:06.744574286Z",
+  "model": "glm-5.3"
+}

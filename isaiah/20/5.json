@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣𪜶會驚惶，會見笑，因為古實是𪜶所向望的，埃及是𪜶的榮光。",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "會驚惶"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "會見笑"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "𪜶所向望的"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "佮(因為)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "𪜶的榮光"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:51.177760395Z",
+  "model": "glm-5.3"
+}

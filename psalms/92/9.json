@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "毋拘𪜶喧譁,獨你徛佇懸位到永遠,雅威。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋拘…獨你"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "懸位"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:31.404997296Z",
+  "model": "glm-5.3"
+}

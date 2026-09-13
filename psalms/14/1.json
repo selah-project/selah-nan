@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "互𪜶序大指揮(合唱)。大衛做的詩。愚戇的人佇伊的心內講:無以羅欣。𪜶敗壞矣,𪜶做出可惡的事,無人行好。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "佇伊的心內"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "𪜶敗壞"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "𪜶做出可惡的"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "事"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:44.892044679Z",
+  "model": "glm-5.3"
+}

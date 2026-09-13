@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊越倒轉,閣起造 ⟨את⟩ 希西家伊的老父所毀掉的丘壇,閣豎起祭壇予巴力,佮做亞舍拉,親像以色列王亞哈所做的;伊向所有的天軍下拜,佮服事 ⟨את⟩ 𪜶。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "伊越倒轉"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "閣起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "丘壇"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "丘壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "毀掉"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "閣豎起"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "予巴力"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "佮做"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "亞舍拉"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "伊…下拜"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "向所有的"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "天軍"
+    },
+    {
+      "surface": "השמים",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "佮服事"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:07.490069300Z",
+  "model": "glm-5.3"
+}

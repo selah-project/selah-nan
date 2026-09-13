@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "你的對頭倒落去的時,毋通歡喜;伊絆倒的時,你的心毋通快樂,",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "佇…倒落去的時"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "你的對頭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "佮伊絆倒的時"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:03.068860859Z",
+  "model": "glm-5.3"
+}

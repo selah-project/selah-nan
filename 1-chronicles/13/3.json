@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "閣互阮𤰏回阮的以羅欣的約櫃⟨את⟩到阮遮,因為佇掃羅的日子阮無求問伊。",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "互阮𤰏回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的以羅欣的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "到阮遮"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "求問伊"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:50.052041547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 1:36",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞摩利人的界是對蠍子上坡,對彼塊磐石,閣一直上去。",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "界"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人的"
+    },
+    {
+      "surface": "ממעלה",
+      "gloss": "對…上坡"
+    },
+    {
+      "surface": "עקרבים",
+      "gloss": "蠍子(坡)"
+    },
+    {
+      "surface": "מהסלע",
+      "gloss": "對彼塊磐石"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "閣一直上去"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:03.192285899Z",
+  "model": "glm-5.3"
+}

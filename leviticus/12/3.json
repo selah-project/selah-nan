@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣佇第八日,伊包皮的肉著行割禮。",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "閣佇……日"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "著行割禮"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "伊的包皮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:46.633233767Z",
+  "model": "glm-5.3"
+}

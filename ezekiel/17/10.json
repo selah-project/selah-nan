@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 17:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "看啊,伊已經栽種落去——會得利嗎?東風一吹著伊,豈無欲連尾枯焦?佇伊發芽的苗栽頂,欲枯焦。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "已經栽種落去"
+    },
+    {
+      "surface": "התצלח",
+      "gloss": "會得利嗎"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈無"
+    },
+    {
+      "surface": "כגעת",
+      "gloss": "一吹著"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "東"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "欲…枯焦"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "連尾枯焦"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ערגת",
+      "gloss": "苗栽"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "伊發芽"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "欲枯焦"
+    }
+  ],
+  "timestamp": "2026-09-12T04:12:15.432812133Z",
+  "model": "glm-5.3"
+}

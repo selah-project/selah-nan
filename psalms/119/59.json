@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我數算我自己的路,擱將我的腳踅轉來你的赫證言。",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "我數算"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "我自己的路"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "擱將…踅轉來"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "你的證言"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:06.088864074Z",
+  "model": "glm-5.3"
+}

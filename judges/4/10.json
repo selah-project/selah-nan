@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "巴拉就出聲召集⟨את⟩西布倫佮⟨את⟩拿弗他利去基低斯,伊用伊的雙腳行上去,一萬人佇伊的腳鬥陣,底波拉嘛佮伊做夥上去。",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "就出聲召集"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "巴拉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西布倫"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "西布倫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "拿弗他利"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "拿弗他利"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "基低斯"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "就行上去"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "用伊的雙腳"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "嘛上去"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做夥"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "底波拉"
+    }
+  ],
+  "timestamp": "2026-09-13T04:53:29.388347723Z",
+  "model": "glm-5.3"
+}

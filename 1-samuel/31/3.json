@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "彼个戰事對掃羅愈來愈重,射箭的人──就是掠弓的人──搵著伊,伊對在射箭的人非常艱苦。",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "愈來愈重"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "彼个戰事"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "搵著伊"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "射箭的人"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "掠弓"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "艱苦"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "對在射箭的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:13.628545904Z",
+  "model": "glm-5.3"
+}

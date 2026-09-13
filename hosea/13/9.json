@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "以色列啊,敗壞你的是你家己;獨獨你的幫助佇我。",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "敗壞你的是你家己"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "בי",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "你的幫助"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:20.167569390Z",
+  "model": "glm-5.3"
+}

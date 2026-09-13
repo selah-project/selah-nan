@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 137,
+  "translation": "佇巴比倫的河邊,阮坐佇遐,嘛啼哭,佇阮數念⟨את⟩錫安的時。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "佇……邊"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "河"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "阮坐"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "佇阮數念……的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:33.148971788Z",
+  "model": "glm-5.3"
+}

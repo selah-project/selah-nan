@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 9:15",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇書珊的猶大人嘛佇亞達月十四彼日聚集,佇書珊殺死三百人;毋過佇搶奪的物,𪜶無伸⟨את⟩𪜶的手。",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼的"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "亞達"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "殺死"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "佇搶奪的物"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "伸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的手"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "𪜶的手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:49.252913460Z",
+  "model": "glm-5.3"
+}

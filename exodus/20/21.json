@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "人民徛佇遠遠遐,摩西就靠近彼个烏暗,以羅欣佇遐。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "就徛"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠遠"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "靠近"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "彼个烏暗"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:07.603860853Z",
+  "model": "glm-5.3"
+}

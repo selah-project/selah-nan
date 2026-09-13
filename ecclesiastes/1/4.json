@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "一代過去,一代閣來,土地永遠徛在。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "一代"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "過去"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "徛在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:56.252542643Z",
+  "model": "glm-5.3"
+}

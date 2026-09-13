@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "挪亞對伊的酒醒起來,知影⟨את⟩伊的細子對伊所做的事。",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "對伊的酒"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的細子所做的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "細的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:14.214716607Z",
+  "model": "glm-5.3"
+}

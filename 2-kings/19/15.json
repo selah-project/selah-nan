@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "希西家佇雅威面前祈禱,講:「雅威,以色列的以羅欣,坐佇基路伯頂面的,你就是彼位以羅欣,獨獨你一個,佇地上逐個國度;你造了⟨את⟩諸個天佮⟨את⟩這地。」",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以色列的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐佇…頂面"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是彼位"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "獨獨你一個"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "佇逐個"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "國度"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "造了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸個天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "這地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:46.840390119Z",
+  "model": "glm-5.3"
+}

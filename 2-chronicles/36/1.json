@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "地的人就掠約哈斯——約西亞的後生——來⟨את⟩,立伊做王代伊的老父,佇耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "就掠"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約哈斯"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "約哈斯"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "立伊做王"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "代"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:29.035504486Z",
+  "model": "glm-5.3"
+}

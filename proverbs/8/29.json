@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 8:29",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "佇伊給海設伊的界限,互水袂越過伊的嘴的時;佇伊劃定大地地基的時;",
+  "tokens": [
+    {
+      "surface": "בשומו",
+      "gloss": "佇伊設"
+    },
+    {
+      "surface": "לים",
+      "gloss": "互海"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "伊的界限"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "閣水"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "越過"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊的嘴"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "佇伊劃定"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "地基"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.097819507Z",
+  "model": "glm-5.3"
+}

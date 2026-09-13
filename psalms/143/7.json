@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "緊緊應我,雅威啊!我的氣已經消磨盡矣;毋通掩你的面離開我,免得我佮落坑的人相像。",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "緊緊"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "已經消磨盡矣"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的氣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "掩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離開我"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "免得我相像"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "落……的人"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:13.954428782Z",
+  "model": "glm-5.3"
+}

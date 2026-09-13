@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "阮親像青盲的摸壁,親像無目睭的摸;日晡時阮跋倒,親像黃昏,佇荒廢的所在親像死人。",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "阮摸"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "親像青盲的"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "親像無"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "摸"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "阮跋倒"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "佇日晡時"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "親像黃昏"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "佇荒廢的所在"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "親像死人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:44.172616811Z",
+  "model": "glm-5.3"
+}

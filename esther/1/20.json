@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣王所行的詔令會佇伊通王國受人聽見,因為伊真大;所有查某人,對大个到細个,攏會尊敬𪜶的翁。",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "閣會受人聽見"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "的詔令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇通"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "伊的王國"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "真大"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣所有"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "會"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "尊敬"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "𪜶的翁"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "對大个"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "細个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:49.162746892Z",
+  "model": "glm-5.3"
+}

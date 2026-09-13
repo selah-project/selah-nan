@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我欲差火落去提幔,火欲吞食波斯拉的宮殿。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "落去提幔"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "欲吞食"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "波斯拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:04.377781191Z",
+  "model": "glm-5.3"
+}

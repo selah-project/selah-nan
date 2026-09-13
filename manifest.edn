@@ -1,0 +1,115 @@
+#:rendering{:label "台語",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-12", :to "2026-09-13"},
+            :id "nan.v1",
+            :catalog {:ui nil},
+            :license "CC BY-SA 4.0 (The Selah Taiwanese Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23130, "glm-5.3" 83},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/nan.md",
+             :rails-commit "dc84ae5f",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "阿多奈",
+              "אל" "以勒",
+              "אלהים" "以羅欣",
+              "אלוה" "以羅亞",
+              "יה" "雅",
+              "יהוה" "雅威",
+              "צבאות" "采巴奧特",
+              "שדי" "沙代"},
+             :open-questions
+             ["B1 retire the bleed ledger with six whitelists? 317/320 lawful (他 name-syllables, 不義-class, 沒藥) — yue-particle precedent"
+              "B2 classifier glyph 個 3,802 vs 个 5,783 — 40/60 split, inconsistent every book"
+              "B3 literary 們 on nouns (9 verses) — written register or bleed"
+              "B4 ארץ posture: Gen 1 renders identical הארץ seven ways incl 土腳 -the floor-; Gen 1:10 naming loop open; 土腳/塗跤 orthography split"
+              "B5 Aramaic Elah seat: six transliterations, Ezra 7 rescript off-seat, 以拉 collides with King Elah; Dan 5:25-28 MENE MENE TEKEL PARSIN left in raw Aramaic script"
+              "B6 28 erasure seats (six in Daniel kings-name-God 神; Neh 8:9 single 上主)"
+              "B7 Spirit seat: 神魂 (-wits-) at Isa 61:1; 10/18 Spirit rows off 靈"
+              "B8 1cs as 阮 (plural-exclusive) — spoken-register humility or drift"
+              "B9 618 empty glosses on particles (אשר 289 · כי 96 · די 33); floor carries 10"
+              "B10 name separator ・/‧/· split + ~35-term Hebrew-citation parentheticals"
+              "B11-on remainder (nan-tekoa-report.md tally)"]},
+            :status :rendering,
+            :adjudication
+            {:chair 71,
+             :first :taiwanese,
+             :polarity :hanji-spoken-register,
+             :seal
+             {:et-flow 11866,
+              :verses 23213,
+              :latin 0,
+              :yahweh-name-seat [6828 6828],
+              :elohim-flow 2502,
+              :et-row 11866,
+              :yahweh-flow 6923,
+              :spine-vs-en [23213 23213],
+              :malformed-markers 0,
+              :simplified 0,
+              :empty-flows 0,
+              :erasure [0 0 0 0 0]},
+             :tekoa
+             {:verdict
+              "DOES NOT SEAT YET - one mechanical pass + one small re-press away; discharged",
+              :headline
+              "the declared hazard did not fire - the register holds (什麼 0, 毋拘/毋過 native) and the 320-verse bleed ledger proved 99.1% lawful; the real bleed was 它/她/們 in 50 verses where the regex never looked",
+              :class-a-applied 1500,
+              :class-b-filed 11,
+              :report
+              "data/experiments/nan-seating/nan-tekoa-report.md"},
+             :cruxes
+             ["THE LEDGER WAS A FALSE ALARM - 317/320 lawful: 他 in name syllables (拿弗他利/他施/他瑪), 不 in 不義-class compounds, 沒 is myrrh; the regex had no whitelist so it grew with every press"
+              "59 fabricated flow markers - 8 the pronoun-את confusion (2fs אַתְּ read as the particle); gloss row byte-exact vs floor in all 23,213; nan flow CORRECT on all 92 of the floor's own marker inconsistencies"
+              "254 bracket-corrupted markers (closers drifted 》〉〕>) concealing DOUBLED markers - unmasked, deduped, 16 terminal double-marks read against the Hebrew (nan_tekoa_hand16.py)"
+              "rule-6 burn: 41+ apparatus leaks incl the Psalms pronoun-policy tic (祢——毋著,是你; Ps 38:10 printed the rule and rendered twice) - 52 re-pressed, 4 hand-excised where the tic reprinted"
+              "THE CENTER VERSE: Lev 8:35 clears the bho trap outright - תמותו → 袂死, death named, no idiom drift"
+              "Dan 3:12 EIGHTEENTH - יתהון bare pronoun 𪜶; ⟨את⟩ ≡ 0 inside the Aramaic sections"
+              "Sheol 示阿勒 65/66; 地獄 zero corpus-wide"
+              "mixed-script corruption (bho analogue): ⟨阿ת⟩ - את transliterated into Hanji inside its own marker; cross-lingual decoder bleed 의/の in 的's slot - six sites, cured"
+              "POJ swept to Hanji: in/teh/ê table + o-ló→呵咾, lim→啉, Hit→彼个"
+              "simplified cured by a VALIDATED 172-char map (each pair counted against its traditional form in this corpus); 个 enumerated LAWFUL - the standard Taiwanese classifier"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :nan}

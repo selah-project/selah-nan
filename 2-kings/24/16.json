@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 24:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣⟨את⟩一切有勇力的人——七千——佮工匠佮鎖匠——一千;攏總是勇士、會曉相戰的;巴比倫王𪜶押做俘虜去巴比倫。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切有勇力的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "有勇力"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "佮工匠"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "佮鎖匠"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "會曉…的"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "押𪜶"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "做俘虜"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "去巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:57.432576641Z",
+  "model": "glm-5.3"
+}

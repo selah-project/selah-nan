@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "哀哉,設立⟨例⟩的設立不義的例,佮寫的寫⟨害人的⟩痛苦⟨去⟩!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "設立例的"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "例"
+    },
+    {
+      "surface": "און",
+      "gloss": "不義"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "佮寫的"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "痛苦"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "寫"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:51.204155708Z",
+  "model": "glm-5.3"
+}

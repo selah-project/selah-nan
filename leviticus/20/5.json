@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "我就欲將⟨את⟩我的面像對彼個人佮伊的家族,我欲剪除⟨את⟩伊,閣剪除⟨את⟩一切綴伊後面去行淫、綴米勒公(摩洛)行淫的人,對𪜶人民的中間。",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "我就欲將"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的面像"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面像"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "對彼個"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "佮伊的家族"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "我欲剪除"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切行淫的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "行淫的"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "綴伊後面"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "去行淫"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "米勒公"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "𪜶的人民"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:30.087613929Z",
+  "model": "glm-5.3"
+}

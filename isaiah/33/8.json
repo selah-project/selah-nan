@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "大路攏荒廢矣,行路的人停止;伊廢掉約,看無城市,嘛無數念人。",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "攏荒廢"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "大路"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "停止"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "行"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "路的人"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "看無"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城市"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "數念"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:15.349273100Z",
+  "model": "glm-5.3"
+}

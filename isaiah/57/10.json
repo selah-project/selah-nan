@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "你行遮爾濟路致到疲倦,猶毋捌講「無望矣」;你尋著你手的力量,所以你毋曾軟弱。",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "佇遮爾濟"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的路"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "致到疲倦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "捌講"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "無望"
+    },
+    {
+      "surface": "חית",
+      "gloss": "活命"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "你尋著"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "軟弱"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:47.127191438Z",
+  "model": "glm-5.3"
+}

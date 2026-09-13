@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "⟨את⟩我的弓我已下佇雲內,伊欲做立約的記號,佇我佮大地中間。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的弓"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "我的弓"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我已下"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "佇雲內"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "伊欲做"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "做記號"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "立約"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我中間"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-13T06:32:30.883780713Z",
+  "model": "glm-5.3"
+}

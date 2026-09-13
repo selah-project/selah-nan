@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威的計謀永遠徛在,伊心的打算到一代閣一代。",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "打算"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊心的"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "到一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:56.535193496Z",
+  "model": "glm-5.3"
+}

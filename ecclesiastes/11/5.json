@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "親像你毋知風个路,骨頭佇滿个肚腹內底怎樣,按呢你嘛毋知⟨את⟩以羅欣个所作所為,就是伊行做⟨את⟩萬物个。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "你毋"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "親像骨頭"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "佇肚腹"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "滿个"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣个所作所為"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "所作所為"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是伊"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "萬物"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "萬物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:29.642069962Z",
+  "model": "glm-5.3"
+}

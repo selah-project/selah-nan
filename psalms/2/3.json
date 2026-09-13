@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "「阮欲撕破⟨את⟩𪜶的鎖索,閣欲對伊的身上摒掉𪜶的繩索。」",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "阮欲撕破"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的鎖索"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "𪜶的鎖索"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "閣阮欲摒掉"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊的身上"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "𪜶的繩索"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:18.232647685Z",
+  "model": "glm-5.3"
+}

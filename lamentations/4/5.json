@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "昔日食好料的人,佇街市內消瘦荒涼;⼀直飼⼤穿紫紅的,這陣攬垃圾堆。",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "食好料的人"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "好料"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "消瘦荒涼"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "佇街市內"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "一直飼⼤的"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "穿"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "紫紅"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "攬"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "垃圾堆"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:47.998989875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 23:29",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "佇伊的日子,米茲拉因王法老尼哥上去對亞述王遐,到伯拉河;約西亞王出去迎接伊,伊看著伊⟨את⟩了後,就佇米吉多給伊害死。",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "佇伊的日子"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "尼哥"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "河"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "伯拉"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "彼個王"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "去迎接伊"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "給伊害死"
+    },
+    {
+      "surface": "במגדו",
+      "gloss": "佇米吉多"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "看著伊的時"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(約西亞)"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:59.408659767Z",
+  "model": "glm-5.3"
+}

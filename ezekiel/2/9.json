@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我看,看啊,一隻手伸出來向阮遮,看啊,手裡有一卷冊的皮卷。",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "我看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יד",
+      "gloss": "一隻手"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "伸出來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向阮遮"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "בו",
+      "gloss": "手裡"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "一卷"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊的皮卷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:20.690430748Z",
+  "model": "glm-5.3"
+}

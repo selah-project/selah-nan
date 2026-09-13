@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "到時恁掠著⟨את⟩彼座城,就欲用火燒⟨את⟩彼座城;恁著照雅威的話去做。看啊,我已經命令恁⟨את⟩矣。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "到時"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "恁掠著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼座城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "恁就欲燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼座城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照……的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁著去做"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我已經命令"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:01.603306877Z",
+  "model": "glm-5.3"
+}

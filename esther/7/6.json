@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以斯帖講:「彼个對敵佮仇敵,就是這個歹人哈曼。」哈曼就佇王佮王后的面前驚甲半死。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "איש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "צר",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "佮仇敵"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "驚甲半死"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "佮王后"
+    }
+  ],
+  "timestamp": "2026-09-12T05:43:05.674354663Z",
+  "model": "glm-5.3"
+}

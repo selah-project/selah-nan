@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊審判⟨את⟩以色列佇非利士人的日子二十年。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "伊審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-09-12T02:35:16.918645856Z",
+  "model": "glm-5.3"
+}

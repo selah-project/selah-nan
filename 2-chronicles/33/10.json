@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威對瑪拿西佮伊的百姓講話,毋過𪜶無傾聽。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過…無"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "傾聽"
+    }
+  ],
+  "timestamp": "2026-09-12T06:18:11.290045456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "阮的以羅欣佇諸天,伊歡喜啥物,伊就做啥物。",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "伊歡喜"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "伊就做"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:32.023692180Z",
+  "model": "glm-5.3"
+}

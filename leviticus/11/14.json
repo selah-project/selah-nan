@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩達亞(鳶),閣⟨את⟩阿雅(隼),照伊的類。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "達亞"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "達亞(鳶)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "阿雅"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "阿雅(隼)"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "照伊的類"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:49.873018219Z",
+  "model": "glm-5.3"
+}

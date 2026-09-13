@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "一個人的路若合雅威的心意,雅威連伊的對敵嘛會使𪜶佮伊和好⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "若合……的心意"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "路"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連……嘛"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "伊的對敵"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "使和好"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:58.417624058Z",
+  "model": "glm-5.3"
+}

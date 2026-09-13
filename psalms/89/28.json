@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我嘛欲互伊做頭生子,做地上諸個王上高的。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "上高的"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "諸個王的"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:56.885520463Z",
+  "model": "glm-5.3"
+}

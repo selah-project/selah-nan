@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "若是阮,阮的跤差一屑仔就歪去;阮的步履險險仆倒。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "若是阮"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "差一屑仔"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "歪去"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "阮的跤"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "險險"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "仆倒"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "阮的步履"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:25.229686694Z",
+  "model": "glm-5.3"
+}

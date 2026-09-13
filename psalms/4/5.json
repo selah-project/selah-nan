@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "著發譟毋通犯罪;佇恁的心內講話,佇恁的眠床頂,就恬靜。細拉。",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "發譟"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "講話"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "佇恁的心內"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "恁的眠床頂"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "就恬靜"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:53.018891222Z",
+  "model": "glm-5.3"
+}

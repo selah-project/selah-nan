@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "「我的主啊,聽我:地⟨是⟩四百舍客勒銀;佇我佮你中間,這算啥物?通埋⟨את⟩你的死人。」",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "我的主"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "聽我"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "佮你中間"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨是⟩……這"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你的死人"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "你的死人"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "通埋"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:22.131066059Z",
+  "model": "glm-5.3"
+}

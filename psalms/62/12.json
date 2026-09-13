@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "以羅欣講一擺,兩擺我聽著這个,就是氣力屬佇以羅欣。",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "一擺"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩擺"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這个"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽著"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עז",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "屬佇以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:54.793656067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "雅威給我講:「佇猶大的人佮耶路撒冷的住民中間,揣著陰謀矣。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "……講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "陰謀"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "佇……的人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "佮佇……的住民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:18.743850526Z",
+  "model": "glm-5.3"
+}

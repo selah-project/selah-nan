@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "啥人用手掌窩量諸個水?啥人用指距量定諸個天,用三指仔滿捧地的土粉?啥人用秤稱諸個山,用天平稱諸個岡仔?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "量"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "用手掌窩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "諸個水"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "諸個天"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "用指距"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "量定"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "滿捧"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "用三指仔"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土粉"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "稱"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "用秤"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸個山"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "諸個岡仔"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "用天平"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:30.778889799Z",
+  "model": "glm-5.3"
+}

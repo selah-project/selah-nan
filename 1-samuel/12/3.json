@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 12:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "看啊,我佇遮;佇雅威面前,佮伊的彌賽亞面前,對我作證:⟨את⟩啥人的牛我提過?啥人的驢我提過?⟨את⟩啥人我欺負過?⟨את⟩啥人我壓迫過?對啥人的手我提過賄賂,來掩我的目睭?我會還予恁。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我佇遮"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "對我作證"
+    },
+    {
+      "surface": "בי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "佮…面前"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "伊的彌賽亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "啥人的牛"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人的"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "我提過"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "佮驢"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人的"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "我提過"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "啥人"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "עשקתי",
+      "gloss": "我欺負過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "啥人"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "רצותי",
+      "gloss": "我壓迫過"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人的"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "我提過"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "賄賂"
+    },
+    {
+      "surface": "ואעלים",
+      "gloss": "來掩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "בו",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "我會還"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "予恁"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:09.933941193Z",
+  "model": "glm-5.3"
+}

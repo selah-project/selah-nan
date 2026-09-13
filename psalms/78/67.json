@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊無愛約瑟的帳棚,嘛無揀以法蓮的支派。",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "伊無愛"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "的帳棚"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "嘛…的支派"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "揀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:34.286491824Z",
+  "model": "glm-5.3"
+}

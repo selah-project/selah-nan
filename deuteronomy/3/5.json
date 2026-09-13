@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "諸個城攏是設堡壘的,有城牆懸懸、雙扇門閂佮橫閂;另外閣有鄉社的城,真濟真濟。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "設堡壘的"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "懸懸"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "雙扇門閂"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "佮橫閂"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "另外"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "鄉社的城"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "無圍牆的所在"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真濟(極端)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:27.834322700Z",
+  "model": "glm-5.3"
+}

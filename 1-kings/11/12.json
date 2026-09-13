@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "毋閣佇你的日子我袂按呢做,為著你的老父大衛的緣故;我欲對你子的手內撕出來。」",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "毋閣"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "佇你的日子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "按呢做"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著……的緣故"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對……手內"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你子"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "我欲撕出來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:10:38.899921229Z",
+  "model": "glm-5.3"
+}

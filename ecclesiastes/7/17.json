@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "毋通做惡傷濟,嘛毋通做戇人;為啥物你欲佇你的時陣猶未到就死?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "做惡"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "傷濟"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "死"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "猶未到"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "你的時陣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:03.573166199Z",
+  "model": "glm-5.3"
+}

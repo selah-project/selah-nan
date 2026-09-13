@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "吐出信實的,伊會顯明公義;毋過做假見證的,是欺詐。",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "吐出"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "信實"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "毋過彼个見證"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "假的"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺詐"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:49.844180015Z",
+  "model": "glm-5.3"
+}

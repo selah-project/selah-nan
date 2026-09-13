@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣伊欲親像一欉栽佇圳溝邊的樹,佇伊的時陣會結果子,伊的葉嘛毋淍;伊所做的一切攏會興旺。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "閣伊欲成做"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "親像一欉樹"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "栽"
+    },
+    {
+      "surface": "על",
+      "gloss": "倚佇…邊"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "圳溝"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "פריו",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會結出"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "佇伊的時陣"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "閣伊的葉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "淍"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣…一切攏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "伊所做"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "會興旺"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:38.565565555Z",
+  "model": "glm-5.3"
+}

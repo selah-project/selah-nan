@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你毋通求𪜶的和平,嘛毋通求𪜶的好處 —— 你所有的日子攏毋通,到永遠。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "求"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "𪜶的和平"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "佮𪜶的好處"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日子"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:10.454778616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "啲行欲落去米茲拉因(埃及),無問我的喙;欲靠法老的堡壘做力量,倚靠米茲拉因的蔭影。",
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "啲行"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "落去"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "問"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "做力量"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "佇堡壘"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "佇蔭影"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:50.536118980Z",
+  "model": "glm-5.3"
+}

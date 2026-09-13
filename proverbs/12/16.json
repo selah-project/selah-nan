@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "愚戇人的受氣,一日內就顯明;遮蓋見笑的是精明人。",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "一日內"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "伊的受氣"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "佮遮蓋"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "精明人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:11.203503840Z",
+  "model": "glm-5.3"
+}

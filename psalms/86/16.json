@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "求你越頭看向我,恩待我;將你的力量互你的奴僕,救互你的婢女的子。",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "越頭看"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "佮恩待我"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "互"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你的力量"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "佮救"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "互…的子"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你的婢女"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:02.998457214Z",
+  "model": "glm-5.3"
+}

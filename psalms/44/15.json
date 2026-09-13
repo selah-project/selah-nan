@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "你互阮做列國中間的諺語,做萬族搖頭的對象。",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "你互阮做"
+    },
+    {
+      "surface": "משל",
+      "gloss": "諺語"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中間"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "搖"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "בל",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "萬族"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:25.700650860Z",
+  "model": "glm-5.3"
+}

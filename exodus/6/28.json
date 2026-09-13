@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "佇雅威佇米茲拉因的地對摩西講話彼日,事情就按呢發生。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情就按呢發生"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:42.930491934Z",
+  "model": "glm-5.3"
+}

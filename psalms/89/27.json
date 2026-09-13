@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "伊欲叫叫我:『𪜶是阮阿爸,阮的以勒(神),閣阮救恩的磐石。』——伊欲按呢講:『祢是我阿爸』。伊欲呼唤我講:『你是我阿爸,我的以勒,佮我救恩的磐石。』",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "欲叫叫我"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的阿爸"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的以勒"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "佮磐石"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "我的救恩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:56.885402993Z",
+  "model": "glm-5.3"
+}

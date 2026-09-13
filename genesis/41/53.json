@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "七個豐收之年,就是佇米茲拉因(埃及)地所有的,攏結束矣。",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "攏結束矣"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שני",
+      "gloss": "之年"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "豐收"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "היה",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:06.130868045Z",
+  "model": "glm-5.3"
+}

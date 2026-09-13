@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 65:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "看啊,我的奴僕會對心內歡喜出聲唱歌,恁會對心內痛苦大聲哭,會對心神破碎哀嚎。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "會出聲歡呼"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "對…的好"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "תצעקו",
+      "gloss": "會大聲哭"
+    },
+    {
+      "surface": "מכאב",
+      "gloss": "對…的痛"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ומשבר",
+      "gloss": "對…的破碎"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "心神"
+    },
+    {
+      "surface": "תילילו",
+      "gloss": "會哀嚎"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:51.582310703Z",
+  "model": "glm-5.3"
+}

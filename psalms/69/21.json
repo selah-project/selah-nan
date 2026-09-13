@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "羞辱拍破我的心,我就虛弱;我等人來搖頭同情,煞一个嘛無;等安慰的人,嘛無搵著。",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "羞辱"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "拍破"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "我就虛弱"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "我等"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "人來搖頭同情"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "煞無"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "安慰的人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "我搵著"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:28.461462960Z",
+  "model": "glm-5.3"
+}

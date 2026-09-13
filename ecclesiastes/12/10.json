@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "科赫列特愛尋出合意⟨的⟩話,閣所寫的⟨是⟩正直,是真實的話。",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "愛尋"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "科赫列特"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "尋出"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "合意的"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "閣所寫的"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:52.139126051Z",
+  "model": "glm-5.3"
+}

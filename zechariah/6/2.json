@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "佇頭一輛馬車有紅色的馬,佇第二輛馬車有烏色的馬。",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "佇頭一輛馬車"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "頭一"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "紅色的"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "佇第二輛馬車"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "烏色的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:59.831277005Z",
+  "model": "glm-5.3"
+}

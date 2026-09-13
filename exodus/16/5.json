@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "閣事情欲按呢:佇第六日,𪜶欲備辦𪜶所帶入來的⟨את⟩;閣彼个欲成雙倍,佇𪜶日日所拾的之上。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "閣事情欲按呢"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "第六"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "𪜶欲備辦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶所帶入來的彼物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个…的"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "𪜶所帶入來"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "閣彼个欲成"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "雙倍"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…之上"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个…的"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "𪜶所拾"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:26.006544935Z",
+  "model": "glm-5.3"
+}

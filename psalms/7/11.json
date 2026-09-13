@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我的盾牌徛佇以羅欣,伊是救心正直的人的。",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "我的盾牌"
+    },
+    {
+      "surface": "על",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "救……的"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:30.089908849Z",
+  "model": "glm-5.3"
+}

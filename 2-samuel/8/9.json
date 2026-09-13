@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "託以・哈馬的王聽見大衛拍敗⟨את⟩哈達以謝的全軍,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "託以"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "拍敗"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈達以謝的全軍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "哈達以謝"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:16.165554055Z",
+  "model": "glm-5.3"
+}

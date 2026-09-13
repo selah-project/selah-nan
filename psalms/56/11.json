@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "佇以羅欣我欲謳咾伊的話;佇雅威我欲謳咾伊的話。",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "佇以羅欣"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "我欲謳咾"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "我欲謳咾"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:58.319504491Z",
+  "model": "glm-5.3"
+}

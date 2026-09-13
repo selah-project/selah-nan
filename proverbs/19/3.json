@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "人的愚戇歪曲伊的路;伊的心對雅威受氣。",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "愚戇"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "歪曲"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:41.281186728Z",
+  "model": "glm-5.3"
+}

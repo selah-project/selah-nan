@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 11:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "因為你欲入去佔有的彼個土地,毋是親像米茲拉因(埃及)的地——就是你對彼位出來的——佇遐你撒⟨את⟩你的種,用你的腳灌沃,親像菜園。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "去遐"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "佔有伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "親像…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "恁出來"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對彼位"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "你撒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的種"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的種"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "用你的腳灌沃"
+    },
+    {
+      "surface": "ברגלך",
+      "gloss": "用你的腳"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "親像…的園"
+    },
+    {
+      "surface": "הירק",
+      "gloss": "菜"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:39.226707931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 41:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "我欲佇光禿的山頂開河流,佇山谷的中央開泉源;我欲互曠野變做水池,互焦旱的地變做出水的泉。",
+  "tokens": [
+    {
+      "surface": "אפתח",
+      "gloss": "我欲開"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "光禿的山頂"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "河流"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "佮佇…的中央"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我欲互…變做"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "變做水池"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮…地"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "焦旱的"
+    },
+    {
+      "surface": "למוצאי",
+      "gloss": "做出水"
+    },
+    {
+      "surface": "מים",
+      "gloss": "泉"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:28.721405207Z",
+  "model": "glm-5.3"
+}

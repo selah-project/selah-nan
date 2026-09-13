@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 20:21",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "希西家佮伊的列祖同睏,伊的後生瑪拿西佇伊的位置做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "同睏"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "佇伊的位置"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:35.268491457Z",
+  "model": "glm-5.3"
+}

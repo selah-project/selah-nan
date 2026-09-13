@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "因為啉酒醉的人佮大食的人會散赤,啉啉食食會予人穿破衫。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "啉酒醉"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "佮大食"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "會散赤"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "啉啉食食"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "會予人穿"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "破衫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:28.850594472Z",
+  "model": "glm-5.3"
+}

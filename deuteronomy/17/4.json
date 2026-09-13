@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "若有人報你知,你嘛聽見矣,你就愛仔細查明;看啊,若真正是實,代誌確定,這號可厭惡的事行佇以色列中間,",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "報你知"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "你聽見"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "你查明"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "仔細"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "是實"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "確定"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "行出來"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "可厭惡的事"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這號"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列中間"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:39.511563758Z",
+  "model": "glm-5.3"
+}

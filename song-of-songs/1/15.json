@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "看啊,妳真媠,我的女友;看啊,妳真媠;妳的目睭親像鴿仔。",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "真媠"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "我的女友"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "真媠"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "妳的目睭"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "鴿仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:31:50.335270365Z",
+  "model": "glm-5.3"
+}

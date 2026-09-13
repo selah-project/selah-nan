@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 9:23",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "諸个是監工的頭目,佇所羅門的工課頂的,五十佮五百个,管遐佇做工課的百姓。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "諸个"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "監工的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門的"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "佮五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "管百姓的"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "對百姓"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "做工的"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "佇工課"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:04.788409905Z",
+  "model": "glm-5.3"
+}

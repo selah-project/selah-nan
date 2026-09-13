@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "大衛差人去約押遐,講:「差⟨את⟩烏利亞‧赫人來遮。」約押就差⟨את⟩烏利亞去大衛遐。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "來遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏利亞"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就差"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏利亞"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:07.138168966Z",
+  "model": "glm-5.3"
+}

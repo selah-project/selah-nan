@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "祭司欲獻⟨את⟩彼燔祭佮⟨את⟩彼素祭上祭壇,祭司替伊贖罪,伊就清氣矣。",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "佮欲獻上"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼燔祭"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "彼燔祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼素祭"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "彼素祭"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "上祭壇"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "佮替伊贖罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "佮清氣矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:28.971286544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "因為王佮伊的官員,佮耶路撒冷全會眾,已經相𤆬商量,欲佇第二個月守彼個逾越節。",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "相𤆬商量"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "佮伊的官員"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮全"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "欲守"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "彼個逾越節"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    }
+  ],
+  "timestamp": "2026-09-12T06:18:56.655983372Z",
+  "model": "glm-5.3"
+}

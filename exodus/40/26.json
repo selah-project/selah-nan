@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊下⟨את⟩金的祭壇佇會幕內底,佇帳仔棚前面:",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金的祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "佇…內底"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…前面"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "帳仔棚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:49.923803925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "你看，我已經提名召比撒列(בצלאל)，伊是烏利的子，戶蘭的孫，屬猶大支派，",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我已經召"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "提名"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "比撒列"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "烏利"
+    },
+    {
+      "surface": "בן",
+      "gloss": "孫"
+    },
+    {
+      "surface": "חור",
+      "gloss": "戶蘭"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "屬…支派"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:08.229384805Z",
+  "model": "glm-5.3"
+}

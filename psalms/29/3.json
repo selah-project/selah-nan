@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅威的聲佇眾水頂面;榮光的以勒拍雷;雅威佇濟濟水頂面。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "המים",
+      "gloss": "眾水"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "榮光的"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "拍雷"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "濟濟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:05.288220983Z",
+  "model": "glm-5.3"
+}

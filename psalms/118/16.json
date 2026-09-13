@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "雅威的正手舉懸;雅威的正手做勇敢的事。",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "正手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "舉懸"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "正手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇敢的事"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:49.964129459Z",
+  "model": "glm-5.3"
+}

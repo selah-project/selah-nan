@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "雅威擊打⟨את⟩古實人,佇亞撒面前佮猶大面前;古實人就逃走。",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "就擊打"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "古實人"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "古實人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "佮佇…面前"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "𪜶就逃走"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "古實人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:38.173635402Z",
+  "model": "glm-5.3"
+}

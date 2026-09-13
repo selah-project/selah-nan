@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "伊講三千句譬喻,伊的歌有五仟閣一千首。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "仟"
+    },
+    {
+      "surface": "משל",
+      "gloss": "句譬喻"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "伊的歌"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "佮一千"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:03.431511064Z",
+  "model": "glm-5.3"
+}

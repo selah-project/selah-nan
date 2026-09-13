@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "傷的烏青會洗清歹事;拍擊(通到)腹肚內底的深處。",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "烏青"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "傷"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "洗清"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "閣拍擊"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "內底的深處"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "腹肚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:58.724850137Z",
+  "model": "glm-5.3"
+}

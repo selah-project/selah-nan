@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 33:26",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "你徛佇你的刀劍頂,你做可惡的事,逐人污穢⟨את⟩鄰舍的某——這片土地你敢欲佔?",
+  "tokens": [
+    {
+      "surface": "עמדתם",
+      "gloss": "你徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "你的刀劍"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "你做"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可惡的事"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "閣逐人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鄰舍的某"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的鄰舍"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "你污穢"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "閣這片土地"
+    },
+    {
+      "surface": "תירשו",
+      "gloss": "你敢欲佔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:20:30.295045931Z",
+  "model": "glm-5.3"
+}

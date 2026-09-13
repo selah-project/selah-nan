@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅威的聲帶權能;雅威的聲帶威嚴。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "帶權能"
+    },
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "帶威嚴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:05.288350297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "示劍對伊老父哈抹講:「替我娶⟨את⟩這个查某囝仔做某。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "哈抹"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊个老父"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "קח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个查某囝仔"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "這个查某囝仔"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "做某"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:26.862506480Z",
+  "model": "glm-5.3"
+}

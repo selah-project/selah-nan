@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "雅威對摩西講話，講：",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講："
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:10.580935987Z",
+  "model": "glm-5.3"
+}

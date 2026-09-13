@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 84,
+  "translation": "就連鳥仔嘛揣著厝,燕仔為家己揣著岫,佇遐安置伊的幼雛,⟨את⟩你的祭壇——雅威・采巴奧特,我的王,我的以羅欣。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "就連……嘛"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "佮燕仔"
+    },
+    {
+      "surface": "קן",
+      "gloss": "岫"
+    },
+    {
+      "surface": "לה",
+      "gloss": "為家己"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "安置"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "伊的幼雛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的祭壇"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "你的祭壇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "我的王"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "佮我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:58.514231104Z",
+  "model": "glm-5.3"
+}

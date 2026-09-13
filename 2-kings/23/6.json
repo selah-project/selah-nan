@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊就共⟨את⟩亞舍拉對雅威的殿裡提出去,出到耶路撒冷外面,到基訓溪遮,佇基訓溪遮燒掉⟨את⟩伊,研做粉,閣共⟨את⟩伊的粉攑去撒佇百姓的墓頂。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "伊就…提出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞舍拉"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "亞舍拉"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "出到…外面"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "基訓溪遮的基訓"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "燒掉"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(亞舍拉)"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "佇溪遮"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "基訓"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "研做粉"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "做粉"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "攑去撒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的粉"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "伊的粉"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-09-13T06:29:52.613732735Z",
+  "model": "glm-5.3"
+}

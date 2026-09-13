@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "有福氣喔,彼𪜶守公義、佇逐個時陣行公義的人。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣喔"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "守"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐個"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時陣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:10.322400265Z",
+  "model": "glm-5.3"
+}

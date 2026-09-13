@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "這些代誌了後，拿伯——耶斯列人——有一个葡萄園佇耶斯列，倚近亞哈的王宮，亞哈是撒瑪利亞的王。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生了"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "一个葡萄園"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "拿伯"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "耶斯列人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "耶斯列"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "王宮"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:10.125789225Z",
+  "model": "glm-5.3"
+}

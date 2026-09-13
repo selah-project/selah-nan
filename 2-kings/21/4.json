@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣伊起造祭壇佇雅威的厝內,雅威捌講:「佇耶路撒冷我欲下 ⟨את⟩ 我的名。」",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "閣…起造"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的厝內"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אמר",
+      "gloss": "捌講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我欲下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的名"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:07.490212470Z",
+  "model": "glm-5.3"
+}

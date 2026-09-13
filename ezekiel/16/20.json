@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "你就提⟨את⟩你的後生佮⟨את⟩你的查某囝——就是你替我生的——宰獻𪜶予𪜶食;對你的淫亂,這敢是小可?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "你就提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的後生"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的後生"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "你的查某囝"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "你的查某囝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "你生的"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "你就宰獻𪜶"
+    },
+    {
+      "surface": "להם",
+      "gloss": "予𪜶"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "食"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "這敢是小可"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "對你的淫亂"
+    }
+  ],
+  "timestamp": "2026-09-12T04:12:35.720323020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "亞伯拉罕就對以羅欣講:「喔!願以實瑪利活佇你面前!」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לו",
+      "gloss": "喔!願"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "活"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    }
+  ],
+  "timestamp": "2026-09-12T01:13:26.369200053Z",
+  "model": "glm-5.3"
+}

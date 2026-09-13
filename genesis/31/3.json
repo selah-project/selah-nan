@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "雅威對雅各講:「倒轉去你祖先的地、你的出生地,我欲佮你佇咧。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "的地"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "你的祖先"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "閣你的出生地"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "我欲…佇咧"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:19.418010401Z",
+  "model": "glm-5.3"
+}

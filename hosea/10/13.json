@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 10:13",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "恁犁了歹惡,收成了毋公道,恁已經食謊言的果子;因為你倚靠你家己的路,倚靠你勇士的眾多。",
+  "tokens": [
+    {
+      "surface": "חרשתם",
+      "gloss": "恁犁了"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹惡"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "毋公道"
+    },
+    {
+      "surface": "קצרתם",
+      "gloss": "收成了"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "恁已經食"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "你倚靠"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "你家己的路"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "倚靠……的眾多"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "你的勇士"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:52.304046821Z",
+  "model": "glm-5.3"
+}

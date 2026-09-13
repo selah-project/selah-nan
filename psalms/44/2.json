@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "以羅欣啊,阮用阮的耳仔聽見,阮的祖先有對阮講起,你佇𪜶的日子、佇遠古的日子所行的工。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "用阮的耳仔"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "阮聽見"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "有講起"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "工"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "你所行的"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "佇𪜶的日子"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "遠古"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.347971656Z",
+  "model": "glm-5.3"
+}

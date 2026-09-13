@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "所以𪜶起來,佇黃昏暗時逃走,放棄⟨את⟩𪜶的帳棚、⟨את⟩𪜶的馬、⟨את⟩𪜶的驢——營區照原樣——逃走救𪜶的性命。",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "佇黃昏暗時"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的帳棚"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "𪜶的帳棚"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的馬"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "𪜶的馬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的驢"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "𪜶的驢"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營區"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "היא",
+      "gloss": "原樣"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "אל",
+      "gloss": "為著"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:54.632313940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "毋過,以羅欣的櫃,大衛已經對基列耶琳帶起來矣,彼時大衛為伊準備好勢,因為伊佇耶路撒冷為彼个櫃張一个帳棚。",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "毋過"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "帶起來"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "對基列…"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "…耶琳"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "彼時…準備好勢"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "張"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:17.356895754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 29:7",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "當我出去城門口的時,佇街路頂我備辦我的座位。",
+  "tokens": [
+    {
+      "surface": "בצאתי",
+      "gloss": "當我出去"
+    },
+    {
+      "surface": "שער",
+      "gloss": "城門口"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "城"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "佇街路頂"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "我備辦"
+    },
+    {
+      "surface": "מושבי",
+      "gloss": "我的座位"
+    }
+  ],
+  "timestamp": "2026-09-12T05:27:51.488385945Z",
+  "model": "glm-5.3"
+}

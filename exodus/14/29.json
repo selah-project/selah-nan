@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 14:29",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "以色列的子孫行佇乾燥的地上、佇海的中間，水𪜶做牆，佇𪜶的正手爿佮倒手爿。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "佮…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "佇乾燥的地上"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…的中間"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "佮水"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶做"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "牆"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "𪜶的正手爿"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "佮𪜶的倒手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:30.345173094Z",
+  "model": "glm-5.3"
+}

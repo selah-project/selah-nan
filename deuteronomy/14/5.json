@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "鹿、獐仔、麋、野山羊、迪雄(白臀羚)、野牛、撒默(岩羊)。",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "鹿"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "獐仔"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "麋"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "野山羊"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "迪雄"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "野牛"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "撒默"
+    }
+  ],
+  "timestamp": "2026-09-12T02:12:40.938195574Z",
+  "model": "glm-5.3"
+}

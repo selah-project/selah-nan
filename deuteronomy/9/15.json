@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "我就越頭,對彼个山落來,彼个山佇火裡燒,約的兩塊板佇我的兩隻手裡。",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "我就越頭"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "我就落來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼个山"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "彼个山"
+    },
+    {
+      "surface": "בער",
+      "gloss": "燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火裡"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "兩塊"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "板"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩隻"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:47.319081648Z",
+  "model": "glm-5.3"
+}

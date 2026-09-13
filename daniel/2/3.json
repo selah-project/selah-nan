@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "王給𪜶講:我夢見一個夢,我的神志著擾亂,為著欲知彼個夢 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "להם",
+      "gloss": "給𪜶"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "一個夢"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "我夢見"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "著擾亂"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的神志"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "為著欲知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個夢"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "彼個夢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:36.128129600Z",
+  "model": "glm-5.3"
+}

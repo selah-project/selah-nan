@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "看啊,你比但以理卡有智慧,啥物隱密的事對你攏隱瞞袂牢。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "比但以理"
+    },
+    {
+      "surface": "כל",
+      "gloss": "啥物…攏"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "隱密的事"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "對你隱瞞牢"
+    }
+  ],
+  "timestamp": "2026-09-12T04:18:48.849799330Z",
+  "model": "glm-5.3"
+}

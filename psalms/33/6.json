@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "靠雅威的話,諸天受造;靠伊嘴內的氣,所有的攏總做成。",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "靠…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "受造"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "佮靠…的氣"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊嘴內的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "𪜶的采巴奧特"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:03.948363351Z",
+  "model": "glm-5.3"
+}

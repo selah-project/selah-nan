@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "狡猾的人掩崁知識,毋過愚戇人的心喝出愚戇。",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "狡猾的"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "掩崁"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "毋過…的心"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "喝出"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "愚戇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.391153977Z",
+  "model": "glm-5.3"
+}

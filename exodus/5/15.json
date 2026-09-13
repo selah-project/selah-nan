@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以色列人的官頭就去對法老哀叫,講:「是按怎按呢對待阮,你的奴僕?」",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "就去"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "官頭"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "哀叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "למה",
+      "gloss": "是按怎"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "對待"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "阮,你的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:12.347033505Z",
+  "model": "glm-5.3"
+}

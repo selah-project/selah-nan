@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "阿多奈著謳咾,一日一日,伊給阮𫢮重擔;阮的拯救——以勒。細拉。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "著謳咾"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "𫢮重擔"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "給阮"
+    },
+    {
+      "surface": "האל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "阮的拯救"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:16.463424950Z",
+  "model": "glm-5.3"
+}

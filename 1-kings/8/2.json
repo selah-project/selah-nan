@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "以色列眾人攏聚集到所羅門王遐,佇以坦念月,佇彼个節期——彼个月是第七個月。",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "攏聚集"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "佇……月"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "以坦念"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "佇彼个節期"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个……是"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "月"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七個"
+    }
+  ],
+  "timestamp": "2026-09-13T04:27:13.718796630Z",
+  "model": "glm-5.3"
+}

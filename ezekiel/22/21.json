@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 22:21",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我欲收聚恁⟨את⟩,吹火佇恁頂面,用我的受氣的火,恁欲佇伊中間融化。",
+  "tokens": [
+    {
+      "surface": "וכנסתי",
+      "gloss": "我欲收聚"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "ונפחתי",
+      "gloss": "吹"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "佇恁頂面"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "我的受氣"
+    },
+    {
+      "surface": "ונתכתם",
+      "gloss": "恁欲融化"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "佇伊中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:15:49.851527374Z",
+  "model": "glm-5.3"
+}

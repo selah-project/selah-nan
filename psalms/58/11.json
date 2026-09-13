@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "義人欲歡喜，因為伊看著報應；伊欲佇歹人个血內洗伊个腳蹄。",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "欲歡喜"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "看著"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報應"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "伊个腳蹄"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "欲洗"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "佇血內"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "歹人个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:11.365694972Z",
+  "model": "glm-5.3"
+}

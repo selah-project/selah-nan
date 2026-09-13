@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "你欲提⟨את⟩兩粒舒哈姆石,佇𪜶頂面刻以色列眾子的名。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你欲提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩粒舒哈姆石"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩粒"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "舒哈姆"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "佮刻"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:57.390976398Z",
+  "model": "glm-5.3"
+}

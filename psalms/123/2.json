@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 123,
+  "translation": "看啊,親像奴僕的目睭看𪜶主人的手,親像婢女的目睭看伊女主人的手,咱的目睭嘛按呢看向雅威、咱的以羅欣,直到伊施恩憐憫咱。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "親像…的目睭"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "𪜶主人"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "親像…的目睭"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "伊女主人"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "咱的目睭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "伊施恩憐憫咱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:57.936938923Z",
+  "model": "glm-5.3"
+}

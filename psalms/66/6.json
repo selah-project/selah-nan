@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "伊拍海變做乾地;𪜶對河用腳行過;佇遐,咱佇伊身上歡喜。",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "拍…變做"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "乾地"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "對河"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "行過"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "用腳"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊身上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:53.834867076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "按呢大衛就毋將⟨את⟩約櫃運去伊遐,到大衛城,是將伊彎去俄別‧以東這個迦特人的厝。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "就毋"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "運走"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約櫃"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "去伊遐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛(的城)"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "就將伊彎去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "俄別"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "以東"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "迦特人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:28.248415207Z",
+  "model": "glm-5.3"
+}

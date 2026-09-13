@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "我無差遣⟨את⟩諸個先知,𪜶家己就走;我無對𪜶講話,𪜶家己就講預言。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我差遣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個先知"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "諸個先知"
+    },
+    {
+      "surface": "והם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "走"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "והם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "講預言"
+    }
+  ],
+  "timestamp": "2026-09-12T03:55:13.180308122Z",
+  "model": "glm-5.3"
+}

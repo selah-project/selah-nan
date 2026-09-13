@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 7:24",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣佇伊的唇下底有圓突仔,照十肘一肘十個圍⟨את⟩伊,包圍⟨את⟩彼個海四圍;彼兩排圓突仔是佇鑄伊的時就直接鑄佇裡底的。",
+  "tokens": [
+    {
+      "surface": "ופקעים",
+      "gloss": "閣有圓突仔"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "佇…下底"
+    },
+    {
+      "surface": "לשפתו",
+      "gloss": "伊的唇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "סבבים",
+      "gloss": "圍"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "מקפים",
+      "gloss": "一肘十個包圍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼個海"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "排"
+    },
+    {
+      "surface": "הפקעים",
+      "gloss": "彼个圓突仔"
+    },
+    {
+      "surface": "יצקים",
+      "gloss": "鑄"
+    },
+    {
+      "surface": "ביצקתו",
+      "gloss": "佇鑄伊的時"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:59.660702Z",
+  "model": "glm-5.3"
+}

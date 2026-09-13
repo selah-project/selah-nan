@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "以色列人出去欲佮便雅憫相戰;以色列人排陣⟨את⟩𪜶,佇基比亞遐排開陣勢。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "欲相戰"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "排陣"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(便雅憫人)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "陣勢"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "基比亞"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:01.938145632Z",
+  "model": "glm-5.3"
+}

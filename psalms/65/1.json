@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "互指揮者,大衛的一首米茲摩爾,一首歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "米茲摩爾"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:09.632494471Z",
+  "model": "glm-5.3"
+}

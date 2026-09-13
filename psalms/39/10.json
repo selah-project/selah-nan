@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "我噤口,無開我的喙,因為是汝做–的。",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "我噤口"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "做–的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:34.157732689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "因為伊欲救你脫離捕鳥人的網羅,脫離毀滅性的瘟疫。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "欲救你"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "脫離……網羅"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "捕鳥人的"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "脫離瘟疫"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "毀滅性的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:10.069983381Z",
+  "model": "glm-5.3"
+}

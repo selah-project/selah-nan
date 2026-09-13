@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "勇者的弓已經折斷,跋倒的人反轉束腰有力。",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "勇者的"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "折斷"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "跋倒的人"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "束腰"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "有力"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:13.729320899Z",
+  "model": "glm-5.3"
+}

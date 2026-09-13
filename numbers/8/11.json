@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 8:11",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣亞倫欲搖獻 ⟨את⟩ 利未人做搖祭,佇雅威面頭前,對 ⟨את⟩ 以色列的子兒遐來;閣𪜶欲去行 ⟨את⟩ 雅威的服事。",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "閣欲搖獻"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "利未人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "做搖祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "閣𪜶欲"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "去行服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的服事"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "的服事"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:55:13.184116016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 13:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "你就愛將一切開子宮頭胎的獻互雅威;一切你的牲畜所生的頭胎,公的攏屬雅威。",
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "你就愛獻"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "頭胎開"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "子宮"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣一切"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "頭胎"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "所生的"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "屬"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "公的"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:34.069489501Z",
+  "model": "glm-5.3"
+}

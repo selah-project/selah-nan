@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "你用神蹟佮奇事,用手堅強佮伸出的手臂,閣用大的驚惶,出⟨את⟩你的百姓⟨את⟩以色列離開埃及(米茲拉因)的地;",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的百姓"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "離開…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及(米茲拉因)"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "用神蹟"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "佮奇事"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "佮用手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "堅強"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "佮用臂"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸出的"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "閣用驚惶"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:59:47.101859335Z",
+  "model": "glm-5.3"
+}

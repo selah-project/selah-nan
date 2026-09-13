@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇彼陣日子，亞哈隨魯王坐佇伊王權的寶座頂，就是佇書珊彼座堡壘城，",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "佇…日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼陣"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "當…坐"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "伊王權的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "彼座堡壘城"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:49.566897660Z",
+  "model": "glm-5.3"
+}

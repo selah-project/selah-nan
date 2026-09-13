@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇第八日，摩西叫亞倫（阿哈倫）佮伊的眾子，閣叫以色列的長老。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "閣叫伊的眾子"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "閣叫……的長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:26.286305478Z",
+  "model": "glm-5.3"
+}

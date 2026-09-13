@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "心利入去拍伊,共伊刣死,佇猶大王亞撒在位第二十七年;伊接替伊做王。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "心利"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "拍伊"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "共伊刣死"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "佮七"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接替伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:05.910720436Z",
+  "model": "glm-5.3"
+}

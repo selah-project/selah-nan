@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣彼土地會啼哭,家族、家族,逐家各:大衛家的家族各家,𪜶的某各家;拿單家的家族各家,𪜶的某各家。",
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "閣會啼哭"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼土地"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "家族"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "家族"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "逐家各"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…家"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "各家"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "閣𪜶的某"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "各家"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…家"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "各家"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "閣𪜶的某"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "各家"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:03.939950552Z",
+  "model": "glm-5.3"
+}

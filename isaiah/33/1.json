@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "哀哉,你這搶奪的,猶未被搶奪;你這背信的,猶無人對你背信!當你搶奪煞尾,你欲受搶奪;當你背信到透,𪜶欲對你背信。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "你這搶奪的"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "而你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "被搶奪"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "你這背信的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "猶無"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "人對你背信"
+    },
+    {
+      "surface": "בו",
+      "gloss": "對你"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "當你煞尾"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "搶奪"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "你欲受搶奪"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "當你到透"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "背信"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "𪜶欲背信"
+    },
+    {
+      "surface": "בך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:18.488402732Z",
+  "model": "glm-5.3"
+}

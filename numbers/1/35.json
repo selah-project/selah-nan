@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "𪜶被點名的人數,屬瑪拿西支派的,是三萬二千佮二百 ⟨是二佮三十千佮二百⟩。",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "𪜶被點名的"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "屬…支派的"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "佮三十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "佮二百"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:24.468733068Z",
+  "model": "glm-5.3"
+}

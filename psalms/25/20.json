@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "保護我的性命,救我;毋通予我見笑,因為我投靠你。",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "保護"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "予我見笑"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我投靠"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:37.906718138Z",
+  "model": "glm-5.3"
+}

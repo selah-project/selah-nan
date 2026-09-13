@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "雅威對天頂雷響,以利勇(至高者)發出伊的聲。",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "雷響"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "以利勇(至高者)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "發出"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "伊的聲"
+    }
+  ],
+  "timestamp": "2026-09-12T02:59:27.728030325Z",
+  "model": "glm-5.3"
+}

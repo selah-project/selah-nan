@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "所羅門一日的糧食⟨是⟩三十歌珥的細麵粉,佮六十歌珥的麵粉。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "糧食"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "一日的"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "כר",
+      "gloss": "歌珥"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵粉"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "佮六十"
+    },
+    {
+      "surface": "כר",
+      "gloss": "歌珥"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "麵粉"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:10.531104112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 4:12",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "列國著醒起來,上到耶何沙法特谷;因為佇遐我欲坐落去審判⟨את⟩四圍一切的列國。",
+  "tokens": [
+    {
+      "surface": "יעורו",
+      "gloss": "著醒起來"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "上到"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "谷"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "耶何沙法特"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "我欲坐落去"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "四圍一切的列國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "的列國"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:35.413796793Z",
+  "model": "glm-5.3"
+}

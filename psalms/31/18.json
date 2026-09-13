@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "雅威啊,互我毋通見笑,因為我求叫你;見笑互惡人,互𪜶恬去落示阿勒。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "互我見笑"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "我求叫你"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "互𪜶恬去"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "落示阿勒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:06.818541890Z",
+  "model": "glm-5.3"
+}

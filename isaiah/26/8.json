@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "雅威啊,對,佇你審判的路,阮向望你;對你的名,嘛對你的記念,是活命所向望的。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "對"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "路"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你審判的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "阮向望你"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "對你的名"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "嘛對你的記念"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "所向望的"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "活命"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:33.992093887Z",
+  "model": "glm-5.3"
+}

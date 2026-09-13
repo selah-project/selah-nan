@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我・柯希列特做過以色列的王,佇耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "柯希列特"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "做過"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "(佇…頂面)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:13.259008165Z",
+  "model": "glm-5.3"
+}

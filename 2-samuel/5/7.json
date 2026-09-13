@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "大衛就攻取⟨את⟩錫安的保障;彼个就是大衛城。",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "就攻取"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安的保障"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "的保障"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼个就是"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:28.639619684Z",
+  "model": "glm-5.3"
+}

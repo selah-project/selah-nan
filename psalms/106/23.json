@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 106:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "閣伊講欲毀滅𪜶,若毋是摩西──伊所揀選的──徛佇破裂口、佇伊的面前,來挽回伊的受氣,以免毀滅𪜶。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣伊講"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "欲毀滅𪜶"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "若毋是"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בחירו",
+      "gloss": "伊所揀選的"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "佇破裂口"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊的面前"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "來挽回"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "伊的受氣"
+    },
+    {
+      "surface": "מהשחית",
+      "gloss": "以免毀滅𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:07.710228395Z",
+  "model": "glm-5.3"
+}

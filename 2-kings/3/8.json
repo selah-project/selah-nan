@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊講:「咱欲對佗位的路上去?」伊講:「對以東曠野的路。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "אי",
+      "gloss": "佗位"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "咱欲上去"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:04.802720479Z",
+  "model": "glm-5.3"
+}

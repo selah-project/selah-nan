@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 5:21",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "毋通貪你厝邊的某,嘛毋通愛慕你厝邊的厝、伊的田、伊的奴僕、伊的婢女、伊的牛、伊的驢,佮一切屬你厝邊的物。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "貪"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你厝邊的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תתאוה",
+      "gloss": "愛慕"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你厝邊的"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "伊的田"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "伊的婢女"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "伊的牛"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "伊的驢"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬…的"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "你厝邊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:16.905327649Z",
+  "model": "glm-5.3"
+}

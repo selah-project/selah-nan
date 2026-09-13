@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "佇山猶未曾沉落以前,佇丘陵以前,我出世。",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "佇…猶未…以前"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "沉落"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…以前"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "丘陵"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "我出世"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:17.015464899Z",
+  "model": "glm-5.3"
+}

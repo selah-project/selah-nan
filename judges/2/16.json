@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 2:16",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "毋拘雅威興起士師(審判者),𪜶救𪜶脫離搶奪𪜶的人的手。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "興起"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "士師"
+    },
+    {
+      "surface": "ויושיעום",
+      "gloss": "𪜶救𪜶脫離"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…的手"
+    },
+    {
+      "surface": "שסיהם",
+      "gloss": "搶奪𪜶的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:45.896212360Z",
+  "model": "glm-5.3"
+}

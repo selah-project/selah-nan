@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威對撒但講:看,伊佇你的手內;獨獨⟨את⟩伊的性命,你著看守。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "撒但"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "看"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手內"
+    },
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的性命"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "你著看守"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:35.161606733Z",
+  "model": "glm-5.3"
+}

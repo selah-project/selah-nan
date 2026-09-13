@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你欲倒轉來,聽雅威的聲,行⟨את⟩伊一切的誡命,就是今仔日我所命令你的。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "欲倒轉來"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊一切的誡命"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "伊的誡命"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "所命令你的"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:58.178387442Z",
+  "model": "glm-5.3"
+}

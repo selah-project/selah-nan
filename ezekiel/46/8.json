@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "君王入來的時,對彼個門的走廊彼條路入去,閣照伊入來彼條路出去。",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "入來的時"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "君王"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "走廊"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "閣照伊的路"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:24:27.990576419Z",
+  "model": "glm-5.3"
+}

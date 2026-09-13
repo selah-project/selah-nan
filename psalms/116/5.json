@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "雅威有恩惠閣公義,咱的以羅欣有憐憫。",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "有恩惠"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "閣公義"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "有憐憫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:58.895133032Z",
+  "model": "glm-5.3"
+}

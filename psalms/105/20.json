@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "王差派人，解放伊；列民的統治者，放伊自由。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "差派人"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "解放伊"
+    },
+    {
+      "surface": "משל",
+      "gloss": "統治者"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列民的"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "放伊自由"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:02.959750742Z",
+  "model": "glm-5.3"
+}

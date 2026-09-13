@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "歌中的歌,彼是所羅門的。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "中的歌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼是"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:16.097062801Z",
+  "model": "glm-5.3"
+}

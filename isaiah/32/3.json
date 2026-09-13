@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "閣看的人的目睭毋閣霧霧無明,聽的人的耳仔會致意聽。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "會霧霧無明"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "…的目睭"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "看的人"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "佮…的耳仔"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "聽的人"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "會致意聽"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:02.324890783Z",
+  "model": "glm-5.3"
+}

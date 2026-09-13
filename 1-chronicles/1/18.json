@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞法撒生⟨את⟩沙拉,沙拉閣生⟨את⟩希伯。",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "亞法撒"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "沙拉"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "沙拉"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "沙拉"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "希伯"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "希伯"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:07.090808237Z",
+  "model": "glm-5.3"
+}

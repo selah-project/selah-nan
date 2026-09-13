@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為你若喚求聰明,向明白出你的聲,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "向聰明"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "喚求"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "向明白"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "出"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "你的聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:59.349789413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "王命令⟨את⟩全體的百姓，講：「恁著守逾越節予雅威——恁的以羅欣，照這本約冊所記載的。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全體的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "守"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "逾越節"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "照所記載"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…上"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:44.463175609Z",
+  "model": "glm-5.3"
+}

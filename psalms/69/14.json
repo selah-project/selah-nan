@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "獨我——我的祈禱向你,雅威,佇受悅納的時;以羅欣啊,佇你豐盛的赫瑟德(慈愛)內,用你拯救的誠實應允我。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "獨我"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "受悅納"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "佇豐盛"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應允我"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "用誠實"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "你的拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:02.332174460Z",
+  "model": "glm-5.3"
+}

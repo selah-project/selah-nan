@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊擲出伊的冰親像碎屑;佇伊的寒冷面前,啥人徛會牢?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "擲出"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "伊的冰"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "親像碎屑"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "伊的寒冷"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "徛會牢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:31.004164222Z",
+  "model": "glm-5.3"
+}

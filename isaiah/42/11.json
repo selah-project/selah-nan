@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "曠野佮伊的城攏著出聲,基達(阿拉伯的遊牧民)蹛的庄頭著歡喜出聲;巖石(西拉,以東的石城)的居民著唱歌,對山的頂面著大聲喝采。",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "著出聲"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "佮伊的城"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "庄頭"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "基達"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "著歡喜出聲"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "巖石(西拉)"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "對……頂面"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "著大聲喝采"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:14.939442416Z",
+  "model": "glm-5.3"
+}

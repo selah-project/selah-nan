@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "公義的人明白伊的牲畜的性命;毋拘歹人的憐憫是殘忍。",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "明白"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "伊的牲畜"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "毋拘…的憐憫"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "殘忍"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:46.327808672Z",
+  "model": "glm-5.3"
+}

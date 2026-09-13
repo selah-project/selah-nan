@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 111,
+  "translation": "伊的作工有威嚴閣有光彩;伊的公義徛到永遠。",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "有威嚴"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "閣有光彩"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "伊的作工"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "伊的公義"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:17.314394734Z",
+  "model": "glm-5.3"
+}

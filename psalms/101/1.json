@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 101,
+  "translation": "大衛的詩歌。赫瑟德(慈愛)佮公義我欲唱歌,向你雅威我欲彈琴唱詩。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "佮公義"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我欲唱歌"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我欲彈琴唱詩"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:57.810526386Z",
+  "model": "glm-5.3"
+}

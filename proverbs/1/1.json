@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "示羅莫(所羅門)的箴言,伊是達維(大衛)的囝,以色列的王:",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "箴言"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "示羅莫"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "達維"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:19.466200407Z",
+  "model": "glm-5.3"
+}

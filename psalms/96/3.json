@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "著佇列國中間數念伊的光榮,佇萬百姓中間傳講伊的奇妙作為。",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "著數念"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的光榮"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇萬"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "伊的奇妙作為"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:39.613703602Z",
+  "model": "glm-5.3"
+}

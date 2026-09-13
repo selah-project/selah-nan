@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "所以,傲慢做𪜶的頸鍊;強暴做衫掩𪜶。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "做𪜶的頸鍊"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "傲慢"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "掩"
+    },
+    {
+      "surface": "שית",
+      "gloss": "做衫"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:37.177225921Z",
+  "model": "glm-5.3"
+}

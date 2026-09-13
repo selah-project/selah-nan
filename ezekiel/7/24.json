@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 7:24",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我欲帶列國中尚歹的來,𪜶欲佔有⟨את⟩𪜶的厝;我欲互強者的驕傲停止,𪜶的聖所欲受褻瀆。",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "我欲帶…來"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "𪜶欲佔有"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的厝"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "𪜶的厝"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "我欲…停止"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "強者的"
+    },
+    {
+      "surface": "ונחלו",
+      "gloss": "欲受褻瀆"
+    },
+    {
+      "surface": "מקדשיהם",
+      "gloss": "𪜶的聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:39.630647593Z",
+  "model": "glm-5.3"
+}

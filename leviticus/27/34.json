@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "遮是雅威命令⟨את⟩摩西、予以色列的仔孫、佇西奈山的諸個誡命。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "諸個誡命"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "予"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的仔孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇…山"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:54.915119254Z",
+  "model": "glm-5.3"
+}

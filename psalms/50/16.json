@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "毋拘對歹人,以羅欣講:「你有啥物通講我的律例?你哪會提我的約佇你的喙?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "毋拘對歹人"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你有……通"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "講"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "你哪會提"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:12.222928782Z",
+  "model": "glm-5.3"
+}

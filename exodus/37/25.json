@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊做 ⟨את⟩ 香的壇,用皂莢木,一肘伊的長、一肘伊的闊,四角方正;兩肘伊的懸——對伊本體出現伊的角。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "香的壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "香的"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "閣一肘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "四角方正"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "閣兩肘"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "伊的懸"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "היו",
+      "gloss": "出現"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "伊的角"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:19.702800675Z",
+  "model": "glm-5.3"
+}

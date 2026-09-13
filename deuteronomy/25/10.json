@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣伊的名佇以色列內欲號做「褪鞋者的家」。",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "閣…欲號做"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列內"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "褪鞋者"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "鞋"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:15.714444979Z",
+  "model": "glm-5.3"
+}

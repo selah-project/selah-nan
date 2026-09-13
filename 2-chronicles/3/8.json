@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊閣起⟨את⟩至聖的厝:伊的長照厝的面前闊二十肘,伊的闊嘛二十肘;伊用好的金共伊蓋--起來,到六百他連得。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "至聖的厝"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "至聖的"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝的"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "伊共伊蓋--起來"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "到(他連得)"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-09-13T04:49:01.590600759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣⟨את⟩彼號鼎、⟨את⟩彼畚箕、⟨את⟩彼剪刀、⟨את⟩彼杯,佮⟨את⟩所有遐个銅的器具,就是𪜮佇遐服事的,𪜶攏提去矣。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼號鼎"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "彼號鼎"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼畚箕"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "彼畚箕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼剪刀"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "彼剪刀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼杯"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "彼杯"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "所有銅的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "銅的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "服事的"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "𪜶攏提去矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:46.739681566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊做王、坐佇王位的時,就刣了⟨את⟩巴沙的全家;無留一個放尿倚壁的,亦無留伊的救贖親族佮伊的朋友。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "佇伊做王"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "當伊坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "王位"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "刣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴沙的全家"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "留"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "放尿"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "倚壁"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "佮伊的救贖親族"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "佮伊的朋友"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:05.910952961Z",
+  "model": "glm-5.3"
+}

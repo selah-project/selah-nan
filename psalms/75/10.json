@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "毋過我欲宣揚到永遠,我欲唱歌讚美雅各的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "毋過我"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "欲宣揚"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "唱歌讚美"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "予…的以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:26.889014101Z",
+  "model": "glm-5.3"
+}

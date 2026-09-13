@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇鬧熱滾滾个所在頭前伊出聲咧呼，佇城門嘴口，佇城內伊講伊个話——",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "佇…頭前"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "鬧熱滾滾个所在"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "伊出聲咧呼"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "佇…嘴口"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "城門"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "伊个話"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "伊講"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:17.596691781Z",
+  "model": "glm-5.3"
+}

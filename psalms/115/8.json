@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "造 𪜶的人欲親像 𪜶按呢;見若倚靠 𪜶的,嘛攏是按呢。",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "親像 𪜶按呢"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲…是"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "造 𪜶的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:28.185247379Z",
+  "model": "glm-5.3"
+}

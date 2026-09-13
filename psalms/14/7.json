@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "啥人會使對錫安賞賜以色列的拯救啊!當雅威互伊的子民受擄的倒轉來,雅各欲快樂,以色列欲歡喜。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "對錫安"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "當…倒轉來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "受擄的"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的子民"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "欲快樂"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "欲歡喜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:27.726207769Z",
+  "model": "glm-5.3"
+}

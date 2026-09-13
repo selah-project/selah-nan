@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 9:34",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "法老看見雨、雹佮雷聲攏停矣,伊就繼續犯罪,伊家己佮伊的奴僕攏共心夯予重。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講…"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "停矣"
+    },
+    {
+      "surface": "המטר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "佮雹"
+    },
+    {
+      "surface": "והקלת",
+      "gloss": "佮雷聲"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "就繼續"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "夯予重"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊家己"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "佮伊的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:58.860279073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "利未的仔是革順、哥轄佮米拉利。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "仔"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "革順"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "哥轄"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "佮米拉利"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:53.015526675Z",
+  "model": "glm-5.3"
+}

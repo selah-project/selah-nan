@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 46:4",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "縛好馬,騎兵騎上去,戴頭盔徛在;磨利槍,穿好戰甲!",
+  "tokens": [
+    {
+      "surface": "אסרו",
+      "gloss": "縛好"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "騎上去"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "והתיצבו",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "בכובעים",
+      "gloss": "戴頭盔"
+    },
+    {
+      "surface": "מרקו",
+      "gloss": "磨利"
+    },
+    {
+      "surface": "הרמחים",
+      "gloss": "槍"
+    },
+    {
+      "surface": "לבשו",
+      "gloss": "穿好"
+    },
+    {
+      "surface": "הסרינת",
+      "gloss": "戰甲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:03:31.594866158Z",
+  "model": "glm-5.3"
+}

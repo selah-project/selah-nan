@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我就對恁講:「毋通驚惶,嘛毋通驚𪜶。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "驚"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:50.981900097Z",
+  "model": "glm-5.3"
+}

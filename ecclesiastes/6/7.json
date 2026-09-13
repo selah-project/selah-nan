@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "人一切的勞碌攏是為著伊的喙,猶閣彼個魂嘛袂得滿。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "為著伊的喙"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "猶閣"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "彼個魂"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "得滿"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:50.597215959Z",
+  "model": "glm-5.3"
+}

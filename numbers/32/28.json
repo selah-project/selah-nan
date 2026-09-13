@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "摩西就對𪜶下命令,講⟨את⟩以利亞撒祭司、⟨את⟩嫩的兒子約書亞,佮⟨את⟩以色列人的族長,逐支派的父老,攏愛照按呢。",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "就…下命令"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞撒祭司"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "嫩的兒子約書亞"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "נון",
+      "gloss": "嫩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "以色列人的族長"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "…的頭"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父老"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "支派"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "人的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-13T04:42:14.009875245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "閃出雷爍,𪜶就四散;射出你的箭,𪜶就大亂。",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "閃出"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "雷爍"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "𪜶就四散"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "射出"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "你的箭"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "𪜶就大亂"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:35.548905682Z",
+  "model": "glm-5.3"
+}

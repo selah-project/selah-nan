@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "為著欲看見你揀選的人的好處,欲佇你的族的歡喜來歡喜,欲佮你的產業做伙誇口。",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "為著欲看見"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "的好處"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "你揀選的人"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "欲歡喜"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "佇…的歡喜"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "你的族"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "欲誇口"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "你的產業"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:09.429882265Z",
+  "model": "glm-5.3"
+}

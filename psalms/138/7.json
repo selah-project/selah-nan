@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 138,
+  "translation": "我若行佇患難的中間,祢欲互我活;祢欲對我仇敵的受氣伸出祢的手,祢的正手欲救我。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我行"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…的中間"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "患難"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "祢互我活"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "אף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我仇敵的"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "祢伸出"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "祢的手"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "祢欲救我"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "祢的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:46.060168323Z",
+  "model": "glm-5.3"
+}

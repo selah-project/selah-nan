@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你將我的哀哭翻做跳舞,與我解開我的麻布衣,用歡喜束我的腰。",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "你翻做"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "我的哀哭"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "做跳舞"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "你解開"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "我的麻布衣"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "閣用……束我"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:48.506106565Z",
+  "model": "glm-5.3"
+}

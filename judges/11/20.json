@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "毋拘西宏毋信任以色列⟨את⟩會使對伊的境內經過;西宏聚集⟨את⟩伊所有的人民,𪜶紮營佇雅雜,佮以色列相戰。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "信任"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "西宏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "經過"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "佇伊的境內"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "西宏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所有的人民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的人民"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "𪜶紮營"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "佇雅雜"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:34:49.961694164Z",
+  "model": "glm-5.3"
+}

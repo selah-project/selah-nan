@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "伊追趕𪜶,安然過去──一條路,用伊的腳,伊無行入。",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "伊追趕𪜶"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "安然過去"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "安然"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "一條路"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "用伊的腳"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "行入"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:27.910732402Z",
+  "model": "glm-5.3"
+}

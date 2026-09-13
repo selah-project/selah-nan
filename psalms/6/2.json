@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威啊,毋通用你的受氣責備我,嘛毋通用你的烈怒懲罰我。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "用你的受氣"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "責備我"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "用你的烈怒"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "懲罰我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:37.372368347Z",
+  "model": "glm-5.3"
+}

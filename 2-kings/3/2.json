@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊行雅威眼中看做歹的代誌,總是毋親像伊的老父,嘛毋親像伊的老母;伊有拆掉⟨את⟩巴力的柱像,就是伊老父所做的。",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "伊行"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "歹的代誌"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רק",
+      "gloss": "總是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "親像伊的老父"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "嘛親像伊的老母"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "伊拆掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴力的柱像"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:17.813245095Z",
+  "model": "glm-5.3"
+}

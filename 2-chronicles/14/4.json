@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊對猶大一切的城廢掉⟨את⟩邱壇佮⟨את⟩日像,王國就安靜佇伊面前。",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "的城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "邱壇"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "日像"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "日像"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "就安靜"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "王國"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:15.081654493Z",
+  "model": "glm-5.3"
+}

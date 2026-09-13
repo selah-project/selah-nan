@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為𪜶食歹惡的餅,嘛啉強暴的酒。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "𪜶食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹惡"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "嘛啉…的酒"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "啉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:53.868419840Z",
+  "model": "glm-5.3"
+}

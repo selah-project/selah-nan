@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊若過去,閣共人關起來,閣召集審判,啥物人會當叫伊倒轉?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "過去"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "閣關起來"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "閣召集"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "會當叫伊倒轉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:39.539261507Z",
+  "model": "glm-5.3"
+}

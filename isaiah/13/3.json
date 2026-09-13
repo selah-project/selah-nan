@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我已經命令我分別做聖的,嘛有召我的勇士來行我的受氣,就是佇我的威嚴歡喜的。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "已經命令"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "我分別做聖的"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛有"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "召"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "我的勇士"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "來行我的受氣"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "歡喜的"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "佇我的威嚴"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:11.514405891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 2:10",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "「嚯,嚯,著緊走閃,對北方的地,雅威已經講;因為親像天頂的四個風,我已經散開恁⟨את⟩,雅威已經講。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "嚯"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "嚯"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "著緊走閃"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北方"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "已經講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "親像四個"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "風"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "פרשתי",
+      "gloss": "我已經散開"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "已經講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:31.549032461Z",
+  "model": "glm-5.3"
+}

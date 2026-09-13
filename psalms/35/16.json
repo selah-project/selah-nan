@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "佇宴席中假好人的嘲諷者,𪜶對阮咬牙切齒。",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "假好人的"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "嘲諷者"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "宴席餅食"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "咬牙"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "𪜶的齒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:26.017142207Z",
+  "model": "glm-5.3"
+}

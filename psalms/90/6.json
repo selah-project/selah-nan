@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "佇透早伊開花,就過去;到暗暝伊被割短,枯焦。",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "佇透早"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "開花"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "就過去"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "到暗暝"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "被割短"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "枯焦"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:46.001174999Z",
+  "model": "glm-5.3"
+}

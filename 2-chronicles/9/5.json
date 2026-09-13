@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊就對王講:「我佇阮的地所聽著彼句話,關係你的人格佮你的智慧,是實在的。」",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "伊就對王講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "實在"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼句話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽著"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "佇阮的地"
+    },
+    {
+      "surface": "על",
+      "gloss": "關係"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的人格"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮關係"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:38.641680738Z",
+  "model": "glm-5.3"
+}

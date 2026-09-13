@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣對迦得支派,𪜶互⟨את⟩拉末佇基列,佮⟨את⟩伊的城郊,閣⟨את⟩瑪哈念佮⟨את⟩伊的城郊。",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "對迦得支派"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉末"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "佇基列"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的城郊"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "伊的城郊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "瑪哈念"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "瑪哈念"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的城郊"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "伊的城郊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:09.852535538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "摩西對伊的丈人講：「因為百姓會來我遮，欲求問以羅欣。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "對伊的丈人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我遮"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "欲求問"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:39.177658417Z",
+  "model": "glm-5.3"
+}

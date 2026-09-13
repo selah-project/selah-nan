@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "以弗崙應⟨את⟩亞伯拉罕,對伊講:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "應"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "以弗崙"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:22.129448873Z",
+  "model": "glm-5.3"
+}

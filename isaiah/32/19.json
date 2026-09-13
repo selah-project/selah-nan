@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "閣雹欲落佇樹林倒落來的時,佇低窪的所在,彼个城市欲降做低。",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "閣雹"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "落落來"
+    },
+    {
+      "surface": "היער",
+      "gloss": "樹林"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "佇低窪的所在"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "欲降做低"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼个城市"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:51.920969085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "閣⟨את⟩巴實抹 —— 以實瑪利的查某囝、尼拜約的阿姊。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "巴實抹"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "巴實抹"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "阿姊"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "尼拜約"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:06.214110273Z",
+  "model": "glm-5.3"
+}

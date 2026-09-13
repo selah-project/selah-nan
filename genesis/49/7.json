@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "受詛咒的,是𪜶的受氣,因為伊兇猛;閣𪜶的烈怒,因為伊殘忍;我欲佇雅各分散𪜶,佇以色列打散𪜶。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "受詛咒的"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "𪜶的受氣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עז",
+      "gloss": "兇猛"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "閣𪜶的烈怒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "殘忍"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "我欲分散𪜶"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "佇雅各"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "佮打散𪜶"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:16.634172053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "雅威啊,你的名徛到永遠;雅威啊,你的紀念到一代閣一代。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "你的紀念"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "到一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.346266920Z",
+  "model": "glm-5.3"
+}

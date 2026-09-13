@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 16:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "耶西閣差伊七個囝仔對撒母耳面前行過,撒母耳對耶西講:「雅威無對遮個中間揀。」",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "閣差……行過"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七個"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝仔"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "揀"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "對遮個中間"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:47.727952888Z",
+  "model": "glm-5.3"
+}

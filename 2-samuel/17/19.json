@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "彼个查某人提⟨את⟩彼領篷布,展佇彼口井的面頭頂,閣摕麥糝佇伊頂面,代誌就無予人知。",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼个查某人"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "展"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼領篷布"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "彼領篷布"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頭"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "彼口井"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "摕勻"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "麥糝"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "予人知"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:36.661027494Z",
+  "model": "glm-5.3"
+}

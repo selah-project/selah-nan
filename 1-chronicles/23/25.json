@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "因為大衛講:「雅威、以色列的以羅欣,已經賞伊的子民安息,伊欲住佇耶路撒冷,到永遠。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "賞…安息"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "伊的子民"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "伊住"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:10.874032829Z",
+  "model": "glm-5.3"
+}

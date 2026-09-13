@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 43:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "閣雙倍的銀,提佇恁手裡;閣⟨את⟩彼個銀,彼個倒轉去佇恁袋仔嘴的,恁就倒提佇恁手裡;也許是彼個錯誤。",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "閣銀"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "雙倍的"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "提"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "佇恁手裡"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼個銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "彼個銀"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "彼個倒轉去的"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "佇…嘴"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "恁袋仔"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "恁就倒提"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "佇恁手裡"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "也許"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "錯誤"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是"
+    }
+  ],
+  "timestamp": "2026-09-13T04:34:58.230247715Z",
+  "model": "glm-5.3"
+}

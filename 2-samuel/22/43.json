@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "2-samuel 22:43",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我搥𪜶甲親像地的土粉,親像街路的塗糜,我搥碎𪜶、踏平𪜶。",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "我搥𪜶"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "親像土粉"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "親像塗糜"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "街路"
+    },
+    {
+      "surface": "אדקם",
+      "gloss": "我搥碎𪜶"
+    },
+    {
+      "surface": "ארקעם",
+      "gloss": "我踏平𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:01:51.282506149Z",
+  "model": "glm-5.3"
+}

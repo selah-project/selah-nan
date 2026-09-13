@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "約瑟對𪜶講:「就是伊,我對恁講過兮,講:『恁是探子。』",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是伊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我講過"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "探子"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:10.867733047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "閣佇人民的會中尊崇伊,佇長老的座位中讚美伊。",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "閣…尊崇伊"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "佇…的會中"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "佇…的座位中"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "長老"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "讚美伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:42.277406050Z",
+  "model": "glm-5.3"
+}

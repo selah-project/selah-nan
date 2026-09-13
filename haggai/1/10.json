@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "因為按呢,天為著恁擋住露,地也擋住伊的出產。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "為著恁"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "擋住"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "露"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "地也"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "擋住"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "伊的出產"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:47.858173380Z",
+  "model": "glm-5.3"
+}

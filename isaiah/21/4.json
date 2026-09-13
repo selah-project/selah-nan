@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "我的心徛袂在,恐怖嚇著我;⟨את⟩我意愛的黃昏,伊給伊變做我的驚惶。",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "徛袂在"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "嚇著我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我意愛的黃昏"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "黃昏"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "我意愛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "伊給伊變做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:40.331935472Z",
+  "model": "glm-5.3"
+}

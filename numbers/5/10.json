@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣逐人 ⟨את⟩ 伊的聖物歸伊所有;人凡所獻予祭司的,就歸伊。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣逐人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的聖物"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "伊的聖物"
+    },
+    {
+      "surface": "לו",
+      "gloss": "歸伊"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "所有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "所獻"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "予祭司"
+    },
+    {
+      "surface": "לו",
+      "gloss": "歸伊"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "就歸伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:35.112742626Z",
+  "model": "glm-5.3"
+}

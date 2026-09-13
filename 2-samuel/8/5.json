@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "亞蘭大馬士革來欲援助瑣巴王哈大底謝,大衛擊殺亞蘭人二十佮二千个男子。",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "欲援助"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "哈大底謝"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "瑣巴"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "亞蘭(人)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "佮二"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "男子"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:26.277929229Z",
+  "model": "glm-5.3"
+}

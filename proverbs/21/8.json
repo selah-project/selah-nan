@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "彎曲跋倒是一个人的路,閣是罪過;獨獨清氣的人,伊所做的端正。",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "彎曲跋倒"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "閣是罪過"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "獨獨清氣的人"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "端正"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "伊所做的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:25.328978893Z",
+  "model": "glm-5.3"
+}

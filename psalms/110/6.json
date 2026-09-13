@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 110,
+  "translation": "伊欲佇列國中間審判,屍體攏滿滿;伊欲拍碎大地頂懸大頭目的頭殼。",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "伊欲審判"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中間"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "屍體"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "拍碎"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭殼"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂懸"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:11.581040384Z",
+  "model": "glm-5.3"
+}

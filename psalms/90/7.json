@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "因為阮佇你的受氣內消滅,佇你的烈怒中驚惶。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "阮消滅"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "佇你的受氣內"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "佇你的烈怒中"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:46.001485176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "因為你會袂記得你的艱苦，會記得伊親像水流過去。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "你的艱苦"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "會袂記得"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "流過去"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "會記得伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:59.222613927Z",
+  "model": "glm-5.3"
+}

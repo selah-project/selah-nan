@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "「你對以色列的子孫按呢講:查某人若含著種,閣生查埔囝,伊就無清氣七日;照伊病症隔離的日數,伊無清氣。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "按呢講"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "含著種"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "閣生"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "查埔囝"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "伊就無清氣"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "照……的日數"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "病症隔離"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "伊的病"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "伊無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:46.633099103Z",
+  "model": "glm-5.3"
+}

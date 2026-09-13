@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 32:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "哺乳的駱駝佮𪜶的幼仔三十隻,牛母四十隻、牛公十隻,驢母二十隻、驢仔公十隻。",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "駱駝"
+    },
+    {
+      "surface": "מיניקות",
+      "gloss": "哺乳的"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "佮𪜶的幼仔"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十隻"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "牛母"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十隻"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "牛公"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十隻"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "驢母"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十隻"
+    },
+    {
+      "surface": "ועירם",
+      "gloss": "驢仔公"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十隻"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:09.577561980Z",
+  "model": "glm-5.3"
+}

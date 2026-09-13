@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "𪜶欲殲滅我的性命,𪜶會落入去地的下層。",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "欲殲滅"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "搜揣"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "會落入去"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "下層"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:06.188355348Z",
+  "model": "glm-5.3"
+}

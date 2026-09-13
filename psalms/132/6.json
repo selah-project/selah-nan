@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "看啊,阮佇以法他聽著伊,阮佇樹林的田野揣著伊。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "阮聽著伊"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "佇以法他"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "阮揣著伊"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "佇樹林的田野"
+    },
+    {
+      "surface": "יער",
+      "gloss": "樹林"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:42.856087522Z",
+  "model": "glm-5.3"
+}

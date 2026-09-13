@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "親像蘋果樹佇樹林內的樹仔中間,按呢,我的良人佇少年人中間。佇伊的蔭影下我欣慕,我坐落去,伊的果子甜到我个嘴內。",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "親像蘋果樹"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "佇…的樹仔"
+    },
+    {
+      "surface": "היער",
+      "gloss": "樹林內"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我的良人"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "佇伊的蔭影下"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "我欣慕"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "我坐落去"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "甜"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "到我个嘴內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:20.682817135Z",
+  "model": "glm-5.3"
+}

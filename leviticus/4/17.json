@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣祭司欲蘸伊的手指頭佇血裡,佇雅威面前彈七擺,就是 ⟨את⟩ 帳幕門簾的面。",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "閣蘸"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "伊的手指頭"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "閣彈"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳幕門簾的面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "彼个門簾"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:09.460019417Z",
+  "model": "glm-5.3"
+}

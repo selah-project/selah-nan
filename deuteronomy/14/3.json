@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "你毋通食任何見笑物。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "見笑物"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:15.154420265Z",
+  "model": "glm-5.3"
+}

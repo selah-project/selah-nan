@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "亞大錄、底本、雅謝、寧拉、希實本、以利亞利、示巴末、尼波、比永——",
+  "tokens": [
+    {
+      "surface": "עטרות",
+      "gloss": "亞大錄"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "佮底本"
+    },
+    {
+      "surface": "ויעזר",
+      "gloss": "佮雅謝"
+    },
+    {
+      "surface": "ונמרה",
+      "gloss": "佮寧拉"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "佮希實本"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "佮以利亞利"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "佮示巴末"
+    },
+    {
+      "surface": "ונבו",
+      "gloss": "佮尼波"
+    },
+    {
+      "surface": "ובען",
+      "gloss": "佮比永"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:30.079705553Z",
+  "model": "glm-5.3"
+}

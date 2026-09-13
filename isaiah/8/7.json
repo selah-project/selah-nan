@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 8:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "所以,看啊,阿多奈欲抵著𪜶,提起⟨את⟩彼條河又大又多的水——就是⟨את⟩亞述王,佮⟨את⟩伊一切的榮光;伊欲淹起來淹過伊一切的溪床,閣流過一切的岸。",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "提起來"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "抵著𪜶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼條河的水"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "彼條河"
+    },
+    {
+      "surface": "העצומים",
+      "gloss": "又大的"
+    },
+    {
+      "surface": "והרבים",
+      "gloss": "佮又多的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞述王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊一切的榮光"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "閣淹起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "淹過"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אפיקיו",
+      "gloss": "伊的溪床"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "閣流過"
+    },
+    {
+      "surface": "על",
+      "gloss": "流過"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "גדותיו",
+      "gloss": "伊的岸"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:25.849571181Z",
+  "model": "glm-5.3"
+}

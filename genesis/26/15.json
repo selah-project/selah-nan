@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 26:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "伊老父亞伯拉罕的奴僕佇伊老父亞伯拉罕的日子所掘的一切井,非利士人攏給𪜶塞起來,用土填滿𪜶。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הבארת",
+      "gloss": "井"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "掘"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "的奴僕"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "סתמום",
+      "gloss": "塞起來"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "וימלאום",
+      "gloss": "填滿𪜶"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "用土"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:48.685437400Z",
+  "model": "glm-5.3"
+}

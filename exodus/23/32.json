@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你毋通佮𪜶立約，嘛毋通佮𪜶的以羅欣立約。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "你立約"
+    },
+    {
+      "surface": "להם",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "嘛毋通佮𪜶的以羅欣"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:42.391088720Z",
+  "model": "glm-5.3"
+}

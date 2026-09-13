@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 108,
+  "translation": "我的心已經安定,以羅欣啊,我欲唱歌,嘛欲彈琴讚美,連我的榮光嘛欲安呢。",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "已經安定"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我欲唱歌"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "嘛欲彈琴讚美"
+    },
+    {
+      "surface": "אף",
+      "gloss": "連"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "我的榮光嘛欲安呢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:02.447991596Z",
+  "model": "glm-5.3"
+}

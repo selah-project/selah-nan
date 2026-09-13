@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "因為除了雅威,啥人是全能者?閣除了阮的以羅欣,啥人是磐石?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "以羅亞"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "除了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "閣啥人"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "除了"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:43.320432829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "願恁的祭司穿公義,恁的敬虔人歡喜出聲。",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "恁的祭司"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "穿"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "佮恁的敬虔人"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歡喜出聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:03.907256141Z",
+  "model": "glm-5.3"
+}

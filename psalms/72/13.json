@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "伊欲憐憫散赤的佮窮乏的,搭救窮乏人的性命。",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "דל",
+      "gloss": "散赤的"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮窮乏的"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "性命"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "窮乏人的"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "搭救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:11.332044451Z",
+  "model": "glm-5.3"
+}

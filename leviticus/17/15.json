@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "見若食自然死的,抑是野獸撕死的,無論在地內出世的,抑是出入者,就愛洗伊的衫,佮佇水裡洗身軀,無清氣到暗昏,然後才清氣。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "見若…的"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "人(活命)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "自然死的"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "抑是野獸撕死的"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "在地內出世的"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "抑是出入者"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "就愛洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "佮洗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水裡"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗昏"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "才清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:43.353542110Z",
+  "model": "glm-5.3"
+}

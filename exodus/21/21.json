@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "獨獨若伊閣徛一暝一日,就免受刑罰,因為伊是伊的銀(財產)。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "兩日"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "徛企"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋免"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "受刑罰"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "伊的銀"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:49.695139929Z",
+  "model": "glm-5.3"
+}

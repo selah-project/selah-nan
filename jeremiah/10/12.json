@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 10:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊用伊的力量造地,用伊的智慧建立世界,用伊的聰明展開諸天。",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "用伊的力量"
+    },
+    {
+      "surface": "מכין",
+      "gloss": "建立"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "用伊的智慧"
+    },
+    {
+      "surface": "ובתבונתו",
+      "gloss": "用伊的聰明"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "展開"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:31.973001187Z",
+  "model": "glm-5.3"
+}

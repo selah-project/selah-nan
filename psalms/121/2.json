@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "我的幫助對雅威來,伊造天佮地。",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "我的幫助"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:30.593843473Z",
+  "model": "glm-5.3"
+}

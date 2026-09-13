@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊就去,照以利亞的話去做;伊食 —— 伊、伊、佮伊的厝內 —— 歸陣真濟日。",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "去做"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "伊食"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "佮伊的厝內"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "真濟日"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:35.798295770Z",
+  "model": "glm-5.3"
+}

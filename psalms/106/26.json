@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "伊就對𪜶舉手,欲互𪜶倒佇曠野⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "舉"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "欲互…倒"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(倒佇曠野)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:24.272991654Z",
+  "model": "glm-5.3"
+}

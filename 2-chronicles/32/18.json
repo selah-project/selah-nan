@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 32:18",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "𪜶就用大聲,用猶大話,對耶路撒冷佇城牆頂的百姓喝,欲予𪜶驚、予𪜶亂,為著欲攻落⟨את⟩彼個城。",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "𪜶就喝"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "用聲"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "用猶大話"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "עם",
+      "gloss": "的百姓"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城牆頂"
+    },
+    {
+      "surface": "ליראם",
+      "gloss": "欲予𪜶驚"
+    },
+    {
+      "surface": "ולבהלם",
+      "gloss": "閣予𪜶亂"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "攻落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    }
+  ],
+  "timestamp": "2026-09-12T06:19:16.790093214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "佇頭一日,恁著有聖的聚會;攏總勞碌的工課,恁毋通做。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "聚會"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "著有"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "予恁"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "工課"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "勞碌的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:55.687041284Z",
+  "model": "glm-5.3"
+}

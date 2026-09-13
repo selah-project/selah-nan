@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣𪜶毋聽我,嘛無傾 ⟨את⟩ 𪜮的耳,𪜶硬 ⟨את⟩ 𪜮的頷頸,行得比𪜮的祖先較歹。",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "閣…毋"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "傾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的耳"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "𪜶的耳"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "硬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的頷頸"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "𪜶的頷頸"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "行歹"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "比𪜶的祖先"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:42.138236608Z",
+  "model": "glm-5.3"
+}

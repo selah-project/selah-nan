@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "毋通互水流淹過我,嘛毋通互深淵吞落我,嘛毋通互深坑將伊的喙口對我封起來。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "淹過我"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "水流"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "吞落我"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "封起來"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "באר",
+      "gloss": "深坑"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "伊的喙口"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:02.332462664Z",
+  "model": "glm-5.3"
+}

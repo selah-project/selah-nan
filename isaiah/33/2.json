@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威啊,憐憫阮;阮向望的就是你。願你做𪜶的膀臂逐早起,嘛做阮的拯救佇患難的時。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "憐憫阮"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向著你"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "阮向望"
+    },
+    {
+      "surface": "היה",
+      "gloss": "願你做"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "𪜶的膀臂"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "逐早起"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "阮的拯救"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…的時"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "患難"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:18.488882652Z",
+  "model": "glm-5.3"
+}

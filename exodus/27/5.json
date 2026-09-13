@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你欲互伊──⟨את⟩──下佇祭壇的框邊下跤,彼個網仔就到祭壇的一半。",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "你欲下"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(彼個網仔)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下跤"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "框邊"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇的"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "對下底"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "就做"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "彼個網仔"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "一半"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:27.390073466Z",
+  "model": "glm-5.3"
+}

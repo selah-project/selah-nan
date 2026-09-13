@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "賜阮對敵人的壓迫得著幫助,因為人的拯救是空虛的。",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "賜"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "對敵人的壓迫"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "是空虛的"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:50.319964293Z",
+  "model": "glm-5.3"
+}

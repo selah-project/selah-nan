@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 4:9",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊閣做祭司的庭院佮彼個大院,閣做院門,𪜶的門攏用銅包。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "庭院"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司的"
+    },
+    {
+      "surface": "והעזרה",
+      "gloss": "佮彼個院"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大個"
+    },
+    {
+      "surface": "ודלתות",
+      "gloss": "閣門"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "為著院"
+    },
+    {
+      "surface": "ודלתותיהם",
+      "gloss": "佮𪜶的門"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "包"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:38.273753932Z",
+  "model": "glm-5.3"
+}

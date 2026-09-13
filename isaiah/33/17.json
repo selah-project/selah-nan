@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "王佇伊的俊美,恁的目睭欲看見;𪜶欲看著遠方的地。",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "佇伊的俊美"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "欲看見"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "恁的目睭"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "欲看著"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "遠方的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:39.521848801Z",
+  "model": "glm-5.3"
+}

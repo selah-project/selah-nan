@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 60:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "暴力無閣會當佇你的土地聽著,搶奪佮毀壞佇你的界內;你欲共你的城牆號名做「救恩」,你的城門做「讚美」。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "會當聽著"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "暴力"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "佇你的土地"
+    },
+    {
+      "surface": "שד",
+      "gloss": "搶奪"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "佮毀壞"
+    },
+    {
+      "surface": "בגבוליך",
+      "gloss": "佇你的界內"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "你欲號名"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "救恩"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "你的城牆"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "佮你的城門"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "讚美"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:31.814591632Z",
+  "model": "glm-5.3"
+}

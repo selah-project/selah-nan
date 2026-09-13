@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "約亞大生⟨את⟩約拿單,約拿單生⟨את⟩耶杜亞。",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "約亞大"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約拿單"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶杜亞"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "耶杜亞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:20.569151046Z",
+  "model": "glm-5.3"
+}

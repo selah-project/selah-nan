@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "以羅欣啊,審判阮,替阮爭訟阮的案,對一個無敬虔的國族,對詭詐佮不義的人,求祢救阮脫離。",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "審判阮"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "佮替阮爭訟"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "阮的案"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "對一個國族"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "敬虔"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "對…的人"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "佮不義"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "求祢救阮"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:49.377772542Z",
+  "model": "glm-5.3"
+}

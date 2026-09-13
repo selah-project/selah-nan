@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "撒母耳叫⟨את⟩以色列所有的支派倚近來,便雅憫的支派就予抽著。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "叫…倚近來"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列所有的支派"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "…的支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "就予抽著"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "…的支派"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:00.541164256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "予別人呵咾你,毋是你家己的喙;予生份人,毋是你家己的嘴脣。",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "伊會呵咾你"
+    },
+    {
+      "surface": "זר",
+      "gloss": "別人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的喙"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "生份人"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "你的嘴脣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:41.990851595Z",
+  "model": "glm-5.3"
+}

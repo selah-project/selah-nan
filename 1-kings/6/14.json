@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "對按呢所羅門起造⟨את⟩彼間厝,閣完成伊。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "閣起造"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼間厝"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "閣完成伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:06.047235795Z",
+  "model": "glm-5.3"
+}

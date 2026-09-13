@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "一隻公牛仔、牛犢一隻,一隻公羊,一隻羊仔羔、一歲的囝,做燒祭。",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "公牛仔"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "איל",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "羊仔羔"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "一歲的"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "做燒祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:31.464516894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "加利姆的查某囝啊,用你的聲大聲喝;萊施啊,斟酌聽;可憐的亞拿突啊。",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "大聲喝"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "用你的聲"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "加利姆"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "斟酌聽"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "萊施"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "可憐的"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "亞拿突"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:36.596823143Z",
+  "model": "glm-5.3"
+}

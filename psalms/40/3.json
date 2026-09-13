@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊牽我起來,脫離喧嚷的坑,脫離爛塗的黏泥;伊扼我的腳徛佇磐石頂,伊建立我的腳步。",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "伊牽我起來"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "脫離…的坑"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "喧嚷"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "脫離…的黏泥"
+    },
+    {
+      "surface": "היון",
+      "gloss": "爛塗"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "伊扼"
+    },
+    {
+      "surface": "על",
+      "gloss": "徛佇…頂"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "伊建立"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "我的腳步"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:54.126961820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 27:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "約坦其餘的事、伊一切的戰事佮伊的路,看啊,攏記載佇以色列佮猶大諸王的冊頂。",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "其餘的"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "事"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "約坦"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "מלחמתיו",
+      "gloss": "伊的戰事"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "佮伊的路"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "記載"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "佮猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:34.176064132Z",
+  "model": "glm-5.3"
+}

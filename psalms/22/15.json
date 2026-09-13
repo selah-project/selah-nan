@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我親像水仝款阮蹈傾倒落去,阮所有的骨頭攏散開矣;阮的心做親像蠟,佇阮腹肚內底熔掉矣。",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "阮蹈傾倒落去"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "攏散開矣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "阮的骨頭"
+    },
+    {
+      "surface": "היה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "阮的心"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "親像蠟"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "熔掉矣"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…內底"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "阮腹肚"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:31.963629923Z",
+  "model": "glm-5.3"
+}

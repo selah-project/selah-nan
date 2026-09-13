@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "伊的手掌向散赤人展開,伊的手向艱苦人伸出。",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "伊的手掌"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "展開"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "向散赤人"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "向艱苦人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:48.895790258Z",
+  "model": "glm-5.3"
+}

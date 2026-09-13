@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "忠實的見證人袂講白賊;吐出白賊話的,是作假見證的。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "見證人"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "忠實的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "講白賊"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "彼個吐出"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "白賊話"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證人"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "作假的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:42.197479336Z",
+  "model": "glm-5.3"
+}

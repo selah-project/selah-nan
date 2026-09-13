@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇彼個日子,我欲扶起⟨את⟩大衛倒落去的布棚,我欲補⟨את⟩𪜶的破空,伊的廢墟我欲扶起,我欲重建伊,親像上古的日子。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "我欲扶起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛的布棚"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "布棚"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "倒落去的"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "我欲補"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的破空"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "𪜶的破空"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "伊的廢墟"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "扶起"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "我欲重建伊"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "親像…的日子"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "上古"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:18.943645182Z",
+  "model": "glm-5.3"
+}

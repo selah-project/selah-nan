@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "一年三擺,你所有的查埔丁欲出現佇阿多奈雅威、以色列的以羅欣⟨את⟩面前。",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "佇一年內"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "欲出現"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "你的查埔丁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿多奈雅威的面前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:08.241554923Z",
+  "model": "glm-5.3"
+}

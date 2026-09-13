@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "我閣會當對我的葡萄園做啥物,是我無佇伊內底做的?啥物緣故,我向望伊結葡萄,煞結出野酸葡萄?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "會當做"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "對我的葡萄園"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "而毋是"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我做過"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "我向望"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "會結"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "葡萄"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "煞結出"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "野酸葡萄"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:28.974808318Z",
+  "model": "glm-5.3"
+}

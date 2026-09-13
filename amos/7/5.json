@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我就講:「阿多奈雅威啊,請祢停手;雅各啥人會當徛起來?因為伊真細漢。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "停手"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "會當徛起來"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "細漢"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:27.722195739Z",
+  "model": "glm-5.3"
+}

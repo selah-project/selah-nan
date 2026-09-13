@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 112,
+  "translation": "好──彼个會施恩、會借出去的人;伊欲照公平維持伊的代誌。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "איש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "施恩"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "會借出去"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "維持"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "伊的代誌"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "照公平"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.919034525Z",
+  "model": "glm-5.3"
+}

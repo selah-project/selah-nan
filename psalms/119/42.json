@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我就會當用一句話應答侮辱我的人,因為我倚靠你的話。",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "我就…應答"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "侮辱我的人"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:05.744229611Z",
+  "model": "glm-5.3"
+}

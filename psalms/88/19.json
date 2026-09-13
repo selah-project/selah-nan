@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "你對我隔開心愛的佮朋友;我的相熟者是烏暗。",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "你隔開"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "心愛的"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "佮朋友"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "我的相熟者"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "烏暗"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:56.874848351Z",
+  "model": "glm-5.3"
+}

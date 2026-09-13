@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "天欲光我代先起來,我出聲哀求;我向望你的話。",
+  "tokens": [
+    {
+      "surface": "קדמתי",
+      "gloss": "我代先起來"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "天欲光的時"
+    },
+    {
+      "surface": "ואשועה",
+      "gloss": "我出聲哀求"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "對你的話"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "我向望"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:44.963997334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "埃及人掠以色列的子孫做苦役,用殘忍的方法 ⟨את⟩ 因予伊做。",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "掠……做苦役"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的子孫"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "用殘忍的方法"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:22.864323341Z",
+  "model": "glm-5.3"
+}

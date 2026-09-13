@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "佇雅威遮尋庇護較好,勝過佇尊貴的人身上倚靠。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "尋庇護"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "勝過…倚靠"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "尊貴的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:47.593697028Z",
+  "model": "glm-5.3"
+}

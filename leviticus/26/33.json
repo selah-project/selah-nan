@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "閣⟨את⟩恁,我欲互恁散佇列國中間,閣我欲出刀追佇恁後面;恁的地欲成做荒蕪,恁的城嘛欲成做荒廢。",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "閣⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "散"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中間"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "閣我欲出(抽)"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "追佇恁後面"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "欲成做"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "恁的地"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒蕪"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "閣恁的城"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲成做"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "荒廢"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:06.341720647Z",
+  "model": "glm-5.3"
+}

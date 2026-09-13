@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "我變做多人的奇事,獨獨你是我堅固的避所、我的力量。",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "親像奇事"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我變做"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "對多人"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "獨獨你"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "我的避所"
+    },
+    {
+      "surface": "עז",
+      "gloss": "我的力量"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:36.191790236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊半暝叫摩西佮亞倫來,講:起來,對我百姓的中間出去,恁嘛去,以色列的子孫嘛去;去服事⟨את⟩雅威,照恁所講的。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "叫…來"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "半暝"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…的中間"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "照恁所講的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:59.074190316Z",
+  "model": "glm-5.3"
+}

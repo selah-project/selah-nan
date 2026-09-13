@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶將⟨את⟩伊的軍器下佇𪜶的神明的殿,閣將⟨את⟩伊的頭殼釘佇大袞的殿。",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "將…下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的軍器"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的軍器"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的神明"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣將⟨את⟩",
+      "marks": "伊的頭殼"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "伊的頭殼"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "釘"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "大袞"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:51.044895525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣伊的查某囝是示拉；伊起造⟨את⟩下伯和崙佮⟨את⟩上伯和崙，閣⟨את⟩烏珍示拉。",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "閣伊的查某囝"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "示拉"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "伊起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伯和崙"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "和崙"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "下"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "上伯和崙"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "上"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "烏珍示拉"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "烏珍"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "示拉"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:02.678929973Z",
+  "model": "glm-5.3"
+}

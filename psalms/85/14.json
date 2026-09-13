@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "公義欲行佇伊面前,閣欲給伊的腳跡做做一條路。",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "閣欲……做"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "做一條路"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "伊的腳跡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:50.475084721Z",
+  "model": "glm-5.3"
+}

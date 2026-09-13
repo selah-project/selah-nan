@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "用東風祢撞破他施的船。",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "用風"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "東風"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "祢撞破"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "他施的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:41.445398271Z",
+  "model": "glm-5.3"
+}

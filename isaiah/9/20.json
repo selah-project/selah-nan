@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "瑪拿西吞食⟨את⟩以法蓮,以法蓮嘛吞食⟨את⟩瑪拿西,𪜶做夥對敵猶大。雖然按呢,伊的受氣猶未倒轉,伊的手猶伸出無收。",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以法蓮"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "以法蓮嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瑪拿西"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做夥"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "על",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "雖然一切"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "猶"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸出無收"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:17.028611073Z",
+  "model": "glm-5.3"
+}

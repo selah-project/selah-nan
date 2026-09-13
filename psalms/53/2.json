@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "戇人佇伊的心內講:無以羅欣。𪜶敗壞矣,行可憎的悖謬;無人行好事。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "佇伊的心內"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "𪜶敗壞"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "行可憎的"
+    },
+    {
+      "surface": "עול",
+      "gloss": "悖謬"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好事"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:07.783003605Z",
+  "model": "glm-5.3"
+}

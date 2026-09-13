@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "以色列啊，著聽，著謹守來行，予你得著好，予恁添甲真濟，親像雅威——你的列祖的以羅欣——對你講過的：流奶佮蜜的地。",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "著謹守"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "來行"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "予"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "你得著好"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮予"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "恁添"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "甲真濟"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講過"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "你的列祖"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "流"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "奶"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "佮蜜"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:07.393642628Z",
+  "model": "glm-5.3"
+}

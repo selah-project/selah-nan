@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "諸個是以法蓮的仔,照𪜶的親族:屬書提拉的,有書提拉族;屬比結的,有比結族;屬他罕的,有他罕族。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的親族"
+    },
+    {
+      "surface": "לשותלח",
+      "gloss": "屬書提拉的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "…族"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "書提拉族"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "屬比結的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "…族"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "比結族"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "屬他罕的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "…族"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "他罕族"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:28.024193525Z",
+  "model": "glm-5.3"
+}

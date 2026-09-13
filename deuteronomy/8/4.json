@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "恁的衫仔褲佇恁身軀頂無穿破,恁的跤嘛無腫起,遮四十年。",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "恁的衫仔褲"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "穿破"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "佇恁身軀頂"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "恁的跤"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "腫起"
+    },
+    {
+      "surface": "זה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:42.590755419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "為著欲互你所疼的人會得脫離,用你的正手救𪜶,應阮。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "會得脫離"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "你所疼的人"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "救"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "應阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:22.473692979Z",
+  "model": "glm-5.3"
+}

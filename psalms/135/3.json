@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "謳咾雅,因為雅威是好;用琴聲謳咾伊的名,因為伊是好聽。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "謳咾"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "用琴聲謳咾"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "好聽"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.767431838Z",
+  "model": "glm-5.3"
+}

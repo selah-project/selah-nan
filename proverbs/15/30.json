@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "目睭的光明會使心歡喜;好的音信會予骨頭油油滋潤。",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "光明"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "會使……歡喜"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "音信"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "好的"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "會予……油油滋潤"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "骨頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:19.264914759Z",
+  "model": "glm-5.3"
+}

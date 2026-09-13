@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "著唱予雅威,著謳咾伊的名;對這日到彼日,著傳報伊的救恩。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "著唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "著謳咾"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "著傳報"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "對這日"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "到彼日"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "伊的救恩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:39.611973407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佇這個禧年──這個尤維珥(יובל)的年──𪜶規個攏愛倒轉去,逐個人歸伊的家業。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇…的年"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "這個尤維珥(禧年)"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "𪜶攏愛倒轉去"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐個人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "伊的家業(所握有的產業)"
+    }
+  ],
+  "timestamp": "2026-09-13T04:53:07.498619828Z",
+  "model": "glm-5.3"
+}

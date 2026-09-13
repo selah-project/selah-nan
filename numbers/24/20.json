@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "伊看見⟨את⟩亞瑪力,就提起伊的箴言,講:亞瑪力是列國的頭一個,𪜶的尾路直到滅亡。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "提起"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "伊的箴言"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "伊的尾路"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅亡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:41.686475886Z",
+  "model": "glm-5.3"
+}

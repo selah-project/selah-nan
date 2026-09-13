@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "汝,雅威啊,欲看守𪜶;欲保護伊對這個世代,一直到永遠。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "欲看守𪜶"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "欲保護伊"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "這個世代"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這個"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "一直到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:44.952469646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "恁毋通食佇血頂面,毋通行巫術,嘛毋通占卜。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "行巫術"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "占卜"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:59.498749491Z",
+  "model": "glm-5.3"
+}

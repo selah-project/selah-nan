@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "𪜶對摩西講:「你佮阮講,阮欲聽;毋通予以羅欣閣佮阮講,驚了阮會死。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "佮阮"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "阮欲聽"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "佮阮"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "פן",
+      "gloss": "驚了"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "阮會死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:50.615779383Z",
+  "model": "glm-5.3"
+}

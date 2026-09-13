@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "這是恁通食的精牲:牛、綿羊的羊羔,佮山羊的羊羔。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "精牲"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁通食"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "שה",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "綿羊的"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "佮羊羔"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:15.154537855Z",
+  "model": "glm-5.3"
+}

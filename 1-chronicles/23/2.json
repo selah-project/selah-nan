@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊聚集⟨את⟩以色列眾首領,以及祭司佮利未人。",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列眾首領"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "以及祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:17.782315451Z",
+  "model": "glm-5.3"
+}

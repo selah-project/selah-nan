@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "閣受點算的會眾的銀,是一百伊克卡,閣一千七百七十五舍客勒,照聖所的舍客勒;",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "閣……的銀"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "受點算的"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "伊克卡(他連得)"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "閣一千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "閣五"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "照……的舍客勒"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    }
+  ],
+  "timestamp": "2026-09-13T04:50:29.906086425Z",
+  "model": "glm-5.3"
+}

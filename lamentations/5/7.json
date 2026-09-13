@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "阮的祖先犯罪,𪜶已經無去矣;阮擔當𪜶的罪孽。",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "𪜶已經無去"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "𪜶的罪孽"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "擔當"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:31.981133882Z",
+  "model": "glm-5.3"
+}

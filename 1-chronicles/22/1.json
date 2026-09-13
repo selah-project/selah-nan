@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "大衛講:「這是雅威以羅欣的殿,這是以色列的燔祭壇。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "閣這"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:19.796298935Z",
+  "model": "glm-5.3"
+}

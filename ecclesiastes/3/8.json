@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "有時陣欲疼,亦有時陣欲恨;有時陣相刣,亦有時陣和平。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "欲疼"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "欲恨"
+    },
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "相刣"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "和平"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:55.141387759Z",
+  "model": "glm-5.3"
+}

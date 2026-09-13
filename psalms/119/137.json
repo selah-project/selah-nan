@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "公義的，雅威啊，汝⟨是⟩，佮正直⟨是⟩汝的判斷。",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "佮正直"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "汝的判斷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:15.640467541Z",
+  "model": "glm-5.3"
+}

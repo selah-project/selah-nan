@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 7:13",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "咱早早起來去葡萄園,看葡萄敢有開花,花苞敢有開,石榴敢有吐蕊;佇遐我欲互⟨את⟩我的愛互你。",
+  "tokens": [
+    {
+      "surface": "נשכימה",
+      "gloss": "早早起來"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "去葡萄園"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "咱來看"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "開花"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "葡萄"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "הסמדר",
+      "gloss": "花苞"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "吐蕊"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "石榴"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的愛"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "我的愛"
+    },
+    {
+      "surface": "לך",
+      "gloss": "互你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:24.740184627Z",
+  "model": "glm-5.3"
+}

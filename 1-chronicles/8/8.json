@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "沙哈林佇摩押的田野生後生,對伊共⟨את⟩𪜶 —— 就是戶伸佮⟨את⟩巴拉,伊的某 —— 送去了後。",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "沙哈林"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生後生"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇…的田野"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "伊共…送去"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "戶伸佮巴拉"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "戶伸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "巴拉"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "巴拉"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "伊的某"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:37.383378494Z",
+  "model": "glm-5.3"
+}

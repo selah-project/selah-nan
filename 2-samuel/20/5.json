@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "亞瑪撒就去召集⟨את⟩猶大,毋閣伊延遲超過彼个約定的時陣,就是伊替伊所約定的。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "亞瑪撒"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "去召集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "毋閣伊延遲"
+    },
+    {
+      "surface": "מן",
+      "gloss": "超過"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "約定的時陣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "伊替伊所約定的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:58:39.826538229Z",
+  "model": "glm-5.3"
+}

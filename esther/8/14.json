@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 8:14",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "彼寡騎王室馬匹的走跳者,照王的命令急急忙忙出去;法令嘛佇書珊城堡頒布。",
+  "tokens": [
+    {
+      "surface": "הרצים",
+      "gloss": "彼寡走跳者"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "騎"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "馬匹"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "王室的"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מבהלים",
+      "gloss": "急急忙忙"
+    },
+    {
+      "surface": "ודחופים",
+      "gloss": "受催趕"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "照……的命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והדת",
+      "gloss": "法令嘛"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "頒布"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "城堡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:45.157988671Z",
+  "model": "glm-5.3"
+}

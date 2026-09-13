@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 5:2",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼時陣，雅威對約書亞講：「你家己做火石刀，倒轉去，割⟨את⟩以色列的子兒，第二擺。」",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "佇…時陣"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你家己"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "刀"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "火石"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "מל",
+      "gloss": "割"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的子兒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "第二擺"
+    }
+  ],
+  "timestamp": "2026-09-12T02:21:34.704246729Z",
+  "model": "glm-5.3"
+}

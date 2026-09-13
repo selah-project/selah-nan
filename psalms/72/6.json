@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "願伊降落親像雨落佇刣好的草,親像落著土地的陣雨。",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "降落"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "親像雨"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "גז",
+      "gloss": "刣好的草"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "親像陣雨"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "落著(灌注)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:01.794691897Z",
+  "model": "glm-5.3"
+}

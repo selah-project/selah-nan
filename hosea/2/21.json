@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我欲聘你予我,到永遠;我欲閣聘你予我,佇公義、佇審判、佇赫瑟德,閣佇憐憫。",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "我欲聘你"
+    },
+    {
+      "surface": "לי",
+      "gloss": "予我"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "我欲閣聘你"
+    },
+    {
+      "surface": "לי",
+      "gloss": "予我"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "佇公義"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "佇審判"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "佇赫瑟德"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "佇憐憫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:01.240406594Z",
+  "model": "glm-5.3"
+}

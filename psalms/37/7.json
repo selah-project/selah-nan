@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "恬候佇雅威面前,為伊忍耐;毋通為著彼個佇伊的路得成的人掛意,嘛毋通為著行詭計的人受氣。",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "恬候"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "佇雅威面前"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "忍耐"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "掛意受氣"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "為著…得成的人"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "為著…的人"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "詭計"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:49.475269726Z",
+  "model": "glm-5.3"
+}

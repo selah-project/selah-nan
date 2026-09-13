@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 18:24",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "大衛坐佇兩个城門中間。顧守的人上去城門頂仔的厝頂,徛佇城牆頂,攑起 ⟨את⟩ 伊的目睭,看,看啊,有一个人單獨咧走。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "城門"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "上去"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "顧守的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "גג",
+      "gloss": "厝頂"
+    },
+    {
+      "surface": "השער",
+      "gloss": "城門"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "攑起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的目睭"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "咧走"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "單獨"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:14.295661947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "「按呢,伯特利啊,因為𪜶的邪惡大,遮的代誌就按呢臨到恁;天欲光的時陣,以色列的王欲完全滅無去。」",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "臨到恁"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "אל",
+      "gloss": "特利"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "恁的邪惡"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "天欲光的時陣"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "徹底滅無"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:34.425613697Z",
+  "model": "glm-5.3"
+}

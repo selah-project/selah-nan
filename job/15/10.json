@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佇咱中間有白頭毛的老人,嘛有上老的,比你的老爸閣較濟日。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛有"
+    },
+    {
+      "surface": "שב",
+      "gloss": "白頭毛的老人"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "上老的"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "佇咱中間"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "閣較"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "比你的老爸"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "濟日"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:40.771155398Z",
+  "model": "glm-5.3"
+}

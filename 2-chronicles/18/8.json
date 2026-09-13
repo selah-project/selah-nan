@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "以色列的王就叫一个太監來,講:「緊去叫米該雅──音拉的仔──來。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就叫"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "太監"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "緊"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "米該雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "音拉"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:38.278390768Z",
+  "model": "glm-5.3"
+}

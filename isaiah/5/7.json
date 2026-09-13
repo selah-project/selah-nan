@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 5:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為雅威采巴奧特的葡萄園就是以色列的家,猶大人就是伊所歡喜栽種的樹仔;伊向望審判,看啊,是屠殺;向望公義,看啊,是哀叫。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "בית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮人的"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "栽種"
+    },
+    {
+      "surface": "שעשועיו",
+      "gloss": "伊所歡喜的樹仔"
+    },
+    {
+      "surface": "ויקו",
+      "gloss": "伊向望"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "משפח",
+      "gloss": "屠殺"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "哀叫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:32.755224015Z",
+  "model": "glm-5.3"
+}

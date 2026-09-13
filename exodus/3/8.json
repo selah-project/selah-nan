@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 3:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「我落來,欲救𪜶脫離埃及人的手,欲𤆬𪜶對彼個地上來,去到好又闊的地,去到流奶佮蜜的地,去到迦南人、赫人、亞摩利人、比利洗人、希未人佮耶布斯人的所在。」",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "我落來"
+    },
+    {
+      "surface": "להצילו",
+      "gloss": "欲救𪜶"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "ולהעלתו",
+      "gloss": "閣欲𤆬𪜶上來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…的地"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "好"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "閣闊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…的地"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "流…的"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "奶"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "佮蜜"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "…的所在"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "閣赫人"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "閣亞摩利人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "閣比利洗人"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "閣希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "閣耶布斯人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:10.472977376Z",
+  "model": "glm-5.3"
+}

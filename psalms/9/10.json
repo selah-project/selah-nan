@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣雅威欲做受壓迫的人的高寨,做患難時陣的高寨。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣……欲做"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高寨"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "予受壓迫的人"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "高寨"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "佇……時陣"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "患難"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:03.588862401Z",
+  "model": "glm-5.3"
+}

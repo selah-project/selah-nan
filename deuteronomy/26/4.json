@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "祭司欲對你的手內提彼个籃仔,下佇雅威——你的以羅欣——的祭壇頭前。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "閣欲提"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "彼个籃仔"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "對你的手內"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "閣下佇"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:58.323465079Z",
+  "model": "glm-5.3"
+}

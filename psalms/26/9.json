@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "毋通收我的性命佮犯罪的人做夥,嘛毋通佮流人血的人收我的活命。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "收"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮…做夥"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "犯罪的人"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "嘛毋通佮…做夥"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "流人血的"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我的活命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:42.641217666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的目睭看甲欲睏,為著祢的救恩,閣為著祢公義的話。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "看甲欲睏"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "為著祢的救恩"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "閣為著…的話"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "祢公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:13.970170321Z",
+  "model": "glm-5.3"
+}

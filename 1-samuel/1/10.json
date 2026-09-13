@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊的心真苦,就對雅威祈禱,一直哮、一直哮。",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "真苦"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "的心"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "就祈禱"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "一直哮"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "一直哮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:37:39.592841633Z",
+  "model": "glm-5.3"
+}

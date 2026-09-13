@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "亞瑪謝壯起膽,率領⟨את⟩伊的百姓,去到鹽谷,擊殺⟨את⟩西珥的子孫一萬名。",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "亞瑪謝"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "壯起膽"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "率領"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的百姓"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去到"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "谷"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "鹽"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西珥的子孫"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "一萬(十)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:26.464618377Z",
+  "model": "glm-5.3"
+}

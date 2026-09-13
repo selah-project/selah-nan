@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "毋通離我遠,因為患難近矣,因為無相助的。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "離…遠"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "患難"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "近"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "相助的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:29.454458504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "以色列對約瑟講:「這擺我會使死矣,因為我有看著⟨את⟩你的面,你猶活咧。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "我會使死"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "這擺"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "因為…了後"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "我有看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的面"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "你猶"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活咧"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:04.755123145Z",
+  "model": "glm-5.3"
+}

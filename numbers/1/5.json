@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣遮⟨是⟩諸個人的名,𪜶欲佮⟨את⟩恁徛在的:屬呂便的——以利蘇,示丟珥的子。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣遮"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "諸個人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "欲徛在"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "佮⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "屬呂便的"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "以利蘇"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "示丟珥"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:07.002881388Z",
+  "model": "glm-5.3"
+}

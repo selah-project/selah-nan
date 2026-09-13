@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "對你我才倚靠穩當,對胎肚、對老母的腹腸,是你共我揪出來的;我的讚美攏總佇你。",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "我才倚靠穩當"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "對胎肚"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "對腹腸"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "我的老母"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "共我揪出來"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "我的讚美"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "攏總"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:36.191632648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "求祢對𪜶行,親像對米甸,親像對西西拉、對雅賓佇基順溪仔:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "求祢…行"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "親像對米甸"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "親像對西西拉"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "對雅賓"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "佇…溪仔"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "基順"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:58.555729884Z",
+  "model": "glm-5.3"
+}

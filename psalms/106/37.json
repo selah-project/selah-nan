@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "閣𪜶獻⟨את⟩𪜶的囝仔,佮⟨את⟩𪜶的查某囝仔,予沙代姆。",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "閣𪜶獻祭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的囝仔"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "𪜶的囝仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的查某囝仔"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "𪜶的查某囝仔"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "予沙代姆"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:53.041379248Z",
+  "model": "glm-5.3"
+}

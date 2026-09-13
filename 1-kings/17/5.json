@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊就去,照雅威的話去做;伊就去徛在基立溪邊,彼條溪佇約旦河的東邊。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "去做"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照……的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "在溪邊"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "基立"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼條"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "……的面"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    }
+  ],
+  "timestamp": "2026-09-12T03:10:56.878185776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "對面是二十肘,彼區屬佇內庭;閣對面是舖石的地,屬佇外庭;有迴廊對迴廊,做三層。",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "對面"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "二十肘"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "屬佇…庭"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "內"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "閣對面"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "舖石的地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "屬佇…庭"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "外"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "迴廊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "迴廊"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "做三層"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:34.957681875Z",
+  "model": "glm-5.3"
+}

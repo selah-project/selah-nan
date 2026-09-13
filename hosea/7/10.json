@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以色列的驕傲佇伊的面前應答，𪜶無倒轉去雅威、𪜶的以羅欣遐，也無尋伊，雖然攏是按呢。",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "應答"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "佇伊的面前"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的以羅欣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也無"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "尋伊"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "雖然攏"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "是按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:00.518754459Z",
+  "model": "glm-5.3"
+}

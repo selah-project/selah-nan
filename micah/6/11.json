@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "用邪惡的天平,用詭詐的砝石袋,我敢會算做清白?",
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "敢會算做清白"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "用…的天平"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "用…袋"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "砝石"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:53.270687595Z",
+  "model": "glm-5.3"
+}

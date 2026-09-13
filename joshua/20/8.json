@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣佇約旦河對岸、耶利哥的東旁,𪜶派出⟨את⟩比悉,佇曠野、佇平原,對流便支派;閣⟨את⟩拉末,佇基列,對迦得支派;閣⟨את⟩哥蘭,佇巴珊,對瑪拿西支派。",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "閣佇對岸"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "東旁"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "𪜶派出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "比悉"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "比悉"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "佇平原"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "對…支派"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "流便"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "拉末"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "佇基列"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "對…支派"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "哥蘭"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "哥蘭"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "佇巴珊"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "對…支派"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:01.085165613Z",
+  "model": "glm-5.3"
+}

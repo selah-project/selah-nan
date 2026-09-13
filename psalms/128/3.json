@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 128,
+  "translation": "你的某親像果子纍纍的葡萄樹,佇你厝內的邊仔位;你的子兒親像橄欖樹栽,圍佇你的桌邊。",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "你的某"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "親像葡萄樹"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "果子纍纍的"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "佇…的邊仔位"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你厝"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的子兒"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "親像…樹栽"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "橄欖"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "佇你的桌邊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.658126845Z",
+  "model": "glm-5.3"
+}

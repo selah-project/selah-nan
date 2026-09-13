@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊的先知是輕浮、奸詐的人;伊的祭司瀆著聖物,用強暴待妥拉。",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "伊的先知"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "輕浮"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "奸詐"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "伊的祭司"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "瀆著"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "用強暴待"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:22.215933103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "西布勒彼个城的首領聽見⟨את⟩迦勒彼個以別的子的話,伊的受氣就燒起來。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "西布勒"
+    },
+    {
+      "surface": "שר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼个城"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦勒…的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "געל",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "以別"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "就燒起來"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊的受氣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:32:26.201058091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊就對⟨את⟩伊遐去,關門佇伊佮伊的囝的後面;𪜶捧器皿到伊面前,伊就咧倒。",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "伊就去"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "對⟨את⟩伊遐"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "就關"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "門"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "佇伊後面"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "嘛佇…後面"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "捧到"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "伊面前"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "伊就"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "咧倒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:32.231419481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 4:4",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "約書亞就叫彼十二个人，就是伊對以色列的子儿內底準備的，一個人一個人對一个支派。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就叫"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "איש",
+      "gloss": "个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "準備"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對…的子儿內底"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "對一个支派"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:54.605558220Z",
+  "model": "glm-5.3"
+}

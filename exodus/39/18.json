@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 39:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "閣⟨את⟩彼兩條索的兩個頭端,𪜶下佇彼兩个嵌鑲座頂面,閣共𪜶下佇以弗得的兩個肩頭頂面,對伊的面頭前。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼兩條索的兩個頭端"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "彼兩個"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "頭端"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "彼兩條"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "索"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "𪜶下"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "彼兩个"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "嵌鑲座"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "閣共𪜶下"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "肩頭"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מול",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:03.440478132Z",
+  "model": "glm-5.3"
+}

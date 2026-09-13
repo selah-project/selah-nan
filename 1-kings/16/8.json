@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "佇亞撒——猶大王——的第二十六年,以拉,巴沙的子,佇得撒做王治理以色列,做兩年。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇……的年"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "佮六"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "以拉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "佇得撒"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "兩年"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:45.581612122Z",
+  "model": "glm-5.3"
+}

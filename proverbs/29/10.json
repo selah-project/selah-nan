@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "流人血的人怨恨完全人,獨正直的人切心欲護伊的性命。",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "人"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "流人血"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "תם",
+      "gloss": "完全人"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "獨正直的人"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "切心欲護"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:44.311165289Z",
+  "model": "glm-5.3"
+}

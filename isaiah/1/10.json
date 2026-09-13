@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所多瑪的官長啊,恁著聽雅威的話;蛾摩拉的百姓啊,側耳聽阮的以羅欣的律法。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "官長"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "所多瑪"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "側耳聽"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "蛾摩拉"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:15.302931770Z",
+  "model": "glm-5.3"
+}

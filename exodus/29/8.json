@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣 ⟨את⟩ 伊個囝你欲帶𪜶近前,給𪜶穿內袍。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊個囝"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊個囝"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "你欲帶近前"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "閣給𪜶穿"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "內袍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:27.841285737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 130,
+  "translation": "我的性命(等)阿多奈,親像守更的等天光,守更的等天光。",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "(等)阿多奈"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "親像守更的"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "等天光"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "守更的"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "等天光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:22.894562294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "按呢諸天欲認揚你的奇事,雅威,嘛欲佇聖徒的會中認揚你的信實。",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "按呢…欲認揚"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "你的奇事"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "佇…的會中"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖徒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:25.058732329Z",
+  "model": "glm-5.3"
+}

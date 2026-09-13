@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 9:13",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "米非波設蹛佇耶路撒冷,因為伊逐擺攏佇王的桌仔頂食,伊兩跤攏跛。",
+  "tokens": [
+    {
+      "surface": "ומפיבשת",
+      "gloss": "米非波設"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "逐擺攏"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "跛"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "跤"
+    }
+  ],
+  "timestamp": "2026-09-12T06:26:50.145753828Z",
+  "model": "glm-5.3"
+}

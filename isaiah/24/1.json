@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "看啊,雅威咧使大地空蕩,閣共伊倒蕩空,彎伊的面,閣撒開徛佇其中的居民。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "咧使…空蕩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "閣共伊倒蕩空"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "彎曲"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "閣撒開"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "徛佇其中的居民"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:28.487858355Z",
+  "model": "glm-5.3"
+}

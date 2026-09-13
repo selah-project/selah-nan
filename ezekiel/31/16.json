@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 31:16",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "對伊倒落來的聲,我互列國震動;我帶伊落去示阿勒,佮彼个落去坑內的人做夥⟨את⟩ ⟨את⟩。落去坑內的人攏得著安慰,佇下底的地,伊甸一切的樹,上好上讚的黎巴嫩,一切啉水的,攏得安慰。",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "伊倒落來"
+    },
+    {
+      "surface": "הרעשתי",
+      "gloss": "我互…震動"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "בהורדי",
+      "gloss": "我帶…落去"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊落去示阿勒"
+    },
+    {
+      "surface": "שאולה",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "落去坑內的人"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "落去…的人"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "וינחמו",
+      "gloss": "攏得著安慰"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "下底"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "…的樹"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "上好"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "佮上讚"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "黎巴嫩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "啉…的"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-13T06:32:22.554944175Z",
+  "model": "glm-5.3"
+}

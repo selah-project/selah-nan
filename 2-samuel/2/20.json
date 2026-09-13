@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "押尼珥越頭看後面,講:「你敢是亞撒黑?」伊講:「就是我。」",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "越頭看"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "向後面"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "זה",
+      "gloss": "是"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "亞撒黑"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "就是我"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:43.479198253Z",
+  "model": "glm-5.3"
+}

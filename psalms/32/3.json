@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為我恬默毋講,我的骨頭攏磨損,佇我哮吼規個日。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "我恬默毋講"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "磨損"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "我的骨頭"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "佇我哮吼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:40.108592788Z",
+  "model": "glm-5.3"
+}

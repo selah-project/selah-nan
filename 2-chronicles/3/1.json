@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "所羅門開始起造⟨את⟩雅威的厝,佇耶路撒冷、佇摩利亞山,就是對伊的老爸大衛顯現的所在,彼所在是大衛佇耶布斯人阿珥楠的禾埕所準備的。",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "開始"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的厝"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "摩利亞"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "對大衛"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼所在是"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "準備"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇所在"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "佇禾埕"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "阿珥楠"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:02.573942086Z",
+  "model": "glm-5.3"
+}

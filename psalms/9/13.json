@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為追討血的,紀念⟨את⟩𪜶;伊毋袂記得困苦人的哀叫。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "追討"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "哀叫"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "困苦人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:22.134174805Z",
+  "model": "glm-5.3"
+}

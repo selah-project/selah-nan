@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "起頭,以羅欣創造⟨את⟩諸天佮⟨את⟩大地。",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "大地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:01.733536235Z",
+  "model": "glm-5.3"
+}

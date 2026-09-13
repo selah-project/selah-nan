@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "我對彼陣就給你報出，代誌猶未到的代先，我已經互你聽見，驚了你會講:「我的偶像做的,我的雕刻佮我鑄的偶像命令的。」",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "我給你報出"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "對彼陣"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "猶未……的代先"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "(代誌)到"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "我互你聽見"
+    },
+    {
+      "surface": "פן",
+      "gloss": "驚了"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你會講"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "我的偶像"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "做的"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "佮我的雕刻"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "佮我鑄的偶像"
+    },
+    {
+      "surface": "צום",
+      "gloss": "命令的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:19.130497999Z",
+  "model": "glm-5.3"
+}

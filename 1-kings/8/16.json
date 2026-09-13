@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "「對我帶⟨את⟩我的百姓、⟨את⟩以色列出埃及彼日以來,我無對以色列眾支派中間揀啥物城來起造厝、互我的名徛在遐;我獨獨揀大衛,來徛佇我的百姓以色列頂面。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "對……以來"
+    },
+    {
+      "surface": "היום",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "我帶……出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "出埃及"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我揀"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "啥物城"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對……中間"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "眾支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "來起造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "互……徛在"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "我獨獨揀"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "來徛佇……頂面"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:55.536226816Z",
+  "model": "glm-5.3"
+}

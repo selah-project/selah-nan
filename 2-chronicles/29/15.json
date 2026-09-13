@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "𪜶召集⟨את⟩𪜶的兄弟,家己行潔淨的禮,就照王的命令、照雅威的話入去,欲潔淨雅威的殿。",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "𪜶召集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的兄弟"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "𪜶的兄弟"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "家己行潔淨的禮"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "就入去"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "照……的命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "照……的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "欲潔淨"
+    },
+    {
+      "surface": "בית",
+      "gloss": "……的殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:41.391273040Z",
+  "model": "glm-5.3"
+}

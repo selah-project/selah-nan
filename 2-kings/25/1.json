@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 25:1",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佇伊做王第九年,第十個月,彼月的第十日,巴比倫王尼布甲尼撒來到——伊佮伊的全軍——對耶路撒冷,伊扎營對抗伊,𪜶閣對抗伊起造圍城壁四圍。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "第九"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "伊做王"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇月"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "第十個"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "第十日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼月"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮全部"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "伊的軍隊"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "伊扎營"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對抗伊"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "𪜶起造"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對抗伊"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "圍城壁"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:46.393246779Z",
+  "model": "glm-5.3"
+}

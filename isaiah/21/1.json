@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "擔頭——海的曠野。親像旋風佇南地經過,按呢對曠野有來,對恐怖的地。",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "擔頭"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "親像旋風"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "佇南地"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "經過"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "對曠野"
+    },
+    {
+      "surface": "בא",
+      "gloss": "有來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對地"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "恐怖"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:40.330895857Z",
+  "model": "glm-5.3"
+}

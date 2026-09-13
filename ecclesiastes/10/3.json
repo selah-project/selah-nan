@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣若愚戇人行佇路裡,伊个心有所欠缺,伊就對逐个人講:伊是愚戇人。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路裡"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "若愚戇人"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊个心"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "有所欠缺"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "伊就…講"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對逐个人"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:24.862980004Z",
+  "model": "glm-5.3"
+}

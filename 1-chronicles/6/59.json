@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣對亞設⟨的⟩支派,⟨את⟩瑪沙佮⟨את⟩𪜶的郊野,⟨את⟩押比頓佮⟨את⟩𪜶的郊野。",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "閣對…支派"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "亞設"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瑪沙"
+    },
+    {
+      "surface": "משל",
+      "gloss": "瑪沙"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的郊野"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "𪜶的郊野"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "押比頓"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "押比頓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的郊野"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "𪜶的郊野"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:28.650394452Z",
+  "model": "glm-5.3"
+}

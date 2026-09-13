@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "「義人食到伊的家己飽;毋拘歹人的肚腹欲欠缺。」",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "到飽"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的家己"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "毋拘…肚腹"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "欲欠缺"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:20.701892116Z",
+  "model": "glm-5.3"
+}

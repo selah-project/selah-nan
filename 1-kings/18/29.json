@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "閣當中晝過去,𪜶講預言直到獻彼個下昏祭的時,無聲、無應、嘛無咧聽。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "當…過去"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "中晝"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "𪜶講預言"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "獻上去"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "彼個祭物"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "應"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "咧聽"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:00.947378821Z",
+  "model": "glm-5.3"
+}

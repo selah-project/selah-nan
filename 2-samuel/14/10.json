@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "王就講:「若有人對你講啥物話,你共伊帶來我遮,伊就袂閣再摸著你矣。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "講話的"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "你共伊帶來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就袂"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "擱"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "摸著"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:31.857149073Z",
+  "model": "glm-5.3"
+}

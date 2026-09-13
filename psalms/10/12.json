@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "起來,雅威啊!以勒啊,舉起你的手;毋通袂記得困苦的人。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "困苦的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:09.861318215Z",
+  "model": "glm-5.3"
+}

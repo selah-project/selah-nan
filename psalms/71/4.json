@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "我的以羅欣啊,救我脫離歹人的手,脫離不義佮殘忍者的掌握。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "救我脫離"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "…的手"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "脫離…的掌握"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "不義"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "佮殘忍者"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:51.239372359Z",
+  "model": "glm-5.3"
+}

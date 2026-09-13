@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "汝劈開泉源佮溪流;汝互長流的諸江河焦去。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "劈開"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "佮溪流"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "互…焦去"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "諸江河"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "長流"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:01.861987534Z",
+  "model": "glm-5.3"
+}

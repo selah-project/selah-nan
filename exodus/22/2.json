@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是日頭已經出來照伊,伊就有血債;伊著賠償;伊若無通賠,就為著伊的偷竊予人賣。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "出來"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "照伊"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "血債"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "賠償"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "著賠"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "予人賣"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "為著伊的偷竊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:26.293532577Z",
+  "model": "glm-5.3"
+}

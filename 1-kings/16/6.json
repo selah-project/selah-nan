@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "巴沙佮伊的列祖同睏,埋葬佇得撒;伊的子以拉接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "同睏"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "佇得撒"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "以拉"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:45.581265563Z",
+  "model": "glm-5.3"
+}

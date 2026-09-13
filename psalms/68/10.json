@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "以羅欣搖出甘願賜的雨水,落佇你的產業;佇伊懈倦的時,你建立伊。",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "雨水"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "甘願賜的"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "搖出"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "你的產業"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "佇伊懈倦的時"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "你建立伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:08.615495419Z",
+  "model": "glm-5.3"
+}

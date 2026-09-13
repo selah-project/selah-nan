@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "𪜶佇伊內底鑲四排石頭:一排敖德姆(紅寶石)、庇特搭(黃寶石)佮巴西勒(綠寶石),彼是頭一排。",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "𪜶鑲滿"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "排"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "טור",
+      "gloss": "一排"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "敖德姆(紅寶石)"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "庇特搭(黃寶石)"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "佮巴西勒(綠寶石)"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "彼排"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "頭一個"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:15.114078651Z",
+  "model": "glm-5.3"
+}

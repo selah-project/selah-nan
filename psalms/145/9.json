@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "雅威對逐個攏好,伊的憐憫佇伊一切的所做頂面。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對逐個"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "伊的憐憫"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "伊的所做"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:38.709455740Z",
+  "model": "glm-5.3"
+}

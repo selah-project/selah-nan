@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我嘛佇遐為約櫃設一個所在,約櫃內底有雅威的約,是伊佮阮的祖先所割立的,佇伊帶⟨את⟩𪜶出埃及地的時。",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "我設"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "一個所在"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "為約櫃"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "割立"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "佇伊帶出"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(出埃及的對象)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:08.595305655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我猶原聽見⟨את⟩伊的話的聲;我聽⟨את⟩伊的話的聲了後,我就昏沉倒佇面頂,我的面向地落去。",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "我猶原聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的話的聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "我聽……了後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的話的聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "就"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "昏沉"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面頂"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "閣我的面"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "向地落去"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:36.189610835Z",
+  "model": "glm-5.3"
+}

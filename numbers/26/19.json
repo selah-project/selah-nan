@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "猶大的囝是珥佮俄南;珥佮俄南死佇迦南地。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "囝"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ער",
+      "gloss": "珥"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "佮俄南"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "ער",
+      "gloss": "珥"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "佮俄南"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:29.153275757Z",
+  "model": "glm-5.3"
+}

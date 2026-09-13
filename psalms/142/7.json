@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 142,
+  "translation": "求你側耳聽我的哀聲,因為我真衰微;救我脫離咧追我的人,因為𪜶比我卡強。",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "求你側耳聽"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "我的哀聲"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "我衰微"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "脫離咧追我的人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "𪜶強"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "比我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:07.739746617Z",
+  "model": "glm-5.3"
+}

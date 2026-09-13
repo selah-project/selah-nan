@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "雅威真大,真值得讚美,佇咱的以羅欣的城,佇伊聖的山。",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "真大"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "真值得讚美"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇…的城"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊聖的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.901308700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "我若講:「我的跤咧搖」,你的赫瑟德(慈愛),雅威啊,就扶持我。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "咧搖"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的跤"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "扶持我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:22.659435692Z",
+  "model": "glm-5.3"
+}

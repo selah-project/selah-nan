@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "𪜶有耳仔,毋過𪜶袂曉聽;連氣息嘛無佇𪜶的喙內。",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶有"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "袂曉聽"
+    },
+    {
+      "surface": "אף",
+      "gloss": "連……嘛"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨存在⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣息"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "佇𪜶的喙內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:37.979078323Z",
+  "model": "glm-5.3"
+}

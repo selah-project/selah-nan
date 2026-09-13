@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "來,咱跪落敬拜,咱屈落;咱跪佇雅威──阮的創造者──面前。",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "來"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "咱跪落敬拜"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "咱屈落"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "咱跪"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "阮的創造者"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:05.474133884Z",
+  "model": "glm-5.3"
+}

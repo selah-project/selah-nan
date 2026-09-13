@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "「提彼條⟨את⟩腰帶——你買的、縛佇你腰上的——起來,去幼發拉底河,共伊埋佇遐石磐的隙縫內。」",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼條腰帶"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "彼條腰帶"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——你買的"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "買"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——縛佇…上的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "你腰"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "幼發拉底河"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "共伊埋"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "隙縫內"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "石磐的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:51:54.823397032Z",
+  "model": "glm-5.3"
+}

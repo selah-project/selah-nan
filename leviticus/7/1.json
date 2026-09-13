@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣這是贖愆祭的律法,伊是聖中的聖。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "閣這是"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "贖愆祭"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖中的聖"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:43.128606159Z",
+  "model": "glm-5.3"
+}

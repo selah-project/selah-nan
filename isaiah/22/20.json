@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 22:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "佇彼日會按呢:我欲召我个奴僕,就是希勒家个後生以利亞敬。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "會按呢"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…个日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "我欲召"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "我个奴僕"
+    },
+    {
+      "surface": "לאליקים",
+      "gloss": "以利亞敬"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "希勒家"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:31.672864944Z",
+  "model": "glm-5.3"
+}

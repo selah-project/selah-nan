@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "嘛因為按呢,利未人就毋免閣扛⟨את⟩會幕,佮⟨את⟩伊全部的器具,來服事伊。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "嘛因為按呢"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "אין",
+      "gloss": "毋免"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "閣扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊全部的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "器具"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "來服事伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:10.874338506Z",
+  "model": "glm-5.3"
+}

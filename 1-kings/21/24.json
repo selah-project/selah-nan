@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "屬亞哈的,死佇城裡的,狗欲食伊;死佇田裡的,天頂的鳥隻欲食伊。",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "彼個死的"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "屬亞哈的"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城裡"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "彼些狗"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "閣彼個死的"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥隻"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:47.105338815Z",
+  "model": "glm-5.3"
+}

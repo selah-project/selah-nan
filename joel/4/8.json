@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我閣欲將恁的後生 ⟨את⟩ 佮恁的查某囡 ⟨את⟩ 賣佇猶大後生的手中,𪜶閣欲賣𪜶互示巴人,對一個遠遠的國,因為雅威已經講出矣。",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "我閣欲賣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的後生"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "恁的後生"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的查某囡"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "恁的查某囡"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇……的手中"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "𪜶閣欲賣𪜶"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "互示巴人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "一個國"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "遠遠的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "已經講出矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:16.259164922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "我是雅威,除我以外無別个;佇我以外無以羅欣。我縛予你有力氣,你猶毋捌我。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "別个"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "佇我以外"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "我縛你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "猶毋"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "捌我"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:49.516529928Z",
+  "model": "glm-5.3"
+}

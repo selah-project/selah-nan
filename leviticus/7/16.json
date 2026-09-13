@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "若是伊的祭物是還願祭抑是自願祭,佇伊獻⟨את⟩伊的祭彼工著食,隔轉日剩落的嘛會使食。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "還願祭"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "自願祭"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "伊的祭物"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼工"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "伊獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的祭"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "伊的祭"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "著食"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "佮隔轉日"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "佮剩落的"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "會使食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:49.258562597Z",
+  "model": "glm-5.3"
+}

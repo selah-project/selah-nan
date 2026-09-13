@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "約瑟就牽𪜶兩个 ⟨את⟩——以法蓮 ⟨את⟩ 佇伊的正手,拄著以色列的倒手爿;瑪拿西 ⟨את⟩ 佇伊的倒手,拄著以色列的正手爿——就導𪜶近伊。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就牽"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶兩个"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以法蓮"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "佇伊的正手"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "倒手爿"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "瑪拿西"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "佇伊的倒手"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "正手爿"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "就導近"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:50.068063136Z",
+  "model": "glm-5.3"
+}

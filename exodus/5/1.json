@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "後來摩西佮亞倫入去,對法老講:「以色列的以羅欣、雅威按呢講:放⟨את⟩我的百姓去,𪜶欲佇曠野對我守節。」",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "後來"
+    },
+    {
+      "surface": "באו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放……去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "守節"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:39.898464376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "至於寡婦、離婚的婦人的願,伊縛佇伊魂頂面的一切,攏徛佇伊身上。",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "至於…的願"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "離婚的婦人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "伊縛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "伊的魂"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "伊身上"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:20.411565273Z",
+  "model": "glm-5.3"
+}

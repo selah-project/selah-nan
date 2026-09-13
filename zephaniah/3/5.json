@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威是公義的,徛佇伊中間;伊毋做毋著代。透早閣透早,伊將伊的判斷報到光,無欠缺;毋拘行毋著的人毋知見笑。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "徛佇伊中間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "毋著代"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "閣透早"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "伊的判斷"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "報到"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "到光"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "欠缺"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "知"
+    },
+    {
+      "surface": "עול",
+      "gloss": "行毋著的人"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "見笑"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:06.257244429Z",
+  "model": "glm-5.3"
+}

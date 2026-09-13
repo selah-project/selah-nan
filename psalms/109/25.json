@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "我嘛變做𪜶的笑柄;𪜶看見我,就搖𪜶的頭殼。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "我嘛"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "變做"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "笑柄"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "𪜶看見我"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "就搖"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "𪜶的頭殼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:05.465689164Z",
+  "model": "glm-5.3"
+}

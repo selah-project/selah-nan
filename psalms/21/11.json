@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "𪾣的果子你欲對土地消滅,𪜶的種子對人的子兒中間。",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "𪾣的果子"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土地"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "你欲消滅"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "𪜶的種子"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對…的子兒(中間)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:32.782998764Z",
+  "model": "glm-5.3"
+}

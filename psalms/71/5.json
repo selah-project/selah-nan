@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "因為你是我向望的阿多奈雅威,是我對幼年以來的倚靠。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "我的向望"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "我的倚靠"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "對我幼年的時"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:36.191377028Z",
+  "model": "glm-5.3"
+}

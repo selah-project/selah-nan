@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "受咒詛彼个屈枉寄居的、孤兒佮寡婦的公道的;規个百姓欲講:阿們。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "受咒詛"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "屈枉"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居的"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "佮寡婦"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "閣……欲講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規个"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿們"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:45.479965086Z",
+  "model": "glm-5.3"
+}

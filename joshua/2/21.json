@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊講:「照恁的話,按呢就是。」伊就打發𪜶去,𪜶就行;伊就將⟨את⟩朱紅的繩仔縛佇窗仔頂。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "照恁的話"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "伊就打發𪜶去"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "𪜶就行"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "伊就縛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "朱紅的繩仔"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "繩仔"
+    },
+    {
+      "surface": "השני",
+      "gloss": "朱紅的"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "佇窗仔頂"
+    }
+  ],
+  "timestamp": "2026-09-12T02:21:18.912302868Z",
+  "model": "glm-5.3"
+}

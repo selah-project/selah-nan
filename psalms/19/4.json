@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "無話,也無言語;𪜶的聲無人聽見。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "話"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也無"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "言語"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "人聽見"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "𪜶的聲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:10.823026484Z",
+  "model": "glm-5.3"
+}

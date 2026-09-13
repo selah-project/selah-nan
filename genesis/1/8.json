@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以羅欣叫彼穹蒼做「天」。有暗昏,有早起,第二日。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "彼穹蒼"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "暗昏"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早起"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "שני",
+      "gloss": "第二"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:07.526249938Z",
+  "model": "glm-5.3"
+}

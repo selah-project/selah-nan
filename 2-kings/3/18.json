@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣這項佇雅威的眼中算是輕省,伊閣欲將⟨את⟩摩押交佇恁的手中。",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "算是輕省"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這項"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "伊閣欲將…交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩押"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "佇恁的手中"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:18.766490424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "因為佇死內無你的記念;佇示阿勒,啥人欲感謝你?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "במות",
+      "gloss": "佇死內"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "你的記念"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "佇示阿勒"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "欲感謝"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:29.276318645Z",
+  "model": "glm-5.3"
+}

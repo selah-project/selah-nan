@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "汝愛家己謹慎,免得汝佇任何所在——就是汝所看見的——予汝的燒祭上去;",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "謹慎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "家己"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "予……上去"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "汝的燒祭"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇任何"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是……的"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "汝所看見"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:42.592004952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "阮的性命向雅威等候,伊就是阮的幫助佮阮的盾牌。",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "阮的性命"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "等候"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "阮的幫助"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "佮阮的盾牌"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:22.759751016Z",
+  "model": "glm-5.3"
+}

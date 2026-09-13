@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "啥物緣故,雅威啊,你擲掉我的魂?啥物緣故你對我掩密你的面?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "你擲掉"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的魂"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "你掩密"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:23.613156769Z",
+  "model": "glm-5.3"
+}

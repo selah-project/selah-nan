@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "以色列的王就講:「恁揣米迦雅⟨את⟩,共伊送轉去亞蒙——⟨彼個⟩城的首領——遐,閣去約阿施——王仔的囝——遐。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "恁揣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米迦雅"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "米迦雅"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "共伊送轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去……遐"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "亞蒙"
+    },
+    {
+      "surface": "שר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨彼個⟩城"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣去……遐"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨彼個⟩王"
+    }
+  ],
+  "timestamp": "2026-09-12T06:14:05.326930927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "彼个兇悍的族,恁欲看無 ⟨את⟩;嘴唇深、聽袂明白的族,舌頭譏誚、無了解的。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个兇悍的族"
+    },
+    {
+      "surface": "עם",
+      "gloss": "族"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "兇悍的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "看無(毋會)"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "עם",
+      "gloss": "族"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "深"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "聽袂明白"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌頭"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "了解"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:39.522227162Z",
+  "model": "glm-5.3"
+}

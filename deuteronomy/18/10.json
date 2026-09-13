@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你中間毋通有人做伊的後生抑是查某囝行過火,做占卜的、觀兆的、行法術的、行邪術的。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "有人"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你中間"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "做…行過"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "抑是查某囝"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "占卜的"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "占卜"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "觀兆的"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "行法術的"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "行邪術的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:14.630849077Z",
+  "model": "glm-5.3"
+}

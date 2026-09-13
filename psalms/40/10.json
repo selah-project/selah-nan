@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "我報好消息——傳公義佇大會眾中間;看毋,我的嘴脣我無按捺牢,雅威,汝知影。",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "我報好消息"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "佇會眾"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看毋"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的嘴脣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "按捺牢"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知影"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:37.218162595Z",
+  "model": "glm-5.3"
+}

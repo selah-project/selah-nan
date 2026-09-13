@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "大衛的讚美詩。我欲高舉你,我的以羅亞,彼位王,閣欲祝福你的名,直到永遠,永無止息。",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "讚美詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "我欲高舉你"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "我的以羅亞"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "彼位王"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "閣欲祝福"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "永無止息"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:41.611550866Z",
+  "model": "glm-5.3"
+}

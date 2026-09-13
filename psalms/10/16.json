@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "雅威⟨是⟩王,對萬古到永遠;列邦對伊的土地已經滅無去。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "對萬古"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "已經滅無去"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "對伊的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:26.579822830Z",
+  "model": "glm-5.3"
+}

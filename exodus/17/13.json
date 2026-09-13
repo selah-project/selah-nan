@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "約書亞削弱 ⟨את⟩ 亞瑪力佮 ⟨את⟩ 伊的百姓,是用刀嘴。",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "削弱"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的百姓"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "照……的嘴"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:08.261793369Z",
+  "model": "glm-5.3"
+}

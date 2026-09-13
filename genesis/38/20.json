@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "猶大就差伊的朋友彼个亞杜蘭人,共⟨את⟩彼隻山羊仔交佇伊手裡,欲對彼个婦人人手裡提彼个抵押,毋過揣無伊。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "就差"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻山羊仔"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "山羊仔"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "彼寡山羊的"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "交佇…手"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的朋友"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "彼个亞杜蘭人"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "欲提"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "彼个抵押"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼个婦人人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過無"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "揣著伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:55.259752871Z",
+  "model": "glm-5.3"
+}

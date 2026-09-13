@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "我欲恢復猶大⟨את⟩被掠的倒轉,閣恢復⟨את⟩以色列被掠的倒轉,欲閣起造𪜶,親像頭一遍按呢。",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "我欲恢復…倒轉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大被掠的"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "被掠的倒轉"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "以色列被掠的"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "被掠的倒轉"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "欲閣起造𪜶"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "親像頭一遍按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T06:30:23.265956307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 30:16",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "𪜶就徛佇𪜶的崗位,照𪜶的例,照摩西——以羅欣的人——的律法;祭司對利未人的手接⟨את⟩血,灑落去。",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "𪜶就徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "𪜶的崗位"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "照𪜶的例"
+    },
+    {
+      "surface": "כתורת",
+      "gloss": "照…的律法"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "איש",
+      "gloss": "的人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "זרקים",
+      "gloss": "灑落去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手接"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:54.352287904Z",
+  "model": "glm-5.3"
+}

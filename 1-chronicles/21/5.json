@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "約押予大衛⟨את⟩點算百姓的數額;以色列攏總一千千閣一百千个抽刀的人,猶大是四百千閣七十千个抽刀的人。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "點算百姓的數額"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數額"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "點算"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "是"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "閣一百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "抽"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "閣七十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "抽"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:01.226632881Z",
+  "model": "glm-5.3"
+}

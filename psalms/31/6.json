@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "我將我的氣力交代佇你的手;你有贖回⟨את⟩我,雅威,誠實的以勒。",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "我……交代"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的氣力"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "你有贖回"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "誠實的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:30.067385442Z",
+  "model": "glm-5.3"
+}

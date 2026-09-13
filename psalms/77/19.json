@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "你雷公的聲佇旋風裡,閃電照光大地;地球震動搖撼。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "你雷公的"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "佇旋風裡"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "照光"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "閃電"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "大地"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "震動"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "搖撼"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地球"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:59.816695206Z",
+  "model": "glm-5.3"
+}

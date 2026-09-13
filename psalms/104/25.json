@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "遮是彼個海,大閣闊,遐有泅來泅去的活物,數袂了——細隻的活物佮大隻的攏佇遐。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼個海"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "閣闊"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "(兩爿)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "泅來泅去的活物"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "數袂了"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "活物"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "細隻的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大隻的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:24.274409816Z",
+  "model": "glm-5.3"
+}

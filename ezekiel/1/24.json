@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 1:24",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我聽見⟨את⟩𪜶翼的聲,親大水的聲,親像沙代的聲;𪜶行的時有鬧熱的聲,親像營盤的聲;𪜶徛的時,翼就垂落來。",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶翼的聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "𪜶的翼"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "親像……的聲"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真多的"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "親像……的聲"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "בלכתם",
+      "gloss": "𪜶咧行的時"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "המלה",
+      "gloss": "鬧熱"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "親像……的聲"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營盤"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "𪜶咧徛的時"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "垂落來"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "𪜶的翼"
+    }
+  ],
+  "timestamp": "2026-09-12T04:07:46.646422586Z",
+  "model": "glm-5.3"
+}

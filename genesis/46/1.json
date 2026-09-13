@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "以色列就起身,佮伊所有的一切,來到貝爾沙巴(別是巴),獻祭牲予伊的父親以撒的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "就起身"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "貝爾"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "沙巴"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "獻"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "祭牲"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "予……的以羅欣"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的父親"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:55.709392900Z",
+  "model": "glm-5.3"
+}

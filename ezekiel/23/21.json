@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "按呢你數算⟨את⟩你少年時的淫亂,佇埃及人搓你的奶的時,為著你少年時的奶。",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "你數算"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你少年時的淫亂"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "淫亂"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "你少年時的"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "佇…搓的時"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "你的奶"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "奶"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "你少年時的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:12.841856963Z",
+  "model": "glm-5.3"
+}

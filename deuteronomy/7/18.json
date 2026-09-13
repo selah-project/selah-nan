@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "你毋通驚𪜶;著好好仔記得⟨את⟩雅威——你的以羅欣——對法老佮對米茲拉因(埃及)所行的事。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "著記得"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "好好仔記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威……所行的事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "對法老"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "佮對逐個"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:04.559191571Z",
+  "model": "glm-5.3"
+}

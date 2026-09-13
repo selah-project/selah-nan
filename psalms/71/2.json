@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "用你的公義搶救我,救我脫離;你的耳仔傾向倚我,拯救我。",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "用你的公義"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "你搶救我"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "閣救我脫離"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "傾"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向倚我"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳仔"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "閣拯救我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:02.772614595Z",
+  "model": "glm-5.3"
+}

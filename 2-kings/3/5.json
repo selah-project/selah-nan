@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "亞哈死了後,摩押的王就對以色列的王悖逆起來。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就有了"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "死了後"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "就悖逆起來"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "對…的王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:04.801923139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "閣對遠古山嶺的頭前,閣對永遠山岡的至寶。",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "閣對……的頭前"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "山嶺"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "遠古"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "閣對……的至寶"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "山岡"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:27.298461349Z",
+  "model": "glm-5.3"
+}

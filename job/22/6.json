@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 22:6",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為你白白抾你兄弟做抵押,閣共光身的人褪掉衫。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "抾做抵押"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "白白"
+    },
+    {
+      "surface": "ובגדי",
+      "gloss": "閣…的衫"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "光身的人"
+    },
+    {
+      "surface": "תפשיט",
+      "gloss": "褪掉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:25:59.456680820Z",
+  "model": "glm-5.3"
+}

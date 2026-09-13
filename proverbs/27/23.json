@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "著清楚知恁羊群的面,用心注意恁的牛群。",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "著知"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "清楚知"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "恁的羊群"
+    },
+    {
+      "surface": "שית",
+      "gloss": "用心注意"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "恁的心"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "恁的牛群"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:42.755463839Z",
+  "model": "glm-5.3"
+}

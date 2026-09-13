@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "講:我若入去我厝的帳棚,若爬上我睏的眠床,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "我厝的"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "爬上"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "眠床"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "我鋪的床"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:20.153067702Z",
+  "model": "glm-5.3"
+}

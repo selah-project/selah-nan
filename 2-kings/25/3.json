@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "初九彼日,饑荒佇城內變到真嚴重,當地的百姓無餅通食。",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "初九"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼月"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "變到嚴重"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "通予百姓"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "當地的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:46.393689025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "祭司就應允,毋閣對⟨את⟩百姓提銀,嘛毋閣修理⟨את⟩殿裡的破空。",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "就應允"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "毋閣"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "提"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "嘛毋閣"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "修理"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿裡的破空"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "破空"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:22.228659287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "obadiah 1:20",
+  "book": "obadiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佮以色列子儿這陣軍隊中被掠的人,就是佇迦南人遐到撒勒法的,會得著;佮耶路撒冷被掠的人,就是佇西法拉的,會得著⟨את⟩南部的城。",
+  "tokens": [
+    {
+      "surface": "וגלת",
+      "gloss": "佮被掠的人"
+    },
+    {
+      "surface": "החל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的子儿"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "כנענים",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "צרפת",
+      "gloss": "撒勒法"
+    },
+    {
+      "surface": "וגלת",
+      "gloss": "佮被掠的人"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בספרד",
+      "gloss": "佇西法拉"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "會得著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "南部的城"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "…的城"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南部"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:47.517075939Z",
+  "model": "glm-5.3"
+}

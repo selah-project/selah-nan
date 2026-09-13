@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "雅威我的以羅欣啊,我向你呼救,你就醫好我。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "我呼救"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "你就醫好我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:24.436234943Z",
+  "model": "glm-5.3"
+}

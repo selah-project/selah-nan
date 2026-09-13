@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.3",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊對我講:「人子啊,徛佇你的腳頂,我欲佮你講話⟨את⟩。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "我欲講"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    }
+  ],
+  "timestamp": "2026-09-13T06:54:24.954727771Z",
+  "model": "glm-5.3"
+}

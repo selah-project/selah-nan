@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "⟨את⟩逐隻烏鴉,照伊的類。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "逐隻烏鴉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐隻"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "烏鴉"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "照伊的類"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:49.873153714Z",
+  "model": "glm-5.3"
+}

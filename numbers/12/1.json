@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 12:1",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "米利暗佮亞倫就對摩西講話,為著伊所娶的彼個古實婦人的緣故——因為伊娶一個古實婦人。",
+  "tokens": [
+    {
+      "surface": "ותדבר",
+      "gloss": "就講話"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "米利暗"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "對摩西"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "的緣故"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼個婦人"
+    },
+    {
+      "surface": "הכשית",
+      "gloss": "古實的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊所"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "娶的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一個婦人"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "古實的"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "娶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:50.111866130Z",
+  "model": "glm-5.3"
+}

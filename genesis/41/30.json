@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "了後七个飢荒年會起來,彼个大豐收攏會袂記得佇米茲拉因(埃及)的地,飢荒會消滅⟨את⟩這個地。",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "會起來"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שני",
+      "gloss": "年"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "飢荒"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "了後𪜶"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "會袂記得"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "彼个豐收"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "會消滅"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "彼个飢荒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這個地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:31.857914695Z",
+  "model": "glm-5.3"
+}

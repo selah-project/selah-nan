@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣恁欲尋⟨את⟩我,閣會尋著,因為恁欲用歸粒心追求我。",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "恁欲尋"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "閣會尋著"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "恁欲追求我"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用歸粒"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "恁的心"
+    }
+  ],
+  "timestamp": "2026-09-12T03:58:14.619451025Z",
+  "model": "glm-5.3"
+}

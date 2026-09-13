@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "以羅欣佮 ⟨את⟩ 彼個少年仔徛做夥,伊就大漢,伊徛起佇曠野,伊做一个射弓的人。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就徛做夥"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個少年仔"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼個少年仔"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "就大漢"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就做"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "長大"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "射弓的人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:05.536076439Z",
+  "model": "glm-5.3"
+}

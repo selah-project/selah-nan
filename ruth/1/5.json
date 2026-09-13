@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "馬赫倫佮基利央這兩个嘛死去矣,彼个查某人就容易剩落來,無兩个後生,嘛無丈夫。",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "死去矣"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "這兩个"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "馬赫倫"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "佮基利央"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "就容易剩落來"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼个查某人"
+    },
+    {
+      "surface": "משני",
+      "gloss": "無兩个"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "嘛無丈夫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:09.735614202Z",
+  "model": "glm-5.3"
+}

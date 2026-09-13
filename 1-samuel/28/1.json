@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 28:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "就發生佇彼霎的日子,非利士人聚集⟨את⟩𪜶的營欲出征,對以色列相戰;亞基士對大衛講:「你確實通知,你欲佮⟨את⟩我出營,你佮你的人。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就發生"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼霎"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "就聚集"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的營"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "𪜶的營"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "出征"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞基士"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "通知"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你通知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "佮⟨את⟩我"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "你欲出"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "佇營"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואנשיך",
+      "gloss": "佮你的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:17.102500661Z",
+  "model": "glm-5.3"
+}

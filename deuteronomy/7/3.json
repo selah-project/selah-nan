@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "嘛毋通佮𪜶結親:你的查某囝毋通予伊的囝,伊的查某囝嘛毋通予你的囝娶。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "結親"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "你的查某囝"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "伊的查某囝"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "你的囝"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:21.021746258Z",
+  "model": "glm-5.3"
+}

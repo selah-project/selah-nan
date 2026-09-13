@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "毋通驚,因為我⟨את⟩佮你;對東方我欲帶你的後嗣來,對西方我欲聚集你。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩佮你"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "對東方"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "我欲帶……來"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的後嗣"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "對西方"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "我欲聚集你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:24.505457055Z",
+  "model": "glm-5.3"
+}

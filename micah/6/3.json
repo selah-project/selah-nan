@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "「我的百姓啊,我曾對你做啥物?我佗位予你厭倦?你答覆我。",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我曾做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "閣佗位"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "予你厭倦"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "答覆"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:48.603704713Z",
+  "model": "glm-5.3"
+}

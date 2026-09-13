@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為伊對監牢出來去做王,因為伊嘛是佇伊的國內生做散赤人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對監牢"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "受捆縛者"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "去做王"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "佇伊的國內"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "出世"
+    },
+    {
+      "surface": "רש",
+      "gloss": "做散赤人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:04.315761030Z",
+  "model": "glm-5.3"
+}

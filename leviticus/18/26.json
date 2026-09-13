@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "恁著遵守 ⟨את⟩ 我的律例佮 ⟨את⟩ 我的典章,毋通做這一切可憎的事,無論本地出世的人,抑是寄居佇恁中間的外人。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "恁著遵守"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的律例"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的典章"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的典章"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對這一切"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "可憎的事"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "本地出世的人"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "以及寄居的"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "佇恁中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:09.426137125Z",
+  "model": "glm-5.3"
+}

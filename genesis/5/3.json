@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "亞當活三十佮一百歲,生一个子,照伊的形、照伊的像;伊叫⟨את⟩伊的名做塞特。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "活"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "佮一百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "照伊的形"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "照伊的像"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊叫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "שת",
+      "gloss": "塞特"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:31.861068673Z",
+  "model": "glm-5.3"
+}

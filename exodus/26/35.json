@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "你欲下⟨את⟩桌仔佇帳幔外口,閣⟨את⟩燈台佇桌仔對面,佇帳幕南爿;桌仔你欲下佇北爿。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "你欲下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桌仔"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外口"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "帳幔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "燈台"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "燈台"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "對面"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "爿"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "南爿"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "你欲下"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "爿"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北爿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:41.166774963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "因為看,烏暗欲罩大地,幽冥欲罩列國,毋拘雅威欲照你,伊的榮光欲顯明佇你的身軀頂。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "罩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "而幽冥"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "毋拘佇你"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "欲照(日頭出來)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "而伊的榮光"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "佇你的身軀頂"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "欲顯明"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:18.959332041Z",
+  "model": "glm-5.3"
+}

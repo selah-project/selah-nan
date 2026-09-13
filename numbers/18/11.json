@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 18:11",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "閣這個是你的:𪜶禮物的奉獻,以及以色列人一切的搖祭,我已經予你矣,佮你的後生,佮你的查某囝,佮你做伙⟨את⟩,做永遠的定例;你厝內逐个清氣的攏通食⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "閣這"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "奉獻"
+    },
+    {
+      "surface": "מתנם",
+      "gloss": "𪜶的禮物"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "תנופת",
+      "gloss": "搖祭"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人的囝"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "我已經予"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "佮你的後生"
+    },
+    {
+      "surface": "ולבנתיך",
+      "gloss": "佮你的查某囝"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "做伙⟨את⟩",
+      "marks": "你(伴同的對象)"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "做定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "佇你厝內"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(彼個搖祭的物)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:58:50.922954263Z",
+  "model": "glm-5.3"
+}

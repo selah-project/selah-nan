@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "人民就對摩西哀叫,摩西就對雅威祈禱,彼个火就恬落去。",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "就哀叫"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "就祈禱"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "就恬落去"
+    },
+    {
+      "surface": "האש",
+      "gloss": "彼个火"
+    }
+  ],
+  "timestamp": "2026-09-12T01:55:58.147038935Z",
+  "model": "glm-5.3"
+}

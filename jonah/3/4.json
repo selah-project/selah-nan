@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "約拿入城,行一工的路,就大聲宣告,講:「閣四十工,尼尼微就欲翻覆矣!」",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "開始"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "行的路"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一工"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "就宣告"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "工"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "翻覆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:00.984501442Z",
+  "model": "glm-5.3"
+}

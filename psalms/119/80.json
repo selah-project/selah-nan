@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "願我的心佇你的律例完全,免得我見笑。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願成做"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "佇你的律例"
+    },
+    {
+      "surface": "למען",
+      "gloss": "免得"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "我見笑"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:21.745827384Z",
+  "model": "glm-5.3"
+}

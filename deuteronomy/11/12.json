@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "一個雅威——你的以羅欣——咧察問⟨את⟩伊的土地;雅威——你的以羅欣——的眼目常常佇伊頂面,對年的頭前到年的路尾。",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "一個土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "咧察問"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(土地)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "的眼目"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "對…的頭前"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "的路尾"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:39.227033097Z",
+  "model": "glm-5.3"
+}

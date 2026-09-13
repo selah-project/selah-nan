@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 84,
+  "translation": "阮的盾牌啊,以羅欣,請看顧;嘛請看阮彌賽亞的面。",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "阮的盾牌"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "請看顧"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "嘛請看"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "你的彌賽亞(受膏者)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:03.389799639Z",
+  "model": "glm-5.3"
+}

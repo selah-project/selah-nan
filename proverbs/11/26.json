@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "囤積五穀的,百姓會咒詛伊;獨獨祝福會歸佇賣米人的頭殼頂。",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "囤積"
+    },
+    {
+      "surface": "בר",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "會咒詛伊"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "獨獨祝福"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "歸佇…的頭殼頂"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "賣米人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:21.711633094Z",
+  "model": "glm-5.3"
+}

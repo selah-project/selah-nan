@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為凡誰有份佇所有活人的,就有向望:因為一隻活的狗,伊比死的獅子較好。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "凡誰"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "有份"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "יש",
+      "gloss": "就有"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "向望"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "一隻狗"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "獅子"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:32.736449169Z",
+  "model": "glm-5.3"
+}

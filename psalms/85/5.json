@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "互阮倒轉來,阮救恩的以羅欣啊,廢掉你的受氣對阮來。",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "互阮倒轉來"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "阮救恩的"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "你的受氣"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "對阮來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:14.672128670Z",
+  "model": "glm-5.3"
+}

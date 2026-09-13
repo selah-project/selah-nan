@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "恁著哀吼,因為雅威的日子近矣;伊欲親像毀滅對沙代(全能者)來。",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "哀吼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "近"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "親像毀滅"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "對沙代"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:04.186106812Z",
+  "model": "glm-5.3"
+}

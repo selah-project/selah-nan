@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 141,
+  "translation": "願公義的人用赫瑟德拍我;願伊指正我;彼是抹頭殼的油,我的頭殼毋通拒絕伊;因為猶原閣有我的祈禱,佇𪜶的災禍內面。",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "願…拍我"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "願伊指正我"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "抹頭殼的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יני",
+      "gloss": "拒絕"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭殼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶原"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "閣有我的祈禱"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "佇𪜶的災禍內面"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:07.028957172Z",
+  "model": "glm-5.3"
+}

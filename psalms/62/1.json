@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "互指揮者,照耶杜頓,大衛的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "耶杜頓"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:46.882576772Z",
+  "model": "glm-5.3"
+}

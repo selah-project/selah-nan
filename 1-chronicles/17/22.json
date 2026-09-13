@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "閣汝將⟨את⟩汝的百姓以色列給汝做百姓,到永遠;閣汝,雅威,做𪜶的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "閣汝給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "汝的百姓以色列"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "汝的百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給汝"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "做百姓"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "閣汝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היית",
+      "gloss": "汝做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "給𪜶"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "做以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:40.705308336Z",
+  "model": "glm-5.3"
+}

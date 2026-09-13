@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "有一個人看見,就去共約押報,講:你看,我有看著⟨את⟩押沙龍吊佇橡樹。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "報"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "共約押"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我有看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "押沙龍"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "吊"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "佇橡樹"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:59.025572048Z",
+  "model": "glm-5.3"
+}

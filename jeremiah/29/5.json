@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "「起造厝,徛起;種園仔,食⟨את⟩伊的果子;",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "種"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "園仔"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的果子"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "果子"
+    }
+  ],
+  "timestamp": "2026-09-12T03:57:57.320721107Z",
+  "model": "glm-5.3"
+}

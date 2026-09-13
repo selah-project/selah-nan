@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "所羅門的子是羅波安,亞比雅伊的子,亞撒伊的子,約沙法伊的子。",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "閣…的子"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "亞比雅"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:04.292046449Z",
+  "model": "glm-5.3"
+}

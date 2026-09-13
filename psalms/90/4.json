@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "因為一千冬佇你的目睭內,親像昨日,伊已經過去,嘛親像暗暝的一更。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "冬"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "佇你的目睭內"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "親像一日"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "昨日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為伊"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "已經過去"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "嘛親像一更"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "佇暗暝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:54.342902172Z",
+  "model": "glm-5.3"
+}

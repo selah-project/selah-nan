@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "比撒閣用手藝造 ⟨את⟩ 約櫃,用皂莢木做的,伊的長是兩肘半,闊一肘半,懸一肘半。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "造"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "比撒閣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約櫃"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "兩肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "佮半"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "佮一肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "佮半"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "佮一肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "佮半"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "伊的懸"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:21.786133686Z",
+  "model": "glm-5.3"
+}

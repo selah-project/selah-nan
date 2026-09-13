@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "敬畏雅威的人啊,恁著倚靠雅威;伊是𪜶的幫助,嘛是𪜶的盾牌。",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "敬畏…的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "恁著倚靠"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "𪜶的幫助"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "嘛是𪜶的盾牌"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:38.979470309Z",
+  "model": "glm-5.3"
+}

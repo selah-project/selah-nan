@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 98,
+  "translation": "用琴仔彈唱予雅威;用琴仔,閣用歌的聲。",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "彈唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "用琴仔"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "用琴仔"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "閣用…的聲"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "歌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:32.455269097Z",
+  "model": "glm-5.3"
+}

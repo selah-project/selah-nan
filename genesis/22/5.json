@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "亞伯拉罕對伊的奴僕講:「恁佮驢仔留佇遮;我佮彼個少年仔欲行到遐敬拜,了後閣轉來恁遐。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "恁留"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "פה",
+      "gloss": "佇遮"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "佮彼個少年仔"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "行"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "כה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "敬拜"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "閣轉來"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "恁遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:44.661967173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "雅威啊,我愛你厝的居所,佮你榮光會幕的所在。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我愛"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "居所"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的厝"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "佮…的所在"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "你的榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:57.037467452Z",
+  "model": "glm-5.3"
+}

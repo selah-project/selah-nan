@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我有看見,看啊,無人啊,天內底一切的鳥仔攏飛走去矣。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我有看見"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人啊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切的"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天內底"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "攏飛走去矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:22.867207692Z",
+  "model": "glm-5.3"
+}

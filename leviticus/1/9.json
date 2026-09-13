@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊的內臟佮伊的跤愛用水洗,祭司欲共⟨את⟩全部燒佇壇頂,做燒祭、火祭,做雅威所意愛的香氣。",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "伊的內臟"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "佮伊的跤"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "愛洗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "用水"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "欲燒做香煙"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇壇頂"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "香氣"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "意愛的"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:46.199402390Z",
+  "model": "glm-5.3"
+}

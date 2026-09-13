@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "大衛的詩歌。著給雅威啊,以勒的眾子,著給雅威榮光佮力量!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "著給"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "著給"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "佮力量"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:05.287669053Z",
+  "model": "glm-5.3"
+}

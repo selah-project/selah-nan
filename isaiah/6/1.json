@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "佇烏西雅王死彼年,我看見⟨את⟩阿多奈坐佇寶座頂,懸閣懸浮懸舉,伊的裳尾充滿⟨את⟩殿。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇…彼年"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "烏西雅"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿多奈"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "רם",
+      "gloss": "懸"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "閣舉起"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "伊的裳尾"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "殿"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:38.952106760Z",
+  "model": "glm-5.3"
+}

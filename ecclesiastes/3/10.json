@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我有看著⟨את⟩彼項勞碌，就是以羅欣賞賜世間人的，互𪜶佇其中咧操煩。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我有看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼項勞碌"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "彼項勞碌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "世間人的"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "互𪜶…操煩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇其中"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:00.890304214Z",
+  "model": "glm-5.3"
+}

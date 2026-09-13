@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "恁著看守⟨את⟩聖所的職守,閣看守⟨את⟩祭壇的職守,按呢就毋通閣有烈怒臨到以色列的囝仔身上。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "恁著看守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖所的職守"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "職守"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "祭壇的職守"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "職守"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就毋通"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "烈怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:06.703043537Z",
+  "model": "glm-5.3"
+}

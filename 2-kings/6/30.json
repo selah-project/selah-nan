@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "彼時,王聽見⟨את⟩許個查某人的話,就撕裂⟨את⟩伊的衫;伊行過城牆頂面,百姓看,看啊,麻布衣佇伊的身軀內底。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "當…聽見"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "許個查某人的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "的話"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "許個查某人"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "就撕裂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的衫"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "行過"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "השק",
+      "gloss": "麻布衣"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的身軀"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "內底"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:57.802742366Z",
+  "model": "glm-5.3"
+}

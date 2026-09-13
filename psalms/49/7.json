@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "⟨就是⟩ 𪜶倚靠𪜶的財力,閣佇𪜶錢財的濟誇口⟨的彼號人⟩。",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "倚靠……的彼號人"
+    },
+    {
+      "surface": "על",
+      "gloss": "倚"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "𪜶的財力"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "閣佇……的濟"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "𪜶的錢財"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "誇口"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:41.421279260Z",
+  "model": "glm-5.3"
+}

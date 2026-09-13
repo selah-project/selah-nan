@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威掃一陣大風落海,海裡就有一个大風湧,彼隻船掠做欲破去矣。",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "掃"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "落"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "סער",
+      "gloss": "風湧"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海裡"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "彼隻船"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "掠做"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "欲破去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:42.851900674Z",
+  "model": "glm-5.3"
+}

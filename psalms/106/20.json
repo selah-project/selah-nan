@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶共⟨את⟩𪜶的榮光換做食草的牛的形。",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "換做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的榮光"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "𪜶的榮光"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "…的形"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:19.420658099Z",
+  "model": "glm-5.3"
+}

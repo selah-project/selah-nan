@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "𪜶欲講你國度的榮光,欲講論你的大權能。",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "你國度的"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶欲講"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "你的大權能"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "欲講論"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:38.711956131Z",
+  "model": "glm-5.3"
+}

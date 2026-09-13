@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "⟨את⟩ 所有的代誌我佇我虛空的日子攏看過矣:有公義的人佇伊的義中滅無去,嘛有歹人佇伊的歹裡活真久。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的代誌"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "所有的代誌"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我…看過矣"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "我虛空的"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅無去"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "佇伊的義中"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "嘛有"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "活真久"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "佇伊的歹裡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:30.145414287Z",
+  "model": "glm-5.3"
+}

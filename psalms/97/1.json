@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "雅威做王矣,大地著歡喜,真濟海島著快樂。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王矣"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "著歡喜"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "著快樂"
+    },
+    {
+      "surface": "איים",
+      "gloss": "海島"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:52.069471514Z",
+  "model": "glm-5.3"
+}

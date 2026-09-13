@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "雅威佇伊一切的路攏公義,佇伊一切的作為攏有赫瑟德(慈愛)。",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "佮赫瑟德"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "伊的作為"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.786621423Z",
+  "model": "glm-5.3"
+}

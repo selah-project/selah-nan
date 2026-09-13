@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "瑪拿西的後生:亞斯列——伊的細姨、彼個亞蘭的查某人,給伊生的;伊生⟨את⟩瑪基,就是基列的老父。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "亞斯列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——伊"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "給伊生的"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "伊的細姨"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "彼個亞蘭的查某人"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "伊生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瑪基"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "瑪基"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "老父"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:52.979390757Z",
+  "model": "glm-5.3"
+}

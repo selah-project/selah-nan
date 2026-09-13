@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "對彼時,大利烏王落命令,𪜶就佇書庫——寶物庫,就是囥佇巴比倫遐的——去查。",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "對彼時"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "大利烏"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "שם",
+      "gloss": "落"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "命令"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "𪜶就去查"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇……庫"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "書"
+    },
+    {
+      "surface": "די",
+      "gloss": "就是"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "寶物庫"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "囥"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "佇巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:50:44.809446600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "今所以，請你擔當我的罪，干焦這擺爾爾，替我向雅威——恁的以羅欣——懇求，願伊對我身上除去獨獨⟨את⟩這个死。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今所以"
+    },
+    {
+      "surface": "שא",
+      "gloss": "擔當"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我的罪"
+    },
+    {
+      "surface": "אך",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "這擺"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "懇求"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "願伊除去"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "對我身上"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个死"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:21.366349480Z",
+  "model": "glm-5.3"
+}

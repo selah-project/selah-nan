@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以羅欣做 ⟨את⟩ 兩个大光體:⟨את⟩ 大彼个光體管日,⟨את⟩ 細彼个光體管暝,閣 ⟨את⟩ 衲仔星。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "做"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩个大光體"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "光體"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大彼个光體"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "光體"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "大彼个"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "管"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "細彼个光體"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "光體"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "細彼个"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "管"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "暝"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "衲仔星"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "衲仔星"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:23.013150574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "假見證的人會滅亡,若是會聽的人永遠會講。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "假"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "會滅亡"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "若是人"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "會聽"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "會講"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:49.892990159Z",
+  "model": "glm-5.3"
+}

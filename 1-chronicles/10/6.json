@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "掃羅死啊,伊三個後生嘛死,伊歸厝的人做伙攏死啊。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死啊"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "三個"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "後生"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "厝"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "攏死啊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:25:45.212119569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我的以羅欣啊,我日日叫,你毋應;閣暗暝,嘛無恬靜予我。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣啊"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我叫"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日日"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "你應"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "閣暗暝"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "恬靜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "予我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:00.688230337Z",
+  "model": "glm-5.3"
+}

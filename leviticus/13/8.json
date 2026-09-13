@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司看,看啊,癬痂佇皮膚蔓延,祭司就宣判伊無清氣:彼是癩瘋。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "蔓延"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "癬痂"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "佇皮膚"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "宣判伊無清氣"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "癩瘋"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:03.329637422Z",
+  "model": "glm-5.3"
+}

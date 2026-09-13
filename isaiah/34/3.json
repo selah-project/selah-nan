@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "𪜶的死者會互人攑出去,𪜶的死體會發出臭味,山會對𪜶的血熔化。",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "𪜶的死者"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "會互人攑出去"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "𪜶的死體"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "會發出"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "臭味"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "會熔化"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "對𪜶的血"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:47.588342666Z",
+  "model": "glm-5.3"
+}

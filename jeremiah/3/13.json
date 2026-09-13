@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 3:13",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "獨獨著知你个罪過,因為你悖逆雅威你个以羅欣,閣你將⟨את⟩你个路散予陌生个,佇每一叢青翠个樹下,我个聲音恁無聽,雅威个神諭。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "著知"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "你个罪過"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你个以羅欣"
+    },
+    {
+      "surface": "פשעת",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "ותפזרי",
+      "gloss": "閣散"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你个路"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "你个路"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "予陌生个"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "叢樹"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青翠个"
+    },
+    {
+      "surface": "ובקולי",
+      "gloss": "佇我个聲音"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "恁聽"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "个神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:48:21.874136168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "傲慢、自高的，名叫做譏誚的人，做事照傲慢的烈怒。",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "傲慢"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "自高的"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "譏誚的人"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "名叫做"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "做事"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "照…的烈怒"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "傲慢的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:53.113062724Z",
+  "model": "glm-5.3"
+}

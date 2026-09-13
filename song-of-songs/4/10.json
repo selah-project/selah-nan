@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你的愛偌媠,阿妹、新娘啊!你的愛偌好,贏過酒,佮你的油的香味,贏過一切的香料!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "偌"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "媠"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "你的愛"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "阿妹"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "新娘"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "好"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "你的愛"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "贏過酒"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "佮…的味"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "你的油"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "贏過一切"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "香料"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:14.294756059Z",
+  "model": "glm-5.3"
+}

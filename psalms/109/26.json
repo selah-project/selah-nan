@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "幫助我,雅威我的以羅欣;救我,照你的赫瑟德。",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "幫助我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "照你的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:05.465965414Z",
+  "model": "glm-5.3"
+}

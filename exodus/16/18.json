@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 16:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "𪜶用一俄梅珥量伊,多收的無剩,少收的無欠,逐人照伊的食量拾收。",
+  "tokens": [
+    {
+      "surface": "וימדו",
+      "gloss": "量"
+    },
+    {
+      "surface": "בעמר",
+      "gloss": "用一俄梅珥"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "העדיף",
+      "gloss": "剩"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "多收的"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "少收的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "החסיר",
+      "gloss": "欠"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "照"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "伊的食量"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "拾收"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:56.551286069Z",
+  "model": "glm-5.3"
+}

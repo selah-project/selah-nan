@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊放棄示羅的居所,伊佇人的中間所徛起的帳棚。",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "居所"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "示羅"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "佇人的中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:35.938164030Z",
+  "model": "glm-5.3"
+}

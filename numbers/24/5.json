@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "雅各啊,你的帳棚偌好!以色列啊,你的居所偌媠!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "偌"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "好"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "你的帳棚"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "你的居所"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:13.247371273Z",
+  "model": "glm-5.3"
+}

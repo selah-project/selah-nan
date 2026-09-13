@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "你廢掉你奴僕的約,共伊的冕旒褻瀆到落地。",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "你廢掉"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "的約"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你奴僕"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "共…褻瀆"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "到落地"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "伊的冕旒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:13.849922298Z",
+  "model": "glm-5.3"
+}

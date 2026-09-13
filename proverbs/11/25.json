@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "「祝福人」的性命會得肥潤,啉水予人的,伊嘛會受落雨澆灌。",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "會得肥潤"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "啉水予人的"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "會受落雨澆灌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:21.711424185Z",
+  "model": "glm-5.3"
+}

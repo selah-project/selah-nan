@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 14:13",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "以色列王耶何阿施佇伯示麥掠著⟨את⟩亞瑪謝,就是猶大王、約阿施的後生、亞哈謝的後生;𪜶來到耶路撒冷,伊就拍破耶路撒冷的城牆,對以法蓮門到壁角門,四百肘。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪謝"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "亞瑪謝"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "亞哈謝"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "掠著"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "耶何阿施"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "伯示麥"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "𪜶來到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "伊就拍破"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "佇……的城牆"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "對……門"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "壁角"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:03.374360851Z",
+  "model": "glm-5.3"
+}

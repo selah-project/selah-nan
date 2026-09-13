@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "有出世的時陣,有死去的時陣;有栽種的時陣,有拔除所栽種的的時陣。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時陣"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "出世"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "閣……時陣"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死去"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時陣"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "栽種"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "閣……時陣"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "拔除"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "所栽種的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:11.247720342Z",
+  "model": "glm-5.3"
+}

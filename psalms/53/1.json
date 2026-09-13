@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "互指揮的,照瑪哈拉特,一張教示的詩,大衛所做的。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮的"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "瑪哈拉特"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "教示的詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛所做的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:07.782624353Z",
+  "model": "glm-5.3"
+}

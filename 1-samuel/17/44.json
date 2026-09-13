@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "非利士人閣對大衛講:「來我遮,我欲將⟨את⟩你的肉予天裡的飛鳥佮田裡的野獸。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "我欲…予"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的肉"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "你的肉"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天裡的"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "…野獸"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:19.658029450Z",
+  "model": "glm-5.3"
+}

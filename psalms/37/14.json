@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "歹人已經拔開刀,已經拉開𪜶的弓,欲撲倒艱苦人佮散赤人,欲刣死行正直路的人。",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "已經拔開"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "已經拉開"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "𪜶的弓"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "欲撲倒"
+    },
+    {
+      "surface": "עני",
+      "gloss": "艱苦人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散赤人"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "欲刣死"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "正直(的人)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:59.721595565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "按呢以勒嘛欲拆毀你到永遠,欲掠你,欲對帳棚搝你出去,佮欲對活人的土地拔你的根。細拉。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "拆毀你"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "掠你"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "佮搝你出去"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "對帳棚"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "佮你的根"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土地"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:21.391400333Z",
+  "model": "glm-5.3"
+}

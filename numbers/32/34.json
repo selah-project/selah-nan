@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "迦得个後生起造⟨את⟩底本、⟨את⟩亞他錄，閣⟨את⟩亞羅珥。",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בני",
+      "gloss": "个後生"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "底本"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "底本"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞他錄"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "亞他錄"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞羅珥"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "亞羅珥"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:42.559229867Z",
+  "model": "glm-5.3"
+}

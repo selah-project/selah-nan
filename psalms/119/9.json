@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "少年人欲按怎清氣⟨את⟩伊的路?就是照你的話看守。",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "欲按怎"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "清氣"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的路"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "照你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:32.417304432Z",
+  "model": "glm-5.3"
+}

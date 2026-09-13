@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣有耶利米亞、雅哈細伊勒、約哈難、約撒拔,基德拉特人;",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "閣有耶利米亞"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "雅哈細伊勒"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "約哈難"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "約撒拔"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "基德拉特人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:00.527728201Z",
+  "model": "glm-5.3"
+}

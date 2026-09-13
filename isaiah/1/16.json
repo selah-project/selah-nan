@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "洗浴恁!清氣恁!除掉恁所做的歹,離開我的目睭面前!停做歹!",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "洗浴恁"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "清氣恁"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "除掉"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "恁所做的"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "離開…面前"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "停"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "做歹"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:50.522798505Z",
+  "model": "glm-5.3"
+}

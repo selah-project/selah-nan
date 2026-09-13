@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "⟨את⟩伊的幼枝的頂頭掐斷,帶伊到迦南地(做生意人的地),囥佇做生意的城。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的幼枝的頂頭"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂頭"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "伊的幼枝"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "掐斷"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "帶伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "做生意的人"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "囥伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:13:44.044634652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "亞述的王就上去,行到全地,閣上去撒馬利亞(撒瑪利亞),圍困伊三年。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "到全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨彼個⟩地"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "閣上去"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "圍困"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:53.258299936Z",
+  "model": "glm-5.3"
+}

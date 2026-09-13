@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "著知雅威已經揀出敬虔人歸家己;當我哀叫伊的時,雅威欲聽。",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "著知"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "已經揀出"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "敬虔人"
+    },
+    {
+      "surface": "לו",
+      "gloss": "歸家己"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "欲聽"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "當我哀叫"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:16.085991808Z",
+  "model": "glm-5.3"
+}

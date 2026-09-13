@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "十二冬𪜶服事 ⟨את⟩ 基大老瑪,到第十三冬𪜶就反叛。",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "冬"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "𪜶服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基大老瑪"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "基大老瑪"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "佮三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "冬"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "𪜶反叛"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:55.313669577Z",
+  "model": "glm-5.3"
+}

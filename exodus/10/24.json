@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "法老召集摩西,講:「恁去,服事⟨את⟩雅威;獨獨恁的羊佮恁的牛著留落來,恁的囡仔嘛會當佮恁去。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "召集"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "恁去"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "恁的羊"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "佮恁的牛"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "著留落來"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "恁的囡仔"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:42.380662986Z",
+  "model": "glm-5.3"
+}

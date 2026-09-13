@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "鳥仔敢會無陷阱就落佇地上的網?陷阱敢會無掠著啥物就對土裡起來?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "敢會落"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "פח",
+      "gloss": "陷阱"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "網"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "敢會起來"
+    },
+    {
+      "surface": "פח",
+      "gloss": "陷阱"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "佮掠著"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "掠著"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:44.044302503Z",
+  "model": "glm-5.3"
+}

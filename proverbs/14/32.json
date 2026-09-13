@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 14:32",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "佇伊的災禍裡,歹人會受撞倒;義人佇伊的死有庇護。",
+  "tokens": [
+    {
+      "surface": "ברעתו",
+      "gloss": "佇伊的災禍裡"
+    },
+    {
+      "surface": "ידחה",
+      "gloss": "受撞倒"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "有庇護"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "佇伊的死"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:36.848745777Z",
+  "model": "glm-5.3"
+}

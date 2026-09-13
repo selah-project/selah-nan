@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "恁著謳咾雅威,伊的天使,力量的勇者,行伊的話的,欲聽伊的話的聲。",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "恁著謳咾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "伊的天使"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "勇者"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力量的"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "行的"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "欲聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    }
+  ],
+  "timestamp": "2026-09-13T04:22:04.104639943Z",
+  "model": "glm-5.3"
+}

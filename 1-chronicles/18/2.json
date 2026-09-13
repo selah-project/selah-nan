@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊拍擊⟨את⟩摩押,摩押人就成做大衛的奴僕,攑貢禮的人。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "拍擊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩押"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "就成做"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "對大衛"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "攑…的人"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢禮"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:58.971252606Z",
+  "model": "glm-5.3"
+}

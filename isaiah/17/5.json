@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "彼日欲到,親像收割的人收企跤的作物,伊的胳膊掖穗仔欲割;嘛欲親像佇利法音谷拾穗仔的人按呢。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "彼日欲到"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "親像…收"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "作物"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "企跤的"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "伊的胳膊掖"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "穗仔"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "欲割"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "嘛欲親像"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "拾穗仔的人"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "穗仔"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "佇…谷"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "利法音"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:55.911116274Z",
+  "model": "glm-5.3"
+}

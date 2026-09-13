@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "因為為著你的緣故,我擔當凌辱;見笑蓋了我的面。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "為著你"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "我擔當"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "凌辱"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "蓋了"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:29.848587243Z",
+  "model": "glm-5.3"
+}

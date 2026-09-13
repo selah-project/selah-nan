@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 13:13",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "約阿施佮伊的列祖困做夥,耶羅波安坐佇伊的王座頂;約阿施埋葬佇撒馬利亞,佮以色列諸王做夥。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "困做夥"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "伊的王座"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒馬利亞"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:04.674826474Z",
+  "model": "glm-5.3"
+}

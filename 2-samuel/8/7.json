@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "大衛提了⟨את⟩彼个金盾牌,就是屬佇哈大底謝奴僕的,帶𪜶來耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金盾牌"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    },
+    {
+      "surface": "אל",
+      "gloss": "屬佇"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "哈大底謝"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "帶𪜶來"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:26.278463585Z",
+  "model": "glm-5.3"
+}

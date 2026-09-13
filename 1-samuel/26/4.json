@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "大衛就差探子出去,知影掃羅真正有到。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差…出去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "探子"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "看"
+    },
+    {
+      "surface": "בא",
+      "gloss": "到"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "真正"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:42.033064344Z",
+  "model": "glm-5.3"
+}

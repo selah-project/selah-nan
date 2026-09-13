@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "亞倫轉來到摩西遐,到會幕的門口,瘟疫就擋牢矣。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "轉來"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "擋牢矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:43.258058411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "你嘛欲對𪜶按呢講:以色列家中間的人人,抑是寄腳佇𪜶中間的外人,啥物人若獻上燒祭抑是宰祭——",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "閣對𪜶"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人(人人)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "抑是對"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "彼寄腳的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "寄腳"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "伊獻上"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "宰祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:46.995795243Z",
+  "model": "glm-5.3"
+}

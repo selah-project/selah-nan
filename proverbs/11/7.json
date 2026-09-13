@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "歹人死亡的時,向望就消滅;強頭者的期待嘛歸佇無去。",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "死亡的時"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "消滅"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "向望"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "期待"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "強頭者"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "歸佇無去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.641743073Z",
+  "model": "glm-5.3"
+}

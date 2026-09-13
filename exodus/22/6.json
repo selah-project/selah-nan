@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若有人將銀仔抑是器具交代予伊的厝邊保管,毋拘對彼个人的厝內互人偷提去;若揣著彼个賊仔,伊愛賠兩倍。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "交代"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "予"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的厝邊"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "器具"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "保管"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "毋拘互人偷提去"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…厝內"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "彼个賊仔"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "伊愛賠"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩倍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:43.382314794Z",
+  "model": "glm-5.3"
+}

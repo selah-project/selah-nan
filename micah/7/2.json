@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "敬虔的人對地上無去矣,佇人中間正直的人無去;𪜶攏埋伏欲流人的血,逐人掠⟨את⟩伊的兄弟,用網仔。",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "無去矣"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "敬虔的人"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "佮正直的人"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "佇人中間"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無去"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "欲流人的血"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的兄弟"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "掠"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "網仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:33.443312574Z",
+  "model": "glm-5.3"
+}

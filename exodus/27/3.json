@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 27:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你欲做伊的桶來捧伊的灰,佮伊的鏟、伊的碗、伊的肉叉、伊的火盤;伊一切的器具,你欲用銅做。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "סירתיו",
+      "gloss": "伊的桶"
+    },
+    {
+      "surface": "לדשנו",
+      "gloss": "來捧伊的灰"
+    },
+    {
+      "surface": "ויעיו",
+      "gloss": "佮伊的鏟"
+    },
+    {
+      "surface": "ומזרקתיו",
+      "gloss": "佮伊的碗"
+    },
+    {
+      "surface": "ומזלגתיו",
+      "gloss": "佮伊的肉叉"
+    },
+    {
+      "surface": "ומחתתיו",
+      "gloss": "佮伊的火盤"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "伊一切的"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "器具"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:43.799720020Z",
+  "model": "glm-5.3"
+}

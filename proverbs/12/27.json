@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "奸巧的人毋肯烤伊掠著的獵物,毋過勤儉的人上寶貝人的財產。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "肯烤"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "奸巧的人"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "伊掠著的獵物"
+    },
+    {
+      "surface": "והון",
+      "gloss": "毋過…財產"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "上寶貝"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "勤儉的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:15.644433825Z",
+  "model": "glm-5.3"
+}

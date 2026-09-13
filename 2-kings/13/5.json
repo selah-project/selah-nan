@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "雅威賞以色列一个拯救者,𪜶就對亞蘭的手底下出來;以色列的子兒徛佇𪜶的帳篷,親像昨日、前三日按呢。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "賞"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "予以色列"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "一个拯救者"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "𪜶就出來"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "對…的底下"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "徛"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "佇𪜶的帳篷"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "親像昨日"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "前三日"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:52.962201212Z",
+  "model": "glm-5.3"
+}

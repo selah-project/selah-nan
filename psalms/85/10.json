@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "實在,伊的救恩佇敬畏伊的人真近,予榮光通徛起佇阮的土地。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "實在"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "真近"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "敬畏伊的人"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "伊的救恩"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "予…徛起"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "佇阮的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:07.776087567Z",
+  "model": "glm-5.3"
+}

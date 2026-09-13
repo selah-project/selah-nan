@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣伊著用手按佇彼隻公山羊的頭,佇宰⟨את⟩燔祭的所在、雅威的面前,宰⟨את⟩伊;伊是罪祭。",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "閣伊著按"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "彼隻公山羊"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "閣宰"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "彼隻公山羊"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇……的所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "宰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燔祭"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪祭"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:31.310125049Z",
+  "model": "glm-5.3"
+}

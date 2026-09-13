@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "愚戇人抱⟨את⟩伊的雙手,嘛食⟨את⟩家己的肉。",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "抱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的雙手"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的雙手"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "嘛食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家己的肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "家己的肉"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:30.821308080Z",
+  "model": "glm-5.3"
+}

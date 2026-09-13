@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "愚戇佇人民中的,你著明白;戇愚的人啊,啥物時陣你才會有智慧?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "著明白"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "愚戇"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "佇人民中"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "佮戇愚的人"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "有智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:18.583168240Z",
+  "model": "glm-5.3"
+}

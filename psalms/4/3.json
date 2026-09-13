@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "人的子啊,到啥物時陣?我的榮光變做見笑;恁疼空虛,恁揣謊言。細拉。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "我的榮光"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "變做見笑"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "恁疼"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "恁揣"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "謊言"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:16.085213886Z",
+  "model": "glm-5.3"
+}

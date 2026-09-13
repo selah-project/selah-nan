@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "彼時我就袂見笑,佇我看重你一切誡命的時。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "佇我看重…的時"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "你的誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:04.048826203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "錫安聽見就歡喜;猶大⟨的⟩諸個查某囝因為你⟨的⟩判斷快樂,雅威啊。",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "就歡喜"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "諸個查某囝"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "למען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判斷"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:04.810319408Z",
+  "model": "glm-5.3"
+}

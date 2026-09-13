@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "為著欲彎曲窮人的公道,搶奪我百姓困苦人的判決,予寡婦做𪜶的掠物,𪜶閣搶奪⟨את⟩孤兒。",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "欲彎曲"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "公道"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "窮人的"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "佮搶奪"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "判決"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "困苦人的"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "欲予…做"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "𪜶的掠物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "孤兒"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "搶奪"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:11.526961103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "米沙做摩押的王,是一個飼羊的人;伊向以色列的王交十萬隻羊羔佮十萬隻公羊,以及羊毛。",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "米沙"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "…的王"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "飼羊的人"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "伊交"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "向…的王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "十萬"
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    },
+    {
+      "surface": "כרים",
+      "gloss": "隻羊羔"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "佮十萬"
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    },
+    {
+      "surface": "אילים",
+      "gloss": "隻公羊"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "羊毛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:17.813542727Z",
+  "model": "glm-5.3"
+}

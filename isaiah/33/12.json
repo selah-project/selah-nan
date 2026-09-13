@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "萬國百姓欲親像燒石灰遐燒;親像铰掉个刺柴,佇火裡燒起來。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "欲親像"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬國百姓"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "燒石灰遐燒"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "石灰"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "刺柴"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "親像铰掉个"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火裡"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "燒起來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:56.365052535Z",
+  "model": "glm-5.3"
+}

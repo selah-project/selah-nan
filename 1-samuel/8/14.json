@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣⟨את⟩恁的田，⟨את⟩恁的葡萄園，佮恁上好的橄欖園，伊欲提去，互伊的奴僕。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的田"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "恁的田"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的葡萄園"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "恁的葡萄園"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "恁的橄欖園"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "上好的"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "伊欲提去"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "伊的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:56.545974757Z",
+  "model": "glm-5.3"
+}

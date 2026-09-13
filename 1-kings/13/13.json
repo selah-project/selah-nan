@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊對伊的囝講:「替我縛驢仔。」𪜶就替伊縛驢仔,伊就騎佇頂面。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "替…縛"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "𪜶就縛"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "伊就騎"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:13.302034317Z",
+  "model": "glm-5.3"
+}

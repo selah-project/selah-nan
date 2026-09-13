@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "以色列人、祭司、利未人,佮其餘被擄的子民,就用歡喜來行這以羅欣的殿的奉獻禮。",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "就行"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "佮其餘"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "被擄"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "奉獻禮"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "用歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:50:23.589003114Z",
+  "model": "glm-5.3"
+}

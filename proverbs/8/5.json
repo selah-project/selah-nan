@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "戇直的人啊,著明白狡慧;愚戇的人啊,著明白心意。",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "著明白"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "戇直的人"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "狡慧"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "佮愚戇的人"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "著明白"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心意"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:36.464336542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "伊的喙所講的話是邪惡佮欺騙;伊停止去明智,去行好。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊的喙"
+    },
+    {
+      "surface": "און",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "佮欺騙"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "停止"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "去明智"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "去行好"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:29.843738211Z",
+  "model": "glm-5.3"
+}

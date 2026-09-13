@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "巴錄的後生——毋對,巴拉的後生,二千一百七十二。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "巴拉"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "二"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:46.604459784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊活捉⟨את⟩亞甲,亞瑪力的王,閣用刀嘴將⟨את⟩全體眾民盡行滅無。",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "活捉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞甲"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "亞甲"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全體眾民"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "盡行滅無"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "用……嘴"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:17.892759069Z",
+  "model": "glm-5.3"
+}

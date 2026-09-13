@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 2:37",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為佇你出去、渡過⟨את⟩汲淪溪的彼日,你著確實知影你穩死;你的血欲歸佇你家己的頭殼。」",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "因為佇…的彼日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "你出去"
+    },
+    {
+      "surface": "ועברת",
+      "gloss": "你渡過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "汲淪溪"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "汲淪"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你著確實知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知影…(受詞子句)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "穩"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "死"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "你的血"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲歸"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "佇你家己的頭殼"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:55.325555299Z",
+  "model": "glm-5.3"
+}

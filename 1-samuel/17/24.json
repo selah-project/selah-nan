@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "以色列逐個人看著⟨את⟩彼個人,就對伊的面前走閃,真驚。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個人"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "就走閃"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊的面前"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "真驚"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:46.183021073Z",
+  "model": "glm-5.3"
+}

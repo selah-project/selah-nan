@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "𪜶共𪜶的神留佇遐 ⟨את⟩;大衛一下命令,𪜶就佇火裡燒矣。",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "𪜶留"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的神"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的神"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "一下命令"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "𪜶就燒矣"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火裡"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:02.065244045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以色列的頭生子流便的囝:哈諾、法勒、希斯崙,佮迦米。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…的囝"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "流便"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "哈諾"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "佮法勒"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "希斯崙"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "佮迦米"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:36.453266245Z",
+  "model": "glm-5.3"
+}

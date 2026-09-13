@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "「無平安,雅威講,予歹的人。」",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "予歹的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:39.849299930Z",
+  "model": "glm-5.3"
+}

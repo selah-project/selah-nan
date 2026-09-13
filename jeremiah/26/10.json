@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "猶大的官員聽見⟨את⟩諸個話,就對王的家上到雅威的殿,坐佇雅威新門的入口。",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "𪜶聽見"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "官員"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "𪜶上到"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "𪜶坐"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "佇…的入口"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "新的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:55:31.364876443Z",
+  "model": "glm-5.3"
+}

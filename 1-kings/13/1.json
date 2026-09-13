@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 13:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "看啊,有一个神的人對雅威的話對猶大來到伯特利,耶羅波安徛佇祭壇邊欲燒香。",
+  "tokens": [
+    {
+      "surface": "וְהִנֵּ֣ה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "一个…人"
+    },
+    {
+      "surface": "אֱלֹהִ֗ים",
+      "gloss": "神的人(以羅欣)"
+    },
+    {
+      "surface": "בָּ֥א",
+      "gloss": "來到"
+    },
+    {
+      "surface": "מִיּהוּדָ֛ה",
+      "gloss": "對猶大"
+    },
+    {
+      "surface": "בִּדְבַ֥ר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בֵּֽית",
+      "gloss": "伯特(伯)"
+    },
+    {
+      "surface": "אֵ֑ל",
+      "gloss": "特(伊勒)"
+    },
+    {
+      "surface": "וְיָרָבְעָ֛ם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "עֹמֵ֥ד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הַמִּזְבֵּ֖חַ",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לְהַקְטִֽיר",
+      "gloss": "欲燒香"
+    }
+  ],
+  "timestamp": "2026-09-13T04:27:20.620026312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "溫柔的人欲承受土地,閣欲佇豐盛的平安內得著快樂。",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "溫柔的人"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "欲承受"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "欲得著快樂"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……內"
+    },
+    {
+      "surface": "רב",
+      "gloss": "豐盛"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:37.007742069Z",
+  "model": "glm-5.3"
+}

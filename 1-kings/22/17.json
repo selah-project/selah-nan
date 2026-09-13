@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 22:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊講:「我看見⟨את⟩全以色列四散佇諸山上,親像無牧者的羊仔;雅威講:『這些人無主人,逐人著倒轉去伊的家,平安無事。』」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נפצים",
+      "gloss": "四散"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "諸山上"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "親像羊仔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "牧者"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "主人"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "這些人"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "著倒轉去"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "去伊的家"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平安無事"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:17.739944885Z",
+  "model": "glm-5.3"
+}

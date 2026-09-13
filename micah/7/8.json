@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我的對敵啊,毋通對我歡喜,因為我倒落去,我閣起來;因為我坐佇烏暗中,雅威做光對我。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "我倒落去"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "我閣起來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "我坐"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "佇烏暗中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אור",
+      "gloss": "做光"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:30.020452265Z",
+  "model": "glm-5.3"
+}

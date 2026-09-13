@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "因為雅威已經贖回⟨את⟩雅各行,閣對比伊較強的人的手中救贖伊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "已經贖回"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各行"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各行"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "閣救贖伊"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…手中"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "較強的人"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "比伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:56:58.799361120Z",
+  "model": "glm-5.3"
+}

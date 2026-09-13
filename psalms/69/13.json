@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "坐佇城門的人議論我;啉烈酒的人用琴音唱我。",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "議論"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "坐…的人"
+    },
+    {
+      "surface": "שער",
+      "gloss": "城門"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "用琴音"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "啉…的"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "烈酒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:02.331903590Z",
+  "model": "glm-5.3"
+}

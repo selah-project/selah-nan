@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "𪜶的肉恁毋通食,𪜶的死體恁毋通摸;𪜶對恁是無清氣的。",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "𪜶的肉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "𪜶的死體"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "摸"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:06.753250810Z",
+  "model": "glm-5.3"
+}

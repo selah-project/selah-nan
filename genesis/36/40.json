@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "以掃的族長,照𪜶的家族、照𪜶的所在、用𪜶的名,名就是:提默拿族長、亞勒瓦族長、耶帖族長。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "族長"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "照𪜶的所在"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "用𪜶的名"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "族長"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "提默拿"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "族長"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "亞勒瓦"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "族長"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "耶帖"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:52.204943029Z",
+  "model": "glm-5.3"
+}

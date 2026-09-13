@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "米迦的後生是:皮通、米勒、他阿利亞佮亞哈斯。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…的後生"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "米迦"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "皮通"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "佮米勒"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "佮他阿利亞"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "佮亞哈斯"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:16.386915159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "雅威聽以利亞的聲,彼個囡仔的性命就倒轉去伊的身內,伊就活起來。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "就倒轉去"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "彼個囡仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "入去"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "伊的身內"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "伊就活起來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:19.283110521Z",
+  "model": "glm-5.3"
+}

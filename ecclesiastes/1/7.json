@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所有的溪流攏流入海,海卻無滿;對溪流所去的所在,𪜶閣倒轉去,閣流。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "流"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "והים",
+      "gloss": "海卻"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "無"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "溪流所"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "去的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "閣流"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:18.973673481Z",
+  "model": "glm-5.3"
+}

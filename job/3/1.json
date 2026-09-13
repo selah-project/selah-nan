@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "後來按呢,約伯開⟨את⟩伊的喙,就詛咒⟨את⟩伊的彼一日。",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的喙"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "伊的喙"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "就詛咒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的彼一日"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "伊的彼一日"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:22.470101247Z",
+  "model": "glm-5.3"
+}

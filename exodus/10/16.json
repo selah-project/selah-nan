@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "法老趕緊召摩西佮亞倫來,講:「我得罪雅威——恁的以羅欣——閣得罪恁。」",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "召"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我得罪"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "閣得罪恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:46.668752320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "看啊,屬雅威的日子欲來,你的掠物欲佇你的中央被分。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "בא",
+      "gloss": "欲來"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "而且被分"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "你的掠物"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "佇你的中央"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:51.589821744Z",
+  "model": "glm-5.3"
+}

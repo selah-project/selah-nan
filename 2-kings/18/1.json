@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "佇以色列王以拉的子何細亞(הושע)⟨的⟩第三年,猶大王亞哈斯的子希西家做王。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "第三"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "何細亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "以拉"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "亞哈斯"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:21.072135659Z",
+  "model": "glm-5.3"
+}

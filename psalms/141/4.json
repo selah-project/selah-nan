@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 141,
+  "translation": "毋通互我的心偏向歹的代誌,去行歹的作為,佮做歹的人——⟨את⟩行空虛的人做夥;我嘛毋欲食𪜶的好物。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תט",
+      "gloss": "互…偏向"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "去行"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "作為"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "行空虛的人"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "人"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "行"
+    },
+    {
+      "surface": "און",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "食"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "𪜶的好物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:30.951795792Z",
+  "model": "glm-5.3"
+}

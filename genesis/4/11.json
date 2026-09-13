@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "這陣你對土受詛咒,因為伊張開⟨את⟩伊的喙,欲對你的手接⟨את⟩你兄弟的血。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "受詛咒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "張開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的喙"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "伊的喙"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "欲接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你兄弟的血"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "對你的手"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:49.422054530Z",
+  "model": "glm-5.3"
+}

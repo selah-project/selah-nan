@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "無異象,百姓就放縱;遵守律法的人,伊有福氣。",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "放縱"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "伊有福氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:09.679607472Z",
+  "model": "glm-5.3"
+}

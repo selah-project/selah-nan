@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "若𪜶講:「來,⟨את⟩佮阮做伙,阮欲埋伏害人流血,欲匿揣無辜的人,無緣無故。」",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "來"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩佮阮做伙",
+      "marks": "阮"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "阮欲埋伏"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "對血"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "欲匿揣"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "無辜的人"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無緣無故"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:14.184063162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 22:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊就差使者去找巴蘭——比珥的囝——佇毘奪,彼條河邊、伊本族的地,欲叫伊來,講:「看啊,有一个族群對埃及出來;看啊,伊已經遮住⟨את⟩這片地的目睭,伊徛佇我對面。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "伊就差"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去找"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "比珥"
+    },
+    {
+      "surface": "פתורה",
+      "gloss": "佇毘奪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼所在"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "彼條河"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝孫"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊本族"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "欲叫"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עם",
+      "gloss": "一个族群"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對埃及"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "伊已經遮住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這片地的目睭"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這片地"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "ממלי",
+      "gloss": "我對面"
+    }
+  ],
+  "timestamp": "2026-09-12T02:00:25.521644441Z",
+  "model": "glm-5.3"
+}

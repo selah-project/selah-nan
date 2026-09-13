@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "以羅欣的天使佇夢內叫我講:「雅各!」我就應講:「我在遮!」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "叫…講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "天使"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "佇夢內"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我應講"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我在遮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:23.533242086Z",
+  "model": "glm-5.3"
+}

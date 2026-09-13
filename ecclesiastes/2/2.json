@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "對笑,我講:癲狂;對歡喜:這个咧做啥物?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "對笑"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "癲狂"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "佮對歡喜"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "咧做"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:29.725371772Z",
+  "model": "glm-5.3"
+}

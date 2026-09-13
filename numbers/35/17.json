@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "若用手內彼粒會使致死人的石頭摃伊,伊死去,伊就是殺人凶手;殺人凶手一定愛處死。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "用石頭"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "會使致死人"
+    },
+    {
+      "surface": "בה",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "摃伊"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "伊就死去"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "殺人凶手"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מות",
+      "gloss": "處死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "一定愛處死"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "彼个殺人凶手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:05:58.313171456Z",
+  "model": "glm-5.3"
+}

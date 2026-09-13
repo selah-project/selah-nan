@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣有,土地的利益歸一切的⟨人⟩;⟨伊是⟩王,受田地服事。",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "閣有…的利益"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "歸一切"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨伊⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "對田地"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "受服事"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:49.448792078Z",
+  "model": "glm-5.3"
+}

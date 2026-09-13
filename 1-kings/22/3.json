@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "以色列王對伊的奴僕講:「恁敢毋知拉末‧基列是阮的?阮猶恬恬,無對阿拉姆王的手裡搶伊⟨את⟩?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "恁敢毋知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "是阮的"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "拉末"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "恬恬"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "無…搶"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "手"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "阿拉姆"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:17.541739316Z",
+  "model": "glm-5.3"
+}

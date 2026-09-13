@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇日頭、光、月娘、星仔猶毋曾變暗,雲嘛猶毋曾佇落雨了後倒轉來進前。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "佇…進前"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "遐陣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "變暗"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "光"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "月娘"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "星仔"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "…了後"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "落雨"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:02.622484377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "約沙法伊的後生代替伊作王,伊家己堅固起來對抗以色列。",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "代替伊"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "伊家己堅固起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "對抗"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:14.114906637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "你的日子敢若必死的人的日子?你的年歲敢若壯漢的年歲?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "敢若…的日子"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "必死的人"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日子"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "你的年歲"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "壯漢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:34.112614210Z",
+  "model": "glm-5.3"
+}

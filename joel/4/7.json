@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "看啊,我欲對恁賣 ⟨את⟩ 𪜶 去遐的所在抖醒𪜶起來,閣我欲將恁的報應倒歸佇恁的頭殼頂。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我佇遮"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "抖醒𪜶起來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "……的所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "恁賣"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(猶大佮耶路撒冷的後生)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "去遐"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "閣我欲倒歸"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "恁的報應"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "佇恁的頭殼頂"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:16.258985220Z",
+  "model": "glm-5.3"
+}

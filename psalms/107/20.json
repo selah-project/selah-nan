@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "伊差遣伊的話,就醫好𪜶,閣對𪜶的滅亡中救出來。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "就醫好𪜶"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "閣救出來"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "對𪜶的滅亡"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:17.502932765Z",
+  "model": "glm-5.3"
+}

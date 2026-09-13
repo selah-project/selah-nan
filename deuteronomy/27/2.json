@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "佇恁過⟨את⟩約旦河、入去雅威恁的以羅欣所賞賜恁的地彼日,恁著家己豎大石頭,閣用石灰抹⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "就…發生"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "恁過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約旦河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "…的地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "互你"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "著豎起"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你家己"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "閣抹"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "用石灰"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:19.027046680Z",
+  "model": "glm-5.3"
+}

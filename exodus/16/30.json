@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "百姓就佇第七日安息。",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "就安息"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "第七"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:30.226394835Z",
+  "model": "glm-5.3"
+}

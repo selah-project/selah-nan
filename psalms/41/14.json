@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "雅威、以色列的以羅欣,會當受謳咾,對永遠到永遠。阿們,閣阿們。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "會當受謳咾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "對永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿們"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "閣阿們"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:37.213493355Z",
+  "model": "glm-5.3"
+}

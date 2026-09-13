@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼個人就講:「彼個查某人——你賞賜伊佮我做伙的——伊對彼棵樹提予我,我就食。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼個查某人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "你賞賜"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "佮我做伙"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "伊提"
+    },
+    {
+      "surface": "לי",
+      "gloss": "予我"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "彼棵樹"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "我就食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:25.441037208Z",
+  "model": "glm-5.3"
+}

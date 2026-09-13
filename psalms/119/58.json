@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我求你的面,用歸個心;施恩惠予我,照你的話。",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "我求"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用歸個"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "施恩惠予我"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "照你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:02.728452748Z",
+  "model": "glm-5.3"
+}

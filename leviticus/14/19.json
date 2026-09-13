@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "祭司欲獻⟨את⟩贖罪祭,替彼個欲得潔淨的人對伊的無清氣贖罪,了後閣刣⟨את⟩彼燔祭。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "佮欲獻"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖罪祭"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "佮贖罪"
+    },
+    {
+      "surface": "על",
+      "gloss": "替"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "彼個欲得潔淨的"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "對伊的無清氣"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "閣刣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼燔祭"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "彼燔祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:28.971150848Z",
+  "model": "glm-5.3"
+}

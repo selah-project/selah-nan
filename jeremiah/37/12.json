@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 37:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "耶利米對耶路撒冷出去,欲去便雅憫的地,欲對遐佇人民中間分著一份。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "欲去"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "欲分"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    }
+  ],
+  "timestamp": "2026-09-12T04:01:12.339847117Z",
+  "model": "glm-5.3"
+}

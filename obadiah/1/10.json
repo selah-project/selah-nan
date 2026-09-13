@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "因為你對你的兄弟雅各行強暴,見笑會遮蓋你,你嘛會受剪除到永遠。",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "因為…行強暴"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "遮蓋你"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "你嘛會受剪除"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:20.182679499Z",
+  "model": "glm-5.3"
+}

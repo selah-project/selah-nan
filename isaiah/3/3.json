@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "五十人的首領,佮受看顧面容的人,佮參謀,佮巧匠的智慧人,佮明白念咒的人。",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十人"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "佮受…"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面容"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "佮參謀"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "佮智慧人"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "巧匠"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "佮明白"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "念咒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:50.782089628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "河欲生滿青蛙,青蛙欲爬起來,入去你的厝內,入去你的睏房,上你的眠床,入去你奴僕的厝內,佮你的百姓身上,入去你的灶,佮你的揉麵盆。",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "生滿"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "青蛙"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "爬起來"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "你的厝內"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "入去你的"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "睏房"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "上"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "你的眠床"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "入去"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你奴僕的厝內"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "佮你的百姓身上"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "入去你的灶"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "佮你的揉麵盆"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:56.010348469Z",
+  "model": "glm-5.3"
+}

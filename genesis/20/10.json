@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "亞比米勒閣給亞伯拉罕講：「你到底是看著啥，才做這个代誌 ⟨את⟩？」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "給"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "你看著"
+    },
+    {
+      "surface": "כי",
+      "gloss": "才"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个代誌"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這个代誌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:15.030084584Z",
+  "model": "glm-5.3"
+}

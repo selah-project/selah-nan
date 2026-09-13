@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 24:23",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "亞勞拿做王,將這一切攏總送互王。亞勞拿對王講:「願雅威、你的以羅欣悅納你。」",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "送"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "亞勞拿"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "互王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "亞勞拿"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "ירצך",
+      "gloss": "悅納你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:20.505168921Z",
+  "model": "glm-5.3"
+}

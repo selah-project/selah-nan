@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "汝用汝的力量拆破海;汝拍破諸海怪的頭,佇諸水的頂面。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "拆破"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "用汝的力量"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "拍破"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "諸…的頭"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "海怪"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "המים",
+      "gloss": "諸水"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:01.861619875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "欲收藏伊的,親像咧收藏風;伊的正手扼油,油嘛會喝出來。",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "欲收藏伊的"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "收藏"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "佮油"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "伊的正手"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "會喝出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:48.061726190Z",
+  "model": "glm-5.3"
+}

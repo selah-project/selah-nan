@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊徛佇雅威的祭壇前,面對以色列全會眾,攑開伊的雙手。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…前"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "面對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "攑開"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "伊的雙手"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:40.256252748Z",
+  "model": "glm-5.3"
+}

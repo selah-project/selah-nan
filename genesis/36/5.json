@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "亞何利巴嘛閣生⟨את⟩耶伊施、⟨את⟩雅阿蘭、⟨את⟩可拉;遮个是雅各的兄哥以掃的後生,就是佇迦南地出世予伊的。",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "亞何利巴嘛"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶伊施"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "耶伊施"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雅阿蘭"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "雅阿蘭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "可拉"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮个是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "出世"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:54.211269798Z",
+  "model": "glm-5.3"
+}

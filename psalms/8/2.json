@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "雅威,咱的阿多奈啊,你的名佇全地面偌呢威嚴!你安你的威嚴佇諸天頂。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "咱的阿多奈"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌呢"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "安"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "你的威嚴"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:33.782769546Z",
+  "model": "glm-5.3"
+}

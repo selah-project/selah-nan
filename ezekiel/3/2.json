@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我就攑開⟨את⟩我的喙,伊就飼我食⟨את⟩這个卷。",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "我就攑開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的喙"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "伊就飼我食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个卷"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "這个卷"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:41.123622124Z",
+  "model": "glm-5.3"
+}

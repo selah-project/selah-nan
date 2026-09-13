@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "願攻擊我性命的人見笑、滅無;願尋欲害我的人互侮辱佮見誚罩𪜶。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "攻擊(的人)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我性命"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "罩"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "侮辱"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "佮見誚"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "尋(的人)"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "欲害我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:49.466374456Z",
+  "model": "glm-5.3"
+}

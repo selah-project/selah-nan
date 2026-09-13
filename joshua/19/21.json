@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣有拉米特、隱迦寧、隱哈大,閣有伯帕策。",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "閣有拉米特"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "隱"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "迦寧"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "閣有隱"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "哈大"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "閣有伯"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "帕策"
+    }
+  ],
+  "timestamp": "2026-09-12T02:26:45.372326817Z",
+  "model": "glm-5.3"
+}

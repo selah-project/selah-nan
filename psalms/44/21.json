@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "設使阮袂記得阮以羅欣的名,抑是攑阮的手向陌生的以勒,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "設使"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "阮袂記得"
+    },
+    {
+      "surface": "שם",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮以羅欣"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "攑…向"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "阮的手"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "向以勒"
+    },
+    {
+      "surface": "זר",
+      "gloss": "陌生的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:21.924301722Z",
+  "model": "glm-5.3"
+}

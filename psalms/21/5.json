@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊對你求活命,你已經賞伊,日子久長,一直到永遠閣永遠。",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "你賞"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "久長"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:56.628369804Z",
+  "model": "glm-5.3"
+}

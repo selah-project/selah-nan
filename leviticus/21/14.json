@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "寡婦、予人休掉的、玷染的、做娼妓的──這⟨את⟩幾个伊毋通娶;獨獨對伊家己的百姓中間的處女,伊才通娶做某。",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "佮予人休掉的"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "佮玷染的"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "做娼妓的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這幾个"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這幾个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "獨獨(連詞)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "處女"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "對伊家己的百姓中間"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "伊才通娶"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "做某"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:03.799211877Z",
+  "model": "glm-5.3"
+}

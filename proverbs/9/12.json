@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "你若有智慧,是為著你家己得著;你若譏誚,你單獨家己欲擔當。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你家己"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "你若譏誚"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "單獨家己"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "欲擔當"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:15.114688610Z",
+  "model": "glm-5.3"
+}

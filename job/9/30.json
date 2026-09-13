@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "我若用雪洗家己,用鹼洗清氣我的手,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "洗家己"
+    },
+    {
+      "surface": "במו",
+      "gloss": "用"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "雪"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "洗清氣"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "用鹼"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:15.214165848Z",
+  "model": "glm-5.3"
+}

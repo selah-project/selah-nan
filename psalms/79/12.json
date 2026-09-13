@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "阿多奈啊,閣七倍還阮的厝邊𪜶侮辱你的侮辱,到𪜶的懷內。",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "閣還"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "互阮的厝邊"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "𪜶的懷內"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "…的侮辱"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "𪜶侮辱你"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:07.562738906Z",
+  "model": "glm-5.3"
+}

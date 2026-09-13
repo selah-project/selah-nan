@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "著得著智慧,著得著明達;毋通袂記得,嘛毋通對我的嘴的話偏離去。",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "著得著"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "著得著"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "明達"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תט",
+      "gloss": "偏離去"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "對…的話"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的嘴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:38.650885983Z",
+  "model": "glm-5.3"
+}

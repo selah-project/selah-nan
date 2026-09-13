@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 6:23",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "抑是講:「救我脫離對敵的手,對殘忍的人的手替我贖出來」?",
+  "tokens": [
+    {
+      "surface": "ומלטוני",
+      "gloss": "抑是救我"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "צר",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "殘忍的人"
+    },
+    {
+      "surface": "תפדוני",
+      "gloss": "替我贖出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:09.567663043Z",
+  "model": "glm-5.3"
+}

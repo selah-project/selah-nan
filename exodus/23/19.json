@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 23:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你土地上早的頭一批果子，你愛帶入雅威你以羅欣的家。你毋通將羊仔囝煮佇伊老母的奶。",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "頭一批"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "上早熟的果子"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你的土地"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "你愛帶入"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "煮"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "羊仔囝"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "佇…的奶"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:06.489174658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "嘛,若兩个做伙倒落睏,𪜶就有燒暖;若是獨獨一个,哪會燒呢?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "倒落睏"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "就有燒暖"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "若是獨獨一个"
+    },
+    {
+      "surface": "איך",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "燒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:48.836957567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "摩西徛起來,行去大坍佮亞比蘭遐,以色列的長老攏行佇伊後面。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "徛起來"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去……遐"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "大坍"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "佮亞比蘭"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "佇伊後面"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "……的長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:58:14.475374229Z",
+  "model": "glm-5.3"
+}

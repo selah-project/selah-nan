@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "我欲分別做聖⟨את⟩會幕、⟨את⟩祭壇;⟨את⟩亞倫閣⟨את⟩伊的子仔,我欲分別做聖,做祭司事奉我。",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "我欲分別做聖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相會的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞倫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的子仔"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的子仔"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "我欲分別做聖"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "做祭司"
+    },
+    {
+      "surface": "לי",
+      "gloss": "事奉我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:47.103295305Z",
+  "model": "glm-5.3"
+}

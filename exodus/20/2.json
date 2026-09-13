@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "就是我，雅威，恁的以羅欣，我導你出埃及地，出奴役的厝。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "就是我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "我"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "導你出"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "出…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "出…厝"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴役"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:49.953505081Z",
+  "model": "glm-5.3"
+}

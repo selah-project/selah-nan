@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 8:14",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊對疏割的人中掠一个少年人,問伊;伊就給伊寫⟨את⟩疏割的首領佮⟨את⟩伊的長老——七十七人。",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "掠"
+    },
+    {
+      "surface": "נער",
+      "gloss": "一个少年人"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "對…的人"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "疏割"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "問伊"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "疏割的首領"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "疏割"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的長老"
+    },
+    {
+      "surface": "זקניה",
+      "gloss": "伊的長老"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "佮七"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:32:52.245313672Z",
+  "model": "glm-5.3"
+}

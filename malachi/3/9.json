@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "恁佇咒詛中受咒詛,閣恁咧欺騙⟨את⟩我——此個國族,全體。",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "佇咒詛中"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "受咒詛"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "咧欺騙"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "此個國族"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "全體"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:04.003551381Z",
+  "model": "glm-5.3"
+}

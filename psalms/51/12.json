@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "以羅欣啊,給阮創造一個清氣的心,佇阮內面更新一個正直的靈。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給阮"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "佮靈"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "更新"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "佇阮內面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:50.663491888Z",
+  "model": "glm-5.3"
+}

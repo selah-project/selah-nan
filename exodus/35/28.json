@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "閣 ⟨את⟩ 香料,佮 ⟨את⟩ 油——為著照光,為著膏油,閣為著芳香的香。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "香料"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "香料"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "為著照光"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "閣為著…油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "閣為著香"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "芳香的香料"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:17.279717021Z",
+  "model": "glm-5.3"
+}

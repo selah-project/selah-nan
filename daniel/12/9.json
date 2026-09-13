@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊講:「但以理啊,你去,因為諸個話攏是封密閉的,到結尾的時。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "封密的"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "閉的"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "諸個話"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "結尾"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:04.353258205Z",
+  "model": "glm-5.3"
+}

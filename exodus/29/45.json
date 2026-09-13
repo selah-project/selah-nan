@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "我欲徛蹛佇以色列的囝仔中間,我做𪜶的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "我欲徛蹛"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "我做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:14.652474904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊有兩个某,一个名叫哈娜,另外一个名叫毘尼拿;毘尼拿有囡仔,哈娜無囡仔。",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "某"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "哈娜"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "另外一个名"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二个"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "毘尼拿"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "毘尼拿"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "哈娜"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "囡仔"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:25.314761837Z",
+  "model": "glm-5.3"
+}

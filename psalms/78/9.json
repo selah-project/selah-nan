@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "以法蓮的子兒,是掛弓挽弓的人,佇交戰的日子倒頭轉。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "掛扛"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "挽(發射)"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "倒頭轉"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "交戰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:19.625799651Z",
+  "model": "glm-5.3"
+}

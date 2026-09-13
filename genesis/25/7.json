@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "這是亞伯拉罕一世人的日子——伊所活的年數:一百冬,閣七十冬,閣五冬。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "שני",
+      "gloss": "…的年數"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "一世人"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊所活的"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "冬"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "閣七十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "冬"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "閣五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "冬"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:45.988710139Z",
+  "model": "glm-5.3"
+}

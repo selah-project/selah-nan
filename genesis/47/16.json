@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "約瑟講:「提恁的牲畜來,我就用恁的牲畜佮恁換,因為銀已經矣。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "提…來"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "恁的牲畜"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "我就換"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "用恁的牲畜"
+    },
+    {
+      "surface": "אם",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "已經矣"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:15.338559550Z",
+  "model": "glm-5.3"
+}

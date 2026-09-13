@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "𪜶看見,就愕呆矣;驚惶,急忙走去。",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "愕呆矣"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "急忙走去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:58.245500296Z",
+  "model": "glm-5.3"
+}

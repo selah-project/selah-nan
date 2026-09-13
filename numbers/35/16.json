@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "設使伊用鐵的家私擊伊，伊就死，伊是殺人犯；殺人犯的確著處死。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "設使"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "用…家私"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "擊伊"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "伊就死"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "殺人犯"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "מות",
+      "gloss": "的確"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "著處死"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "彼个殺人犯"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:06.598548953Z",
+  "model": "glm-5.3"
+}

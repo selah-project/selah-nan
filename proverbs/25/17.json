@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你的腳愛罕得去你朋友的厝,免得伊對你飽矣閣怨恨你。",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "罕得"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "你的腳"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對……的厝"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的朋友"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "伊對你飽矣"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "閣怨恨你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:42.491376865Z",
+  "model": "glm-5.3"
+}

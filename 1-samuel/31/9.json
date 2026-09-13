@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "𪜶剁掉⟨את⟩掃羅的頭,剝掉⟨את⟩伊的軍裝,就送去非利士人的四圍各地,佇𪜶偶像的家報消息,嘛報予⟨את⟩眾人知。",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "剁掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掃羅的頭"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "剝掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的軍裝"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的軍裝"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "就送去"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "報消息"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "𪜶的偶像"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "眾人"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:10.695618691Z",
+  "model": "glm-5.3"
+}

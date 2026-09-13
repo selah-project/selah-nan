@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "恁著將⟨את⟩伊交予祭司以利亞撒，伊著帶⟨את⟩伊出去到營外，佇伊面前宰⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "恁著將"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(母牛)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "交予"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "伊著帶出去"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(母牛)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外面"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "宰"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(母牛)"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:00:24.546123822Z",
+  "model": "glm-5.3"
+}

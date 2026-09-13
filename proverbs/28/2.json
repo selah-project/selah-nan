@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "因為地有真濟過犯,⟨伊的⟩官長就真濟;若是有一个明白閣知影的人,按呢⟨國家⟩就會久長。",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "因為…過犯"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "伊的官長"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "若是佇一个…的人"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "明白"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "就會久長"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:25.968192618Z",
+  "model": "glm-5.3"
+}

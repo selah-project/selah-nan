@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "有牧者哀吼的聲,因為𪜶的榮美受毀滅;有幼獅吼叫的聲,因為約旦的茂密受毀滅。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "哀吼"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧者"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "受毀滅"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "𪜶的榮美"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "吼叫"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "受毀滅"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "茂密"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦"
+    }
+  ],
+  "timestamp": "2026-09-12T04:40:50.928486950Z",
+  "model": "glm-5.3"
+}

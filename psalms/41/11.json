@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "獨獨你,雅威啊,憐憫我,互我徛起來,我就會當報復𪜶。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "獨獨你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "憐憫我"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "互我徛起來"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "我就會當報復"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:32.397798616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣希別生⟨את⟩雅弗列、⟨את⟩示每佮⟨את⟩霍坦,閣⟨את⟩伊𪜶的姊妹書阿。",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "閣希別"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅弗列"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "雅弗列"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "示每"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "示每"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "霍坦"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "霍坦"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "書阿"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "書阿"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "伊𪜶的姊妹"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:59.223685040Z",
+  "model": "glm-5.3"
+}

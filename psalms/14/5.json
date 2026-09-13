@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "佇遐,𪜶驚一個大驚,因為以羅欣佇公義的人⟨的⟩世代中。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "𪜶驚"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "一個大驚"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "佇…世代中"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:27.725684956Z",
+  "model": "glm-5.3"
+}

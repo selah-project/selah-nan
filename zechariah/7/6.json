@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣當恁食、當恁啉的時,豈毋是恁家己咧食、恁家己咧啉?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "閣當…的時"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "恁啉"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "咧食的"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "閣恁"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "咧啉的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:53.114542623Z",
+  "model": "glm-5.3"
+}

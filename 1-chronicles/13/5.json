@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "大衛聚集⟨את⟩以色列全會眾,對埃及的施曷一直到哈馬的入口,欲對基列耶琳帶來⟨את⟩以羅欣的約櫃。",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列全會眾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對(從)"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "施曷"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入口"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "欲帶來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "對基列"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "耶琳"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:50.396901308Z",
+  "model": "glm-5.3"
+}

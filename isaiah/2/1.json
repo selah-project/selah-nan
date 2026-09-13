@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "以賽亞──阿摩斯的子──所看見的話,關於猶大佮耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "所看見的"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "以賽亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "阿摩斯"
+    },
+    {
+      "surface": "על",
+      "gloss": "關於"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:01.166691589Z",
+  "model": "glm-5.3"
+}

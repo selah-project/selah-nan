@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣⟨את⟩牛个肉、⟨את⟩伊个皮、⟨את⟩伊个糞，你欲用火燒，佇營外；伊是贖罪祭。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "牛个肉"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊个皮"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "伊个皮"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊个糞"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "伊个糞"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "你欲用火燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "佇……外"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:42.609924438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "佮染紅的公羊皮,佮塔哈施的皮,佮皂莢木 ——",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "佮……皮"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "染紅的"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "佮……皮"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "塔哈施"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "佮……木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:01.526303640Z",
+  "model": "glm-5.3"
+}

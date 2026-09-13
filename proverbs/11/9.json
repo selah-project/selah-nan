@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "用喙,假冒為善的毀壞伊的同伴;總是用知識,義人會得救。",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "用喙"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "假冒為善的"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "總是用知識"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "會得救"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:44.786302749Z",
+  "model": "glm-5.3"
+}

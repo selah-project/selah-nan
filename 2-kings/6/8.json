@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "亞蘭的王佮以色列交戰,伊佮伊的奴僕參詳,講:「阮欲佇某某某某的所在紮營。」",
+  "tokens": [
+    {
+      "surface": "וּמֶ֣לֶךְ",
+      "gloss": "…的王"
+    },
+    {
+      "surface": "אֲרָ֔ם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "הָיָ֥ה",
+      "gloss": "一直咧"
+    },
+    {
+      "surface": "נִלְחָ֖ם",
+      "gloss": "交戰"
+    },
+    {
+      "surface": "בְּיִשְׂרָאֵ֑ל",
+      "gloss": "佮以色列"
+    },
+    {
+      "surface": "וַיִּוָּעַץ֙",
+      "gloss": "伊就參詳"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "עֲבָדָ֣יו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "לֵאמֹ֗ר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מְק֛וֹם",
+      "gloss": "的所在"
+    },
+    {
+      "surface": "פְּלֹנִ֥י",
+      "gloss": "某某"
+    },
+    {
+      "surface": "אַלְמֹנִ֖י",
+      "gloss": "某某"
+    },
+    {
+      "surface": "תַּחֲנֹתִֽי",
+      "gloss": "阮欲紮營"
+    }
+  ],
+  "timestamp": "2026-09-13T04:30:09.284637849Z",
+  "model": "glm-5.3"
+}

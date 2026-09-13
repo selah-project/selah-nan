@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 18:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "若彼個國家對伊的歹轉回——就是我對伊講過的——我就會對我所想欲對伊行的災禍改變心意。",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "轉回"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "彼個國家"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "מרעתו",
+      "gloss": "對伊的歹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我講過的"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "我就會改變心意"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "חשבתי",
+      "gloss": "我所想的"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:47.880212678Z",
+  "model": "glm-5.3"
+}

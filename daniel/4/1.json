@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我，尼布甲尼撒，佇我的厝內⟨是⟩安然，佇我的宮殿興旺。",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "我"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "安然"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "⟨是⟩"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "佇我的厝內"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "佮興旺"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "佇我的宮殿"
+    }
+  ],
+  "timestamp": "2026-09-12T05:45:10.943934891Z",
+  "model": "glm-5.3"
+}

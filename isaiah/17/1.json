@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "大馬士革的重擔。看啊,大馬士革欲對做城被提走,伊欲變做倒塌的土堆。",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "重擔"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "欲對…被提走"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "做城"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "伊欲變做"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "倒塌的土堆"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "倒壞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:54.405072973Z",
+  "model": "glm-5.3"
+}

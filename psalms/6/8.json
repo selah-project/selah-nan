@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我的目睭對受氣消瘦去矣,對我所有的對敵老衰矣。",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "消瘦去矣"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "對受氣"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "老衰矣"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "我的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:29.276713137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "受膏的祭司欲對彼隻牛提一寡血,閣帶⟨את⟩伊入去會幕。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "閣提"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "受膏的"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "對…的血"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "閣帶入去"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(彼血)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "聚集之會"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:18.735209935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 1:13",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "今我欲拍斷伊的軛,對你的頂面;你的縛索我欲拆斷。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "我欲拍斷"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "伊的軛"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "對你的頂面"
+    },
+    {
+      "surface": "ומוסרתיך",
+      "gloss": "你的縛索"
+    },
+    {
+      "surface": "אנתק",
+      "gloss": "我欲拆斷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:41.137248280Z",
+  "model": "glm-5.3"
+}

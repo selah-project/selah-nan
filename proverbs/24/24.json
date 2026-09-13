@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "對歹人講「你是公義的」，萬百姓欲咒詛伊，萬國欲對伊受氣。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "對歹人"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "咒詛伊"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬百姓"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "對伊受氣"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "萬國"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:41.421391801Z",
+  "model": "glm-5.3"
+}

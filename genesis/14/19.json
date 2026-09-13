@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊就祝福伊,講:「亞伯蘭著祝福,對以勒以里昂、創造天佮地的。」",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "伊就祝福伊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "著祝福"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "對以勒"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以里昂"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "創造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:50.536095524Z",
+  "model": "glm-5.3"
+}

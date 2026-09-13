@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "教示詩,亞薩作的。我的人民啊,恁著掠耳仔聽我的妥拉,恁著挖掘恁的耳仔向我的喙所講的話。",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "教示詩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "掠耳仔聽"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我的妥拉"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "挖掘(伸向)"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "恁的耳仔"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "向……的話"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:24.187796924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 100,
+  "translation": "感謝的詩。恁著向雅威出大聲喝,全地攏著按呢。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "感謝"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "出大聲喝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:14.579754358Z",
+  "model": "glm-5.3"
+}

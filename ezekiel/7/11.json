@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "強暴起來做邪惡的杖;毋是對𪜶來,毋是對𪜶的群眾,嘛毋是對𪜶的喧譁,𪜶中間嘛無哀哭。",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "קם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "做……的杖"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶來"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "對𪜶的群眾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋是"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "對𪜶的喧譁"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "נה",
+      "gloss": "哀哭"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:42.379536601Z",
+  "model": "glm-5.3"
+}

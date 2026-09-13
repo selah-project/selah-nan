@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣⟨את⟩俄巴、⟨את⟩亞比瑪以勒、閣⟨את⟩示巴。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "俄巴"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "俄巴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞比瑪以勒"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "亞比瑪以勒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "示巴"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:07.900559616Z",
+  "model": "glm-5.3"
+}

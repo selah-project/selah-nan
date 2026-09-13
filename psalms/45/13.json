@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "推羅的查某囝用貢禮,民內的富人求你的面。",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "佮查某囝"
+    },
+    {
+      "surface": "צר",
+      "gloss": "推羅"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "用貢禮"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "求"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "富人"
+    },
+    {
+      "surface": "עם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:12.572301133Z",
+  "model": "glm-5.3"
+}

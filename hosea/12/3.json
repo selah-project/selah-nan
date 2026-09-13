@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅威欲佮猶大爭論,閣欲照雅各的家路懲罰伊,照伊所做的報應伊。",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "閣爭論"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "閣欲懲罰"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "的家路"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "照伊所做的"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "報應"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:28.974018140Z",
+  "model": "glm-5.3"
+}

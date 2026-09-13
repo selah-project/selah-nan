@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "佇遐你的手會引導我,你的正手嘛會攬牢我。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "引導我"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "攬牢我"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:38.256720691Z",
+  "model": "glm-5.3"
+}

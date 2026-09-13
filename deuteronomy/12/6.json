@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "恁著帶去遐恁的燒祭佮恁的祭物,閣⟨את⟩恁的十分之一,佮⟨את⟩恁的手所奉的禮物,閣恁所許的願,佮恁的甘心祭,閣恁牛羊的頭胎。",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "恁著帶去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "恁的燒祭"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "佮恁的祭物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的十分之一"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "恁的十分之一"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的手所奉的禮物"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "…所奉的禮物"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "恁的手"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "閣恁所許的願"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "佮恁的甘心祭"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "閣…的頭胎"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "恁的牛"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "佮恁的羊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:49.092759701Z",
+  "model": "glm-5.3"
+}

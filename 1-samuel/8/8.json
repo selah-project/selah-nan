@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 8:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "照我帶𪜶⟨את⟩上來出埃及彼日一直到今仔日,𪜶所行一切的工——𪜶離開我,事奉別的神——按呢𪜶嘛對你按呢做。",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "照…一切"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "所行的工"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…所"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "𪜶行"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "對…彼日"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "我帶…上來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "出埃及"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "𪜶離開我"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "𪜶事奉"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "做"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:04.327568428Z",
+  "model": "glm-5.3"
+}

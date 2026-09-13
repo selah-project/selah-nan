@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 110,
+  "translation": "雅威已經發誓,也袂反悔:「你是到永遠的祭司,照麥基洗德的等次。」",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "已經發誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也袂"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "反悔"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "等次"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "麥基"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "洗德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:34.420447997Z",
+  "model": "glm-5.3"
+}

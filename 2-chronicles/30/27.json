@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "閣祭司利未人起來,祝福⟨את⟩百姓;𪜶的聲受聽見,𪜶的祈禱入去伊聖的居所、入去諸天。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "閣…起來"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "受聽見"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "𪜶的聲"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "𪜶的祈禱"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "…的居所"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊聖的"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "入去諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T06:18:15.391433784Z",
+  "model": "glm-5.3"
+}

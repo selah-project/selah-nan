@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "閣伊建立伊對雅各做律例,對以色列做永遠的約;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "閣伊建立伊"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "對雅各"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "做律例"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "做…的約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:45.342052165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "後來伊過去,你看,伊已經無去矣;我揣伊,毋過無尋著。",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "後來伊過去"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "伊已經無去矣"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "我揣伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過無"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "尋著"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:14.381846750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣有⟨את⟩哈沙比雅,佮⟨את⟩伊以賽亞,對米拉利的後裔,伊的兄弟佮𪜶的後生,二十个。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "哈沙比雅"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "哈沙比雅"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "佮⟨את⟩伊",
+      "marks": "伊以賽亞"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "伊以賽亞"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對…的後裔"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "米拉利"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "佮𪜶的後生"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    }
+  ],
+  "timestamp": "2026-09-12T05:52:38.001604529Z",
+  "model": "glm-5.3"
+}

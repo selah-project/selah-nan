@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "伊翁的心肝倚靠伊,伊袂欠缺掠奪來的物。",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心肝"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "伊翁"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "佮掠奪來的物"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "欠缺"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:41.291772459Z",
+  "model": "glm-5.3"
+}

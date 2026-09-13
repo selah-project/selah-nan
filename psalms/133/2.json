@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 133,
+  "translation": "親像好油落佇頭殼頂，流落鬍鬚，就是亞倫的鬍鬚，流到伊的衫仔裙邊。",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "親像…油"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭殼頂"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "流落"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "鬍鬚"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "鬍鬚"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "流到"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "פי",
+      "gloss": "邊"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "伊的衫仔裙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.608647812Z",
+  "model": "glm-5.3"
+}

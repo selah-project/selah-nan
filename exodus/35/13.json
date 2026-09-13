@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "⟨את⟩ 桌仔佮 ⟨את⟩ 伊的扛桿,閣 ⟨את⟩ 伊一切的器具,佮 ⟨את⟩ 面頭前餅;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桌仔"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的扛桿"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "伊的扛桿"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "伊一切的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的器具"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "面頭前餅"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "面頭前"
+    }
+  ],
+  "timestamp": "2026-09-13T06:30:47.098042077Z",
+  "model": "glm-5.3"
+}

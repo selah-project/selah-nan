@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "因為佇雲霄內底,是誰通佮雅威排列做伙?佇諸神子中間,是誰通佮雅威相比?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מי",
+      "gloss": "是誰"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "佇雲霄內底"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "通排列做伙"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "佮雅威"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "通相比"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "佮雅威"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "佇…的子中間"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "諸神"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:25.058883144Z",
+  "model": "glm-5.3"
+}

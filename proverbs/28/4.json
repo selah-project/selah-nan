@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "放棄托拉的人會呵咾惡人;遵守托拉的人會佮𪜶相爭。",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "放棄…的人"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "托拉"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "會呵咾"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "閣遵守…的人"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "托拉"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "會相爭"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佮𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:25.968567792Z",
+  "model": "glm-5.3"
+}

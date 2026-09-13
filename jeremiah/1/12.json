@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威給我講:「你看予好;因為我警醒佇我的話頂面,欲來行伊。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "看予好"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "去看"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "警醒"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "我的話"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "欲來行伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:46.969325541Z",
+  "model": "glm-5.3"
+}

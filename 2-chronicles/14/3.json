@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊命令猶大著尋求⟨את⟩雅威──𪜶祖先的以羅欣──,來行律法佮誡命。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊命令"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "對猶大"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "著尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "𪜶祖先"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "來行"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "佮誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:15.081458759Z",
+  "model": "glm-5.3"
+}

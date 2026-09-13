@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "𪜶攏燒熱親像火爐,吞食⟨את⟩𪜶的士師;𪜶的王攏倒落去,𪜶中間無一个叫我。",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "燒熱"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "親像火爐"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的士師"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "𪜶的士師"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "𪜶的王"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "𪜶中間"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:02.711009720Z",
+  "model": "glm-5.3"
+}

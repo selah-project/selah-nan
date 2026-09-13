@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "我就滅無⟨את⟩三個牧者,佇一个月之內;我的性命對𪜶厭倦,𪜶的性命嘛對我厭惡。",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "我就滅無"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "三個牧者"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧者"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "厭倦"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "בי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:04.461442877Z",
+  "model": "glm-5.3"
+}

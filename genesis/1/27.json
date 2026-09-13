@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以羅欣就創造⟨את⟩人佇伊的像內;佇以羅欣的像伊創造⟨את⟩伊;公的佮母的,伊創造⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "創造"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "佇伊的像內"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "佇…的像"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公的"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "佮母的"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "創造"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:07.861179123Z",
+  "model": "glm-5.3"
+}

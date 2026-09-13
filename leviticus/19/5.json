@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "倘若恁獻平安祭予雅威,著照恁會蒙悅納的方式獻伊。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "恁獻祭"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "為著恁蒙悅納"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "恁著獻伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:22.450140437Z",
+  "model": "glm-5.3"
+}

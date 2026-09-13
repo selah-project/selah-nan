@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶無對王的誡令偏離,對祭司佮利未人,以及逐項代誌,佮倉庫。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "偏離"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "以及逐項"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "佮倉庫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:18.891583285Z",
+  "model": "glm-5.3"
+}

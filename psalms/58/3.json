@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "無,恁佇心內圖謀邪惡;佇地上,恁用手衡量強暴。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "無"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "佇心內"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "恁圖謀"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "恁用手"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "恁衡量"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:38.672942518Z",
+  "model": "glm-5.3"
+}

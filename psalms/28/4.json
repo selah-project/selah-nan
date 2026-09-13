@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "照𪜶的所行互𪜶，照𪜶歹的所做；照𪜶手所做的工互𪜶，給𪜶的報應倒轉去𪜶身上。",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "互"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "照𪜶的所行"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "照歹"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "𪜶的所做"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "照……所做的工"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手"
+    },
+    {
+      "surface": "תן",
+      "gloss": "互"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "השב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "𪜶的報應"
+    },
+    {
+      "surface": "להם",
+      "gloss": "互𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:39.125826389Z",
+  "model": "glm-5.3"
+}

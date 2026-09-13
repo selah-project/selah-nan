@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以色列的王就去,猶大的王佮以東的王嘛去;𪜶繞路行七日,就無水通予營,嘛無通予綴佇𪜶跤後的牲仔。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "繞路"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "予營"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "嘛予牲仔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "綴佇𪜶跤後"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:50.457410106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "亞述王撒縵以色上來攻擊伊;何細亞做伊的奴僕,閣進貢物互伊。",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "攻擊伊"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "撒縵以色"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "何細亞"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "閣獻"
+    },
+    {
+      "surface": "לו",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢物"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:28.257351489Z",
+  "model": "glm-5.3"
+}

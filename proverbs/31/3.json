@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "毋通將你的氣力予查某人,嘛毋通將你的路予彼个毀滅諸王的。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "你的氣力"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "嘛你的路"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "諸王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:58.653284810Z",
+  "model": "glm-5.3"
+}

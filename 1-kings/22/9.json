@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 22:9",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "以色列的王就叫一個太監來,講:「趕緊去帶米該雅,伊姆拉的子來。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就叫"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "來"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "太監"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "趕緊去帶"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "米該雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "伊姆拉的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:44.131077365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "大衛聽見,就差⟨את⟩約押佮⟨את⟩眾勇士的全軍出去。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就差…出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約押"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "眾勇士的全軍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "眾勇士的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:12.759746173Z",
+  "model": "glm-5.3"
+}

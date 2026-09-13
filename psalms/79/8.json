@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "求祢毋通紀念阮早前的罪過;願祢的憐憫緊緊代先臨到阮,因為阮已經落到極矣。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "求祢毋通"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "罪過"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "早前的"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "緊緊"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "代先臨到阮"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "祢的憐憫"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "阮已經落到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:35.221325646Z",
+  "model": "glm-5.3"
+}

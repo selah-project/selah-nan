@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "義人歡喜的時,榮光真大;歹人起的時,人會走去厝匿。",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "佇……歡喜的時"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "真大"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "閣佇……起的時"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "會走去匿"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:37.346131062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "到日子一輪替,哈娜就懷胎,生一個子,伊就共⟨את⟩伊的名叫做撒母耳,因為我對雅威求來的。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到……就"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "一輪替"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "就懷胎"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "哈娜"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個子"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "伊就稱呼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "我求來的"
+    }
+  ],
+  "timestamp": "2026-09-13T06:29:26.373613379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "著除去 ⟨את⟩ 伊的嗉囊佮伊的內容物,擲 ⟨את⟩ 伊佇祭壇邊東爿,就是灰的所在。",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "著除去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的嗉囊"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "伊的嗉囊"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "佮伊的內容物"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "擲"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東爿"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:28.511439312Z",
+  "model": "glm-5.3"
+}

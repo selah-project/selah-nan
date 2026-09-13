@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊欲伸出伊的手管轄諸個國家,埃及地就無通逃矣。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "伊欲伸出"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "佇諸個國家"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會成做"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "通逃"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:03.707169768Z",
+  "model": "glm-5.3"
+}

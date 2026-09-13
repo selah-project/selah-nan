@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "來喔,咱來對雅威唱歌歡呼,咱來出大聲,對做咱拯救的磐石。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "來喔"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "咱來唱歌歡呼"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "咱來出大聲"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "對磐石"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "做咱拯救的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:01.348233356Z",
+  "model": "glm-5.3"
+}

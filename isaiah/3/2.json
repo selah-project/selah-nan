@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "勇者佮戰士,士師佮先知,占卜的佮老人,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "勇者"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮…的人"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "士師"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "佮先知"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "佮占卜的"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "佮老人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:50.781682350Z",
+  "model": "glm-5.3"
+}

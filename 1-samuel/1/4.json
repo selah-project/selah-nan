@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "彼日到矣,以利加拿獻祭,伊分予毘尼拿──伊的某──閣予伊逐个後生佮查某囡仔,逐人一份。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到矣"
+    },
+    {
+      "surface": "היום",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "以利加拿"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "伊分予"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "毘尼拿"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "閣予逐个"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "佮伊的查某囡仔"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "一份一份"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:25.315095309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "連雅威的手嘛臨佇𪜶身上,欲對營中消滅𪜶,直到𪜶攏滅無去。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "臨佇"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶身上"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "欲消滅𪜶"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "攏滅無去"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:31.127269111Z",
+  "model": "glm-5.3"
+}

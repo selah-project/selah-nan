@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "佇彼個日,雅威救⟨את⟩以色列;閣彼個戰事就越過⟨את⟩伯亞文(伯特阿文)。",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "閣彼個戰事"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "越過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伯亞文"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "און",
+      "gloss": "亞文"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:51.201648456Z",
+  "model": "glm-5.3"
+}

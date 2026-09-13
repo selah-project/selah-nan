@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "有一个世代,佇家己的目睭內看做清氣,猶過家己的垃糞猶未洗清。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "一个世代"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭內"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "家己的垃糞"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "洗清"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:04.828412448Z",
+  "model": "glm-5.3"
+}

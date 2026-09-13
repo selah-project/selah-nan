@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "毋閣，人毋通相爭，人嘛毋通責備，因為恁的百姓親像佮祭司相爭的人。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "毋閣"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "責備"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "恁的百姓"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "親像相爭的人"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:09.289436139Z",
+  "model": "glm-5.3"
+}

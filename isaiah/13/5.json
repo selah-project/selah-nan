@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "𪜶對遠遠的陸地來,對天邊來,雅威佮伊受氣的兵器,欲毀滅規個大地。",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對陸地"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠遠的"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "對…的邊"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "佮…的兵器"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "伊的受氣"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "欲毀滅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:04.185761225Z",
+  "model": "glm-5.3"
+}

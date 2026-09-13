@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "看啊,我共你刻佇我的手掌;你的城牆時時攏佇我面前。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "手掌"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "我刻你"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "你的城牆"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "時時攏"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:25.087789976Z",
+  "model": "glm-5.3"
+}

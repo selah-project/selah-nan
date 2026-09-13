@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "⟨את⟩我的安息日恁著遵守,我的聖所恁著敬畏;我是雅威。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的安息日"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "我的安息日"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "恁著遵守"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "我的聖所"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "恁著敬畏"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:58.328182736Z",
+  "model": "glm-5.3"
+}

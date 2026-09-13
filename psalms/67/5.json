@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 67,
+  "translation": "列國歡喜、唱歌出聲，因為你照正直審判萬民，佇地上引導列國。細拉。",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "唱歌出聲"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "你審判"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "照正直"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "引導"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:45.372882239Z",
+  "model": "glm-5.3"
+}

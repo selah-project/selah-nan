@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 2:7",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "阿多奈放棄伊的祭壇,厭惡伊的聖所,將宮殿的城牆交佇對敵的手中;𪜶佇雅威的殿出大聲,親像節期的日子。",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "伊的祭壇"
+    },
+    {
+      "surface": "נאר",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "伊的聖所"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "交(關起來交出去)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇……的手中"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "קול",
+      "gloss": "大聲"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "出(發出)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇……的殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "親像……的日子"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "節期"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:41.226906309Z",
+  "model": "glm-5.3"
+}

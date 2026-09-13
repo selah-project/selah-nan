@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "佇彼个時陣,米羅達‧巴拉但——巴拉但的子、巴比倫的王——差派書信佮禮物到希西家遐,因為伊有聽著希西家破病,閣已經勇起來矣。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "佇彼个時陣"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差派"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "米羅達"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "巴拉但"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "巴拉但"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "書信"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "佮禮物"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "伊有聽著"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "破病"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "已經勇起來矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:04.150681296Z",
+  "model": "glm-5.3"
+}

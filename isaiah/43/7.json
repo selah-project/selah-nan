@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "見若稱阮的名的,為著我的榮光我創造伊,我塑造伊,嘛我造伊成。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "稱……的"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "阮的名"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "為著我的榮光"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "我創造伊"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "我塑造伊"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "我造伊成"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:24.506034766Z",
+  "model": "glm-5.3"
+}

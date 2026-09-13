@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "無過失,𪜶走閣準備家己;醒起來迎我,閣看覓。",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "עון",
+      "gloss": "過失"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "𪜶走"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "閣準備家己"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "迎我"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "閣看"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:55.651842464Z",
+  "model": "glm-5.3"
+}

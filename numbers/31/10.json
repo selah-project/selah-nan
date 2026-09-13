@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.3",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "閣⟨את⟩𪜶一切的城池、佇𪜶所徛起的所在,閣⟨את⟩𪜶一切的營壘,𪜶攏用火燒掉矣。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶一切的城池"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "𪜶的城池"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "佇𪜶所徛起的所在"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶一切的營壘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "𪜶的營壘"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "𪜶燒掉"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-13T06:52:52.532137068Z",
+  "model": "glm-5.3"
+}

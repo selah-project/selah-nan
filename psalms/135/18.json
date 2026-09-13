@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "做𪜶的人會親像𪜶按呢;見若倚靠𪜶的,攏是按呢。",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "親像𪜶"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "會……按呢"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "做𪜶的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:37.979310758Z",
+  "model": "glm-5.3"
+}

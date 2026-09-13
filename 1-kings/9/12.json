@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "希蘭對推羅出來,欲看⟨את⟩諸個城,就是所羅門互伊的;總是諸個城佇伊的目睭內無好看。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "對推羅"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個城"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "諸個城"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "總是…無"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "好看"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:01.943127231Z",
+  "model": "glm-5.3"
+}

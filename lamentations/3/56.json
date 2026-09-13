@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "你有聽我的聲,毋通掩你的耳,來聽我的喘氣、我的哀求。",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "掩"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "我的喘氣"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "我的哀求"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:25.167568382Z",
+  "model": "glm-5.3"
+}

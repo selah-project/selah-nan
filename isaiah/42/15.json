@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我欲毀壞山佮山崙,伊攏的草欲予𪜶焦去;我欲互江河變做旱島,湖嘛欲焦去。",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "我欲毀壞"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "佮山崙"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "伊攏的草"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "焦去"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "江河"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "變做旱島"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "佮湖"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "焦去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:06.143257899Z",
+  "model": "glm-5.3"
+}

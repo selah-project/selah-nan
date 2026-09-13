@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "亞瑪力就來,佇利非訂佮以色列相戰。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "就來"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "佮…相戰"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "佇利非訂"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:54.134576647Z",
+  "model": "glm-5.3"
+}

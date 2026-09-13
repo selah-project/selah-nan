@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "院的闊,對西旁:掛簾五十肘,𪜶的柱仔十枝,𪜶的座十个。",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "…的闊"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "對…旁"
+    },
+    {
+      "surface": "ים",
+      "gloss": "西(海旁)"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "掛簾"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "𪜶的柱仔"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "𪜶的座"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:14.651782419Z",
+  "model": "glm-5.3"
+}

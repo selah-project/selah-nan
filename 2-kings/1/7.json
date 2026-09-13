@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊對𪜶講:「彼个行來迎接恁、閣對恁講⟨את⟩這些話的,是啥物款的人?」",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "伊對𪜶講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "款"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "的人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "行來"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "迎接恁"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "這些話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:50.552191193Z",
+  "model": "glm-5.3"
+}

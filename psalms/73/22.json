@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "獨我愚戇閣毋知,佇你面前我做牛做馬。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "獨我"
+    },
+    {
+      "surface": "בער",
+      "gloss": "愚戇"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "做牛做馬"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "做"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佇你面前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:20.759720161Z",
+  "model": "glm-5.3"
+}

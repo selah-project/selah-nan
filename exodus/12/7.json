@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣𪜶欲對血提一寡,抹佇兩个門框佮門楣頂,佇彼的厝——𪜶欲佇遐食⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "閣𪜶提"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "彼的血"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "閣𪜶抹落去"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "門框"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮佇…頂"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "門楣"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "彼的厝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的所在"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "𪜶欲食"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:16.208755635Z",
+  "model": "glm-5.3"
+}

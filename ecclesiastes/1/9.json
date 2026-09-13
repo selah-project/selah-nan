@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "啥物曾經有,伊就是將來欲有的;啥物曾經做過,伊就是將來欲做的;佇日頭下跤無半項新的物。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "曾經有"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "將來欲有的"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "佮啥物"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "曾經做過"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "將來欲做的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "就無"
+    },
+    {
+      "surface": "כל",
+      "gloss": "半項"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的物"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下跤"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:15.689929219Z",
+  "model": "glm-5.3"
+}

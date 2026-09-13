@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為我將好的教示予恁;我的妥拉,恁毋通放棄。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "教示"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我…予"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我的妥拉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "放棄"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:13.660807790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 9:1",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇這個月二十佮四彼日,以色列的子兒聚集做伙,禁食、穿麻布,土撒佇𪜶身上。",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "(這個)月"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "聚集做伙"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "ובשקים",
+      "gloss": "穿麻布"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶身上"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:58.915655285Z",
+  "model": "glm-5.3"
+}

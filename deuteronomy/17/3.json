@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊去服事別個以羅欣,閣跪拜𪜶,抑是拜日頭,抑是拜月娘,抑是拜諸天一切的萬象,這是我毋捌命令的——",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "伊去"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "服事"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別個"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "閣跪拜"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "抑是日頭"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "月娘"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "萬象"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我捌命令"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:39.511181720Z",
+  "model": "glm-5.3"
+}

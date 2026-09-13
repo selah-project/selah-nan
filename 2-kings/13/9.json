@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 13:9",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "約哈斯佮伊的列祖同眠,𪜶埋葬伊佇撒瑪利亞;伊的仔約阿施佇伊的位做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "佮…同眠"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "約哈斯"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "𪜶埋葬伊"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒瑪利亞"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的仔"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "佇伊的位"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:28.310736045Z",
+  "model": "glm-5.3"
+}

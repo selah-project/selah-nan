@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "閣沿以薩迦的地界,對東爿的邊界到海爿的邊界,西布倫一分。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣沿"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "地界"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "以薩迦"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "對……的邊界"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "東爿"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "海爿"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "西布倫"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一分"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:00.933387213Z",
+  "model": "glm-5.3"
+}

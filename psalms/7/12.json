@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以羅欣是公義的審判者,以勒逐日受氣。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "審判者"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮以勒"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:30.090129511Z",
+  "model": "glm-5.3"
+}

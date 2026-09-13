@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣每一隻羊仔用一個十分之一份,為著彼十四隻羊仔。",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "閣一個十分之一份"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "一個十分之一份"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "每一隻羊仔"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一隻"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "為著十四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "隻羊仔"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:52.895234371Z",
+  "model": "glm-5.3"
+}

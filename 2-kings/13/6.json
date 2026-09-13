@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "毋拘𪜶無離開耶羅波安彼个家的罪,就是伊害以色列犯⟨את⟩的那號罪,𪜶猶原行佇其中;閣彼个亞舍拉嘛猶徛佇撒馬利亞。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "對…的罪"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "害…犯罪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇其中"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "彼个亞舍拉"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "徛"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:52.962534565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 19:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "佇彼日,埃及地的中間欲有雅威的祭壇,閣佇伊的邊界附近欲有雅威的柱仔。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲有"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…的中間"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "閣…柱仔"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "佇…附近"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "伊的邊界"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:38.125694747Z",
+  "model": "glm-5.3"
+}

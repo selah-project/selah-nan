@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "伊欲成敬畏伊的人所愛悅的,閣欲聽⟨את⟩𪜶的哀求,救𪜶。",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "所愛悅的"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏伊的人"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "欲成"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的哀求"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "𪜶的哀求"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "欲聽"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "救𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.790250392Z",
+  "model": "glm-5.3"
+}

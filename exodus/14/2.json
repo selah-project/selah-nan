@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 14:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "「你對以色列的子孫講,𪜶欲越倒轉,佇彼哈希錄(皮哈希羅)的嘴頭前、米茲田(密奪)佮海的中間、巴勒洗分(巴力洗分)的頭前面扎營;伊的對面,恁紮營佇海邊。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "越倒轉"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "扎營"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "פי",
+      "gloss": "嘴"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "彼哈希錄"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "米茲田(密奪)"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "巴勒"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "洗分"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "對面"
+    },
+    {
+      "surface": "תחנו",
+      "gloss": "恁紮營"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:22.501608816Z",
+  "model": "glm-5.3"
+}

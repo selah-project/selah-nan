@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣嘛對耶洗別,雅威有講話,講:狗欲食⟨את⟩耶洗別,佇耶斯列的城壕邊。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣嘛"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "對耶洗別"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "有講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "彼些狗"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶洗別"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "耶洗別"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "佇城壕"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "耶斯列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:47.105220123Z",
+  "model": "glm-5.3"
+}

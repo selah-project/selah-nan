@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "佇我四圍圍倚的人的頭——願𪜣喙唇的毒害掩蓋𪜶。",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "我四圍圍倚的人"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "毒害"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "𪜶的喙唇"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "掩蓋𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:19.518600055Z",
+  "model": "glm-5.3"
+}

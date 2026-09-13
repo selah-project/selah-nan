@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "約書亞透早就起來,共⟨את⟩以色列照𪜶的支派𤆬倚來,猶大的支派予雅威捉著。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "透早就起來"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "𤆬倚來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "照𪜶的支派"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "予雅威捉著"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "支派"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:05.844968640Z",
+  "model": "glm-5.3"
+}

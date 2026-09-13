@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "彼位贖回者就對波阿斯講:「你買去。」然後伊褪伊的草鞋。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "彼位贖回者"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "對波阿斯"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "買"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你買去"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "然後伊褪"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "伊的草鞋"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:46.579499279Z",
+  "model": "glm-5.3"
+}

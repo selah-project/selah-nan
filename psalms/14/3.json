@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "𪜶攏做伙閃開,攏做伙變污漕;無人行好,連一个嘛無。",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "סר",
+      "gloss": "閃開"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "變污漕"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个嘛無"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:44.892424372Z",
+  "model": "glm-5.3"
+}

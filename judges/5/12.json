@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 5:12",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "醒起來,醒起來,底波拉!醒起來,醒起來,唱歌一句!起來,比拉閣,佮擄𪜶所擄的,亞比挪阿姆的子!",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "底波拉"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "講"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "比拉閣"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "佮擄"
+    },
+    {
+      "surface": "שביך",
+      "gloss": "你所擄的"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "亞比挪阿姆"
+    }
+  ],
+  "timestamp": "2026-09-13T04:39:55.226049271Z",
+  "model": "glm-5.3"
+}

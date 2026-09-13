@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 17:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "頭殼頂戴銅盔,伊穿鱗甲,彼領甲的重量是五千舍客勒銅。",
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "銅盔"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "頭殼"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "鱗甲"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "鱗片"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "穿"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "重量"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "彼領甲"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "五"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T06:27:14.685336748Z",
+  "model": "glm-5.3"
+}

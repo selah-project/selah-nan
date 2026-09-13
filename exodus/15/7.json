@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "閣佇你威嚴的豐盛,你毀滅起來攻擊你的人;你射出你的烈怒,伊吞食𪜶,親像稻草。",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "閣佇…的豐盛"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "你的威嚴"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "你毀滅"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "起來攻擊你的人"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "你射出"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "你的烈怒"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "伊吞食𪜶"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "親像稻草"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:24.526258363Z",
+  "model": "glm-5.3"
+}

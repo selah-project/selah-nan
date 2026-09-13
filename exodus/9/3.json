@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "「看啊,雅威的手欲臨到佇田野的你的牲畜——佇馬、佇驢、佇駱駝、佇牛、佇羊——瘟疫重到極矣。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "欲臨到"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "佇你的牲畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田野"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "佇馬"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "佇驢"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "佇駱駝"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇牛"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "佇羊"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:42.503463561Z",
+  "model": "glm-5.3"
+}

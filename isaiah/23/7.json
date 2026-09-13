@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "這敢是恁歡喜洋洋的城?伊的淵源是對遠古的日子;伊家己的腳欲帶伊去到遠遠去寄居。",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "這敢"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "歡喜洋洋的城"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "對…的日子"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "遠古"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "伊的淵源"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "欲帶伊去"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "伊家己的腳"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "去到遠遠"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "去寄居"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:24.247541871Z",
+  "model": "glm-5.3"
+}

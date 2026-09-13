@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "有人假做有錢,其實啥物攏無;有人假做散,財卻真濟。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "假做有錢"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "佮無"
+    },
+    {
+      "surface": "כל",
+      "gloss": "啥物攏"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "假做散"
+    },
+    {
+      "surface": "והון",
+      "gloss": "佮財"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真濟"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:36.211715215Z",
+  "model": "glm-5.3"
+}

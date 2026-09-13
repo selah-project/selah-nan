@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 120,
+  "translation": "雅威啊,救我的性命脫離講白賊个喙脣,脫離詭詐个舌。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "救"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "脫離…喙脣"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "講白賊个"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "脫離…舌"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "詭詐个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:29.130560226Z",
+  "model": "glm-5.3"
+}

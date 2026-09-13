@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "一下短的時陣我若講到一個國家,閣講到一個王國,欲起造伊、欲栽種伊,",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "一下短的時陣"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "一個國家"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "一個王國"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "欲起造伊"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "閣欲栽種伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:13.276499015Z",
+  "model": "glm-5.3"
+}

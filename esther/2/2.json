@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "王的少年侍從、服事伊的𪜶,就講:「著為王去揣在室女、面容姣好的查某囡仔。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "少年侍從"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "服事伊的"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "著去揣"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "為王"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "查某囡仔"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "在室女"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "姣好的"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "面容"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:56.298974401Z",
+  "model": "glm-5.3"
+}

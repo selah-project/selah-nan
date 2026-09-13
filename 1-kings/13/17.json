@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 13:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "因為照雅威的話有話對我講:『你佇遐毋通食餅,嘛毋通飲水;嘛毋通倒轉去行彼條你行過來的路。』",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "飲"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "去行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "行…的路"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼條"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "你行過來"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:42.271622688Z",
+  "model": "glm-5.3"
+}

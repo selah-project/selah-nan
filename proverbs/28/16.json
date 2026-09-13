@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "做首領的人若欠理解,就抑壓真濟;獨獨怨恨不義之財的人,伊的日子會長久。",
+  "tokens": [
+    {
+      "surface": "נגיד",
+      "gloss": "做首領的人"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "理解"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "就……真濟"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "抑壓"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "怨恨……的人"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "不義之財"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "會長久"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:05.769879127Z",
+  "model": "glm-5.3"
+}

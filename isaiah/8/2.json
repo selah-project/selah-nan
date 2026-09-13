@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我欲給家己設忠實的見證人——⟨את⟩烏利亞祭司,佮⟨את⟩撒迦利亞、耶比利迦亞的仔。",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "我欲設做見證"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給家己"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "見證人"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "忠實的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏利亞祭司"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "撒迦利亞"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "撒迦利亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "耶比利迦亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:51.041617017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣伊欲帶⟨את⟩彼隻牛出去到營的外面,閣燒⟨את⟩伊,親像伊燒⟨את⟩頭一隻彼隻牛按呢;伊是會眾的罪祭。",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "閣伊欲帶出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外面"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "閣燒"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "彼隻牛"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭一隻彼隻牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一隻"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪祭"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:31.309457554Z",
+  "model": "glm-5.3"
+}

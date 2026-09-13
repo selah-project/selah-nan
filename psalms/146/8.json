@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 146,
+  "translation": "雅威開青盲人的目睭,雅威掖起彎腰曲背的人,雅威疼公義的人。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "開"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "青盲人的目睭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "掖起"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "彎腰曲背的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "公義的人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:47.285966251Z",
+  "model": "glm-5.3"
+}

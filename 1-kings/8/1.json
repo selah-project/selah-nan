@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 8:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "彼時所羅門聚集⟨את⟩以色列的長老,⟨את⟩以色列逐个支派的頭人、以色列眾子的父家的首領,到所羅門王遐,到耶路撒冷,欲將⟨את⟩雅威約的約櫃對大衛城——伊就是錫安——扛上來。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "יקהל",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的長老"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部的頭人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "支派"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "父家"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "欲扛上來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威約的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "對…城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊就是"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:13.977228986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "毋通食伊生凍的,嘛毋通佇水內煮熟,獨獨用火烤:伊的頭殼連跤腿,佮伊的內臟。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "נא",
+      "gloss": "生凍"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "嘛毋通煮"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "煮熟"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水內"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若無"
+    },
+    {
+      "surface": "אם",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "烤"
+    },
+    {
+      "surface": "אש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭殼"
+    },
+    {
+      "surface": "על",
+      "gloss": "連"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "跤腿"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "伊的內臟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:22.125565652Z",
+  "model": "glm-5.3"
+}

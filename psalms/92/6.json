@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "雅威啊,你的作為偌大!你的心思真深。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "偌(啥物)"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "偌大"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的作為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "真深"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "你的心思"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:54.725456417Z",
+  "model": "glm-5.3"
+}

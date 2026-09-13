@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "為著你的名,雅威啊,求你赦免我的過犯,因為伊是真大。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "求你赦免"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "我的過犯"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真大"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:37.422784522Z",
+  "model": "glm-5.3"
+}

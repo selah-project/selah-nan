@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "因為𪜶親像草緊緊就予人割掉,閣親像青嫩的草仔會枯焦。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "親像草"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "緊緊"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "予人割掉"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "閣親像"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "青嫩的草仔"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "枯焦"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:55.460637148Z",
+  "model": "glm-5.3"
+}

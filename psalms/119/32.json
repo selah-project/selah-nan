@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "你的誡命的路我欲走,因為你互我的心開闊。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "你的誡命"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "我欲走"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "你互……開闊"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:14.829656979Z",
+  "model": "glm-5.3"
+}

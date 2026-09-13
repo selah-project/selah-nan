@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "對敵完矣,荒廢到永遠;你拔除城市群,連𪜶的記念佮𪜶本身攏滅無矣。",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "完矣"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "荒廢"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "佮城市群"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "你拔除"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅無矣"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "𪜶的記念"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶本身"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:17.378389756Z",
+  "model": "glm-5.3"
+}

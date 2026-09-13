@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 13:23",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "嘛佇彼霎日子,我看著⟨את⟩猶大人𪜶已經娶亞實突(亞實突就是阿實多的慣用形)的查某人、亞捫的查某人、摩押的查某人。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼霎"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大人"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "𪜶已經娶"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "אשדודיות",
+      "gloss": "亞實突的"
+    },
+    {
+      "surface": "עמוניות",
+      "gloss": "亞捫的"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "摩押的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:17.974998909Z",
+  "model": "glm-5.3"
+}

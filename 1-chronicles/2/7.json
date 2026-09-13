@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佮迦米的囝:亞卡,伊擾亂以色列,因為伊佇永獻的物(חרם)背信。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "佮…的囝"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "迦米"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "亞卡"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "擾亂"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為伊"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "背信"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "佇永獻的物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:02.808305096Z",
+  "model": "glm-5.3"
+}

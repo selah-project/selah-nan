@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 131,
+  "translation": "以色列啊,著向雅威仰望,對此時直到永遠。",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "著…仰望"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "對此時"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:48.431088917Z",
+  "model": "glm-5.3"
+}

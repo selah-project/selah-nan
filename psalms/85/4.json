@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "你收起你一切的怒氣;你對你烈怒的燒退轉。",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "你收起"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "你的怒氣"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "你退轉"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "…的燒"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的烈怒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:07.486866427Z",
+  "model": "glm-5.3"
+}

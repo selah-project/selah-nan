@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "大衛就匿佇田裡。新月〈到矣〉,王坐佇食物〈邊〉欲食。",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "就匿"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "到矣"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "新月"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "欲食"
+    }
+  ],
+  "timestamp": "2026-09-12T06:26:57.683894571Z",
+  "model": "glm-5.3"
+}

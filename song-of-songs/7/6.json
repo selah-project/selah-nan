@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "你的頭殼頂佇你頂面親像迦密山,你的頭鬃親像紫色的布;王佇髮鬘內被縛牢。",
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "你的頭殼"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "佇你頂面"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "親像迦密山"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "你的頭鬃"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "(你的頭)"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "親像紫色"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "被縛牢"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "佇髮鬘內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:29.923767642Z",
+  "model": "glm-5.3"
+}

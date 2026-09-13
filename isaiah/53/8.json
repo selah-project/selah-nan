@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "對受掠佮對審判,伊被提走;閣⟨את⟩伊的後代,啥人會講論?因為伊對活人的土地被剪除——因為阮百姓的悖逆,打擊臨到𪜶。",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "對受掠"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "佮對審判"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "被提走"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的後代"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "伊的後代"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "會講論"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "被剪除"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…的土地"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "因為…的悖逆"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "阮百姓"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "打擊"
+    },
+    {
+      "surface": "למו",
+      "gloss": "臨到𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:27.312920492Z",
+  "model": "glm-5.3"
+}

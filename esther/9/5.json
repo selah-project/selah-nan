@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "猶大人用刀劍拍擊𪜶一切的對敵,行殺害佮滅無,照𪜶的意思對付恨𪜶的人。",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "拍擊"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "𪜶的對敵"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "佮殺害"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "佮滅無"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "行"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "對付恨𪜶的人"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "照𪜶的意思"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:28.223174951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "坐佇天頂的欲笑,阿多奈欲嘲弄𪜶。",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天頂"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "欲笑"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "欲嘲弄"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:18.232929487Z",
+  "model": "glm-5.3"
+}

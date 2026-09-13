@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "因為雅威至高,會使敬畏;伊是管轄歸个大地的大王。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "會使敬畏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "על",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸个"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:09.190292358Z",
+  "model": "glm-5.3"
+}

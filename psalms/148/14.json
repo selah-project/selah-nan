@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "伊已經給伊的子民舉起角,做伊一切忠信者的謳咊,就是以色列的子兒,親近伊的子民。謳咊雅!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "伊已經舉起"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "角"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "給伊的子民"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "謳咊"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "做…一切"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "伊的忠信者"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עם",
+      "gloss": "子民"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "親近伊"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "謳咊"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:24.475006653Z",
+  "model": "glm-5.3"
+}

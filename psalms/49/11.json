@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "因為伊看見智者也會死,戇的佮野蠻的一同滅無,留𪜶的財產予別人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "伊看見"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智者"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "會死"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "一同"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "戇的"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "佮野蠻的"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "留"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "予別人"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "𪜶的財產"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.606808910Z",
+  "model": "glm-5.3"
+}

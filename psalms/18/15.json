@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊射出箭,四散𪜶;多多閃電,擾亂𪜶。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "伊射出"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "箭"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "四散𪜶"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "佮閃電"
+    },
+    {
+      "surface": "רב",
+      "gloss": "多多"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "擾亂𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:40.523261445Z",
+  "model": "glm-5.3"
+}

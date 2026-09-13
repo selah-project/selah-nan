@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊就做出勇力,拍擊⟨את⟩亞瑪力,救出⟨את⟩以色列脫離搶奪伊的人的手。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就做出"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇力"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "就拍擊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "就救出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "搶奪伊的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:04.138753187Z",
+  "model": "glm-5.3"
+}

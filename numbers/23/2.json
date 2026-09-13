@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "巴勒就照巴蘭所講的去做;巴勒佮巴蘭佇逐座祭壇頂獻一隻牛公佮一隻公羊。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就做"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "巴勒"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照……所講的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "獻"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "巴勒"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "佮巴蘭"
+    },
+    {
+      "surface": "פר",
+      "gloss": "牛公"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "佮公羊"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "佇祭壇頂"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:11.148652547Z",
+  "model": "glm-5.3"
+}

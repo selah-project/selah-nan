@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "有人共掃羅講,講大衛到基伊拉。掃羅講:「以羅欣共伊認出來交⟨את⟩伊佇我的手裡,因為伊關起來,入去一个有門有閂的城。」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人共…講"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "בא",
+      "gloss": "到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "認出來交"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(大衛)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "佇我的手裡"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "關起來"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "一个城"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "有門"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "有閂"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:14.688816923Z",
+  "model": "glm-5.3"
+}

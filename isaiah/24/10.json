@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "混沌⟨的⟩城受拍破矣;逐間厝攏關起來,無人通入去。",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "受拍破"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "城"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "混沌"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "關起來"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "通入去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:42.768355787Z",
+  "model": "glm-5.3"
+}

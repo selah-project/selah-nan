@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊佇米茲拉因(埃及)設伊的神蹟,佇瑣安的田野設伊的奇事",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "שם",
+      "gloss": "設"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇米茲拉因"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "伊的神蹟"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "佮伊的奇事"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇…的田野"
+    },
+    {
+      "surface": "צען",
+      "gloss": "瑣安"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:55.455101301Z",
+  "model": "glm-5.3"
+}

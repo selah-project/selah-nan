@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "我記得古早的日子;我佇你一切的作為內默想;佇你雙手的工作,我沉思。",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "我記得"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "古早"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "我默想"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "你的作為"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "佇……的工作"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你的雙手"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "我沉思"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:13.951868914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "雅威啊,替你所救贖个百姓以色列遮掩(贖罪);毋通將無罪个血留佇你百姓以色列个中央;按呢這个血就為𪜶得著遮掩矣。",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "遮掩(贖罪)"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "替你个百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "救贖"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "將…留"
+    },
+    {
+      "surface": "דם",
+      "gloss": "个血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無罪个"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…个中央"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你个百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "就得著遮掩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為𪜶"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "這个血"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:17.828481672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "用你的財物敬重⟨את⟩雅威,嘛用你一切的收成上早熟的獻予伊。",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "敬重"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "用你的財物"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "嘛用……上早熟的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "你的收成"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:33.459754149Z",
+  "model": "glm-5.3"
+}

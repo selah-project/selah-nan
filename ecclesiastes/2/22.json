@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為人佇伊一切的勞碌,佮伊心內的勞慮,佇日頭下咧勞碌,伊會得著啥物?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "得著"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "對人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "伊的勞碌"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "佮伊心內的"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……之下"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:25.699337770Z",
+  "model": "glm-5.3"
+}

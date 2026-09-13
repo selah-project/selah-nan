@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為活人知影𪜶會死,若是死人啥物攏毋知,𪜶嘛無閣有報酬,因為𪜶的紀念已經予人袂記矣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "知影"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "𪜶會死"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "若是死人"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "攏毋"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "知"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "報酬"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "予人袂記"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "紀念"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:18.608946507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "沙拉芬徛佇伊頂面,逐个有六扇翼:用兩扇掩伊的面,用兩扇掩伊的腳,用兩扇飛。",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "沙拉芬"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "徛"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "對頂面"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "扇翼"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "扇翼"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "用兩扇"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "掩"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "閣用兩扇"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "掩"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的腳"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "閣用兩扇"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "飛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:38.952377971Z",
+  "model": "glm-5.3"
+}

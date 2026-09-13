@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "恁的國⟨是⟩萬世的國,恁的權柄佇逐個世代佮世代。",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "恁的國"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "世"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "佮恁的權柄"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐個"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "佮世代"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:01.668248234Z",
+  "model": "glm-5.3"
+}

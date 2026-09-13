@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "互𪜶的罪惡疊佇罪惡頂面,莫得互𪜶入去你的公義。",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "互…疊"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪惡"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "𪜶的罪惡"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮莫得"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "你的公義"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:06.008627532Z",
+  "model": "glm-5.3"
+}

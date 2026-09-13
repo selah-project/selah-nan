@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "你互必死的人倒去,到變做碎粉;閣你講:「人的囝仔,倒轉來!」",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "你互…倒去"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "必死的人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "碎粉"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "閣你講"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:54.342704696Z",
+  "model": "glm-5.3"
+}

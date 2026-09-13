@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "疼雅威的人啊,著怨恨歹;伊保守伊敬虔人的性命,對歹人的手救𪜶出來。",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "疼…的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "著怨恨"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "性命"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "伊敬虔的人"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "救𪜶出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:30.317173850Z",
+  "model": "glm-5.3"
+}

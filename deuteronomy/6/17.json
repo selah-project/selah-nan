@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "恁著細膩遵守⟨את⟩雅威──恁的以羅欣──的誡命,閣伊的見證佮伊的律例,就是伊所命令恁的。",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "著細膩"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誡命"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "閣伊的見證"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "佮伊的律例"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "命令恁的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:37.482897267Z",
+  "model": "glm-5.3"
+}

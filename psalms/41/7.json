@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "若有人來看我,伊講白賊;伊的心給家己囤積歹代;伊行到外口,就到處去講。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בא",
+      "gloss": "有人來"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看我"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "囤積"
+    },
+    {
+      "surface": "און",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給家己"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "伊行到"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "外口"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "就到處去講"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:59.351930870Z",
+  "model": "glm-5.3"
+}

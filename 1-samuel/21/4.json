@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "「這馬,你的手下有啥物?五個餅,提到我手裡,抑是會當揣著的。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "提予"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "到我手裡"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "會當揣著的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:35.717195602Z",
+  "model": "glm-5.3"
+}

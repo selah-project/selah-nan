@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "因為以羅欣欲照⟨את⟩一切的所行帶入審判,連一切隱密的代誌,無論是好、抑是歹。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的所行"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "所行"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "欲帶入"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "入審判"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "隱密的代誌"
+    },
+    {
+      "surface": "אם",
+      "gloss": "無論"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:37.022522373Z",
+  "model": "glm-5.3"
+}

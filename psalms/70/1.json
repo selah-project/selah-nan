@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 70,
+  "translation": "互指揮者的,大衛的,欲互人記念的。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者的"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "欲互人記念的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:06.865197874Z",
+  "model": "glm-5.3"
+}

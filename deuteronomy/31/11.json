@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "當以色列眾人來朝見雅威——你个以羅欣——个面 ⟨את⟩，佇伊所揀个所在，你就愛對以色列眾人面前念這个律法 ⟨את⟩，佇𪜶个耳內。",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "當…來个時"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "來朝見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威…个面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…个面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你个以羅欣"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇…个所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "伊所揀"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "你就愛念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个律法"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "佇𪜶个耳內"
+    }
+  ],
+  "timestamp": "2026-09-12T06:25:05.467597006Z",
+  "model": "glm-5.3"
+}

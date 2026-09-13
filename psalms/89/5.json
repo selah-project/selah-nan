@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "到永遠我欲堅固你的後裔,閣欲為著一代閣一代建立起你的寶座。細拉。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "我欲堅固"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的後裔"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "閣欲建立起"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "為著一代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "你的寶座"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:25.058515425Z",
+  "model": "glm-5.3"
+}

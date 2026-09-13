@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "王就講:「亞希米勒啊,你一定愛死,你佮你阿爸的全家。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "一定愛死"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "亞希米勒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你阿爸的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:32.387959164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "義人的紀念歸佇祝福,歹人的名會爛去。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "歸佇祝福"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "會爛去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:18.635507330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 11:32",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "獨獨彼个一支派欲歸伊,為著我的奴僕大衛,嘛為著耶路撒冷,就是我對以色列眾支派內底所揀彼个城。",
+  "tokens": [
+    {
+      "surface": "והשבט",
+      "gloss": "獨獨彼个支派"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一支"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲歸"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "嘛為著"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼个城"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我所揀"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對眾"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:41.954393920Z",
+  "model": "glm-5.3"
+}

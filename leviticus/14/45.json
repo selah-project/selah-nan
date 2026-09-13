@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊欲拆毀⟨את⟩彼間厝 —— ⟨את⟩伊的石頭、閣⟨את⟩伊的木料、閣⟨את⟩厝裡一切的土粉 —— 閣伊欲擔出去城外,到一个無清氣的所在。",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "欲拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼間厝"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的石頭"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "伊的石頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的木料"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "伊的木料"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土粉"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "閣擔出去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外口"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "一个所在"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:12.861046812Z",
+  "model": "glm-5.3"
+}

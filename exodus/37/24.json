@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "一𪜶用純金的基卡(重量單位,一他連得)做伊,⟨את⟩燈檯,嘛做⟨את⟩伊所有的器具。",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "一𪜶用一基卡(金的重)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(燈檯)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊所有的器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "器具"
+    }
+  ],
+  "timestamp": "2026-09-13T04:57:10.155030244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 114,
+  "translation": "佇阿多奈面前,地啊,你著震搖;佇雅各的以羅亞面前!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "你著震搖"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地啊"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "以羅亞"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.905724553Z",
+  "model": "glm-5.3"
+}

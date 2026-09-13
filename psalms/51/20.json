@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "照你的善意,做好代予錫安⟨את⟩;你起造耶路撒冷的城牆。",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "做好代"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "照你的善意"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "你會起造"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:51.008154360Z",
+  "model": "glm-5.3"
+}

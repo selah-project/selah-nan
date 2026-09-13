@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣⟨את⟩歸間殿伊用金包,到全部的殿齊備;連彼座屬內殿的祭壇,伊嘛用金包。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "歸間殿"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸間"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "包"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "用金"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "תם",
+      "gloss": "齊備"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "連全部"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "內殿"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "包"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "用金"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:03.462191786Z",
+  "model": "glm-5.3"
+}

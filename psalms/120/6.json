@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 120,
+  "translation": "傷久啊,我的性命徛居佮彼个怨恨和平的人。",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "傷久"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "徛居"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "和平"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:27.163763519Z",
+  "model": "glm-5.3"
+}

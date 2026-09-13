@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "著感謝雅威用琴;用十絃的吶吶琴,著給伊彈唱。",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "著感謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "用琴"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "用吶吶琴"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "十絃"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "著給伊彈唱"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:24.323284897Z",
+  "model": "glm-5.3"
+}

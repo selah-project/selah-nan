@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "亞希雅掠佇伊身軀頂彼領新的衫,就共伊擘做十二片。",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "掠"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "亞希雅"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "彼領衫"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "新的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身軀頂"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "共伊擘"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "片"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:41.953984649Z",
+  "model": "glm-5.3"
+}

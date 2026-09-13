@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "這个是啥人,親像耶澳(尼羅河)彼樣漲起來,伊的水親像諸條河彼樣攪擾?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "親像耶澳(尼羅河)"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "漲起來"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "親像諸條河"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "攪擾"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "伊的水"
+    }
+  ],
+  "timestamp": "2026-09-12T04:03:08.978548678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "日時頭日頭袂擊著你,暗暝月娘嘛袂。",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "日時頭"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "擊著你"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "月娘嘛"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "暗暝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:39.121437096Z",
+  "model": "glm-5.3"
+}

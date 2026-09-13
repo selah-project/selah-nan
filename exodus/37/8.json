@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "一個基路伯佇這爿个頭,一個基路伯佇遐爿个頭;伊對贖罪蓋做⟨את⟩遮个基路伯,佇伊个兩頭。",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "一個基路伯"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "佇……个頭"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "這爿"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "閣一個基路伯"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "佇……个頭"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "遐爿"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "个贖罪蓋"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮个基路伯"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "遮个基路伯"
+    },
+    {
+      "surface": "משני",
+      "gloss": "佇兩(个)"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "伊个頭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:42.086742447Z",
+  "model": "glm-5.3"
+}

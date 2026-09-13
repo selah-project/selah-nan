@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 27:31",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是有人欲對伊的十分之一贖回什物,就著加伊的五分之一佇頂面。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "贖回"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "欲贖回"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "ממעשרו",
+      "gloss": "對伊的十分之一"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "伊的五分之一"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "著加"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:30.180618350Z",
+  "model": "glm-5.3"
+}

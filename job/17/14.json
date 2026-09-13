@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我對腐朽講:「你是我阿爸」;對蟲講:「你是我阿母佮我阿姊」。",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "對腐朽"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我阿爸"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "我阿母"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "佮我阿姊"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "對蟲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:25:04.748615304Z",
+  "model": "glm-5.3"
+}

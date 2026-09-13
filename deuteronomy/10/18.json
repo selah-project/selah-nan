@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊替孤兒佮寡婦行公道,疼寄腳的,欲予伊麵包佮衫。",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "佮寡婦"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄腳的"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "欲予"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "麵包"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "佮衫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:39.104568529Z",
+  "model": "glm-5.3"
+}

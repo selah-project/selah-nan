@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "我若佇我的心內看重邪惡,阿多奈就袂聽。",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "邪惡"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看重"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "佇我的心內"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:29.439383751Z",
+  "model": "glm-5.3"
+}

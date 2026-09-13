@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣今,看啊,我知你的確欲做王掌權,以色列的國欲徛起佇你的手內。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "閣今"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "的確"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "掌權"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "欲徛起"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手內"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "國"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:08.417415136Z",
+  "model": "glm-5.3"
+}

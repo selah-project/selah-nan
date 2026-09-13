@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我的對敵攏愛見笑、大大驚惶,𪜶倒轉去,瞬目間就見笑。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "愛見笑"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "瞬目間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:19.400690678Z",
+  "model": "glm-5.3"
+}

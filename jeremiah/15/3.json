@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 15:3",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "我欲降四種懲罰佇𪜶身上,這是雅威的曉諭:⟨את⟩刀劍欲刣死,⟨佮⟩⟨את⟩狗仔欲拖行,⟨佮⟩⟨את⟩天頂的鳥隻、⟨佮⟩⟨את⟩地上的野獸,欲吞食、欲毀滅。",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "我欲降懲罰"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶身上"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "種類"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "曉諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "刀劍"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "欲刣死"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨佮⟩⟨את⟩",
+      "marks": "狗仔"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "狗仔"
+    },
+    {
+      "surface": "לסחב",
+      "gloss": "欲拖行"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨佮⟩⟨את⟩",
+      "marks": "天頂的鳥隻"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥隻"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨佮⟩⟨את⟩",
+      "marks": "地上的野獸"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "野獸"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上的"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "欲吞食"
+    },
+    {
+      "surface": "ולהשחית",
+      "gloss": "佮欲毀滅"
+    }
+  ],
+  "timestamp": "2026-09-13T06:33:17.434301153Z",
+  "model": "glm-5.3"
+}

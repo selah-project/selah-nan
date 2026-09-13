@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊就提⟨את⟩全部佇內臟頂面的油、佮⟨את⟩肝的尾葉、佮⟨את⟩兩粒腰子、佮⟨את⟩𪜶的油;摩西就共薰佇壇頂。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "伊就提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部……的油"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "內臟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "肝的尾葉"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "尾葉"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "兩粒腰子"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩粒"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腰子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的油"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "𪜶的油"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "就薰"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇壇頂"
+    }
+  ],
+  "timestamp": "2026-09-13T04:41:17.041747791Z",
+  "model": "glm-5.3"
+}

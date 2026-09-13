@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "人子啊,你替家己寫⟨את⟩這日的名,就是⟨את⟩這個日子的本日:巴比倫的王佇這個日子倚向耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "人子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "לך",
+      "gloss": "替家己"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這日的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個日子的本日"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "本日"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這個日子"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "倚向"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "佇本日"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這個日子"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:23.707534101Z",
+  "model": "glm-5.3"
+}

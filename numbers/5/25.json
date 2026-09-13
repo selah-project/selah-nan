@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "祭司欲對彼個查某人的手裡提⟨את⟩嫉妒的素祭,閣佇雅威的面前搖 ⟨את⟩彼個素祭,閣將⟨את⟩伊獻倚近祭壇。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "閣提"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼個查某人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "嫉妒的素祭"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "嫉妒的"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "閣搖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個素祭"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "彼個素祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…的面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "閣獻倚近"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(素祭)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:35.221190355Z",
+  "model": "glm-5.3"
+}

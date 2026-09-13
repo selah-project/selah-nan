@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣你欲佇彼日講:「我欲感謝你,雅威,因為你曾向我受氣;你的怒氣倒轉去,閣你安慰我。」",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "閣你欲講"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "我欲感謝你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "你曾受氣"
+    },
+    {
+      "surface": "בי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "伊倒轉去"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的怒氣"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "閣你安慰我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:27.617326265Z",
+  "model": "glm-5.3"
+}

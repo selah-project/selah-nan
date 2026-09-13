@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "佇患難中你叫,我就救你;我佇雷隱密處應答你;我佇米利巴的水邊試驗你。細拉。」",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "你叫"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "我就救你"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "我應答你"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "佇隱密處"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "雷"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "我試驗你"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "米利巴"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:22.103075870Z",
+  "model": "glm-5.3"
+}

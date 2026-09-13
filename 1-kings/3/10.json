@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "這个話佇阿多奈的目睭前是好个,因為所羅門求⟨את⟩這个話。",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "是好个"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這个話"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇……的目睭前"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "求"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這个話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:14.718179722Z",
+  "model": "glm-5.3"
+}

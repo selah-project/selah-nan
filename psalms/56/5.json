@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "佇以羅欣我欲讚美伊的話,佇以羅欣我倚靠;我毋驚,肉體會當對我做啥物?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "佇以羅欣"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "佇以羅欣"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:33.874438995Z",
+  "model": "glm-5.3"
+}

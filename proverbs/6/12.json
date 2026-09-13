@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "無路用的人,是作歹的人,行彎枵的喙。",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "無路用"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "און",
+      "gloss": "作歹"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "彎枵"
+    },
+    {
+      "surface": "פה",
+      "gloss": "喙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:17.862195863Z",
+  "model": "glm-5.3"
+}

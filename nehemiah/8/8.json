@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶佇彼本冊——以羅欣的律法——讀,清楚地解釋,閣予𪜶有理解;𪜶就明白所讀的。",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "讀"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "佇彼本冊"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "……的律法"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "清楚地解釋"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "予……有"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "理解"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "明白"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "所讀的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:38.712780358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "𪜶佇患難中向雅威大聲吼叫，伊對𪜶的苦難救𪜶出來。",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "𪜶大聲吼叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "對𪜶的苦難"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "救𪜶出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:34.854545181Z",
+  "model": "glm-5.3"
+}

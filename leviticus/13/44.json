@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "彼是癩疠的人，伊是無清氣的；祭司著定伊做無清氣，因為伊的病痕佇伊的頭。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "患癩疠"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "定做無清氣"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "著判伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "佇伊的頭"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "伊的病痕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:16.461521283Z",
+  "model": "glm-5.3"
+}

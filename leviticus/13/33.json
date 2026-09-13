@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊著剃頭毛,毋過⟨את⟩瘕癬彼位毋通剃;祭司著將⟨את⟩生瘕癬的人關起來七日,第二擺。",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "著剃頭毛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "瘕癬"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "瘕癬"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "剃"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "關起來"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瘕癬"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "生瘕癬的人"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "第二擺"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:20.942388146Z",
+  "model": "glm-5.3"
+}

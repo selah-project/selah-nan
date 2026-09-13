@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣有四隻大隻的獸對海裡爬起來,一隻佮一隻無相仝。",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "閣有四"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "隻獸"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "大隻的"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "爬起來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "海"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "無相仝"
+    },
+    {
+      "surface": "דא",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "מן",
+      "gloss": "佮"
+    },
+    {
+      "surface": "דא",
+      "gloss": "一隻"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:54.703729726Z",
+  "model": "glm-5.3"
+}

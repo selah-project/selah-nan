@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "精明人的智慧是了解伊的家己路;愚戇人的愚戇是詭詐。",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "精明人的"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "了解"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的家己路"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "愚戇"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚戇人的"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "是詭詐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:42.198145489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "所以我的心歡喜,我的榮光嘛快樂,我的肉體安然徛在。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "嘛快樂"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "我的榮光"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉體"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:17.365665686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣比拉是阿撒的子，示瑪的子，約珥的子；伊徛起佇亞羅伊珥，一直到尼波佮巴阿勒•米溫。",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "閣比拉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "阿撒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "示瑪"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "約珥"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "佇亞羅伊珥"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "尼波"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "佮巴阿勒"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "米溫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:10.340619487Z",
+  "model": "glm-5.3"
+}

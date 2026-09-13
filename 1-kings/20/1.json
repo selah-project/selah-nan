@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "便哈達,亞蘭的王,聚集⟨את⟩伊全部的軍力,三十二个王⟨את⟩伊做伙,閣有馬佮戰車;伊上去,圍困撒馬利亞,佮伊相戰。",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "便……(名的一字)"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊全部的軍力"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部的"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "伊的軍力"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "佮三十"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "个王"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "閣有馬"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "佮戰車"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "伊上去"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "圍困"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佮伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:38.528222875Z",
+  "model": "glm-5.3"
+}

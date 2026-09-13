@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 38:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "因為示阿勒袂當感謝你,死亡袂當讚美你;落坑的人無向望你的誠實。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "感謝你"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "יהללך",
+      "gloss": "讚美你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "向望"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "落……的人"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你的誠實"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:18.773315813Z",
+  "model": "glm-5.3"
+}

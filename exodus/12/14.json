@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "這個日欲做恁的紀念;恁欲守⟨את⟩伊做節期歸雅威,佇恁逐世代 —— 這是永遠的定例,恁欲守伊做節期。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "היום",
+      "gloss": "這個日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁的"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "恁欲守…做節期"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(節期)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節期"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "佇恁逐世代"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "恁欲守伊做節期"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:27.356280756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願伊的囝四界流浪、討食,𪜶嘛愛對𪜶荒廢的所在揣糧食。",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "流浪"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "四界走跳無定"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "討食"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "揣"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "對𪜶荒廢的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:09.427389068Z",
+  "model": "glm-5.3"
+}

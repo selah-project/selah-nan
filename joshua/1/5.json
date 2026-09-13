@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 1:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "無人會當徛佇你面前,你活一世人的日子攏總;親像我佮摩西同在,我欲閣佮你同在;我毋會放掉你,嘛毋會離開你。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋會"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "你活一世人"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我在"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我欲閣在"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ארפך",
+      "gloss": "放掉你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "離開你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:21:33.540004320Z",
+  "model": "glm-5.3"
+}

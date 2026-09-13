@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威欲入去審判,佮伊百姓的長老佮𪜶的首領:恁燒毀了葡萄園,困苦人的搶奪物佇恁的厝內。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "照審判"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "佮𪜶的首領"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "恁燒毀了"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "搶奪物"
+    },
+    {
+      "surface": "העני",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "佇恁的厝內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:15.793371150Z",
+  "model": "glm-5.3"
+}

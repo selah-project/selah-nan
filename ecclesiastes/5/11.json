@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "做工的人的睏,真甜,無論食少抑是食濟;總是富有的人的飽櫳,袂放予伊睏。",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "真甜"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "睏"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "做工的人"
+    },
+    {
+      "surface": "אם",
+      "gloss": "無論"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "食少"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "食濟"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "飽櫳"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "富有的人"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "袂"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "放予"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "睏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:27.774536012Z",
+  "model": "glm-5.3"
+}

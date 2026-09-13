@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "因為雅威看見⟨את⟩以色列的苦楚,真艱苦啊,無受捆牢的,也無放予在的,也無替以色列出力的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的苦楚"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦楚"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "真艱苦"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "也無"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "受捆牢的"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "也無"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "放予在的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也無"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "出力的"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "替以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:27.538650388Z",
+  "model": "glm-5.3"
+}

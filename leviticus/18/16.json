@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你兄弟的某的露體,你毋通揭露;彼是你兄弟的露體。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "露體"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你兄弟的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "揭露"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "露體"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你兄弟的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:28.685609778Z",
+  "model": "glm-5.3"
+}

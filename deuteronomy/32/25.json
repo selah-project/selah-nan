@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "佇外面刀劍會予人喪失囝,佇內房驚惶;少年人也著,少女也著,啉奶的嬰仔佮白頭毛的老人。",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "佇外面"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "會予人喪失囝"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "佮佇內房"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也著"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也著"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "少女"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "啉奶的嬰仔"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "白頭毛(老歲的)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:15.464663910Z",
+  "model": "glm-5.3"
+}

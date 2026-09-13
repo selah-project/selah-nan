@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "因為為著大衛的緣故,雅威伊的以羅欣互伊佇耶路撒冷有一葩燈,通豎起⟨את⟩伊的子佇伊後面,閣建立⟨את⟩耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著…的緣故"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "一葩燈"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "通豎起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的子"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "佇伊後面"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "閣建立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:02.311587005Z",
+  "model": "glm-5.3"
+}

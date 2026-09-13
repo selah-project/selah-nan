@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "敬畏雅威的人著咧講,請𪜶講:因為伊的赫瑟德存到永遠。",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "著咧講"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "敬畏…的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:47.820423102Z",
+  "model": "glm-5.3"
+}

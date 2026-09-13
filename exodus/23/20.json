@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 23:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "看啊，我差一個使者行佇你面前，佇路裡保護你，閣帶你去到我所準備的所在。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "保護你"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路裡"
+    },
+    {
+      "surface": "ולהביאך",
+      "gloss": "閣帶你去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼個所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "הכנתי",
+      "gloss": "我所準備的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:06.489324541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "米茲拉因人追趕,入去𪜶後面——法老所有的馬、伊的戰車佮伊的騎兵——到海的中間。",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "𪜶後面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "伊的戰車"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "佮伊的騎兵"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中間"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:33.291475193Z",
+  "model": "glm-5.3"
+}

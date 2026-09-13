@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 122,
+  "translation": "為著雅威──阮的以羅欣──的家,我欲尋求好處予你。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "我欲尋求"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好處"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:28.599949329Z",
+  "model": "glm-5.3"
+}

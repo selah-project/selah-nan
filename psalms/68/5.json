@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "唱歌予以羅欣,用琴聲讚美伊的名;為彼位騎過曠野的鋪路,伊的名號做雅,佇伊面頭前歡喜。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "唱歌"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "予以羅欣"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "用琴聲讚美"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "鋪路(抬高)"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "予彼位騎"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "過曠野"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "用雅"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:10.835388613Z",
+  "model": "glm-5.3"
+}

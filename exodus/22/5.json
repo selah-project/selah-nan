@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是火走出去,尋著刺草,閣燒去了粟堆、抑是企咧的粟、抑是田園,點火的彼个人愛完全賠償⟨את⟩彼件燒掉的損失。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "走出去"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "閣尋著"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "刺草"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "閣燒去了"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "粟堆"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "企咧的粟"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田園"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "賠償"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "愛賠償"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "點火的彼个人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼件燒掉的損失"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "燒掉的損失"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:43.381847059Z",
+  "model": "glm-5.3"
+}

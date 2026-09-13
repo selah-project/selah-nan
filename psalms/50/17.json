@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "你恨管教,閣共我的話擲佇你的後背。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "閣你"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "恨"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "閣擲掉"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "我的話"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "佇你的後背"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:58.425079216Z",
+  "model": "glm-5.3"
+}

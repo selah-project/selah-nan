@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "就是彼啲佇酒邊拖長的人,彼啲行去尋攙酒的人。",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "彼啲佇酒邊拖長的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "彼啲行去"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "尋"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "攙酒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:03.645927079Z",
+  "model": "glm-5.3"
+}

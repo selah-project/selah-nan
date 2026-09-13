@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "彼个就算做伊的義,代代相傳,一直到永遠。",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "就算做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "義"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "代代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "相傳"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:24.194396699Z",
+  "model": "glm-5.3"
+}

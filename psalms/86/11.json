@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "雅威啊,教示我你的道路;我欲行佇你的真實內。合一我的心,去敬畏你的名。",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "教示我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的道路"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "我欲行"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "佇你的真實內"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "合一"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "去敬畏"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:55.920383442Z",
+  "model": "glm-5.3"
+}

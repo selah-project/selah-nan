@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你的五穀、你的新酒、你的油的頭一份,佮你的羊群頭一擺剪的毛,你欲互伊。",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "頭一份"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "你的五穀"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "你的新酒"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "佮你的油"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "佮頭一份"
+    },
+    {
+      "surface": "גז",
+      "gloss": "剪的毛"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "你的羊群"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "你欲互"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:36.285385047Z",
+  "model": "glm-5.3"
+}

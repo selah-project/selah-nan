@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "我的以羅欣啊,安置𪜶親像輾轆,親像草苴佇風的頭前。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "安置𪜶"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "親像輾轆"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "親像草苴"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…頭前"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:18.591106190Z",
+  "model": "glm-5.3"
+}

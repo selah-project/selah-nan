@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "你疼公義,恨惡歹事;因為按呢,以羅欣——你的以羅欣——用歡喜的油抹你,超過你的同伴。",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "你疼"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "佮你恨惡"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "抹你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "歡喜的"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "超過你的同伴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:27.865326341Z",
+  "model": "glm-5.3"
+}

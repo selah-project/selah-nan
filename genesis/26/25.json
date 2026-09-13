@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 26:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "伊佇遐起一座祭壇,閣奉雅威的名求叫;伊佇遐張伊的帳棚,以撒的奴僕佇遐掘一口井。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "閣起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "閣求叫"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "奉……的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "閣張"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "伊的帳棚"
+    },
+    {
+      "surface": "ויכרו",
+      "gloss": "閣掘"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "的奴僕"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "באר",
+      "gloss": "一口井"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:55.856714620Z",
+  "model": "glm-5.3"
+}

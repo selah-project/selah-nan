@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 87,
+  "translation": "閣唱歌的人親像跳舞的人,「我一切的泉源攏佇你。」",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "閣唱歌的人"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "親像跳舞的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "בך",
+      "gloss": "攏佇你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:59.668373319Z",
+  "model": "glm-5.3"
+}

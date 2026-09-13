@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "呂便,是以色列的頭胎生子。呂便的後生:哈諾——哈諾基宗族;法勒——法勒伊宗族。",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭胎生子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "哈諾"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "哈諾基"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "法勒"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "法勒伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:28.781446595Z",
+  "model": "glm-5.3"
+}

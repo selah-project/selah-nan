@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "我欲對北方講:「交出來!」閣對南方講:「毋通留牢!」帶我的子兒對遠遠來,我的查某子兒對地極來。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "我欲講"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "對北方"
+    },
+    {
+      "surface": "תני",
+      "gloss": "交出來"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "閣對南方"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "留牢"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "帶……來"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的子兒"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "我的查某子兒"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "對……的極尾"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:24.505766050Z",
+  "model": "glm-5.3"
+}

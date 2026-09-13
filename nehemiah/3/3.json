@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "哈西拿的眾子起造 ⟨את⟩ 魚門,𪜶下伊的樑桁,嘛𫝏伊的門扇、伊的閂、佮伊的橫閂徛在。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "魚門"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "魚"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "哈西拿"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "下伊的樑桁"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "嘛𫝏……徛在"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "伊的門扇"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "伊的閂"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "佮伊的橫閂"
+    }
+  ],
+  "timestamp": "2026-09-12T05:54:55.584077360Z",
+  "model": "glm-5.3"
+}

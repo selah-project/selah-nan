@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "今仔日恁欲出去，佇亞比月。",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "出去"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "亞比"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:10.581536862Z",
+  "model": "glm-5.3"
+}

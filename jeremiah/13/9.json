@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "按呢雅威講:親像按呢,我欲毀壞⟨את⟩猶大的驕傲,佮⟨את⟩耶路撒冷大的驕傲。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "親像按呢"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "欲毀壞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的驕傲"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "耶路撒冷的驕傲"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:52:09.104494978Z",
+  "model": "glm-5.3"
+}

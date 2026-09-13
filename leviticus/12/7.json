@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 12:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "祭司著獻伊佇雅威面前,替伊贖罪,伊就對伊的血的源頭得著潔淨。這是生男的抑是生女的產婦的律法。",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "著獻伊"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "替伊贖罪"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "伊就得著潔淨"
+    },
+    {
+      "surface": "ממקר",
+      "gloss": "對…的源頭"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "הילדת",
+      "gloss": "產婦"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "生男的"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לנקבה",
+      "gloss": "生女的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:06.177707885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "𪜶的舌頭磨利若蛇,毒蛇的毒佇𪜶的嘴脣下。細拉。",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "磨利"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "𪜶的舌頭"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "若"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "毒"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "毒蛇"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…下"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "𪜶的嘴脣"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:45.727352524Z",
+  "model": "glm-5.3"
+}

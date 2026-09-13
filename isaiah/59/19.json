@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 59:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "對西方,𪜶欲敬畏⟨את⟩雅威的名;對日頭出的所在,欲敬畏⟨את⟩伊的榮光。因為患難欲親像大河沖入來,雅威的風欲共伊趕走。",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "𪜶欲敬畏"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "對西方"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וממזרח",
+      "gloss": "對日頭出的所在"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的榮光"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "沖入來"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "親像大河"
+    },
+    {
+      "surface": "צר",
+      "gloss": "患難"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "נססה",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "בו",
+      "gloss": "共伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:16.553867610Z",
+  "model": "glm-5.3"
+}

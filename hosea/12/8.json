@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "迦南(商人)佇伊的手中有欺騙的戕秤,伊愛欺壓人。",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "迦南(商人)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手中"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "戕秤"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺騙的"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "欺壓人"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:33.158410589Z",
+  "model": "glm-5.3"
+}

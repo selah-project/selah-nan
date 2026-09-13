@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "「對會眾講,講:『你恁對可拉、大坍、亞比蘭的帳棚四箍圍仔起來閃開。』」",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "對…講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "起來閃開"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "對…四箍圍仔"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "…的帳棚"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "大坍"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "亞比蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:47.653912956Z",
+  "model": "glm-5.3"
+}

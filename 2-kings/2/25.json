@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊就對遮去到迦密山,閣對遐倒轉撒馬利亞。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "伊就去"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遮"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "迦密"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "閣對遐"
+    },
+    {
+      "surface": "שב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:26.822006079Z",
+  "model": "glm-5.3"
+}

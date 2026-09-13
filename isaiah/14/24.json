@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "雅威采巴奧特已經咒誓講:「若無,親像我所想的,按呢就已經發生;親像我所計議的,伊欲徛在。」",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "已經咒誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "我所想的"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "就已經發生"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "佮親像"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "我所計議的"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "欲徛在"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:30.802499156Z",
+  "model": "glm-5.3"
+}

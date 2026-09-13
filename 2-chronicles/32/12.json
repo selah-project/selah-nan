@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "彼个希西家豈毋是伊家己拆除⟨את⟩伊的丘壇、佮⟨את⟩伊的祭壇,閣對猶大佮耶路撒冷下令講:「恁著跪拜佇一個祭壇面前,佇伊頂面燒香」?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊家己"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "拆除"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的丘壇"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "伊的丘壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的祭壇"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "伊的祭壇"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "對猶大"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "佮對耶路撒冷"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "恁著跪拜"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "佮佇伊頂面"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "燒香"
+    }
+  ],
+  "timestamp": "2026-09-12T06:19:23.808898338Z",
+  "model": "glm-5.3"
+}

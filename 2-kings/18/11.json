@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "亞述王擄走⟨את⟩以色列人到亞述去,安置𪜶佇哈臘,佇哈博、歌散的河邊,佮瑪代的諸城。",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "擄走"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "到亞述去"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "安置"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "佇哈臘"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "佇哈博"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "河"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "歌散"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "佮諸城"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "瑪代"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:28.137413561Z",
+  "model": "glm-5.3"
+}

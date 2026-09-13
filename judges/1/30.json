@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "西布倫無趕走⟨את⟩基倫的居民,嘛無⟨את⟩拿哈拉的居民;迦南人就徛佇伊中間,做𪜶進貢服勞的。",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "西布倫"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基倫的居民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "基倫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "拿哈拉的居民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "拿哈拉"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就徛佇"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "伊中間"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "做"
+    },
+    {
+      "surface": "למס",
+      "gloss": "進貢服勞的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:52.653920193Z",
+  "model": "glm-5.3"
+}

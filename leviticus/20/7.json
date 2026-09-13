@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "恁著家己成聖,恁著做聖的,因為我是雅威恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "恁著家己成聖"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "恁著做"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:30.088175798Z",
+  "model": "glm-5.3"
+}

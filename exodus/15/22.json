@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "摩西就帶⟨את⟩以色列對蘆葦海啟程,𪜶出去到書珥曠野,佇曠野行三工,揣無水。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "就帶…啟程"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "𪜶出去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "שור",
+      "gloss": "書珥"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "𪜶行"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "工"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:18.481540342Z",
+  "model": "glm-5.3"
+}

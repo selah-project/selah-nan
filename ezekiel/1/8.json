@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣𪜶的四爿邊、佇𪜶的翎翼下底有人形的跤手;𪜶四個攏有面佮翎翼。",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "閣…跤手"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人形"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "𪜶的翎翼"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "四"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "𪜶的爿邊"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "閣𪜶的面"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "佮𪜶的翎翼"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "𪜶四個攏有"
+    }
+  ],
+  "timestamp": "2026-09-12T06:30:12.781322031Z",
+  "model": "glm-5.3"
+}

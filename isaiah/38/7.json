@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "這个記號雅威欲行做伊所講的⟨את⟩這件事,對⟨את⟩雅威來的,是予你的。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你的"
+    },
+    {
+      "surface": "האות",
+      "gloss": "記號"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "欲行做"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這件事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這件事"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:25.630215167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "王用⟨את⟩彼个阿古敏木做階梯,對雅威的殿,佮對王的宮殿,閣做琴佮瑟予唱歌的人;以前佇猶大地未曾看著親像彼款的。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个阿古敏木"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "彼阿古敏"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "階梯"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "對…的殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "閣對…的殿"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "閣琴"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "閣瑟"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "予唱歌的人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "看著"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "親像彼款"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "以前"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:04.819593867Z",
+  "model": "glm-5.3"
+}

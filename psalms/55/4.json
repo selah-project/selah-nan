@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "對敵人的聲,對歹人的壓迫,因為𪜶搖孽落來佇我身上,佇受氣中𪜶怨恨我。",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵人"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "𪜶搖落來"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我身上"
+    },
+    {
+      "surface": "און",
+      "gloss": "孽"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "佇受氣中"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "𪜶怨恨我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:26.389709115Z",
+  "model": "glm-5.3"
+}

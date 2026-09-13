@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "你豈毋是親像牛乳共我倒出來，閣親像乳酪共我凝結起來？",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "親像牛乳"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "共我倒出來"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "閣親像乳酪"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "共我凝結起來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:25.532103235Z",
+  "model": "glm-5.3"
+}

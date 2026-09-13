@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "若是恁毋聽我,也毋行 ⟨את⟩ 這一切个誡命,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "恁聽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切个誡命"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:45.464884235Z",
+  "model": "glm-5.3"
+}

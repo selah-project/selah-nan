@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "伊毋會到永遠咧相爭,嘛毋會到永久留⟨受氣⟩。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永久"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "留受氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:39.807035961Z",
+  "model": "glm-5.3"
+}

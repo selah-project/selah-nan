@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "雅威啊,你曾恩待你的地;你倒轉雅各的舒俘。",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "你曾恩待"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "你的地"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "你倒轉"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "…的舒俘"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:07.486593594Z",
+  "model": "glm-5.3"
+}

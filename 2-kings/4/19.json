@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊對伊的老爸講:「我的頭殼、我的頭殼!」伊就對彼个少年家講:「將伊抱去予伊的阿母。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭殼"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭殼"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼个少年家"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "將伊抱去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "予"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的阿母"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:40.457577507Z",
+  "model": "glm-5.3"
+}

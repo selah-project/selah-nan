@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "親像鶴仔佮燕仔,我按呢啾啾叫;親像鴿仔,我哀哼;我的目睭向懸處看,攏看甲無力。阿多奈啊,患難壓著我,做我的保人!",
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "親像鶴仔"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "佮燕仔"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "我啾啾叫"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "我哀哼"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "親像鴿仔"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "攏看甲無力"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "向懸處"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "患難壓著"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "做我的保人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:58.368782543Z",
+  "model": "glm-5.3"
+}

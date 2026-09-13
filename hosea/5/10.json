@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "猶大的諸個首領親像搬移地界的人;我欲佇𪜶身上倒出我的怒氣,親像水。",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "已經變做"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "諸個首領"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "親像搬移…的人"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "地界"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶身上"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "我欲倒出"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "我的怒氣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:36.488927776Z",
+  "model": "glm-5.3"
+}

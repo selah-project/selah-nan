@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 10:11",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "彼个困厄欲過海,閣欲拍擊海裡的湧;尼羅河一切的深淵攏欲受見誚。亞述的驕傲欲降卑,米茲拉因的杖嘛欲離開。",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "欲過"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "彼个困厄"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "閣欲拍擊"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海裡"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "的湧"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "欲受見誚"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מצולות",
+      "gloss": "的深淵"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "尼羅河"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "欲降卑"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "的驕傲"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "的杖"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "欲離開"
+    }
+  ],
+  "timestamp": "2026-09-12T04:40:54.749586995Z",
+  "model": "glm-5.3"
+}

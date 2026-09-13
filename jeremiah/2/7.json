@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我導⟨את⟩恁入肥沃之地(迦密),通食伊的果子佮伊的美好;恁入去,就坉污我—⟨את⟩我的地,我的產業恁交互伊變做通嫌的物。",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "我導…入"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "之地"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "肥沃(迦密)"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "佮伊的美好"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "恁入去"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "恁坉污"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的地"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "我的地"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "我的產業"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "恁交互"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "做通嫌的物"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:29.844351860Z",
+  "model": "glm-5.3"
+}

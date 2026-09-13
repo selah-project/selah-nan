@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 25:22",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "至於彼陣留佇猶大地的百姓,就是巴比倫王尼布甲尼撒所留落的,伊就設立⟨את⟩基大利──亞希甘的後生、沙番的後生──來管𪜶。",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "佮彼百姓"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "所留落的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "所留"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "就設立"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "來管𪜶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基大利"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "基大利"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "亞希甘"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "沙番"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:44.915702111Z",
+  "model": "glm-5.3"
+}

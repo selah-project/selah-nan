@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "歡喜的心予面變好;若是佇心的憂愁,神魂受擊挫。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "予…變好"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "若是佇憂愁"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "神魂"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "受擊挫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:44.759543546Z",
+  "model": "glm-5.3"
+}

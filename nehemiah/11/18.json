@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "歸佇聖城內的利未人,攏總二百八十四个。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "閣四"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:48.847264408Z",
+  "model": "glm-5.3"
+}

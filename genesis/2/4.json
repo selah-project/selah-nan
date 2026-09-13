@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "這是諸天佮地受造的家譜,佇雅威以羅欣造地佮諸天的日子。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "家譜"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "佮地"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "受造的時"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……日子"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "造"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "佮諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:48.949418137Z",
+  "model": "glm-5.3"
+}

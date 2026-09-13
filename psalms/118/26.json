@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "佇雅威的名來彼个，伊是蒙祝福的；阮對雅威的家祝福恁。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "蒙祝福的"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "來彼个"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "佇…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "阮祝福恁"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:02.077022382Z",
+  "model": "glm-5.3"
+}

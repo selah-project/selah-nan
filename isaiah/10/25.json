@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "「因為閣一下子仔,極短,受氣就欲息,我的烈怒欲對𪜶的毀滅。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "一下子仔"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "極短"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "就欲息"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "我的烈怒"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "𪜶的毀滅"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:09.383471412Z",
+  "model": "glm-5.3"
+}

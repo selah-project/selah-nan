@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "測量的繩索落予我,佇媠肖个所在;閣我承接的業嘛光媠,佇我身上。",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "測量的繩索"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "落"
+    },
+    {
+      "surface": "לי",
+      "gloss": "予我"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "佇媠肖个所在"
+    },
+    {
+      "surface": "אף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "承接的業"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "光媠"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我身上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:57.097697232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "以利沙死,𪜶埋葬伊。摩押的掠奪隊入來境內,佇入年的時。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "𪜶埋葬伊"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "…的掠奪隊"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "入來"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "境內"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:54.299664536Z",
+  "model": "glm-5.3"
+}

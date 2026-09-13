@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "雅威,以羅欣·采巴奧特(萬軍)啊,求你互阮倒轉;互你的面照光,阮就會得著救。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "求你互阮倒轉"
+    },
+    {
+      "surface": "האר",
+      "gloss": "互…照光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "阮就會得著救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:37.116847481Z",
+  "model": "glm-5.3"
+}

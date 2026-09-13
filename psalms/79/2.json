@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "𪜶用⟨את⟩你奴僕的死屍做天裡飛鳥的食物,將你敬虔人的肉做土地的野獸的物。",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "𪜶用……做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你奴僕的死屍"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "死屍"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你奴僕的"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "飛鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天裡的"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "你敬虔人的"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "野獸"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:39.828091573Z",
+  "model": "glm-5.3"
+}

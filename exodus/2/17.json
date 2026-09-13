@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "顧羊的人來趕𪜶,摩西起來救𪜶,閣飼 ⟨את⟩ 𪜶的羊群。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "來"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "顧羊的人"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "趕𪜶"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "救𪜶"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "飼(飲)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的羊群"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "𪜶的羊群"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:47.891998544Z",
+  "model": "glm-5.3"
+}

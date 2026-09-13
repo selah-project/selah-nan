@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "我的羞辱逐日攏佇我面前,我面皮的恥辱掩崁我。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "逐…攏"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "我的羞辱"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "佮恥辱"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面皮"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "掩崁我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:25.700792748Z",
+  "model": "glm-5.3"
+}

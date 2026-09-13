@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "以色列已經毋記得伊的創造者⟨את⟩,閣起造宮殿;猶大嘛加添濟鞏固的城;我欲差火入去伊的城,火欲燒燒𪜶的宮堡。",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "已經毋記得"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的創造者"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "伊的創造者"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "閣起造"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "猶大嘛"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "加添濟"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "鞏固的"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "入去伊的城"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "欲燒燒"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "𪜶的宮堡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:54.885681111Z",
+  "model": "glm-5.3"
+}

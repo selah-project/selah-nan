@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 1:34",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣撒督祭司佮拿單先知佇遐膏⟨את⟩伊做王治理以色列;恁著吹羊角,閣講:「願所羅門王活!」",
+  "tokens": [
+    {
+      "surface": "ומשח",
+      "gloss": "閣…膏"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(所羅門)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "撒督"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "佮拿單"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "閣恁著吹"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "願…活"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:33.426576897Z",
+  "model": "glm-5.3"
+}

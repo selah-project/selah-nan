@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊飼大一隻對伊的幼獅中出來的;彼隻成做幼獅,伊學會掠食,食人。",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "伊飼大"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "對伊的幼獅中"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "היה",
+      "gloss": "成做"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "伊學會"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "掠"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T04:14:01.177729169Z",
+  "model": "glm-5.3"
+}

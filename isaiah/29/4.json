@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你欲卑落來,對土腳講話,對塵埃你的話欲低微;你的聲欲親像對土腳發出的鬼仔,對塵埃你的話欲呢喃。",
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "你欲卑落來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土腳"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "講話"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "對塵埃"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "低微"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "欲親像"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "鬼仔"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土腳"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "你的聲"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "對塵埃"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "呢喃"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:22.881002736Z",
+  "model": "glm-5.3"
+}

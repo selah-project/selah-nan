@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣佇猶大的山地起造城,佇樹林內起造堡壘佮瞭望塔。",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "閣城"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "閣佇樹林"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "佮瞭望塔"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:19.868633325Z",
+  "model": "glm-5.3"
+}

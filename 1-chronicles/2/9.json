@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "赫斯龍彼擺生落來的囝仔就是:⟨את⟩耶拉黑梅珥、⟨את⟩拉姆、閣⟨את⟩克路基。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "閣…的囝仔"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "赫斯龍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生落來"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶拉黑梅珥"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "耶拉黑梅珥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "拉姆"
+    },
+    {
+      "surface": "רם",
+      "gloss": "拉姆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "克路基"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "克路基"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:11.348201720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "六日做工課,若是第七日是安息,是安息歇睏,是歸雅威的聖;凡若佇安息彼个日做工課的,的確愛處死。",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做工課"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "若是佇…日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "安息歇睏"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "歸雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡若"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "做工課的"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息彼个"
+    },
+    {
+      "surface": "מות",
+      "gloss": "的確愛處死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "…處死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:58.355230750Z",
+  "model": "glm-5.3"
+}

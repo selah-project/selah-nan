@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "這些是諸人的名,就是摩西差去窺探⟨את⟩彼地的。摩西共何西阿 — 嫩的子 — 號做約書亞。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "諸人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "窺探"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼地"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "號做"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "何西阿"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "נון",
+      "gloss": "嫩"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:00.015605492Z",
+  "model": "glm-5.3"
+}

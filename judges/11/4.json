@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "過了一寡日子，亞捫人的囝佮以色列交戰。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "過了"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "一寡日子"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "交戰"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:34:23.527303573Z",
+  "model": "glm-5.3"
+}

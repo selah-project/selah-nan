@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "欲用銀仔買散赤人,用一雙草鞋的價數買窮乏人,閣共糞掃的五穀賣出去。",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "欲買"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "用銀仔"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "窮乏人"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "用……的價數"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "草鞋"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "糞掃的物"
+    },
+    {
+      "surface": "בר",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "賣出去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:10.494205489Z",
+  "model": "glm-5.3"
+}

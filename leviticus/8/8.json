@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊就給伊掛上胸牌,閣將烏陵佮土明下佇胸牌內——伊下⟨את⟩胸牌佇伊身上,閣將⟨את⟩烏陵佮⟨את⟩土明放入去胸牌。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "伊就下"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "胸牌"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "閣放入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏陵"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "烏陵"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "土明"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "土明"
+    }
+  ],
+  "timestamp": "2026-09-13T04:40:59.965826601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "彼時掃羅佮𪜶,以及以色列眾人,攏佇以拉山谷,咧佮非利士人相戰。",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "以及眾"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "佇…山谷"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "以拉"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "咧相戰"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:10.389500993Z",
+  "model": "glm-5.3"
+}

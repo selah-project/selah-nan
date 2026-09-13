@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "因為𪜶佇我的名內用白白話佮恁講先知語;我無差遣𪜶——雅威的宣告。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "用白白話"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "講先知語"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "佮恁"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "佇我的名內"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "差遣𪜶"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:57:02.367096112Z",
+  "model": "glm-5.3"
+}

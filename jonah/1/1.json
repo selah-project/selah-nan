@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威的話臨到約拿──阿米太的子──講:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "阿米太"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:42.851255120Z",
+  "model": "glm-5.3"
+}

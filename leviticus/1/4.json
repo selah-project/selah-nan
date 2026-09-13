@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊著按手佇燒祭的頭頂,替伊蒙悅納,替伊贖罪。",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "著按"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭頂"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭的"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "蒙悅納"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "替伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:41.785380916Z",
+  "model": "glm-5.3"
+}

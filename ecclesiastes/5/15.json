@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣這嘛是一个致病痛的歹代:親像伊來的,伊就按呢去;伊替風勞碌,有啥物利益通予伊?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣…嘛"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "致病痛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "親像"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "伊來"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就按呢"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "有啥物"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "利益"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "伊替…勞碌"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:21.466884162Z",
+  "model": "glm-5.3"
+}

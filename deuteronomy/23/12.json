@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "到日落暗的時,伊欲佇水裡洗身軀;日頭落山的時,伊才會使入去營內。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "到…的時"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "日落"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "暗的時"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "洗身軀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水裡"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "落山的時"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "內中"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:21.932006855Z",
+  "model": "glm-5.3"
+}

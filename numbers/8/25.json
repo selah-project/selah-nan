@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "「對五十歲了後,伊欲對服事的工團退出來,毋閣服事矣。」",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "對…歲"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "退出來"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "對…工團"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "服事"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋閣"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "服事"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:40.047413982Z",
+  "model": "glm-5.3"
+}

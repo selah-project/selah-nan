@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "亞希,亞比疊的子,亞比疊是古尼的子,做𪜶父親的家的頭。",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "亞希"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "亞比疊"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "古尼"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "𪜶的父親"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:24.766109287Z",
+  "model": "glm-5.3"
+}

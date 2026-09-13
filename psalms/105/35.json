@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊食盡𪜶境內所有的草,嘛食盡𪜶土地的果子。",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "伊食盡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "佇𪜶境內"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "嘛食盡"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "𪜶土地的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:43.640872365Z",
+  "model": "glm-5.3"
+}

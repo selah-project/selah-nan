@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 30:23",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "閣伊欲賜雨互你的種子,就是你撒種佇 ⟨את⟩ 土地的;閣土地出產的餅,伊欲肥閣油;彼日你的牲畜欲佇草埔食草,彼塊草埔是真闊的。",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "閣伊欲賜"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "互你的種子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "你撒種"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "閣餅"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "出產"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地的"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "伊欲成做"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "肥"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "閣油"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "欲食草"
+    },
+    {
+      "surface": "מקניך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "כר",
+      "gloss": "草埔"
+    },
+    {
+      "surface": "נרחב",
+      "gloss": "闊的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:19.270421089Z",
+  "model": "glm-5.3"
+}

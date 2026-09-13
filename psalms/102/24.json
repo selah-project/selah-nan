@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "伊佇路中削弱我的氣力;伊予我的日子變短。",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "削弱"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路中"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "我的氣力"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "予……變短"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "我的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:23.847084924Z",
+  "model": "glm-5.3"
+}

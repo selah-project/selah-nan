@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為你對遠遠看會著⟨את⟩遐個地,總是遐你袂使入去彼個地,就是我欲賞賜以色列的子孫的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "你…看會著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遐個地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "遐個地"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "總是遐"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "欲賞賜"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "予…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:35.226560935Z",
+  "model": "glm-5.3"
+}

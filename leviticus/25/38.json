@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "我是雅威恁的以羅欣,就是對米茲拉因(埃及)地帶⟨את⟩恁出來的,為著欲互恁⟨את⟩迦南地,做恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "帶…出來"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "對米茲拉因地"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "為著欲互"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "做"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁的"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:11.347412314Z",
+  "model": "glm-5.3"
+}

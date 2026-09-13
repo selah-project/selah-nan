@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "我欲對佗位脫離你的靈?我欲對佗位閃避你的面?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "對佗位"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我欲去"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "脫離你的靈"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "閣對佗位"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "閃避你的面"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "我欲走閃"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:55.042306012Z",
+  "model": "glm-5.3"
+}

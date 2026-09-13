@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 133,
+  "translation": "上階之歌，大衛的。你看，外呢好，外呢媠，兄弟相佮徛起，做伙鬥陣！",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "之歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上階"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "מה",
+      "gloss": "外呢"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "佮外呢"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "媠"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "גם",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "鬥陣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.608273680Z",
+  "model": "glm-5.3"
+}

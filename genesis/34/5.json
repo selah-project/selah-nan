@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "雅各聽見伊污穢了⟨את⟩底拿伊的查某囝;雅各的囝彼陣佮⟨את⟩伊的精牲佇田裡,雅各就恬恬無出聲,等到𪜶轉來。",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "污穢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "底拿"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "底拿"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "伊的查某囝"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "היו",
+      "gloss": "佇"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩佮",
+      "marks": "伊的精牲"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "伊的精牲"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "就恬恬無出聲"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "עד",
+      "gloss": "等到"
+    },
+    {
+      "surface": "באם",
+      "gloss": "𪜶轉來"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:51.811140849Z",
+  "model": "glm-5.3"
+}

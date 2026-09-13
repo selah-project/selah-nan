@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 9:36",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "迦勒看見⟨את⟩彼陣人民，就對西布勒講：看哪，有一陣人對山頂落來。西布勒對伊講：你看見⟨את⟩山的影，親像人。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "געל",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼陣人民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼陣人民"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "西布勒"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看哪"
+    },
+    {
+      "surface": "עם",
+      "gloss": "一陣人"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "落來"
+    },
+    {
+      "surface": "מראשי",
+      "gloss": "對山頂"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "西布勒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "山的影"
+    },
+    {
+      "surface": "צל",
+      "gloss": "影"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "כאנשים",
+      "gloss": "親像人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:32:50.370998775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣彼個門,伊的面朝向北爿的路的,是通外院彼個門,伊量伊的長佮伊的闊。",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "閣彼個門"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北爿"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "通彼個院"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "外的"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "佮伊的闊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:29.849295831Z",
+  "model": "glm-5.3"
+}

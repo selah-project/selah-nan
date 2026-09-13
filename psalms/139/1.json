@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "互指揮者,大衛的詩。雅威啊,你鑑察我,嘛知我。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "你鑑察我"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "嘛知"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:29.024237198Z",
+  "model": "glm-5.3"
+}

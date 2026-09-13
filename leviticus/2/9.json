@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "祭司對素祭提起⟨את⟩伊的紀念份,閣燒薰佇祭壇頂,做火祭、做嗅味安息的氣味予雅威。",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "提起"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的紀念份"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "伊的紀念份"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "閣燒薰"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "氣味"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "安息(愉悅)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:18.490437659Z",
+  "model": "glm-5.3"
+}

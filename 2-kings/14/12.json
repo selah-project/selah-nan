@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "猶大佇以色列面前拍輸,逐個人走逃去家己的帳棚。",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "拍輸"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "走逃"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐個人"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "去家己的帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:41.848240007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我欲分散⟨את⟩你佇列國中,閣欲播散你佇列邦,閣欲消滅你的汙穢對你身上。",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "我欲分散"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "閣欲播散你"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "佇列邦"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "閣欲消滅"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "你的汙穢"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你身上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:15:54.791701781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣你欲做兩個基路伯,金的,用錘出的工你欲做⟨את⟩𪜶,佇遮蓋座的兩个尾端。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "閣你欲做"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "用錘出的工"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(兩个基路伯)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "尾端"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "遮蓋座"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:15.497098071Z",
+  "model": "glm-5.3"
+}

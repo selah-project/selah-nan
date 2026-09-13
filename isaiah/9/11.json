@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "亞蘭對頭前,非利士對後壁;𪜶吞食以色列 ⟨את⟩ 用歸个嘴。雖然按呢,伊的受氣無倒轉,伊的手猶伸出。",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "對頭前"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "佮非利士"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "對後壁"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "就吞食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用歸个"
+    },
+    {
+      "surface": "פה",
+      "gloss": "嘴"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "雖然"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊的受氣"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "猶"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸出"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:15.226739589Z",
+  "model": "glm-5.3"
+}

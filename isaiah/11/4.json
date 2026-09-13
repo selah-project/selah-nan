@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊欲用公義審判散凶人,用正直替地上謙卑的人判斷;伊欲用伊喙內的杖拍土地,用伊喙唇的氣息刣死歹人。",
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "伊欲審判"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "用公義"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "散凶人"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "閣判斷"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "用正直"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "替謙卑的人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "伊欲拍"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用…的杖"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊喙內"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "閣用…的氣息"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "伊喙唇"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:22.416221022Z",
+  "model": "glm-5.3"
+}

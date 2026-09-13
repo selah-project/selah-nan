@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣伊的軍隊,𪜶點名的人數是三萬五千閣四百。",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "閣伊的軍隊"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "𪜶點名的人數"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "萬五千"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "萬"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:15.362458741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "因為寒天,懶惰的人毋肯犁田;佇收割的時陣伊欲討,就啥物攏無。",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "因為寒天"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶惰的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "犁田"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "討"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "佇收割"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "就啥物攏無"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:52.433651594Z",
+  "model": "glm-5.3"
+}

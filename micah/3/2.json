@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "恨好,佮愛歹;剝搶𪜶的皮離開𪜶,佮𪜶的肉離開𪜶的骨頭。",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "恨"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "佮愛"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "剝搶"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "𪜶的皮"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "離開𪜶"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "佮𪜶的肉"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "離開"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "𪜶的骨頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:17.662469816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 9:27",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "求祢記念祢的奴僕亞伯拉罕、以撒、雅各;毋通看這百姓的頑梗,毋通看𪜶的邪惡,嘛毋通看𪜶的罪。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求祢記念"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "祢的奴僕"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "佮雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "看向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "頑梗"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通向"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "𪜶的邪惡"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通向"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "𪜶的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:32.474852498Z",
+  "model": "glm-5.3"
+}

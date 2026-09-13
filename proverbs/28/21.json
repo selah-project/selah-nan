@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "看人的面毋是好的,為著一塊餅,人會犯過。",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "看"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "人的面"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "為著"
+    },
+    {
+      "surface": "פת",
+      "gloss": "一塊"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "會犯過"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:13.995510643Z",
+  "model": "glm-5.3"
+}

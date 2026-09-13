@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "雅威欲佇軟弱病疼的眠床頂扶持伊;佇伊的病中,你翻轉伊規個眠床。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "欲扶持伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "眠床"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "軟弱病疼的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "伊的眠床"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "你翻轉"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "佇伊的病中"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:46.131875243Z",
+  "model": "glm-5.3"
+}

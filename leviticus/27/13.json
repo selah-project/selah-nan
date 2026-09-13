@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是伊真正欲贖回𪜶,就愛加伊的五分之一,佇你的估價頂。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "贖回"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "伊真正欲贖回𪜶"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "就愛加"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "伊的五分之一"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你的估價"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:32.380207426Z",
+  "model": "glm-5.3"
+}

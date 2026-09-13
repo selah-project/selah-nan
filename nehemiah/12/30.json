@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "祭司佮利未人行潔淨禮,閣潔淨⟨את⟩百姓、⟨את⟩城門,佮⟨את⟩城牆。",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "行潔淨禮"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "閣潔淨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "城門"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "城門"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "城牆"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城牆"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:47.510712879Z",
+  "model": "glm-5.3"
+}

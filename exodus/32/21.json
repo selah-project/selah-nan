@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "摩西就對亞倫講:「這個百姓對你做了啥物,致到你帶這麼大的罪來落佇伊身上?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "כי",
+      "gloss": "致到"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "你帶……來"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "落佇伊身上"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "罪"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "這麼大"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:12.626661119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊對天使爭鬥,得著贏;伊啼哭,向伊哀求;佇伯特利尋著伊,閣佇遐伊佮阮講話。",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "爭鬥"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "天使"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "得著贏"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "哀求"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "אל",
+      "gloss": "特利"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "尋著伊"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "閣佇遐"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "佮阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:33.157933284Z",
+  "model": "glm-5.3"
+}

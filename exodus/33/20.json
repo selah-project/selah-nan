@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊閣講:「你袏當看 ⟨את⟩ 我的面,因為人若看我,就袂活。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "你袏當"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "看我"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "閣活"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:56.333550600Z",
+  "model": "glm-5.3"
+}

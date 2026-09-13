@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "佮逐日你著獻一隻牛做贖罪祭,做贖罪之用;你著對祭壇行贖罪禮,佇你為伊贖罪的時,你就著抹油⟨את⟩伊,互伊成聖。",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "佮一隻牛"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你著做(獻)"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "逐日"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "彼个贖罪(複數)"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "佮行贖罪"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "佇你贖罪的時"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "你就著抹油"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(祭壇)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "互伊成聖"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:09.884610156Z",
+  "model": "glm-5.3"
+}

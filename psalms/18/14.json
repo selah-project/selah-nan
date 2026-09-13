@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "雅威佇天頂雷響,至高者發出伊的聲;雹佮火的炭粒。",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "雷響"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天頂"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "佮至高者"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "發出"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "佮…的炭粒"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:40.523128465Z",
+  "model": "glm-5.3"
+}

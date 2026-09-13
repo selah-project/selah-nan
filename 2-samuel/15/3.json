@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "押沙龍給伊講：「你看，你个話是好个、是正確个，若毋過對 ⟨את⟩ 王遐無儂通聽你。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "你个話"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "是好个"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "是正確个"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "通聽"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:14.615112825Z",
+  "model": "glm-5.3"
+}

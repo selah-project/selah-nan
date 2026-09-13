@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "正直的人看見就歡喜,佮一切不義攏家己摃喙。",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直的人"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "就歡喜"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "不義"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "摃喙"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "家己的喙"
+    }
+  ],
+  "timestamp": "2026-09-13T04:53:54.142524224Z",
+  "model": "glm-5.3"
+}

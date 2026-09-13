@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "這些事是比拿雅 ── 耶何耶大的子 ── 做的,伊佇三個勇士中有名聲。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "比拿雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名聲"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "佇三個"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "勇士"
+    }
+  ],
+  "timestamp": "2026-09-12T02:59:51.384743570Z",
+  "model": "glm-5.3"
+}

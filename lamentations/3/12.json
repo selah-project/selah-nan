@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊張伊的弓，共我徛做箭的靶。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "張"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "伊的弓"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "共我徛"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "做"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "箭的靶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:02.376795963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "所以查埔人欲離開⟨את⟩伊的老爸,閣⟨את⟩伊的老母,黏綴伊的某,做伙做一个肉。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "按"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "欲離開"
+    },
+    {
+      "surface": "איש",
+      "gloss": "查埔人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的老爸"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的老母"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "閣黏綴"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "做伙做"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "一个肉"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:46.498933590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "因為王的命令佇𪜶身上,閣有固定的供給予歌手,照逐日的需要。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶身上"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "閣有固定的供給"
+    },
+    {
+      "surface": "על",
+      "gloss": "予"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "歌手"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "需要"
+    },
+    {
+      "surface": "יום",
+      "gloss": "逐日"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "照伊的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:57.156408639Z",
+  "model": "glm-5.3"
+}

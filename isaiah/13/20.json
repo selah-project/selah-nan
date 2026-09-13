@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊永遠無人欲徛起,一代閣一代嘛無人欲蹛遐;阿拉伯人毋欲佇遐搭帳棚,掠羊人嘛毋欲佇遐歇睏。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "人欲徛"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "人欲蹛"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "דור",
+      "gloss": "一代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "欲搭帳棚"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "阿拉伯人"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "掠羊人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "欲歇睏"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:29.889739072Z",
+  "model": "glm-5.3"
+}

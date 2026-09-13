@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "摩西就佇以色列全會眾的耳仔邊,講這首詩歌⟨את⟩彼的話,一直到講了。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "就……講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "佇……个耳仔邊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "彼的話"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "這首詩歌"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "了"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:12.453285151Z",
+  "model": "glm-5.3"
+}

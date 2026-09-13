@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "十肘是彼塊板的長,一肘佮半肘是彼一塊板的闊。",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "彼塊板"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "佮一肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "佮半"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "彼塊板"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一塊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:32.214262845Z",
+  "model": "glm-5.3"
+}

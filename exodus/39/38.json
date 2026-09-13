@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "閣 ⟨את⟩ 金的祭壇、⟨את⟩ 膏立的油、⟨את⟩ 芳香的香,佮 ⟨את⟩ 帳棚門口的簾仔,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "金的祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "膏立的油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏立的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "芳香的香"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "香料(芳香的)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "帳棚門口的簾仔"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "簾仔"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "彼個帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:56.417539163Z",
+  "model": "glm-5.3"
+}

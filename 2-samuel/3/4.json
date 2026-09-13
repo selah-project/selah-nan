@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 3:4",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "第四个是亞多尼雅,哈及的囝;第五个是示法提雅,亞比她的囝。",
+  "tokens": [
+    {
+      "surface": "והרביעי",
+      "gloss": "第四个"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "亞多尼雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "哈及"
+    },
+    {
+      "surface": "והחמישי",
+      "gloss": "第五个"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "示法提雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "אביטל",
+      "gloss": "亞比她"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:45.261223055Z",
+  "model": "glm-5.3"
+}

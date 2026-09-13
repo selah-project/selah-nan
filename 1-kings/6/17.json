@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "彼厝有四十肘長,就是殿,佇伊頭前。",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼厝"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊就是"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇伊頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:07.779094836Z",
+  "model": "glm-5.3"
+}

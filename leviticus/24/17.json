@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "若有人擊打任何人的性命,伊的確愛予伊死。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "若有人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "的確愛予伊死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:31.804773902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "伊出去佮非利士人相戰,拆毀⟨את⟩迦特的牆、⟨את⟩雅比尼的牆、閣⟨את⟩亞實突的牆,閣佇亞實突佮佇非利士人的境內起造城。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "伊出去"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "對非利士人"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦特的牆"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "…的牆"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雅比尼的牆"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "…的牆"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "雅比尼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞實突的牆"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "…的牆"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "亞實突"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "閣起造"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "佇亞實突"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "閣佇非利士人中間"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:18.851070073Z",
+  "model": "glm-5.3"
+}

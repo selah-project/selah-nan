@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "因為𪜶喙的罪、喙唇的話,互𪜶佇𪜶的驕傲內面互人捉去;閣因為詛咒佮講白賊的代誌,𪜶攏咧數說。",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "𪜶的喙"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "𪜶的喙唇"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "互𪜶互人捉去"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "佇𪜶的驕傲內面"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "閣對詛咒"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "佮對白賊"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "𪜶咧數說"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:11.044296303Z",
+  "model": "glm-5.3"
+}

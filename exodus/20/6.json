@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣行赫瑟德(慈愛)到千代,予疼我的人、守我誡命的人。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德(慈愛)"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "到千代"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "予疼我的人"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "守…的人"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "我的誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:06.095690171Z",
+  "model": "glm-5.3"
+}

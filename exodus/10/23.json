@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "人無看見⟨את⟩伊的兄弟,三工內無人對伊的所在起來;若是對以色列眾子兒,佇𪜶的徛家有光。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的兄弟"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "對伊的所在"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "工"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "若是對…所有"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "佇𪜶的徛家"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:42.380261271Z",
+  "model": "glm-5.3"
+}

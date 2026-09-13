@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "閣⟨את⟩按呢登記族譜的祭司,照𪜶父親的家,以及利未人,對二十歲以上,照𪜶的職守、照𪜶的班次。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "登記族譜的祭司"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "登記族譜"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照…的家"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "𪜶的父親"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "以及利未人"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "照𪜶的職守"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "照𪜶的班次"
+    }
+  ],
+  "timestamp": "2026-09-12T06:19:09.383959670Z",
+  "model": "glm-5.3"
+}

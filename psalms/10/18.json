@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "欲替孤囝佮受壓迫的人伸冤,互地上的人毋通閣驚嚇。",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "欲…伸冤"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤囝"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "佮受壓迫的人"
+    },
+    {
+      "surface": "בל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣(加一擺)"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "驚嚇"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:10.138498559Z",
+  "model": "glm-5.3"
+}

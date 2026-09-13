@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 32:43",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "列國啊,恁著替伊的子民歡呼,因為伊欲報伊奴僕的血,欲向伊的對敵行報復,閣欲為伊的土地、伊的子民贖罪。",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "恁著歡呼"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國啊"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的子民"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊奴僕的"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "欲報"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "報復"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "向伊的對敵"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "閣欲贖罪"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的子民"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:21.359093306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "以利聽⟨את⟩哮个聲,就講:「遮个大騷動个聲是啥物?」彼个人趕緊入來,報予以利知。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哮个聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "哮"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "大騷動"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "報"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "予以利"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:42.151625809Z",
+  "model": "glm-5.3"
+}

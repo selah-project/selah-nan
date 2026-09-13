@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "雅威⟨是⟩戰爭的人,雅威⟨是⟩伊的名。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:23.098755448Z",
+  "model": "glm-5.3"
+}

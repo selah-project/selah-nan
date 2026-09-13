@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "雅威有憐憫、有恩惠,慢慢才受氣,赫瑟德真豐盛。",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "有憐憫"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "有恩惠"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "慢慢才"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "真豐盛"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:36.731961513Z",
+  "model": "glm-5.3"
+}

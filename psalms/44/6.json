@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "靠汝,阮會抵阮的對敵;靠你的名,阮會踹踏起來攻擊阮的人。",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "靠汝"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "阮的對敵"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "阮會抵"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "靠你的名"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "阮會踹踏"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "起來攻擊阮的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:59.049646857Z",
+  "model": "glm-5.3"
+}

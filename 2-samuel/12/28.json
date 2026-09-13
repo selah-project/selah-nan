@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "這馬你著聚集⟨את⟩剩落的百姓,紮營佇彼座城對面,來掠伊;免得我掠⟨את⟩彼座城,我的名予人叫佇伊頂面。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "著聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "剩落的百姓"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "剩落的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "紮營"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…對面"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "來掠伊"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "我掠"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼座城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "予人叫"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:13.980487453Z",
+  "model": "glm-5.3"
+}

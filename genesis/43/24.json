@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "彼个人帶⟨את⟩彼霎人入約瑟的家內,提水予𪜶洗腳,伊閣提草料予𪜶的驢。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "帶…入來"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼霎人"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "彼霎人"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "入…家"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "提"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "洗"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "𪜶的腳"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "閣提"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "草料"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "予𪜶的驢"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:42.248458419Z",
+  "model": "glm-5.3"
+}

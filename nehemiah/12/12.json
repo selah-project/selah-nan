@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇約雅金的日,祭司做宗族的頭:屬示拉雅的有米拉雅,屬耶利米的有哈拿尼雅。",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "佇…的日"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "約雅金"
+    },
+    {
+      "surface": "היו",
+      "gloss": "做"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "…的頭"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "屬示拉雅"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "米拉雅"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "屬耶利米"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "哈拿尼雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:20.569382348Z",
+  "model": "glm-5.3"
+}

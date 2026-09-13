@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "為著用感謝的聲傳出,閣欲述說你一切的奇事。",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "為著傳出"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "用聲"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "感謝"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "閣欲述說"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "你的奇事"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:57.037279163Z",
+  "model": "glm-5.3"
+}

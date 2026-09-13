@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "心內智慧的人會承受誡命,嘴唇愚戇的人會倒落。",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心內"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "會承受"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "וֶאֱוִיל",
+      "gloss": "佮愚戇"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "會倒落"
+    }
+  ],
+  "timestamp": "2026-09-13T04:42:45.700148801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊為著祂的受氣平整一條路,無對死亡留救𪜶的性命,將𪜶的活命交互瘟疫。",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "平整"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "一條路"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "為著祂的受氣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "留救"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "對死亡"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "閣𪜶的活命"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "交互瘟疫"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "交出"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:41.052321503Z",
+  "model": "glm-5.3"
+}

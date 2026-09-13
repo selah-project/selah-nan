@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "頭一日是聖的聚會，一切的工——勞碌的工——恁袂使做。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "聚會"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "工"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "勞碌的工"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:28.262459412Z",
+  "model": "glm-5.3"
+}

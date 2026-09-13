@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為佇我的食物進前,我的吐氣就來;我的吼聲親像水流出。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…進前"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "我的食物"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "我的吐氣"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "來"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "流出"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "我的吼聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:10.892392933Z",
+  "model": "glm-5.3"
+}

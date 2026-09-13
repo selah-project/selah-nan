@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "彼個城真闊、真的大,毋過城內的人真少,猶無厝有起起來。",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "真闊"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "(雙手展開的闊度)"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "真的大"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "毋過…人"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "真少"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "城內"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "猶無"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "厝"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "起起來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:29.320681444Z",
+  "model": "glm-5.3"
+}

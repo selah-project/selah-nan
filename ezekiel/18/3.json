@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "我活啲 —— 阿多奈雅威的神諭 —— 恁毋通閣佇以色列用這句俗語。",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "活"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אם",
+      "gloss": "倘"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會當"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "משל",
+      "gloss": "用俗語"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "彼句俗語"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:13:33.635697029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "伊拆毀祭壇⟨את⟩佮亞舍拉⟨את⟩,閣雕刻的偶像搥到碎屑,閣一切的日像,伊佇以色列全地砍斷,就倒轉去耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "伊拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞舍拉"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "亞舍拉"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "閣雕刻的偶像"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "搥"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "到碎屑"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣一切的"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "日像"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "砍斷"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就倒轉去"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:07.774354939Z",
+  "model": "glm-5.3"
+}

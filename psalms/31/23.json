@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "我佇驚惶中講:「我對你目睭的面前被剪除矣」;總是你有聽我懇求的聲,佇我向你哀叫的時。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "講"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "佇驚惶中"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "我被剪除"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "總是"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你有聽"
+    },
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "我懇求"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "佇我哀叫"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:03.073094377Z",
+  "model": "glm-5.3"
+}

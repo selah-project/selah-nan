@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "敢有人攑火佇伊的懷內,伊的衫毋會燒起來?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "敢有人攑"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "佇伊的懷內"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "閣伊的衫"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "燒起來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:54.647503849Z",
+  "model": "glm-5.3"
+}

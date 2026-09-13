@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威對摩西佮亞倫講話，吩咐𪜶對以色列的囝兒，閣對法老——米茲拉因(埃及)的王——欲共⟨את⟩以色列的囝兒對米茲拉因地帶出來。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "吩咐𪜶"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "欲帶出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的囝兒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:55.995697598Z",
+  "model": "glm-5.3"
+}

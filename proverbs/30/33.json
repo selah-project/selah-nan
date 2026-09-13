@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "因為壓榨牛奶會迸出奶油,壓榨鼻仔會迸出血,壓榨怒氣會迸出相爭。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "壓榨"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "牛奶"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "迸出"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "奶油"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "佮壓榨"
+    },
+    {
+      "surface": "אף",
+      "gloss": "鼻仔"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "迸出"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "佮壓榨"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "迸出"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "相爭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:32.769068400Z",
+  "model": "glm-5.3"
+}

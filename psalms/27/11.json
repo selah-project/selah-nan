@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "教示我你的路,雅威啊;引導我行佇平坦的路,為著我的對敵的緣故。",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "教示我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的路"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "閣引導我"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "行佇…的路"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "平坦"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著…的緣故"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "我的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:51.893940479Z",
+  "model": "glm-5.3"
+}

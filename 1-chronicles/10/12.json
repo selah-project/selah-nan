@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "見若勇士攏起來,扛⟨את⟩掃羅的身屍佮⟨את⟩伊眾子的身屍,帶到雅比,將⟨את⟩𪜶的骨頭埋佇雅比的橡樹下,禁食七日。",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "攏起來"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掃羅的身屍"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "身屍"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊眾子的身屍"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "身屍"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊眾子"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "帶到"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "雅比"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "埋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的骨頭"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "𪜶的骨頭"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "橡樹"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "佇雅比"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:51.045538042Z",
+  "model": "glm-5.3"
+}

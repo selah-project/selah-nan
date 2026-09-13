@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 3:10",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣對古實諸河外的所在,阮敬拜祈求的人,阮四散的查某囝,欲捧我的禮物來。",
+  "tokens": [
+    {
+      "surface": "מעבר",
+      "gloss": "對…外的所在"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "諸河"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "עתרי",
+      "gloss": "阮敬拜祈求的人"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "פוצי",
+      "gloss": "阮四散的"
+    },
+    {
+      "surface": "יובלון",
+      "gloss": "欲捧…來"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "我的禮物"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:43.434947834Z",
+  "model": "glm-5.3"
+}

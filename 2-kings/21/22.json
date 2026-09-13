@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊放棄⟨את⟩雅威、伊列祖的以羅欣,無行佇雅威的路。",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊列祖"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇…路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:55.019539213Z",
+  "model": "glm-5.3"
+}

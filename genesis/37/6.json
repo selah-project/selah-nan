@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊對𪜶講:「請恁聽這個夢,就是我所夢著的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "恁聽"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "彼個夢"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是……的"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "我所夢著"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:13.980300867Z",
+  "model": "glm-5.3"
+}

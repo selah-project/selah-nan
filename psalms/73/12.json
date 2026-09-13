@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "你看,遮爾個就是作惡的人,安逸一世人的,得著財利。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮爾個"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "作惡的人"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "佮安逸的"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "一世人"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "得著"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "財利"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:35.130047516Z",
+  "model": "glm-5.3"
+}

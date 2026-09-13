@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "懶惰人的私欲會害死伊,因為伊的雙手毋肯做工。",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "私欲"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶惰人"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "會害死伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "毋肯"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的雙手"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "做工"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:49.892427899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊共𪜶的精牲交互冰雹,共𪜶的牛羊交對燒燙的火燄去。",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "伊交……互"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "冰雹"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "𪜶的精牲"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "𪜶的牛羊"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "燒燙的火燄"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:47.938603421Z",
+  "model": "glm-5.3"
+}

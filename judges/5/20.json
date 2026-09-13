@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "對天頂𪜶相戰;諸星對𪜶的路徑相戰攻擊西西拉。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "諸星"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "對𪜶的路徑"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "עם",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "西西拉"
+    }
+  ],
+  "timestamp": "2026-09-12T02:30:33.650211701Z",
+  "model": "glm-5.3"
+}

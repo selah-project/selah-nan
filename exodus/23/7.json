@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "對虛假的事你著離遠遠;無辜的佮公義的人,毋通𤆬頭殺;因為我毋會使惡人算做對。",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "對…的事"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "虛假"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "你著離遠遠"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "佮無辜的"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "殺"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "會使…算做對"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:53.158992078Z",
+  "model": "glm-5.3"
+}

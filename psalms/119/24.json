@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "閣祢的法度是我上歡喜⟨的⟩,做我个謀士。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "祢的法度"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "我上歡喜"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "做…人"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "我个謀士"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:19.168206210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「請你試⟨את⟩你的奴僕十日,閣𪜶互阮對彼個種仔(豆菜)──阮來食──閣水,阮來飲。",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "試"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的奴僕"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "閣𪜶互"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "互阮"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…中"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "彼個種仔"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "閣阮來食"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "閣水"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "閣阮來飲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:12.359034784Z",
+  "model": "glm-5.3"
+}

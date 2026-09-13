@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我給我家己造花園佮果園,我佇內底栽種果子樹,逐款果子攏有。",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "我…造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我家己"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "花園"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "佮果園(果園)"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "我…栽種"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇內底"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐款"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:07.751466701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "「雅威——你的以羅欣——活着:無論啥物國族佮王國,阮的大人攏有差人去遐尋你;𪜶講『無』了後,伊就叫⟨את⟩彼個王國佮⟨את⟩彼個國族發誓,講𪜶並無尋著你。",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "活着"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "אם",
+      "gloss": "無論"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "國族"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "佮王國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差人"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阮的大人"
+    },
+    {
+      "surface": "שם",
+      "gloss": "去遐"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "尋你"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "叫…發誓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個王國"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "彼個王國"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼個國族"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "彼個國族"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "尋著你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:23.735159876Z",
+  "model": "glm-5.3"
+}

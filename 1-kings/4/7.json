@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "所羅門有十二个官員佇全以色列,𪜶供養⟨את⟩王佮⟨את⟩伊的家;一年中間一个月輪一个人來供應。",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "所羅門有"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "十二(二)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "官員"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "𪜶供養"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "一个月"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "一年中間"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "輪"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "來供應"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:57.502691651Z",
+  "model": "glm-5.3"
+}

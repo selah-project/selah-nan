@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "掃羅講:「燒祭佮平安祭牽來我遮。」伊就獻上燒祭。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "牽來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "佮平安祭"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:49.164247489Z",
+  "model": "glm-5.3"
+}

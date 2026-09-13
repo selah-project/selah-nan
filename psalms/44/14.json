@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "你互阮做阮鄰舍的笑柄,做譏誚佮譏笑的對象,佇阮四圍的人中間。",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "你互阮做"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "笑柄(羞辱)"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "阮鄰舍的"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "佮譏笑"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "阮四圍的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:25.700505075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "以色列的王就差人去以羅欣的人對伊講彼个所在,就警戒,伊佇遐保護家己,毋但一擺,嘛毋是兩擺。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "就差"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "就警戒"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "就保護家己"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋但"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一擺"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋是"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩擺"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:38.648301887Z",
+  "model": "glm-5.3"
+}

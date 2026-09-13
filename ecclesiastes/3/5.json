@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "有時陣欲擲石頭,亦有時陣欲收集石頭;有時陣欲相攬,亦有時陣欲離開無欲攬。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "欲擲"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "欲收集"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "עת",
+      "gloss": "有時陣"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "欲相攬"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "亦有時陣"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "欲離開"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "無欲攬"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:55.140265437Z",
+  "model": "glm-5.3"
+}

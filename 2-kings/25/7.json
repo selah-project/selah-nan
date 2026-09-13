@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "𪜶宰殺⟨את⟩西底家亞的囝仔佇伊的目睭前,閣⟨את⟩西底家亞的目睭𪜶共伊弄瞙,用銅鍊共伊縛--起來,帶伊去巴比倫。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "西底家亞的囝仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家亞"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "宰殺"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "佇伊的目睭前"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "西底家亞的目睭"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家亞"
+    },
+    {
+      "surface": "עור",
+      "gloss": "弄瞙"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "共伊縛--起來"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "用銅鍊"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "帶伊去"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:36.891861687Z",
+  "model": "glm-5.3"
+}

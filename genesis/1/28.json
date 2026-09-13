@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 1:28",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以羅欣賜福⟨את⟩𪜶;以羅欣閣對𪜶講:「結果子,增加,充滿⟨את⟩大地,閣克制伊;閣管海裡的魚、天裡的鳥,閣一切佇地上爬行的活物。」",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "結果子"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "增加"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "閣克制伊"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "閣管"
+    },
+    {
+      "surface": "בדגת",
+      "gloss": "海裡的魚"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "天裡的鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "閣一切"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活物"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "爬行的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:07.861664473Z",
+  "model": "glm-5.3"
+}

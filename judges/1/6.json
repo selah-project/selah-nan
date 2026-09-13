@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "阿多尼・比色克走去,𪜶綴佇伊後面追,掠著⟨את⟩伊,剁掉⟨את⟩伊的手指頭佮腳趾頭。",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "走去"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多尼"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "比色克"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "追"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "佇伊後面"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "掠著"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "剁掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "手指頭"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "手指頭"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "佮腳趾頭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:15.009791678Z",
+  "model": "glm-5.3"
+}

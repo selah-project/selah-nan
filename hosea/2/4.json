@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 2:4",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佮恁老母相爭,相爭,因為伊毋是我的某,我也毋是伊的翁;伊著除去伊面前的淫亂,閣除去伊胸坎中間的姦淫。",
+  "tokens": [
+    {
+      "surface": "ריבו",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "באמכם",
+      "gloss": "佮恁老母"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "我的某"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "我也"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "伊的翁"
+    },
+    {
+      "surface": "ותסר",
+      "gloss": "閣著除去"
+    },
+    {
+      "surface": "זנוניה",
+      "gloss": "伊的淫亂"
+    },
+    {
+      "surface": "מפניה",
+      "gloss": "對伊的面前"
+    },
+    {
+      "surface": "ונאפופיה",
+      "gloss": "閣伊的姦淫"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "שדיה",
+      "gloss": "伊的胸坎"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:33.900927537Z",
+  "model": "glm-5.3"
+}

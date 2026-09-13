@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 38:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊閣為著祭壇做一个銅網仔的爐柵,做工課像網仔,佇伊的邊緣下底,對下底到伊的一半。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "為著祭壇"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "爐柵"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "做工課"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "網仔"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下底"
+    },
+    {
+      "surface": "כרכבו",
+      "gloss": "伊的邊緣"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "對下底"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "伊的一半"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:16.964344192Z",
+  "model": "glm-5.3"
+}

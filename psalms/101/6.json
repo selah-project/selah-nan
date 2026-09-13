@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 101,
+  "translation": "我的目睭欲看地上忠信的人,通佮我徛起;行佇完全道路的,彼个伊欲服事我。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "忠信的人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "通徛起"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇道路"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "伊欲服事我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:25.092110369Z",
+  "model": "glm-5.3"
+}

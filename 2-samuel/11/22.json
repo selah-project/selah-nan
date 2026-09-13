@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "彼个報信的就去做,來到,共大衛報告⟨את⟩約押差伊講的一盡攏代誌。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "彼个報信的"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "報告"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "共大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一盡攏代誌"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一盡攏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "差伊"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:53.170885762Z",
+  "model": "glm-5.3"
+}

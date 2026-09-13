@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "獨獨園中央彼欉樹的果子,以羅欣有講:『恁毋通食伊,嘛毋通摸著,驚了恁會死。』」",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "獨獨…的果子"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "彼欉樹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中央"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "園"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "有講"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "恁摸"
+    },
+    {
+      "surface": "בו",
+      "gloss": "著伊"
+    },
+    {
+      "surface": "פן",
+      "gloss": "驚了"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "恁會死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:27.777877268Z",
+  "model": "glm-5.3"
+}

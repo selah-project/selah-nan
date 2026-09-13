@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "予指揮者;可拉的子孫;一篇訓誨的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "予指揮者"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "一篇訓誨的詩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.347482649Z",
+  "model": "glm-5.3"
+}

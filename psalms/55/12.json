@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "敗壞佇伊的中間;欺壓佮詭詭毋肯對伊的街路閃離。",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "敗壞"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "佇伊的中間"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋肯"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "閃離"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "對伊的街路"
+    },
+    {
+      "surface": "תך",
+      "gloss": "欺壓"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "佮詭詭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:57.464465961Z",
+  "model": "glm-5.3"
+}

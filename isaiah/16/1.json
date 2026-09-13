@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "著派人送公羊羔去予彼个治理土地的統治者,對西拉經過曠野,到錫安查某子仔的山。",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "著派人送"
+    },
+    {
+      "surface": "כר",
+      "gloss": "公羊羔"
+    },
+    {
+      "surface": "משל",
+      "gloss": "統治"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "對西拉"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "經過曠野"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某子仔"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    }
+  ],
+  "timestamp": "2026-09-13T04:52:00.899559551Z",
+  "model": "glm-5.3"
+}

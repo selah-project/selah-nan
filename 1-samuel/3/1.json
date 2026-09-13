@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣,彼個囡仔撒母耳咧服事⟨את⟩雅威,佇以利面前;彼當時雅威的話真稀罕,無異象通開展。",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "閣彼個囡仔"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "咧服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "閣…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "稀罕"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "佇…日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "通開展"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:43.226883483Z",
+  "model": "glm-5.3"
+}

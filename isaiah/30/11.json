@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "著閃離路,偏離徑路,予以色列的聖者停止,莫閣佇阮面頭前 ——⟨את⟩以色列的聖者。",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "閃離"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "偏離"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "徑路"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "予…停止"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "對阮面頭前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的聖者"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:11.975193227Z",
+  "model": "glm-5.3"
+}

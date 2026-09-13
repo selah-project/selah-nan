@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "因為天頂的星佮𪜶的星座袂照𪜶的光;日頭出去的時變暗,月娘嘛袂照伊的光。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "星"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "佮𪜶的星座"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "照"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "𪜶的光"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "變暗"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "出去的時"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "佮月娘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "照"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "伊的光"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:58.748989168Z",
+  "model": "glm-5.3"
+}

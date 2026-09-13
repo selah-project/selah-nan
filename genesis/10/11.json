@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "對彼个地出來,到亞述,伊起造⟨את⟩尼尼微、⟨את⟩利河伯城、閣⟨את⟩迦拉,",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "對…出來"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼个地"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "伊起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "尼尼微"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "利河伯城"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "利河伯"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "迦拉"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "迦拉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:14.455467780Z",
+  "model": "glm-5.3"
+}

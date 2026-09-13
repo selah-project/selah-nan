@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你的奴僕佮你的婢女,欲對你四圍的列國 ⟨את⟩ 來的,你通對𪜶買奴僕佮婢女。",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "佮你的婢女"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "恁四圍"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "恁通買"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "佮婢女"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:53.719087391Z",
+  "model": "glm-5.3"
+}

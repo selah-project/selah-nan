@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "攏總遮的代誌了,𪜶猶閣犯罪,也毋信伊的奇妙作為。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "遮的代誌"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶閣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "信"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "伊的奇妙作為"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:57.958103392Z",
+  "model": "glm-5.3"
+}

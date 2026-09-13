@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "佮比利亞、佮示瑪 —— 𪜶是亞雅崙徛的人的族長的頭,𪜶趕走 ⟨את⟩ 迦特的居民。",
+  "tokens": [
+    {
+      "surface": "וברעה",
+      "gloss": "佮比利亞"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "佮示瑪"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "族長"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "徛的人的"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "亞雅崙"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦特的居民"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:01.046187722Z",
+  "model": "glm-5.3"
+}

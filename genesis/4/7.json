@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "豈毋是按呢:你若做好,就會得抬起;你若做毋好,罪就仆佇門口,伊的渴望對著你,你會當管轄伊。",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "做好"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "抬起"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "做好"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "佇門口"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "仆"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "對著你"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "伊的渴望"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "管轄"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:26.796401511Z",
+  "model": "glm-5.3"
+}

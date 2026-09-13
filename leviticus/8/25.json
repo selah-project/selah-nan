@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣伊提⟨את⟩油脂、⟨את⟩尾油、⟨את⟩一切佇肚腸頂端的油脂、⟨את⟩肝的垂葉、⟨את⟩兩粒腰子佮⟨את⟩𪜶的油脂,閣⟨את⟩正跤髀。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "閣伊提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "油脂"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "油脂"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "尾油"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "尾油"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切…的油脂"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "的油脂"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂端"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "肚腸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "肝的垂葉"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "垂葉"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "肝"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "兩粒腰子"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩粒"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "腰子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的油脂"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "𪜶的油脂"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "正跤髀"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "跤髀"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "正"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:46.218196744Z",
+  "model": "glm-5.3"
+}

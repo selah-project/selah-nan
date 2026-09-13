@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "伊就命令伊家己厝內彼个總管,講:「共彼个人⟨את⟩──就是伊所設⟨את⟩佇伊厝頂面彼个──講:『𢫦滿遐个人的袋仔,糧食照𪜶所會當扛的量,閣將逐个人的銀仔囥佇伊袋仔的喙口。』",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "伊就命令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个總管(伊所設佇伊厝頂面彼个)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是……彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的厝"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "𢫦滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遐个人的袋仔"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "袋仔"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "遐个人"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "糧食"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "𪜶所會當"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "扛"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "閣將……囥"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐个人"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "佇……的喙口"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "伊的袋仔"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:28.229191510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "恁的孽彎閃了諸個,恁的罪擋住了好空的對恁。",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "恁的孽"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "彎閃了"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "恁的罪"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "擋住了"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "好空的"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:44.418476472Z",
+  "model": "glm-5.3"
+}

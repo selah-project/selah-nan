@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joel 2:25",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我欲補償恁 ⟨את⟩ 彼些年,就是蝗蟲、咧爬的蝻仔、噬蝗、佮齧蝗所食去的 —— 我的大軍,就是我差佇恓中間的。",
+  "tokens": [
+    {
+      "surface": "ושלמתי",
+      "gloss": "我欲補償"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼些年"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "彼些年"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "所食去的"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "咧爬的蝻仔"
+    },
+    {
+      "surface": "והחסיל",
+      "gloss": "佮噬蝗"
+    },
+    {
+      "surface": "והגזם",
+      "gloss": "佮齧蝗"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "我的大軍"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我差"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "佇恓中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:44.495147604Z",
+  "model": "glm-5.3"
+}

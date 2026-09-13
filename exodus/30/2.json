@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "一肘是伊的長,一肘是伊的闊,伊欲做四角形;兩肘是伊的高,伊的角𪜶對伊本身伸出。",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "佮一肘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "四角形"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "伊欲做"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "佮兩肘"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "伊的高"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊本身"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "伊的角"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:46.211553655Z",
+  "model": "glm-5.3"
+}

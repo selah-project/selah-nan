@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "若是真正佇第三日食伊,彼个是腐臭可憎的,袂蒙悅納。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "真正食"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "腐臭可憎的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "蒙悅納"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:22.450525831Z",
+  "model": "glm-5.3"
+}

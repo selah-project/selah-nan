@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你欲宰彼隻公羊——⟨את⟩，閣掠⟨את⟩伊个血，灑佇祭壇四箍圍。",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "你欲宰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻公羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "彼隻公羊"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "閣掠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊个血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊个血"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "灑"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍圍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:42.610269272Z",
+  "model": "glm-5.3"
+}

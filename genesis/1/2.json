@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣大地是混沌空虛,烏暗佇深淵的面頂;閣以羅欣的氣咧水面的頂懸振翅覆孵。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "閣大地"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "是"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "混沌"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "閣空虛"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "閣烏暗"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頂"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "閣……的氣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "咧振翅覆孵"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:01.733882073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "守你的喙舌離開歹,你的咀唇莫得講詭詐。",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "守"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "你的喙舌"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "離開歹"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "你的咀唇"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "莫得講"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "詭詐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:14.022038156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣 ⟨את⟩ 陳設餅的桌的金，照斤兩，一張桌一張桌；閣銀對銀的桌。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "照斤兩"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "對桌"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "陳設餅的"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "一張桌"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "一張桌"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "閣銀"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "對桌"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:19.115256596Z",
+  "model": "glm-5.3"
+}

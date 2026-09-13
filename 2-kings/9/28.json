@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊的奴僕用車載⟨את⟩伊去耶路撒冷,埋葬⟨את⟩伊佇伊的墓,佮伊的列祖,佇大衛的城。",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "就載(用車)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "佇伊的墓"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:04.449084863Z",
+  "model": "glm-5.3"
+}

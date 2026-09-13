@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "懶惰人佇家己的眼內比七个會曉應對道理的人卡有智慧。",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "懶惰人"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇家己的眼內"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "比七个"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "會曉應對"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "道理的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:15.967684248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "阮變做阮厝邊的羞辱,做阮四圍的譏誚佮嘲笑。",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "阮變做"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "羞辱"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "阮厝邊的"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "佮嘲笑"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "阮四圍的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:39.828516705Z",
+  "model": "glm-5.3"
+}

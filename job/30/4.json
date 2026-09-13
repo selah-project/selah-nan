@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "𪜶佇灌木邊摘馬齒莧,金雀枝的根做𪜶的食物。",
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "摘"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "馬齒莧"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "灌木"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "佮根"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "金雀枝"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "做𪜶的食物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:28:43.705325144Z",
+  "model": "glm-5.3"
+}

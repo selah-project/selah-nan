@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "洪水佇地上四十日,水湠濟,𢰸起⟨את⟩方舟,方舟就懸起來離開地面。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "洪水"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "湠濟"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "𢰸起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "方舟"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "方舟"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "懸起來"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…頂離開"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:17.903597870Z",
+  "model": "glm-5.3"
+}

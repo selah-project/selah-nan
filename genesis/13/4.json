@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "到彼个祭壇的所在,就是伊代先佇遐起的;亞伯蘭佇遐求告雅威的名。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "彼个…所在"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "起的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "代先"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "求告"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "以…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:32.174003841Z",
+  "model": "glm-5.3"
+}

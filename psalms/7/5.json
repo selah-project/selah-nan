@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "若我對佮我和平的人報答以歹,閣無緣故救我的對敵,空空救伊;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "我報答"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "佮我和平的人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "閣我救"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "空空(無緣故)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:10.367636408Z",
+  "model": "glm-5.3"
+}

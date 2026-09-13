@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "離開路的人,管教對伊是歹受的;恨責備的人會死。",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹受"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "對離開"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "路"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "恨"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "責備"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "會死"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:39.635014352Z",
+  "model": "glm-5.3"
+}

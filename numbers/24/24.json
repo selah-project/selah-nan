@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 24:24",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣有船隊對基提的手邊來,𪜶會壓制亞述,會壓制希伯;伊嘛歸尾會滅亡。",
+  "tokens": [
+    {
+      "surface": "וצים",
+      "gloss": "閣有船隊"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手邊"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "基提"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "𪜶會壓制"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "𪜶會壓制"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "希伯"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "歸尾"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "會滅亡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:00:54.048124813Z",
+  "model": "glm-5.3"
+}

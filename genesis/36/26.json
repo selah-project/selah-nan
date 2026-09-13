@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "這个是底珊的後生:希姆但、伊施班、伊特拉佮基蘭。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這个是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的後生"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "底珊"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "希姆但"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "佮伊施班"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "佮伊特拉"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "佮基蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:10.645431461Z",
+  "model": "glm-5.3"
+}

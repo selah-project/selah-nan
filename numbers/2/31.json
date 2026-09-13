@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 2:31",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "但營一切點名的人數,是一萬閣七萬五千閣六百;𪜶照𪜶的旗做尾隊啟行。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "點名的人"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "對…營"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "閣七"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "閣六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "做尾隊"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "啟行"
+    },
+    {
+      "surface": "לדגליהם",
+      "gloss": "照𪜶的旗"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:15.362640096Z",
+  "model": "glm-5.3"
+}

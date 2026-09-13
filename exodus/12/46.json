@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇一個厝內欲食伊;肉袂使對彼個厝內提出去到外面,骨頭嘛毋通佇伊折斷。",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "佇一個厝內"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "提……出去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼個厝"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "彼個肉"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "到外面"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "佮骨頭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "折斷"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:27.747771627Z",
+  "model": "glm-5.3"
+}

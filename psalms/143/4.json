@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "閣我的心神昏昏落來,踮我身上;我的心佇我內面驚惶失神。",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "昏昏落來"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "踮我身上"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的心神"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "佇我內面"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "驚惶失神"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:09.776112238Z",
+  "model": "glm-5.3"
+}

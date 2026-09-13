@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "亞述袂救阮;阮毋騎馬;阮嘛袂閣對阮的手所做的講:『恁是阮的以羅欣』;因為佇你遐,孤兒得著憐憫。",
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "救阮"
+    },
+    {
+      "surface": "על",
+      "gloss": "騎佇"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "騎"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮嘛袂"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "對……所做的"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "阮的手"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你遐"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "得著憐憫"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:07.583963128Z",
+  "model": "glm-5.3"
+}

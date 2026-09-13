@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "因為我親像酒囊掛佇煙內底;我猶原無袂記得你的律例。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我親像"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "酒囊"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "佇煙內底"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "你的律例"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "袂記得"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:00.620224375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你欲佇伊的四個角做伊的角,對伊本體生做出來;你欲用銅包⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "伊的角"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四個"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "伊的角頭"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊本體"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "生做出來"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "伊的角"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "你欲包"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:43.798886620Z",
+  "model": "glm-5.3"
+}

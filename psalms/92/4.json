@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "佇十絃琴,佮佇納貝爾琴,佇希加揚低沉的琴聲,用豎琴。",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "十絃琴"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "佮佇"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "納貝爾琴"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "希加揚低沉的琴聲"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "用豎琴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:51.264540061Z",
+  "model": "glm-5.3"
+}

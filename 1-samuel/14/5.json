@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "彼座尖岩(哈仙)一座徛佇北爿,對面是米克瑪施,另外一座徛佇南爿,對面是迦巴。",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "彼座尖岩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一座"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "徛佇北爿"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北爿"
+    },
+    {
+      "surface": "מול",
+      "gloss": "對面是"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "米克瑪施"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "佮另外一座"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "南爿"
+    },
+    {
+      "surface": "מול",
+      "gloss": "對面是"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "迦巴"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:11.424289882Z",
+  "model": "glm-5.3"
+}

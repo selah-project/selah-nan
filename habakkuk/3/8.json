@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 3:8",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威敢是對河流受氣?你的鼻孔敢是對河流?抑是你的烈怒對海?因為你騎你的馬,你的戰車——就是拯救。",
+  "tokens": [
+    {
+      "surface": "הבנהרים",
+      "gloss": "敢是對河流"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢是"
+    },
+    {
+      "surface": "בנהרים",
+      "gloss": "對河流"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的鼻孔"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "בים",
+      "gloss": "對海"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "你的烈怒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תרכב",
+      "gloss": "你騎"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "你的馬"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "你的戰車"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:51.404877771Z",
+  "model": "glm-5.3"
+}

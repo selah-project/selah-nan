@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "義人對患難中得著解救;歹人入去伊的位。",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "對患難"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "得著解救"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "伊的位"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.641990948Z",
+  "model": "glm-5.3"
+}

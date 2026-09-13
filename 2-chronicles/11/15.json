@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊家己設立祭司,為著丘壇,為著山羊鬼,也為著伊所做的牛犢。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "設立"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊家己"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "為著丘壇"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "為著山羊鬼"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "也為著牛犢"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:21.531204112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "因為我守雅威的路,也毋對我的以羅欣行歹。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "我守"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "……的路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "我行歹"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "對我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:15.528496119Z",
+  "model": "glm-5.3"
+}

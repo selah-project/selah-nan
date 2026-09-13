@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "⟨את⟩ 雅威你的以羅欣你著敬畏,⟨את⟩ 伊你著服事,你著黏倚伊,閣用伊的名來起誓。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威你的以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "你著敬畏"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "你著服事"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "你著黏倚"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "用伊的名"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "來起誓"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:39.104903074Z",
+  "model": "glm-5.3"
+}

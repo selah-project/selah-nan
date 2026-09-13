@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "雅威欲用癆病、發燒、發炎、酷熱、乾旱、枯萎佮發霉拍擊你,遐的欲追你,直到你滅亡。",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "拍擊你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "用癆病"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "佮發燒"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "佮發炎"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "佮酷熱"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "佮乾旱"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "佮枯萎"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "佮發霉"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "遐的欲追你"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "你滅亡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:31.833653698Z",
+  "model": "glm-5.3"
+}

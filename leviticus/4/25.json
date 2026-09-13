@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "祭司就先用伊的指頭仔,對贖罪祭的血撮一寡,點佇燒祭壇的角頂,閣將⟨את⟩伊的血倒佇燒祭壇的崁底。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "就撮"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "對…的血"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "用伊的指頭仔"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "閣點"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "角"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "倒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "崁底"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:21.639957055Z",
+  "model": "glm-5.3"
+}

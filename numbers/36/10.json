@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "親像雅威命令⟨את⟩摩西彼款,按呢,撒羅非哈的查某囝就行做。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "親像…彼款"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行做"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "撒羅非哈"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:32.142270995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "因為你袂放我的性命落去示阿勒,也袂互你的赫瑟德者看著坑穴。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "放"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "落去示阿勒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "你的赫瑟德者"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看著"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "坑穴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:17.365987395Z",
+  "model": "glm-5.3"
+}

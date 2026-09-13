@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "佇你內面,雅威啊,我有走避;我永遠毋通受見誚;佇你的公義救我脫離。",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "佇你內面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我有走避"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "受見誚"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "佇你的公義"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "救我脫離"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:16.265454278Z",
+  "model": "glm-5.3"
+}

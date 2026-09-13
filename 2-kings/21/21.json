@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 21:21",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊行佇伊老父所行的一切路,閣服事⟨את⟩伊老父所服事的彼寡偶像,閣向𪜶跍拜。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "閣服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡偶像"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "彼寡偶像"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "服事"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "閣跍拜"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:55.019284104Z",
+  "model": "glm-5.3"
+}

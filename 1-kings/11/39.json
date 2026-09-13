@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "我就欲為著這个磨苦大衛的後裔 ⟨את⟩,毋拘毋是所有的日子。",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "我就欲磨苦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛的後裔"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "後裔"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "אך",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:15.000442942Z",
+  "model": "glm-5.3"
+}

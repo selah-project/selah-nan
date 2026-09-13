@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊講:雅威⟨是⟩我的巖石、我的堡壘、閣救我逃脫的。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "我的巖石"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "閣我的堡壘"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "閣我的逃脫之處"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    }
+  ],
+  "timestamp": "2026-09-12T02:58:43.795660886Z",
+  "model": "glm-5.3"
+}

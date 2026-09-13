@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "𨑨罌的粉無了,油瓶的油無欠,照雅威的話,就是伊通過以利亞的手所講的。",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "𨑨罌"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "的粉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "了"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "佮油瓶"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "的油"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所講的"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "通過…的手"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:35.798409924Z",
+  "model": "glm-5.3"
+}

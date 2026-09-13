@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇猶大王約雅斤(耶路撒冷的王)做王第三年,巴比倫王尼布甲尼撒來到耶路撒冷,圍攻伊。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "三"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "做王"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "約雅斤"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "就圍攻"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "攻擊伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:29.892761657Z",
+  "model": "glm-5.3"
+}

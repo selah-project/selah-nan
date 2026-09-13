@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "若是𪜶玷瀆我的律例,無遵守我的誡命,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "𪜶玷瀆"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "閣我的誡命"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "遵守"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:40.456154316Z",
+  "model": "glm-5.3"
+}

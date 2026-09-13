@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "按呢彼時,水就會淹過阮,急流會沖過阮的性命;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "按呢彼時"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "淹過阮"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "急流"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "沖過"
+    },
+    {
+      "surface": "על",
+      "gloss": "過"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "阮的性命"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:52.179871387Z",
+  "model": "glm-5.3"
+}

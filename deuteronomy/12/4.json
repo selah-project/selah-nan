@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "恁毋通對雅威——恁的以羅欣——按呢做。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "恁做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:57.218157406Z",
+  "model": "glm-5.3"
+}

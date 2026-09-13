@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "以色列的子兒就對何烈山遐褪落⟨את⟩𪜶的妝飾。",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "就褪落"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的妝飾"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "𪜶的妝飾"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "對何烈山遐"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "何烈山"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:06.196692268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 5:1",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "伯沙撒王為著伊的大臣一千人辦設大筵席,佇⟨彼⟩一千人面前啉酒。",
+  "tokens": [
+    {
+      "surface": "בלשאצר",
+      "gloss": "伯沙撒"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "辦設"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "筵席"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    },
+    {
+      "surface": "לרברבנוהי",
+      "gloss": "為著伊的大臣"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "ולקבל",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "אלפא",
+      "gloss": "彼一千人"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "酒"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "啉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:44:20.555571463Z",
+  "model": "glm-5.3"
+}

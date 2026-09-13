@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我對下深的井呼求你的名,雅威。",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "我呼求"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "對井"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "下深"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:25.167319615Z",
+  "model": "glm-5.3"
+}

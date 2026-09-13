@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "對欺負佮強暴,伊欲贖回𪜶的性命;𪜶的血佇伊的目睭前是貴重的。",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "對欺負"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "佮強暴"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "伊欲贖回"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "是貴重的"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "𪜶的血"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:11.332268440Z",
+  "model": "glm-5.3"
+}

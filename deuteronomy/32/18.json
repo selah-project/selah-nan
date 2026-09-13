@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "生你的磐石,你無記得;生成你的以勒,你也袂記得矣。",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "生你的"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "無記得"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "也袂記得"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "生成你的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:25:02.329997807Z",
+  "model": "glm-5.3"
+}

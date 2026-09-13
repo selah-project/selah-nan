@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我欲共伊栽落佇土內做家己的,我欲疼惜⟨את⟩『羅·露哈瑪』(無得著疼惜的),閣我欲對『羅·阿米』(毋是我的百姓)講:『你是我的百姓』,伊欲講:『我的以羅欣!』",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "我欲共伊栽落"
+    },
+    {
+      "surface": "לי",
+      "gloss": "做家己的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇土內"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "我欲疼惜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羅·露哈瑪"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "得著疼惜的"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "閣我欲講"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "對毋是"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓(頭一擺)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "欲講"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:11.652357903Z",
+  "model": "glm-5.3"
+}

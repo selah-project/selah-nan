@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 26:19",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "遮是守門人的班次:屬可拉的後生的,佮屬米拉利的後生的。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "班次"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "守門人的"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "屬…的後生"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "佮屬…的後生"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "米拉利"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:01.136457818Z",
+  "model": "glm-5.3"
+}

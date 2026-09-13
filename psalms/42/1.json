@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "互指揮者的;教導詩,可拉的後裔的。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者的"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "教導詩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的後裔"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:08.612570451Z",
+  "model": "glm-5.3"
+}

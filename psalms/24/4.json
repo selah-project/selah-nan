@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "就是手清氣、心清淨个人,伊毋捌攑家己个性命到虛無,嘛毋捌對欺騙來咒誓。",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "清氣个人"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "手"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "佮清淨"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…个人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "捌攑"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "到虛無"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "家己个性命"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "捌咒誓"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "對欺騙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:09.366273477Z",
+  "model": "glm-5.3"
+}

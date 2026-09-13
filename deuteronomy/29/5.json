@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "餅,恁無食,酒佮烈酒恁毋捌啉,為著欲互恁知我就是雅威,恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "佮酒"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "烈酒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋捌"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "恁啉"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "恁知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:34.718662492Z",
+  "model": "glm-5.3"
+}

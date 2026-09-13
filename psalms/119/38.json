@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "互祢的話徛在,對祢的奴僕——就是向祢敬畏的人。",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "互……徛在"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "對祢的奴僕"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "祢的話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "向祢敬畏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:03.888756128Z",
+  "model": "glm-5.3"
+}

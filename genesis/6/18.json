@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣我欲豎立 ⟨את⟩ 我的約佮 ⟨את⟩ 你;你欲入去方舟——你、你的後生、你的某、閣你後生的某,攏佮 ⟨את⟩ 你。",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "閣我欲豎立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "佮⟨את⟩你"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "你欲入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去…"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "方舟"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "佮你的後生"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "佮你的某"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "閣…的某"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的後生"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "佮⟨את⟩你"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:51.611271525Z",
+  "model": "glm-5.3"
+}

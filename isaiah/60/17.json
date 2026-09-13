@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 60:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "代換彼個青銅,我欲帶黃金來;代換彼個鐵,我欲帶白銀來;代換彼個樹柴,青銅;代換彼個石頭,鐵;閣我欲設立你的治理做平安,你的壓制者做公義。",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "代換"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "彼個青銅"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "我欲帶來"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "黃金"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "佮代換"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "彼個鐵"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "我欲帶來"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "白銀"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "佮代換"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "彼個樹柴"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "青銅"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "佮代換"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "彼個石頭"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "閣我欲設立"
+    },
+    {
+      "surface": "פקדתך",
+      "gloss": "你的治理"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ונגשיך",
+      "gloss": "佮你的壓制者"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:31.814344809Z",
+  "model": "glm-5.3"
+}

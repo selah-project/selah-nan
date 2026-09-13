@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "佇恁的地內無會有流產的,亦無會無生的;我欲充滿⟨את⟩恁的日子的數目。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會有"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "流產的"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "閣無生的"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "佇恁的地內"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的日子的數目"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "恁的日子"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "我欲充滿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:32.786228548Z",
+  "model": "glm-5.3"
+}

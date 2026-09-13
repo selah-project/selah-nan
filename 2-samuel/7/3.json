@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "拿單對王講:「你心內所有的,去做!因為雅威佮你佇咧。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(關係詞)"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "佇你心內"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你佇咧"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:21.384725431Z",
+  "model": "glm-5.3"
+}

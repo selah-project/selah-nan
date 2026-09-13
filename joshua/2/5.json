@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 2:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "「彼時城門咧欲關矣,天猶烏,彼个人就出去矣;𪜶行去佗位,我毋知。恁緊去追𪜶,因為恁會追著𪜶。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "השער",
+      "gloss": "城門"
+    },
+    {
+      "surface": "לסגור",
+      "gloss": "咧欲關"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "天猶烏"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "彼个人就"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "去佗位"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "去追"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "緊"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תשיגום",
+      "gloss": "會追著𪜶"
+    }
+  ],
+  "timestamp": "2026-09-13T03:56:39.011645454Z",
+  "model": "glm-5.3"
+}

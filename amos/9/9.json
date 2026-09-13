@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 9:9",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為看啊,我出令,我欲搖動⟨את⟩以色列的家佇攏總列國中間,親像粟仔佇篩仔內搖,抑無一粒會落塗。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "出令"
+    },
+    {
+      "surface": "והנעותי",
+      "gloss": "我欲搖動"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇攏總"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "ינוע",
+      "gloss": "搖"
+    },
+    {
+      "surface": "בכברה",
+      "gloss": "佇篩仔內"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "抑無"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "落"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "一粒"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "塗"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:18.943149140Z",
+  "model": "glm-5.3"
+}

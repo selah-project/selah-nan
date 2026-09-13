@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶親像棕樹仔,是用錘仔拍出來的,毋𣍐講話;𪜶定著予人扛,因為𪜶𣍐行路。毋通驚𪜶,因為𪜶𣍐做歹,嘛無才調做好(⟨את⟩𪜶)。",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "親像棕樹仔"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "用錘仔拍出來的"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "講話"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "扛"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "予人扛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "行路"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "驚"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "做歹"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "做好"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-13T06:32:58.056465985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "佇院牆的闊度內底,向東的路,佇隔離區的頭前,嘛佇建築物的頭前,有廂房。",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "佇…的闊度"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "牆"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院的"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "向東"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "פני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "隔離區"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛向"
+    },
+    {
+      "surface": "פני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "建築物"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "有廂房"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:55.219856242Z",
+  "model": "glm-5.3"
+}

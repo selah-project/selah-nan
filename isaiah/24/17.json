@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "驚惶、坑、閣網羅,攏對著你,徛佇地上的人!",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "閣坑"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "閣網羅"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "攏對著你"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "徛佇地上的人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:10.209096349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "這陣𪜶做伙用斧頭佮鐵鎚,摃毀伊一切的雕刻。",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "伊的雕刻"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "用斧頭"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "佮鐵鎚"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "摃毀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:54.003553129Z",
+  "model": "glm-5.3"
+}

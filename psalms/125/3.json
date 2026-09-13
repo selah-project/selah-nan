@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 125,
+  "translation": "因為惡人的杖袂安息佇義人的份,免得義人伸𪜶的手去向惡事。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "安息"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "杖"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "惡人的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "份(抽籤所得的)"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "למען",
+      "gloss": "免得"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "伸……去"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "向惡事"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:41.078690544Z",
+  "model": "glm-5.3"
+}

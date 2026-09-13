@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "精明的人看著災禍就閃避;戇直的人做伙行過去,就受罰。",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "精明的人"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看著"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "就閃避"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "佮戇直的人"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "行過去"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "就受罰"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:08.462174279Z",
+  "model": "glm-5.3"
+}

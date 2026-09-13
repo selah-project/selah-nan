@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "扶持我,我就會得救,我就會常常看重你的律例。",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "扶持我"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "我就會得救"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "我就會看重"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "你的律例"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:04.782721546Z",
+  "model": "glm-5.3"
+}

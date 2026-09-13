@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "閣我欲差⟨את⟩虎頭蜂去恁面前,伊欲趕走⟨את⟩希未人、⟨את⟩迦南人、佮⟨את⟩赫人,離開恁的面。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "閣我欲差"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "虎頭蜂"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "虎頭蜂"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "去恁面前"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "伊欲趕走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "希未人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "赫人"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "離開恁的面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:32.786850264Z",
+  "model": "glm-5.3"
+}

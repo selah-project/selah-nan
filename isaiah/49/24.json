@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "掠物會當對勇士的手裡搶走無?義人的俘虜會當逃脫無?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "會當搶走無"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "對勇士"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "掠物"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "俘虜"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "逃脫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:16.828498427Z",
+  "model": "glm-5.3"
+}

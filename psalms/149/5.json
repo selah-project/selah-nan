@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "咱的敬虔人欲佇榮光中歡喜跳躍,𪜶欲佇𪜶的眠床頂大聲唱歌頌讚。",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "歡喜跳躍"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "敬虔人"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "佇榮光中"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "大聲唱歌頌讚"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "𪜶的眠床"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.973353399Z",
+  "model": "glm-5.3"
+}

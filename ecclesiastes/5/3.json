@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "你若向以羅欣許願,就毋通延遲還伊;因為伊無歡喜戇人;⟨את⟩ 你所許个願,著還。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "許"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "願"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "向以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "延遲"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "還伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你所許个願"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…个"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "許"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "著還"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:52.036995375Z",
+  "model": "glm-5.3"
+}

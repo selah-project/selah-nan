@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "雅威所贖回的人著按呢講,𪜶是雅威對敵人的手中贖回來的。",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "著按呢講"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "所贖回的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "贖回來的"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對……的手中"
+    },
+    {
+      "surface": "צר",
+      "gloss": "敵人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:31.653064117Z",
+  "model": "glm-5.3"
+}

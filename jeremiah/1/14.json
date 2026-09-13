@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威對我講:對北方,歹事會拍開,臨到〈逐個〉徛佇此地的人。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "對北方"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "會拍開"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "彼項歹事"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "徛佇…的人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:41.247152658Z",
+  "model": "glm-5.3"
+}

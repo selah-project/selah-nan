@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 49:26",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "我欲互欺壓你的人食⟨את⟩𪜶家己的肉,𪜶欲親像灌甜酒仝款灌飲⟨את⟩𪜶家己的血;逐個肉體攏欲知影我雅威是你的拯救者、是你的救贖者、是雅各的大力者。",
+  "tokens": [
+    {
+      "surface": "והאכלתי",
+      "gloss": "我欲互…食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶家己的肉"
+    },
+    {
+      "surface": "מוניך",
+      "gloss": "欺壓你的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶家己的肉"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "𪜶家己的肉"
+    },
+    {
+      "surface": "וכעסיס",
+      "gloss": "親像灌甜酒仝款"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "𪜶家己的血"
+    },
+    {
+      "surface": "ישכרון",
+      "gloss": "灌飲"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "攏欲知影"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "你的拯救者"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "你的救贖者"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "大力者"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:47.784592719Z",
+  "model": "glm-5.3"
+}

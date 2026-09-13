@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "受咒詛的,是彼个佮伊的小妹睏做夥的,無論是伊老父的查某囝,抑是伊老母的查某囝;規個百姓攏欲講:阿們。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "受咒詛的"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "睏做夥"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "伊的小妹"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "攏欲講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿們"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:39.933546657Z",
+  "model": "glm-5.3"
+}

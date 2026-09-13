@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊一下獻好燒祭,看啊,撒母耳來啊;掃羅就出去迎接伊,欲祝福伊。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "一下獻好"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "獻"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來啊"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "迎接伊"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "欲祝福伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:49.164533499Z",
+  "model": "glm-5.3"
+}

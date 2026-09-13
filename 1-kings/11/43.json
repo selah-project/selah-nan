@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "所羅門佮伊的列祖同眠,埋葬佇伊的父親大衛的城;伊的子羅波安接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "閣……同眠"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "閣埋葬"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇……的城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的父親"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "閣……做王"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:38.032002448Z",
+  "model": "glm-5.3"
+}

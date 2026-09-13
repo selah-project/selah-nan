@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "徛佇伊蔭影下的人欲倒轉來;𪜶欲互五穀活起來,欲開花親像葡萄樹;伊的名聲欲親像黎巴嫩的酒。",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "欲倒轉來"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "徛佇…的人"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "伊的蔭影下"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "欲活起來"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "欲開花"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "親像葡萄樹"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "伊的名聲"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "親像…的酒"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:44.084871237Z",
+  "model": "glm-5.3"
+}

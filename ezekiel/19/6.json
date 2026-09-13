@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊佇獅仔中間行來行去,成做一隻少年獅,學會撕獵物,吃人。",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "行來行去"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "獅仔"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "少年獅"
+    },
+    {
+      "surface": "היה",
+      "gloss": "成做"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "學會"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "撕"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "獵物"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "吃"
+    }
+  ],
+  "timestamp": "2026-09-12T04:14:16.198988743Z",
+  "model": "glm-5.3"
+}

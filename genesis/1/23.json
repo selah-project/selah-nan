@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "有暗昏,有早起,第五日。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "暗昏"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早起"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "第五"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:33.486488392Z",
+  "model": "glm-5.3"
+}

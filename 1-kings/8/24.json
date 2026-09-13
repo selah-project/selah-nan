@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "你為你的奴僕大衛——我的老爸——守⟨את⟩你對伊所講的;你用你的嘴講,用你的手成全,親像今仔日按呢。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "你守"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "為你的奴僕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的老爸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你對伊所講的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "你講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "用你的嘴"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "用你的手"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "你成全"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "親像今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:08.595957601Z",
+  "model": "glm-5.3"
+}

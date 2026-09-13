@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊的城的長老就會派人去,對遐提伊轉來 ⟨את⟩,共伊交佇報血仇者的手裡 ⟨את⟩,伊就愛死。",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "就派人去"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "伊的城"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "提伊轉來"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(對遐)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "共伊交"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "交佇…手裡"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…手裡"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "報血仇者(救贖親人)"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "伊就愛死"
+    }
+  ],
+  "timestamp": "2026-09-13T06:30:36.767018009Z",
+  "model": "glm-5.3"
+}

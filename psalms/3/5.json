@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我對雅威用我的聲呼叫,伊對伊的聖山應我。細拉。",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我呼叫"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "伊應我"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "對山"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:12.962409040Z",
+  "model": "glm-5.3"
+}

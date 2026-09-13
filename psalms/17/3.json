@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "你考驗過我的心,你暝時察看過,你鍊過我,啥物嘛無揣著;我的圖謀,我的喙袂越過。",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "你考驗過"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "你察看過"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暝時"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "你鍊過我"
+    },
+    {
+      "surface": "בל",
+      "gloss": "啥物嘛無"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "我的圖謀"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "越過"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:06.169583702Z",
+  "model": "glm-5.3"
+}

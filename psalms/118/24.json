@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "這个是雅威所造的日子;咱來歡喜,佮咱佇伊內底快樂。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所造"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "咱來歡喜"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "佮咱…快樂"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:54.021185166Z",
+  "model": "glm-5.3"
+}

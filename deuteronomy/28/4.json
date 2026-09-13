@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "受祝福的是你腹肚內的果子,佮你土地的果子,佮你精牲的果子——你的牛隻新生的仔,佮你的羊群所生的。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "受祝福"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "你的腹肚"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "佮…的果子"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你的土地"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "佮…的果子"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "你的精牲"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "新生的仔"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "你的牛隻"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "佮…所生的"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "你的羊群"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:30.177243495Z",
+  "model": "glm-5.3"
+}

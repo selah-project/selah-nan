@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "咒詛伊的老父佮伊的老母的人,伊的燈會熄去,佇極深的烏暗中。",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "佮伊的老母"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "會熄去"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "伊的燈"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "佇極深的"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗中"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:21.104767369Z",
+  "model": "glm-5.3"
+}

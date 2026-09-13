@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "你用你的好事做一年的冕旒,你的路徑滴落肥汁。",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "你…做冕旒"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "一年"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "你的好事"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "佮你的路徑"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "滴落"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "肥汁"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:19.988098463Z",
+  "model": "glm-5.3"
+}

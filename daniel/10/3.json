@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "可口的餅我無食,肉佮酒無入去我喙,油膏嘛無擦,直到三禮拜的日子滿。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "可口"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "我食"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "閣肉"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "佮酒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我喙"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "閣油膏"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "我擦"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "滿"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "禮拜"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:50.026300088Z",
+  "model": "glm-5.3"
+}

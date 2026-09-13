@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "因為我的使者欲行佇恁面前，導恁入去亞摩利人、赫人、比利洗人、迦南人、希未人、耶布斯人的所在，我欲刣無𪜶。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "我的使者"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇恁面前"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "導恁入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去……的所在"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "我欲刣無𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:09.270360662Z",
+  "model": "glm-5.3"
+}

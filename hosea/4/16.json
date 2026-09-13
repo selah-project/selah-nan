@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為以色列悖逆,親像一隻悖逆的牛牝;這陣雅威欲飼𪜶,親像羊仔佇開闊的所在。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "親像一隻牛牝"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "悖逆的"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "欲飼𪜶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "親像羊仔"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "佇開闊的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:53.363120673Z",
+  "model": "glm-5.3"
+}

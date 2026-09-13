@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "雅各啊,聽我,閣以色列,我所叫來的:我就是伊;我是頭一個,嘛是最後一個。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "閣以色列"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "我所叫來的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是伊"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "是頭一個"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "最後一個"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:51.622393193Z",
+  "model": "glm-5.3"
+}

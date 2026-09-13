@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "有火對雅威的面頭前出去,佇祭壇頂食掉⟨את⟩燒祭佮⟨את⟩油脂;規個會眾看見,就出聲喝采,仆落佇𪜶的面。",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "對……面頭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "食掉"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燒祭"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "油脂"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "油脂"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "出聲喝采"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "仆落"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "𪜶的面"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:09.759087902Z",
+  "model": "glm-5.3"
+}

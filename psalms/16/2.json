@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "我對雅威講：阿多奈，你⟨是⟩我的；我的好處無佇你以外。",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "我講"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "我的好處"
+    },
+    {
+      "surface": "בל",
+      "gloss": "無"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "佇你以外"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:57.195103677Z",
+  "model": "glm-5.3"
+}

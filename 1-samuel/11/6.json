@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "以羅欣的神衝落掃羅身上,當伊聽 ⟨את⟩ 這些話的時,伊的怒大大著起。",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "衝落"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "神"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "落…身上"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "當伊聽…的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "著起"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊的怒"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:50.383298411Z",
+  "model": "glm-5.3"
+}

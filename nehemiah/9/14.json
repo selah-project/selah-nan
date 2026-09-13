@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣祢互𪜶知 ⟨את⟩ 祢神聖的安息日,閣藉祢奴僕摩西的手,命令𪜶誡命、條例佮律法。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "祢神聖的安息日"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "祢神聖的"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "祢互…知"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "閣誡命"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "閣條例"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "閣律法"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "祢命令"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "祢的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:41.017072701Z",
+  "model": "glm-5.3"
+}

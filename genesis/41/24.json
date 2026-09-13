@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "彼薄薄的穗仔吞掉 ⟨את⟩ 七个好穗仔,我就對彼啲行法術的講,無人會當講予我聽。」",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "吞掉"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "彼啲穗仔"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "薄薄的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七个好穗仔"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "个好穗仔"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "好"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "彼啲行法術的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "人會當講"
+    },
+    {
+      "surface": "לי",
+      "gloss": "予我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:24.919940183Z",
+  "model": "glm-5.3"
+}

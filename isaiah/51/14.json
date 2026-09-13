@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "受彎落的囚人緊受釋放,伊袂死落坑內,伊的糧食嘛袂欠缺。",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "緊"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "受彎落的囚人"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "受釋放"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "伊袂死"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "落坑"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "袂欠缺"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "伊的糧食"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:18.884707042Z",
+  "model": "glm-5.3"
+}

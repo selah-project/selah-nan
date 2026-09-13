@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 111,
+  "translation": "伊差救贖去到伊的子民;伊命令伊的約到永遠:聖潔閣通敬畏的,是伊的名。",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "救贖"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "去到伊的子民"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "伊的約"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "閣通敬畏"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:43.386009434Z",
+  "model": "glm-5.3"
+}

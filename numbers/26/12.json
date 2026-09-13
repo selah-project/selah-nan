@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "西緬的子照𪜶的宗族:屬尼母伊的,是尼母伊宗族;屬雅憫的,是雅憫宗族;屬雅斤的,是雅斤宗族。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "的子"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的宗族"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "屬尼母伊"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "彼个尼母伊族"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "屬雅憫"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "彼个雅憫族"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "屬雅斤"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "彼个雅斤族"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:52.225304619Z",
+  "model": "glm-5.3"
+}

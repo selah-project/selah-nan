@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "歹人毋了解審判,獨獨揣雅威的人啥物攏了解。",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "了解"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "獨獨揣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "了解"
+    },
+    {
+      "surface": "כל",
+      "gloss": "啥物攏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:21.489772585Z",
+  "model": "glm-5.3"
+}

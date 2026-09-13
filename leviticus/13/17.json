@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司看伊,看啊,災病已經變做白色,祭司就宣告 ⟨את⟩ 災病做清氣;伊是清氣的。",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "看伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "變做"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "災病"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "白色"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "宣告……做清氣"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "災病"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "災病"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:44.774383468Z",
+  "model": "glm-5.3"
+}

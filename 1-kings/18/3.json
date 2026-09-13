@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "亞哈召來俄巴底亞,伊是掌管宮內的;俄巴底亞極其敬畏 ⟨את⟩ 雅威。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "召來"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "אל",
+      "gloss": "來…遮"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "俄巴底亞"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "על",
+      "gloss": "掌管"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "宮內"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "俄巴底亞"
+    },
+    {
+      "surface": "היה",
+      "gloss": "極其"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真厲害"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:11.891318906Z",
+  "model": "glm-5.3"
+}

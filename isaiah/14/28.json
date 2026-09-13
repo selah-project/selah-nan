@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "亞哈斯王過身彼年,這個重擔臨到。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "彼年"
+    },
+    {
+      "surface": "מות",
+      "gloss": "過身"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "亞哈斯"
+    },
+    {
+      "surface": "היה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "這個重擔"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:56.561093706Z",
+  "model": "glm-5.3"
+}

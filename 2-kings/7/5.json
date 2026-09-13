@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "𪜶佇黃昏暗時起來,欲入去亞蘭的營區,行到亞蘭營區的邊界,看啊,彼位無半個人。",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "佇黃昏暗時"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "欲入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營區"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "行到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "邊界"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營區"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇彼位"
+    },
+    {
+      "surface": "איש",
+      "gloss": "半個人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:54.631671382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "大衛照以羅欣所命令伊的去做;𪜶拍⟨את⟩非利士人的軍營,對基遍到基色。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "做"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "所命令伊的"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "𪜶拍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人的軍營"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "軍營"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "對基遍"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "基色"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:10.105977926Z",
+  "model": "glm-5.3"
+}

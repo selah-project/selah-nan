@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為替該隱討七倍的報仇,若是替拉麥,就七十閣七倍。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "討…的報仇"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "若是替拉麥"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "閣七"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:08.614995629Z",
+  "model": "glm-5.3"
+}

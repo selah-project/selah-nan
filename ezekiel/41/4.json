@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "伊量⟨את⟩伊的長二十肘,閣闊二十肘,佇聖殿的面頭前;伊對我講:“這是聖中的聖。”",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的長"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "閣闊"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "聖殿"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "中的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:40.514084166Z",
+  "model": "glm-5.3"
+}

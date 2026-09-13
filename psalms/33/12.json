@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "彼個國有福氣啊,雅威做伊的以羅欣;彼個百姓是伊揀選做家業的。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "彼個國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼個百姓"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "揀選"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "做家業"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:56.535408747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "我就講:啥人欲互我親像鴿仔的翼?我就會飛走,佮安歇。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "翼"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "親像鴿仔"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "我就會飛走"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "佮安歇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:48.220106176Z",
+  "model": "glm-5.3"
+}

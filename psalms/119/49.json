@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "求你記得對你奴僕所講的話,就是彼句你互我向望的。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你記得"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "對你的奴僕"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼句"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "你互我向望的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:28.632583542Z",
+  "model": "glm-5.3"
+}

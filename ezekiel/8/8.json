@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊對我講:「人子啊,請你掘壁。」我就掘壁,看啊,有一个門。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊對我講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "掘"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "我就掘"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:54.997401615Z",
+  "model": "glm-5.3"
+}

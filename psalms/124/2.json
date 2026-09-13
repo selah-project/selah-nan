@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "若毋是雅威為著阮,當人起來攻擊阮的時,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "若毋是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為著阮"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "當…起來"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "攻擊阮"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:36.655319630Z",
+  "model": "glm-5.3"
+}

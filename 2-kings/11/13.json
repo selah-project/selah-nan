@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "亞她利雅聽見⟨את⟩彼奔跑的人佮百姓的聲,就入去到百姓遐,佇雅威的家。",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "就聽見"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "亞她利雅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "奔跑的人"
+    },
+    {
+      "surface": "העם",
+      "gloss": "佮百姓"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "就入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:39.397223286Z",
+  "model": "glm-5.3"
+}

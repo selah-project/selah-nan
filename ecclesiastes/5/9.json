@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "愛銀的,銀袂予伊滿足;毋閣孰人愛豐盛,收益嘛袂予伊滿足;這嘛是虛空。",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "滿足"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "毋閣孰人"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "豐盛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "收益"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:27.774096884Z",
+  "model": "glm-5.3"
+}

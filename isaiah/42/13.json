@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "雅威欲親像勇者按呢出去,親像戰士伊欲激起嫉忿;伊欲出聲喊,嘛欲吼叫;對敵伊的人,伊欲顯出勇力。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "親像勇者"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "親像人"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "激起"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "嫉忿"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "出聲喊"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "吼叫"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "伊的仇敵"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "顯出勇力"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:06.142204648Z",
+  "model": "glm-5.3"
+}

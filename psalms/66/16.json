@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "來,恁著聽,我欲給逐個敬畏以羅欣的人講伊對我的性命所做的事。",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "來"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "我欲…講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的事"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "對我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:25.591129534Z",
+  "model": "glm-5.3"
+}

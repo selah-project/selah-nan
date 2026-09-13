@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "有霧對地裡升起,沃⟨את⟩規个土地的面。",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "閣霧"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "升起"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地裡"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "閣沃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "規个面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規个"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:28.003767083Z",
+  "model": "glm-5.3"
+}

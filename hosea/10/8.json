@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 10:8",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣阿文的高位,以色列的罪,欲受毀滅;刺佮薊欲佇𪜶的祭壇頂發起;𪜶欲對諸山講:「掩遮阮!」對諸丘陵講:「倒落阮身上!」",
+  "tokens": [
+    {
+      "surface": "ונשמדו",
+      "gloss": "閣欲受毀滅"
+    },
+    {
+      "surface": "במות",
+      "gloss": "高位"
+    },
+    {
+      "surface": "און",
+      "gloss": "阿文"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "刺"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "佮薊"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "發起"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "𪜶的祭壇"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "𪜶欲講"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "對諸山"
+    },
+    {
+      "surface": "כסונו",
+      "gloss": "掩遮阮"
+    },
+    {
+      "surface": "ולגבעות",
+      "gloss": "佮對諸丘陵"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒落"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "阮身上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:11.833071449Z",
+  "model": "glm-5.3"
+}

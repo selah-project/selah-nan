@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊做⟨את⟩洗濯盆,銅做的,佮⟨את⟩伊的座,嘛是銅做的,用佇會幕門口服事的查某人的鏡仔做的。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗濯盆"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "洗濯盆"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的座"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "伊的座"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "用鏡仔"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "服事的查某人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼的"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "服事"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:53.055404684Z",
+  "model": "glm-5.3"
+}

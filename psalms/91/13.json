@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "你欲踏佇獅仔佮毒蛇頂面,你欲踏碎幼獅佮大蛇。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "獅仔"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "佮毒蛇"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "你欲踏"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "你欲踏碎"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "佮大蛇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:32.673418725Z",
+  "model": "glm-5.3"
+}

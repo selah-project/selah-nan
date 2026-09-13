@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "所羅門綴阿施托蕾(亞斯她錄),就是西頓人的以羅欣,閣綴米勒公,亞捫人的可憎物。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "綴"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴…後面"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "阿施托蕾"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "西頓人的"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "閣綴…後面"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "米勒公"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎物"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "亞捫人的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:46.425999155Z",
+  "model": "glm-5.3"
+}

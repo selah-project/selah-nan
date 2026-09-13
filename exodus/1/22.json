@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "法老就命令伊全體的百姓,講:「凡生出來的囝仔,恁著擲入去尼羅河;凡查某囡仔,恁著留伊活命。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對全體"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "生出來的"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "入去尼羅河"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "恁著擲伊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "查某囡仔"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "恁著留活命"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:01.306155052Z",
+  "model": "glm-5.3"
+}

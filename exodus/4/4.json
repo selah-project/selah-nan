@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "雅威對摩西講:「伸手,扼伊的尾溜。」伊就伸手,用力扼伊,伊佇伊的手掌變做柺仔。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "扼"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "伊的尾溜"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "伊就伸"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "用力扼"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "變做"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "柺仔"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "佇伊的手掌"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:52.412613656Z",
+  "model": "glm-5.3"
+}

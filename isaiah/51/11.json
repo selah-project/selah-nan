@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 51:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "雅威所贖回的人欲倒轉來,欲用歌唱入錫安,永遠的歡喜欲佇𪜶頭殼頂;𪜶欲得著快樂佮歡喜,憂悶佮吐氣欲走去。",
+  "tokens": [
+    {
+      "surface": "ופדויי",
+      "gloss": "所贖回的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "欲倒轉來"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "入"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "用歌唱"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "佮歡喜"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "𪜶頭殼頂"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "佮歡喜"
+    },
+    {
+      "surface": "ישיגון",
+      "gloss": "欲得著"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "走去"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "憂悶"
+    },
+    {
+      "surface": "ואנחה",
+      "gloss": "佮吐氣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:56.638369328Z",
+  "model": "glm-5.3"
+}

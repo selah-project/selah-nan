@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "差恁中間一个人去,佮伊去提⟨את⟩恁兮兄弟;恁就互人縛起來,恁兮話受考驗,看是實敢佮⟨את⟩恁做伙;若毋是——法老猶活!恁確實是探子。",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "差"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "對恁中間"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "佮去提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁兮兄弟"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "恁兮兄弟"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "互人縛起來"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "佮受考驗"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "恁兮話"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "是實"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩佮恁"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "חי",
+      "gloss": "猶活"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "כי",
+      "gloss": "確實"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "探子"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:10.868619027Z",
+  "model": "glm-5.3"
+}

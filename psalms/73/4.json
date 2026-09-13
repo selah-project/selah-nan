@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "因為𪜶死的時無捆縛之苦,𪜶的身軀嘛是勇健。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "捆縛之苦"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "𪜶死的時"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "嘛是勇健"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "𪜶的身軀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:25.229993144Z",
+  "model": "glm-5.3"
+}

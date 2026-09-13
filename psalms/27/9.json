@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "毋通掩你的面離開我,毋通佇受氣中偏斜你的奴僕;你做過我的幫助。毋通攦掉我,嘛毋通放捨我,我的拯救的以羅欣啊。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "掩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離開我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תט",
+      "gloss": "偏斜"
+    },
+    {
+      "surface": "באף",
+      "gloss": "佇受氣中"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "我的幫助"
+    },
+    {
+      "surface": "היית",
+      "gloss": "你做過"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "攦掉我"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "放捨我"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "我的拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:51.893514937Z",
+  "model": "glm-5.3"
+}

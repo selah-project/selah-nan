@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我看見⟨את⟩一切活咧行佇日頭下跤的人,攏佮彼个第二個孩子做伙,伊欲徛佇伊的位。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切活咧行佇日頭下跤的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "咧行"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……下跤"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮……做伙"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "彼个孩子"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "佇伊的位"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:04.315998043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 41:33",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "這霎，法老著揣一个明白閣有智慧的人，設伊佇埃及地〈的頂面〉。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這霎"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "著揣"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个…人"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "明白"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "閣有智慧"
+    },
+    {
+      "surface": "וישיתהו",
+      "gloss": "設伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:19.302103877Z",
+  "model": "glm-5.3"
+}

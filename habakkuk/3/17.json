@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為無花果樹毋開花,葡萄園內無收成,橄欖的做工白做無出產,羊仔對羊欄被剪除,牛欄內無牛:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "無花果樹"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "開花"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "收成"
+    },
+    {
+      "surface": "בגפנים",
+      "gloss": "葡萄園內"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "白做"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "做工"
+    },
+    {
+      "surface": "זית",
+      "gloss": "橄欖"
+    },
+    {
+      "surface": "ושדמות",
+      "gloss": "田園"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "出產"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "剪除"
+    },
+    {
+      "surface": "ממכלה",
+      "gloss": "對羊欄"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ברפתים",
+      "gloss": "牛欄內"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:44.871796668Z",
+  "model": "glm-5.3"
+}

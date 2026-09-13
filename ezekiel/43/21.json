@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "閣你欲掠 ⟨את⟩ 彼隻贖罪的公牛,佇彼間厝所指定的所在,佇聖所的外面燒伊。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "閣你欲掠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻贖罪的公牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "彼隻公牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "贖罪的"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "佮燒伊"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "佇所指定的所在"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外面"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "對聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:25.227629Z",
+  "model": "glm-5.3"
+}

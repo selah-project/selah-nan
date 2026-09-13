@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊無按呢對待任何一个列國;論伊的典章,𪜶攏無識。恁著謳咾雅!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "伊對待"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "任何…的"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "論…典章"
+    },
+    {
+      "surface": "בל",
+      "gloss": "攏無"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "𪜶識"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "恁著謳咾"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:31.007441062Z",
+  "model": "glm-5.3"
+}

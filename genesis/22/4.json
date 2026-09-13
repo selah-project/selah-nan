@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "佇第三日,亞伯拉罕舉⟨את⟩伊的目睭,就看見⟨את⟩彼个所在,對遠遠。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "舉"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的目睭"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "就看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个所在"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "對遠遠"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:11.962407902Z",
+  "model": "glm-5.3"
+}

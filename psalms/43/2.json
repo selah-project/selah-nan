@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "因為祢⟨是⟩我的以羅欣、我的保障。啥物緣故祢棄捒我?啥物緣故我咧愁苦暗冥行,佇敵人的壓制下?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "祢"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "我的保障"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "祢棄捒我"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "愁苦暗冥"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "我咧行"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "佇壓制下"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵人的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:11.756259023Z",
+  "model": "glm-5.3"
+}

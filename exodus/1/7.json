@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以色列的子孫生湠、繁殖、添丁、變到極強極盛,彼個地方充滿⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "閣…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "生湠"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "繁殖"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "添丁"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "變到極強"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地方"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:13.639104876Z",
+  "model": "glm-5.3"
+}

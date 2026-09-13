@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "搬徙石頭的,會受損害佇彼;劈破柴木的,會陷危險佇彼。",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "搬徙"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "會受損害"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇彼"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "劈破"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "柴木"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "會陷危險"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇彼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:56.094701897Z",
+  "model": "glm-5.3"
+}

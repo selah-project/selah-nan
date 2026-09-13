@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你若用杵佇研缽搙 ⟨את⟩ 愚戇的人,佇搗碎的穀粒中間,伊的愚戇嘛袂對伊的身上離開。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "搙"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "愚戇的人"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "佇研缽"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "搗碎的穀粒"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "用杵"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "袂離開"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "對伊的身上"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "伊的愚戇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:42.755329066Z",
+  "model": "glm-5.3"
+}

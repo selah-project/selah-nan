@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "「帶⟨את⟩恁的老爸佮⟨את⟩恁的厝內的人,來我遮;我欲互恁⟨את⟩米茲拉因(埃及)地的上好物,恁會使食⟨את⟩彼土地的油脂(上等物)。」",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "帶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的老爸"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "恁的老爸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "恁的厝內的人"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "恁的厝內的人"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米茲拉因地的上好物"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "上好物"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "恁會使食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼土地的油脂"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "油脂(上等物)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:21.539621412Z",
+  "model": "glm-5.3"
+}

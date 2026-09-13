@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 24:9",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "𪜶佇猶大佮耶路撒冷出聲宣佈,愛人帶貢物來互雅威,就是摩西——以羅欣的奴僕——佇曠野中所定對以色列的。",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "𪜶出聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "佇猶大"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "佮佇耶路撒冷"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "愛人帶來"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "貢物"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野中"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:02.099671826Z",
+  "model": "glm-5.3"
+}

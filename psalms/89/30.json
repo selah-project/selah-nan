@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我欲設伊的後裔直到永遠,伊的寶座親像諸天的日子。",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "閣我欲設"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "伊的後裔"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "伊的寶座"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "親像…的日子"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:40.455883466Z",
+  "model": "glm-5.3"
+}

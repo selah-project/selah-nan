@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 22:19",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊講:「所以你著聽雅威的話:我看見⟨את⟩雅威坐佇伊的寶座,天上的眾軍攏徛佇伊面前,佇伊的正手旁佮倒手旁。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "你著聽"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "伊的寶座"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "眾軍"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天上的"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "佇伊的正手旁"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "佮倒手旁"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:17.740427109Z",
+  "model": "glm-5.3"
+}

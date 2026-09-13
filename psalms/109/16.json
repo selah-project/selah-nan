@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "因為伊無記念欲行赫瑟德,反轉迫逐困苦的人佮散赤的人,佮心肝受擊傷的人,到死。",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "記念"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "反轉迫逐"
+    },
+    {
+      "surface": "איש",
+      "gloss": "的人"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散赤的人"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "佮…受擊傷的"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心肝"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "到死"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:23.486104207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "伊就用勞苦压低𪜶的心;𪜶跋倒,也無人鬥幫助。",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "伊就…压低"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "用勞苦"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "𪜶的心"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "𪜶跋倒"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也無"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "鬥幫助(的人)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:46.063217259Z",
+  "model": "glm-5.3"
+}

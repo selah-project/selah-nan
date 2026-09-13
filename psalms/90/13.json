@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "「雅威啊,倒轉來!到啥物時陣?閣對你的奴僕回心轉意。」",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "閣回心轉意"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:35.954549575Z",
+  "model": "glm-5.3"
+}

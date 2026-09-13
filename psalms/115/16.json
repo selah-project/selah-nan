@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "天,諸天是雅威的;伊將地賞賜互人的子弟。",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "互……的子弟"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:38.273812222Z",
+  "model": "glm-5.3"
+}

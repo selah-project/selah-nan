@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 20:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "帕施戶珥、伊米珥的後生、彼个祭司,伊閣是雅威家內的監督首領,聽見⟨את⟩耶利米亞咧講預言⟨את⟩遮个話。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "帕施戶珥"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "伊米珥"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "彼个祭司"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊閣是"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "監督"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "首領"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶利米亞"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米亞"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "講預言"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮个話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遮个"
+    }
+  ],
+  "timestamp": "2026-09-12T03:54:24.975416193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 4:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "非利士人排陣對以色列;戰事展開,以色列佇非利士人面前予人拍敗,𪜶佇陣中、佇田野擊殺約四千个人。",
+  "tokens": [
+    {
+      "surface": "ויערכו",
+      "gloss": "排陣"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ותטש",
+      "gloss": "展開"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "彼場戰"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "予人拍敗"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "𪜶擊殺"
+    },
+    {
+      "surface": "במערכה",
+      "gloss": "佇陣中"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田野"
+    },
+    {
+      "surface": "כארבעת",
+      "gloss": "約四"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:43.564439484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "到彼時，瞎仔的目睭會時開，臭聾的耳仔會時開。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "到彼時"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "會時開"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "瞎仔的"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "臭聾的耳仔"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "臭聾的"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "會時開"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:23.966150082Z",
+  "model": "glm-5.3"
+}

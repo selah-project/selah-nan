@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "屬亞羅得的,有亞羅得人的家族;屬亞列利的,有亞列利人的家族。",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "屬亞羅得的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "亞羅得人的"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "屬亞列利的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "亞列利人的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:29.152839272Z",
+  "model": "glm-5.3"
+}

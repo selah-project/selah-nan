@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "亞薩的詩篇。以勒,以羅欣,雅威,已經講話,伊叫喚大地,對日頭出來的所在直到伊落山的所在。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "已經講話"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊叫喚"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "對日頭出來的所在"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "伊落山的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.143152303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "以撒對𪜶講:啥事恁來我遮?恁憎嫌⟨את⟩我,閣共我對⟨את⟩恁遐趕出去。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "啥事"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "恁來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "憎嫌"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "閣共我趕出去"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "對⟨את⟩恁遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:55.857467193Z",
+  "model": "glm-5.3"
+}

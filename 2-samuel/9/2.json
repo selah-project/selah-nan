@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "掃羅的厝內有一个奴僕,名叫洗巴。𪜶叫伊到大衛遐,王對伊講:「你敢是洗巴?」伊講:「是你的奴僕。」",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "對…的厝內"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "名叫"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "洗巴"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "𪜶叫"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "你敢是"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "洗巴"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:11.659581982Z",
+  "model": "glm-5.3"
+}

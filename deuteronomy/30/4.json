@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你的受趕散的人若佇天邊,對遐雅威你的以羅欣欲聚集你,對遐伊欲掠你轉來。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "佇"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "你的受趕散的人"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "佇……邊"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "欲聚集你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "欲掠你轉來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:58.950134314Z",
+  "model": "glm-5.3"
+}

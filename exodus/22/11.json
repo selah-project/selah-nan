@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是真正對伊遐予人偷提去的,伊就著賠償予物主。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "真正被偷"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "被偷"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "對伊遐"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "著賠償"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "予物主"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:56.328066354Z",
+  "model": "glm-5.3"
+}

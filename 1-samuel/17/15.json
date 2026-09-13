@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "大衛來來去去,對掃羅遐轉來,去飼⟨את⟩伊老父的羊群,佇伯利恆。",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "閣轉來"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…遐"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "去飼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊老父的羊群"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯利"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "恆"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:49.523970759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "義人欲佇雅威歡喜,佮投靠伊;直心的人攏欲誇口。",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "בַּיהוָה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "וְחָסָה",
+      "gloss": "佮投靠"
+    },
+    {
+      "surface": "בּוֹ",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "וְיִתְהַלְלוּ",
+      "gloss": "攏欲誇口"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "יִשְׁרֵי",
+      "gloss": "直"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:30.704652680Z",
+  "model": "glm-5.3"
+}

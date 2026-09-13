@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "掃羅來到亞瑪力的城,佇山谷設埋伏。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "設埋伏"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "佇山谷"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:17.892077315Z",
+  "model": "glm-5.3"
+}

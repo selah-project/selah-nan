@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊就趕出⟨את⟩彼个人;伊佇伊甸園的東旁安置⟨את⟩基路伯,佮⟨את⟩彼柄咧袂停轉踅的炎劍,欲看守⟨את⟩活命樹的路。",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "伊就趕出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "伊安置"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "佇東旁"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "園的"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基路伯"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼柄炎劍"
+    },
+    {
+      "surface": "להט",
+      "gloss": "炎"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "彼柄劍"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "咧袂停轉踅的"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "欲看守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "活命樹的路"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活命"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:12.239921734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "以羅欣做王佇列國頂面,以羅欣坐佇伊聖潔的寶座。",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊聖潔的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:15.462791443Z",
+  "model": "glm-5.3"
+}

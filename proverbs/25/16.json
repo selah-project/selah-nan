@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "蜜若尋著,食到你的夠額就好,免得你食甲飽,閣共伊吐出來。",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "蜜"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "你的夠額"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "食甲飽"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "閣共伊吐出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:50.110656408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "約伯起來,裂開⟨את⟩伊的外衫,剃掉⟨את⟩伊的頭殼,仆落土腳,來下拜。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "裂開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的外衫"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "伊的外衫"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "剃掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的頭殼"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭殼"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "仆落"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "土腳"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "下拜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:51.814057333Z",
+  "model": "glm-5.3"
+}

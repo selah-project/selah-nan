@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "獨獨我的性命著恬恬向以羅欣,因為我的向望是對伊來。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "向以羅欣"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "恬恬"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "我的向望"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:31.357275016Z",
+  "model": "glm-5.3"
+}

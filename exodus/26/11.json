@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "你欲做五十个銅鉤,閣將⟨את⟩諸個鉤仔穿入環內,將⟨את⟩帳棚接做伙,予伊做一個。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "鉤仔"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十个"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "閣帶入"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個鉤仔"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "諸個鉤仔"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "入環內"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "接做伙"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳棚"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "予伊做"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:15.823568539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "祢——汝的公義我無掩崁佇我的心內底;祢——汝的信實佮祢——汝的救恩我有講;我無隱藏祢——汝的赫瑟德(慈愛)佮祢——汝的誠實,對大會眾。",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "汝的公義"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "我掩崁"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇……內底"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "汝的信實"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "佮汝的救恩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我有講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "我隱藏"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "汝的赫瑟德"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "佮汝的誠實"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "對會眾"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:37.218334401Z",
+  "model": "glm-5.3"
+}

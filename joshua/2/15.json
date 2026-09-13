@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊就用索仔對窗仔門外𤆬𪜶落去，因為伊的厝起佇城壁邊，伊就徛佇壁頂食息。",
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "𤆬𪜶落去"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "用索仔"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "對…外"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "窗仔門"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "伊的厝"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "城壁"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "佇壁頂"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "食息"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:52.787601154Z",
+  "model": "glm-5.3"
+}

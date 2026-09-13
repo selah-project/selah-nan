@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "我攑我的手向着你;我的性命親像拍拚無水的土地,為着你。細拉。",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "我攑開"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向着你"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "親像土地"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "拍拚無水的"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為着你"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:13.953190570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "摩西提半的血,下佇盆仔內;閣一半的血,伊灑佇祭壇頂。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "摩西提"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "半"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "的血"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "下"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "佇盆仔內"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "閣一半"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "的血"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "伊灑"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:44.756569940Z",
+  "model": "glm-5.3"
+}

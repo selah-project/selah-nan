@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "佇我意愛的時,我欲縛𪜶;眾人民欲聚集對付𪜶,當𪜶受縛,照𪜶的兩个目睭。",
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "佇我意愛的時"
+    },
+    {
+      "surface": "ואסרם",
+      "gloss": "我欲縛𪜶"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "欲聚集"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "對付𪜶"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "眾人民"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "當𪜶受縛"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "𪜶的目睭"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:34.124428831Z",
+  "model": "glm-5.3"
+}

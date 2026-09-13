@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊的領袖佇伊中間是咧吼叫的獅;伊的審判官是暗時的狼,到天光無留半枝骨。",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "伊的領袖"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "佇伊中間"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "獅"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "咧吼叫"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "伊的審判官"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "狼"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "暗時"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "留骨頭"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "到天光"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:22.215770675Z",
+  "model": "glm-5.3"
+}

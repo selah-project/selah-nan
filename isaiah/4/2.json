@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "佇彼日,雅威的芽欲做華美,佮做尊貴;地的果子欲做榮耀,佮做光彩,對以色列的逃脫者。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "芽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "做華美"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "佮做尊貴"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "佮果子"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地的"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "做榮耀"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "佮做光彩"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "對逃脫者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:35.801526501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "彼陣伊的燈照佇我的頭殼頂,我對伊的光行過暗冥;",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "彼陣……照"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "伊的燈"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "我的頭殼"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "對伊的光"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "行過"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "暗冥"
+    }
+  ],
+  "timestamp": "2026-09-12T05:27:55.546388898Z",
+  "model": "glm-5.3"
+}

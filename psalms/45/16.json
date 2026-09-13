@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "𪜶會予人帶入來,佇歡喜佮快樂中;𪜶入王的王宮。",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "𪜶會予人帶入來"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "佇歡喜中"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "佮快樂"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "𪜶入"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "王宮"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:12.572821972Z",
+  "model": "glm-5.3"
+}

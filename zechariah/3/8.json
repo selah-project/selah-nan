@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 3:8",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "約書亞大祭司啊,你佮坐佇你面前的同伴,著聽:因為𪜶是做兆頭的人;因為看啊,我欲帶 ⟨את⟩ 我的奴僕——芽——來。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啊"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ורעיך",
+      "gloss": "佮你的同伴"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "坐佇"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "你面前的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "做兆頭"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "欲帶…來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的奴僕——芽"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "芽"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:37.469302148Z",
+  "model": "glm-5.3"
+}

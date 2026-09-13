@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "若是伊的祭物對羊群——對綿羊抑是山羊——來做燒祭,伊愛獻一隻公的、無殘缺的。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "伊的祭物"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "綿羊"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "做燒祭"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公的"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "無殘缺的"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "伊愛獻伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:46.199604125Z",
+  "model": "glm-5.3"
+}

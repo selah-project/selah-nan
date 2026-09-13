@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 8:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "摩西就講:「你看,我欲對你遮出去,閣欲向雅威祈求,互蠓蟲對法老、對伊的奴僕、對伊的民撤走,到明仔載;獨獨法老毋通閣再戲弄,致到無放⟨את⟩人民出去獻祭予雅威。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "והעתרתי",
+      "gloss": "閣欲祈求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "撤走"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "蠓蟲"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "對法老"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "對伊的奴僕"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "佮對伊的民"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "到明仔載"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "התל",
+      "gloss": "戲弄"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "致到"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放……出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "去獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:24.273287467Z",
+  "model": "glm-5.3"
+}

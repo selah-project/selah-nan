@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "恁會追⟨את⟩恁的對敵,𪜶會倒佇恁的面前、用劍仆落去。",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "恁會追"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的對敵"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "恁的對敵"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "𪜶會仆落去"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "佇恁的面前"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "用劍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:53.720124114Z",
+  "model": "glm-5.3"
+}

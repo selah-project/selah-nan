@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "四十年久我厭惡⟨彼⟩世代,就講:這是心迷路的人民,𪜶毋捌我的路。",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "我厭惡"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "彼世代"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "迷路"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "והם",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "捌"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "我的路"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:24.316423272Z",
+  "model": "glm-5.3"
+}

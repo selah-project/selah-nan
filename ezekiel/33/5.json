@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "號角的聲,伊聽見⟨את⟩,若是無警戒,伊的血欲歸佇伊家己;若是伊警戒,伊的命就會得脫。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "號角的聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "號角"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "警戒"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲歸"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "若是伊"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "警戒"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的命"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "得脫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:20:17.072648006Z",
+  "model": "glm-5.3"
+}

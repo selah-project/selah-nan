@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "諸天宣講伊⟨的⟩公義,萬民攏看見伊⟨的⟩榮光。",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "宣講"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "伊的公義"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "攏看見"
+    },
+    {
+      "surface": "כל",
+      "gloss": "萬"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "民"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:04.809815973Z",
+  "model": "glm-5.3"
+}

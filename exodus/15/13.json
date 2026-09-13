@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "你用你的赫瑟德導此個你贖出來的子民;用你的氣力引𪜶到你聖的居所。",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "你導"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "用你的赫瑟德"
+    },
+    {
+      "surface": "עם",
+      "gloss": "子民"
+    },
+    {
+      "surface": "זו",
+      "gloss": "此個"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "你贖出來的"
+    },
+    {
+      "surface": "נהלת",
+      "gloss": "你引"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "用你的氣力"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "居所"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:50.109975648Z",
+  "model": "glm-5.3"
+}

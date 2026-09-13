@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 24:3",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "雅威對我講:「耶利米啊,你看見啥物?」我講:「無花果;好⟨的⟩無花果極好,歹⟨的⟩極歹,彼個毋通食,因為歹。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "無花果"
+    },
+    {
+      "surface": "התאנים",
+      "gloss": "彼的無花果"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "好的"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "好"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "閣歹的"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "食"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "因為歹"
+    }
+  ],
+  "timestamp": "2026-09-12T03:55:37.268550385Z",
+  "model": "glm-5.3"
+}

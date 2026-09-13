@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "汝的兩个奶親像兩隻麞仔,是母麞的雙生仔,佇百合花中咧飼。",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "汝的奶"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "親像兩隻"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "麞仔"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "雙生仔"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "母麞"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "咧飼的"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "佇百合花中"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:49.573071159Z",
+  "model": "glm-5.3"
+}

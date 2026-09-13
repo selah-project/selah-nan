@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "鐵會當折斷嗎?北方的鐵,佮銅?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "會當折斷嗎"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北方的"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "佮銅"
+    }
+  ],
+  "timestamp": "2026-09-12T03:51:21.187491829Z",
+  "model": "glm-5.3"
+}

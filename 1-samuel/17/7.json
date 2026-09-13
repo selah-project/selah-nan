@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 17:7",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "閣伊矛仔的柄親像織布人的樑,彼支矛的鐵頭重六百舍客勒,閣有一个夯盾牌的行佇伊頭前。",
+  "tokens": [
+    {
+      "surface": "וחץ",
+      "gloss": "閣…柄"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "伊的矛"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "親像織布機的樑"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "織布人的"
+    },
+    {
+      "surface": "ולהבת",
+      "gloss": "彼支矛的頭"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "伊的矛"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "閣夯"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T06:27:21.007536597Z",
+  "model": "glm-5.3"
+}

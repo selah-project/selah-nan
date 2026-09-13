@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我的以勒啊,我的以勒啊,啥物緣故你放棄我?你離我的救恩遮爾遠,離我吼叫的話。",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "我的以勒啊"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的以勒啊"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "你放棄我"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "遠遠"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "離我的救恩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "的話"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "我吼叫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:00.688082087Z",
+  "model": "glm-5.3"
+}

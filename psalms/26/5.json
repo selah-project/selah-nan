@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我怨恨歹人的聚集,佮橫逆的人我做夥毋坐。",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "我怨恨"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "橫逆的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "坐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:57.036762582Z",
+  "model": "glm-5.3"
+}

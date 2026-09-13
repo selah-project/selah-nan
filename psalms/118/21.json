@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "我欲謳咾你,因為你有應我,你做我的救恩。",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "我欲謳咾你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "你有應我"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "你做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "救恩"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:54.020539412Z",
+  "model": "glm-5.3"
+}

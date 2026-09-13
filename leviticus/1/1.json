@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威呼叫摩西,對伊講話,對聚會的帳棚內,講:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "呼叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "對帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "聚會的"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:41.784733820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你的朋友佮你老父的朋友,毋通放棄;佇你抵著災禍的日子,嘛毋通入去你兄弟的厝;近的厝邊卡好過遠的兄弟。",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "你的朋友"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "佮…的朋友"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "佮…的厝"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "你的災禍"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "卡好"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "厝邊"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "近的"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "過…的兄弟"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "遠的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:37.620326168Z",
+  "model": "glm-5.3"
+}

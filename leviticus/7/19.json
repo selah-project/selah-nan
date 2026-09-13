@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣彼个肉若拄著啥物無清氣的,袂使食,著用火燒掉;閣彼个肉,見若清氣的人,通食肉。",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "閣彼个肉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "拄著"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "對啥物"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "無清氣的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "著燒掉"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "閣彼个肉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:51.605092319Z",
+  "model": "glm-5.3"
+}

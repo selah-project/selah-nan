@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶用 ⟨את⟩ 把伊堆做一堆閣一堆,地就臭矣。",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "就堆做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "伊(指蛤仔)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "一堆"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "閣一堆"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "就臭矣"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:05.655878190Z",
+  "model": "glm-5.3"
+}

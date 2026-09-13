@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 5:7",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "頭人佇以色列無去矣,無去矣,直到我──底波拉──起來,我起來做以色列的一位老母。",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "無去矣"
+    },
+    {
+      "surface": "פרזון",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "無去矣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "我起來"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "底波拉"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "我起來"
+    },
+    {
+      "surface": "אם",
+      "gloss": "一位老母"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:30:24.170692100Z",
+  "model": "glm-5.3"
+}

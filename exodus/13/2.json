@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "「見叉開母胎的頭胎，佇以色列人的中間，無論人抑是牲畜，攏愛分別做聖歸我，因為𪜶是我的。」",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "分別做聖"
+    },
+    {
+      "surface": "לי",
+      "gloss": "歸我"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭胎"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "叉開"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "母胎"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "佇…人中間"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "抑是牲畜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:10.581174694Z",
+  "model": "glm-5.3"
+}

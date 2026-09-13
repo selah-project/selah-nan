@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "閣服事⟨את⟩𪜶的偶像,彼個對𪜶變做網羅。",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "閣服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的偶像"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "𪜶的偶像"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "變做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "網羅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:23.330664711Z",
+  "model": "glm-5.3"
+}

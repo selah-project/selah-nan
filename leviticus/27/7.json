@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是六十歲以上,若是查埔的,恁的估價就是⟨是⟩十五舍客勒;查某的十舍客勒。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…歲"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "查埔的"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "恁的估價"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "查某的"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "舍客勒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:36.621315367Z",
+  "model": "glm-5.3"
+}

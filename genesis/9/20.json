@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "挪亞——土地的人——起頭種作,栽一个葡萄園。",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "איש",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "栽"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "一个葡萄園"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:16.975341602Z",
+  "model": "glm-5.3"
+}

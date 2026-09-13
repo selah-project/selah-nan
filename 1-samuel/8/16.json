@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣⟨את⟩恁的男奴、⟨את⟩恁的婢女、⟨את⟩恁上好的少年人、⟨את⟩恁的驢，伊欲提去，做伊的工課。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的男奴"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "恁的男奴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的婢女"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "恁的婢女"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁上好的少年人"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "恁的少年人"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "上好的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "恁的驢"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "恁的驢"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "伊欲提去"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "伊的工課"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:56.546276127Z",
+  "model": "glm-5.3"
+}

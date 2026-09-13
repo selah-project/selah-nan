@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "伊設立大地佇伊的基座頂,大地永遠閣到永遠決袂搖動。",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "設立"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "伊的基座"
+    },
+    {
+      "surface": "בל",
+      "gloss": "決袂"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:16.039729556Z",
+  "model": "glm-5.3"
+}

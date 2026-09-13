@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "恁毋通留伊的到透早;若迄透早猶有留的,恁著用火燒伊。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "恁…留"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "若猶留的"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "恁著燒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:22.125796243Z",
+  "model": "glm-5.3"
+}

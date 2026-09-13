@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "摩西就趕緊,伏落土腳,拜落去。",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "伏落"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "土腳"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "拜落去"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:35.378632729Z",
+  "model": "glm-5.3"
+}

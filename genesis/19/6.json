@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "羅得對門口出去𪜶遐,就共門關起來,關佇伊的後壁。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "𪜶遐"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "對門口"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "就共門"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "關起來"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "佇伊的後壁"
+    }
+  ],
+  "timestamp": "2026-09-13T04:34:47.938213862Z",
+  "model": "glm-5.3"
+}

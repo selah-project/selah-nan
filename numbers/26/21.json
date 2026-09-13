@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "法勒斯的子孫是:屬希斯崙的,有希斯崙家族;屬哈母勒的,有哈母勒家族。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "法勒斯"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "屬希斯崙的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "希斯崙(人)"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "屬哈母勒的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "哈母勒(人)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:27.590956173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 2:8",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣判定矣:伊褪赤身,伊被擒上來,伊的婢女哀哀唸,親像鴿仔的聲,佇𪜶的心肝拊拊仔。",
+  "tokens": [
+    {
+      "surface": "והצב",
+      "gloss": "閣判定矣"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "伊褪赤身"
+    },
+    {
+      "surface": "העלתה",
+      "gloss": "伊被擒上來"
+    },
+    {
+      "surface": "ואמהתיה",
+      "gloss": "佮伊的婢女"
+    },
+    {
+      "surface": "מנהגות",
+      "gloss": "哀哀唸"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "親像的聲"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "鴿仔"
+    },
+    {
+      "surface": "מתפפת",
+      "gloss": "拊拊仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "לבבהן",
+      "gloss": "𪜶的心肝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:18.345483381Z",
+  "model": "glm-5.3"
+}

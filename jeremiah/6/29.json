@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 6:29",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "風櫃燒甲紅矣,鉛對火燒了矣;精煉的人白白咧精煉,因為彼陣歹人無被揀除。",
+  "tokens": [
+    {
+      "surface": "נחר",
+      "gloss": "燒甲紅"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "風櫃"
+    },
+    {
+      "surface": "מאשתם",
+      "gloss": "對火"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "鉛"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "白白地"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "精煉"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "咧精煉"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "彼陣歹人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "被揀除"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:24.489808275Z",
+  "model": "glm-5.3"
+}

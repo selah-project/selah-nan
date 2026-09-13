@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "這些人欲徛佇基利心山頂來祝福 ⟨את⟩ 這个百姓,佇恁過約旦河 ⟨את⟩ 了後:西緬、利未、猶大、以薩迦、約瑟,佮便雅憫。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些人"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "來祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這个百姓"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山頂"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "基利心"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "佇恁過……了後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約旦河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "以薩迦"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "便雅憫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:32.098882181Z",
+  "model": "glm-5.3"
+}

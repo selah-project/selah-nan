@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "以色列啊，著聽：雅威——阮的以羅欣——雅威是獨一無二。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "獨一無二"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:07.393758936Z",
+  "model": "glm-5.3"
+}

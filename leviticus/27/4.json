@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是女的，你的估價是三十舍客勒。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "女的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨是⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你的估價"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:28.379771063Z",
+  "model": "glm-5.3"
+}

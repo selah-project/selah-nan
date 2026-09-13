@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 40:36",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "雲對會幕頂懸升起來的時,以色列的子兒就佇𪜶一切的行程中啟程。",
+  "tokens": [
+    {
+      "surface": "ובהעלות",
+      "gloss": "升起來的時"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…頂懸"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "啟程"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切的"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "行程中"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:27.742592293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我的愛人的聲!你看,這个來矣,佇諸山跳踼,佇諸小山蹿跳。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我的愛人"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "跳踼"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "蹿跳"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "諸小山"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:43.741866003Z",
+  "model": "glm-5.3"
+}

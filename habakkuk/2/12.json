@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "哀哉,用血起城的,用邪惡建立城池的!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "用血"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "佮建立"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城池"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "用邪惡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:59.825954623Z",
+  "model": "glm-5.3"
+}

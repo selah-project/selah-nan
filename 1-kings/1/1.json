@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「王大衛老矣,入佇日子內⟨年歲真濟⟩,𪜶用衫共伊蓋起來,毋過伊猶是無燒烙。」",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老矣"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "佇日子內"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "𪜶共伊蓋起來"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "用衫"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過無"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "燒烙"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:46.852897227Z",
+  "model": "glm-5.3"
+}

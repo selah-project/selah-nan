@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "歹人埋伏欲害死我;總是祢的見證,我欲細膩想。",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "欲害死我"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "祢的見證"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "我欲細膩想"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:46.771325729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "查某人若向雅威許願,抑是用約束約束家己,佇伊老父的厝內,佇伊少年的時。",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "許願"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "願"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "用約束約束"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "約束"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇……厝內"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "佇伊少年的時"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:14.961231433Z",
+  "model": "glm-5.3"
+}

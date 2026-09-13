@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我欲收人佮精牲;我欲收天頂的鳥隻,佮海內的魚,以及絆跌物——⟨את⟩彼號歹人;我欲對土的面頂剪除⟨את⟩人,這是雅威的聖言。",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "我欲收"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "佮精牲"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "我欲收"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥隻"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "佮……的魚"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "以及絆跌物"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼號歹人"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "我欲剪除"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對……面頂"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "聖言"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:44.861614517Z",
+  "model": "glm-5.3"
+}

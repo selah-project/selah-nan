@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "摩西講:「我且轉向來看⟨את⟩這個大奇事,為啥物荊棘袂燒去。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "我且轉向"
+    },
+    {
+      "surface": "נא",
+      "gloss": "且"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "來看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個大奇事"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "奇事"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "大"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "燒去"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "荊棘"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:20.592068278Z",
+  "model": "glm-5.3"
+}

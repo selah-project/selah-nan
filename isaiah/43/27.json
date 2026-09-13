@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "你的頭一個祖公犯罪,你的代講者背叛我。",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "你的祖公"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "你的代講者"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "背叛"
+    },
+    {
+      "surface": "בי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:26.310493421Z",
+  "model": "glm-5.3"
+}

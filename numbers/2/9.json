@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 2:9",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "歸佇猶大營受數點的,攏總一百千佮八十千佮六千佮四百,照𪜶的軍隊;𪜶欲做頭一個起行。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "受數點的"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "歸…營"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "佮八十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "佮六"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "照𪜶的軍隊"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "做頭一個"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "𪜶起行"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:17.845725943Z",
+  "model": "glm-5.3"
+}

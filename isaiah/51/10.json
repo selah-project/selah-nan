@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "豈毋是你,彼个互海焦去、大深淵的水無去的?互海的深淵做一條路,互贖回的人會當行過的?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "את",
+      "gloss": "你",
+      "marks": "你(陰性單數代詞)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "互…焦去"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "互…做"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "行過"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "贖回的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:56.638198424Z",
+  "model": "glm-5.3"
+}

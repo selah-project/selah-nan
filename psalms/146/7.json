@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 146,
+  "translation": "行公義給受壓迫的人,互餅給枵餓的人,雅威拍開受縛的人。",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "給受壓迫的人"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "給枵餓的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "拍開"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "受縛的人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:47.285604032Z",
+  "model": "glm-5.3"
+}

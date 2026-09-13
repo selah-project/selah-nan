@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "大衛的詩篇。雅威啊,聽我的祈禱,側耳聽我的懇求,佇你的信實應答我,佇你的公義。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "側耳聽"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "我的懇求"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "佇你的信實"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應答我"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "佇你的公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:09.772203482Z",
+  "model": "glm-5.3"
+}

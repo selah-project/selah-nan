@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "肥物的燒祭我欲獻互你,佮公羊的薰香;我欲備辦牛隻,佮山羊公。細拉。",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "肥物"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "我欲獻"
+    },
+    {
+      "surface": "לך",
+      "gloss": "互你"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "薰香"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我欲備辦"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛隻"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "山羊公"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:25.590951846Z",
+  "model": "glm-5.3"
+}

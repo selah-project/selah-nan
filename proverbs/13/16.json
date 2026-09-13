@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "逐個精明的人攏照知識做事;愚戇的人會曝家己的愚戇。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "精明的人"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做事"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "照知識"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "會曝"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "愚戇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:21.527128522Z",
+  "model": "glm-5.3"
+}

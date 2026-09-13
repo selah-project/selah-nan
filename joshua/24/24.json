@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "人民對約書亞講:「⟨את⟩ 雅威咱的以羅欣阮欲服事,伊的聲阮欲聽。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "阮欲服事"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "阮欲聽"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:29.692207059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "毋拘𪜶愈壓迫⟨את⟩伊,伊就愈湠濟、愈蔓延;埃及人因為以色列阮的子弟就厭氣。",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "毋拘…愈"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "𪜶壓迫"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就按呢"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "伊湠濟"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "閣按呢"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "蔓延"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "𪜶就厭氣"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子弟"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:13.305732308Z",
+  "model": "glm-5.3"
+}

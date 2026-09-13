@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我的聖物你藐視,閣⟨את⟩我的安息日你玷汙。",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "我的聖物"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的安息日"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "我的安息日"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "玷汙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:14:54.984694875Z",
+  "model": "glm-5.3"
+}

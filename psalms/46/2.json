@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "以羅欣對阮是避難所佮氣力,患難中誠濟會當尋著的幫助。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "避難所"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "佮氣力"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "會當尋著"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "誠濟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:58.271204184Z",
+  "model": "glm-5.3"
+}

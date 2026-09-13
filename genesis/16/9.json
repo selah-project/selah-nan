@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "雅威的使者閣對伊講:「倒轉去你女主人遐,佇伊的手下家己降卑。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "לה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "你的女主人"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "家己降卑"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…之下"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "伊的手"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:41.950241309Z",
+  "model": "glm-5.3"
+}

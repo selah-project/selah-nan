@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 14:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "你欲提起這个譬喻,針對巴比倫王,閣講:壓迫者哪按呢止矣!斂金者止矣!",
+  "tokens": [
+    {
+      "surface": "ונשאת",
+      "gloss": "你欲提起"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "譬喻"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "על",
+      "gloss": "針對"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "איך",
+      "gloss": "哪按呢"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "止矣"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "壓迫者"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "止矣"
+    },
+    {
+      "surface": "מדהבה",
+      "gloss": "斂金者"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:21.675246930Z",
+  "model": "glm-5.3"
+}

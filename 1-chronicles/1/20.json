@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "約坍生⟨את⟩亞摩答、⟨את⟩沙勒夫、⟨את⟩哈薩瑪維、⟨את⟩耶拉。",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "約坍"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞摩答"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "亞摩答"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "沙勒夫"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "沙勒夫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈薩瑪維"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "哈薩瑪維"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶拉"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "耶拉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:07.091292324Z",
+  "model": "glm-5.3"
+}

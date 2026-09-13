@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "毋拘雅威無賞賜恁一粒心去知、目睭去看、耳仔去聽,直到今仔日。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋拘……無"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "去知"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "佮目睭"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "去看"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "佮耳仔"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "去聽"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:11.514679525Z",
+  "model": "glm-5.3"
+}

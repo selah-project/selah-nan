@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "阮的記號阮無看見;無閣有先知,閣⟨את⟩阮無一个知到啥物時陣。",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "阮的記號"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "阮看見"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩阮"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物時陣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.867063334Z",
+  "model": "glm-5.3"
+}

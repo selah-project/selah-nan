@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 41:21",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "聖殿的門柱⟨是⟩四角形,嘛有至聖所的面——彼個面貌親像彼個面貌。",
+  "tokens": [
+    {
+      "surface": "ההיכל",
+      "gloss": "聖殿"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "門柱"
+    },
+    {
+      "surface": "רבעה",
+      "gloss": "四角形"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "嘛有……的面"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "至聖所"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "彼個面貌"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "親像彼個面貌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:58.023387078Z",
+  "model": "glm-5.3"
+}

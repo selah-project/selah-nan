@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "百姓欲互相壓迫,人對人,人對伊的厝邊;少年人欲對老年人逞威風,卑賤的人對尊貴的人。",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "對人"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "閣人"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "對伊的厝邊"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "逞威風"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "對老年人"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "閣卑賤的人"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "對尊貴的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:49.773966673Z",
+  "model": "glm-5.3"
+}

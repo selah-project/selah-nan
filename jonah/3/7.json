@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 3:7",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊就出令,佇尼尼微照王佮伊的大臣的命令講:人佮牲畜、牛群佮羊群,攏毋通食啥物,毋通飼,水嘛毋通啉。",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "伊就出令"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "佇尼尼微"
+    },
+    {
+      "surface": "מטעם",
+      "gloss": "照…的命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וגדליו",
+      "gloss": "佮伊的大臣"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "佮牲畜"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "והצאן",
+      "gloss": "佮羊群"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יטעמו",
+      "gloss": "食"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "飼"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "水嘛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "啉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:49.075047196Z",
+  "model": "glm-5.3"
+}

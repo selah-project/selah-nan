@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "⟨את⟩約櫃佮⟨את⟩伊的槓仔,⟨את⟩贖罪蓋,閣⟨את⟩遮掩用的幔仔。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約櫃"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的槓仔"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "伊的槓仔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "贖罪蓋"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "贖罪蓋"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "遮掩用的幔仔"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "幔仔"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "遮掩用的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:08.142371178Z",
+  "model": "glm-5.3"
+}

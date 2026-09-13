@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "放——你著愛放⟨את⟩母鳥去,⟨את⟩雛鳥你會使提,為著互你好過、延長日子。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "放(著愛放)"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "放…去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "母鳥"
+    },
+    {
+      "surface": "האם",
+      "gloss": "母鳥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "雛鳥"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "雛鳥"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "你會使提"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "好過"
+    },
+    {
+      "surface": "לך",
+      "gloss": "互你"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "延長"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:44.774505771Z",
+  "model": "glm-5.3"
+}

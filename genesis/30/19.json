@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "呂阿閣懷胎,給雅各生第六個子。",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "閣懷胎"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "呂阿"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "第六個"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "給雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:34.923770591Z",
+  "model": "glm-5.3"
+}

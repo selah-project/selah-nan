@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊就向雅威吐大聲,雅威指示伊一欉樹仔,伊就擲落水內,水就變甜矣。佇遐雅威為𪜶設律例佮典章,佇遐試𪜶。",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "就吐大聲"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "就指示伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "一欉樹仔"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "就擲落"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "המים",
+      "gloss": "彼個水"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "就變甜"
+    },
+    {
+      "surface": "המים",
+      "gloss": "彼個水"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "שם",
+      "gloss": "設"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "חק",
+      "gloss": "律例"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "佮典章"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮佇遐"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "試伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:27.512137488Z",
+  "model": "glm-5.3"
+}

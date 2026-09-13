@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你的喙唇親像一條朱紅色的線,閣你的講話真雅緻;你的鬢角親像一爿剖開的石榴,佇你的頭紗後壁。",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "親像一條線"
+    },
+    {
+      "surface": "השני",
+      "gloss": "朱紅色"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "你的喙唇"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "閣你的講話"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "雅緻"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "親像一爿剖開的"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "石榴"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "你的鬢角"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "佇…後壁"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "你的頭紗"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:36.761382646Z",
+  "model": "glm-5.3"
+}

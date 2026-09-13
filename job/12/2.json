@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "誠然,恁就是⟨唯一的⟩彼个百姓,智慧欲佮恁做伙死。",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "誠然"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "佮恁做伙"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "死"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:01.925219869Z",
+  "model": "glm-5.3"
+}

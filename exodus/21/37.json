@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "若是有人偷牛抑是羊,閣刣死伊抑是賣掉伊,五隻牛伊愛賠替彼隻牛,四隻羊愛賠替彼隻羊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "偷"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "שה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "וטבחו",
+      "gloss": "閣刣死伊"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "賣掉伊"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "隻牛"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "伊愛賠"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "替"
+    },
+    {
+      "surface": "השור",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "隻羊"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "替"
+    },
+    {
+      "surface": "השה",
+      "gloss": "彼隻羊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:32:45.639345419Z",
+  "model": "glm-5.3"
+}

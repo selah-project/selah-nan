@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "粟埕佮酒榨袂飼𪜶,新酒嘛欲佇𪜶中間落空。",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "粟埕"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "佮酒榨"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "飼𪜶"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "佮新酒"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "落空"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:47.671618143Z",
+  "model": "glm-5.3"
+}

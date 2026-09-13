@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "到第三日,有人共拉班講雅各走去矣。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人共……講"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "走去"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:25.481273512Z",
+  "model": "glm-5.3"
+}

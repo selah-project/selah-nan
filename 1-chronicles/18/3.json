@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "大衛拍擊⟨את⟩哈達德以謝,就是瑣巴的王,佇哈馬,當伊行去欲鞏固伊的手佇佩拉特河(伯拉河)。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "拍擊"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈達德以謝"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "哈達德以謝"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "瑣巴"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "當伊行去"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "欲鞏固"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "佇…河"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "佩拉特"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:58.971456726Z",
+  "model": "glm-5.3"
+}

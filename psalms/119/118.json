@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "你看無一切悖離你律例的人,因為𪜶的欺騙是虛假。",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "你看無"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "悖離(行差踏錯)的人"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "對你的律例"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "虛假"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "𪜶的欺騙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:04.783013317Z",
+  "model": "glm-5.3"
+}

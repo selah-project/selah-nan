@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼個人閣給伊的某號名做夏娃,因為伊做一切活物的老母。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "閣號名"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "夏娃"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אם",
+      "gloss": "老母"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:30.019112954Z",
+  "model": "glm-5.3"
+}

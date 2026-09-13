@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "諸個王攏聚集做伙,𪜶來到米倫水邊做伙紮營,欲佮以色列相戰。",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "諸個王"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "紮營"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "米倫"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "欲相戰"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:20.614315380Z",
+  "model": "glm-5.3"
+}

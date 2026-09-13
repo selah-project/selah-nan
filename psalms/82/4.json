@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 82,
+  "translation": "救軟弱的佮散凶人,對歹人的手中搶救𪜶。",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "救"
+    },
+    {
+      "surface": "דל",
+      "gloss": "軟弱的"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散凶人"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對……的手"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "搶救𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:58.904695510Z",
+  "model": "glm-5.3"
+}

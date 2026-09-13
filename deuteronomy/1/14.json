@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "恁應答我 ⟨את⟩,講:你所講欲行的代誌真好。",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "恁應答"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "真好"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "你講"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "欲行的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:31.250894135Z",
+  "model": "glm-5.3"
+}

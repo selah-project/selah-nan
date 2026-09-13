@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣對入口彼個門頭前的面,到內面彼個門的門廊頭前的面,五十肘。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…頭前的面"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "入口"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…頭前"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "門廊"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "內面的"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:13.814749164Z",
+  "model": "glm-5.3"
+}

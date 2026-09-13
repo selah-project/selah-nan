@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "互師傅、起厝的、砌壁的,閣買柴料佮剖好的石頭,來補強⟨את⟩殿。",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "互師傅"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "起厝的"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "砌壁的"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "閣買"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "柴料"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "佮石頭"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "剖好的"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "來補強"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:27.793550495Z",
+  "model": "glm-5.3"
+}

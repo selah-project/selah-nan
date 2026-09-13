@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊為著彼間厝做窗仔,框仔斜削、內底閂密。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "為著彼間厝"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "窗仔"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "框仔斜削"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "內底閂密"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:21.296336877Z",
+  "model": "glm-5.3"
+}

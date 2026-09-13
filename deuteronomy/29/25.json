@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "𪜶就去服事別個神,閣向𪜶下拜,就是𪜶毋捌彼號神,嘛是雅威無分互𪜶的。",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "就去"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "服事"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別個"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "閣下拜"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向𪜶"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "捌𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "分"
+    },
+    {
+      "surface": "להם",
+      "gloss": "互𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:08.828882332Z",
+  "model": "glm-5.3"
+}

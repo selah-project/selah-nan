@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "大衛的一首米茲摩爾(詩篇),為著記念〈的〉。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "米茲摩爾"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "為著記念"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:12.256093181Z",
+  "model": "glm-5.3"
+}

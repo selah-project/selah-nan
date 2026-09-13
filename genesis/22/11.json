@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 22:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "雅威的天使對天頂叫伊,講:「亞伯拉罕!亞伯拉罕!」伊就講:「我佇遮。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "天使"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我佇遮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:41.340356730Z",
+  "model": "glm-5.3"
+}

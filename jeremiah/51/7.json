@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 51:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "巴別是金杯,佇雅威的手內,予遍滿地攏醉;列國啉伊的酒,所以列國起狂。",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴別"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手內"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משכרת",
+      "gloss": "予…醉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מיינה",
+      "gloss": "伊的酒"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "啉"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "起狂"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:43.515022688Z",
+  "model": "glm-5.3"
+}

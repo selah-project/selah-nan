@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 114,
+  "translation": "諸個山跳踮彼親像公羊,諸個山丘親像羊仔囝。",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "諸個山"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "跳"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "親像公羊"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "諸個山丘"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "親像…的囝"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:20.747785976Z",
+  "model": "glm-5.3"
+}

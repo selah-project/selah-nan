@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "伊欲有兩個肩頭相連,連佇伊的兩个尾頭,按呢相連做一。",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "肩頭"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "相連"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "連佇"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "伊的尾頭"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "相連做一"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:59.263280100Z",
+  "model": "glm-5.3"
+}

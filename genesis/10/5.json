@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "對這些,列國的海島就分開,佇𪜶的土地,逐家照伊的語言,照𪜶的家族,佇𪜶的國族。",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "對這些"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "分開"
+    },
+    {
+      "surface": "איי",
+      "gloss": "海島"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國的"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "佇𪜶的土地"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐家"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "照伊的語言"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "佇𪜶的國族"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:31.150082056Z",
+  "model": "glm-5.3"
+}

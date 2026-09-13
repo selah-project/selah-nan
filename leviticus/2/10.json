@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "素祭所賰的,是亞倫佮伊的眾子的,是至聖的,是對雅威的火祭來的。",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "所賰的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "亞倫的"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "佮伊的眾子的"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "至聖(聖中的聖)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "對火祭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:18.490638783Z",
+  "model": "glm-5.3"
+}

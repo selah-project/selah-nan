@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 17:51",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "大衛就走,徛佇彼個非利士人身上,提⟨את⟩伊的刀,對鞘抽出來,共伊補一刀致死,用彼把刀斬斷⟨את⟩伊的頭;非利士人看見𪜶的勇士死矣,就走閃。",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "就走"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "徛佇…身上"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "彼個非利士人"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的刀"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "伊的刀"
+    },
+    {
+      "surface": "וישלפה",
+      "gloss": "抽出來"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "對鞘"
+    },
+    {
+      "surface": "וימתתהו",
+      "gloss": "共伊補一刀致死"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "斬斷"
+    },
+    {
+      "surface": "בה",
+      "gloss": "用彼把"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的頭"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "גבורם",
+      "gloss": "𪜶的勇士"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "就走閃"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:51.342316547Z",
+  "model": "glm-5.3"
+}

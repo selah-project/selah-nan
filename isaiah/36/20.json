@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "這諸個地的眾神當中,是啥人有救 ⟨את⟩ 𪜶的家己的地脫離我的手?按呢雅威哪會救 ⟨את⟩ 耶路撒冷脫離我的手?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…當中"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "眾神"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "諸個地"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "有救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的地"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "脫離我的手"
+    },
+    {
+      "surface": "כי",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "哪會救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "脫離我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:17.531913616Z",
+  "model": "glm-5.3"
+}

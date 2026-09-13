@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 130,
+  "translation": "雅啊,你若看守罪孽,阿多奈啊,啥人徛會牢?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "你看守"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "徛會牢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:54.906316799Z",
+  "model": "glm-5.3"
+}

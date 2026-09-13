@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "按呢欲對一隻牛、抑是一隻公羊、抑是綿羊仔、山羊仔,逐項攏按呢辦。",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "辦"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "對牛"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "綿羊仔"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "佇綿羊"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "佇山羊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:47.836698861Z",
+  "model": "glm-5.3"
+}

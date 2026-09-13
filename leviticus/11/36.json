@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "若是泉源佮井,一坵聚集的水,會是清氣的;獨觸著𪜶死體的,無清氣。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "若是"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "佮井"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "聚集的水"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會是"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "獨觸著"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "𪜶死體"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:44.988097606Z",
+  "model": "glm-5.3"
+}

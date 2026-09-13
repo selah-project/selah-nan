@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊的手內是逐个活物的性命,佮凡有血肉者的氣息。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "伊,佇"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "伊的手內"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活的物"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "佮氣息"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "有血肉的"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:22.970327852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "你就欲佇諸天聽⟨את⟩𪜶的祈禱佮⟨את⟩𪜶的懇求,閣行𪜶的判斷。",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "你就欲聽"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的祈禱"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "𪜶的祈禱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "𪜶的懇求"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "𪜶的懇求"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "𪜶的判斷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:35.100153413Z",
+  "model": "glm-5.3"
+}

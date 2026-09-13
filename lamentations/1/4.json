@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 1:4",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "錫安的路咧哀傷,因為無人到節期;伊的門攏荒廢,伊的祭司咧吐氣,伊的處女咧憂悶,伊家己嘛艱苦到極。",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "…的路"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "אבלות",
+      "gloss": "咧哀傷"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "因為無"
+    },
+    {
+      "surface": "באי",
+      "gloss": "到…的人"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "節期"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "伊的門"
+    },
+    {
+      "surface": "שוממין",
+      "gloss": "荒廢"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "伊的祭司"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "咧吐氣"
+    },
+    {
+      "surface": "בתולתיה",
+      "gloss": "伊的處女"
+    },
+    {
+      "surface": "נוגות",
+      "gloss": "咧憂悶"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "閣伊家己"
+    },
+    {
+      "surface": "מר",
+      "gloss": "艱苦"
+    },
+    {
+      "surface": "לה",
+      "gloss": "到極"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:55.363495161Z",
+  "model": "glm-5.3"
+}

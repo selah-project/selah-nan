@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 11:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "雅威的受氣就會向恁燒起來,伊就會關⟨את⟩諸天,雨就袂有,土地嘛袂出⟨את⟩伊的收成,恁就會速速對雅威賞賜恁的好土地頂面滅無。",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "就會燒起來"
+    },
+    {
+      "surface": "אף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "向恁"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "就會關"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會有"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "והאדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的收成"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "伊的收成"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "恁就會滅無"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "速速"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…頂面"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "好的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "予恁"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:31.001640279Z",
+  "model": "glm-5.3"
+}

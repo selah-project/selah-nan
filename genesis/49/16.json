@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "但會審判伊的百姓,親像以色列諸支派中的一个。",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "會審判"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "親像…一个"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "諸支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:11.536228459Z",
+  "model": "glm-5.3"
+}

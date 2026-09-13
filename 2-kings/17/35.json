@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "雅威曾佮⟨את⟩𪜶立約,閣命令𪜶講:「恁毋通敬畏別个以羅欣,毋通向𪜶下跪,毋通事奉𪜶,嘛毋通獻祭予𪜶;",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "曾……立約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "佮⟨את⟩𪜶",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "閣命令𪜶"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "恁敬畏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別个"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "向𪜶下跪"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "事奉𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "להם",
+      "gloss": "予𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:52.739055215Z",
+  "model": "glm-5.3"
+}

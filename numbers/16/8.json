@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "摩西閣對可拉講:「請恁聽,利未的仔兒!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "請恁聽"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "בני",
+      "gloss": "仔兒"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:56.072358367Z",
+  "model": "glm-5.3"
+}

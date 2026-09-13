@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "日頭出來,𪜶就收匿轉去,佇𪜶的窟仔內倒睏。",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "出來"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "𪜶就收匿轉去"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佇……內"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "𪜶的窟仔"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "倒睏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:46.494285144Z",
+  "model": "glm-5.3"
+}

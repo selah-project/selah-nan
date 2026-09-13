@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 19:9",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣有雅威的歹靈臨到掃羅,伊坐佇伊的厝內,伊的槊徛佇伊的手,大衛咧用手彈琴。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊的厝"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "伊的槊"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "咧彈"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:12.882567187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "𪜶攏倒退去,做伙變臭腐;無行好,連一个嘛無。",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "攏"
+    },
+    {
+      "surface": "סג",
+      "gloss": "倒退去"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "變臭腐"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:07.783371194Z",
+  "model": "glm-5.3"
+}

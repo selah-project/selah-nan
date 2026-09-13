@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "敬畏你的人看見我會歡喜,因為我向你的話向望。",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "敬畏你的人"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "看見我"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "會歡喜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "向你的話"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "我向望"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:47.791530483Z",
+  "model": "glm-5.3"
+}

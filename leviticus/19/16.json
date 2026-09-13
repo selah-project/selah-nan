@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "毋通佇你的百姓中間行來走去做人搬弄是非;毋通徛佇你同伴的血頂面:我是雅威。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行來走去"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "搬弄是非的"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "佇你的百姓中間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的同伴"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:56.719777392Z",
+  "model": "glm-5.3"
+}

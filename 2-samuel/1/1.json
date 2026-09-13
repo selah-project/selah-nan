@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "掃羅死了了了後,大衛對拍敗亞瑪力 ⟨את⟩ 倒轉來,大衛佇洗革拉蹛兩日。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "שב",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "對拍敗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "亞瑪力"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "佇洗革拉"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:23.406967240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "⟨את⟩ 事奉的衫褲,欲佇聖所服事用的;⟨את⟩ 歸亞倫祭司的聖衫褲,閣 ⟨את⟩ 伊的後生的衫褲,欲做祭司穿的。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "事奉的衫褲"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衫褲"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "事奉的"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "服事"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇聖所"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖衫褲"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衫褲"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "歸亞倫"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "後生的衫褲"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "衫褲"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "做祭司"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:39.189069700Z",
+  "model": "glm-5.3"
+}

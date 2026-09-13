@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "毋拘你無叫喚⟨את⟩我,雅各;因為你對我厭倦,以色列。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋拘你無"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "叫喚"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "你厭倦"
+    },
+    {
+      "surface": "בי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:15.386788671Z",
+  "model": "glm-5.3"
+}

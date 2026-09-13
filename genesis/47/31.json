@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "伊閣講:你著對我咒誓。伊就對伊咒誓。以色列就佇眠床頭鞠躬拜。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊閣講"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "著咒誓"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "伊就咒誓"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "鞠躬拜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "眠床"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:51.381696114Z",
+  "model": "glm-5.3"
+}

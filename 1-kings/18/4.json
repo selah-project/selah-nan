@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "因為以洗別咧剿滅雅威的先知 ⟨את⟩ 的時,俄巴底亞提一百個先知,匿𪜶五十人一洞,供養𪜶餅佮水。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "咧剿滅"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "以洗別"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的先知"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "的先知"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "俄巴底亞"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百個"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "先知"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "匿𪜶"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "一洞"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "供養𪜶"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "佮水"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:11.891490442Z",
+  "model": "glm-5.3"
+}

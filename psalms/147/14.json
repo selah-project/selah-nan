@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊安設你的邊界做平安,用麥仔上肥的油脂互你食甲飽。",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "伊安設"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "你的邊界"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "做平安"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "上肥的油脂"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "麥仔"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "互你食甲飽"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:29.274353917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣,佇土地猶存在的規段日子內,撒種⟨佮⟩收成,寒⟨佮⟩熱,夏天⟨佮⟩冬天,日⟨佮⟩暝,⟨攏⟩袂停止。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規段(一切)"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "撒種"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "佮收成"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "佮寒"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "佮熱"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "佮夏天"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "佮冬天"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "佮日"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暝"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋\/袂"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "停止"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:58.373115809Z",
+  "model": "glm-5.3"
+}

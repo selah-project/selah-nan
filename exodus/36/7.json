@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "彼項工課的材料,夠額通做全部的工課,來做⟨את⟩伊,閣有剩。",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "彼項工課的材料"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "是"
+    },
+    {
+      "surface": "דים",
+      "gloss": "夠額"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "通做全部的"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "來做"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(全部的工課)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "閣有剩"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:12.087011317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 76,
+  "translation": "對天頂你互判語互人聽見,地敬畏,就安靜落去。",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "對天頂"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "你互聽見"
+    },
+    {
+      "surface": "דין",
+      "gloss": "判語"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "閣安靜"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:27.743462987Z",
+  "model": "glm-5.3"
+}

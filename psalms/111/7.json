@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 111,
+  "translation": "伊的手所做的攏是真實佮公道;伊一切的誡命攏可靠。",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "佮公道"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "攏可靠"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "伊的誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:02.724175607Z",
+  "model": "glm-5.3"
+}

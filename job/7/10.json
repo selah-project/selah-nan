@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊毋閣轉去伊的厝,伊的所在嘛毋閣認得伊。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "閣轉去"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "去伊的厝"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "認得伊"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "伊的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:05.518387372Z",
+  "model": "glm-5.3"
+}

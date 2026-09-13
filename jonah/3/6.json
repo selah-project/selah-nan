@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 3:6",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼個話達到尼尼微王遐,伊就對伊的寶座起來,褪伊的禮服落來,用麻衫蓋身,坐佇灰頂。",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "達到"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼個話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到…遐"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "伊就…起來"
+    },
+    {
+      "surface": "מכסאו",
+      "gloss": "對伊的寶座"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "褪…落來"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "伊的禮服"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "對伊身上"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "用…蓋"
+    },
+    {
+      "surface": "שק",
+      "gloss": "麻衫"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "灰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:49.074800934Z",
+  "model": "glm-5.3"
+}

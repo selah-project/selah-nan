@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 128,
+  "translation": "願恁看著恁⟨子孫⟩的子孫;願沙隆歸佇以色列。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "願恁看著"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "恁⟨子孫⟩的子孫"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "沙隆"
+    },
+    {
+      "surface": "על",
+      "gloss": "歸佇"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:40.225368964Z",
+  "model": "glm-5.3"
+}

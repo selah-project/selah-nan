@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 28:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣這些是𪜶所著做的裳:胸牌,以及以弗得,以及外袍,以及編織的內袍、裹頭巾,佮腰帶;𪜶著做聖裳予亞倫你的兄弟佮伊的眾子,行祭司的職分奉事我。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣這些"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "彼的裳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "𪜶著做"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "胸牌"
+    },
+    {
+      "surface": "ואפוד",
+      "gloss": "以及以弗得"
+    },
+    {
+      "surface": "ומעיל",
+      "gloss": "以及外袍"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "以及內袍"
+    },
+    {
+      "surface": "תשבץ",
+      "gloss": "編織的"
+    },
+    {
+      "surface": "מצנפת",
+      "gloss": "裹頭巾"
+    },
+    {
+      "surface": "ואבנט",
+      "gloss": "佮腰帶"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "閣𪜶著做"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "裳"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "予亞倫"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "佮伊的眾子"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "行祭司的職分"
+    },
+    {
+      "surface": "לי",
+      "gloss": "奉事我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:16.685894352Z",
+  "model": "glm-5.3"
+}

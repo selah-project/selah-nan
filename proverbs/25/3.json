@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "天懸高到極,地深到極,王的心嘛無伊的法度通究察。",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "懸高到極"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "深到極"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "王"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無……法度"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "通究察"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:25.705390057Z",
+  "model": "glm-5.3"
+}

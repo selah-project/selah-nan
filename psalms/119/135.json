@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "互汝的面光照佇汝的奴僕,教示我⟨את⟩汝的律例。",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "汝的面"
+    },
+    {
+      "surface": "האר",
+      "gloss": "光照"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "佇汝的奴僕"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "教示我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "汝的律例"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "汝的律例"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:08.783791411Z",
+  "model": "glm-5.3"
+}

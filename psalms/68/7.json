@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "以羅欣互孤單的人住佇厝內,提出關佇興旺中的囚犯;獨獨悖逆的人,徛佇焦旱的地。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "互……住"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "孤單的人"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "佇厝內"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "提出"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "囚犯"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "佇興旺中"
+    },
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "悖逆的人"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "徛(居住)"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "焦旱的地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:10.835714591Z",
+  "model": "glm-5.3"
+}

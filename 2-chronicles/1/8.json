@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所羅門就對以羅欣講:「你曾佮我老父大衛行大的赫瑟德,閣設立我做王接續伊。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "對以羅欣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "曾行"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我老父"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "閣設立我做王"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:04.816274748Z",
+  "model": "glm-5.3"
+}

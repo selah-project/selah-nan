@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 22:13",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "禍哉,彼個用毋義起家己的厝、用毋公道起伊的樓房的人!伊使伊的同伴白白做工,伊的工錢無給伊。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "家己的厝"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "義"
+    },
+    {
+      "surface": "ועליותיו",
+      "gloss": "伊的樓房"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "使……做工"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "白白"
+    },
+    {
+      "surface": "ופעלו",
+      "gloss": "伊的工"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:58.520113156Z",
+  "model": "glm-5.3"
+}

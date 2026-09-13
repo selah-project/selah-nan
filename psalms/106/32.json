@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶嘛佇米利巴的水激雅威受氣,致到摩西為著𪜶的緣故抵著歹代。",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "激受氣"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "米利巴"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "致到…抵著歹代"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "為著𪜶的緣故"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:24.194546081Z",
+  "model": "glm-5.3"
+}

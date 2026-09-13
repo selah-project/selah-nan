@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "阮的幫助佇雅威的名,伊是造天佮地的。",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "阮的幫助"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "佇…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:45.102596633Z",
+  "model": "glm-5.3"
+}

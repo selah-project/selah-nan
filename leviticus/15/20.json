@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "凡若伊佇伊的隔離中倒佇頂面的,欲無清氣;凡若伊坐佇頂面的,嘛欲無清氣。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "凡若"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "伊倒"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "伊的隔離中"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "欲無清氣"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡若"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשב",
+      "gloss": "伊坐"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "嘛欲無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:52.930999333Z",
+  "model": "glm-5.3"
+}

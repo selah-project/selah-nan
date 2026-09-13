@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "街仔內有對酒的吼聲;所有的歡喜攏變暗,地的快樂無去矣。",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "吼聲"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "街仔內"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "變暗"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "無去"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:42.769024446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 128,
+  "translation": "你欲食你雙手勞碌的果子;你有福氣,好代會臨到你。",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "勞碌的果子"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "你雙手"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "你欲食"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "你有福氣"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "好代"
+    },
+    {
+      "surface": "לך",
+      "gloss": "臨到你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.657955881Z",
+  "model": "glm-5.3"
+}

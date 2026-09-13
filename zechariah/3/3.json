@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "約書亞身穿汙穢的衣服,徛佇彼個天使面前。",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "穿"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "衣服"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "汙穢的"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "彼個天使"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:09.235682501Z",
+  "model": "glm-5.3"
+}

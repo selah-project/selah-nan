@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "著尋求雅威佮伊的氣力;著常常尋伊的面。",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "著尋求"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "佮伊的氣力"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "著尋"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:06.971986397Z",
+  "model": "glm-5.3"
+}

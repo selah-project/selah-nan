@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是對五歲到二十歲,恁的估價就是⟨是⟩:查埔的二十舍客勒,查某的十舍客勒。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…歲"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "恁的估價"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "查埔的"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "查某的"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "舍客勒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:36.620879594Z",
+  "model": "glm-5.3"
+}

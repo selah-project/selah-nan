@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 46:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "猶大的後生有:珥、俄南、示拉、法勒斯、謝拉;珥佮俄南死佇迦南地。法勒斯的後生有:希斯崙、哈母勒。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ער",
+      "gloss": "珥"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "俄南"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "示拉"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "法勒斯"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "謝拉"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "ער",
+      "gloss": "珥"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "俄南"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "有"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "法勒斯"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "希斯崙"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "哈母勒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:33.903498173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "毋過,今請你伸你的手,觸著伊的骨頭佮伊的肉;若無,伊欲對你的面祝福你(咒詛)。",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "毋過"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今請"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "觸著"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "伊的骨頭"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的肉"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "伊欲祝福你(咒詛)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:35.161336705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "利百加舉起⟨את⟩伊的目睭,看著⟨את⟩以撒,就對駱駝頂面落來。",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "利百加"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的目睭"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "伊的目睭"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "落來"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…頂面"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "駱駝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:49.188973007Z",
+  "model": "glm-5.3"
+}

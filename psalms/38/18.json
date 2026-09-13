@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "因為我拄好欲跋倒,我的疼痛一直徛佇我面前。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "欲跋倒"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "拄好"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "我的疼痛"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "一直"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:29.225404341Z",
+  "model": "glm-5.3"
+}

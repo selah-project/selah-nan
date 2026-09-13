@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "一下子我就會壓落𪜶的對敵,閣對𪜶的冤家反轉我的手。",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "一下子"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "𪜶的對敵"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "我就會壓落"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "𪜶的冤家"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "反轉"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.176798480Z",
+  "model": "glm-5.3"
+}

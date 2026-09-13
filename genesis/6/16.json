@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 6:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你著給這隻船做天窗,閣到一肘為止,對頂面完成;船的門你著囥佇伊的邊仔;下層、二層、三層,你著做。",
+  "tokens": [
+    {
+      "surface": "צהר",
+      "gloss": "天窗"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你著做"
+    },
+    {
+      "surface": "לתבה",
+      "gloss": "給這隻船"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "תכלנה",
+      "gloss": "完成"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "對頂面"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "閣…門"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "這隻船的"
+    },
+    {
+      "surface": "בצדה",
+      "gloss": "佇伊的邊仔"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "你著囥"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "下層"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二層"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "閣三層"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你著做"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:43.364795627Z",
+  "model": "glm-5.3"
+}

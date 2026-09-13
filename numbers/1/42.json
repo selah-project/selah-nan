@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "拿弗他利的後代,照𪜶的家族,照𪜶父的家,照名的數目,對二十歲以上,凡會使出去陣的,攏算在內:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…的後代"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "拿弗他利"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "𪜶的世代"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照…的家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "𪜶的父"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "照數目"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "名的"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲(年)"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "佮以上"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "陣(軍隊)"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:26.611457329Z",
+  "model": "glm-5.3"
+}

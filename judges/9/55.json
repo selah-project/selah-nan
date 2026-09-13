@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "judges 9:55",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "以色列的人看見亞比米勒死矣,就逐个人轉去家己的所在。",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "איש",
+      "gloss": "的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……矣"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "就轉去"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐个人"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "家己的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T02:33:12.726568875Z",
+  "model": "glm-5.3"
+}

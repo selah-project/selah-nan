@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "法老受氣伊的奴僕,共⟨את⟩我下佇屠宰頭目的厝內做監牢——⟨את⟩我佮⟨את⟩烘餅的頭目。",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "下"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "做監牢"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "שר",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "屠宰"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "烘餅的頭目"
+    },
+    {
+      "surface": "שר",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "烘餅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:09.452273582Z",
+  "model": "glm-5.3"
+}

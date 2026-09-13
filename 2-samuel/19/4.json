@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "彼日,百姓偷偷仔入去城內,親像見笑的人佇戰爭中逃走的時偷偷仔閃避仝款。",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "偷偷仔入去"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼个百姓"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "偷偷仔閃避"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼个百姓"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "見笑的"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "佇𪜶逃走的時"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "佇戰爭中"
+    }
+  ],
+  "timestamp": "2026-09-13T04:30:24.417006880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "「起來,抬⟨את⟩彼個少年人,用手牽牢牢⟨את⟩你的手佇伊身上,因為我欲互伊做大人類。」",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "起來"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "抬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個少年人"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼個少年人"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "牽牢牢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的手"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "做大人類"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "我欲互伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:07.286675867Z",
+  "model": "glm-5.3"
+}

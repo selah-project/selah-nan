@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "若牛觸著一个奴僕抑是一個婢女,牛的主人著納三十舍客勒銀子予𪜶的主人,彼隻牛著用石頭擲死。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "觸著"
+    },
+    {
+      "surface": "השור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "著納"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "予𪜶的主人"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "著用石頭擲死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:46.636970432Z",
+  "model": "glm-5.3"
+}

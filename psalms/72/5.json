@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "願𪜶佮日頭做夥敬畏你,佇月娘面前,一代閣一代。",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "敬畏你"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮…做夥"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月娘"
+    },
+    {
+      "surface": "דור",
+      "gloss": "一代"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "閣一代"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:01.794435325Z",
+  "model": "glm-5.3"
+}

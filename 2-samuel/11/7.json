@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "烏利亞來到伊遐,大衛問約押的平安、眾人的平安、佮戰事的平安。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊遐"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "的平安"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "的平安"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "的平安"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰事"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:07.138332987Z",
+  "model": "glm-5.3"
+}

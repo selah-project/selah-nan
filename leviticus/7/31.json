@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "祭司愛燒⟨את⟩彼个油佇祭壇頂,胸就歸亞倫佮伊的子孫。",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "愛燒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个油"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "彼个油"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇祭壇頂"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "胸"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "歸亞倫"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "佮伊的子孫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:27.671357463Z",
+  "model": "glm-5.3"
+}

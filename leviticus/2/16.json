@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "祭司著燒⟨את⟩伊做記念的份,對伊拍碎的穀粒佮伊的油,連伊全部的乳香;這是互雅威的火祭。",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "著燒做香"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊做記念的份"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "伊做記念的份"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "對伊拍碎的穀粒"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "佮伊的油"
+    },
+    {
+      "surface": "על",
+      "gloss": "連……"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "伊的乳香"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:15.608410989Z",
+  "model": "glm-5.3"
+}

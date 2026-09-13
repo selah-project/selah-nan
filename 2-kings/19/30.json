@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "猶大家族中逃脫、留落來的,會當閣扎根佇下底,結果子佇頂面。",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "閣會"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "逃脫的"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家族"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "留落來的"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "扎根"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "佇下底"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "結"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "佇頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:30.647419646Z",
+  "model": "glm-5.3"
+}

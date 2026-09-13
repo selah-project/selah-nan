@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "對彼位騎佇遠古的天頂之天的,看啊,⟨伊⟩用伊的聲賜出有大權能的聲。",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "對彼位騎佇…的"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "佇…之天"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "天"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "遠古"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賜出"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "用伊的聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "עז",
+      "gloss": "有大權能"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:21.632141472Z",
+  "model": "glm-5.3"
+}

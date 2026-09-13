@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "蘇爾的擔頭。塔施的船仔啊,哮啦,因為⟨伊⟩已經被毀滅矣——無厝、無通入去;對基提之地,⟨消息⟩已經顯露予𪜶知矣。",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "擔頭"
+    },
+    {
+      "surface": "צר",
+      "gloss": "蘇爾"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "哮啦"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船仔"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "塔施"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "被毀滅"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "無厝"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "無通入去"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "之地"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "基提"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "顯露"
+    },
+    {
+      "surface": "למו",
+      "gloss": "予𪜶"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:53.417299012Z",
+  "model": "glm-5.3"
+}

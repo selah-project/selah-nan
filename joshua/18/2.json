@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "佇以色列子兒中間,猶有人未分⟨את⟩𪜶的產業 —— 七个支派。",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "猶有人留"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "佇…子兒中間"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "分"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的產業"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "𪜶的產業"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "支派"
+    }
+  ],
+  "timestamp": "2026-09-12T02:26:16.594177836Z",
+  "model": "glm-5.3"
+}

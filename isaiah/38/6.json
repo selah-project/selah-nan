@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我欲對亞述王的手裡搶救你佮⟨את⟩這座城,我欲掩庇這座城。",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "對……的手"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "我欲搶救你"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "這座城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這座城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "我欲掩庇"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這座城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:25.630052709Z",
+  "model": "glm-5.3"
+}

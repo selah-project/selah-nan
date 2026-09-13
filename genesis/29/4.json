@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅各問𪜶講:「阿兄弟啊,恁對佗位來?」𪜶應講:「阮對哈蘭來。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "問…講"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "阿兄弟啊"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "對佗位"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "應講"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "哈蘭"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:43.681563461Z",
+  "model": "glm-5.3"
+}

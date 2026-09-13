@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "「閣,你欲佇伊所定的時遵守⟨את⟩這個律例,對日到日、對年到年。",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "閣,你欲遵守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個律例"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "這個律例"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "佇伊所定的時"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "對日到日"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "對年到年"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:20.947227532Z",
+  "model": "glm-5.3"
+}

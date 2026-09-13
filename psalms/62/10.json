@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "毋過,亞當的後代是空虛,人的後代是虛謊;下佇天平裡欲浮起來,𪜶做伙比空虛猶較輕。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "毋過"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後代"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "虛謊"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後代"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "下佇天平裡"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "欲浮起來"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "比空虛"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:12.775451983Z",
+  "model": "glm-5.3"
+}

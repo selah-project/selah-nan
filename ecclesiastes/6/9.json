@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "目睭看會著的,比神魂四界走的較好;這嘛是虛空,是風中的苦惱。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "四界走"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "神魂"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "苦惱"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:55.259750469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊擊殺埃及一切的頭生子,就是𪜶氣力的起頭,佇含的帳棚內。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "閣擊殺"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇埃及"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "佇…的帳棚"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:41.052539099Z",
+  "model": "glm-5.3"
+}

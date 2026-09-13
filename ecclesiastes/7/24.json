@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "彼个已經存在的,真遠,閣深噢、深噢 —— 啥人會當揣著伊?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "真遠"
+    },
+    {
+      "surface": "מה",
+      "gloss": "彼个…啥"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "已經存在的"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "閣深"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "深噢"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "會當揣著伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:08.965877831Z",
+  "model": "glm-5.3"
+}

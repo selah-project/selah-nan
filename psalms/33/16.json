@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "王袂因為軍兵濟多得著救;勇士嘛毋會因為力量大得著脫離。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "袂"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "得著救"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "因為…濟多"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍兵"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋會"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "得著脫離"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "因為…濟多"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力量"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:29.659349302Z",
+  "model": "glm-5.3"
+}

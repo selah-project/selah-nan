@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "王對伊講:「你有啥物代誌?」伊就講:「我實在是一個寡婦,我的夫已經死矣。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你有(代誌)"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "實在"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一個(寡)婦人"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "已經死"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "我的夫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:54.429168059Z",
+  "model": "glm-5.3"
+}

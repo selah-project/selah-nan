@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "你欲將信實賞雅各,赫瑟德賞亞伯拉罕,就是你對遠古的日子向阮的列祖所誓的。",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "賞"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "信實"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "你誓"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "向阮的列祖"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "對…的日子"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "遠古"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:25.928150518Z",
+  "model": "glm-5.3"
+}

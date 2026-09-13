@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "伊閣命令 ⟨את⟩ 頭一个,講:「若是我的兄弟以掃遇著你,閣問你講:『你是啥人的奴僕?你欲去佗位?你頭前這些是啥人的?』",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "伊閣命令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭一个"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一个"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "遇著你"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我的兄弟"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "閣問你"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "למי",
+      "gloss": "是啥人的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "欲去佗位"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "你行"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "閣是啥人的"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:45.575421634Z",
+  "model": "glm-5.3"
+}

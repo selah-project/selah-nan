@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 114,
+  "translation": "海啊,啥物予你走去閃?約旦啊,你哪會倒退?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海啊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "你走去閃"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦啊"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "你倒轉"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "向後"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.905009455Z",
+  "model": "glm-5.3"
+}

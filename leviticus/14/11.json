@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "行潔淨禮的祭司著互 ⟨את⟩ 彼个欲得潔淨的人,佮 ⟨את⟩ 𪜶,徛佇雅威面前,佇會幕的門口。",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "著互…徛"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "行潔淨禮的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个欲得潔淨的人"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "欲得潔淨的"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "𪜶(人佮祭物)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:59.723919049Z",
+  "model": "glm-5.3"
+}

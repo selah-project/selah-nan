@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "因為我的刀佇諸天啉飽矣;看啊,伊欲落佇以東,落佇我定做赫冷(滅絕歸雅威)的百姓身上,照審判。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "啉飽矣"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "伊欲落落去"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣落佇"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "我定做赫冷(滅絕歸雅威)的"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "照審判"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:20.457003782Z",
+  "model": "glm-5.3"
+}

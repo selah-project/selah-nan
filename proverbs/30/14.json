@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "有一款人，伊的喙齒親像刀劍，伊的齒齦親像剃刀，欲對地上食窮散人，對人類中間食散凶人。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "一款人"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "喙齒"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "剃刀"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "齒齦"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "窮散人"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對地上"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "散凶人"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "對人類中間"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:24.801920316Z",
+  "model": "glm-5.3"
+}

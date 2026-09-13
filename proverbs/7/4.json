@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "proverbs 7:4",
+ "book": "proverbs",
+ "lang": "nan",
+ "chapter": 7,
+ "translation": "你著對智慧講:「你是我阿姊」;對明理,你著叫伊做親人。",
+ "tokens": [
+  {
+   "surface": "אמר",
+   "gloss": "講"
+  },
+  {
+   "surface": "לחכמה",
+   "gloss": "對智慧"
+  },
+  {
+   "surface": "אחתי",
+   "gloss": "我阿姊"
+  },
+  {
+   "surface": "את",
+   "gloss": "你",
+   "marks": "你"
+  },
+  {
+   "surface": "ומדע",
+   "gloss": "佮對明理"
+  },
+  {
+   "surface": "לבינה",
+   "gloss": "對聰明"
+  },
+  {
+   "surface": "תקרא",
+   "gloss": "叫伊做親人"
+  }
+ ],
+ "timestamp": "2026-09-12T05:13:12.271989286Z",
+ "model": "glm-5.3"
+}

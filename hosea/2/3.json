@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "對恁兄弟講:「阿米(我的人民)」;閣對恁姊妹講:「魯哈瑪(得著憐憫)」。",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "對恁兄弟"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "阿米(我的人民)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "閣對恁姊妹"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "魯哈瑪(得著憐憫)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:33.900713448Z",
+  "model": "glm-5.3"
+}

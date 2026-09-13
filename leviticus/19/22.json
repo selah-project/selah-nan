@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "祭司欲用贖愆祭的公羊,佇雅威面前替伊行贖罪,為著伊所犯的罪;按呢伊就對伊所犯的罪得著赦免。",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "欲行贖罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "用…公羊"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "贖愆祭的"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "伊的罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "就…得著赦免"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "對伊的罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:57.561878730Z",
+  "model": "glm-5.3"
+}

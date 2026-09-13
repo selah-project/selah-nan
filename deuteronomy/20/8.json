@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "官長欲閣再對百姓講,講:「啥物人是驚惶、心軟弱的?伊著去,倒轉去伊的厝,免得伊熔化⟨את⟩伊兄弟的心,親像伊的心。」",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "閣再講"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "官長"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "軟弱"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "去伊的厝"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "熔化"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊兄弟的心"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "親像伊的心"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:59.763274131Z",
+  "model": "glm-5.3"
+}

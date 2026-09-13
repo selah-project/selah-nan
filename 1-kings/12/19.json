@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "以色列就背叛大衛的家,到今仔日猶原按呢。",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "就背叛"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:44.839294407Z",
+  "model": "glm-5.3"
+}

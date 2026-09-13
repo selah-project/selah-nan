@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我會當數算我全部的骨頭;𪜶注視看覓我。",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "我會當數算"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "我的骨頭"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "注視"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "看覓"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:48.415284990Z",
+  "model": "glm-5.3"
+}

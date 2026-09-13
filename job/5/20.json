@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "佇饑荒,伊贖你脫離死亡;佇戰爭,嘛脫離刀劍的手。",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "佇饑荒"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "伊贖你"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "脫離死亡"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "佮佇戰爭"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:41.388769208Z",
+  "model": "glm-5.3"
+}

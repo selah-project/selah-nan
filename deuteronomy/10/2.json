@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我欲佇彼版面寫⟨את⟩彼十句話,就是佇頭前的版面、你所摔破彼塊頂面所有的;閣你欲下佇箱仔內。」",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "閣我欲寫"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "彼版"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼十句話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "彼十句話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "היו",
+      "gloss": "所有"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "彼版"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "頭前的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "你所摔破"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "閣你欲下"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "佇箱仔內"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:04.621881141Z",
+  "model": "glm-5.3"
+}

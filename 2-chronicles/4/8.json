@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 4:8",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊閣做十個桌,下佇殿內,五個佇正手爿,五個佇倒手爿;閣做一百個金的碗。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "十個桌"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "下"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "佇殿內"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "佇正手爿"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "佇倒手爿"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "碗"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:36.510029192Z",
+  "model": "glm-5.3"
+}

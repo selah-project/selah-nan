@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "雅威互⟨את⟩這百姓佇米茲拉因人眼看起來得恩寵。閣彼个人摩西佇米茲拉因地上極大,佇法老奴僕个眼裡,嘛佇百姓个眼裡。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這百姓佇…得恩寵"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩寵"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這百姓"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…眼看起來"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地上"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…眼裡"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "嘛佇…眼裡"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:03.569608442Z",
+  "model": "glm-5.3"
+}

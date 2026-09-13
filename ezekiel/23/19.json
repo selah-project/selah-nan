@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 23:19",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊加添⟨את⟩伊的淫亂,為著欲記得⟨את⟩伊少年時的日子,彼時伊佇米茲拉因(埃及)的地行淫。",
+  "tokens": [
+    {
+      "surface": "ותרבה",
+      "gloss": "加添"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的淫亂"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "伊的淫亂"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "為著欲記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊少年時的日子"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "伊的少年時"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "行淫"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:38.740196141Z",
+  "model": "glm-5.3"
+}

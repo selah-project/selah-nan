@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 22:25",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我欲將你交佇追揣你性命的人的手中,佇你對𪜶驚惶彼號人的手中,佇巴比倫王尼布甲尼撒的手中,閣佇迦勒底人的手中。",
+  "tokens": [
+    {
+      "surface": "ונתתיך",
+      "gloss": "我欲將你交"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手中"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "追揣…的"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "佇…的手中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼號"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "佇…的手中"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "閣佇…的手中"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:43.297174527Z",
+  "model": "glm-5.3"
+}

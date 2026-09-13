@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "「人子啊,有兩個查某人,是同一個老母的女兒。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "女兒"
+    },
+    {
+      "surface": "אם",
+      "gloss": "老母"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "同一個"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:32.887233188Z",
+  "model": "glm-5.3"
+}

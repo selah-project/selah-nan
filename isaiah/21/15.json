@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "因為對刀劍的面前𪜶走閃,對抽出來的刀,對拉滿的弓,佮對戰爭的重。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面前"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "𪜶走閃"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面前"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "抽出來的"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "佮對…的面前"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "拉滿的"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "佮對…的面前"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "重"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:04.639001140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你欲造⟨את⟩祭壇,用皂莢木做,長五肘,闊五肘;祭壇欲做四方的,佮伊高三肘。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "…的木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "佮五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "四方"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "佮三"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "伊的高度"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:43.798481337Z",
+  "model": "glm-5.3"
+}

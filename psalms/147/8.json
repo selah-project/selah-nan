@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊用雲遮天,為地備辦雨水,互山發出草仔。",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "伊遮"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "用雲"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "為地"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨水"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "互……發出"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:10:56.950679112Z",
+  "model": "glm-5.3"
+}

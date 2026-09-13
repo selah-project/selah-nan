@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "咱的阿多奈真大,氣力真充足;對伊的聰明來講,無法度算。",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "真大"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "咱的阿多奈"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "氣力真充足"
+    },
+    {
+      "surface": "כח",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "對伊的聰明來講"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "法度算"
+    }
+  ],
+  "timestamp": "2026-09-12T05:10:56.950156289Z",
+  "model": "glm-5.3"
+}

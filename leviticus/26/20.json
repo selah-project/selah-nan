@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "恁的氣力欲白白用完,恁的地袂給⟨את⟩伊的出產,地的樹仔嘛毋給伊的果子。",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "欲…用完"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "白白"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "恁的氣力"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "袂給"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "恁的地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的出產"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "伊的出產"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "閣樹仔"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨的⟩地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "伊的果子"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:12.303804846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣者,遮是以色列的仔兒的名,𪜶來到米茲拉因(埃及);⟨את⟩雅各──一个大人佮伊的家己的人──攏來矣。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣者,遮是"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的仔兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "來到的"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个大人"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "佮伊的家己的人"
+    },
+    {
+      "surface": "באו",
+      "gloss": "攏來矣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:44.718331218Z",
+  "model": "glm-5.3"
+}

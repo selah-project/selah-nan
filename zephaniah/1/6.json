@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣有⟨את⟩彼跡對雅威的後面倒退的人,佮彼啉無尋求⟨את⟩雅威、嘛無求問伊的人。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼跡倒退的人"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "彼跡倒退的人"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "對……的後面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮彼啉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "求問伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:06.688420880Z",
+  "model": "glm-5.3"
+}

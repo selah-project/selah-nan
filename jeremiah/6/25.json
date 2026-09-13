@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "毋通出去田裡,佇路頂嘛毋通行,因為對敵有刀,驚惶佇四圍。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "出去"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "佇路頂"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "行"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "佇四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:38.459140042Z",
+  "model": "glm-5.3"
+}

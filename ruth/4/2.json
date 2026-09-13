@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊揣十个人,對城裡的長老中間,講:「恁坐佇遮。」𪜶就坐落去。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "伊揣"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "个人"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "對…長老"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "恁坐"
+    },
+    {
+      "surface": "פה",
+      "gloss": "佇遮"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "𪜶就坐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:13.444852420Z",
+  "model": "glm-5.3"
+}

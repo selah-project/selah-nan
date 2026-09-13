@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "一切山谷攏會攑懸,一切山佮丘陵攏會降低;彎曲的欲變做平坦,崎嶇的欲變做平谷。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "攏會攑懸"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "佮丘陵"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "攏會降低"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⋯⋯欲變做"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "彎曲的"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "平坦"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "崎嶇的"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "平谷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:13.184981964Z",
+  "model": "glm-5.3"
+}

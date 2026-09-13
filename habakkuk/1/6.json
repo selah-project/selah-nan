@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "因為看,我咧興起⟨את⟩迦勒底人,彼个苦楚又捷足的國家,行到地的闊面,去佔領毋是𪜶的厝宅。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看,我"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "咧興起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦勒底人"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "彼个國家"
+    },
+    {
+      "surface": "המר",
+      "gloss": "苦楚"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "又捷足"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "到…的闊面"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "去佔領"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "厝宅"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לו",
+      "gloss": "𪜶的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:04.826122418Z",
+  "model": "glm-5.3"
+}

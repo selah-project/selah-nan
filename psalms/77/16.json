@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "你用膀臂救贖你的百姓,就是雅各佮約瑟的子孫。細拉。",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "你救贖"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "用膀臂"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "佮約瑟"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:01.581419853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊就會記得𪜶是肉體,是一陣吹過去就毋閣轉來的風。",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "伊就會記得"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "吹過去"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋閣"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "轉來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:35.205096532Z",
+  "model": "glm-5.3"
+}

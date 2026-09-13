@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "𪜶就設派工的頭人佇以色列頂面,欲用重擔壓迫𪜶;𪜶就起造貯貨的城予法老,就是⟨את⟩比東佮⟨את⟩蘭塞。",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "𪜶就設"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "派工"
+    },
+    {
+      "surface": "למען",
+      "gloss": "欲"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "壓迫伊"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "用重擔"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "𪜶就起造"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "貯貨的"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "予法老"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "比東"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "比東"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "蘭塞"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "蘭塞"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:13.305227302Z",
+  "model": "glm-5.3"
+}

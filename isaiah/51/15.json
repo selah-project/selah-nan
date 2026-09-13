@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "我——我就是雅威你的以羅欣,攪動海、致到伊的湧哮响的;雅威采巴奧特是伊的名。",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "我——就是我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "攪動"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "致到…哮响"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "伊的湧"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:18.884913897Z",
+  "model": "glm-5.3"
+}

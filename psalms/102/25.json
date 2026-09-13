@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "我講:我的以勒啊,毋通佇我日子的中央提我去;佇一代閣一代的中間,你的年歲⟨長存⟩。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的以勒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "提我去"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "佇……的中央"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "我日子"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "佇一代"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "你的年歲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.889533674Z",
+  "model": "glm-5.3"
+}

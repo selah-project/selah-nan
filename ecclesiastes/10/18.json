@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "因為懶惰,厝頂塌落去;因為手的軟弱,厝就滴漏。",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "因為懶惰"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "塌落去"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "厝頂"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "閣因為軟弱"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "手"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "滴漏"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:13.185205100Z",
+  "model": "glm-5.3"
+}

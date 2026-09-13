@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶的心肝分裂矣,這陣𪜶欲擔罪;伊欲拆毀𪜶的祭壇,毀壞𪜶的柱像。",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "分裂"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "𪜶的心肝"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "𪜶欲擔罪"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "欲拆毀"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "𪜶的祭壇"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "𪜶的柱像"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:03.029582734Z",
+  "model": "glm-5.3"
+}

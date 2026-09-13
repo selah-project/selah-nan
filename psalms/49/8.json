@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "兄弟,人攏無法度贖回;人也袂當互以羅欣伊的贖價。",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "法度贖回"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "贖回"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "互以羅欣"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "伊的贖價"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:41.421413272Z",
+  "model": "glm-5.3"
+}

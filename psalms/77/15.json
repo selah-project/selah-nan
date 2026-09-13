@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "你是彼位以勒,行奇事的;你已經佇列國中顯明你的氣力。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "האל",
+      "gloss": "彼位以勒"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "奇事"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "你已經顯明"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你的氣力"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:01.581291602Z",
+  "model": "glm-5.3"
+}

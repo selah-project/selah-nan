@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "上行之歌。我欲舉我的目睭向山:我的幫助對佗位會來?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "上行(的)"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "我欲舉"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "彼啲山"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "對佗位"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "會來"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "我的幫助"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:30.593501825Z",
+  "model": "glm-5.3"
+}

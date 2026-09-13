@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "互𪜶知這是你的手,是你,雅威,做的。",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "互𪜶知"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ידך",
+      "gloss": "這是你的手"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "是你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "做的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:05.466111039Z",
+  "model": "glm-5.3"
+}

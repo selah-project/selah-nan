@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "伊擊殺真濟國家,閣刣死強猛的諸王,",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "國家"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "閣刣死"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "強猛的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:23.926339130Z",
+  "model": "glm-5.3"
+}

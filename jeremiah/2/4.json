@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅各家,佮以色列家的一切家族啊,恁著聽雅威的話!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…一切"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "家族"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:09.659876414Z",
+  "model": "glm-5.3"
+}

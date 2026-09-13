@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "獨獨⟨את⟩恁的血,為著恁的性命,我欲討回;對逐隻活物的手我欲討伊;閣對人的手,對人佮伊兄弟的手,我欲討⟨את⟩人的性命。",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的血"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "恁的血"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "為著恁的性命"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "我欲討回"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對……的手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐隻"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活物"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "我欲討伊"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "閣對……的手"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對……的手"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "我欲討"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人的性命"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:08.310412246Z",
+  "model": "glm-5.3"
+}

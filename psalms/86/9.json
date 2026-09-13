@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "萬國你所得造的攏欲來,𪜶欲跪拜佇你面頭前,阿多奈;𪜶欲榮光你的名。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "萬國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所得造的"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你得造"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "欲來"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "欲跪拜"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面頭前"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "欲榮光"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "你的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:55.919964182Z",
+  "model": "glm-5.3"
+}

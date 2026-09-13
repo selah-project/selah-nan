@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "彼時非尼哈徛起,祈求判斷,彼个瘟疫就被阻止矣。",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "非尼哈"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "祈求判斷"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "就被阻止矣"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "彼个瘟疫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:24.194232318Z",
+  "model": "glm-5.3"
+}

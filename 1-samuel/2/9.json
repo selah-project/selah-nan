@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威會看守伊赫瑟德的人的腳步,歹人佇暗暗中會恬去;因為人毋是靠氣力就會當得勝。",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "腳步"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "伊赫瑟德的人"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "會看守"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "佇暗暗中"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "會恬去"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "靠氣力"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "會當得勝"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:37:34.059868895Z",
+  "model": "glm-5.3"
+}

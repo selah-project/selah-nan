@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "有恩典閣有憐憫是雅威,慢受氣,閣赫瑟德(慈愛)真大。",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "有恩典"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "閣有憐憫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "慢"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "閣…大"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:47.997530344Z",
+  "model": "glm-5.3"
+}

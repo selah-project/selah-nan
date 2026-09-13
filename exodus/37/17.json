@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 37:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊做⟨את⟩燈台,用純的金,是錘打出來的工;伊做⟨את⟩燈台 —— 伊的座、伊的枝、伊的杯、伊的球佮伊的花,攏出對伊本體。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燈台"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "燈台"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純的"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "錘打出來的工"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燈台"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "燈台"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "伊的座"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "佮伊的枝"
+    },
+    {
+      "surface": "גביעיה",
+      "gloss": "伊的杯"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "伊的球"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "佮伊的花"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊本體"
+    },
+    {
+      "surface": "היו",
+      "gloss": "攏是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:25.720850765Z",
+  "model": "glm-5.3"
+}

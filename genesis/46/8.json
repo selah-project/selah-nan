@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 46:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "這些是以色列的囝仔入去埃及的名單:雅百搭伊的囝仔;雅各的頭生子,呂便。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這些是"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名單"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "入去"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "搭伊的囝仔"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各的"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "呂便"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:55.600405290Z",
+  "model": "glm-5.3"
+}

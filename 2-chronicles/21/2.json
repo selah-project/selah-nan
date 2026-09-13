@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊有兄弟,約沙法的子:亞撒利雅、耶希伊勒、撒迦利雅、亞撒利雅戶、米迦勒、示法提雅;遮个攏是約沙法的子,作以色列的王。",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "耶希伊勒"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "撒迦利雅"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "亞撒利雅戶"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "米迦勒"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "示法提雅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:13.445115555Z",
+  "model": "glm-5.3"
+}

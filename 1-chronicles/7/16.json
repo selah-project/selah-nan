@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 7:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "瑪迦、瑪基的某,生一個後生,伊給伊號名做比列;伊小弟的名叫書利,伊的後生是烏蘭佮利健。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "瑪迦"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "的某"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "瑪基"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個後生"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "伊號名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "比列"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "伊小弟的名"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊小弟"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "書利"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "烏蘭"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "佮利健"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:52.979946133Z",
+  "model": "glm-5.3"
+}

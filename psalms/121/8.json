@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "雅威欲守顧你出去,嘛守顧你入來,對此時一直到永遠。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "欲守顧"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "你出去"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "嘛守顧你入來"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "對此時"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:39.121753114Z",
+  "model": "glm-5.3"
+}

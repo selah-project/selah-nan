@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "約拿單對大衛講:「你的活命講啥物,我就為你去做。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的活命"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "我就去做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:36.928231576Z",
+  "model": "glm-5.3"
+}

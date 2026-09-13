@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "彼个欲食掉伊皮膚的枝節,死亡的大子欲食掉伊的肢體。",
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "食掉"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "枝節"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "伊皮膚的"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食掉"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "伊的肢體"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "大子"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:25:06.579768008Z",
+  "model": "glm-5.3"
+}

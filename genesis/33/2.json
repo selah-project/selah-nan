@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊將⟨את⟩婢女佮⟨את⟩𪜶的囝仔排佇頭前,⟨את⟩利亞佮伊的囝仔排佇後壁,⟨את⟩拉結佮⟨את⟩約瑟排佇上後尾。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "排"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "婢女"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的囝仔"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "𪜶的囝仔"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "利亞"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "利亞"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "佮伊的囝仔"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "後壁"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "拉結"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "拉結"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "上後尾"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:20.628655824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "佇彼个日子,𪜶就給伊號名做耶路巴力,講:「願巴力對伊辯論,因為伊拆毀⟨את⟩伊的祭壇。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就號名"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "耶路巴力"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "願…辯論"
+    },
+    {
+      "surface": "בו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的祭壇"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "伊的祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:40.925407968Z",
+  "model": "glm-5.3"
+}

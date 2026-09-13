@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣我變做大,閣添卡濟過一切佇我以前佇耶路撒冷的人;嘛且我的智慧猶徛佮我逗陣。",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "閣我變做大"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "閣添卡濟"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "過一切"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "佇我以前的人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇我以前"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛且"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "我的智慧"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "猶徛"
+    },
+    {
+      "surface": "לי",
+      "gloss": "佮我逗陣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:21.659484747Z",
+  "model": "glm-5.3"
+}

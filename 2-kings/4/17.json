@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 4:17",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "彼个婦人有身矣,照以利沙對伊所講的,佇彼个時節、照活命的時陣,生一个子。",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "有身矣"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼个婦人"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一个子"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "佇彼个時節"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "照…時陣"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活命"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:40.457217763Z",
+  "model": "glm-5.3"
+}

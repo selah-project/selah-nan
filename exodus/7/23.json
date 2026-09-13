@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "法老越頭,入去伊的家,連這項嘛無放心肝裡。",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "越頭"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שת",
+      "gloss": "放"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "心肝裡"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "這項"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:19.372350630Z",
+  "model": "glm-5.3"
+}

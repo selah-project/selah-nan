@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "我紀念以羅欣,就唉嘆;我默念,我𪜩氣神就昏昏。細拉。",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "我紀念"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "就唉嘆"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "我默念"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "就昏昏"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我𪜩氣神"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:18.125029008Z",
+  "model": "glm-5.3"
+}

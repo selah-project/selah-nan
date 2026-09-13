@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "阮的性命欲佇雅威歡喜,佇伊的救助快樂。",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "阮的性命"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "欲歡喜"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "佇伊的救助"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:09.305155110Z",
+  "model": "glm-5.3"
+}

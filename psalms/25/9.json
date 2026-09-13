@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "伊欲牽謙卑的人行佇公義,閣欲教謙卑的人曉悟伊的路。",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "牽……行"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "謙卑的人"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "佇公義"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "閣欲教"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "謙卑的人"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的路"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:37.422472832Z",
+  "model": "glm-5.3"
+}

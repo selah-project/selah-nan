@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊就寫批,用亞哈的名,用伊的印來封,差彼的批去到長老佮貴族,就是蹛佇伊的城裡、佮⟨את⟩拿伯蹛做伙的。",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "伊就寫"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "批"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "用……的名"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "用……封"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "用伊的印"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "彼的批"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "貴族"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "蹛佇伊的城裡"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "蹛做伙的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿伯"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "拿伯"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:10.394473974Z",
+  "model": "glm-5.3"
+}

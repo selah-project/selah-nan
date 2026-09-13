@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊的災害欲倒轉來佇伊的頭殼頂,伊的強暴欲降落佇伊的頭殼殼頂。",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "欲倒轉來"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "伊的災害"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "佇伊的頭殼頂"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣落佇"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "伊的頭殼殼頂"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "伊的強暴"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "欲降落"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:19.602924578Z",
+  "model": "glm-5.3"
+}

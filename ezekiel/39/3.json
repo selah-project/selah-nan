@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "我欲拍掉你的弓,對你的倒手,閣你的箭對你的正手,我欲給𪜶摔落去。",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "我欲拍"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "你的弓"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對手"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "你的倒手"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "閣你的箭"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對手"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "摔落去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:29.557206650Z",
+  "model": "glm-5.3"
+}

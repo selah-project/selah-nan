@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "列國欲行入你的光,諸王嘛欲行向你晨光的照耀。",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "入你的光"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "嘛…諸王"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "向…的照耀"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "你晨光"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:37.335242920Z",
+  "model": "glm-5.3"
+}

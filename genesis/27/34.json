@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "以掃一聽見⟨את⟩伊老父的話,就大聲啼哭,艱苦到極,對伊老父講:「我老父啊,祝福我啦,我嘛!」",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "一聽見"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊老父的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "就啼哭"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "哭聲"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "大"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "閣艱苦"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "對伊老父"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "祝福我"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我老父"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:28.706360872Z",
+  "model": "glm-5.3"
+}

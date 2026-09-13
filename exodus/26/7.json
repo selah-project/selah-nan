@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "你著做山羊毛的幔仔做帳棚,踮佇帳幕頂面;十一塊幔仔你著做⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你著做"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幔仔"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊毛"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "做帳棚"
+    },
+    {
+      "surface": "על",
+      "gloss": "踮佇…頂面"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "十一"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(十)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幔仔"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你著做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(彼十一塊幔仔)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:33.979599867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "恁的心下定佇伊的城牆,細看伊的宮殿,為著恁會當講予後代聽。",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "下"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "恁的心"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "伊的城牆"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "細看"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "伊的宮殿"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "恁會講"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "予後代"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "後來的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:36.585887634Z",
+  "model": "glm-5.3"
+}

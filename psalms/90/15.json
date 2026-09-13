@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "「照你苦待阮的彼寡日子、照阮看著歹的彼寡年,予阮歡喜。」",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "予阮歡喜"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "照…的日子"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "你苦待阮"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "彼寡年"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "阮看著"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:35.959278788Z",
+  "model": "glm-5.3"
+}

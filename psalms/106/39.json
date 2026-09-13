@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 106:39",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶對家己的所做染著無清氣,閣對家己的所行行淫。",
+  "tokens": [
+    {
+      "surface": "ויטמאו",
+      "gloss": "閣𪜶染著無清氣"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "對家己的所做"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "閣𪜶行淫"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "對家己的所行"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:53.041885258Z",
+  "model": "glm-5.3"
+}

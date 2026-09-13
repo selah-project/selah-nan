@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "𪜶親像青瞑人佇街路流浪,𪜶用血染著垃圾,到無法度通摸𪜶的衫。",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "流浪"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "青瞑人"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "佇街路"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "染著垃圾"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "用血"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "到無法度"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "通"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "摸"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "𪜶的衫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:32.291683966Z",
+  "model": "glm-5.3"
+}

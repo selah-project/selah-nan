@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "保護我,親像目睭的瞳仁;佇你翅膀的蔭影下庇掩我。",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "保護我"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "親像瞳仁"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…的"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "佇…蔭影"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "你的翅膀"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "庇掩我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:59.431978061Z",
+  "model": "glm-5.3"
+}

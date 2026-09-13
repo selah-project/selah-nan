@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣尼布撒拉旦,刣人的頭,提 ⟨את⟩𪜶,帶 ⟨את⟩𪜶 去巴比倫王遐,到利比拉。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "閣…提"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(頂節彼陣人)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "尼布撒拉旦"
+    },
+    {
+      "surface": "רב",
+      "gloss": "頭"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "刣人者"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "閣帶…去"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(去巴比倫王遐)"
+    },
+    {
+      "surface": "על",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "利比拉"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:43.336775414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶閣講反對以羅欣的話;𪜶講:「以勒豈會當佇曠野排設桌席?」",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "講反對…的話"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "豈會當"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "排設"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "桌席"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:16.453609878Z",
+  "model": "glm-5.3"
+}

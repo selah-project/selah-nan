@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "因為我的性命佇憂愁中消磨盡,我的年歲佇吐大氣中過去;因為我的罪孽我的氣力徛袂在,我的骨頭嘛攏衰殘。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "消磨盡"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "佇憂愁中"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "閣有我的年歲"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "佇吐大氣中"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "徛袂在"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "因為我的罪孽"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的氣力"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "閣有我的骨頭"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "攏衰殘"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:01.880945752Z",
+  "model": "glm-5.3"
+}

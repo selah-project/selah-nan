@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "彼個城的人出去,佮約押 ⟨את⟩ 相戰,對大衛的僕人中間有人倒落去;烏利亞彼個赫人嘛死矣。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約押"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "…的僕人"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "彼個赫人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:07.483672148Z",
+  "model": "glm-5.3"
+}

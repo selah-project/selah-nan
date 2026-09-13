@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "我的赫瑟德(慈愛)、我的堡壘;我的高臺、我的拯救者;伊做我的盾牌,我佇伊裡面避難;伊壓落我的百姓佇我下面。",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "我的赫瑟德(慈愛)"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "佮我的堡壘"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "我的高臺"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "佮我的拯救者"
+    },
+    {
+      "surface": "לי",
+      "gloss": "做我的"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "佮佇伊"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "我避難"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "伊壓落"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "佇我下面"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:15.078122344Z",
+  "model": "glm-5.3"
+}

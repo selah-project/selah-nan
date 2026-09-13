@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 33:16",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "佇彼个日子,猶大會得救,耶路撒冷會安安穩穩徛起;這就是人欲按呢叫伊的名:雅威——咱的公義。",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "佇…日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "會得救"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "תשכון",
+      "gloss": "會徛起"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安安穩穩"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "人會叫"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "咱的公義"
+    }
+  ],
+  "timestamp": "2026-09-12T03:59:08.702621152Z",
+  "model": "glm-5.3"
+}

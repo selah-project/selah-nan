@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "毋通欣羨伊的好料理,因為彼是白賊的食物。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "欣羨"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "伊的好料理"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "因為彼"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "白賊的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:54.723565958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "為著欲互𪜶遵守伊的律例、保守伊的妥拉條文的，恁著呵咾雅！",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "為著"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "互𪜶遵守"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "伊的律例"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "佮伊的妥拉條文"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "保守"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "恁著呵咾"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:33.061880826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "古實生⟨את⟩寧錄;伊就是彼个起頭佇地上做勇士的。",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "閣古實"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "寧錄"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "寧錄"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "החל",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "做"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:40.137603761Z",
+  "model": "glm-5.3"
+}

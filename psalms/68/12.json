@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "阿多奈賜話;報好消息的諸女性,是一陣真大的軍隊。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "話"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "報好消息的諸女性"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "一陣軍隊"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:08.615773914Z",
+  "model": "glm-5.3"
+}

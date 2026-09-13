@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 35:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "焦燒的沙地欲變做水埤,焦渴的地欲變做水泉;佇豺狼歇睏的所在,伊倒囉的位,欲生草,佮蘆葦,佮蒲草。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "欲變做"
+    },
+    {
+      "surface": "השרב",
+      "gloss": "焦燒的沙地"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "做水埤"
+    },
+    {
+      "surface": "וצמאון",
+      "gloss": "焦渴的地"
+    },
+    {
+      "surface": "למבועי",
+      "gloss": "做泉源"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "佇…歇睏的所在"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "豺狼"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "伊倒囉的位"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "לקנה",
+      "gloss": "佮蘆葦"
+    },
+    {
+      "surface": "וגמא",
+      "gloss": "佮蒲草"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:30.706910694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "大衛對掃羅講:「啥物緣故你愛聽 ⟨את⟩ 人的話,講:『你看,大衛咧尋你的害?』」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "對掃羅"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "你愛聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "咧尋"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "你的害"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:04.695844431Z",
+  "model": "glm-5.3"
+}

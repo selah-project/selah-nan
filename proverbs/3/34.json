@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "的確,向譏誚的人伊譏誚;予卑微的人伊賞賜恩典。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "的確"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "向譏誚的人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "閣予卑微的人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩典"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:35.619488409Z",
+  "model": "glm-5.3"
+}

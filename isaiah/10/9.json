@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "敢毋是親像迦基米施按呢,有甲爾挪?敢毋是親像亞珥拔按呢,有哈馬?敢毋是親像大馬士革按呢,有撒馬利亞?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "敢毋是"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "親像迦基米施"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "甲爾挪"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "親像亞珥拔"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "親像大馬士革"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:04.404985266Z",
+  "model": "glm-5.3"
+}

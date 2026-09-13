@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊就講:「共伊擲落去。」𪜶就共伊擲落去,伊的血就濺佇壁頂,嘛濺佇馬的身上,馬就共伊踏踏落去。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "共伊擲落去"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "𪜶就共伊擲落去"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "濺"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "壁頂"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛濺佇"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "馬的身上"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "馬就共伊踏踏落去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:19:12.654822370Z",
+  "model": "glm-5.3"
+}

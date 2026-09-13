@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 3:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "所羅門醒起來,看啊,是一個夢。伊入去耶路撒冷,徛佇阿多奈約的櫃前面,獻燒祭,做平安祭,閣辦桌請伊所有的奴僕。",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "一個夢"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "伊入去"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…前面"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "獻"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "做"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "閣辦桌"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴席"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "請所有的"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:01.207476092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "伊閣將⟨את⟩五頂幔單獨相接,閣將⟨את⟩六頂幔單獨相接。",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "伊閣…相接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "五頂幔"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "幔"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "單獨"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "六頂幔"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "幔"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "單獨"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:57.082734057Z",
+  "model": "glm-5.3"
+}

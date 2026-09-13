@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 3:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣⟨את⟩這塊土地阮佇彼時有佔有:對亞羅珥,就是佇亞嫩溪邊仔的,佮基列山的一半佮伊的城,我有給呂便人佮迦得人。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "這塊土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這塊"
+    },
+    {
+      "surface": "ירשנו",
+      "gloss": "阮有佔有"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…的時"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "מערער",
+      "gloss": "對亞羅珥"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…所在"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊仔"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "亞嫩"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "佮一半"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "佮伊的城"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我有給"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "給呂便人"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "佮給迦得人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:44.508732907Z",
+  "model": "glm-5.3"
+}

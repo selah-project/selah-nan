@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "安息日的日,恁佇逐家揣活的所在,毋通點火。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "點"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐家"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "恁揣活的所在"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "……的日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息日"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:03.522472723Z",
+  "model": "glm-5.3"
+}

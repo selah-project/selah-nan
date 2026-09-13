@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "亞伯拉罕緊走入帳棚,對撒拉講:「緊提三細亞(量器的名)的細麵粉,揉伊,做餅。」",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "緊"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "走入帳棚"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "緊提"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "細亞(量器)"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "麵粉"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "揉伊"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "做"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "餅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:13:05.328019072Z",
+  "model": "glm-5.3"
+}

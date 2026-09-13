@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "有時有人會講:「你看,這是新的!」其實伊佇咱以前遠古的世代就早已有了。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有時有人"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "會講"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "早已"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有了"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "佇遠古的世代"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "היה",
+      "gloss": "就有了"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "佇咱以前"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:14.535501057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 16:12",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "亞撒佇伊做王第三十九年,跤得著病,伊的病重到極點;縱然佇伊的病內,伊毋尋⟨את⟩雅威,干焦向醫生。",
+  "tokens": [
+    {
+      "surface": "ויחלא",
+      "gloss": "得著病"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "佮九"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "伊做王"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "佇伊的跤"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "極點"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "伊的病"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "縱然"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "佇伊的病內"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "尋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "ברפאים",
+      "gloss": "向醫生"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:28.125777210Z",
+  "model": "glm-5.3"
+}

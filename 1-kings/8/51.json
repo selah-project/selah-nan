@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "(因為𪜶是你的百姓,嘛是你的產業,就是你對米茲拉因(埃及)、對鐵爐的中間所𢑠出來的——",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "嘛是你的產業"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶就是"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是你…所"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "𢑠出來"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因(埃及)"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…的中間"
+    },
+    {
+      "surface": "כור",
+      "gloss": "爐"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "彼个鐵"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:16.863279367Z",
+  "model": "glm-5.3"
+}

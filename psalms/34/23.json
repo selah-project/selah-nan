@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "雅威救贖伊奴僕的性命,凡若掩庇佇伊的,攏袂擔罪。",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "救贖"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "袂擔罪"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡若"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "掩庇"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:47.655271592Z",
+  "model": "glm-5.3"
+}

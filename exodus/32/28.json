@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "利未的眾子就照摩西的話去做;彼日對百姓中間倒落來約三千人。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "就去做"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的眾子"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "倒落來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "約三"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:15.216003814Z",
+  "model": "glm-5.3"
+}

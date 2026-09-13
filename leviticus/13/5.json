@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 13:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司第七日著看伊,看啊,彼个損傷徛佇伊的目睭前無變,損傷無佇皮膚蔓延,祭司就關伊七日,第二擺。",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "看伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "彼个損傷"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭前"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "蔓延"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "損傷"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "佇皮膚"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "關伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "第二擺"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:03.329017539Z",
+  "model": "glm-5.3"
+}

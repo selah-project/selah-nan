@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "人親像一口虛氣;伊的日子親像一個影仔咧過去。",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "親像一口虛氣"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "親像"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "伊的日子"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "親像一個影仔"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "咧過去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:15.079863560Z",
+  "model": "glm-5.3"
+}

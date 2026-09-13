@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "三日的期限了後,官員行過營的中間。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "到…的期限"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "行過"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "官員"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:54.916946848Z",
+  "model": "glm-5.3"
+}

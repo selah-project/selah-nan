@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你著轉向阮遮,憐憫我,因為我孤單佮困苦。",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "阮遮"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "憐憫我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "孤單"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "佮困苦"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:53.328622691Z",
+  "model": "glm-5.3"
+}

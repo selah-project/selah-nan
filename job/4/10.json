@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "獅的哮聲,佮猛獅的聲,連幼獅的齒嘛攏被斷去。",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "哮聲"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "佮…的聲"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "猛獅"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "佮…的齒"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "被斷去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:59.866916275Z",
+  "model": "glm-5.3"
+}

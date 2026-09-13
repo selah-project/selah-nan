@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "𪜶輕輕仔醫⟨את⟩我百姓的破裂,講:『平安,平安』,其實無平安。",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "𪜶醫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我百姓的破裂"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "破裂"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    },
+    {
+      "surface": "על",
+      "gloss": "用…的方式"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "輕輕仔"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "其實無"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:48:33.889344558Z",
+  "model": "glm-5.3"
+}

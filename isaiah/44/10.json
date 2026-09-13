@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "啥人塑造一个神,閣鑄一个偶像,免得伊有半項利益?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "塑造"
+    },
+    {
+      "surface": "אל",
+      "gloss": "神"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "閣偶像"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "鑄"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "免得"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "利益"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:22.496624901Z",
+  "model": "glm-5.3"
+}

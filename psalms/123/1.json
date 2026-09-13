@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 123,
+  "translation": "上行之詩。坐佇諸天的那位啊,我向你舉起⟨את⟩我的目睭。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上行(之詩)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "我舉起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的目睭"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "坐…的"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:57.935090027Z",
+  "model": "glm-5.3"
+}

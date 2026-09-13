@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "恁著聽雅威的話,恁全體受掠離開耶路撒冷、我差去巴比倫的人。",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "受掠離開的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我差"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "去巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:58:02.984676555Z",
+  "model": "glm-5.3"
+}

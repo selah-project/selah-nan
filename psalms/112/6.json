@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 112,
+  "translation": "因為到永遠伊袂搖動;義人欲做永遠的記念。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "做…的記念"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.919258083Z",
+  "model": "glm-5.3"
+}

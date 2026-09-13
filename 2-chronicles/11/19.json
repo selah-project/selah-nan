@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊給伊生後生:⟨את⟩耶烏施、閣⟨את⟩示瑪利雅、閣⟨את⟩匝含。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "伊生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "後生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶烏施"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "耶烏施"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "示瑪利雅"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "示瑪利雅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "匝含"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "匝含"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:50.997062095Z",
+  "model": "glm-5.3"
+}

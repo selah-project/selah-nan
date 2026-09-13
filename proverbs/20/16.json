@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "伊若替陌生人做保,就提伊的衫;若替外族人做保,就共伊押做當。",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "做保"
+    },
+    {
+      "surface": "זר",
+      "gloss": "陌生人"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "若替……"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "外族人"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "共伊押做當"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:51.716179907Z",
+  "model": "glm-5.3"
+}

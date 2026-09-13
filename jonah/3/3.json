@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "約拿就起來,去到尼尼微,照雅威的話。尼尼微對以羅欣來講是一座大城,行的路愛三工。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "就起來"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "閣去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "尼尼微"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "閣尼尼微"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "是"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "對以羅欣來講"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "行的路"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "工"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:00.984345397Z",
+  "model": "glm-5.3"
+}

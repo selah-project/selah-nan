@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我看⟨את⟩地,看啊,伊是空虛混沌;我看天,𪜶無光。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "混沌"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "到"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "𪜶的光"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:26.997055882Z",
+  "model": "glm-5.3"
+}

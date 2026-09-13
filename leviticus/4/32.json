@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 4:32",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "若是伊牽羊羔做伊的祭物、做贖罪祭,伊著牽一隻無缺陷的母的來。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "牽來"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "伊的祭物"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做贖罪祭"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "母的"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "無缺陷"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "牽伊來"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:50.812587266Z",
+  "model": "glm-5.3"
+}

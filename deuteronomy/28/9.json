@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "雅威欲建立你做伊家己的聖潔子民,親像伊對你咒誓的,因為你欲守⟨את⟩雅威——你的以羅欣的誡命,閣行佇伊的道路。",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "建立你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לו",
+      "gloss": "做伊家己"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "做子民"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "你欲守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威——你的以羅欣的誡命"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "佇伊的道路"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:03.667280991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "若是人的奴僕,用銀買來的,你割⟨את⟩伊了後,伊才通食。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "若是逐個"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人的"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "買來的"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "用銀"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "你割…了後"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "אז",
+      "gloss": "才"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊(在其中)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:40.135155857Z",
+  "model": "glm-5.3"
+}

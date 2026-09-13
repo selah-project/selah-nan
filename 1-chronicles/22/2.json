@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "大衛講愛集合⟨את⟩佇以色列地內的寄居者,伊就徛石刻工來刻琢石,欲起造以羅欣的殿。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "愛集合"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "佇以色列地內的寄居者"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地內"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "伊就徛"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "石刻工"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "來刻"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "琢石"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "欲起造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:19.796750188Z",
+  "model": "glm-5.3"
+}

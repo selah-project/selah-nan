@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "獨獨人民佇邱壇獻祭,因為屬雅威之名的厝,直到彼个日子猶未起造。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "佇邱壇"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "屬……之名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼个"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:33.072461749Z",
+  "model": "glm-5.3"
+}

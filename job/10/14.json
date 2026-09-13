@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我若犯罪,祢就看守我,嘛毋肯對我的過失放我清白。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我犯罪"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "祢就看守我"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "對我的過失"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "放我清白"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:43.936299502Z",
+  "model": "glm-5.3"
+}

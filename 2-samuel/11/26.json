@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "烏利亞的某聽見講伊的丈夫烏利亞死矣,就為著伊的丈夫哀悼。",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "伊的丈夫"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "哀悼"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "伊的丈夫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:53.753640589Z",
+  "model": "glm-5.3"
+}

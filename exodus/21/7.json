@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "倘若有人賣⟨את⟩伊的查某囝做婢女,伊就毋通親像男奴僕按呢出去。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "賣"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的查某囝"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "伊的查某囝"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "做婢女"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "親像……出去"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "男奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:23.184152607Z",
+  "model": "glm-5.3"
+}

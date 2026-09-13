@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以色列眾人攏聽見⟨את⟩王所判的判語,就驚王,因為𪜶看見以羅欣的智慧佇伊內面,通行審判。",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "攏聽見"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王所判的判語"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "判語"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "判"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "就驚"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "佇伊內面"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "通行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:35.821260565Z",
+  "model": "glm-5.3"
+}

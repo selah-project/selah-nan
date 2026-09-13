@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊閣講:「我有一項代誌欲佮你講。」伊講:「講啦。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊閣講"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一項代誌"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講啦"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:15.979411220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "南旁屬以法蓮，北旁屬瑪拿西，海做伊的界線；𪜶佇北旁佮亞設相接觸，佇東旁佮以薩迦相接觸。",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "南旁"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "閣北旁"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "伊的界線"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "佮亞設"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "相接觸"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "對北"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "閣佮以薩迦"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "對東"
+    }
+  ],
+  "timestamp": "2026-09-12T02:26:11.220735705Z",
+  "model": "glm-5.3"
+}

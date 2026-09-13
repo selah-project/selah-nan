@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "你毋通家己雕刻偶像,任何的形像,無論佇天頂的、佇地裡下底的、佮佇地裡下底的水中的,攏毋通。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "家己"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "雕刻偶像"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "形像"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "無論"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮無論"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮無論"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水中"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:16.046754466Z",
+  "model": "glm-5.3"
+}

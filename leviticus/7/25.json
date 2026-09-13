@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 7:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為無論啥物人食彼个對牲畜來的油,就是對伊身上獻火祭互雅威的,彼个食的靈魂會對伊的百姓中間被剪除。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "無論啥物人"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來的"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "獻"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊身上"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "會被剪除"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "彼个靈魂"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "食的"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "對伊的百姓中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:49.134704628Z",
+  "model": "glm-5.3"
+}

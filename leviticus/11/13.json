@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩遮的恁著看做可憎的,對鳥類的中間;𪜶袂使食,𪜶是可憎物:⟨את⟩內設爾(兀鷹),閣⟨את⟩佩雷斯(鵰),閣⟨את⟩阿茲尼雅(烏鷹)。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "遮的"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮的"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "恁著看做可憎的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "鳥類的中間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎物"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "內設爾"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "內設爾(兀鷹)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "佩雷斯"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "佩雷斯(鵰)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "阿茲尼雅"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "阿茲尼雅(烏鷹)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:49.872773731Z",
+  "model": "glm-5.3"
+}

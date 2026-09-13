@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊算星辰的數目,一個一個叫𪜶的名。",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "算"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "星辰"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "一個一個(攏總)"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "叫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:38.306038757Z",
+  "model": "glm-5.3"
+}

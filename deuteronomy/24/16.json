@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "老父毋通為著囝仔來受死，囝仔嘛毋通為著老父來受死；逐個人為著家己的罪來受死。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "受死"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "老父"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "囝仔嘛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "受死"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "老父"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐個人"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "佇伊家己的罪"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "會受死"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:35.699155296Z",
+  "model": "glm-5.3"
+}

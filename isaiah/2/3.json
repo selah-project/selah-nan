@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 2:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "多多百姓欲行來,講:「來,阮來爬上雅威的山,去雅各的以羅欣的殿;伊欲教阮伊的路,阮欲行佇伊的途徑。」因為對錫安欲出訓示,雅威的話對耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "欲行來"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多多"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "來"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "阮來爬上"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "伊欲教阮"
+    },
+    {
+      "surface": "מדרכיו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "阮欲行"
+    },
+    {
+      "surface": "בארחתיו",
+      "gloss": "佇伊的途徑"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "對錫安"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "欲出"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "訓示"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:01.167244843Z",
+  "model": "glm-5.3"
+}

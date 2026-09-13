@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "我聽見有人對厝裡向我講話,有一个徛佇我邊仔。",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "對厝"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "佇我邊仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:24:41.150238333Z",
+  "model": "glm-5.3"
+}

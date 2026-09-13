@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "雅威的榮光欲顯現,一切肉體攏欲做夥看見,因為雅威的喙已經講矣。",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "欲顯現"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "攏欲看見"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做夥"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פי",
+      "gloss": "喙"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:17.735645756Z",
+  "model": "glm-5.3"
+}

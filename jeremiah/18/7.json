@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "一霎時,我若對一個國家、對一個王國講話,欲共伊拔除,欲拆毀,欲滅無;",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "一霎時"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我講話"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "一個國家"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "一個王國"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "欲拔除"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "欲拆毀"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "欲滅無"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:47.880045182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "一落支派一千,一落支派一千,對以色列逐支派,恁欲差一千去出征。」",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "每落支派"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "每落支派"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對逐"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "恁欲差"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "去出征"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:23.244567824Z",
+  "model": "glm-5.3"
+}

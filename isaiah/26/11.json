@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "雅威啊,你的手已經高舉,𪜶毋欲看;𪜶會看見,佮見笑,因為你對百姓的熱心;嘛,火欲吞滅你的對敵。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "高舉"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "בל",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "𪜶看"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "𪜶會看見"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "佮見笑"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "熱心"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "吞滅𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:47.642905548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣對以色列人的貴族,伊無伸出伊的手;𪜶看見⟨את⟩以羅欣,就食也啉。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "貴族"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "𪜶看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "就食"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "也啉"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:46.412209670Z",
+  "model": "glm-5.3"
+}

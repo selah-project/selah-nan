@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "彼位佇水裡起伊樓房的樑枋,設雲做伊的車,行佇風的翼仔頂。",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "起……樑枋"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水裡"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "伊的樓房"
+    },
+    {
+      "surface": "השם",
+      "gloss": "設"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "伊的車"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翼仔"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:18.379927096Z",
+  "model": "glm-5.3"
+}

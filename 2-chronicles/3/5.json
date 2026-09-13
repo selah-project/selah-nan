@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣⟨את⟩彼間大殿用柏仔木來包蓋,伊用好的金蓋伊,閣佇頂面刻棕欒的形佮鍊仔。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼間大殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間殿"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "包蓋"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "柏仔"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "伊蓋伊"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "閣刻佇"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "棕欒的形"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "佮鍊仔"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:51.229796420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊閣做⟨את⟩十個金燈台,照𪜶的條例,下佇殿內,五個佇正手爿,五個佇倒手爿。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十個金燈台"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "燈台"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "照𪜶的條例"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "下"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "佇殿內"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五個"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "佇正手爿"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "五個"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "佇倒手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:36.509823700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "諸個佇一切咧泅走的物中間對恁是無清氣的;見若摸著𪜶死體的,會無清氣到暗昏。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "無清氣的"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "咧泅走的物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "摸著的"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "佇𪜶死體"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "會無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗昏"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:36.158258297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "火著愛常常咧燒佇祭壇頂,毋通予伊熄滅。",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "咧燒"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "予伊熄滅"
+    }
+  ],
+  "timestamp": "2026-09-13T04:53:35.244895536Z",
+  "model": "glm-5.3"
+}

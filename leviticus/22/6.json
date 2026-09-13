@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "彼个摸著伊的人,就無清氣到暗,伊毋通食聖物,除非伊佇水內洗伊的軀肉。",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "个"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "摸著"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "就無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若無"
+    },
+    {
+      "surface": "אם",
+      "gloss": "除非"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "洗"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的軀肉"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水內"
+    }
+  ],
+  "timestamp": "2026-09-13T04:41:07.990053975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "恁的羊群嘛,恁的牛嘛,攏提去,照恁所講的,去做;恁嘛著祝福⟨את⟩我。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "恁的羊群"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "恁的牛"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "提去"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "恁所講的"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "著祝福"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:59.074322594Z",
+  "model": "glm-5.3"
+}

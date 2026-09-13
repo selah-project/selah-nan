@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "地上的諸王徛在,統治者做伙聚集商議,對敵雅威佮伊的彌賽亞,",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "閣統治者"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "聚集商議"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "על",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮對敵"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "伊的彌賽亞"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:18.232359051Z",
+  "model": "glm-5.3"
+}

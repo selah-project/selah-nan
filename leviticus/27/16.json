@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 27:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是有人欲對伊業份的田園奉獻一角予雅威,你的估價就照伊的撒種來算:撒一荷梅爾的大麥種,值五十舍客勒的銀。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "對……的田園"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "伊的業份"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "奉獻"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你的估價"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "照"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "伊的撒種"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "撒……的種"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "一荷梅爾"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:32.380743014Z",
+  "model": "glm-5.3"
+}

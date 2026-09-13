@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "哀哉,彼个佮伊的塑造者相爭 —— 瓦片 ⟨את⟩ 伊的塑造者,土瓦片 ⟨את⟩ 土的瓦片!土敢會當對塑造伊的人講:「你咧做啥物?」抑是你做的工:「伊無手?」",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "רב",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的塑造者"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "伊的塑造者"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "瓦片"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土的瓦片"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "瓦片"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "敢會當講"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "土"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "對塑造伊的"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你咧做"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "抑是你做的工"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "手"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:05.553429631Z",
+  "model": "glm-5.3"
+}

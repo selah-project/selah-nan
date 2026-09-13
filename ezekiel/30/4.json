@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 30:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "劍欲入來埃及,閣庫施欲有產痛,當埃及的傷死者倒落去的時;𪜶欲搶奪伊的財勢,伊的地基欲予人拆毀。",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "欲入來"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "劍"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "閣欲有"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "產痛"
+    },
+    {
+      "surface": "בכוש",
+      "gloss": "庫施"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "當……倒落去的時"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "傷死者"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "𪜶欲搶奪"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "伊的財勢"
+    },
+    {
+      "surface": "ונהרסו",
+      "gloss": "欲予人拆毀"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "伊的地基"
+    }
+  ],
+  "timestamp": "2026-09-12T04:18:49.653982960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "𪜶入約,欲尋求⟨את⟩雅威、𪜶列祖的以羅欣,用𪜶全部的心佮𪜶全部的生命。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "𪜶入"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "欲尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "𪜶列祖"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用全部"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "𪜶的心"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "佮用全部"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的生命"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:56.278155412Z",
+  "model": "glm-5.3"
+}

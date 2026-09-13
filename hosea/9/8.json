@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "以法蓮做守望者,佮我的以羅欣做伙;先知佇伊一切的路頂成做掠鳥仔的網,怨恨佇伊的以羅欣的厝內。",
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "守望者"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "פח",
+      "gloss": "網"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "掠鳥仔的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇……的厝"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:03.918268897Z",
+  "model": "glm-5.3"
+}

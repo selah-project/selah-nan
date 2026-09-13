@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "佇恁獻祭彼日著食伊,隔轉日嘛著食;若閣有賰的,到第三日著用火燒伊。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "恁的祭物"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "著食"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "佮隔轉日"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "若有賰的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "著燒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:22.450354566Z",
+  "model": "glm-5.3"
+}

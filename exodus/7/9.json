@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 7:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "「法老若對恁講,講:『恁家己呈一個兆頭。』你就對亞倫講:『拿⟨את⟩你的枴仔,擲佇法老面前,予伊變做坦寧(大蛇)。』」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "呈"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁家己"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "兆頭"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "你就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קח",
+      "gloss": "拿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的枴仔"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "你的枴仔"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "閣擲"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "變做"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "坦寧(大蛇)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:23.096968249Z",
+  "model": "glm-5.3"
+}

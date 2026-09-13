@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "智慧人的嘴脣撒出知識;愚妄人的心毋是按呢。",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "嘴脣"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "撒出"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "的心"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚妄人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:38.932631983Z",
+  "model": "glm-5.3"
+}

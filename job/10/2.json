@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我欲對以羅亞講:毋通判我有罪;互我知,汝為啥物佮我相爭。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "我欲講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "以羅亞"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "判我有罪"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "互我知"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "佮我相爭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:21.543640835Z",
+  "model": "glm-5.3"
+}

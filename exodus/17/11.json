@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "彼時,摩西攑手的時,以色列就較贏;伊放手落去的時,亞瑪力就較贏。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "攑"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "就較贏"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "若是…的時"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "放落去"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "就較贏"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:34.472818490Z",
+  "model": "glm-5.3"
+}

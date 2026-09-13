@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 35:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "恁著照恁祖先的家、照恁的班次家己準備,照以色列王大衛所寫的,閣照伊的後生所羅門所寫的。",
+  "tokens": [
+    {
+      "surface": "והכונו",
+      "gloss": "恁著準備"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照…家"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "恁祖先的"
+    },
+    {
+      "surface": "כמחלקותיכם",
+      "gloss": "照恁的班次"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "照…所寫"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ובמכתב",
+      "gloss": "閣照…所寫"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:30.918658924Z",
+  "model": "glm-5.3"
+}

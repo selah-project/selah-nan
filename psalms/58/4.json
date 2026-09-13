@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "歹人對娘胎就生份,對腹肚就走偏,講白賊的。",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "生份"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "對娘胎"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "走偏"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "對腹肚"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "講……的"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "白賊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:38.673118422Z",
+  "model": "glm-5.3"
+}

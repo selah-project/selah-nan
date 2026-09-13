@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "敬畏雅威的人,謳咾伊;雅各全族的后代,榮顯伊;以色列全族的后代,敬畏伊。",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "敬畏…的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "謳咾伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "…族的后代"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "榮顯伊"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "敬畏伊"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "…族的后代"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:24.560623904Z",
+  "model": "glm-5.3"
+}

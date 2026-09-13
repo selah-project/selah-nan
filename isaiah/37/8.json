@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "拉伯沙基就倒轉去,抵著亞述王⟨את⟩咧對立拿相戰,因為伊聽著伊已經對拉吉徙營去矣。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "就倒轉去"
+    },
+    {
+      "surface": "רב",
+      "gloss": "拉伯沙基(拉)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "(伯沙基)"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "閣抵著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞述王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "咧相戰"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "立拿"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "伊聽著"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "徙營去"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "對拉吉"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:46.440788063Z",
+  "model": "glm-5.3"
+}

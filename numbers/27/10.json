@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若伊無兄弟,恁著將⟨את⟩伊的產業給伊的老父的兄弟。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "恁著給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的產業"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "伊的產業"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "予……的兄弟"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:28.569138092Z",
+  "model": "glm-5.3"
+}

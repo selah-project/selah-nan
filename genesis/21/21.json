@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊就徛起佇巴蘭的曠野,伊的老母給伊對米茲拉因(埃及)的地娶某。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇……曠野"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "某"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對……的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:57.417649565Z",
+  "model": "glm-5.3"
+}

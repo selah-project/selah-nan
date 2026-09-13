@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇亞哈隨魯彼个時代——伊就是彼个亞哈隨魯，作王對印度直到古實，統治一百二十七個省——",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇…个時代"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊就是"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "對印度"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "省"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:49.566613285Z",
+  "model": "glm-5.3"
+}

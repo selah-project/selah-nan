@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "毋過佇第七年,土地欲有安息、完全歇睏的安息,為著雅威:你的田毋通撒種,你的葡萄園嘛毋通剪。",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "毋過佇…年"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "完全歇睏"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲有"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為著雅威"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "你的田"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "撒種"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "你的葡萄園"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "剪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:14.538127725Z",
+  "model": "glm-5.3"
+}

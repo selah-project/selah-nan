@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "毋通污瀆⟨את⟩你的查某囝,予伊去做娼;免致土地行淫,土地充滿歹事。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "污瀆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的查某囝"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "你的查某囝"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "予伊去做娼"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免致"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "行淫"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "伊就充滿"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "歹事"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:58.327957395Z",
+  "model": "glm-5.3"
+}

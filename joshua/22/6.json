@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 22:6",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "約書亞祝福𪜶,就差𪜶去,𪜶就去到𪜶的帳棚。",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "祝福𪜶"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "差𪜶去"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "就去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "𪜶的帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T02:27:30.098385637Z",
+  "model": "glm-5.3"
+}

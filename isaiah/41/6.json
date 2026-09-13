@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "逐人攏鬥幫⟨את⟩伊的厝邊,嘛對伊的兄弟講:「著堅強!」",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的厝邊"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的厝邊"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "攏鬥幫"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "嘛對伊的兄弟"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "著堅強"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:38.637662186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 13:14",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我的以羅欣啊,為著這項代誌紀念我,毋通抹消我的赫瑟德(仁慈),就是我佇我的以羅欣的家、佮伊的職守所行的一切。",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這項"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "抹消"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "我的赫瑟德"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我所行的"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…家"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "ובמשמריו",
+      "gloss": "佮伊的職守"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:22.773519492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "人民就祝福逐個甘願獻身欲徛佇耶路撒冷的人。",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "就祝福"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "的人"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "甘願獻身的"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:00.434651707Z",
+  "model": "glm-5.3"
+}

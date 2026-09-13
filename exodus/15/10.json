@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "祢用祢的風一下哮,海就𫝺蓋𪜶;𪜶鉛一般,沉落佇大水內。",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "一下哮"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "用祢的風"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "𫝺蓋𪜶"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "沉落"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "鉛一般"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇大水內"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:13.028378667Z",
+  "model": "glm-5.3"
+}

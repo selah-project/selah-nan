@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "因為毋是對敵咧侮辱我——若伊,我擔會當;嘛毋是怨恨我的人對我家己膨大——若伊,我就會當對伊閃避。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "咧侮辱我"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "我擔會當"
+    },
+    {
+      "surface": "לא",
+      "gloss": "嘛毋是"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "怨恨我的人"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "家己膨大"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "我就閃避"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:15.610377851Z",
+  "model": "glm-5.3"
+}

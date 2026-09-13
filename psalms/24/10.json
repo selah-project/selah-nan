@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "啥物人是這位榮光的王?雅威采巴奧特(萬軍),伊就是榮光的王。細拉。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨是⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這位"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "榮光的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "榮光的"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:30.972128187Z",
+  "model": "glm-5.3"
+}

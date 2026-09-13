@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 51:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "這兩項臨到你:啥人替你哀哭?荒廢佮毀壞,閣有饑荒佮刀劍——啥人安慰你?",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "兩項"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "這"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "臨到你"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "替…哀哭"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "השד",
+      "gloss": "荒廢"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "佮毀壞"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "佮饑荒"
+    },
+    {
+      "surface": "והחרב",
+      "gloss": "佮刀劍"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "אנחמך",
+      "gloss": "安慰你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:21.280260596Z",
+  "model": "glm-5.3"
+}

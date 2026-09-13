@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "以色做頭的,俄巴底亞第二,以利阿伯第三。",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "以色"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "做頭的"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "俄巴底亞"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "以利阿伯"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "第三"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:42.842216043Z",
+  "model": "glm-5.3"
+}

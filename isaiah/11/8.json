@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "食奶的嬰仔欲佇毒蛇的空翫,斷奶的囡仔欲共手伸入蝮蛇的穴。",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "翫"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "食奶的嬰仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "חר",
+      "gloss": "空"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "毒蛇"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "穴"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "蝮蛇"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "斷奶的"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "手"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "伸"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:51.852020962Z",
+  "model": "glm-5.3"
+}

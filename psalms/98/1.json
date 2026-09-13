@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 98,
+  "translation": "詩篇。恁著唱新歌予雅威,因為伊行奇妙的事;伊的右手,伊的聖手臂,已經替伊得著救贖。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "恁著唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇妙的事"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "伊行"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "已經得著救贖"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "伊的右手"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "佮手臂"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.457284832Z",
+  "model": "glm-5.3"
+}

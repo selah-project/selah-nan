@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佇城內𪜶衝來衝去,佇城壁頂𪜶走,入厝內𪜶爬起,對窗仔𪜶入去,親像賊仔按呢。",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "𪜶衝來衝去"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "佇城壁頂"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "𪜶走"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "入厝內"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "𪜶爬起"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "對"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "窗仔"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "𪜶入去"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "親像賊仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:55.792812040Z",
+  "model": "glm-5.3"
+}

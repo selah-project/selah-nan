@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 18:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "亞伯拉罕佮撒拉年歲已經老矣,入兮年老的日子;撒拉照女人的例已經無矣。",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "佮撒拉"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "老"
+    },
+    {
+      "surface": "באים",
+      "gloss": "入兮"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "入日子"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "已經無矣"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "成做"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "對撒拉"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "照……的例"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "親像女人的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:52.157175990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "雅威啊,佇你的氣力受高舉;咱欲唱歌,嘛欲謳咾你的大能。",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "受高舉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "佇你的氣力"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "咱欲唱歌"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "嘛欲謳咾"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "你的大能"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:13.730808507Z",
+  "model": "glm-5.3"
+}

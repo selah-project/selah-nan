@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 63:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "閣伊想起古早的日子，想起摩西佮伊的百姓，講：彼位對海裡𤆬⟨את⟩羊群的牧者上來的，佇佗位？彼位將⟨את⟩伊的聖神下佇𪜶中間的，佇佗位？",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "閣伊想起"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…的日子"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "古早"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "המעלם",
+      "gloss": "彼位𤆬…上來的"
+    },
+    {
+      "surface": "מים",
+      "gloss": "對海"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羊群的牧者"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "…的牧者"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "伊的羊群"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "השם",
+      "gloss": "彼位下…的"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的聖神"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "…的靈"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:19.081096922Z",
+  "model": "glm-5.3"
+}

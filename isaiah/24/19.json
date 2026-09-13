@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "地破碎,大大破裂矣;地裂開,碎糊碎矣;地搖撼,搖來搖去矣。",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "破碎"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "大大破裂矣"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פור",
+      "gloss": "裂開"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "碎糊碎矣"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "搖撼"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "搖來搖去矣"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:53.151113253Z",
+  "model": "glm-5.3"
+}

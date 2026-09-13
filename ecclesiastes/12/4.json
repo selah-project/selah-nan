@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇街路的門會關起來,磨的聲細落落,人會佇鳥仔的聲起床,唱歌的查某囡仔攏會低落去。",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "會關起來"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "門"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "佇街路"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "佇…細落的時"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "磨的"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "會起床"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "會低落去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "查某囡仔"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "唱歌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:02.622973633Z",
+  "model": "glm-5.3"
+}

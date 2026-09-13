@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以法蓮受壓迫,佇審判中受拍碎,因為伊甘願去行佇命令的後面。",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "受壓迫"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "受拍碎"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "甘願"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇…的後面"
+    },
+    {
+      "surface": "צו",
+      "gloss": "命令"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:36.489070595Z",
+  "model": "glm-5.3"
+}

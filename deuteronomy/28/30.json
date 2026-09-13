@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "查某人你欲聘做某,別个查埔人欲佮伊睏;厝你欲起造,你卻袂當徛佇咧;葡萄園你欲栽種,你卻袂當享用伊。",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "你欲聘做某"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "別个查埔人"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別个"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "欲佮伊睏"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "你欲起造"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "徛佇咧"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇咧"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "你欲栽種"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "享用伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:31.007540066Z",
+  "model": "glm-5.3"
+}

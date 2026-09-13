@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「恁著抬⟨את⟩以色列仔會眾全體的頭面，照𪜶的家族、照𪜶祖公的家，用名的數來算，逐個查甫，照𪜶的人頭數。",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "恁著抬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列仔會眾全體的頭面"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照…的家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "𪜶的祖公"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "用…的數"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "查甫"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "照𪜶的人頭數"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:07.813943661Z",
+  "model": "glm-5.3"
+}

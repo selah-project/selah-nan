@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "「安慰啦,安慰啦,阮的百姓!」恁的以羅欣按呢講。",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "安慰啦"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "安慰啦"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "阮的百姓"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "按呢講"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:13.183989080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "縞瑪瑙石,佮鑲嵌的石,為著以弗得,佮為著胸牌。",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "石"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "縞瑪瑙"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "佮…石"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "鑲嵌的"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "為著以弗得"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "佮為著胸牌"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:07.178974908Z",
+  "model": "glm-5.3"
+}

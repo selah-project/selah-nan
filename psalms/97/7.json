@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "凡服事雕刻偶像、誇口佇虛神──諸个以羅欣──攏愛見笑;當跪拜伊,眾神明啊。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "攏愛見笑"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "服事…的"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "雕刻偶像"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "誇口的"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "佇虛神"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "當跪拜"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:04.810083186Z",
+  "model": "glm-5.3"
+}

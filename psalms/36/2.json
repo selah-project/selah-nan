@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "悖逆對歹人所講的默示,佇我的心內:伊的目睭頭前無以羅欣的敬畏。",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "默示"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "對歹人"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…內底"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "…頭前"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:29.843432012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的路我已經講出來矣,你就應我;教我你的律例。",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "我的路"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "我已經講出來矣"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "你就應我"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "教我"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "你的律例"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:19.146002461Z",
+  "model": "glm-5.3"
+}

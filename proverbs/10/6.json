@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "祝福歸佇義人的頭殼頂,歹人的喙掩蓋強暴。",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "歸佇…的頭殼"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "…的喙"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "掩蓋"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:18.635355823Z",
+  "model": "glm-5.3"
+}

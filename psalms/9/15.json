@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "為著我通報揚你一切的讚美,佇錫安查某囝的門內;我欲佇你的拯救歡喜。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "我通報揚"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "你的讚美"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "佇…門"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "我欲歡喜"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "佇你的拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:22.134704402Z",
+  "model": "glm-5.3"
+}

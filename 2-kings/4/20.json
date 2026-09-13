@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊就共伊抱起來,揣伊去予伊的阿母;伊坐佇伊的膝頭頂到中晝,就死矣。",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "伊就共伊抱起來"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "揣伊去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "予"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的阿母"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "伊坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "伊的膝頭"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "中晝"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "就死矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:40.457762218Z",
+  "model": "glm-5.3"
+}

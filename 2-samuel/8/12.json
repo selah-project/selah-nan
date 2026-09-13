@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "對亞蘭、對摩押、對亞捫的囝、對非利士人、對亞瑪力,佮對哈達以謝——利合的囝、瑣巴的王——的掠物。",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "對亞蘭"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "佮對摩押"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "佮對…的囝"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "佮對非利士人"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "佮對亞瑪力"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "佮對…的掠物"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "哈達以謝"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "利合"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "瑣巴"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:16.166402766Z",
+  "model": "glm-5.3"
+}

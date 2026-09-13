@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你的袋仔內毋通有石頭佮石頭,大个佮細个。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "袋仔內"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "佮石頭"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大个"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "佮細个"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:01.599091928Z",
+  "model": "glm-5.3"
+}

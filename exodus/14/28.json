@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "水就倒轉來,掩 ⟨את⟩ 戰車佮 ⟨את⟩ 騎兵,連法老的全軍,彼寡綴𪜶入海的;佇𪜶中間無留到一個。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "掩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "戰車"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "騎兵"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "連…全部"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "入"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "綴𪜶"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "留"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:44.215021739Z",
+  "model": "glm-5.3"
+}

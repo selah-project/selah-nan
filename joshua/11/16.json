@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "約書亞奪取⟨את⟩這全地:山地,佮⟨את⟩全部的尼格夫,佮⟨את⟩基申全地,佮⟨את⟩示非拉,佮⟨את⟩亞拉巴,佮⟨את⟩以色列山佮伊的示非拉。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就奪取"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山地"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "全部的尼格夫"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部的"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "尼格夫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "基申全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "基申"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "示非拉"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "示非拉(低地)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "亞拉巴"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "亞拉巴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "以色列山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "佮伊的示非拉"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:01.129492726Z",
+  "model": "glm-5.3"
+}

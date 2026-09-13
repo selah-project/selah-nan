@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "第十三位是書巴伊勒,伊、伊的後生佮伊的兄弟,攏總十二个。",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "第十三"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "位"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "是書巴伊勒"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "佮伊的兄弟"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(个)"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:37.394634405Z",
+  "model": "glm-5.3"
+}

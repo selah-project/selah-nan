@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "佇天頂,啥物人是阮的?佮你佇咧,阮佇地上毋愛慕啥物。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是阮的"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天頂"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "佮你佇咧"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "阮愛慕"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:46.296106292Z",
+  "model": "glm-5.3"
+}

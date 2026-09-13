@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "照雕刻師做石頭的工,親像印仔的刻法,你欲刻⟨את⟩彼兩粒石,照以色列眾子的名;四箍圍鑲金框,你欲按呢做⟨⟨את⟩ 伊⟩。",
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "工"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "雕刻師"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "刻做"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "印仔"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "你欲刻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼兩粒石"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩粒"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "彼粒仔石"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "四箍圍鑲"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "框鑲"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:57.393230035Z",
+  "model": "glm-5.3"
+}

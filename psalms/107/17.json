@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "愚戇的人因為𪜶悖逆的路,閣因為𪜶的罪過,就家己受苦。",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "因為…的路"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "𪜶悖逆"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "閣因為𪜶的罪過"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "就家己受苦"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:44.910268524Z",
+  "model": "glm-5.3"
+}

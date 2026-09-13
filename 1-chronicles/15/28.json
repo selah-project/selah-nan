@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 15:28",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "閣以色列攏總咧扛⟨את⟩雅威約的約櫃上來,用歡呼佮羊角的聲、號頭,佮鐃鈹,用琴佮豎琴予人聽。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "咧扛…上來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "用歡呼"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "佮…的聲"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "號頭"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "鐃鈹"
+    },
+    {
+      "surface": "משמעים",
+      "gloss": "予人聽"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "琴"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "豎琴"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:38.200091152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "為著佇早起宣佈你的赫瑟德(慈愛),佮你的信實佇暗暝。",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "為著…宣佈"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "佮你的信實"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "佇暗暝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:51.264007449Z",
+  "model": "glm-5.3"
+}

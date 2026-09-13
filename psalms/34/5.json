@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "我尋求⟨את⟩雅威,伊就應我,閣對我一切的驚惶中救我。",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "我尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "伊應我"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "我的驚惶"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:51.021198826Z",
+  "model": "glm-5.3"
+}

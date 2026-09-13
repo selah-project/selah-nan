@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊藉拿單先知的手差派,叫⟨את⟩伊的名做耶底底亞(雅威所疼的),為著雅威。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差派"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "耶底底亞"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "為著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:13.979889743Z",
+  "model": "glm-5.3"
+}

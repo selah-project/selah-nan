@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "掩你的面莫看阮一切的罪,互阮的過失攏總抺消。",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "掩莫看"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "阮一切的罪"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "阮的過失"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "抺消"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:50.663298029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "摩西打發⟨את⟩伊的丈人去，伊就去家己的地。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "打發…去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的丈人"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "伊的丈人"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "伊就去"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨伊⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "家己的地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:14.392824680Z",
+  "model": "glm-5.3"
+}

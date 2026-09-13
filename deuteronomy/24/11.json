@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "你著徛佇外面,你借伊債的彼个人家己會提⟨את⟩彼个抵押出來到恁遮、到外面。",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "佇外面"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "你著徛"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "閣彼个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "借債"
+    },
+    {
+      "surface": "בו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "會提出來"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个抵押"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "彼个抵押"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "到外面"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:20.540363379Z",
+  "model": "glm-5.3"
+}

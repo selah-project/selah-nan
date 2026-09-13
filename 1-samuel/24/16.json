@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "願雅威做審判官,佇我佮你中間施行審判,願伊看見,願伊替我伸冤⟨את⟩我的案件,救我脫離你的手。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "願…做"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "做審判官"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "施行審判"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "佮你中間"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "願伊看見"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "願伊伸冤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的案件"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "我的案件"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "脫離你的手"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:32.641426714Z",
+  "model": "glm-5.3"
+}

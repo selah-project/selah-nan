@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "我就提⟨את⟩買賣的契約冊——⟨את⟩封印的彼份,照條例佮規矩,閣提⟨את⟩公開的彼份。",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "我就提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "買賣的契約冊"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "契約冊"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "買賣的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "封印的彼份"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "封印的彼份"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "照條例"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "佮規矩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣提⟨את⟩",
+      "marks": "公開的彼份"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "公開的彼份"
+    }
+  ],
+  "timestamp": "2026-09-12T03:58:47.180970874Z",
+  "model": "glm-5.3"
+}

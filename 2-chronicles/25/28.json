@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "𪜶用馬扛伊,埋葬⟨את⟩伊,佮伊的祖公仝款,佇猶大的城。",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "𪜶扛伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "𪜶埋葬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮……仝款"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的祖公"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇……的城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:57.622884479Z",
+  "model": "glm-5.3"
+}

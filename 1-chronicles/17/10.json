@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "對彼陣的日子,當我命令士師治理我的百姓以色列,我已經降服⟨את⟩你所有的對敵,閣我欲給你講,一間厝雅威欲給你起。",
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "對彼陣的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "當"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我命令"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "士師"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "閣我已經降服"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你所有的對敵"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "閣我欲給你講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "一間厝"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "欲起"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:24.658344512Z",
+  "model": "glm-5.3"
+}

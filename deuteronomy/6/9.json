@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣愛共𪜶寫佇你厝的門框頂,佮佇你的城門。",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "閣愛共𪜶寫"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "門框"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你厝"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "佮佇你的城門"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:48.660921516Z",
+  "model": "glm-5.3"
+}

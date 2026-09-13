@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "上選的羊群愛提,嘛愛將柴堆佇伊下跤;予伊滾甲透,連伊的骨嘛佇伊中央煮甲爛。",
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "上選的"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "愛提"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛愛"
+    },
+    {
+      "surface": "דור",
+      "gloss": "堆"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "柴"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "佇伊下跤"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "予伊滾"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "滾甲透"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "煮甲爛"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "伊的骨"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "佇伊中央"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:57.646316986Z",
+  "model": "glm-5.3"
+}

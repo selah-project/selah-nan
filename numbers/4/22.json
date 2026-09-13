@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「你嘛愛抬起⟨את⟩革順子孫的頭,𪜶嘛是,照𪜶父的家、照𪜶的宗族。",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "抬起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "革順子孫的頭"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "革順"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照……的家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "𪜶的父"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的宗族"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:55.253064013Z",
+  "model": "glm-5.3"
+}

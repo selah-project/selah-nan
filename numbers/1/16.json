@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "這些是受召集的會眾,𪜶祖宗支派的族長;𪜶是以色列千人隊的頭。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "受召集的"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "族長"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "支派"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "𪜶祖宗"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "千人隊的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:17.258802972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以利共伊講:「汝欲醉酒到啥物時陣?提走⟨את⟩汝的酒,離開汝家己!」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "共伊"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "欲醉酒"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "提走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "汝的酒"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "汝的酒"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "離開汝家己"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:11.884069161Z",
+  "model": "glm-5.3"
+}

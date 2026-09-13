@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣彼个大麥佮稻草予馬佮快馬,𪜶運到所應該佇的所在,逐人照伊的份例。",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "閣彼个大麥"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "佮稻草"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "予馬"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "佮快馬"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "𪜶運到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "應該佇"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "照伊的份例"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:13.939698962Z",
+  "model": "glm-5.3"
+}

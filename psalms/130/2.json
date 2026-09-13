@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 130,
+  "translation": "阿多奈啊,願你聽我的聲;願你的耳仔傾聽懇求的聲。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "願你聽"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "願…成做"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "你的耳仔"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "傾聽"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "我的懇求"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:54.906168519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "「對以色列的子兒講,閣按呢對𪜶講:雅威的節期,恁所召集⟨את⟩𪜶做聖聚集的——遮个就是我的節期。」",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "閣按呢講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "節期"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "恁召集"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "הם",
+      "gloss": "就是"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "我的節期"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:08.883310517Z",
+  "model": "glm-5.3"
+}

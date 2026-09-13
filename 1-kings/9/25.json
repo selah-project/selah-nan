@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 9:25",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "所羅門一年三擺佇伊為雅威起的那座祭壇頂獻燒祭佮平安祭,閣佇雅威面前薰彼個⟨את⟩伊;按呢伊完成了⟨את⟩殿。",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "獻"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "一年中"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "佮平安祭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那座"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為雅威"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "閣薰"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼座"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "閣完成"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:11.576193093Z",
+  "model": "glm-5.3"
+}

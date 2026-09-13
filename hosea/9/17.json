@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "我的以羅欣拒絕𪜶,因為𪜶無聽伊;𪜶欲做流蕩的人佇列國中。",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "拒絕𪜶"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "流蕩的人"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:42.125741848Z",
+  "model": "glm-5.3"
+}

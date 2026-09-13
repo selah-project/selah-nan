@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "佇大水頂面,希曷(尼羅河)的種籽,河(尼羅河)的收割,是伊的收入;伊做列國的市集。",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "佇大水頂面"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "大的"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種籽"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "希曷"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "收割"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "河"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "伊的收入"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "市集"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:48.337216669Z",
+  "model": "glm-5.3"
+}

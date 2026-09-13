@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "祭司吩咐了後,就宰⟨את⟩彼隻鳥仔,宰佇土器內,佇活水頂面。",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "就吩咐"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "就宰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻鳥仔"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "彼隻鳥仔"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器仔"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "土製"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:18.624200975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣對亞丁的後代中的,以別,約拿單的子,佮伊做伙的男性五十名。",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "閣對…的後代"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "亞丁"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "以別"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "佮伊做伙的"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "男性"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:09.695995100Z",
+  "model": "glm-5.3"
+}

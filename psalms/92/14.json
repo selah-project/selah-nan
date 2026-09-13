@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "𪜶栽種佇雅威的厝,佇咱以羅欣的院內開花。",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "栽種"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的厝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "佇…的院內"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱以羅欣"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "開花"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:26.977759652Z",
+  "model": "glm-5.3"
+}

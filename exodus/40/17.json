@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "佇彼年的二月,一個月的頭一日,會幕就起造好矣。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就發生"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "佇一日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "對彼個月"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "起造好"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:08.240273914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你欲反覆教示𪜶予你的囝仔,亦欲講論𪜶;你坐佇厝內的時、你行佇路裡的時、你睏落的時、佮你起床的時。",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "你欲反覆教示𪜶"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "予你的囝仔"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "亦欲講論"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "你坐"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "佇厝內"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "你行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路裡"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "你睏落"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "你起床"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:55.177664989Z",
+  "model": "glm-5.3"
+}

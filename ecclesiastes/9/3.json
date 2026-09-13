@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 9:3",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "這个是歹代,佇日頭下頭一切所做的中間:因為一个遭遇臨到所有的人;閣人的心滿滿是歹,佮心內的狂妄,佇𪜶活命的時,了後就去到死人的所在。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下頭"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "遭遇"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "臨到所有的人"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人的"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿是"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "佮狂妄"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "心內"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "佇𪜶活命的時"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "了後"
+    },
+    {
+      "surface": "אל",
+      "gloss": "就去到"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死人的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:32.736233418Z",
+  "model": "glm-5.3"
+}

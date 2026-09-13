@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊起來去拾穗,波阿斯就吩咐⟨את⟩伊的少年人,講:「予伊嘛佇稻束的中間拾,恁毋通羞辱伊。」",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "伊起來"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "去拾穗"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "就吩咐"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "波阿斯"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的少年人"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "伊的少年人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "稻束"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "伊拾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "恁羞辱伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:21.089118882Z",
+  "model": "glm-5.3"
+}

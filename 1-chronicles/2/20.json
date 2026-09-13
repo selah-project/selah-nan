@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佮戶珥生⟨את⟩烏利,烏利生⟨את⟩比撒列。",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "佮戶珥"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏利"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "烏利"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "佮烏利"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "比撒列"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "比撒列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:37.155971998Z",
+  "model": "glm-5.3"
+}

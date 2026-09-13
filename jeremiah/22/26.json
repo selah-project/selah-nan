@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我欲擲⟨את⟩你出去,閣⟨את⟩你老母——生你的——到恁毋是出世佇遐的別個國家,恁會死佇遐。",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "我欲擲…出去"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你",
+      "marks": "你"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "你老母"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你老母"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "生你的"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "國家"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "別個"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "出世"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "閣佇遐"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "恁會死"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:43.297521874Z",
+  "model": "glm-5.3"
+}

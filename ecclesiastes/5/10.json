@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "好物一多,食⟨伊⟩的人嘛綴咧多;對伊的主人來講,有啥物利益?──干焦目睭看著爾爾。",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "一多"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "好物"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "嘛綴咧多"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "食伊的人"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "有啥物"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "利益"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "對伊的主人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "──"
+    },
+    {
+      "surface": "אם",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "看"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:27.774370058Z",
+  "model": "glm-5.3"
+}

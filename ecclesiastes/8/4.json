@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "佇王个話所在,就有權柄;啥物人會當對伊講:你咧做啥物?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "佇……所在"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "權柄"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "佮啥物人"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "會當講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你咧做"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:49.365977258Z",
+  "model": "glm-5.3"
+}

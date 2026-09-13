@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "伊嘛命令 ⟨את⟩ 第二个,嘛 ⟨את⟩ 第三个,嘛 ⟨את⟩ 所有綴佇簇群後面行的人,講:「恁照這個話對以掃講,當恁遇著 ⟨את⟩ 伊的時。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "伊閣命令"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "第二个"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二个"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "第三个"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三个"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有綴簇群後面行的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "行的人"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴佇…後面"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "彼簇群"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "恁著講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "當恁遇著"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:45.576618096Z",
+  "model": "glm-5.3"
+}

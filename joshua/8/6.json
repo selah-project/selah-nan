@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶會追阮,直到阮將⟨את⟩𪜶對城內引出來,因為𪜶會講:「𪜶對咱面前走閃,親像頭一擺按呢。」阮就欲對𪜶面前走閃。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "𪜶會出來"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "追阮"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "阮將……引出來"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(艾城的人)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城內"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶會講"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "𪜶走閃"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "對咱面前"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "頭一擺按呢"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "阮就欲走閃"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "對𪜶面前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:01.602989486Z",
+  "model": "glm-5.3"
+}

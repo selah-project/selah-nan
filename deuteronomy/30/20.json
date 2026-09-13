@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 30:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "愛⟨את⟩雅威你的以羅欣,聽伊的聲,黏綴伊,因為伊就是你的活命、你日子的久長——互你會當徛佇雅威對你的列祖——對亞伯拉罕、對以撒、佮對雅各——咒誓欲互𪜶的彼个土地。",
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "愛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "佮黏綴"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "你的活命"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "佮久長"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日子"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "彼个土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "對你的列祖"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "對亞伯拉罕"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "對以撒"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "佮對雅各"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "欲互"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:46.711203910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣這个奉獻就是恁對⟨את⟩𪜶提的:金、銀、佮銅。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "閣這个"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "彼个奉獻"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "恁提"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "對⟨את⟩𪜶",
+      "marks": "𪜶(以色列子兒)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:37.233115022Z",
+  "model": "glm-5.3"
+}

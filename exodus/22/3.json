@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是偷提的物確實佇伊的手裡揣著,是活的,無論牛、驢抑是羊仔,伊著賠兩倍。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "確實"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手裡"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "偷提的物"
+    },
+    {
+      "surface": "משור",
+      "gloss": "對牛"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢"
+    },
+    {
+      "surface": "עד",
+      "gloss": "抑到"
+    },
+    {
+      "surface": "שה",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活的"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩倍"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "著賠"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:26.293936928Z",
+  "model": "glm-5.3"
+}

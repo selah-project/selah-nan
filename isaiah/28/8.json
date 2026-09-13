@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "因為所有的桌仔攏滿嘔吐佮糞埽,無清氣的所在。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "攏滿"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "嘔吐"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "糞埽"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:34.676119658Z",
+  "model": "glm-5.3"
+}

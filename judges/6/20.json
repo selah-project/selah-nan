@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "以羅欣的天使對伊講:「提⟨את⟩肉佮⟨את⟩無酵餅,下佇這個石頭頂,閣⟨את⟩湯共伊瀉落去。」伊就按呢做。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "天使"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "קח",
+      "gloss": "提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "肉"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "無酵餅"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "下"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "湯"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "湯"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "瀉落去"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:39.637093191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "大衛彼日驚畏 ⟨את⟩ 以羅欣,講:「我按怎通將 ⟨את⟩ 以羅欣的約櫃帶到阮遮來我遐?」",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "驚畏"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "היך",
+      "gloss": "按怎"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "通帶來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到阮遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-13T04:25:52.857057413Z",
+  "model": "glm-5.3"
+}

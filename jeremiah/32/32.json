@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 32:32",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為以色列的子兒佮猶大的子兒所做、來激我受氣的一切歹 — 就是𪜶、𪜶的諸王、𪜶的大臣、𪜶的祭司佮𪜶的先知,以及猶大的人佮耶路撒冷的居民。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "歹"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "佮…的子兒"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "來激我受氣"
+    },
+    {
+      "surface": "המה",
+      "gloss": "就是𪜶"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "𪜶的諸王"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "𪜶的大臣"
+    },
+    {
+      "surface": "כהניהם",
+      "gloss": "𪜶的祭司"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "佮𪜶的先知"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "以及…的人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "佮…的居民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:59:42.764123953Z",
+  "model": "glm-5.3"
+}

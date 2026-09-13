@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我的性命嘴乾,愛以羅欣,向活人的以勒:啥物時陣我才會當入去,閣看見以羅欣的面?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "嘴乾"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "愛以羅欣"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "向以勒"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "我才會當入去"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "閣看見"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:08.613027004Z",
+  "model": "glm-5.3"
+}

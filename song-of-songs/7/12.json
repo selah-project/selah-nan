@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "來,我所疼的,咱出去田裡,咱佇庄仔過暝。",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "來"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我所疼的"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "咱出去"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "彼個田"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "咱過暝"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "佇庄仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:29.148639478Z",
+  "model": "glm-5.3"
+}

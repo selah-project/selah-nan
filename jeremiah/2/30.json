@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我空空拍擊恁的囡仔⟨את⟩;𪜶無接受管教;恁的刀劍吞食恁的先知,親像毀滅的獅子。",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "空空"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "我拍擊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的囡仔"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "恁的囡仔"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "接受"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "恁的刀劍"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "恁的先知"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "親像獅子"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "毀滅的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:20.165228617Z",
+  "model": "glm-5.3"
+}

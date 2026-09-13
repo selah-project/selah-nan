@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "我欲灑清氣的水佇恁頂面,恁就會清氣;對恁一切的無清氣,佮對恁一切的偶像,我欲互⟨את⟩恁清氣。",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "我欲灑"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "佇恁頂面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "恁就會清氣"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "恁的無清氣"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "佮對一切"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "恁的偶像"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "我欲清氣"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:20.525636945Z",
+  "model": "glm-5.3"
+}

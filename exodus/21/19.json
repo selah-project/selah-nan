@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "倘佚伊會起來,扶伊的枴仔佇外面行動,彼个拍的就算無罪;獨獨愛賠伊歇睏的損失,嘛愛醫伊予好。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "倘佚"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "會起來"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "行動"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "佇外面"
+    },
+    {
+      "surface": "על",
+      "gloss": "扶"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "伊的枴仔"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "就算無罪"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "彼个拍的"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "歇睏的損失"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "愛賠"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "醫"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "予好"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:47.916519934Z",
+  "model": "glm-5.3"
+}

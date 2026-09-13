@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "摩西伸出⟨את⟩伊的手向天,米茲拉因全地就有厚烏暗三工。",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的手"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "厚的"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "工"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:42.379863303Z",
+  "model": "glm-5.3"
+}

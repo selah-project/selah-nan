@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 22:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "亞伯拉罕透早起來,鞍⟨את⟩伊的驢,帶⟨את⟩兩个少年家僱佮⟨את⟩伊,閣帶⟨את⟩以撒伊的子;伊剖燒祭的柴,就起來,去對彼个所在,就是以羅欣對伊講過的。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "透早起來"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "鞍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的驢"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "伊的驢"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "帶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩个少年家僱"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "伊的少年家僱"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "佮⟨את⟩伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣帶⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "剖"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "柴"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "就起來"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講過"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:11.961701128Z",
+  "model": "glm-5.3"
+}

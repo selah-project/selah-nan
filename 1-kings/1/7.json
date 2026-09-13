@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊的話佮約押(采魯雅的子)作夥,嘛佮祭司亞比亞他作夥;𪜶綴亞多尼雅鬥相共。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "伊的話(過去)"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮…作夥"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "采魯雅"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "嘛佮…作夥"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "𪜶鬥相共"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "亞多尼雅"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:19.832126792Z",
+  "model": "glm-5.3"
+}

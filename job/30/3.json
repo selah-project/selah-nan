@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "因為欠缺佮飢餓,𪜶孤單荒涼;𪜶啃焦燥的曠野,暗暝荒蕪佮毀滅之地。",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "佇欠缺內底"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "佮佇飢餓內底"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "孤單荒涼"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "啃"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "焦燥之地"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "暗暝"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "荒蕪"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "佮毀滅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:28:43.705173417Z",
+  "model": "glm-5.3"
+}

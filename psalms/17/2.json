@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "對你的面前,我的判斷會出去;你的目睭會看出正直。",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "對你的面前"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的判斷"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "會出去"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "會看出"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "正直"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:06.169411786Z",
+  "model": "glm-5.3"
+}

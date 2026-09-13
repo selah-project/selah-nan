@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "的確枉然我洗清氣我的心,閣用無辜洗我的手。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "枉然"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "我洗清氣"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "閣我洗"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "用無辜"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:32.762186243Z",
+  "model": "glm-5.3"
+}

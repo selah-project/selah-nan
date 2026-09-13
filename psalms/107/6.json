@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "𪜶就向雅威哀叫,佇𪜶的艱苦;對𪜶的困厄,伊救𪜶。",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "𪜶就哀叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇艱苦"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "對𪜶的困厄"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "伊救𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:27.292174155Z",
+  "model": "glm-5.3"
+}

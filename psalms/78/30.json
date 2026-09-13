@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶無離開𪜶所向望的,𪜶的食物猶閣佇𪜶的喙內。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "所向望的"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶閣"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "佇𪜶的喙內"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:57.957764910Z",
+  "model": "glm-5.3"
+}

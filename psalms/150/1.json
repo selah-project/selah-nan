@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 150,
+  "translation": "呵咾雅!佇伊的聖所呵咾以勒,佇伊氣力的穹蒼呵咾伊。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "呵咾"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "呵咾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "佇伊的聖所"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "呵咾伊"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "佇穹蒼"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "伊的氣力"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:40.721193021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 36:35",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "戶珊死矣,比達个仔哈達代伊作王;伊拍擊⟨את⟩米甸,佇摩押个田裡;伊个城个名叫做亞維特。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "戶珊"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "代伊"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "בן",
+      "gloss": "个仔"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "比達"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "拍擊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米甸"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇…个田裡"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "个名"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "伊个城"
+    },
+    {
+      "surface": "עוית",
+      "gloss": "亞維特"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:54.323348383Z",
+  "model": "glm-5.3"
+}

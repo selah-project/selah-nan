@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "毋通佇審判中做毋公道;毋通看款散凶人的面,嘛毋通看重大人的面;著用公義審判你的同伴。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "עול",
+      "gloss": "毋公道"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "佇審判中"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "看款"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "דל",
+      "gloss": "散凶人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "看重"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大人"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "用公義"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "你的同伴"
+    }
+  ],
+  "timestamp": "2026-09-13T04:41:26.946688600Z",
+  "model": "glm-5.3"
+}

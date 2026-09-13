@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "亞勞拿㨑頭看,看見⟨את⟩王佮⟨את⟩伊的奴僕對伊行過來,亞勞拿就出來,佇王面前俯落去,伊的面貼佇土腳。",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "㨑頭看"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "亞勞拿"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的奴僕"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "行過來"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "亞勞拿"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "俯落去敬拜"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "對王"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "貼佇土腳"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:21.015458074Z",
+  "model": "glm-5.3"
+}

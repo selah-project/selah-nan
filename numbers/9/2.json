@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "以色列的子仔欲佇伊所定著的時行⟨את⟩踰越節。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "欲…行"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "踰越節"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "踰越節"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "佇伊所定著的時"
+    }
+  ],
+  "timestamp": "2026-09-13T03:56:38.233650854Z",
+  "model": "glm-5.3"
+}

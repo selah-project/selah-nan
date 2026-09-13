@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "阿爾南越頭,看見⟨את⟩天使,佮伊的四个後生佮伊做夥咧覕;彼陣阿爾南咧踏麥仔。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "越頭"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "阿爾南"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "天使"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "天使"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "佮四个"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "後生"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "咧覕"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "阿爾南"
+    },
+    {
+      "surface": "דש",
+      "gloss": "咧踏"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "麥仔"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:55.105343618Z",
+  "model": "glm-5.3"
+}

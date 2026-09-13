@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "「你,人子,你敢欲審判?你敢欲審判⟨את⟩這座流血的城?你著予伊知⟨את⟩伊一切可憎的事。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "你敢欲審判"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "你敢欲審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這座流血的城"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "流(複數)血的"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "你著予伊知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊一切可憎的事"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "伊可憎的事"
+    }
+  ],
+  "timestamp": "2026-09-12T04:15:14.611562698Z",
+  "model": "glm-5.3"
+}

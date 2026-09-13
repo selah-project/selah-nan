@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 14:1",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "撒馬利亞欲擔當罪責,因為伊悖逆伊的以羅欣;𪜶欲按刀倒落去;𪜶的嬰仔欲予人摔碎,伊的孕婦欲予人剖開。",
+  "tokens": [
+    {
+      "surface": "תאשם",
+      "gloss": "欲擔當罪責"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "באלהיה",
+      "gloss": "對伊的以羅欣"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "按刀"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "עלליהם",
+      "gloss": "𪜶的嬰仔"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "予人摔碎"
+    },
+    {
+      "surface": "והריותיו",
+      "gloss": "佮伊的孕婦"
+    },
+    {
+      "surface": "יבקעו",
+      "gloss": "予人剖開"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:07.583145817Z",
+  "model": "glm-5.3"
+}

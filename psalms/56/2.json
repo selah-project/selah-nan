@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "憐憫我,以羅欣啊,因為必死的人咧吞我;歸日相刣,伊壓制我。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "憐憫我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "吞我"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "必死的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "相刣"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "壓制我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:19.348631434Z",
+  "model": "glm-5.3"
+}

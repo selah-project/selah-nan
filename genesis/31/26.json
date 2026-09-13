@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "拉班對雅各講:「你做啥物?你偷走 ⟨את⟩ 我的心,閣掠 ⟨את⟩ 我的查某囝親像用刀劍掠去的俘虜。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "對雅各"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你做"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "你偷走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的心"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "閣掠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的查某囝"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "我的查某囝"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "親像俘虜"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:44.171966776Z",
+  "model": "glm-5.3"
+}

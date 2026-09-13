@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為雅威的一份是伊的百姓;雅各是伊產業的繩界。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "一份"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "繩界"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "伊的產業"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:31.479461075Z",
+  "model": "glm-5.3"
+}

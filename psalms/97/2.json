@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "雲佮暗霧佇伊四圍;公義佮審判⟨做⟩伊寶座的根基。",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "佮暗霧"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "佇伊四圍"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "佮審判"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "根基"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "伊的寶座"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:52.069827841Z",
+  "model": "glm-5.3"
+}

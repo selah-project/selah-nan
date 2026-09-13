@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "哀哉,你的地啊,你的王是一個少年囡仔,你的官員透早就食!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "你的王"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年囡仔"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "你的官員"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "就食"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:57.802001459Z",
+  "model": "glm-5.3"
+}

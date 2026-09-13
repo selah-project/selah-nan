@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "莫佇明仔載夸口,因為你毋知一個日會生出啥物。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "莫"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "夸口"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇⋯⋯的日子"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明仔載"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你知"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "會生出"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一個日"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:41.990601626Z",
+  "model": "glm-5.3"
+}

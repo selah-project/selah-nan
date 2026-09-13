@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我行過公平佮公義,毋通互我留佇壓迫我的人遐。",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "我行過"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公平"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "佮公義"
+    },
+    {
+      "surface": "בל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "互我留"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "佇壓迫我的人遐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:13.969673870Z",
+  "model": "glm-5.3"
+}

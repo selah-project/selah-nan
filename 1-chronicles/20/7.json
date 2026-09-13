@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "伊侮辱⟨את⟩以色列,約拿單——示米的子、大衛的兄弟——共伊擊殺。",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "伊侮辱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "共伊擊殺"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "示米"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "的兄弟"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:48.034588242Z",
+  "model": "glm-5.3"
+}

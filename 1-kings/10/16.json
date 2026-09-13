@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "王所羅門做二百面大盾牌,金的,鎚出來的,六百金上於彼一面盾牌。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就做"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "大盾牌"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "鎚出來的"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上"
+    },
+    {
+      "surface": "על",
+      "gloss": "於"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "彼面盾牌"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "彼一面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:36.958384468Z",
+  "model": "glm-5.3"
+}

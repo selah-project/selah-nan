@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊猶青、猶未予人摘的時,就佇一切的草以先焦去。",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "猶"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "佇伊的青葉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "予人摘"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "佇……以先"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "焦去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:12.946741361Z",
+  "model": "glm-5.3"
+}

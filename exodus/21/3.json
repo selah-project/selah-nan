@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊若單身入來,就單身出去;伊若捌有某,伊的某嘛欲佮伊出去。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "單身"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "單身"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "捌有"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "某"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "嘛欲出去"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:37.969719993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊彎腰㾪落,屈落佮倒落,㾪苦人因為伊的猛勢倒落。",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "㾪落"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "彎腰屈落"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "佮倒落"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "因為伊的猛勢"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "㾪苦人"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:32.030328204Z",
+  "model": "glm-5.3"
+}

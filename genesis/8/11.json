@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 8:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "到暗時的時陣,彼隻鴿仔入來到伊遐;看啊,一葉橄欖樹的葉,新摘的,啣佇伊的喙內。挪亞就知影水對地的面頂較澹矣。",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遐"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "彼隻鴿仔"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "到…的時陣"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "暗時"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "葉"
+    },
+    {
+      "surface": "זית",
+      "gloss": "橄欖樹"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "新摘的"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "佇伊的喙內"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "就知影"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…矣"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "較澹"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…面頂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:58.946716880Z",
+  "model": "glm-5.3"
+}

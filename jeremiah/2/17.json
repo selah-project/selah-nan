@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "這豈毋是⟨是⟩你做出來予你家的?因為你離棄⟨את⟩雅威、你的以羅欣,佇伊導你行路的時。",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這(件代誌)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你做出來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "你離棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…的時"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "伊導你"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "行路"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:39.693193818Z",
+  "model": "glm-5.3"
+}

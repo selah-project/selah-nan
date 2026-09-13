@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "亞伯蘭對米茲拉因(埃及)上來,伊佮伊的某,佮伊所有的一切,羅得嘛佮伊做伙,往南旁去。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上來"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "佮伊的某"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "佮羅得"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做伙"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "往南旁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:32.166458292Z",
+  "model": "glm-5.3"
+}

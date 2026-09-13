@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 37:17",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "對按呢,王西底家差人去提伊;王佇家內、佇隱密所在問伊,講:「對 ⟨את⟩ 雅威遐有話無?」耶利米講:「有。」伊閣講:「你欲交互佇巴比倫王的手。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "提伊"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "問伊"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇家內"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "佇隱密所在"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "היש",
+      "gloss": "有……無"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對 ⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇……的手"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "你欲交互"
+    }
+  ],
+  "timestamp": "2026-09-12T06:30:29.529440519Z",
+  "model": "glm-5.3"
+}

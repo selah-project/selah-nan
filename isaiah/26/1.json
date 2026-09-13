@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "佇彼日,這首歌會佇猶大地內唱起:強的城是阮的,伊會用拯救來做牆佮外牆。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "會唱起"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "這首歌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "עז",
+      "gloss": "強的"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "是阮的"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "伊會用…來做"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "牆"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "佮外牆"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:50.950864880Z",
+  "model": "glm-5.3"
+}

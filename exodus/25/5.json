@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佮染紅的公羊皮,佮塔哈施皮,佮什亭木。",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "佮…皮"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "染紅的"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "佮…皮"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "塔哈施"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "佮…木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "什亭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:07.178557141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "施恩我,阿多奈,因為我向汝叫,歸日。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "施恩我"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向汝"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我叫"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:47.277757403Z",
+  "model": "glm-5.3"
+}

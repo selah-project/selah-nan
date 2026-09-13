@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "摩西對摩押的草原起來,去尼波山,毘斯迦的山頭,佇耶利哥的面前;雅威給伊看 ⟨את⟩ 全地,閣 ⟨את⟩ 基列,一直到但。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "起來"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "草原"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "尼波"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "山頭"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "毘斯迦"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "給伊看"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:39.818864663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 127,
+  "translation": "上倚之歌,屬所羅門。雅威若無起造厝,起造伊的人就空空勞碌;雅威若無看守城,守衛的人就空空儆醒毋睏。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上倚者的"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "屬所羅門"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "空空"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "起造伊的人"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "空空"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "儆醒毋睏"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "守衛的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:28.718168545Z",
+  "model": "glm-5.3"
+}

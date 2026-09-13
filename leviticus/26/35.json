@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "佇伊荒廢的一切日子,地欲歇睏,⟨את⟩彼個伊佇恁的安息日子、恁徛起佇伊頂面的時,無歇的歇睏。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "……的日子"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "伊荒廢"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "欲歇睏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個……歇睏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "伊歇"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "佇恁的安息日子"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "恁徛起"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:06.342159315Z",
+  "model": "glm-5.3"
+}

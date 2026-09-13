@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "心內的安排屬佇人,毋閣喙舌的應答是對雅威來。",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "屬佇人"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "安排"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "毋閣對雅威"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "應答"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "喙舌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:20.845415630Z",
+  "model": "glm-5.3"
+}

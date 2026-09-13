@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "替伊的囝備辦刣死,因為𪜶祖先的罪惡;予𪜶袂當起來,嘛袂當承接土地,袂當用城市充滿世間的面。",
+  "tokens": [
+    {
+      "surface": "הכינו",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "替伊的囝"
+    },
+    {
+      "surface": "מטבח",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "因為…的罪惡"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "𪜶的祖先"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "佮承接"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "佮充滿"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世間"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城市"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:30.801941865Z",
+  "model": "glm-5.3"
+}

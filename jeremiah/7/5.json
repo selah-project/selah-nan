@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為恁若真正改好⟨את⟩恁的路佮⟨את⟩恁的行做,若真正照公道行,佇人佮伊的同伴中間,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "真正(改好)"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "恁改好"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的路"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "恁的路"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "恁的行做"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "恁的行做"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "真正(行)"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁行"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的同伴"
+    }
+  ],
+  "timestamp": "2026-09-12T03:48:37.311474096Z",
+  "model": "glm-5.3"
+}

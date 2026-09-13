@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "哈蘭死佇伊的老父他拉的面頭前,佇伊出世的地,佇迦勒底人的吾珥。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "哈蘭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…面頭前"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "他拉"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "伊出世的"
+    },
+    {
+      "surface": "באור",
+      "gloss": "佇吾珥"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底人的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:34:37.516241884Z",
+  "model": "glm-5.3"
+}

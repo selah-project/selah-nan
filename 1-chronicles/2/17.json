@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "亞比該生⟨את⟩亞瑪撒,亞瑪撒的老爸是益帖,以實瑪利人。",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "亞比該"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪撒"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "亞瑪撒"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "佮……的老爸"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "亞瑪撒"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "益帖"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "以實瑪利人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:37.154995699Z",
+  "model": "glm-5.3"
+}

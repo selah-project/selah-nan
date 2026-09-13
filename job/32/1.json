@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "這三个人就停落來,無閣回應⟨את⟩約伯,因為伊佇家己的目睭前⟨是⟩公義的。",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "就停落來"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "个人"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "回應"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約伯"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭前"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:17.462555084Z",
+  "model": "glm-5.3"
+}

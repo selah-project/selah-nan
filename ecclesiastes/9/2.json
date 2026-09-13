@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "一切攏親像一切:一个遭遇互義人佮歹人,互好的人、清氣的人佮無清氣的人,互獻祭的佮彼無獻祭的;好的人親像犯罪的人,咒誓的親像驚咒誓的。",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "攏親像"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "遭遇"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "互義人"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "佮歹人"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "互好的人"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "佮清氣的人"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "佮無清氣的人"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "佮獻祭的"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "佮彼"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "無"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "親像好的人"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "親像犯罪的人"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "咒誓的"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "驚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:32.735979241Z",
+  "model": "glm-5.3"
+}

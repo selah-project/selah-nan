@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "雅威的律法是完全的,會當更新性命;雅威的見證是可靠的,會使予戇直的人有智慧。",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "完全"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "會當更新"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "見證"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "可靠"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "會使……有智慧"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "戇直的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:20.679123607Z",
+  "model": "glm-5.3"
+}

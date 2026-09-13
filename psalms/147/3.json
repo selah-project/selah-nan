@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊醫心肝破碎的人,包紮𪜶的傷痕。",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "醫"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "破碎的人"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心肝"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "包紮"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "𪜶的傷痕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:38.305535152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我嘛欲佇汝的誡命內得著樂,因為𪜶是我所疼的。",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "我嘛欲…得著樂"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "佇汝的誡命內"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我所疼的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:28.678080753Z",
+  "model": "glm-5.3"
+}

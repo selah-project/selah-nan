@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "彼个佇頭一日獻⟨את⟩伊的祭物的是拿順，亞米拿達的後生，對猶大支派。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "是"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "彼个獻的"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的祭物"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "拿順"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "亞米拿達"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "對…支派"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:42.919927460Z",
+  "model": "glm-5.3"
+}

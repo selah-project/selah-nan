@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我予我的工課大起來,我起厝家己,我栽葡萄園家己。",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "我予……大起來"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "我的工課"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "我起造"
+    },
+    {
+      "surface": "לי",
+      "gloss": "家己"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "厝"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "我栽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "家己"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "葡萄園"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:29.725795590Z",
+  "model": "glm-5.3"
+}

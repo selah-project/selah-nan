@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "驚惶佮發抖入來我內面,恐怖罩我。",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "佮發抖"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我內面"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "罩我"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "恐怖"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:48.219920883Z",
+  "model": "glm-5.3"
+}

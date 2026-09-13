@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 26:2",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "佮米實利米雅有眾子:撒迦利雅頭胎,耶底亞以勒第二,西巴底雅第三,雅特尼以勒第四。",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "佮米實利米雅"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "有眾子"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "撒迦利雅"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "頭胎"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "耶底亞以勒"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "זבדיהו",
+      "gloss": "西巴底雅"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "יתניאל",
+      "gloss": "雅特尼以勒"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "第四"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:45.307409847Z",
+  "model": "glm-5.3"
+}

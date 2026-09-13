@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "智慧的人佇氣力⟨是⟩大,有知識的人增強權能。",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧的"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "佇氣力"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮有知識的人"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "增強"
+    },
+    {
+      "surface": "כח",
+      "gloss": "權能"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:27.263445321Z",
+  "model": "glm-5.3"
+}

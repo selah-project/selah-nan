@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "「收割已經過去,夏天已經結束,阮猶無得著拯救。」",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "已經過去"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "收割"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "已經結束"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "夏天"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "得著拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:15.540551521Z",
+  "model": "glm-5.3"
+}

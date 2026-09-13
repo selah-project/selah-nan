@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "你的對敵佇你聚集的所在內底哮,𪜶掛起𪜶的記號做記號。",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "哮"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…內底"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "你聚集的所在"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "𪜶掛起"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "𪜶的記號"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "做記號"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:09.391687864Z",
+  "model": "glm-5.3"
+}

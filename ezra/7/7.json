@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 7:7",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以色列人的後代有閣一寡上來耶路撒冷,有祭司、利未人、唱歌的人、顧門的人,閣有尼提寧人,佇亞達薛西王在位第七年。",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "閣……上來"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對……的後代"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "閣利未人"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "閣唱歌的人"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "閣顧門的人"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "閣尼提寧人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇……年"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "לארתחשסתא",
+      "gloss": "亞達薛西"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:49:48.930166817Z",
+  "model": "glm-5.3"
+}

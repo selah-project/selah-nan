@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威備辦一尾大魚欲吞落⟨את⟩約拿,約拿就佇彼尾魚的腹肚內三日佮三暝。",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דג",
+      "gloss": "一尾魚"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "欲吞落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約拿"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就佇"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "佇…的腹肚內"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "彼尾魚"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "佮三"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "暝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:23.416294325Z",
+  "model": "glm-5.3"
+}

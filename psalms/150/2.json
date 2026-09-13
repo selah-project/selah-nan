@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 150,
+  "translation": "因為伊的大能力呵咾伊,照伊的宏大呵咾伊。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "呵咾伊"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "因為伊的大能力"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "呵咾伊"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "照……的濟"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "伊的宏大"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:40.722537150Z",
+  "model": "glm-5.3"
+}

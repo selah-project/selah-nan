@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 120,
+  "translation": "上陞个歌。佇我个患難中,我向雅威求叫,伊應我。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上陞个"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我个"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我求叫"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "伊應我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:29.130320467Z",
+  "model": "glm-5.3"
+}

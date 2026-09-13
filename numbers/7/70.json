@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "一隻山羊中的公山羊,做贖罪祭。",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "公山羊"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊中的"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做贖罪祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:52.582702558Z",
+  "model": "glm-5.3"
+}

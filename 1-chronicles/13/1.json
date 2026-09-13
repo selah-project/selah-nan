@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "大衛就佮彼千人隊的首領佮彼百人隊的首領——對逐個首領——相佮參詳。",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "就相佮參詳"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…的首領"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "彼千人隊"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "佮彼百人隊"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對逐個"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "首領"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:50.051319706Z",
+  "model": "glm-5.3"
+}

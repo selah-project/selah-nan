@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "恁通世界徛起的人,佮徛起佇地上的,當旗佇山頂揚起來的時,恁著看;當羊角吹響的時,恁著聽。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "通"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "徛起…的人"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "佮徛起…的"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "當…揚起"
+    },
+    {
+      "surface": "נס",
+      "gloss": "旗"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山頂"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "恁著看"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "當…吹響"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "恁著聽"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:07.217933865Z",
+  "model": "glm-5.3"
+}

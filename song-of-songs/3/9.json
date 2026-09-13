@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "所羅門王給家己做一頂轎仔,是用黎巴嫩的樹仔做的。",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "轎仔"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給家己"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "用…的樹仔"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:13.154079352Z",
+  "model": "glm-5.3"
+}

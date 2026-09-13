@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "有錢人管治散凶人,借錢的人做放利息的人的奴僕。",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "有錢人"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "佇散凶人"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "管治"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "做奴僕"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "借錢的人"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "對…的人"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "放利息的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:19.743400166Z",
+  "model": "glm-5.3"
+}

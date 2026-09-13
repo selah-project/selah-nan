@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "這⟨是⟩免債年的規矩：逐個債主，伊的手所借予伊同伴的，著放掉；伊毋通催討⟨את⟩伊的同伴，嘛毋通催討⟨את⟩伊的兄弟，因為雅威的免債年已經宣布矣。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "規矩"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "免債年的"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "著放掉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "債主"
+    },
+    {
+      "surface": "משה",
+      "gloss": "所借的債"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "借"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "予伊的同伴"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "催討"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的同伴"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "嘛毋通催討⟨את⟩",
+      "marks": "伊的兄弟"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "已經宣布"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "免債年"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:12:13.055991493Z",
+  "model": "glm-5.3"
+}

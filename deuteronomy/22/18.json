@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "彼个城的長老欲提⟨את⟩彼個人,閣責罰伊⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "欲提"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼个城"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個人"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "閣責罰"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:22.268026475Z",
+  "model": "glm-5.3"
+}

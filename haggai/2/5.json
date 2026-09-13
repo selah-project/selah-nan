@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "⟨את⟩ 彼個話,就是我佇恁出米茲拉因(埃及)的時,佮⟨את⟩恁所割立的;我的靈徛佇恁中間;恁毋通驚。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼個話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "我割立的"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "佇恁出去"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因(埃及)"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "我的靈"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "恁中間"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "驚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:31.224566513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你毋通厭惡以東人,因為伊是你的兄弟;你毋通厭惡米茲拉因人(埃及人),因為你曾做寄居的佇伊的土地。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "以東人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居的"
+    },
+    {
+      "surface": "היית",
+      "gloss": "你曾做"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "佇伊的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:10.456516417Z",
+  "model": "glm-5.3"
+}

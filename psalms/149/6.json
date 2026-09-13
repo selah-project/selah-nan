@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "欲抬舉以勒的頌讚佇𪜶的嚨喉內,閣掠雙喙刃的劍佇𪜶的手裡;",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "抬舉的頌讚"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "佇𪜶的嚨喉內"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "閣…劍"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "雙喙刃"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "佇𪜶的手裡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.975155835Z",
+  "model": "glm-5.3"
+}

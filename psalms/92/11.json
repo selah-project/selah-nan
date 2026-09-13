@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "你抬高我的角親像野牛的角;我用青芳的油抹起身。",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "你抬高"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "親像野牛"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "我的角"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "抹起身"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青芳的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:31.405693668Z",
+  "model": "glm-5.3"
+}

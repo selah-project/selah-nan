@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "連日頭伊嘛毋捌看過,嘛毋捌知影;這個比彼個較有安息。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "捌看過"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "安息"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "對這個"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "對彼個"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:50.596783905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 13:17",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "彼個毀滅者對非利士人的營區出去,做三隊:一隊向去俄弗拉的路,向去書亞的地。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "彼個毀滅者"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "對…營區"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "隊(頭)"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "彼隊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "俄弗拉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "書亞"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:14.233620521Z",
+  "model": "glm-5.3"
+}

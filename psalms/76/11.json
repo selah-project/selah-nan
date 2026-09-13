@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 76,
+  "translation": "因為人的受氣欲讚美你;受氣的賰的,你會束起來。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "讚美你"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "賰的"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "你會束起來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:27.743797782Z",
+  "model": "glm-5.3"
+}

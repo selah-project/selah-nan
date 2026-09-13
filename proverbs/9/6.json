@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "「離開戇直的人,就會活;行佇明達的路。」",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "離開"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "戇直的人"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "就會活"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "麥行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "明達"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.833373743Z",
+  "model": "glm-5.3"
+}

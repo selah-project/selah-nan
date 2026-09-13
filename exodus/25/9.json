@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "照一切我所顯示互⟨את⟩你的——⟨את⟩會幕的樣式,佮⟨את⟩伊逐項器具的樣式——按呢恁著做。",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "顯示"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩你",
+      "marks": "你(顯示的對象)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕的樣式"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "樣式"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊逐項器具的樣式"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "樣式"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐項"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的器具"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁著做"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:13.092699472Z",
+  "model": "glm-5.3"
+}

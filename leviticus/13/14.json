@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "毋過佇活的肉佇伊身上顯現彼个日,伊就無清氣。",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "佇彼个日"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "伊就無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:58.184077734Z",
+  "model": "glm-5.3"
+}

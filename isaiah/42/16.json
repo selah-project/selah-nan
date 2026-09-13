@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我欲導瞎眼的人行伊毋捌行的路,佇𪜶毋捌知的小路,我欲導𪜶行;我欲互暗暗做光徛佇𪜶面前,彎曲的做平坦。這些代誌我已經給𪜶做,我嘛無放𪜶去。",
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "我欲導行"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "瞎眼的人"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "捌知"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "佇小路"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "捌知"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "我欲導𪜶"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "暗暗"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "徛佇𪜶面前"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "做光"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "佮彎曲的"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "做平坦"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "我已經做"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "我放𪜶去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:06.143666219Z",
+  "model": "glm-5.3"
+}

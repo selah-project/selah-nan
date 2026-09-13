@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 33:14",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "看啊,日子欲到啊,這是雅威的神諭:我欲興起⟨את⟩彼個好話,就是我曾對以色列家講、嘛關係猶大家的。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "באים",
+      "gloss": "欲到"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "我欲興起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個好話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼個話"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我曾講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "嘛關係"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T03:59:08.702311577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威予死,嘛予活;降落示阿勒,嘛升起來。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "予死"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "嘛予活"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "降落"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "嘛升起來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:37:21.566059879Z",
+  "model": "glm-5.3"
+}

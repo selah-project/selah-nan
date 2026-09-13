@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "因為,實在因為𪜶誘迷⟨את⟩我的百姓,講:「平安!」其實無平安;伊起一堵牆,看啊,𪜶用淡漿去糊⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "佮實在因為"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "𪜶誘迷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "佮無"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "牆"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "佮看啊𪜶"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "糊"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "淡漿"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "淡漿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:11:25.241107527Z",
+  "model": "glm-5.3"
+}

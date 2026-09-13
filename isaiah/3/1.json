@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為看啊,阿多奈、雅威・采巴奧特(萬軍)欲對耶路撒冷佮猶大除去倚靠——逐項糧食的倚靠,佮逐項水的倚靠。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "除去"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "佮對猶大"
+    },
+    {
+      "surface": "משען",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "佮扶持"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐項"
+    },
+    {
+      "surface": "משען",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "糧食"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮逐項"
+    },
+    {
+      "surface": "משען",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:50.781168234Z",
+  "model": "glm-5.3"
+}

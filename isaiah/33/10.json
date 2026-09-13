@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "「今我欲起來」,雅威講;「今我欲家己升高;今我欲抬起我家己。」",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "我欲起來"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "我欲家己升高"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "我欲抬起我家己"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:56.364681739Z",
+  "model": "glm-5.3"
+}

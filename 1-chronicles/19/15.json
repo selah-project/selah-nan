@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "亞捫的子兒看著亞蘭已經走閃,連𪜶嘛對伊兄弟亞比篩面前走閃,入去城內;約押就入去耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看著"
+    },
+    {
+      "surface": "כי",
+      "gloss": "看著…已經"
+    },
+    {
+      "surface": "נס",
+      "gloss": "走閃"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "就走閃"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "亞比篩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "城內"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "就入去"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:02.427301745Z",
+  "model": "glm-5.3"
+}

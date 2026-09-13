@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣,汝著設⟨את⟩庭院的四圍,亦著下⟨את⟩庭院門口的簾仔。",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "汝著設"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "庭院"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "亦著下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "庭院門口的簾仔"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "簾仔"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:54.911943921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "亞伯拉罕佇⟨את⟩伊的囝以撒出世予伊的時,是百歲。",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "בן",
+      "gloss": "歲"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "出世"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的囝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:06.226953619Z",
+  "model": "glm-5.3"
+}

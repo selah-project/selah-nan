@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "⟨את⟩會幕、⟨את⟩伊的帳棚、閣⟨את⟩伊的罩棚,⟨את⟩伊的鉤仔,閣⟨את⟩伊的板仔,⟨את⟩伊的橫閂,⟨את⟩伊的柱仔,閣⟨את⟩伊的座。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的帳棚"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "伊的帳棚"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的罩棚"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "伊的罩棚"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的鉤仔"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "伊的鉤仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的板仔"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "伊的板仔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的橫閂"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "伊的橫閂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的柱仔"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "伊的柱仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的座"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊的座"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:08.142239881Z",
+  "model": "glm-5.3"
+}

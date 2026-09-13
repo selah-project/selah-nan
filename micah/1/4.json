@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "諸山欲佇伊腳下熔化，諸山谷欲裂開，親像蠟佇火的面前，親像水傾落斜坡。",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "欲熔化"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "佇伊腳下"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "佮諸山谷"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "欲裂開"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "親像蠟"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "佇……的面前"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "傾落"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "斜坡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:13.162259759Z",
+  "model": "glm-5.3"
+}

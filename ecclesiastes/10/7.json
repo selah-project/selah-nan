@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我看過奴僕騎佇馬頂面,官長親像奴僕按呢行佇土腳。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我看過"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "על",
+      "gloss": "騎佇…頂面"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "佮官長"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "咧行"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "親像奴僕"
+    },
+    {
+      "surface": "על",
+      "gloss": "行佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土腳"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:01.618423062Z",
+  "model": "glm-5.3"
+}

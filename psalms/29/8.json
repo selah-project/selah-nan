@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅威的聲振動曠野,雅威振動加低斯的曠野。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "振動"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "振動"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "加低斯"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:50.333471167Z",
+  "model": "glm-5.3"
+}

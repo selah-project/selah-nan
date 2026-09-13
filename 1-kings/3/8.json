@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「閣你的奴僕徛佇你的百姓中間,就是你所揀選的,一個真濟的百姓,傷濟到袂當數、嘛袂當算。」",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "閣你的奴僕"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "你所揀選"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "數"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛袂當"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "算"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "因為傷濟"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:29.763704329Z",
+  "model": "glm-5.3"
+}

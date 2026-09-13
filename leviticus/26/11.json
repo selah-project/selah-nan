@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我欲將我的帳幕下佇恁中間,我的性命毋欲厭棄恁 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲將…下"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "我的帳幕"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "佇恁中間"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋欲"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "厭棄"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:32.862185166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "禍哉,彼拵將厝佮厝相黏、將田佮田拼做伙的人,直到無剩半个所在,恁就單獨徛起佇這地的中間!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "將…相黏的人"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佮厝"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佮田"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "𪜶就拼做伙"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "無剩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "恁就互人安頓徛起"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "單獨"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:32.755447663Z",
+  "model": "glm-5.3"
+}

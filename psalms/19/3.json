@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "一日過一日湧出話,一暝過一暝顯明知識。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "過一日"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "湧出"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "話"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮一暝"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "過一暝"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:10.822822515Z",
+  "model": "glm-5.3"
+}

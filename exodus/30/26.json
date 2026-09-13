@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你欲用伊抹 ⟨את⟩ 會幕,閣 ⟨את⟩ 見證的櫃。",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "你欲抹"
+    },
+    {
+      "surface": "בו",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會(相會)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "見證的櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "見證的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:32.907439718Z",
+  "model": "glm-5.3"
+}

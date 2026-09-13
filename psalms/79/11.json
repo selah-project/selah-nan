@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "願關監的人的唉聲來到你面前;照你手膀的大,放出抵著死的人。",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "願…來到"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "你的面前"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "唉聲"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "關監的人"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "照…的大"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "你的手膀"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "放出"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "死"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:07.562584033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "猶大的仔兒:法勒茲、赫斯龍、迦爾米、戶爾、示巴。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "仔兒"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "法勒茲"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "赫斯龍"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "迦爾米"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "戶爾"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "佮示巴"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:52.876521631Z",
+  "model": "glm-5.3"
+}

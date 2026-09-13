@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "行佇正直的人敬畏雅威;彎斜伊的路的看輕伊。",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "佇伊的正直"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "佮彎斜"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "看輕伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:47.822016107Z",
+  "model": "glm-5.3"
+}

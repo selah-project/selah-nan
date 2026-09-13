@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我已經咒誓,閣欲堅持遵守你公義的判語。",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "我已經咒誓"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "閣欲堅持"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "判語"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "你公義"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:12.869117304Z",
+  "model": "glm-5.3"
+}

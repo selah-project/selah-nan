@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "彼時以色列唱⟨את⟩這首歌:「井啊,起來!恁著應伊。」",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "唱"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這首歌"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "歌"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這首"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "起來"
+    },
+    {
+      "surface": "באר",
+      "gloss": "井啊"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "應"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:45.344457043Z",
+  "model": "glm-5.3"
+}

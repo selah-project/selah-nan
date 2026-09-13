@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "以利沙對伊講:「你去,共伊講:『你𪜶的確會活。』毋閣雅威已經予我看著,伊的確會死。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "共……講"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "的確會活"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "已經予我看著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "……伊"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "的確會死"
+    }
+  ],
+  "timestamp": "2026-09-12T03:19:20.872947965Z",
+  "model": "glm-5.3"
+}

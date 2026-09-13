@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 11:23",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "約書亞就取⟨את⟩全地,照雅威對摩西所講的一切;約書亞將伊分賞予以色列做產業,照𪜶支派的份額;彼個地就對戰爭安靜落來。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就取"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "就將伊分賞"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "做產業"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "予以色列"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "照𪜶的份額"
+    },
+    {
+      "surface": "לשבטיהם",
+      "gloss": "照𪜶的支派"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "彼個地就"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "安靜落來"
+    },
+    {
+      "surface": "ממלחמה",
+      "gloss": "對戰爭(脫離)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:24.668071173Z",
+  "model": "glm-5.3"
+}

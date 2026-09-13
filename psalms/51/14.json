@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "求你還我你救恩的歡喜,用慷慨的靈扶持我。",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "求你還"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "你救恩的"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "用…的靈"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "慷慨"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "扶持我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:57.464143250Z",
+  "model": "glm-5.3"
+}

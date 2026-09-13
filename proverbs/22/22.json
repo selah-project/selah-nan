@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "毋通搶奪散赤人,因為伊是散赤人;嘛毋通佇城門欺壓困苦的人。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "搶奪"
+    },
+    {
+      "surface": "דל",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דל",
+      "gloss": "散赤"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "欺壓"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦的人"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇城門"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:13.564698762Z",
+  "model": "glm-5.3"
+}

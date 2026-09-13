@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 41:24",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "閣門有兩片門扉——兩片會轉摺的門扉:一扇門兩片門扉,彼一扇門嘛兩片門扉。",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "兩片"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "門扉"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "屬門"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩片"
+    },
+    {
+      "surface": "מוסבות",
+      "gloss": "會轉摺的"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "門扉"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩片"
+    },
+    {
+      "surface": "לדלת",
+      "gloss": "屬門"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一扇"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "嘛兩片"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "門扉"
+    },
+    {
+      "surface": "לאחרת",
+      "gloss": "屬彼一扇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:58.024034294Z",
+  "model": "glm-5.3"
+}

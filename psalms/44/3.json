@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "是𪜶个麼?毋是 —— 是你个手趕走列國,閣栽種𪜶;你苦待列邦,共𪜶拍散出去。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "是你"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "趕走(佔𪜶个位)"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "閣栽種𪜶"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "你苦待"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "共𪜶拍散出去"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:26.663772848Z",
+  "model": "glm-5.3"
+}

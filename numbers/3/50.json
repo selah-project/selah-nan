@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "對⟨את⟩以色列子孫的頭胎仔遐,伊提⟨את⟩彼个銀:五佮六十佮三百佮一千,照聖的舍客勒。",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭胎仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "彼个銀"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "佮六十"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "佮三百佮一千"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "佮三百"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "佮一千"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "照…舍客勒"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:15.547514744Z",
+  "model": "glm-5.3"
+}

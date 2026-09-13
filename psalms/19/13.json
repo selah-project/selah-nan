@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "錯誤,啥人會明白?對隱藏的罪過,擔我清潔。",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "錯誤"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "會明白"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "對隱藏的罪過"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "擔我清潔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:27.955407493Z",
+  "model": "glm-5.3"
+}

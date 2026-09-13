@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊用⟨את⟩彼號石頭起一座祭壇,佇雅威的名;閣掘一條溝,親像會當容兩細亞種籽彼大條,佇祭壇的四圍。",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼號石頭"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "彼號石頭"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "佇…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "閣做(掘)"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "一條溝"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "親像…的空間"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "兩細亞"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種籽"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "佇祭壇(的)"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:16.347479670Z",
+  "model": "glm-5.3"
+}

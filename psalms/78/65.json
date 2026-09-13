@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "阿多奈醒起來,親像睏醒的人,親像勇者對酒大聲喝出。",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "親像睏醒的人"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "親像勇者"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "大聲喝出"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "對酒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:34.286042034Z",
+  "model": "glm-5.3"
+}

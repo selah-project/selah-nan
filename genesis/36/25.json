@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "這个是亞拿的後生:底順佮亞希利巴瑪,亞拿的查某囝。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這个是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的後生"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "亞拿"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "底順"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "佮亞希利巴瑪"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "亞拿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:10.642696457Z",
+  "model": "glm-5.3"
+}

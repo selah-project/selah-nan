@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "對米茲拉因(埃及)阮伸出喙手,嘛對亞述,為著欲食飽餅。",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "阮伸出"
+    },
+    {
+      "surface": "יד",
+      "gloss": "喙手"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "為著欲食飽"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:31.980967998Z",
+  "model": "glm-5.3"
+}

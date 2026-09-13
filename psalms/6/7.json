@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我用哮喘攏無力矣;逐暝我沃濺我的眠床,用我的目屎浸我的舖。",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "我攏無力矣"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "用我的哮喘"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "我沃濺"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暝"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "我的眠床"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "用我的目屎"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "我的舖"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "浸(溶去)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:29.276533976Z",
+  "model": "glm-5.3"
+}

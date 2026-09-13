@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "對彼位帶伊的百姓行過曠野的:因為伊的赫瑟德到永遠。",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "對彼位帶…行"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:23.598362639Z",
+  "model": "glm-5.3"
+}

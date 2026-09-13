@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-samuel 22:41",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "你共我的對敵褪後頭殼予我;怨恨我的人,我滅無𪜶。",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "תתה",
+      "gloss": "你共…褪予"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "後頭殼"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "怨恨我的人"
+    },
+    {
+      "surface": "ואצמיתם",
+      "gloss": "我滅無𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:01:51.282049756Z",
+  "model": "glm-5.3"
+}

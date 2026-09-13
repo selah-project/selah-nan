@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "因為一個滅無,決定好的,阿多奈・雅威・采巴奧特欲佇全地的中間行出來。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "閣決定好的"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行出來"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:03.110816652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "當阿多奈洗⟨את⟩錫安查某囝的臭穢,閣⟨את⟩耶路撒冷的血對伊的中間沖掉的時,是用心判的靈,佮用燒的靈。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "洗"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安查某囝的臭穢"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "臭穢"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷的血"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "沖掉"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "對伊的中間"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "用…的靈"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "佮用…的靈"
+    },
+    {
+      "surface": "בער",
+      "gloss": "燒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:35.801860124Z",
+  "model": "glm-5.3"
+}

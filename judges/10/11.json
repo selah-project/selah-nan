@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "雅威就對以色列的子兒講:「豈無——對米茲拉因(埃及)、對亞摩利人、對亞捫的子兒、對非利士人,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈無"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:32:11.525176524Z",
+  "model": "glm-5.3"
+}

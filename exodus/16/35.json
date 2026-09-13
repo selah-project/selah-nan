@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "以色列的子兒食⟨את⟩嗎哪四十年,到𪜶入來有通徛起的地;⟨את⟩嗎哪𪜶食,到𪜶入來迦南地的極界。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "嗎哪"
+    },
+    {
+      "surface": "המן",
+      "gloss": "彼嗎哪"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "באם",
+      "gloss": "𪜶入來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "有通徛起的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "嗎哪"
+    },
+    {
+      "surface": "המן",
+      "gloss": "彼嗎哪"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "באם",
+      "gloss": "𪜶入來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "極界"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:12.908816784Z",
+  "model": "glm-5.3"
+}

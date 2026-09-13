@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "對嬰仔佮啉奶的囡仔的喙,你建立了氣力,為著你的對敵,欲互對敵佮討報復者恬靜。",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "對…的喙"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "嬰仔"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "佮啉奶的"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "你建立了"
+    },
+    {
+      "surface": "עז",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "欲互…恬靜"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "佮討報復者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:33.784173613Z",
+  "model": "glm-5.3"
+}

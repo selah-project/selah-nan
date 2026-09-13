@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 20:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "你老父若點名問我,你就按呢講:『大衛切切對我討,欲走去伯利恆伊的本城,因為遐有歸日子的獻祭,通全家。』",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "點"
+    },
+    {
+      "surface": "יפקדני",
+      "gloss": "問我"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老父"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "你就講"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "討"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "切切討"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "欲走去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "利恆"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "伊的城"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "歸日子的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "通"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "全家"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:47.260631616Z",
+  "model": "glm-5.3"
+}

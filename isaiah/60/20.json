@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 60:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "你的日頭無閣欲落,你的月光無欲收去;因為雅威欲做你永遠的光,你哀傷的日子欲圓滿。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "欲落"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "你的日頭"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "佮你的月光"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "欲收去"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "做光"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "欲圓滿"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "你哀傷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:31.814956146Z",
+  "model": "glm-5.3"
+}

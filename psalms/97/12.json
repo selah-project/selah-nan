@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "義人啊,著佇雅威歡喜,著為著記念伊的聖來感謝。",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "著歡喜"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "著感謝"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "為著記念"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:30.317537171Z",
+  "model": "glm-5.3"
+}

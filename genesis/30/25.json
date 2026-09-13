@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "後來,當蕾潔生⟨את⟩約瑟了後,雅各就對拉班講:「放我走,我就欲去我的所在、我的土地。」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "蕾潔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "放我走"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "我就欲去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "我的所在"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "我的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:51.669930340Z",
+  "model": "glm-5.3"
+}

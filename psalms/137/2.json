@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 137,
+  "translation": "佇垂柳頂面,佇河的中央,阮將阮的琴攑吊佇遐。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "垂柳"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "佇伊的中央"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "阮吊"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "阮的琴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:33.150283283Z",
+  "model": "glm-5.3"
+}

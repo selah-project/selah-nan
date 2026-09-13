@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣彼個地受玷污,佇蹛佇伊裡面的人下面,因為𪜶違反律法,改換條例,廢掉永遠的約。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "閣彼個地"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "受玷污"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下面"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "蹛佇伊裡面的人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "違反"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "改換"
+    },
+    {
+      "surface": "חק",
+      "gloss": "條例"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:08.281185669Z",
+  "model": "glm-5.3"
+}

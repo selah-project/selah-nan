@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "阿多奈啊,你開我的嘴脣,我的嘴就會宣揚你的讚美。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的嘴脣"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "你開"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "佮我的嘴"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "會宣揚"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "你的讚美"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:51.007639082Z",
+  "model": "glm-5.3"
+}

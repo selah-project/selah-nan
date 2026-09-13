@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "坐佇烏暗佮死蔭內底的人,受艱苦佮鐵縛牢的俘虜,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "坐…的(人)"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "佮死蔭"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "受縛的俘虜"
+    },
+    {
+      "surface": "עני",
+      "gloss": "艱苦"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "佮鐵"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:46.062776166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 8:8",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我欲帶⟨את⟩𪜶來,𪜶欲徛起佇耶路撒冷中間;𪜶欲做我的人民,我嘛欲做𪜶的以羅欣,佇真實佮公義內面。",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "我欲帶…來"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "𪜶欲徛起"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "𪜶欲做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬我"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "做人民"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我嘛"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "屬𪜶"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "做以羅欣"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "佇真實"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "佮公義"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:07.430872488Z",
+  "model": "glm-5.3"
+}

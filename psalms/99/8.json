@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 99,
+  "translation": "雅威咱的以羅欣啊,你曾應允𪜶;對𪜶你是擔當罪孽的以勒,嘛對𪜶的所行施行報應。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "曾應允𪜶"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "擔當"
+    },
+    {
+      "surface": "היית",
+      "gloss": "你是"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "閣施行報應"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "𪜶的所行"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:07.672653339Z",
+  "model": "glm-5.3"
+}

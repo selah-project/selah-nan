@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為正直的人會徛家佇地內,全心的人會留佇伊內面。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直的人"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "會徛家"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "佮全心的人"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "會留落來"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊內面"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:04.334041492Z",
+  "model": "glm-5.3"
+}

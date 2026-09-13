@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 29:15",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "因為阮佇你面頭前是寄腳的,佮阮的祖先按呢做旅客;阮佇地上的日仔親像影仔,無留落的向望。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "寄腳的"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面頭前"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "嘛做旅客"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "佮…相仝"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "親像影仔"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "阮的日子"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "留落的向望"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:51.784602192Z",
+  "model": "glm-5.3"
+}

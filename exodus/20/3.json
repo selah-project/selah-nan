@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "你袂使有別個以羅欣佇我面頭前。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你有"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別個"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:49.953672108Z",
+  "model": "glm-5.3"
+}

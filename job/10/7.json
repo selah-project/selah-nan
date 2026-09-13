@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "照你的知影,我毋是惡人;閣無人會當對你的手救出——",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "你的知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨連詞⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "我是惡人"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "對你的手"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "(人)救出"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:34.113138195Z",
+  "model": "glm-5.3"
+}

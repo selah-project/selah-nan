@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "曠野的草埔滴露水,小山用歡喜束腰。",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "滴露水"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "草埔"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "用歡喜"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "小山"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "束腰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:54.422287408Z",
+  "model": "glm-5.3"
+}

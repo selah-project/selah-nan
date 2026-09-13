@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊的頭生子是押頓,閣有蘇珥、基士、巴力、尼珥、拿答。",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "頭生的"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "押頓"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "閣蘇珥"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "閣基士"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "閣巴力"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "閣尼珥"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "閣拿答"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:07.421563534Z",
+  "model": "glm-5.3"
+}

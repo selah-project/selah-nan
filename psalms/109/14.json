@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願伊的父代的罪孽記念佇雅威面前,伊的老母的罪毋通被抹消。",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "願…被記念"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的父代"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "閣…的罪"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "被抹消"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:23.485747168Z",
+  "model": "glm-5.3"
+}

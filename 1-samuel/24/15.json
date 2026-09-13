@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "以色列的王出去,是綴啥物的後?你咧追啥物?綴一隻死的狗的後,綴一隻跳蝨的後!",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "綴…的後"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴…的後"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "咧追"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴…的後"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "狗"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴…的後"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "跳蝨"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:32.641230490Z",
+  "model": "glm-5.3"
+}

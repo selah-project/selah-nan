@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "彼時你欲喜愛公義的祭物,全燒祭佮全燒的牲禮;彼時𪜶欲獻公牛佇你的祭壇頂。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "你欲喜愛"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "全燒祭"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "佮全燒的牲禮"
+    },
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "𪜶欲獻"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "你的祭壇"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "公牛"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:36.905883105Z",
+  "model": "glm-5.3"
+}

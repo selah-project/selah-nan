@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 113,
+  "translation": "啥物人親像雅威・咱的以羅欣?伊是彼位懸懸徛起來坐的高者,",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "親像雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "彼位懸懸徛起來的"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "來坐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:51.818223388Z",
+  "model": "glm-5.3"
+}

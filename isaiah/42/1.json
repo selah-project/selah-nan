@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "看啊,我的奴僕,我欲扶持伊;我所揀選的,我的心掠做歡喜:我共我的靈賜落佇伊身上,伊欲給列國帶出公義。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "我欲扶持伊"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "我所揀選的"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "掠做歡喜"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我賜"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的靈"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "給列國"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "帶出"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:21.907672093Z",
+  "model": "glm-5.3"
+}

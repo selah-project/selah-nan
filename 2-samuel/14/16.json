@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "因為王會聽,欲救⟨את⟩伊的婢仔脫離彼个人的手,彼个人想欲消滅⟨את⟩我佮⟨את⟩我的子做伙,予阮離開以羅欣的產業。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "會聽"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "欲救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的婢仔"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "伊的婢仔"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "欲消滅"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的子"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "對…的產業"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:15.626938410Z",
+  "model": "glm-5.3"
+}

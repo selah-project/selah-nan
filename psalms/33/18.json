@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "「看啊,雅威的目睭看顧敬畏伊的人,佮彼啲向伊的赫瑟德(慈愛)啲等的人;",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏伊的人"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "彼啲等的人"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "向伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:12.960066452Z",
+  "model": "glm-5.3"
+}

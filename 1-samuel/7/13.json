@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 7:13",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "非利士人予人壓制,毋閣入來以色列的境界;雅威的手佇非利士人身上,佇撒母耳的一切日子。",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "予人壓制"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "閣"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣一擺"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "入…境界"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "非利士人身上"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日子"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:54.399941185Z",
+  "model": "glm-5.3"
+}

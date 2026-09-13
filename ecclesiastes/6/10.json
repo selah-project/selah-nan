@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "啥物已經有的,伊的名早就叫矣,嘛知影伊是人;伊袂當佮比伊較強的相爭。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "已經有的"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "早就"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "嘛知影"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "比伊較強的"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "比伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:55.260047850Z",
+  "model": "glm-5.3"
+}

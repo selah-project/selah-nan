@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "對敵講:我欲追趕,我欲攏總趕著,我欲均分擄物;我的性命欲因為𪜶得著滿足。我欲抽出我的刀,我的手欲消滅𪜶。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "我欲追趕"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "我欲攏總趕著"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "我欲均分"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "擄物"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "欲因為𪜶得著滿足"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "我欲抽出"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "我的刀"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "欲消滅𪜶"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:13.028062860Z",
+  "model": "glm-5.3"
+}

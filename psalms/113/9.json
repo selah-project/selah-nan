@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 113,
+  "translation": "伊互無生養的婦人人安坐佇厝內,做囝仔的阿母,快樂歡喜。當讚美雅!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "互…安坐"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "無生養的婦人人"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "אם",
+      "gloss": "阿母"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "囝仔的"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "快樂歡喜"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "當讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:38.119509943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "阮佮阮的祖先犯罪,阮做毋著,阮行歹。",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "阮犯罪"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "阮做毋著"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "阮行歹"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:09.430128006Z",
+  "model": "glm-5.3"
+}

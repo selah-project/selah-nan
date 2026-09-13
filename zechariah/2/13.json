@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 2:13",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為看啊,我咧揮⟨את⟩我的手對𪜶頂面,𪜶欲做掠來的物互服事𪜶的人,恁欲知影雅威采巴奧特有差遣我。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מניף",
+      "gloss": "咧揮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "對𪜶頂面"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "𪜶欲做"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "掠來的物"
+    },
+    {
+      "surface": "לעבדיהם",
+      "gloss": "互服事𪜶的人"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "恁欲知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知影……(連接詞)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "有差遣我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:32.114517395Z",
+  "model": "glm-5.3"
+}

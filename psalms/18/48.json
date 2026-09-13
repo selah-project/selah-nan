@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "彼位以勒,賜報應互我的,共列邦制伏佇我下跤。",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "彼位以勒"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "賜…的"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "報應"
+    },
+    {
+      "surface": "לי",
+      "gloss": "互我"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "共…制伏"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "佇我下跤"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:41.230421602Z",
+  "model": "glm-5.3"
+}

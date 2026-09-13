@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "哈薛,亞蘭的王,死矣;伊的子便哈達接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "……的王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בן",
+      "gloss": "便-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:59.810383459Z",
+  "model": "glm-5.3"
+}

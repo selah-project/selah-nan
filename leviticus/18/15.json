@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你新婦的露體,你毋通揭露;伊是你後生的某,你毋通揭露伊的露體。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "露體"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "你新婦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "揭露"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你後生的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "揭露"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "伊的露體"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:28.685487268Z",
+  "model": "glm-5.3"
+}

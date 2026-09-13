@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "雅威啊,求祢照公義管教我,毋通照祢的受氣,免得祢互我歸無。",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "管教我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "照公義"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "照祢的受氣"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "互我歸無"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:31.105015460Z",
+  "model": "glm-5.3"
+}

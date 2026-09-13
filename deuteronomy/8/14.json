@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "你的心就高昇,你就袂記得⟨את⟩雅威你的以羅欣,就是彼位帶你對米茲拉因(埃及)地、對奴僕的家出的,",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "就高昇"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "你就袂記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "彼位帶你出的"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:35.332788120Z",
+  "model": "glm-5.3"
+}

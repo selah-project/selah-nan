@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "欲帶⟨את⟩瓦實提王后到王的面前,戴王權的冠冕,欲互諸百姓佮諸大臣看⟨את⟩伊的美,因為伊的外表真好。",
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "欲帶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瓦實提"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "瓦實提"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王后"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "到……的面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "戴……冠冕"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王權的"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "欲互……看"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "諸百姓"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "佮諸大臣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的美"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "伊的美"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "好"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "外表"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:20.486200630Z",
+  "model": "glm-5.3"
+}

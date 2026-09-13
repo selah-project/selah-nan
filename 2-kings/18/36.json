@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "百姓就恬恬無出聲,一句嘛無應⟨את⟩伊,因為王的命令就是按呢講:「毋通應伊。」",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "就恬恬無出聲"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮無"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "應"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "היא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "按呢講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "應伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:36.914585975Z",
+  "model": "glm-5.3"
+}

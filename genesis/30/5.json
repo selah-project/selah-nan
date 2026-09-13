@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "碧拉(辟拉)就有身,閣給雅各生一個後生。",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "就有身"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "碧拉"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "閣生"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "給雅各"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個後生"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:16.610647430Z",
+  "model": "glm-5.3"
+}

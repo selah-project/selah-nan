@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊就對伊講:「佮⟨את⟩我轉去厝內,來食餅。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "佮⟨את⟩我"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "轉去厝內"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "來食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:13.302609994Z",
+  "model": "glm-5.3"
+}

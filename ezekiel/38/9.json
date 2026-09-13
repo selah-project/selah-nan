@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 38:9",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "你欲上去,親像暴風來到,親像雲欲遮此地;你,及你所有的隊伍,佮真多的族攏佮⟨את⟩你。",
+  "tokens": [
+    {
+      "surface": "ועלית",
+      "gloss": "你欲上去"
+    },
+    {
+      "surface": "כשאה",
+      "gloss": "親像暴風"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "親像雲"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "欲遮"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "成做"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "及所有的"
+    },
+    {
+      "surface": "אגפיך",
+      "gloss": "你的隊伍"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "佮族"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真多"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩你",
+      "marks": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:19.102238148Z",
+  "model": "glm-5.3"
+}

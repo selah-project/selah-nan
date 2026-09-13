@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 87,
+  "translation": "可拉的子孫。一篇詩,一首歌。伊的根基立佇聖山。",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "一篇詩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "伊的根基"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "立佇…山"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:13.403962281Z",
+  "model": "glm-5.3"
+}

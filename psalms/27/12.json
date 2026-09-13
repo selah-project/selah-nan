@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "毋通共我交互我的對敵的性心,因為假見證起來攻擊我,閣吐出強暴。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "共我交"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "性心"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "我的對敵的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "בי",
+      "gloss": "攻擊我"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "見證(复數)"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "假"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "閣吐出"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:51.894076536Z",
+  "model": "glm-5.3"
+}

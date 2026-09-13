@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "閣再,你拍轉伊劍的啄;嘛無,你無扶伊徛起佇戰陣中。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "你拍轉"
+    },
+    {
+      "surface": "צור",
+      "gloss": "啄(刃)"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "伊的劍"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "你扶伊徛起"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "佇戰陣中"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:24.433195017Z",
+  "model": "glm-5.3"
+}

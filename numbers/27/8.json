@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣你愛對以色列的子兒講,講:「人若死,無後生,𪜶就愛共⟨את⟩伊的業份渡過互伊的女兒。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "你愛……講"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講:"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "死"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "無……後生"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "𪜶就愛共……渡過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的業份"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "伊的業份"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "互伊的女兒"
+    }
+  ],
+  "timestamp": "2026-09-12T02:03:00.751402359Z",
+  "model": "glm-5.3"
+}

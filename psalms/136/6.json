@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "對彼位共土地展開佇諸水面頂的:因為伊的赫瑟德到永遠長存。",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "對彼位展開"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המים",
+      "gloss": "諸水"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:19.313209114Z",
+  "model": "glm-5.3"
+}

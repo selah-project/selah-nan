@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "欲佇錫安傳揚雅威的名,佮伊的讚美佇耶路撒冷;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "欲傳揚"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "佇錫安"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "佮伊的讚美"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:23.846724148Z",
+  "model": "glm-5.3"
+}

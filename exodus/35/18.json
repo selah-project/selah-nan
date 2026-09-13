@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "⟨את⟩ 帳棚的橛仔,佮⟨את⟩ 庭院的橛仔,閣⟨את⟩ 𪜶的索仔。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳棚的橛仔"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "橛仔"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "庭院的橛仔"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "橛仔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "𪜶的索仔"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "𪜶的索仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:10.685527047Z",
+  "model": "glm-5.3"
+}

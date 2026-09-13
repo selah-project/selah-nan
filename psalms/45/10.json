@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "列王的女兒佇你的尊貴人中間;王后徛佇你的正手邊,穿俄斐的純金。",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "的女兒"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "列王"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "佇你的尊貴人中間"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "徛"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "王后"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "佇你的正手邊"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "穿…的純金"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "俄斐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.464918117Z",
+  "model": "glm-5.3"
+}

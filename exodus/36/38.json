@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "閣⟨את⟩伊的五支柱仔,佮⟨את⟩𪜶的鈎仔;伊用金仔來包𪜶的頭頂佮𪜶的箍仔;𪜶的五個座是銅的。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的五支柱仔"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "伊的五支柱仔"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的鈎仔"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "𪜶的鈎仔"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "伊用…來包"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "𪜶的頭頂"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "佮𪜶的箍仔"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金仔"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "𪜶的座"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:26.119503392Z",
+  "model": "glm-5.3"
+}

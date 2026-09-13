@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "著聽勸教,閣接受管教,致到你佇你的路尾會有智慧。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "勸教"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "閣接受"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "למען",
+      "gloss": "致到"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "會有智慧"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "佇你的路尾"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:40.585504733Z",
+  "model": "glm-5.3"
+}

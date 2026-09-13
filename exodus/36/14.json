@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "伊閣做山羊毛的幔做帳棚,蓋佇帳幕頂面;十一頂幔,伊做⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幔"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊仔毛"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "做帳棚"
+    },
+    {
+      "surface": "על",
+      "gloss": "蓋佇…頂面"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "十"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "一"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "幔"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(十一頂幔)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:57.082405805Z",
+  "model": "glm-5.3"
+}

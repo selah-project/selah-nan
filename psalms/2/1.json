@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "為啥物列國咧喧嘩,閣萬民咧謀算虛空的事?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "咧喧嘩"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "閣萬民"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "咧謀算"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "虛空的事"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:18.231911545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為⟨伊⟩擔頭的軛⟨את⟩,佮⟨伊⟩肩頭頂的棍⟨את⟩,佮壓迫伊的杖,你拍碎,親像米甸的日子。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "擔頭的軛"
+    },
+    {
+      "surface": "על",
+      "gloss": "軛"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "擔頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "肩頭頂的棍"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "棍"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "肩頭頂"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "杖"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "你拍碎"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "親像…的日子"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:42.424389963Z",
+  "model": "glm-5.3"
+}

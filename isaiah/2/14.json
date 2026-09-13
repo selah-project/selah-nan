@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣抵著所有懸懸的山,閣抵著所有受舉起的丘陵。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣抵著"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "懸懸的"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣抵著"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "丘陵"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "受舉起的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:47.656392283Z",
+  "model": "glm-5.3"
+}

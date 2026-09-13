@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我就聽見人的聲音佇烏萊河中間,伊喝叫,講:「加百列啊,互這个人明白⟨את⟩這異象。」",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "我就聽見"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "烏萊"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊喝叫"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "加百列"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "互……明白"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "這个人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這異象"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "這異象"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:31.810015209Z",
+  "model": "glm-5.3"
+}

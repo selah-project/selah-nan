@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "你是我遮隱的所在;你對患難中保守我,用拯救的歡呼環圍我。細拉。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "遮隱的所在"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "對患難"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "你保守我"
+    },
+    {
+      "surface": "רני",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "你環圍我"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:55.538957408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊的小妹哈莫勒革生⟨את⟩伊施何得、⟨את⟩亞比以謝、⟨את⟩瑪哈拉。",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "伊的小妹"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "哈莫勒革"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊施何得"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "伊施何得"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞比以謝"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "亞比以謝"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "瑪哈拉"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "瑪哈拉"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:46.298114318Z",
+  "model": "glm-5.3"
+}

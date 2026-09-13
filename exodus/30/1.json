@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你著做一个坛,是熏香用的,用示亭木做 ⟨את⟩ 伊。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "著做"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一个坛"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "熏香用的"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "用…木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "示亭"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-13T06:30:38.255073862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "米茲拉因人攏佇河的四圍掘水通啉,因為𪜶袂當啉彼河的水。",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "掘"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "通啉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "會"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "啉"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "對…的水"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "彼河"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:19.372508669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "大衛起來,伊佮伊的六百個人對陣過去亞吉、瑪俄的子、迦特王的遐。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "過去"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "佮六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "個人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇…的"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的身邊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞吉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "瑪俄"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:00.132430882Z",
+  "model": "glm-5.3"
+}

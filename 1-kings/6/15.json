@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣伊佇厝內面用香柏的枋仔建造⟨את⟩厝的壁,對厝的地板到天花板的壁,內面用木材甲覆;閣伊用扁柏的枋仔甲覆⟨את⟩厝的地板。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "閣伊建造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "厝的壁"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "…的壁"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "對厝內面"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "用…的枋仔"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏木"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "對…的地板"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "…的壁"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "天花板"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "甲覆"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木材"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對內面"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "閣甲覆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "厝的地板"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "…的地板"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "用…的枋仔"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "扁柏"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:06.047426959Z",
+  "model": "glm-5.3"
+}

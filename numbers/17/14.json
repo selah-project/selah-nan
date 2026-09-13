@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "佇瘟疫中間死的人,共一萬四千七百,另外猶有因為可拉的事死的人。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "有"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死的人"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "佇瘟疫中間"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "佮七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "另外"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "…的事"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:43.257918908Z",
+  "model": "glm-5.3"
+}

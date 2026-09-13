@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 43:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "看啊,我咧做新的代誌,這陣就欲發芽矣;恁敢毋知影?我閣欲佇曠野做起路,佇孤荒地做起河流。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "咧做"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "新的代誌"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "發芽矣"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "敢毋"
+    },
+    {
+      "surface": "תדעוה",
+      "gloss": "知影"
+    },
+    {
+      "surface": "אף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "欲…做"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "בישמון",
+      "gloss": "佇孤荒地"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "河流"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:52.091952027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "列國聽見你的見笑,你的哀叫聲充滿大地;因為勇士對勇士跋倒,兩个做夥倒落去。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "你的見笑"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "你的哀叫聲"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "對勇士"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "跋倒"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "做夥"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "兩个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:03:04.087542239Z",
+  "model": "glm-5.3"
+}

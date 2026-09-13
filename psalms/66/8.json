@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "列民啊,著頌讚咱的以羅欣;閣予伊誇讚的聲傳出去。",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "著頌讚"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列民"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "閣予…傳出去"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "伊誇讚的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:53.835198374Z",
+  "model": "glm-5.3"
+}

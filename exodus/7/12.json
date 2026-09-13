@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為逐人擲家己的枴仔,枴仔就變做坦寧;毋閣亞倫的枴仔吞掉⟨את⟩𪜶的枴仔。",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "𪜶擲"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "家己的枴仔"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "就變做"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "坦寧"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "就吞掉"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "枴仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的枴仔"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "𪜶的枴仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:23.097599623Z",
+  "model": "glm-5.3"
+}

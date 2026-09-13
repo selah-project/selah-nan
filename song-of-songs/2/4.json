@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊帶我入去酒的家,伊的旗仔佇我的頂面是疼。",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "伊帶我入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "伊的旗仔"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我的頂面"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "疼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:20.683016405Z",
+  "model": "glm-5.3"
+}

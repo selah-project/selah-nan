@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "隔轉早起,獻早祭的時陣,你看!水對以東遐的路來,地上就充滿⟨את⟩水。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "…的時陣"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "獻早祭"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "你看!"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "באים",
+      "gloss": "來"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "對…的路"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "就充滿"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:18.767029919Z",
+  "model": "glm-5.3"
+}

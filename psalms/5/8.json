@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "若是我欲照你的赫瑟德多多入去你的厝;我欲佇敬畏你之中,向你的聖殿下拜。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "若是我"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "多多"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的厝"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "佇敬畏你之中"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:39.106798553Z",
+  "model": "glm-5.3"
+}

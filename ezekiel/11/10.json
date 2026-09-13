@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "恁欲倒佇刀劍之下;佇以色列的境界我欲審判⟨את⟩恁,恁欲知影我就是雅威。",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "佇刀劍之下"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "恁欲倒"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "我欲審判"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "恁欲知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:10:30.843593344Z",
+  "model": "glm-5.3"
+}

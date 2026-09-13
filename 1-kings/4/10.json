@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "便‧赫瑟德 —— 佇阿魯伯;伊有梭柯,佮歸片赫弗的地。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "便"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "佇阿魯伯"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "梭柯"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮歸片"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "赫弗"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:15.822336805Z",
+  "model": "glm-5.3"
+}

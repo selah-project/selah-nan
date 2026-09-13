@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "伊欲制伏萬民佇阮之下,嘛制伏列國佇阮的腳下。",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "制伏"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "佇阮之下"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "嘛列國"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…之下"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "阮的腳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:09.190449425Z",
+  "model": "glm-5.3"
+}

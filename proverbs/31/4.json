@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "毋通啊諸王——利慕伊耳啊——毋通諸王啉酒,嘛毋通掌權者想欲烈酒。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "利慕伊耳"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "啉"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "嘛掌權者"
+    },
+    {
+      "surface": "או",
+      "gloss": "想欲"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "烈酒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:58.653451727Z",
+  "model": "glm-5.3"
+}

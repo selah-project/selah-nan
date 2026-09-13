@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "啉酒照定例,無人勉強,因為王按呢吩咐伊家內所有的大官,著照逐人佮逐人的意願去做。",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "啉酒"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "照定例"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "勉強"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大官"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家內"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去做"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "照…的意願"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮逐人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:19.176435136Z",
+  "model": "glm-5.3"
+}

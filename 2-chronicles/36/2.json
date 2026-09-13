@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "三歲佮二十歲,約哈斯做王的時;伊佇耶路撒冷做王三個月。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歲(歲數)"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "三"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "約哈斯"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "做王的時"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "佮三个"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "月"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:29.036615272Z",
+  "model": "glm-5.3"
+}

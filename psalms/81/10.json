@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "佇恁中間毋通有生分的以勒;恁嘛毋通對外邦的以勒下拜。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇恁中間"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "זר",
+      "gloss": "生分的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "下拜"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "對以勒"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外邦的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:07.243479608Z",
+  "model": "glm-5.3"
+}

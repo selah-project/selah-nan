@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我聽⟨את⟩這寡話了後,我坐落來啼哭,哀傷幾若日,閣佇天的以羅欣面前禁食、祈禱。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "我聽…了後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這寡話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這寡"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "我坐落來"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "幾若日"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "我"
+    },
+    {
+      "surface": "צם",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "佇天"
+    }
+  ],
+  "timestamp": "2026-09-12T05:52:36.637206971Z",
+  "model": "glm-5.3"
+}

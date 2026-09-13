@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "非利士人閣掠⟨את⟩以羅欣的約櫃,帶⟨את⟩伊入去大袞的厝,安置⟨את⟩伊佇大袞的身邊。",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "閣掠"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "帶入去"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "大袞的厝"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "大袞"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "安置"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "大袞的身邊"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "佇…身邊"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "大袞"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:12.506532717Z",
+  "model": "glm-5.3"
+}

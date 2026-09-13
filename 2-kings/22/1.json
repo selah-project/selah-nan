@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 22:1",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "約西亞八歲的時做王,佇耶路撒冷做王三十一歲;伊老母的名叫耶底大,是亞大雅的查某子,對波士割來的。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歲"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "的時做王"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "佮三十"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮…的名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "ידידה",
+      "gloss": "耶底大"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某子"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "亞大雅"
+    },
+    {
+      "surface": "מבצקת",
+      "gloss": "對波士割來的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:50.272802927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "米拉約生⟨את⟩亞瑪利雅,亞瑪利雅生⟨את⟩亞希突。",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "米拉約"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪利雅"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "亞瑪利雅"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "亞瑪利雅"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞希突"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "亞希突"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:18.069891157Z",
+  "model": "glm-5.3"
+}

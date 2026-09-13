@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "對按呢我知你疼惜我,因為我的對敵袂當佇我頂面歡呼。",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "對按呢"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "你疼惜"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:32.398049417Z",
+  "model": "glm-5.3"
+}

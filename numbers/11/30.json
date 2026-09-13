@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "摩西就倒轉去營區,伊佮以色列的長老。",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營區"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "佮…的長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:31.026918354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "約拿對彼尾魚的腹肚內祈禱,向雅威伊的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "對…的腹肚內"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "彼尾魚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:23.416573893Z",
+  "model": "glm-5.3"
+}

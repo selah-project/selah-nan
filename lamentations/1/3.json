@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 1:3",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "猶大對苦楚、閣對多多勞役中流亡去;伊坐啉佇列國中間,尋無安息;追伊的攏佇窘迫的中間追著伊。",
+  "tokens": [
+    {
+      "surface": "גלתה",
+      "gloss": "流亡去"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "對苦楚"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "閣對多多"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "勞役"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "坐啉"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "安息"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "רדפיה",
+      "gloss": "追伊的"
+    },
+    {
+      "surface": "השיגוה",
+      "gloss": "追著伊"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "窘迫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:55.363080099Z",
+  "model": "glm-5.3"
+}

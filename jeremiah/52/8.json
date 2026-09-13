@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 52:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "迦勒底的軍隊追綴王,佇耶利哥的平原趕著⟨את⟩西底家,伊所有的軍隊攏對伊身軀邊四散去。",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "追綴"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…的後尾"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "趕著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西底家"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "佇…的平原"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "伊的軍隊"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "四散去"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "對伊身軀邊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:07:26.284706358Z",
+  "model": "glm-5.3"
+}

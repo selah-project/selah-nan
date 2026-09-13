@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "佮做出判斷的神,互坐佇判斷位的人,閣做氣力,互啲共戰爭擋退到城門的人。",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "佮做…的神"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "判斷"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "互…坐…的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "彼个判斷(位)"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "閣做氣力"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "啲擋退"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "到城門"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:34.675595041Z",
+  "model": "glm-5.3"
+}

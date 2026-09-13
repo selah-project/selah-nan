@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "歹人的角,我欲攏總給𪜶剁斷;義人的角欲受高舉。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "角"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "我欲剁斷"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "欲受高舉"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "角"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:26.889159435Z",
+  "model": "glm-5.3"
+}

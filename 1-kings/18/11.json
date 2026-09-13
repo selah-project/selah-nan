@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "這陣你閣講:『去,共你的大人講:「看啊,以利亞佇遮。」』",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "共…講"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "你的大人"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞佇遮"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:23.735334107Z",
+  "model": "glm-5.3"
+}

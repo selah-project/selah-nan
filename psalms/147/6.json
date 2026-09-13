@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "雅威扶持謙卑的人,伊降落歹人到地極。",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "扶持"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "謙卑的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "降落"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地極"
+    }
+  ],
+  "timestamp": "2026-09-12T05:10:56.950400837Z",
+  "model": "glm-5.3"
+}

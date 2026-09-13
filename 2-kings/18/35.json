@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "佇諸個地所有的神當中,是啥人救出⟨את⟩𪜶的地脫離我的手,予雅威會救⟨את⟩耶路撒冷脫離我的手?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇所有的"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "諸個地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼擺"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "救出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的地"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "脫離我的手"
+    },
+    {
+      "surface": "כי",
+      "gloss": "予"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "會救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "脫離我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:36.914264605Z",
+  "model": "glm-5.3"
+}

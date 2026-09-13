@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "攏總的地欲跪拜汝,欲謳咦汝,欲謳咦汝的名。細拉。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "的地"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "欲跪拜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "汝"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "佮欲謳咦"
+    },
+    {
+      "surface": "לך",
+      "gloss": "汝"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "欲謳咦"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "汝的名"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:30.194563585Z",
+  "model": "glm-5.3"
+}

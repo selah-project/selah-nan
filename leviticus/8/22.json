@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣牽⟨את⟩第二隻公羊——授職禮的公羊——來,亞倫佮伊的囝就將⟨את⟩𪜶的手按佇彼隻公羊的頭殼頂。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "牽……來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "第二隻公羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二隻"
+    },
+    {
+      "surface": "איל",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "授職禮"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "按(手)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "佮伊的囝"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭殼"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "彼隻公羊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:35.044116684Z",
+  "model": "glm-5.3"
+}

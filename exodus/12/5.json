@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "羊仔、完全無欠缺--的、公--的、一歲--的,欲做恁的;對羊仔抑是對山羊仔,恁掠。",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全無欠缺--的"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公--的"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一歲"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "抑是對"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊仔"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "恁掠"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:16.208352958Z",
+  "model": "glm-5.3"
+}

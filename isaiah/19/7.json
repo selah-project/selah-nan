@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "運河邊的草埔,運河喙口的所在,佮運河邊逐項所栽種的,攏會焦去,會予吹散,就無去矣。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "草埔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "運河"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פי",
+      "gloss": "喙口"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "運河"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮逐項"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "所栽種的"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "運河"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "攏會焦去"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "會予吹散"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "就無去矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:02.910536475Z",
+  "model": "glm-5.3"
+}

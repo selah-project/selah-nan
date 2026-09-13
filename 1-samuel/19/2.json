@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "約拿單就去共大衛講:「阮阿爸掃羅咧尋欲害死你。這陣請你透早謹慎,徛佇隱密所在,匿起來。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "去共……講"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "咧尋"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "阮阿爸"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "欲害死你"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "謹慎"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "隱密所在"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "匿起來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:06.085228420Z",
+  "model": "glm-5.3"
+}

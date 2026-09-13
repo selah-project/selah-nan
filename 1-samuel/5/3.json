@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "亞實突人隔透早起來,看--著,大袞面伏落地,佇雅威約櫃的面前;𪜶共⟨את⟩大袞扶起來,閣共⟨את⟩伊轉去伊的原位。",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "早起來"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "亞實突人"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "隔透早"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看--著"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "大袞"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "面伏落"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "面"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "落地"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…的面前"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "𪜶扶起來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大袞"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "大袞"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "閣轉去"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊的原位"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "去伊的原位"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:12.506699513Z",
+  "model": "glm-5.3"
+}

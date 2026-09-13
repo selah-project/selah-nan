@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "亞伯拉罕就叫彼個所在的名做雅威以勒(意思是雅威會看顧),到今仔日猶有人按呢講:佇雅威的山頂,雅威會互人看見。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就叫……的名"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼個所在"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "以勒(會看)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "有人講"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山頂"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "會互人看見"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:05.225987806Z",
+  "model": "glm-5.3"
+}

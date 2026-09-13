@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "逐个人刣伊的對手,亞蘭人就走逃,以色列追𪜶;亞蘭王便哈達騎馬佮騎兵走逃。",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "刣"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐个人"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "伊的對手"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "就走逃"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭人"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "追𪜶"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "走逃"
+    },
+    {
+      "surface": "בן",
+      "gloss": "便"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "על",
+      "gloss": "騎"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "佮騎兵"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:30.858987325Z",
+  "model": "glm-5.3"
+}

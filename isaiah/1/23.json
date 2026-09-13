@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 1:23",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "你的官員悖逆,佮賊仔做伙;人人愛提賄賂,逐個走揣報賞;孤兒的案𪜶毋審判,寡婦的訴訟嘛袂到𪜶遐。",
+  "tokens": [
+    {
+      "surface": "שריך",
+      "gloss": "你的官員"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "וחברי",
+      "gloss": "佮…做伙"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "賊仔"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "人人"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛提"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "賄賂"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "走揣"
+    },
+    {
+      "surface": "שלמנים",
+      "gloss": "報賞"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "審判"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "訴訟"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "到"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "𪜶遐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:03.397588045Z",
+  "model": "glm-5.3"
+}

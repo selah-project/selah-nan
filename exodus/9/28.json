@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "「恁向雅威祈求,因為以羅欣的雷聲佮冰雹已經夠矣;我就放恁⟨את⟩去,恁毋通閣留落去。」",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "祈求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "夠矣"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "有"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "雷聲"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "佮冰雹"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "我就放…去"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋通"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "留"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:46.271650074Z",
+  "model": "glm-5.3"
+}

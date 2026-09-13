@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "這个人給一切的精牲、天頂的鳥、田野一切的活物攏號名;獨獨對這个人,無揣著幫助,合伊的對等。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "號名"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "這个人"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "給一切"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "精牲"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "佮…的鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "佮給一切"
+    },
+    {
+      "surface": "חית",
+      "gloss": "活物"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "獨獨對這个人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "合伊的對等"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:25.475642067Z",
+  "model": "glm-5.3"
+}

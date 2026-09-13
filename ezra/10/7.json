@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶佇猶大佮耶路撒冷傳聲音,予流亡者的眾子攏聚集來耶路撒冷;",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "𪜶傳"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "佇猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "予……攏"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "流亡者"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:32.908813495Z",
+  "model": "glm-5.3"
+}

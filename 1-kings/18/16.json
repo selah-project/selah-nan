@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "俄巴底亞就去揣亞哈,共伊講;亞哈就去揣以利亞。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "俄巴底亞"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "揣(去見)"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "共伊"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "揣(去見)"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:38.242948696Z",
+  "model": "glm-5.3"
+}

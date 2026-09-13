@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 18:16",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "人,伊無欺壓;抵押,伊無提;搶奪个,伊無搶;伊个食物予枵餓个人,赤身个用衫遮掩。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הונה",
+      "gloss": "欺壓"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "抵押"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "提抵押"
+    },
+    {
+      "surface": "וגזלה",
+      "gloss": "搶奪个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "搶"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "伊个食物"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "予枵餓个人"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "赤身个"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "遮掩"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "用衫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:14:06.129718531Z",
+  "model": "glm-5.3"
+}

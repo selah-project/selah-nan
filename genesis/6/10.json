@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "挪亞生三個後生:⟨את⟩閃、⟨את⟩含、佮⟨את⟩雅弗。",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "生"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三個"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "後生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "閃"
+    },
+    {
+      "surface": "שם",
+      "gloss": "閃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "含"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "雅弗"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "雅弗"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:22.847925823Z",
+  "model": "glm-5.3"
+}

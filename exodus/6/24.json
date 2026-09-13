@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "可拉的後生是亞斯利、以利加拿佮亞比亞撒;遮是可拉人的宗族。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "亞斯利"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "以利加拿"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "亞比亞撒"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "的宗族"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "可拉人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:25.264684271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "這馬你來,請予我給你出一個主意,救⟨את⟩你的命,閣⟨את⟩你的後生所羅門的命。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "你來"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "我給你出主意"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "主意"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "閣救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的命"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的命"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "你的後生所羅門的命"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "命"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你的後生"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:31.356162051Z",
+  "model": "glm-5.3"
+}

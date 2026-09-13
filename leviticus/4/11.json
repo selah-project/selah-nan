@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣⟨את⟩牛的皮,佮⟨את⟩伊全部的肉,連伊的頭,連伊的跤,佮伊的內臟,佮伊的屎。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "牛的皮"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊全部的肉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的肉"
+    },
+    {
+      "surface": "על",
+      "gloss": "連"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "連"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "伊的跤"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "佮伊的內臟"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "佮伊的屎"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:04.865007107Z",
+  "model": "glm-5.3"
+}

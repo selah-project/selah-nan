@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "教我去做你所歡喜的,因為你是我的以羅亞;你的靈是好,伊導我行佇平坦的地。",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "教我"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去做"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "你所歡喜的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "我的以羅亞"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "你的靈"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "是好"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "伊導我行"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "平坦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:57.243220616Z",
+  "model": "glm-5.3"
+}

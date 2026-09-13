@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 13:1",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "佇彼個日子,有人佇摩西的冊內底,佇百姓的耳仔前朗讀,閣佇冊內底發現有寫講,亞捫人佮摩押人毋通入以羅欣的會,直到永遠。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "被朗讀"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "佇冊內底"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "佇…的耳仔前"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼百姓"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "閣發現"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "有寫"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "通入"
+    },
+    {
+      "surface": "עמני",
+      "gloss": "亞捫人"
+    },
+    {
+      "surface": "ומאבי",
+      "gloss": "佮摩押人"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "入…的會"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:13.938426562Z",
+  "model": "glm-5.3"
+}

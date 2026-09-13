@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 5:6",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "所羅門有四萬格馬欞仔的馬做伊的戰車,閣一萬二千个騎兵。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四萬格"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "…"
+    },
+    {
+      "surface": "ארות",
+      "gloss": "馬欞仔"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "的馬"
+    },
+    {
+      "surface": "למרכבו",
+      "gloss": "做伊的戰車"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "閣…二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "个騎兵"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:13.939385178Z",
+  "model": "glm-5.3"
+}

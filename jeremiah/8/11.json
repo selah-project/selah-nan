@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶用輕輕仔的法醫⟨את⟩我人民查某子的破損,講:『平安、平安』,其實無平安。",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "𪜶醫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我人民查某子的破損"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "破損"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某子"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "על",
+      "gloss": "用…的法"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "輕輕仔"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "其實無"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:42.666655189Z",
+  "model": "glm-5.3"
+}

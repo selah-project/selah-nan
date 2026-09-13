@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "閣伊設立⟨伊⟩做雅各的定例,做以色列永遠的約。",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "閣伊設立伊"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "做雅各"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "的定例"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "做以色列"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:12.226689565Z",
+  "model": "glm-5.3"
+}

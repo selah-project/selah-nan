@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "唸咒的、問冥魂的、通靈的,抑是去揣死人問事的。",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "唸咒的"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "咒"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "冥魂"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "通靈的"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "去揣…問事的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:14.631110048Z",
+  "model": "glm-5.3"
+}

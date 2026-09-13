@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "你的赫瑟德(慈愛)偌寶貴啊,以羅欣!人的囝仔攏佇你翼的蔭影內得著庇護。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "偌…啊"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "寶貴"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "佇…蔭影內"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "你翼"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "得著庇護"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:32.476778769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "我恬恬無講話,我靜默,連好話嘛無講;我的痛苦煞攪擾起來。",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "我恬恬無講話"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "靜默"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "我無講"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "連好話"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "我的痛苦"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "攪擾起來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:47.301462130Z",
+  "model": "glm-5.3"
+}

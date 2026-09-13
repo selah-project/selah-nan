@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "以撒對雅各講:請你倚過來,予我摸你,我仔。你敢真正是我仔以掃,毋是?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "倚過來"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請你"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "予我摸你"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我仔"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "你敢"
+    },
+    {
+      "surface": "זה",
+      "gloss": "真正是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我仔"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:39.032782062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "規个大地攏有仝一个喙舌、仝款的話。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規个"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "喙舌"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "仝一个"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "仝款的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:32.142385614Z",
+  "model": "glm-5.3"
+}

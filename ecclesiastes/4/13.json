@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "一個散赤兼有智慧的孩子,比一个老耆兼戇愚、毋知閣愛受警教个王較好。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "孩子"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "散赤个"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "兼有智慧"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "比王"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老耆"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "兼戇愚"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "閣愛受警教"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:04.315495010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "為著欲互你行佇好人的路,閣守義人的路徑。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "你行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇…的路"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "好人"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "閣…的路徑"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "你守"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:53.276061539Z",
+  "model": "glm-5.3"
+}

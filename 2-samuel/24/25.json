@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 24:25",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "大衛佇遐起一座祭壇予雅威,獻上燒祭佮平安祭;雅威就應允祈求,恩待彼片土地,彼場瘟疫對以色列身上抑止矣。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "佮平安祭"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "應允祈求"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "恩待彼片土地"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "抑止"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "彼場瘟疫"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對……身上"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:59:15.896793944Z",
+  "model": "glm-5.3"
+}

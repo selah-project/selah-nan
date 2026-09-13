@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "轉來啊,雅威,拔救我的性命;為著你的赫瑟德,救我。",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "轉來啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "拔救"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:29.276020892Z",
+  "model": "glm-5.3"
+}

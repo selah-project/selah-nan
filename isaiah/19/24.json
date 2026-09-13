@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "佇彼日,以色列欲做第三,佮米茲拉因佮亞述做夥,做地上中央的祝福。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "做"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "第三"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "佮米茲拉因"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "佮亞述"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中央"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:03.947706691Z",
+  "model": "glm-5.3"
+}

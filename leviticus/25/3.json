@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "六年你著撒種佇你的田,六年你著剪你的葡萄園,閣收成 ⟨את⟩ 田土的出產。",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "撒種"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "你的田"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "閣六"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "剪"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "你的葡萄園"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "閣收成"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "田土的出產"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "田土的出產"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:14.537985887Z",
+  "model": "glm-5.3"
+}

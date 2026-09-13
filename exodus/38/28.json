@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "閣用⟨את⟩一千七百七十五做柱仔个鉤仔,包𪜶个柱頭,閣箍⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣用⟨את⟩",
+      "marks": "一千七百七十五"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "鉤仔"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "柱仔"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "包"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "𪜶个柱頭"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "閣箍"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:31.397360243Z",
+  "model": "glm-5.3"
+}

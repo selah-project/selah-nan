@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "查某囝啊,著聽,著看,著傾你的耳;嘛著袂記得你的百姓,佮你阿爸的家。",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝啊"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "著看"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "著傾"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "嘛著袂記得"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "佮…的家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你阿爸"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.465058161Z",
+  "model": "glm-5.3"
+}

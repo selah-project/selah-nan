@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "你豈無圍籬保護伊,閣保護伊的厝,佮伊所有的一切佇四圍?你祝福伊雙手所做的,伊的牲畜就湠開佇地上。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈無"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "圍籬保護"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "閣保護"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的厝"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "佮保護"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊有的"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "佇四圍"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊雙手"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "伊的牲畜"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "湠開"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:36.720626727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "磚仔倒落去,阮欲用割石閣起造;桑樹予人斬掉,阮欲換做香柏。",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "磚仔"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "佮割石"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "阮欲起造"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "桑樹"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "斬掉"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "佮香柏"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "換"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:15.226353412Z",
+  "model": "glm-5.3"
+}

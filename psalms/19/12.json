@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣,你的奴僕對彼受警教;遵守彼个,有大的報賞。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "受警教"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "對彼"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "遵守彼个"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "報賞"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:36.530770421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "亞瑪利雅的後生,亞撒利雅的後生,米拉約的後生,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "亞瑪利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "米拉約"
+    }
+  ],
+  "timestamp": "2026-09-12T05:50:32.059332757Z",
+  "model": "glm-5.3"
+}

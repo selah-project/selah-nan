@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "𪜶對約書亞講：「阮是恁的奴僕。」約書亞對𪜶講：「恁是啥人？對佗位來的？」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶對……講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "恁的奴僕"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮是"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "對……講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁是"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "對佗位"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "來的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:22:34.122167329Z",
+  "model": "glm-5.3"
+}

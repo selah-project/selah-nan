@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "𪜶的偶像是銀佮金,是人手的工。",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "𪜶的偶像"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "佮金"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:32.023951768Z",
+  "model": "glm-5.3"
+}

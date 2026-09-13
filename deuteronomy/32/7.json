@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "著記念遠古的日子,了解世代世代(代閣代)的年歲;問恁的老父,伊會講予恁聽;恁的長者,𪜶會對恁講。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "著記念"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "日子"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "遠古"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "了解"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "年歲"
+    },
+    {
+      "surface": "דור",
+      "gloss": "代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "閣代"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "恁的老父"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "伊會講予恁聽"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "恁的長者"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶會講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:44.280890777Z",
+  "model": "glm-5.3"
+}

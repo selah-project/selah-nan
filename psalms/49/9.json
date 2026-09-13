@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "贖回𪜶性命的代價真貴,而且永遠停止矣。",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "真貴"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "贖回"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶性命"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "而且停止"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.606424097Z",
+  "model": "glm-5.3"
+}

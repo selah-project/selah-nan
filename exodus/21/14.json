@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 21:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "若是有人故意對伊的同伴設詭計欲刣死伊,你就對我的祭壇共伊掠出來,處死伊。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "יזד",
+      "gloss": "故意(傲慢起來)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "להרגו",
+      "gloss": "欲刣死伊"
+    },
+    {
+      "surface": "בערמה",
+      "gloss": "設詭計"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對…出來"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "我的祭壇"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "共伊掠"
+    },
+    {
+      "surface": "למות",
+      "gloss": "處死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:06.203820961Z",
+  "model": "glm-5.3"
+}

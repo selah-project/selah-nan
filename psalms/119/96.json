@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "一切完全的事,我看著有界限;獨獨祢的誡命真闊,無限量。",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "完全的事"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看著"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "界限"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "真闊"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "祢的誡命"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "無限量"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:46.771573564Z",
+  "model": "glm-5.3"
+}

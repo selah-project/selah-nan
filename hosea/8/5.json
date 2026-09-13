@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "撒瑪利亞啊,你的牛犢被棄捒矣;我的受氣向𪜶燒起來;到啥物時陣𪜶才會當得著清氣?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "被棄捒"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "你的牛犢"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "我的受氣"
+    },
+    {
+      "surface": "בם",
+      "gloss": "向𪜶"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "會當"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "得著清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:55.124036823Z",
+  "model": "glm-5.3"
+}

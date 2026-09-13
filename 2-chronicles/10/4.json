@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "「你的老父刻苦阮的軛 ⟨את⟩,這馬請你將你老父艱苦的差役,佮伊掛佇阮身上的重軛減較輕,阮就欲服事你。」",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "刻苦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的軛"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "阮的軛"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "減較輕"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "對……差役"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老父"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "艱苦的"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "佮對伊的"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "重的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "掛"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "佇阮身上"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "阮就欲服事你"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:16.734920468Z",
+  "model": "glm-5.3"
+}

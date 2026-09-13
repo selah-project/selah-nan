@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "毋通攑恁的角上天頂,嘛毋通用硬頷頸講傲慢的話。」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "攑"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "上天頂"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "恁的角"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "講"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "用頷頸"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "傲慢"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:02.600211505Z",
+  "model": "glm-5.3"
+}

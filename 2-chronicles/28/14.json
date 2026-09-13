@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "彼陣武裝的兵丁就放拺⟨את⟩被掠的人佮⟨את⟩搶來的物件，佇頭人佮全會眾的面前。",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "就放拺"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "彼陣武裝的兵丁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "被掠的人"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "被掠的人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "搶來的物件"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "搶來的物件"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…的面前"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮全"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:37.002525393Z",
+  "model": "glm-5.3"
+}

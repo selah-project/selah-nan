@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "你著用石頭擲伊,擲到伊死,因為伊想欲哄你離開雅威、你的以羅欣,就是領你出米茲拉因地、出奴僕之家的彼位。",
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "你著用石頭擲伊"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "用石頭"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "擲到伊死"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "伊想欲"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "哄你"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "離開"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "領你出的彼位"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "出……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "出……之家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:20.113392823Z",
+  "model": "glm-5.3"
+}

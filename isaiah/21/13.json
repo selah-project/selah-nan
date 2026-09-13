@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "(對阿拉伯的重擔。)佇阿拉伯的樹林內底恁欲過暝,哦,底但人的商隊。",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "重擔"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "對阿拉伯"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "佇樹林"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "佇阿拉伯"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "恁欲過暝"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "商隊"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "底但人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:04.638537983Z",
+  "model": "glm-5.3"
+}

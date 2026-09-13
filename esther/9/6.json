@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "佇書珊堡壘,猶大人殺害佮滅無五百人。",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "殺害"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "佮滅無"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:28.223454046Z",
+  "model": "glm-5.3"
+}

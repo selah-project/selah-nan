@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威佇西奈曠野對摩西講話,佇𪜶對米茲拉因(埃及)地出來後第二年,佇頭一個月,講:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇…曠野"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二年"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "𪜶出來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講:"
+    }
+  ],
+  "timestamp": "2026-09-13T03:56:27.864345097Z",
+  "model": "glm-5.3"
+}

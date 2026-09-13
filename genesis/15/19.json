@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "⟨את⟩ 基尼人、⟨את⟩ 基尼洗人、閣⟨את⟩ 押東人 ——",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基尼人"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "基尼人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "基尼洗人"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "基尼洗人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "押東人"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "押東人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:42.345387472Z",
+  "model": "glm-5.3"
+}

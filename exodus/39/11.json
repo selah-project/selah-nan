@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "第二排是挪弗(石榴石)、撒菲(藍寶石)佮雅哈隆(金鋼石)。",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "彼排"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "挪弗(石榴石)"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "撒菲(藍寶石)"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "佮雅哈隆(金鋼石)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:15.114231520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 14:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "耶羅波安做王的日子是二十二年;伊佮伊的祖先同睏,伊的後生拿答接續伊做王。",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "伊同睏"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的祖先"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "拿答"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:01.629875773Z",
+  "model": "glm-5.3"
+}

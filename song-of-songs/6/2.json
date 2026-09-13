@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我的心愛的落去伊的園仔,到芳料的畑仔,佇諸園仔內飼〈羊〉,嘛欲拾百合花。",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "我的心愛的"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "到伊的園仔"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "到畑仔"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "彼個芳料"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "飼"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "佇諸園仔內"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "嘛欲拾"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "百合花"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:55.788747063Z",
+  "model": "glm-5.3"
+}

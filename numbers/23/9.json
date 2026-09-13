@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "因為對巖石⟨的⟩頂面我看見伊,佮對山丘我觀看伊;看啊,這个百姓單獨徛起,佇列國中間無被算在內。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "對…頂面"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "巖石"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "我看見伊"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "佮對山丘"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "我觀看伊"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "單獨"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "佇列國中間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "被算在內"
+    }
+  ],
+  "timestamp": "2026-09-12T02:00:54.253155730Z",
+  "model": "glm-5.3"
+}

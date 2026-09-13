@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "親像月娘徛在到永遠,閣做天空內忠實的見證。細拉。",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "親像月娘"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "佇天空內"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "忠實"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉。"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:13.849631078Z",
+  "model": "glm-5.3"
+}

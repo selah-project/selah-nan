@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "後來,亞捫子孫的王過身,伊的後生哈嫩接替伊做王。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "過身"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "哈嫩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接替伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:06.567760685Z",
+  "model": "glm-5.3"
+}

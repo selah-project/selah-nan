@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼日,法老就命令⟨את⟩佇人民中間做監工的,閣⟨את⟩伊的官長,講:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "就命令"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "做監工的"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "做監工的"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "佇人民中間"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊的官長"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "伊的官長"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:24.935239694Z",
+  "model": "glm-5.3"
+}

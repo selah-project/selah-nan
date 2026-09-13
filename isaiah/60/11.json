@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "你的城門欲常常開啟,日時佮暗時攏袂關,欲互列國的財寶帶來到你遮,𪜶的諸個王嘛受牽引入來。",
+  "tokens": [
+    {
+      "surface": "ופתחו",
+      "gloss": "欲開啟"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "你的城門"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暗時"
+    },
+    {
+      "surface": "לא",
+      "gloss": "攏袂"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "關"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "欲帶來"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你遮"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "財寶"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "佮𪜶的諸個王"
+    },
+    {
+      "surface": "נהוגים",
+      "gloss": "受牽引入來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:51.031446407Z",
+  "model": "glm-5.3"
+}

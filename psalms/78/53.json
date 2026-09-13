@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊導𪜶安穩,𪜶毋驚;海將⟨את⟩𪜶的對敵掩蓋。",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "導"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安穩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "驚"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的對敵"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "𪜶的對敵"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "掩蓋"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:01.092728051Z",
+  "model": "glm-5.3"
+}

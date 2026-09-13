@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣 ⟨את⟩ 德比爾(至聖所)的門口,伊做橄欖柴的門扇;門楣佮門柱,五分之一。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "德比爾的門口"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "德比爾(至聖所)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "門扇"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "柴"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "橄欖"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "門楣"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "門柱"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "五分之一"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:38.012354613Z",
+  "model": "glm-5.3"
+}

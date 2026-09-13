@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣恁欲對埋伏的所在起來,奪取⟨את⟩彼座城,雅威——恁的以羅欣——欲將伊交佇恁的手內。",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "閣恁"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "欲起來"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "對埋伏的所在"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "奪取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼座城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "欲將伊交"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "佇恁的手內"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:01.603164469Z",
+  "model": "glm-5.3"
+}

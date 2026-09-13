@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 8:26",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "今閣,以色列的以羅欣啊,願你對你的奴僕大衛——我的老父——所講的話得堅固,求你。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今閣"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "得堅固"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "你講"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "對你的奴僕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的老父"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:20.613242471Z",
+  "model": "glm-5.3"
+}

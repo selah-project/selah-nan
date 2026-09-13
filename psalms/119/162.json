@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我歡喜⟨佇⟩你的話,親像揣著大利的擄獲。",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨佇⟩"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "親像揣著"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "擄獲"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大利"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:40.532017007Z",
+  "model": "glm-5.3"
+}

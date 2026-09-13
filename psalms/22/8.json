@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "所有看著我的人攏譏笑我;𪜶撮喙唇,搖頭,講:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "看著我的人"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "攏譏笑"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "𪜶撮"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "喙唇"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "搖"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:17.062624470Z",
+  "model": "glm-5.3"
+}

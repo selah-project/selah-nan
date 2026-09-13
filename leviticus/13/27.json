@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司佇第七日看伊;若是彼个佇皮膚有擴散,祭司就判⟨את⟩伊無清氣——彼是痲瘋的病災。",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "看伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "擴散"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "擴散"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "佇皮膚"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "判無清氣"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "病災"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "痲瘋"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼是"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:39.040077346Z",
+  "model": "glm-5.3"
+}

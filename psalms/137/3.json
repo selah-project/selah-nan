@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 137,
+  "translation": "因為佇遐,擄阮的人向阮討歌的話,糟蹋阮的人討歡喜,講:「給阮唱一首對錫安的歌。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "向阮討"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "擄阮的人"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "……的話"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "糟蹋阮的人"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "討歡喜"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "唱"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "給阮"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "對……的歌"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:33.151521425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "obadiah 1:17",
+  "book": "obadiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇錫安山會有逃脫的人,伊會成做聖;雅各的家會得著⟨את⟩𪜶的產業。",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "佇…山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會有"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "逃脫的人"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "會成做"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "會得著"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的產業"
+    },
+    {
+      "surface": "מורשיהם",
+      "gloss": "𪜶的產業"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:47.516281394Z",
+  "model": "glm-5.3"
+}

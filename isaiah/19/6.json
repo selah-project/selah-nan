@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣河流會去予倒退走,埃及的運河會消弱、會焦去;蘆葦佮蒲草攏會枯。",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "閣會去予倒退走"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "河流"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "會消弱"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "閣會焦去"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "運河"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "蘆葦"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "佮蒲草"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "攏會枯"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:02.910387884Z",
+  "model": "glm-5.3"
+}

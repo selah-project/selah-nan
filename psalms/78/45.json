@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊差蠓蟲入去𪜶中間,蟲食𪜶;閣差水蛙,毀壞𪜶。",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "伊差"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "入去𪜶中間"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "蠓蟲"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "蟲食𪜶"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "閣差水蛙"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "毀壞𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:47.938015330Z",
+  "model": "glm-5.3"
+}

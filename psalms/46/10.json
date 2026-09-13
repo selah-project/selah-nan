@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "伊予戰爭停止,到地的極頭;伊折斷弓,砍斷矛,用火燒戰車。",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "予…停止"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "極頭"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "折斷"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "砍斷"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "矛"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:38.640036392Z",
+  "model": "glm-5.3"
+}

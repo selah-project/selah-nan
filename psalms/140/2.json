@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "雅威啊,救我脫離歹人,保護我脫離行強暴的人。",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "脫離人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "脫離…的人"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "行強暴的"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "保護我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:45.726911872Z",
+  "model": "glm-5.3"
+}

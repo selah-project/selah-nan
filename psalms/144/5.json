@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "雅威啊,彎落你的天,你就落來;摸彼諸個山,𪜶就噴煙。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הט",
+      "gloss": "彎落"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "你的天"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "你就落來"
+    },
+    {
+      "surface": "גע",
+      "gloss": "摸"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "彼諸個山"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "𪜶就噴煙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:35.548239379Z",
+  "model": "glm-5.3"
+}

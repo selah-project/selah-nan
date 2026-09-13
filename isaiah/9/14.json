@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "老人佮受抬舉面的人是頭;教示白賊的先知是尾。",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "老人"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "佮受抬舉"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "是頭"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "佮先知"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "教示"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "是尾"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:29.928885999Z",
+  "model": "glm-5.3"
+}

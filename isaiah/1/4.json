@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "唉!犯罪的國家,罪孽沉重的人民,做歹人的後代,敗壞的囝仔!𪜶離棄⟨את⟩雅威,𪜶藐視⟨את⟩以色列的聖者,𪜶生疏倒退。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "唉"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "國家"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "沉重"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "後代"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "做歹人"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "敗壞"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "𪜶離棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "𪜶藐視"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的聖者"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "生疏倒退"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "向後"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:58.342691423Z",
+  "model": "glm-5.3"
+}

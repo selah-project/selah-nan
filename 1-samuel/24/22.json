@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣今,你指雅威給我咒誓:你千萬毋通刣無⟨את⟩我的後裔佇我死了後,嘛毋通滅無⟨את⟩我的名,對我爸的厝。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "閣今"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "指雅威"
+    },
+    {
+      "surface": "אם",
+      "gloss": "千萬毋通"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "刣無"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的後裔"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "我的後裔"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇我死了後"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的名"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的厝"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我爸"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:08.417705574Z",
+  "model": "glm-5.3"
+}

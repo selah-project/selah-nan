@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "彼个地欲給出伊的果子,恁欲食到飽,閣徛起佇伊頂面,安然無事。",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "欲給出"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼个地"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "恁欲食"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "到飽"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "恁徛起"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:08.213273156Z",
+  "model": "glm-5.3"
+}

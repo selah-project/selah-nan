@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "若我掠黎明的翼,去蹛佇海極遠的所在,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "掠"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "翼"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "黎明"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "極遠的"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:38.255820370Z",
+  "model": "glm-5.3"
+}

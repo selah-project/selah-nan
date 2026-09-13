@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "𪜶就上去,窺探⟨את⟩彼個地,對津曠野到利合,就是到入哈馬之處。",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "𪜶就上去"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "窺探"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "對津曠野"
+    },
+    {
+      "surface": "צן",
+      "gloss": "津"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "利合"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "入……之處"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    }
+  ],
+  "timestamp": "2026-09-13T04:42:10.451976994Z",
+  "model": "glm-5.3"
+}

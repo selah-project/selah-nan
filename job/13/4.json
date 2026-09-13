@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "「毋拘恁是抹白賊的,恁攏是醫無路用的醫生。」",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "抹白賊的"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "醫生"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "無路用"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "恁攏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:58.893330218Z",
+  "model": "glm-5.3"
+}

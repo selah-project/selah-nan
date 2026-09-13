@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 6:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "耶路撒冷啊,著受教示,免得我的性命對你隔開;免得我互你變做荒涼、無人蹛的土地。",
+  "tokens": [
+    {
+      "surface": "הוסרי",
+      "gloss": "著受教示"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "隔開"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "互你變做"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "人蹛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:53.585775710Z",
+  "model": "glm-5.3"
+}

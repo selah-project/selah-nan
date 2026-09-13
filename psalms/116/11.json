@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "我佇我的驚惶中講:「逐個人攏是講白賊的。」",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我…講"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "佇我的驚惶中"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "講白賊的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:46.997293984Z",
+  "model": "glm-5.3"
+}

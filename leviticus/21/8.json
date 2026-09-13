@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "你著看伊做聖,因為伊獻⟨את⟩你以羅欣的餅;伊著做聖的對你,因為我是聖的,我雅威,彼位互恁成做聖的。",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "你著看伊做聖"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你以羅欣的餅"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你以羅欣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "獻"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "著做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "互恁成做聖的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:41:45.849315323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣家己抬高到軍隊的君王;對伊遐,日常的祭被提去,伊聖所的座位被摔落去。",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "שר",
+      "gloss": "君王"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍隊的"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "家己抬高"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "對伊遐"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "被提去"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "日常的祭"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "被摔落去"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "座位"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "伊的聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T05:45:52.892257500Z",
+  "model": "glm-5.3"
+}

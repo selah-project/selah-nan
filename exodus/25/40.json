@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "恁著看,閣照𪜶的樣式做,就是你佇山頂所看見的。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "著看"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "照𪜶的樣式"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "所看見"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山頂"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:12.497618268Z",
+  "model": "glm-5.3"
+}

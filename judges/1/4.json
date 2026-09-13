@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "猶大上去,雅威就將⟨את⟩迦南人佮比利洗人交佇𪜶的手裡;𪜶佇貝色克擊殺𪜶一萬人。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "交落"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "佮比利洗人"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "佇𪜶的手"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "擊殺𪜶"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "佇貝色克"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:18.323284173Z",
+  "model": "glm-5.3"
+}

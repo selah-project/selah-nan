@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "若是查埔抑是查某人,身上出現災病,佇頭殼抑是佇喙鬚——",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "佮查埔"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "出現"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "災病"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "佇頭殼"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "佇喙鬚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:07.128462647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "彼時我命令 ⟨את⟩ 恁的審判官,講:恁兄弟中間的爭訟愛聽,佇人佮伊兄弟、佮伊中間的寄居者中間,愛判斷公義。",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "我命令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的審判官"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "恁的審判官"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "愛聽"
+    },
+    {
+      "surface": "בין",
+      "gloss": "中間"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "恁兄弟"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "愛判斷"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊兄弟"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "伊中間的寄居者"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:31.251344898Z",
+  "model": "glm-5.3"
+}

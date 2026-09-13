@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "掃羅給大衛穿⟨את⟩伊的戰袍,將銅盔戴佇伊的頭殼頂,嘛給伊穿⟨את⟩鎧甲。",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "給…穿"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "伊的戰袍"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "將…戴"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "盔"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭殼"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "嘛給…穿"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "鎧甲"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:05.921241642Z",
+  "model": "glm-5.3"
+}

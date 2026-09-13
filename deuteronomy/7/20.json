@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣,雅威你的以羅欣嘛欲差⟨את⟩虎頭蜂去𪜶中間,直到對你面前所剩的佮匿起來的攏消滅。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "虎頭蜂"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "虎頭蜂"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "בם",
+      "gloss": "去𪜶中間"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "消滅"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "所剩的"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "佮匿起來的"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "對你面前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:04.559527108Z",
+  "model": "glm-5.3"
+}

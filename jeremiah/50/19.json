@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "我欲帶⟨את⟩以色列倒轉去伊的草場,伊欲佇迦密佮巴珊食草,閣佇以法蓮山佮基列,伊的性命會得飽足。",
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "我欲帶……倒轉去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "伊的草場"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "食草"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "迦密"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "巴珊"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "閣佇……山"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "會得飽足"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:14.594403869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "伊的閃電照亮世間;大地看見,就震撼。",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "照亮"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "伊的閃電"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世間"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "就震撼"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:52.070151344Z",
+  "model": "glm-5.3"
+}

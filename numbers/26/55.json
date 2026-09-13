@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "獨獨地著用籤來分⟨את⟩地;照𪜶祖先支派的名,𪜶欲承受做產業。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "用籤"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "著分"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "照…的名"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "支派"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "𪜶的祖先"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "欲承受做產業"
+    }
+  ],
+  "timestamp": "2026-09-12T02:03:07.713313515Z",
+  "model": "glm-5.3"
+}

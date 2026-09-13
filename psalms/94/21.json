@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "𪜶結黨攻擊義人的性命,判無辜者的血做有罪。",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "結黨"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "的血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜者"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "判做有罪"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:14.040012963Z",
+  "model": "glm-5.3"
+}

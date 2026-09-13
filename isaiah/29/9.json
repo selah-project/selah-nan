@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "恁延延咧,閣驚駭;恁目睭霧霧矣,閣青盲;恁醉啊,毋是酒;恁搖搖泏泏啊,毋是烈酒。",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "延延咧"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "閣驚駭"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "目睭霧霧矣"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "閣青盲"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "醉啊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "搖搖泏泏"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "烈酒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:51.895338139Z",
+  "model": "glm-5.3"
+}

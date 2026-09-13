@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "恁嘛毋通用我的名起假誓,來瀆⟨את⟩你的以羅欣的名;我是雅威。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "起誓"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "用我的名"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "假"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "來瀆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的以羅欣的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:45.780454447Z",
+  "model": "glm-5.3"
+}

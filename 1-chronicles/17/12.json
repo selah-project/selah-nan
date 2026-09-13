@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊欲給我起一間厝,閣我欲堅固⟨את⟩伊的王位到永遠。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "欲起"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "בית",
+      "gloss": "一間厝"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "閣我欲堅固"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的王位"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "伊的王位"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:24.659040774Z",
+  "model": "glm-5.3"
+}

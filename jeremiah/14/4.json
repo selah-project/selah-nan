@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "因為彼个土地裂開,因為佇土地無落過雨;作穡人見笑,掩𪜶的頭。",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "因為"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "彼个土地"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "裂開"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇土地"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "作穡人"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "掩"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "𪜶的頭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:52:13.663296945Z",
+  "model": "glm-5.3"
+}

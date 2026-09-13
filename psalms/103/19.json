@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "雅威佇諸天已備辦伊的座位;伊的王權佇萬物攏總統治。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "已備辦"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "伊的座位"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "伊的王權"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇萬物攏總"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "統治"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:07.050721312Z",
+  "model": "glm-5.3"
+}

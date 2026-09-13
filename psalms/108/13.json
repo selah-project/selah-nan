@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 108,
+  "translation": "賞阮對困厄得著救助,因為人的拯救是空虛的。",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "賞"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "救助"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "對困厄"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "是空虛的"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:40.892558438Z",
+  "model": "glm-5.3"
+}

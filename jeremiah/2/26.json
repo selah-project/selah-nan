@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 2:26",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "親像賊仔予人掠著就見笑,以色列的家嘛按呢見朽——怹、怹諸個王、怹的首領、怹的祭司,佮怹的先知。",
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "親像…的見笑"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "賊仔"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當…時"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "予人掠著"
+    },
+    {
+      "surface": "כן",
+      "gloss": "嘛按呢"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "בית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "המה",
+      "gloss": "怹"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "怹的王"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "怹的首領"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "佮怹的祭司"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "佮怹的先知"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:22.880238916Z",
+  "model": "glm-5.3"
+}

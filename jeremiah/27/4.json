@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣命令𪜶⟨את⟩對𪜶的主人講:雅威采巴奧特(萬軍)、以色列的以羅欣按呢講:恁著按呢對恁的主人講:",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "閣命令"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "𪜶的主人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "恁著講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "恁的主人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:56:31.733285754Z",
+  "model": "glm-5.3"
+}

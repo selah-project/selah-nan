@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "我的罪我互你知,佮我的過失我毋掩哿;我講:我欲對雅威承認我的悖逆,你──你擔我的罪的過失。細拉。",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "我的罪"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "我互你知"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "佮我的過失"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "我掩哿"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "我承認"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "關於"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "我的悖逆"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "你擔"
+    },
+    {
+      "surface": "עון",
+      "gloss": "過失"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我的罪"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:55.538522477Z",
+  "model": "glm-5.3"
+}

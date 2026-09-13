@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 24:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "彼个奴僕就牽伊主人(阿多奈个主人)的駱駝十隻,對伊主人的駱駝中間,就出發去,閣伊主人一切的好的物攏佇伊手中;伊就起來,去亞蘭拿哈林(兩條河的亞蘭),去拿鶴的城。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就牽"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "彼个奴僕"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "駱駝(隻)"
+    },
+    {
+      "surface": "מגמלי",
+      "gloss": "對…的駱駝中間"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊主人的"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就出發去"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣…一切"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好的物"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊主人的"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊手中"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "伊就起來"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "拿哈林(兩條河)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "的城"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "拿鶴"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:17.039391553Z",
+  "model": "glm-5.3"
+}

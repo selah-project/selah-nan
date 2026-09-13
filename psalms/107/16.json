@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "因為伊拍破銅門，閣共鐵閂剁斷。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "拍破"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "門"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "閣…的閂"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "剁斷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:34.855269849Z",
+  "model": "glm-5.3"
+}

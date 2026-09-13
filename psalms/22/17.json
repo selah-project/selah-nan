@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為狗仔圍繞我,歹人所聚集的會圍牢我;親像獅子⟨侵襲⟩我的手佮我的跤。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "圍繞我"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "狗仔"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "圍牢我"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "親像獅子"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "佮我的跤"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:48.414936608Z",
+  "model": "glm-5.3"
+}

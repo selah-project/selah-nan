@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "約書亞就命令⟨את⟩百姓的官長,講:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "就命令"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓的官長"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "官長"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓的"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:33.068707414Z",
+  "model": "glm-5.3"
+}

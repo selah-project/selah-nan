@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "恁懷草屑,恁生稻稿;恁个氣是火,欲吞食恁。",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "恁懷"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "草屑"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "恁生"
+    },
+    {
+      "surface": "קש",
+      "gloss": "稻稿"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "恁个氣"
+    },
+    {
+      "surface": "אש",
+      "gloss": "是火"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "欲吞食恁"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:56.364815391Z",
+  "model": "glm-5.3"
+}

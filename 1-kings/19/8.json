@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 19:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊起來,食,飲,就靠彼頓食物的力行四十日佮四十暝,到以羅欣的山——何烈。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "וישתה",
+      "gloss": "飲"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "靠…的力"
+    },
+    {
+      "surface": "האכילה",
+      "gloss": "彼頓食物"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暝"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "何烈"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:49.054606095Z",
+  "model": "glm-5.3"
+}

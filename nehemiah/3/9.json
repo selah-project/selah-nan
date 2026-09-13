@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "𪜶的手邊仔修理勒法雅,伊是戶的後生,耶路撒冷半個區的官長。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "佇…的手邊"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "𪜶的手"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "修理"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "勒法雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "חור",
+      "gloss": "戶"
+    },
+    {
+      "surface": "שר",
+      "gloss": "官長"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "半個"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "區"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:53:59.198671111Z",
+  "model": "glm-5.3"
+}

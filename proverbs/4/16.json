@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "因為𪜶若無做歹就睏袂落眠;𪜶的睏若無害人跋倒就袂安。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "若無"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "就睏袂落眠"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "做歹"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "就袂安"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "𪜶的睏"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "害人跋倒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:48.937366946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "約瑟回答⟨את⟩法老,講:「這毋是我——以羅欣會應法老⟨את⟩平安。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "回答"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法老"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "毋是我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "會應"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "平安"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:38.604904184Z",
+  "model": "glm-5.3"
+}

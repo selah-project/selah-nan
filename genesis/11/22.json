@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "沙魯格活三十冬了後,生⟨את⟩拿鶴。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "活"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "沙魯格"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "冬"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿鶴"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "拿鶴"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:53.920234200Z",
+  "model": "glm-5.3"
+}

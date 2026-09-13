@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "雅威啊,佇你的恩惠你互我的山徛得穩;你掩你的面,我就驚惶。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "佇你的恩惠"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "互…徛得穩"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "我的山"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "掩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我就"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:20.072769427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "因為按呢,我的腰滿滿是痛苦;產痛抓住我,親像產婦的產痛。我彎落去,對聽;我驚惶,對看。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "我的腰"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "是痛苦"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "產痛"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "抓住我"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "親像…的產痛"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "產婦"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "我彎落去"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "對聽"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "我驚惶"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "對看"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:40.331725952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 12:37",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣到泉門遐,對𪜶的對面,𪜶對大衛城的樓梯起上去,佇牆的斜頂,懸過大衛的家,一直到水門,向東。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "העין",
+      "gloss": "泉"
+    },
+    {
+      "surface": "ונגדם",
+      "gloss": "對𪜶的對面"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "起上去"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "樓梯"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "佇斜頂"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "牆的"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "懸過"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "向東"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:23.040057018Z",
+  "model": "glm-5.3"
+}

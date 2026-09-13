@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊佮我照這些話講的時,我給我的面向地落,我就恬恬無言。",
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "伊…講"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "給"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "向地落"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "我就恬恬"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:33.430992747Z",
+  "model": "glm-5.3"
+}

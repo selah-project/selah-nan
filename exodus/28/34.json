@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 28:34",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "一个金鈴仔、一粒石榴,金鈴仔、石榴,佇彼件以弗得外袍的裾邊四圍。",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "鈴仔"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "佮石榴"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "鈴仔"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "佮石榴"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "裾邊"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "彼件外袍"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:26.569308480Z",
+  "model": "glm-5.3"
+}

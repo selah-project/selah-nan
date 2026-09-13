@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣耶西生⟨את⟩伊的頭生子⟨את⟩以利押,亞比拿達第二,示米亞第三。",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "閣耶西"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的頭生子"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "伊的頭生子"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利押"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "以利押"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "亞比拿達"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "示米亞"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:30.985586088Z",
+  "model": "glm-5.3"
+}

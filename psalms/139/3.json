@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "我行的路佮我倒的所在,你攏鑑察,佮我一切的行做你攏熟似。",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "我行的路"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "佮我倒的所在"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "你攏鑑察"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "我的行做"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "你攏熟似"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:29.025089035Z",
+  "model": "glm-5.3"
+}

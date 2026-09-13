@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "你欲對一个城挨近，欲佮伊相戰的時，你著出聲叫伊講和。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "你挨近"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "一个城"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "欲相戰"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對抗伊"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "你著出聲叫"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "叫伊"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "講和（沙龍）"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:08.707616559Z",
+  "model": "glm-5.3"
+}

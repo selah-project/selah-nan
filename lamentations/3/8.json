@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "就準我出聲吼叫、閣喊救,伊嘛塞住我的祈禱。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "就準…嘛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "準講"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "我出聲吼叫"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "閣喊救"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "伊塞住"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:51.400249836Z",
+  "model": "glm-5.3"
+}

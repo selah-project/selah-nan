@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 21:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "祭司,就是利未个後生,欲倚近來;因為雅威你个以羅欣揀選𪜶來服事伊,閣用雅威个名來祝福,照𪜶个嘴,一切个爭執佮一切个傷損攏憑𪜶定奪。",
+  "tokens": [
+    {
+      "surface": "ונגשו",
+      "gloss": "欲倚近來"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "בני",
+      "gloss": "个後生"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "揀選"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你个以羅欣"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "來服事伊"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "閣來祝福"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "用…个名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "照"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "𪜶个嘴"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "攏憑"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "个爭執"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "个傷損"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:17.827787403Z",
+  "model": "glm-5.3"
+}

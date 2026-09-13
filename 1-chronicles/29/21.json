@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 29:21",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "𪜶獻祭物互雅威,閣獻燒祭互雅威,佇彼个日的隔轉工:牛一千、公羊一千、羊仔一千,佮𪜶的澆祭,閣有真濟祭物,為著以色列眾人。",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "閣獻上"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "隔轉工"
+    },
+    {
+      "surface": "היום",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "佮𪜶的澆祭"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "閣有祭物"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為著…眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:39.190941876Z",
+  "model": "glm-5.3"
+}

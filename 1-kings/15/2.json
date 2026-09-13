@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "三年伊佇耶路撒冷作王;伊老母的名叫瑪迦,是押沙龍的查某子。",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮…的名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "瑪迦"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某子"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "押沙龍"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:02.311237641Z",
+  "model": "glm-5.3"
+}

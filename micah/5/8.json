@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "你的手欲舉起來,踮佇你的對敵頂面,你的仇敵攏欲受剪除。",
+  "tokens": [
+    {
+      "surface": "תרם",
+      "gloss": "欲舉起來"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "踮佇…頂面"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "欲受剪除"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:12.540489814Z",
+  "model": "glm-5.3"
+}

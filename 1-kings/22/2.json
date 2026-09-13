@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "到⟨第⟩三冬的時,猶大王約沙法落去到以色列王遐。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到…的時"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "佇彼冬"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "第三"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:17.541573932Z",
+  "model": "glm-5.3"
+}

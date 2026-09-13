@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "遙遠的恁,著聽我所做的;親近的恁,著知我的氣力。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "遙遠的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我所做的"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "著知"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "親近的"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "我的氣力"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:00.586767382Z",
+  "model": "glm-5.3"
+}

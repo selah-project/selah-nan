@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 31:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "看啊,我欲𤆬⟨את⟩𪜶對北方的地來,閣對地的極角聚集𪜶;𪜶中間有青暝的、跛腳的、有身的佮咧生囝的做夥;一個大會眾欲倒轉來遮。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "欲𤆬……來"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(以色列的剩民)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對……的地"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北方"
+    },
+    {
+      "surface": "וקבצתים",
+      "gloss": "閣……聚集𪜶"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "對……的極角"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶中間"
+    },
+    {
+      "surface": "עור",
+      "gloss": "青暝的"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "跛腳的"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "有身的"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "咧生囝的"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做夥"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "欲倒轉來"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "遮"
+    }
+  ],
+  "timestamp": "2026-09-12T03:57:39.071470660Z",
+  "model": "glm-5.3"
+}

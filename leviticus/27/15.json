@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是奉獻彼間的人欲贖回⟨את⟩伊的家,就愛加五分之一的銀——你的估價——佇伊頂面,彼間就歸伊。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "奉獻彼間的人"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "欲贖回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的家"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "就愛加"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "五分之一"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你的估價"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "就"
+    },
+    {
+      "surface": "לו",
+      "gloss": "歸伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:32.380593341Z",
+  "model": "glm-5.3"
+}

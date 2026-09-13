@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "阿多奈起來!啥事你閣咧睏?醒起來!毋通永遠棄撒阮!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥事"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "你閣咧睏"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "棄撒"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:21.924902748Z",
+  "model": "glm-5.3"
+}

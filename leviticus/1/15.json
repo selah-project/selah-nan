@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "祭司著牽伊到祭壇,揪斷 ⟨את⟩ 伊的頭,閣佇祭壇燒伊;伊的血著洩佇祭壇的壁邊。",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "著牽伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "揪斷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的頭"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "閣燒"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇祭壇"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "著洩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "壁"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:28.511295381Z",
+  "model": "glm-5.3"
+}

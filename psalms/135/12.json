@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "閣將𪜶的土地賜做產業,做產業予伊的子民以色列。",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "閣…賜"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的土地"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "做產業"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "做產業"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "予以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的子民"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:23.926635449Z",
+  "model": "glm-5.3"
+}

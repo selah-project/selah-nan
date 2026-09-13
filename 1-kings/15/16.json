@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "閣有戰爭佇亞撒佮以色列王巴沙中間,𪜶攏總的日子。",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "佮戰爭"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "𪜶的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:24.118634200Z",
+  "model": "glm-5.3"
+}

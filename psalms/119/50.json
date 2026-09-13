@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "這是我佇苦難中的安慰,因為你的話互我活起來。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "我的安慰"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "佇我的苦難中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "互我活起來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:28.632841317Z",
+  "model": "glm-5.3"
+}

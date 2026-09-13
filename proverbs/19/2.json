@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣講,性命無知識嘛毋好;雙跤急忙的人干犯罪。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "無"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "閣急忙"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "佇雙跤"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "干犯罪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:41.280996997Z",
+  "model": "glm-5.3"
+}

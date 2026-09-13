@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "有錢人的財富⟨是⟩伊堅固的城,散凶人的貧窮⟨是⟩𪜶的毀滃。",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "財富"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "有錢人"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "城"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "伊的堅固"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "毀滃"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "散凶人"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "𪜶的貧窮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:30.304303471Z",
+  "model": "glm-5.3"
+}

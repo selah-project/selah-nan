@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 16:15",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "你倚靠你的媠,倚你的名行淫,閣共⟨את⟩你的淫亂倒佇每一个過路的人身上;伊做伊的。",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "你倚靠"
+    },
+    {
+      "surface": "ביפיך",
+      "gloss": "佇你的媠"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "你行淫"
+    },
+    {
+      "surface": "על",
+      "gloss": "倚"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "ותשפכי",
+      "gloss": "你倒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的淫亂"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "你的淫亂"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כל",
+      "gloss": "每一个"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "過路的人"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "做伊的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:12:36.820883226Z",
+  "model": "glm-5.3"
+}

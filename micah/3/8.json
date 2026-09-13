@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "毋拘我充滿力量、充滿⟨את⟩雅威的靈,佮公義佮勇力,欲對雅各講伊的悖逆,對以色列講伊的罪。",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的靈"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "佮公義"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "佮勇力"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "欲講"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "對雅各"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "伊的悖逆"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "伊的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:54.492759493Z",
+  "model": "glm-5.3"
+}

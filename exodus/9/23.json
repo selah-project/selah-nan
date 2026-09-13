@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "摩西伸出 ⟨את⟩ 伊的杖向天,雅威出雷聲佮雹,火行落地裡,雅威落雹佇米茲拉因地。",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的杖"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "伊的杖"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "出"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "雷聲"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "佮雹"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "就行"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "落地"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "落"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:47.179613421Z",
+  "model": "glm-5.3"
+}

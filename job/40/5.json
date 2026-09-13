@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "一擺我有講話,毋閣我無欲應;兩擺,嘛無欲閣添。",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "一擺"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我有講話"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋閣我無"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "欲應"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "兩擺"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無欲"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "閣添"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:33.615743761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 142,
+  "translation": "看顧右邊,看覓——無人識我;逃走的路對我失落矣,無人關心我的性命。",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "看顧"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右邊"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "閣看"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "識我的人"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "失落"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "逃走的路"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "關心的人"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:07.737880988Z",
+  "model": "glm-5.3"
+}

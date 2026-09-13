@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "獨獨肉,佇伊的生命——就是伊的血——恁毋通食。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "佇伊的生命"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:34.424501845Z",
+  "model": "glm-5.3"
+}

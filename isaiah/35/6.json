@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "到彼時，跛跤的會親像鹿按呢跳，啞口人的舌會出聲；因為佇曠野有水湧出來，佇沙漠有溪流水。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "到彼時"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "會跳"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "親像鹿按呢"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "跛跤的"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "會出聲"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "啞口人的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "湧出來"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "有溪流水"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "佇沙漠"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:23.966783041Z",
+  "model": "glm-5.3"
+}

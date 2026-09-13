@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你著按呢對亞倫佮對伊的子行,照我命令⟨את⟩你的一切;七日你著滿𪜶的手。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你著行"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "對亞倫"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "佮對伊的子"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼號…的"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我命令"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "你著滿"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "𪜶的手"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:09.884435845Z",
+  "model": "glm-5.3"
+}

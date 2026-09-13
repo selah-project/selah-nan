@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "𪜶的地生湠田蛤仔,佇𪜶諸王的房間內。",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "生湠(滿滿是)"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的地"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "田蛤仔"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "佇…的房間內"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "𪜶諸王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:20.438177425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "我欲向譬喻屈我的耳仔;我欲用琴開我的謎。",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "屈"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "向譬喻"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "我的耳仔"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "用琴"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "我的謎"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:41.420936950Z",
+  "model": "glm-5.3"
+}

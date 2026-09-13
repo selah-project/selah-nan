@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "聽啊,阮的百姓,我欲警戒恁;以色列啊,恁若肯聽我——",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "阮的百姓"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "我欲警戒"
+    },
+    {
+      "surface": "בך",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "肯聽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:07.243143991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "雅各就徛起佇伊老爸做旅客的地,佇迦南地。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "就徛起"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "做旅客的所在"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:52.169665157Z",
+  "model": "glm-5.3"
+}

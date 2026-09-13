@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣亞倫的後生𪜶的分派是按呢:亞倫的後生拿答、亞比戶、以利亞撒、以他瑪。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "閣…的後生"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "𪜶的分派"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "拿答"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "佮亞比戶"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "閣以他瑪"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:01.102883656Z",
+  "model": "glm-5.3"
+}

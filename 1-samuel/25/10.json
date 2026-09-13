@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "拿八應大衛的奴僕 ⟨את⟩,講:大衛是啥物人?耶西的仔閣是啥物人?今仔日逃離𪜶主人的奴僕真濟,逐个對伊的主人許爾做。",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "應"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "拿八"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛的奴僕"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "的奴僕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "閣是啥物人"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的仔"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "逃離"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊的主人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:09.335119923Z",
+  "model": "glm-5.3"
+}

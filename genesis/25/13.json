@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "這个就是以實瑪利的囝的名,照𪜶的名、照𪜶的世代來排:以實瑪利的頭生子拿別約,閣基達,閣亞德別,閣米伯閃。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這个就是"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "照𪜶的名"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "照𪜶的世代"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "拿別約"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "閣基達"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "閣亞德別"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "閣米伯閃"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:36.204211648Z",
+  "model": "glm-5.3"
+}

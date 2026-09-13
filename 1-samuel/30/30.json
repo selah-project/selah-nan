@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "閣予佇何珥瑪的人,閣予佇玻亞珊的人,閣予佇亞撻的人。",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "閣予…的人"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "佇何珥瑪"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "閣予…的人"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "佇玻"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "亞珊"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "閣予…的人"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "佇亞撻"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:15.826636829Z",
+  "model": "glm-5.3"
+}

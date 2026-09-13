@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "雅各看見米茲拉因(埃及)有糧,就對伊的後生講:「你啥物按呢互相你看我、我看你?」",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "糧"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇米茲拉因"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "對伊的後生"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "你互相看"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:28.970653681Z",
+  "model": "glm-5.3"
+}

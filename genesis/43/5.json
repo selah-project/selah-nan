@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "若是恁無差伊，阮就毋落去，因為彼個人對阮講：「若無恁的兄弟佮⟨את⟩恁做伙，恁袂當看我的面。」",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "恁無"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "看"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "若無"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "恁的兄弟"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "佮⟨את⟩恁做伙",
+      "marks": "做伙伴隨恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:00.571959741Z",
+  "model": "glm-5.3"
+}

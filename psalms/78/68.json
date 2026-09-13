@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊揀⟨את⟩猶大的支派,揀⟨את⟩錫安的山,就是伊所疼的。",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "伊揀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的支派"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "…的支派"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫安的山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "…的山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "所疼的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:34.286679812Z",
+  "model": "glm-5.3"
+}

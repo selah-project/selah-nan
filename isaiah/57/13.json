@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "你咧喊的時,你聚集的會救你;風欲提⟨את⟩𪜶全部,虛無嘛欲提去;倚靠我的,欲承受地土,欲得著我的聖山。",
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "你咧喊的時"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "會救你"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "你聚集的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶全部"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "全部"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "提"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "提去"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛無"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "倚靠的"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "欲承受"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地土"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "欲得著"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "我的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:02.094445696Z",
+  "model": "glm-5.3"
+}

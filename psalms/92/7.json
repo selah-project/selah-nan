@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "戇直的人毋知,愚戇的人嘛毋明白⟨את⟩這個。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "(一個)人"
+    },
+    {
+      "surface": "בער",
+      "gloss": "戇直"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "嘛…愚戇的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "明白"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這個"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:54.725608996Z",
+  "model": "glm-5.3"
+}

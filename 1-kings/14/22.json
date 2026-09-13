@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "猶大行歹代佇雅威的目睭前,𪜶用𪜶所犯的罪激雅威妒忌 ⟨את⟩,比𪜶的祖先所行的一切閣較厲害,就是彼號罪,𪜶所犯的。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的目睭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "激…妒忌"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "比…一切"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比…一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "𪜶的祖先"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "用𪜶所犯的罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼號"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "所犯的"
+    }
+  ],
+  "timestamp": "2026-09-13T06:53:53.433173744Z",
+  "model": "glm-5.3"
+}

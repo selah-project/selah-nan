@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "閣你欲給帳棚做一個蓋,用染紅的公羊皮,閣頂面閣一個蓋,用塔哈施的皮。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "閣你欲…做"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "一個蓋"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "給帳棚"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "…的皮"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "染紅的"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "閣一個蓋"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "…的皮"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "塔哈施"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "對頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:20.787185029Z",
+  "model": "glm-5.3"
+}

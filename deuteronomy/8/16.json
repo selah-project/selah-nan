@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊佇曠野用嗎哪飼你,就是你列祖毋識的,為著欲苦楚你,嘛為著欲試驗你,欲佇你的後來做好代予你,",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "伊…飼你"
+    },
+    {
+      "surface": "מן",
+      "gloss": "用嗎哪"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "識"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "你列祖"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "苦楚你"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "嘛為著欲"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "試驗你"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "做好代予你"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "佇你的後來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:35.333124969Z",
+  "model": "glm-5.3"
+}

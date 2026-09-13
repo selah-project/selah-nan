@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "亞撒利雅,拿單的子,佇官員的頂面管𪜶;撒布得,拿單的子,祭司,是王的朋友。",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "官員"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "撒布得"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "朋友"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:57.502268403Z",
+  "model": "glm-5.3"
+}

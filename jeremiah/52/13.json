@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "伊燒掉⟨את⟩雅威的殿,閣⟨את⟩王的宮殿,閣⟨את⟩耶路撒冷所有的厝;閣⟨את⟩逐間大厝,攏用火燒掉。",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "燒掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "王的宮殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "所有的厝"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "逐間大厝"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐間"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "燒掉"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:01.824223608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威啊,起來!莫得予必死的人得勢;願列邦佇祢面前受審判。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "莫得"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "得勢"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "必死的人"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "受審判"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "祢面前"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:08.842880478Z",
+  "model": "glm-5.3"
+}

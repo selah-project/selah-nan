@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "以色列的子兒對海中間落去,行佇焦地頂,水做牆佇𪜶的正手爿佮倒手爿。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "落去"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "行佇焦地頂"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "水"
+    },
+    {
+      "surface": "להם",
+      "gloss": "做"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "牆"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "佇𪜶的正手爿"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "佮倒手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:33.291250333Z",
+  "model": "glm-5.3"
+}

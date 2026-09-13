@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "設立伊做伊厝內的主人,做伊一切財產的管轄者。",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "設立"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "主人"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "做伊厝內的"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "做管轄者"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "伊的財產"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:45.720345329Z",
+  "model": "glm-5.3"
+}

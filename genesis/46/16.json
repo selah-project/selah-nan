@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "迦得的後生有:洗非芸、哈基、書尼、以茲邦、以利、亞羅底、亞列利。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "洗非芸"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "哈基"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "書尼"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "以茲邦"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "亞羅底"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "亞列利"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:31.907337040Z",
+  "model": "glm-5.3"
+}

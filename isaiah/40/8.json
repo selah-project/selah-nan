@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "草枯焦,花凋謝,毋拘咱的以羅欣的話欲徛到永遠。",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "枯焦"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "凋謝"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "花"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "毋拘…的話"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:17.736433108Z",
+  "model": "glm-5.3"
+}

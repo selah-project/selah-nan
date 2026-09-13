@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣驚懸的物,佇路中也有驚駭;杏仁樹開花,草蜢仔拖重擔,刺瓜仔的慾望失效;因為人行向伊永遠的厝,哀悼的人佇街市四界行。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "懸的物"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "驚"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "也有驚駭"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路中"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "開花(被看輕)"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "杏仁樹"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "拖重擔"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "草蜢仔"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "失效"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "刺瓜仔(慾望)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "伊永遠的"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "四界行"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "佇街市"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "哀悼的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:58.491147282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 3:8",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "你敢比挪阿捫(底比斯)較好?──伊坐佇河流中間,水圍佇伊的四圍,伊的壁壘是海,對海來的是伊的城牆。",
+  "tokens": [
+    {
+      "surface": "התיטבי",
+      "gloss": "你敢較好"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "對"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "挪阿捫(底比斯)"
+    },
+    {
+      "surface": "הישבה",
+      "gloss": "坐落的"
+    },
+    {
+      "surface": "ביארים",
+      "gloss": "佇河流"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍佇四圍"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "壁壘"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "מים",
+      "gloss": "對海"
+    },
+    {
+      "surface": "חומתה",
+      "gloss": "伊的城牆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:55.117237611Z",
+  "model": "glm-5.3"
+}

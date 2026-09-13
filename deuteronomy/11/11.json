@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "毋過恁欲過去佔有的彼個土地,是山佮山谷的地,伊啉的是天頂落雨的水。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "毋過…的土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "過去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "去遐"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "佔有伊"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "…的地"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "佮山谷"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "對…的落雨"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "伊啉"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:39.226866932Z",
+  "model": "glm-5.3"
+}

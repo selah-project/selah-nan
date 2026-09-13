@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣我欲賞恁照我心个牧者,𪜶欲用知識佮通達牧養⟨את⟩恁。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "閣我欲賞"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "牧者"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "照我心"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "閣牧養"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "用知識"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "佮通達"
+    }
+  ],
+  "timestamp": "2026-09-12T03:48:21.874519368Z",
+  "model": "glm-5.3"
+}

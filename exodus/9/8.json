@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威對摩西佮亞倫講:「恁兩人手捧滿窯仔的爐灰,閣摩西欲佇法老目睭前夯伊撒向天。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "捧起來"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "恁的手"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "爐灰"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "窯仔"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "撒"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "向天"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "目睭前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:37.552119748Z",
+  "model": "glm-5.3"
+}

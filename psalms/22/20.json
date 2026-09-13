@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "毋過祢,雅威,莫離阮遠;我的氣力,緊來救我。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋過祢"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "莫"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "離阮遠"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "我的氣力"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "救我"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "緊來"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:18.438124878Z",
+  "model": "glm-5.3"
+}

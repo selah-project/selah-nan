@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "對你,我對胎就委落;對阮老母的腹肚,你就是我的以勒。",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "我委落"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "對胎"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "對腹肚"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "阮老母"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的以勒"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:29.454331184Z",
+  "model": "glm-5.3"
+}

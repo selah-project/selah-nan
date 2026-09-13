@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼時,兩個查某人——娼妓——來到王遮,徛佇伊面前。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "來"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩個"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "娼妓"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:01.207697846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "開你的喙,判斷公義,佮為著困苦人佮散赤人伸冤。",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的喙"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "判斷"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "佮伸冤"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散赤人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:41.291253824Z",
+  "model": "glm-5.3"
+}

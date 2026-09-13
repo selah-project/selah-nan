@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "佇頭一日有聖的聚集,見若有做工的工課,恁毋通做。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "工課"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "做工的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁做"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:43.881022748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "拔示巴入去到王遐,入房間內;王真老矣;書念个亞比煞咧服事 ⟨את⟩ 王。",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בת",
+      "gloss": "拔"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "入房間內"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "閣王"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "閣亞比煞"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "書念人"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:54.709917461Z",
+  "model": "glm-5.3"
+}

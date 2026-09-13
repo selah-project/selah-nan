@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "五個恁的人會追一百個,一百個恁的人會追一萬個;恁的對敵會倒佇恁的面前、用劍仆落去。",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "會追"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "對恁中間"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百個"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "佮一百個"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "對恁中間"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "一萬個"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "會追"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "會仆落去"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "恁的對敵"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "佇恁的面前"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "用劍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:53.720257155Z",
+  "model": "glm-5.3"
+}

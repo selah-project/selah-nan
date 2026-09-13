@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 114,
+  "translation": "以色列出米茲拉因(埃及),雅各的家對一个講奇怪的話的族群出來。",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "出"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因(埃及)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對族群"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "講奇怪的話的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:20.747334673Z",
+  "model": "glm-5.3"
+}

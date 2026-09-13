@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "咱來進前到伊的面前用感謝,用詩歌咱來對伊出大聲。",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "咱來進前到"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面前"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "用感謝"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "用詩歌"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "咱來出大聲"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:01.348591837Z",
+  "model": "glm-5.3"
+}

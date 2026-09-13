@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "救我脫離我的對敵,閣共我提懸、超越彼起來攻擊我的人,對殘暴的人搶救我。",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "救我脫離"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "אף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "מן",
+      "gloss": "超越"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "彼起來攻擊我的人"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "共我提懸"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "對人"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "殘暴"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "搶救我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:21.239536236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "伊對我講:你是我的奴僕以色列,我欲用你得著榮光。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בך",
+      "gloss": "用你"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "我得著榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:12.591418147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣⟨את⟩第二隻伊欲獻做燒祭,照規例;祭司欲替伊掩罪,對伊所犯的罪,伊就受赦免。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "第二隻"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二隻"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "伊欲獻做"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "照規例"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "閣掩罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "對伊的罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "閣受赦免"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:46.370117287Z",
+  "model": "glm-5.3"
+}

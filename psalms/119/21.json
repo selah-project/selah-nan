@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "祢斥責受詛咒的狂傲人,⟨就是⟩彼𪜶偏離祢誡命⟨的⟩。",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "祢斥責"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "狂傲人"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "受詛咒的"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "偏離"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "祢的誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:19.167675773Z",
+  "model": "glm-5.3"
+}

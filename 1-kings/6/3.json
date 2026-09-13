@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 6:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "彼个前廳佇厝的殿堂頭前,長二十肘,照厝的闊度;伊的闊度十肘,佇厝的面頭前。",
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "彼个前廳"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "……的面頭前"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿堂"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長度"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "פני",
+      "gloss": "……的面"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊度"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "用肘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊度"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "……的面頭前"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:21.296214628Z",
+  "model": "glm-5.3"
+}

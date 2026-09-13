@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "恨我的人攏做伙對我細聲唸;對我謀算歹代要害我。",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "細聲唸"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "恨我的人"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "謀算"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "לי",
+      "gloss": "要害我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:59.352060634Z",
+  "model": "glm-5.3"
+}

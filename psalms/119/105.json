@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "你的話是我跤頭的燈火,也是我路途的光。",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "燈火"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "我跤頭"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "也是光"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "我路途"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:12.868852495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼張批送到以色列的王遐,講:「今這張批到你遮的時,看,我有差我的奴僕乃縵⟨את⟩去你遐,你愛收好伊的癩疥。」",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "送到"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "彼張批"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "到的時"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "這張批"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我有差"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "去你遐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "乃縵"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "乃縵"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "你愛收好伊"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "對伊的癩疥"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:59.170103173Z",
+  "model": "glm-5.3"
+}

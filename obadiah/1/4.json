@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "obadiah 1:4",
+  "book": "obadiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "你若懸到親像鷹鳥,閣若安你的巢佇星辰中間,對遐我欲叫你落來——這是雅威的神諭。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "懸到"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "親像鷹鳥"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "閣若"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "星辰"
+    },
+    {
+      "surface": "שים",
+      "gloss": "安"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "你的巢"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "我叫你落來"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:44.666744589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "大衛一直行、一直大,因為雅威、以羅欣采巴奧特(萬軍)佮伊徛做夥。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "一直行"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "一直行"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "一直大"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊徛做夥"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:03.646314293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "這个是對⟨את⟩雅威來的;伊佇阮目睭前真奇妙。",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩雅威",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "來的"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "真奇妙"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "佇阮目睭前"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:54.020981317Z",
+  "model": "glm-5.3"
+}

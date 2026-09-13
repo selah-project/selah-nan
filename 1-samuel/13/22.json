@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "到相刣的彼日，佇逐个百姓——就是佮掃羅⟨את⟩佮約拿單⟨את⟩做陣的——的手內，攏揣無刀佮矛；獨獨佇掃羅佮伊的後生約拿單的手內揣著有。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…彼日"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "相刣"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "攏無"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "佮矛"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…手內"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…做陣的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掃羅"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "約拿單"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "獨獨揣著有"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "佇掃羅"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "佮約拿單"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:47.034750483Z",
+  "model": "glm-5.3"
+}

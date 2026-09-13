@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "咱的聖殿,咱的榮光,佇遐咱的列祖謳咾你,已經予火燒去;咱所疼惜的一切攏變做荒廢矣。",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "咱的聖"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "閣咱的榮光"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "謳咾你"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "咱的列祖"
+    },
+    {
+      "surface": "היה",
+      "gloss": "已經變做"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "予…燒去"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣一切"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "咱所疼惜的"
+    },
+    {
+      "surface": "היה",
+      "gloss": "變做"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "荒廢"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:25.282489396Z",
+  "model": "glm-5.3"
+}

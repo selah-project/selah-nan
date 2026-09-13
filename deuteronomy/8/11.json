@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "你著謹慎家己,驚你袂記得⟨את⟩雅威——你的以羅欣——無守伊的誡命、伊的法度、佮伊的律例,就是我今仔日命令你的。",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "你著謹慎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "家己"
+    },
+    {
+      "surface": "פן",
+      "gloss": "驚"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "你袂記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "以致無"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "伊的誡命"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "佮伊的法度"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "佮伊的律例"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "命令你"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:29.456480342Z",
+  "model": "glm-5.3"
+}

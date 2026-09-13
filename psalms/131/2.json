@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 131,
+  "translation": "的確,我有互我的性命平靜落來、安恬恬,親像斷奶的囡仔倚佇伊的老母;親像斷奶的囡仔,我的性命安呢佇我。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "的確"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "我有互…平靜落來"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "安恬恬"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "親像斷奶的囡仔"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "倚佇"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "親像斷奶的囡仔"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "安呢佇"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:48.430916650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "毋通掩踏粟的牛的嘴。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "掩嘴"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "佇伊踏粟的時"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:55.261450674Z",
+  "model": "glm-5.3"
+}

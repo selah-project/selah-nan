@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "恁著感謝諸天的以勒(以羅欣),因為伊的赫瑟德(慈愛)存到永遠。",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "恁著感謝"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "諸天的以勒"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德(慈愛)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:11.015237342Z",
+  "model": "glm-5.3"
+}

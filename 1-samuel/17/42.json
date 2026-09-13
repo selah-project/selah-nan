@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "非利士人看,看見⟨את⟩大衛,就看輕伊,因為伊⟨是⟩少年人,面色紅,閣有好看的面容。",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "看"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "就看輕伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨是⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "面色紅"
+    },
+    {
+      "surface": "עם",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "好看"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "面容"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:19.657661851Z",
+  "model": "glm-5.3"
+}

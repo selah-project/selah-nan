@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣對彼个祭的肉所剩落來的,佇第三日,著用火燒掉。",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "閣所剩落來的"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "對…的肉"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "彼个祭"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "著燒掉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:51.604609945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "饑荒佇此地真沉重。",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "真沉重"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇此地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:05.659276085Z",
+  "model": "glm-5.3"
+}

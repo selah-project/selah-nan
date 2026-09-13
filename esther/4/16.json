@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 4:16",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「你去,召集⟨את⟩所有佇書珊揣會著的猶大人,為著我禁食,三暝三日,毋通食、毋通啉;我佮我的查某嫺嘛按呢禁食;然後我欲去見王——彼个毋合法律的;若我滅亡,就滅亡。」",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "召集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的猶大人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "揣會著的"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "וצומו",
+      "gloss": "佮禁食"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "為著我"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮毋通"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "啉"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暝"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "佮日"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ונערתי",
+      "gloss": "佮我的查某嫺"
+    },
+    {
+      "surface": "אצום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ובכן",
+      "gloss": "然後"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "我欲去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "見"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "合法律"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "佮若"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "我滅亡"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "就滅亡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:10.453016310Z",
+  "model": "glm-5.3"
+}

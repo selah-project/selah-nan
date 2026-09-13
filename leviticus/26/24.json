@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我嘛欲用對敵行對恁,我嘛欲責打⟨את⟩恁七倍,為著恁的罪。",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "我嘛欲行"
+    },
+    {
+      "surface": "אף",
+      "gloss": "也"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "佇對敵中"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "我嘛欲責打"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "恁的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:03.644217033Z",
+  "model": "glm-5.3"
+}

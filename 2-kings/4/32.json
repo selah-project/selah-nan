@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "以利沙入去厝內,看啊,彼個囡仔已經死了,倒佇伊的眠床頂。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼個囡仔"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死了"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "倒"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "伊的眠床頂"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:50.641907165Z",
+  "model": "glm-5.3"
+}

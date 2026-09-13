@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "以色列有真濟日無真實的以羅欣,無教示的祭司,無妥拉(律法)。",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "…日"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "佮無"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "教示的"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "佮無"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "妥拉(律法)"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:38.675970334Z",
+  "model": "glm-5.3"
+}

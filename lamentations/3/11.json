@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊使我的路偏離，共我撕破，設我做荒壞。",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "我的路"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "使偏離"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "共我撕破"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "設我"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "做荒壞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:02.376680627Z",
+  "model": "glm-5.3"
+}

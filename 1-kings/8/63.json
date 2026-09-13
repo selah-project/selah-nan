@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "1-kings 8:63",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "所羅門獻⟨את⟩平安祭的祭物,就是伊獻互雅威的:牛二十閣二千隻,羊一百閣二十千隻;王佮攏總以色列的子兒奉獻⟨את⟩雅威的家。",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "獻"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "平安祭的祭物"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "獻"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "閣二"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "閣羊"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "閣二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "奉獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:44.055911218Z",
+  "model": "glm-5.3"
+}

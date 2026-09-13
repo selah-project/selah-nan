@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "共你的路輾予雅威,倚靠伊,伊就會成就。",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "輾"
+    },
+    {
+      "surface": "על",
+      "gloss": "予"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的路"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "會成就"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:49.474859363Z",
+  "model": "glm-5.3"
+}

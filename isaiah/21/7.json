@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣伊看見戰車、一對一對的騎兵、騎驢仔的、騎駱駝的,就著專神聽,深深專神聽。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "閣伊看見"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "一對一對"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "騎兵"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "騎"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "騎"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "駱駝"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "著專神聽"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "專神"
+    },
+    {
+      "surface": "רב",
+      "gloss": "深深"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "專神聽"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:33.083578181Z",
+  "model": "glm-5.3"
+}

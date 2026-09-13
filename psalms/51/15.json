@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "我就欲教示悖逆的人你的路,犯罪的人嘛欲歸向你。",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "我就欲教示"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "悖逆的人"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "你的路"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "犯罪的人嘛"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "欲歸回"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:57.464318212Z",
+  "model": "glm-5.3"
+}

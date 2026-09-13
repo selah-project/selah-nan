@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "閣有十個少年人、扛約押器械的,圍倚來摃押沙龍⟨את⟩,共伊刣死。",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "圍倚來"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十個"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "扛……的"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器械"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押的"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "摃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "押沙龍"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "共伊刣死"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:39.310943984Z",
+  "model": "glm-5.3"
+}

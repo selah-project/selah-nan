@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威的手重重落佇亞實突人身上,伊毀滅𪜶,用痔瘡(עפלים)擊打⟨את⟩𪜶——⟨את⟩亞實突佮⟨את⟩伊的境界。",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "重重落"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "亞實突人"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "毀滅𪜶"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(痔瘡所擊打的對象)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "用痔瘡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞實突"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "亞實突"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的境界"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "伊的境界"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:22.271667285Z",
+  "model": "glm-5.3"
+}

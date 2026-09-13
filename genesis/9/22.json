@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "含——迦南的父——看見⟨את⟩伊老父的露體,就出去共伊兩个兄弟講。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…的父"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊老父的露體"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "露體"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "就…講"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "共…兩个"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "出去(外面)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:14.213028303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 67,
+  "translation": "萬民欲感謝你，以羅欣；萬民，𪜶攏欲感謝你。",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "感謝你"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "感謝你"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:45.373150524Z",
+  "model": "glm-5.3"
+}

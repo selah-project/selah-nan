@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊對我講:「你是啥人?」我對伊講:「我是亞瑪力人。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "亞瑪力人"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:12.821543946Z",
+  "model": "glm-5.3"
+}

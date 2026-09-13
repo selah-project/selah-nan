@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "當以法蓮咧講話,就有驚惶;伊佇以色列中間予人抬高,毋過伊佇巴力犯罪,就死矣。",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "當…咧講話"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "予人抬高"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列中間"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "就犯罪"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "佇巴力"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "就死矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:01.759757165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "啥物啊,我子?啥物啊,我腹肚的子?啥物啊,我許願得著的子?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "我子"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "閣啥物"
+    },
+    {
+      "surface": "בר",
+      "gloss": "子"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "我腹肚"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "閣啥物"
+    },
+    {
+      "surface": "בר",
+      "gloss": "子"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "我許願"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:58.653135658Z",
+  "model": "glm-5.3"
+}

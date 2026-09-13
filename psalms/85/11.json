@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "赫瑟德(慈愛)佮誠實相拄,公義佮平安相親嘴。",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "佮誠實"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "相拄"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "佮平安"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "相親嘴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:07.776222712Z",
+  "model": "glm-5.3"
+}

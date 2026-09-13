@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "我的目睭對我的苦楚消落去;雅威啊,我逐日呵叫你,我向你展開我的手掌。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "消落去"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "עני",
+      "gloss": "我的苦楚"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "我呵叫你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "我展開"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的手掌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:01.915707435Z",
+  "model": "glm-5.3"
+}

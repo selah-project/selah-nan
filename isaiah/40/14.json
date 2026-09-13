@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊佮⟨את⟩啥人商量,予伊明白?佇公義的路教伊,教伊知識,用聰明的路互伊知?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "啥人"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "商量"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "予伊明白"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "教伊"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "佇…的路"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "教伊"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "用…的路"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "聰明"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "互伊知"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:35.362411767Z",
+  "model": "glm-5.3"
+}

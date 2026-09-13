@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "大衛老矣,日子飽足,伊就立伊的子所羅門⟨את⟩佇以色列頂做王。",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "飽足"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "立……做王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:17.782021817Z",
+  "model": "glm-5.3"
+}

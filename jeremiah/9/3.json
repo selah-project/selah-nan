@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "逐人愛提防伊的厝邊,對任何一个兄弟毋通倚靠;因為逐个兄弟攏用後跤絆倒人,逐个同伴攏四界行,講毀謗的話。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "對伊的厝邊"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "愛提防"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "恁倚靠"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "用後跤絆"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "絆倒"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣逐个"
+    },
+    {
+      "surface": "רע",
+      "gloss": "同伴"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "講毀謗的"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "四界行"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:48.335539479Z",
+  "model": "glm-5.3"
+}

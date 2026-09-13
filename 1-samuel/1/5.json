@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣對哈娜,伊給一份「兩个鼻」的份;因為伊疼⟨את⟩哈娜,毋拘雅威共伊的子宮關閉矣。",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "閣對哈娜"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "伊給"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "一份"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "兩个鼻(面孔)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈娜"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "哈娜"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "關閉"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "伊的子宮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:09.037701476Z",
+  "model": "glm-5.3"
+}

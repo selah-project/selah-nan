@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "雅各行伊的路, 以羅欣的使者抵著伊。",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "抵著"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:32.376415807Z",
+  "model": "glm-5.3"
+}

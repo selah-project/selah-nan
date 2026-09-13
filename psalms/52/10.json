@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "若是我,親像橄欖樹青翠佇以羅欣的家;我倚靠以羅欣的赫瑟德(堅愛),到永遠閣永遠。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "若是我"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "親像橄欖樹"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青翠"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的家"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我倚靠"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "的赫瑟德"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:48.233824850Z",
+  "model": "glm-5.3"
+}

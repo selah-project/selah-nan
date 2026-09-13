@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣遮⟨是⟩諸個祭司佮利未人,就是佮所羅巴伯──示阿勒提伊的子──佮耶書亞做夥上來的:示阿來雅、耶利米雅、以斯拉。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣遮"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "諸個祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上來的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮……做夥"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "所羅巴伯"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……的子"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "示阿勒提伊"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "佮耶書亞"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "示阿來雅"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "耶利米雅"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "以斯拉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:31.760477522Z",
+  "model": "glm-5.3"
+}

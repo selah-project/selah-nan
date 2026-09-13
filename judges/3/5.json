@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以色列的子兒徛起佇迦南人、赫人、亞摩利人、比利洗人、希未人、耶布斯人中間。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "佮…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "耶布斯人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:43.557728769Z",
+  "model": "glm-5.3"
+}

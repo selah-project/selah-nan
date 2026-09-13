@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "雅威就照我的公義給我報賞,照我佇伊目睭前的清氣。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "就報賞"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "照我的公義"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "照我的清氣"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "佇…前"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:59:46.982012073Z",
+  "model": "glm-5.3"
+}

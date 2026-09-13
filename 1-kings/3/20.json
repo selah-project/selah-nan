@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊半暝起來,對我的身軀邊提走⟨את⟩我的囝 —— 你的婢女彼陣咧睏 —— 給伊放佇伊的懷內,閣給⟨את⟩伊死去个囝放佇我的懷內。",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "伊起來"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "半暝"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "提走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的囝"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的囝"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "對我的身軀邊"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "你的婢女"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "咧睏"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "給伊放睏"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "佇伊的懷內"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊死去个囝"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死去个"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "給…放睏"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "佇我的懷內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:07.409348257Z",
+  "model": "glm-5.3"
+}

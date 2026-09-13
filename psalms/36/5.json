@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "歹事伊佇伊的床頂謀算,伊徛家己佇一條毋好的路;歹代伊毋吐棄。",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "謀算"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "伊的床"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "徛家己"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "吐棄"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:32.476247901Z",
+  "model": "glm-5.3"
+}

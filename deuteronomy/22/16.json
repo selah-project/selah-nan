@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "查某囝仔的老父愛對長老講:「⟨את⟩ 我的女兒,我有予這個人做某,伊卻怨恨伊。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "愛講"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "老父"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "查某囝仔的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的女兒"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "我的女兒"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我有予"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "這個人"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "做某"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "伊卻怨恨伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:53.518319444Z",
+  "model": "glm-5.3"
+}

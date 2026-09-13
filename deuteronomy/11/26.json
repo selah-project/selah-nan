@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "你看,我今仔日下佇恁面前祝福佮詛咒。",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "下"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "佇恁面前"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "佮詛咒"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:36.046272734Z",
+  "model": "glm-5.3"
+}

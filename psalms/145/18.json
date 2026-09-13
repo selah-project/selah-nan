@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "雅威近倚一切叫伊的人,近倚一切佇真實叫伊的人。",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "近倚"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "叫伊的人"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "叫伊"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "佇真實"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.788454549Z",
+  "model": "glm-5.3"
+}

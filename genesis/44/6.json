@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "伊就趕上𪜶,對𪜶講⟨את⟩諸个話。",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "伊就趕上𪜶"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸个話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "諸个話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "諸个"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:04.376027905Z",
+  "model": "glm-5.3"
+}

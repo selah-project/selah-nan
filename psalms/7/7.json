@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威啊,起來,佇你的受氣中;為著我的對敵的暴怒,舉起家己;閣為著我醒起,照你所命令的審判。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "佇你的受氣中"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "佇暴怒"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "閣醒起"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向著我"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "你命令"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:10.372043302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "離開歹,做好;追求平安,閣追掠伊。",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "追求"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "閣追掠伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:14.022220552Z",
+  "model": "glm-5.3"
+}

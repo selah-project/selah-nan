@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "著高舉伊,伊欲舉你懸;伊欲看重你,當你攬伊的時。",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "著高舉伊"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "伊欲舉你懸"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "伊欲看重你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "你攬伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:38.651399798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "受氣殘忍,怒氣親像大水淹來;啥人會當徛佇嫉妒的面前?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "殘忍"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "親像大水淹來"
+    },
+    {
+      "surface": "אף",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "會當徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇⋯⋯的面前"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "嫉妒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:41.991158125Z",
+  "model": "glm-5.3"
+}

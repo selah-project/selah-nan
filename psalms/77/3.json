@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "佇我患難𪜩日子,我尋阿多奈;暝中我𪜩手伸出,無歇;我𪜩性命拒絕受安慰。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…𪜩日子"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "我𪜩患難"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "我尋"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我𪜩手"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暝中"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "歇"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "拒絕"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "受安慰"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我𪜩性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:18.124875328Z",
+  "model": "glm-5.3"
+}

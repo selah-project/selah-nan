@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣去北方山地、亞拉巴、基尼列的南勢、低坪,以及多珥的境界遐向海的諸王。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "閣去…遐"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "北方"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "山地"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "佇亞拉巴"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南勢"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "基尼列"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "佇低坪"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "佇…的境界"
+    },
+    {
+      "surface": "דור",
+      "gloss": "多珥"
+    },
+    {
+      "surface": "מים",
+      "gloss": "向海"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:50.402688477Z",
+  "model": "glm-5.3"
+}

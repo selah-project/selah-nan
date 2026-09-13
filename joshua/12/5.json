@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 12:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣統治佇赫珥門山、佇撒勒迦、佇全巴珊,到基述人佮瑪迦提人的界;閣基列的一半,是希實本王西宏的界。",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "閣統治"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇…山"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "赫珥門"
+    },
+    {
+      "surface": "ובסלכה",
+      "gloss": "佇撒勒迦"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "閣佇全"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "界"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "基述人的"
+    },
+    {
+      "surface": "והמעכתי",
+      "gloss": "佮瑪迦提人的"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "閣…的一半"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "界"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "西宏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "希實本"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:31.493444143Z",
+  "model": "glm-5.3"
+}

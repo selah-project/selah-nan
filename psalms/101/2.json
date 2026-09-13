@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 101,
+  "translation": "我欲致意行完全的路——啥物時陣你才欲來我遮?我欲用純全的心,佇我的厝內中來行。",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "我欲致意"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "行路"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全的"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "你才欲來"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "我欲行"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "用純全"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…內中"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "我的厝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:57.810874758Z",
+  "model": "glm-5.3"
+}

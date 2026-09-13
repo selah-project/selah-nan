@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "亞伯拉罕對遐啟行去南方的地,徛佇加低斯佮書爾中間,寄旅佇基拉耳。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "啟行"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "去…的地"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南方"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "加低斯"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "שור",
+      "gloss": "書爾"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "寄旅"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "佇基拉耳"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:28.487412712Z",
+  "model": "glm-5.3"
+}

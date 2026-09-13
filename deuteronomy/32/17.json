@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "𪜶獻祭佇惡鬼,毋是獻佇以羅欣;獻佇𪜶毋捌的神,對近旁新來的,恁的祖先嘛毋驚𪜶。",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "佇惡鬼"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "神"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "捌𪜶"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "新的"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "對近旁"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "驚𪜶"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "恁的祖先"
+    }
+  ],
+  "timestamp": "2026-09-12T06:25:02.329741335Z",
+  "model": "glm-5.3"
+}

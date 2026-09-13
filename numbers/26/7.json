@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 26:7",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "諸個是呂便人的宗族,𪜶被點算的,三萬四千閣七百閣三十。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "呂便人"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "𪜶是"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "被點算的"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "閣七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "閣三十"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:28.781813944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "穿彩繡的衫,伊會予人帶入來到王遐;佇伊後壁的處女,伊的同伴,攏予人帶入來到你遐。",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "彩繡的"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "予人帶入來"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "到王"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "處女"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "佇伊後壁"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "攏予人帶入來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "到你遐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:12.572694152Z",
+  "model": "glm-5.3"
+}

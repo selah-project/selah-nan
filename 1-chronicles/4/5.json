@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "亞施戶⟨是⟩提哥亞的父親,伊有兩个某,就是希拉佮拿拉。",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "亞施戶"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "的父親"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "提哥亞"
+    },
+    {
+      "surface": "היו",
+      "gloss": "有"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "某"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "希拉"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "佮拿拉"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:17.657460618Z",
+  "model": "glm-5.3"
+}

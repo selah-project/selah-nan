@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "安靜,著知我就是以羅欣:我佇列國中受高舉,佇地上受高舉。",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "安靜"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "著知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "受高舉"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "受高舉"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:38.640225863Z",
+  "model": "glm-5.3"
+}

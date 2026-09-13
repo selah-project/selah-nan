@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我受苦到極矣,雅威啊,照祢——照你的話互我活起來。",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "我受苦"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "互我活起來"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "照你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:00.059024396Z",
+  "model": "glm-5.3"
+}

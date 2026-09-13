@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 12:18",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "彼時,亞蘭的王哈薛上來攻打迦特,掠著伊;哈薛設定伊的面,欲上去耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "攻打"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "掠著伊"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "設定"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "欲上去"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:42.080100879Z",
+  "model": "glm-5.3"
+}

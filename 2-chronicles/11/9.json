@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩亞多拉因、⟨את⟩拉基施、閣⟨את⟩亞細迦,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞多拉因"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "亞多拉因"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "拉基施"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "拉基施"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞細迦"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "亞細迦"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:00.997779675Z",
+  "model": "glm-5.3"
+}

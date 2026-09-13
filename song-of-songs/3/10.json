@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊用銀做轎仔的柱仔,坐墊用金,座椅用紫色,內底鑲滿愛情,是耶路撒冷的諸個查某囡仔做的。",
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "伊的柱仔"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "伊的坐墊"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "伊的座椅"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "紫色"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "伊的內底"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "鑲滿"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "愛情"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "對…的諸個查某囡仔"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:13.154387705Z",
+  "model": "glm-5.3"
+}

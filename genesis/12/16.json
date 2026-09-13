@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "因為伊的緣故,法老善待亞伯蘭;伊就有羊、牛、公驢、奴僕、婢女、母驢佮駱駝。",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "善待"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "因為伊的緣故"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "公驢"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "母驢"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "駱駝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:26.614328563Z",
+  "model": "glm-5.3"
+}

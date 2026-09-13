@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "所以我已經對以利的家發誓:以利的家的罪惡,用獻祭佮供物,永遠袂得贖。",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "我發誓"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "袂得贖"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪惡"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…的家"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "用獻祭"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "佮用供物"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:13.729531536Z",
+  "model": "glm-5.3"
+}

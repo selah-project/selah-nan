@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "恁欲事奉⟨את⟩雅威恁的以羅欣,伊欲祝福⟨את⟩恁的餅佮⟨את⟩恁的水,閣我欲對恁的中間除去病症。",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "恁欲事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "伊欲祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的餅"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "恁的餅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "恁的水"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "恁的水"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "閣我欲除去"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "病症"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "對恁的中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:32.785797335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威以羅欣命令彼個人,講:「園內逐欉樹的果子,你通食,的確通食。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對逐項"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "彼個園"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "的確通食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:39.872234988Z",
+  "model": "glm-5.3"
+}

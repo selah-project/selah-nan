@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我的兄弟悖逆我,親像旱溪,親像溪流的水道,過去就無去矣。",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "我的兄弟"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "旱溪"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "親像水道"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "過去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:37.520058084Z",
+  "model": "glm-5.3"
+}

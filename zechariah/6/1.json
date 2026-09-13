@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 6:1",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣我倒轉來,舉我的目睭,閣看見,看啊,有四輛馬車對兩座山中間出來,閣彼兩座山是銅的山。",
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "閣我倒轉來"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "閣我舉起"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "閣我看見"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "馬車"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "出來"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩座"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "閣彼座山"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "…的山"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:59.831028248Z",
+  "model": "glm-5.3"
+}

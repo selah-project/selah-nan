@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "因為審判欲越轉來公義,佇伊後面,心正直的人攏總跟隨。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עד",
+      "gloss": "越"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "轉來"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "佇伊後面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:43.532119695Z",
+  "model": "glm-5.3"
+}

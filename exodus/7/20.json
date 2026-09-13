@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "摩西佮亞倫就照雅威所命令的按呢做;伊用柺仔舉起,拍⟨את⟩彼啲佇河裡的水,佇法老佮伊的奴僕的目睭前;佇河裡所有的水攏變做血。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "…做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "用柺仔"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "拍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼啲佇河裡的水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "彼啲水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "河裡"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "佇…的目睭前"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "佮佇…的目睭前"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "攏變做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "המים",
+      "gloss": "…的水"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "河裡"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "血"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:44.534874642Z",
+  "model": "glm-5.3"
+}

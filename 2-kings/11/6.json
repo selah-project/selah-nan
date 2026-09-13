@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "第三个徛佇蘇爾門,第三个徛佇彼个衛兵後壁的門,恁著看守⟨את⟩殿的職守,做屏障。",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "第三个"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇…門"
+    },
+    {
+      "surface": "סור",
+      "gloss": "蘇爾"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "第三个"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇…門"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "後壁"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "衛兵"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "恁著看守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "職守"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "職守"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "屏障"
+    }
+  ],
+  "timestamp": "2026-09-13T06:29:50.616372855Z",
+  "model": "glm-5.3"
+}

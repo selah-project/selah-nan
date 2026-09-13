@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "一直到阮尋著一个所在予雅威,尋著居所予雅各的大能者。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "阮尋著"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "一个所在"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "居所"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "予大能者"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.885736604Z",
+  "model": "glm-5.3"
+}

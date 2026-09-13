@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "閣以羅欣是阮的王,對古早以先,行拯救佇大地中央。",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "閣以羅欣"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "阮的王"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "對古早以先"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "行"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中央"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.867605264Z",
+  "model": "glm-5.3"
+}

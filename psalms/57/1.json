@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "予伶長,照「毋通毀壞」;大衛的米克坦,佇伊對掃羅的面走閃、佇山穴裡的時。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "予伶長"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "米克坦"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "佇伊走閃的時"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "佇山穴裡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:51.463359133Z",
+  "model": "glm-5.3"
+}

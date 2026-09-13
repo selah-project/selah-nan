@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "阿多奈講:「對巴珊我欲轉回,對海的深處我欲轉回。」",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "對巴珊"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我欲轉回"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "我欲轉回"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "對…的深處"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:05.691416388Z",
+  "model": "glm-5.3"
+}

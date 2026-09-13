@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "看啊我,我欲責備對恁⟨את⟩恁的後裔,我欲撒糞佇恁的面,就是恁節期的糞,伊欲擄⟨את⟩恁去做伊的。",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看啊我"
+    },
+    {
+      "surface": "גער",
+      "gloss": "我欲責備"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的後裔"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "恁的後裔"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "我欲撒"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "糞"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "恁的面"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "糞"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "恁的節期"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "伊欲擄"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "去做伊的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:10.733809797Z",
+  "model": "glm-5.3"
+}

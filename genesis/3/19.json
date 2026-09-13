@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇你面的汗中你欲食飯,直到你倒轉去土地,因為你對伊受提來;因為你是塗粉,閣到塗粉你欲倒轉去。",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "佇…的汗中"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "你欲食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "飯"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "你倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "你受提來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塗粉"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塗粉"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "你欲倒轉去"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:30.018658464Z",
+  "model": "glm-5.3"
+}

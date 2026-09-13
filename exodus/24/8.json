@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "摩西提⟨את⟩血,灑佇百姓身上,講:「看啊,這是約的血,是雅威照這一切話佮恁所立的。」",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "摩西提"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "灑"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……身上"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "立"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:44.756914895Z",
+  "model": "glm-5.3"
+}

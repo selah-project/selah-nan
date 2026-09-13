@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "雅威佇西奈山對摩西講話,講:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講:"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:14.537600984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我子仔,遵守你老父的誡命,毋通放棄你老母的律法;",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我子仔"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老父的"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你老母的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:27.586127505Z",
+  "model": "glm-5.3"
+}

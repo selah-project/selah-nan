@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "用長歲日我欲互伊食予飽,我欲互伊看著我的救。",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "歲日"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "我欲互伊食予飽"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "我欲互伊看著"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "我的救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:32.674346511Z",
+  "model": "glm-5.3"
+}

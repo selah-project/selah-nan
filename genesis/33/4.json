@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "以掃走去迎接伊,抱牢伊,伏佇伊的頷頸頂,啄伊,𪜶就哮矣。",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "走"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "去迎接伊"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "抱牢伊"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "伏落"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "伊的頷頸"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "啄伊"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "𪜶就哮矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:20.631425926Z",
+  "model": "glm-5.3"
+}

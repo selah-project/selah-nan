@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "彼時伊欲佇伊的受氣中對𪜶講話,嘛欲佇伊的烈怒中互𪜶驚惶。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "佇伊的受氣中"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "嘛佇伊的烈怒中"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "互𪜶驚惶"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:29.329352531Z",
+  "model": "glm-5.3"
+}

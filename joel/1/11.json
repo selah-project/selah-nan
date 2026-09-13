@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "農夫見笑矣,顧葡萄園的人為著小麥佮為著大麥咧哀吼,因為田園的收成無去矣。",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "見笑矣"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "農夫"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "咧哀吼"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "顧葡萄園的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "小麥"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮為著"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "無去"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "收成"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田園"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:41.885483801Z",
+  "model": "glm-5.3"
+}

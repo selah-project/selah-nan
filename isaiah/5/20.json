@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "禍哉𪜮講歹做好的,講好做歹的;𪜶將暗暗做光,將光做暗暗;𪜶將苦做甜,將甜做苦。",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "𪜮講"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "𪜶將…做"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "暗暗"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "光"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "暗暗"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "𪜶將…做"
+    },
+    {
+      "surface": "מר",
+      "gloss": "苦"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "甜"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "甜"
+    },
+    {
+      "surface": "למר",
+      "gloss": "苦"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:11.101009223Z",
+  "model": "glm-5.3"
+}

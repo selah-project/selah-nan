@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "大衛拍⟨את⟩哈大底謝 —— 羅宏的後生、瑣巴的王 —— 佇伊去欲恢復伊的手佇彼條河邊的時。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "拍"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈大底謝"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "哈大底謝"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "羅宏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "瑣巴"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "佇伊去"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "欲恢復"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "佇彼條河"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:02.534104503Z",
+  "model": "glm-5.3"
+}

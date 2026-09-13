@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "受咒詛的是彼个提賄賂、欲拍死性命——無辜之血——的人;規個百姓攏欲講:阿門。",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "受咒詛"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "賄賂"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "欲拍死"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "攏欲講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿門"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:42.112603460Z",
+  "model": "glm-5.3"
+}

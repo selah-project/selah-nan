@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "佇海中有你的路,你的路徑佇大水內,你的腳跡無人知。",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "佇海中"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的路"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "你的路徑"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇大水內"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "大"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "你的腳跡"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "人知"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:59.816827204Z",
+  "model": "glm-5.3"
+}

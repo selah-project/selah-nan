@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "咱的以羅欣雅威也將⟨את⟩巴珊王噩佮⟨את⟩伊全部的百姓交佇咱的手中;咱就拍伊,拍到無留一個倖存的人互伊。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "就交"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "佇咱的手中"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "噩"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "噩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊全部的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "咱就拍伊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "無"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "留"
+    },
+    {
+      "surface": "לו",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "倖存的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:00.805336711Z",
+  "model": "glm-5.3"
+}

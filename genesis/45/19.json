@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "「你嘛受命令,這樣做:對米茲拉因(埃及)的地給恁牽車仔,予恁的囡仔佮恁的某仔,恁扛⟨את⟩恁的老爸,來。」",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "受命令"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這樣"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "牽"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "給恁"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "車仔"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "恁的囡仔"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "佮恁的某仔"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "恁扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的老爸"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "恁的老爸"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "來"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:21.540228338Z",
+  "model": "glm-5.3"
+}

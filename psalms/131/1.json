@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 131,
+  "translation": "上爬之歌,大衛的。雅威啊,我的心無懸傲,我的目睭嘛無懸高;我嘛無行佇大代誌,佮對我來講傷過奇妙的事。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "之歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上爬"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "懸傲"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "懸高"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "我行"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "佇大代誌"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "佮奇妙的事"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我來講"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:48.430612976Z",
+  "model": "glm-5.3"
+}

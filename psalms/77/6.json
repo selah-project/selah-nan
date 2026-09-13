@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "阮數念過往的日子,遠古的年代。",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "阮數念"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "過往"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "年代"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "遠古"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:47.941655966Z",
+  "model": "glm-5.3"
+}

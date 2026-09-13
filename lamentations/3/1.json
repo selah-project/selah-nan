@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我就是彼个男士,看見過苦難,佇管教的杖、佇伊的受氣之下。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "彼个男士"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見過"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦難"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "佇管教的杖"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "伊的受氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:09.236526235Z",
+  "model": "glm-5.3"
+}

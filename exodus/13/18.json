@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "以羅欣導 ⟨את⟩ 百姓紡路行曠野、蘆葦海的路;以色列的子兒照武裝對米茲拉因的地上去。",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "導……紡路"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "照武裝"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上去"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對……的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:58.722966944Z",
+  "model": "glm-5.3"
+}

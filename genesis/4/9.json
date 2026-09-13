@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "雅威對該隱講:「你的兄弟亞伯佇佗位?」伊講:「我毋知;我敢是我兄弟的看守者?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "אי",
+      "gloss": "佗位"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "亞伯"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "看守者"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我的兄弟"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:49.420192886Z",
+  "model": "glm-5.3"
+}

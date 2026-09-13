@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "彼啲看守空虛虛妄的人，𪜶家己的赫瑟德會放棄。",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "看守的人"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "空虛的"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "虛妄"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "𪜶的赫瑟德"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "會放棄"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:55.198344529Z",
+  "model": "glm-5.3"
+}

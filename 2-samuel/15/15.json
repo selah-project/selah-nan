@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "王的奴僕對王講:「照我主王所揀的一切,你看,𪜶就是你的奴僕。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "……講"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "……的奴僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "所揀"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:31.696624681Z",
+  "model": "glm-5.3"
+}

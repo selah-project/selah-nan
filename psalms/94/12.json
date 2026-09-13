@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "「按呢快樂——彼个人,雅所管教伊的,閣對你的律法教示伊的!」",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "按呢快樂"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(關係詞)伊"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "雅所管教伊的"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "對你的律法"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "教示伊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:54.825260936Z",
+  "model": "glm-5.3"
+}

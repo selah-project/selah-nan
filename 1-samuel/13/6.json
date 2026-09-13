@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "以色列人看見家己陷落逆境,因為人民受壓迫,就躲佇洞穴、佇刺竹埔、佇石磐、佇瞭望台佮佇坑仔內。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣人人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צר",
+      "gloss": "陷落逆境"
+    },
+    {
+      "surface": "לו",
+      "gloss": "家己"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "受壓迫"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "就躲"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "佇洞穴"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "佇刺竹埔"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "佇石磐"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "佇瞭望台"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "佇坑仔"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:50.420969471Z",
+  "model": "glm-5.3"
+}

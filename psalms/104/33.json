@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "我欲佇我的活命咧唱歌予雅威,佇我猶佇的時陣彈琴讚美我的以羅欣。",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "我欲唱歌"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "佇我的活命"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我欲彈琴讚美"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "予我的以羅欣"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "佇我猶佇的時陣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:43.871382827Z",
+  "model": "glm-5.3"
+}

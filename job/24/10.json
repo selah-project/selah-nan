@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "𪜶赤身無衫通穿咧行,枵的人扛起禾捆。",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "赤身"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "咧行"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "衫"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "閣枵的人"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "扛起"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "禾捆"
+    }
+  ],
+  "timestamp": "2026-09-12T05:27:14.887327338Z",
+  "model": "glm-5.3"
+}

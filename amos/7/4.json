@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 7:4",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "阿多奈雅威閣按呢互我看見;看啊,阿多奈雅威咧喊叫用火來相爭,火吞食⟨את⟩大深淵,嘛欲吞食⟨את⟩彼份地。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "互我看見"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "喊叫"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大深淵"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "嘛欲吞食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼份地"
+    },
+    {
+      "surface": "החלק",
+      "gloss": "彼份地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:42.878484076Z",
+  "model": "glm-5.3"
+}

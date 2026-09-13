@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "𪜶對疏割啟程,紮營佇以倘,佇曠野的邊界。",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "啟程"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "對疏割"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "紮營"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "佇以倘"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "佇……的邊界"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:58.723443956Z",
+  "model": "glm-5.3"
+}

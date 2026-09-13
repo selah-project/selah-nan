@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣兩條純金的索仔,照邊仔的做法,你欲做⟨את⟩𪜶,做索仔的作品;閣你欲下⟨את⟩彼條索仔佇鑲嵌座頂。",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "閣兩條"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "索仔"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "照邊仔的做法"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "作品"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "索仔"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "閣你欲下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼條索仔"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "索仔"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "彼條編索的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "鑲嵌座"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:06.560660838Z",
+  "model": "glm-5.3"
+}

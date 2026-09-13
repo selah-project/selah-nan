@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "祭司中間見若男的,攏通食⟨את⟩伊;伊是至聖的。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男的"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "佇祭司中間"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "至聖"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:54.891763963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願討數的設網羅掠伊所有的一切,外人搶奪伊的勞碌所得。",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "設網羅"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "討數的"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對所有"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…--的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "佮搶奪"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外人"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "伊的勞碌所得"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:09.427553590Z",
+  "model": "glm-5.3"
+}

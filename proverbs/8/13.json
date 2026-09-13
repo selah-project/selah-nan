@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 8:13",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "敬畏雅威就是怨恨歹;驕傲、倨傲、歹的路,佮反覆無常的喙,我攏怨恨。",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "וגאון",
+      "gloss": "佮倨傲"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "佮路"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "佮喙"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "反覆無常的"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "我怨恨"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:50.955686338Z",
+  "model": "glm-5.3"
+}

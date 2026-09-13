@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 2:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "人會走入石磐的洞穴,佮土粉內底的地窟,對雅威的驚惶、對伊威嚴的光彩面前,因為伊欲起來搖動大地。",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "會走入"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "洞穴"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "石磐的"
+    },
+    {
+      "surface": "ובמחלות",
+      "gloss": "佮地窟"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土粉內底的"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "對…光彩"
+    },
+    {
+      "surface": "גאונו",
+      "gloss": "伊威嚴的"
+    },
+    {
+      "surface": "בקומו",
+      "gloss": "伊起來"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:04.559386794Z",
+  "model": "glm-5.3"
+}

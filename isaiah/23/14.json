@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "號啕啊,他施的船,因為恁的堡壘已經被毀壞矣。",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "號啕啊"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "船"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "他施"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "被毀壞"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "恁的堡壘"
+    }
+  ],
+  "timestamp": "2026-09-13T04:52:04.224082563Z",
+  "model": "glm-5.3"
+}

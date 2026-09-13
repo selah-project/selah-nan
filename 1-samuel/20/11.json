@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "約拿單對大衛講:「你來,咱出去田裡。」兩个人就行出去田裡。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "你來"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "咱出去"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "就行出去"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "兩个人"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:27.221794474Z",
+  "model": "glm-5.3"
+}

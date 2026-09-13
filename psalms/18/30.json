@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "因為靠你我會衝過軍隊,靠我的以羅欣我會跳過城牆。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בך",
+      "gloss": "靠你"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "我會衝"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "過軍隊"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "閣靠我的以羅欣"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "我會跳"
+    },
+    {
+      "surface": "שור",
+      "gloss": "過城牆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:43.320117562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為逐雙踏佇吵鬧內的戰靴,佮逐領捲佇血裡的衫褲,攏欲做燒毀之物,做火所食的柴。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "戰靴"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "踏"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "佇吵鬧內"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "佮…衫褲"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "捲"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "佇血裡"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "攏欲做"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "燒毀之物"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "所食的柴"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:42.424586588Z",
+  "model": "glm-5.3"
+}

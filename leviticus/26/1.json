@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "恁毋通家己造偶像,抑是雕刻的像佮石柱,恁毋通家己徛起來;閣用圖樣的石頭,恁毋通下佇恁的土地,欲向伊跪拜:因為我是雅威,恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "造"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁家己"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "閣雕刻的像"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "佮石柱"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "徛起來"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁家己"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "閣用石頭"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "有圖樣的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "下"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "佇恁的土地"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "欲跪拜"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:31.406078153Z",
+  "model": "glm-5.3"
+}

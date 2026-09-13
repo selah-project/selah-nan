@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊予伊落佇營的中間,佇𪜶帳棚的四圍。",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "伊予…落"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…的中間"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "伊的營"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "佇𪜶帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:24.006238249Z",
+  "model": "glm-5.3"
+}

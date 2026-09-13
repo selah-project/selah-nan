@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "寧可予失子的熊抵著人,嘛毋通抵著佇伊愚戇中的戇愚人。",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "抵著"
+    },
+    {
+      "surface": "דב",
+      "gloss": "熊"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "失子的"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "戇愚人"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "佇伊的愚戇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:01.160014758Z",
+  "model": "glm-5.3"
+}

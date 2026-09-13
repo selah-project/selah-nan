@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你欲食的糧食,照重量二十舍客勒做一日,對時到時你欲食伊。",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "你的糧食"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "你欲食的"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "照重量"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "做一日"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "對時"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "你欲食伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:43.859916018Z",
+  "model": "glm-5.3"
+}

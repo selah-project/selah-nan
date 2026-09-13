@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "恁中間啥人會側耳聽這個?啥人會注意聽,來聽後來的事?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "恁中間"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "側耳聽"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "注意聽"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "來聽"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "後來的事"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:46.308344809Z",
+  "model": "glm-5.3"
+}

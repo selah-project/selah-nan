@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「你著吩咐⟨את⟩彼抬見證櫃的祭司,講:『𪜶著對約旦河上來。』」",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "著吩咐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼抬見證櫃的祭司"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "抬…的"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "見證"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "𪜶著上來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:17.516179805Z",
+  "model": "glm-5.3"
+}

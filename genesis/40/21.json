@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊閣恢復 ⟨את⟩ 斟酒的頭目到伊的斟酒職位,閣將杯囥佇法老的手掌。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "閣恢復"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "斟酒的頭目"
+    },
+    {
+      "surface": "שר",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "斟酒的"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "伊的斟酒職位"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "將…交付"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כף",
+      "gloss": "手掌"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:17.474473079Z",
+  "model": "glm-5.3"
+}

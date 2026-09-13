@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "聽我,追求公義、尋求雅威的人:著看恁對佗位被鑿出來的彼个磐石,閣看恁對佗位被掘出來的鑿坑。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "追求(公義)的"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "尋求(雅威)的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "著看"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "恁被鑿出來"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣向"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "鑿坑"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "恁被掘出來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:22.766002942Z",
+  "model": "glm-5.3"
+}

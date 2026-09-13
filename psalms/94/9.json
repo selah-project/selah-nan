@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "栽種耳仔的,豈無聽見嗎?塑造目睭的,豈無看出嗎?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "栽種……的"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈無"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "塑造"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈無"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "看出"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:14.297886162Z",
+  "model": "glm-5.3"
+}

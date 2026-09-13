@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 13:11",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "她瑪捧倚近伊欲予伊食,伊就抓住伊,對伊講:「來,佮我睏,我的小妹。」",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "捧倚近"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "欲予伊食"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "就抓住"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "בואי",
+      "gloss": "來"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "睏"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "我的小妹"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:52.391561162Z",
+  "model": "glm-5.3"
+}

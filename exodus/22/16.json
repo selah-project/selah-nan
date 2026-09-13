@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若伊的老爸真堅持毋肯將伊嫁互伊,伊著照處女的聘金秤銀。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "真堅持毋肯"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "毋肯"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "將伊嫁"
+    },
+    {
+      "surface": "לו",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "著…秤"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "照…聘金"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "處女的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:51.838073070Z",
+  "model": "glm-5.3"
+}

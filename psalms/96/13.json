@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "佇雅威面前,因為伊來矣,因為伊來欲審判全地;伊欲用公義審判世界,用伊的信實審判萬族的人。",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בא",
+      "gloss": "伊來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בא",
+      "gloss": "伊來"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "欲審判"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "全地"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "伊欲審判"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "用公義"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "萬族的人"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "用伊的信實"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:06.323883862Z",
+  "model": "glm-5.3"
+}

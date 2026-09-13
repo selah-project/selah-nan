@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "𪜶佇隱多珧滅無去,變做糞土歸佇土腳。",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "滅無去"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "佇…隱"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "多珧"
+    },
+    {
+      "surface": "היו",
+      "gloss": "變做"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "糞土"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "歸佇土腳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:58.555912501Z",
+  "model": "glm-5.3"
+}

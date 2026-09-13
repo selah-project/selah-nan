@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "閣你欲給會幕做 ⟨את⟩ 遮的板仔,用皂莢木做的,徛咧。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "閣你欲…做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮的板仔"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "遮的板仔"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "給會幕"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "…的柴"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢木"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "徛咧"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:20.787337838Z",
+  "model": "glm-5.3"
+}

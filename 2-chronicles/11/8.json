@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩迦特、⟨את⟩瑪利沙、閣⟨את⟩西弗,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "迦特"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "瑪利沙"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "瑪利沙"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "西弗"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "西弗"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:57.705021504Z",
+  "model": "glm-5.3"
+}

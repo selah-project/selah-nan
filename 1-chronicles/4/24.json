@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "西緬的後生是尼母利、雅憫、雅立、謝拉、沙烏勒。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "尼母利"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "雅憫"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "雅立"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "謝拉"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "沙烏勒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:40.556979722Z",
+  "model": "glm-5.3"
+}

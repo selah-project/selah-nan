@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為十雙牛的葡萄園干焦會出一巴的量,一荷梅的種子干焦會出一伊法的量。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "雙牛"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "會出"
+    },
+    {
+      "surface": "בת",
+      "gloss": "一巴的量"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "的種子"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "一荷梅"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "會出"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "一伊法的量"
+    }
+  ],
+  "timestamp": "2026-09-13T04:36:13.180866562Z",
+  "model": "glm-5.3"
+}

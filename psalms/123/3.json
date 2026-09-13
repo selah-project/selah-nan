@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 123,
+  "translation": "雅威啊,施恩憐憫咱,施恩憐憫咱,因為咱凌辱食甲真飽。",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "施恩憐憫咱"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "施恩憐憫咱"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真(大)"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "咱…食甲飽"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "凌辱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:57.938227474Z",
+  "model": "glm-5.3"
+}

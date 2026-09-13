@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "獨獨對知好佮歹的樹,你毋通食伊,因為你食伊的彼日,你一定會死。」「",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "獨獨對…的樹"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "知"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "佮歹"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "伊(對伊)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的彼日"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "你食"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "伊(對伊)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "一定會死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:25.474239291Z",
+  "model": "glm-5.3"
+}

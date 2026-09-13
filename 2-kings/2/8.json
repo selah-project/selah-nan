@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "以利亞提⟨את⟩伊的外套,將伊捲做伙,拍⟨את⟩水,水就分開,一爿向遮、一爿向遐,𪜶兩个就行過乾地去。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的外套"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "伊的外套"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "捲做伙"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "拍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "水"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "分開"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "向遮"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "向遐"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "就行過去"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "𪜶兩个"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "乾地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:37.155554126Z",
+  "model": "glm-5.3"
+}

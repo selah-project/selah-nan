@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "壯獅因為無掠物就滅亡,母獅的幼仔攏四散。",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "壯獅"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "滅亡"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "因為無"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "掠物"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "佮…的幼仔"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "母獅"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "攏四散"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:59.867145844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「你入去,共門關起來,佇你佮你的囝仔的後面;斟油落去遮个家私,滿的就徙開。」",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "你入去"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "共門關起來"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "門"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "佇你的後面"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "佇……的後面"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的囝仔"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "斟落去"
+    },
+    {
+      "surface": "על",
+      "gloss": "落去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "家私"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "滿的"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "就徙開"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:54.375118863Z",
+  "model": "glm-5.3"
+}

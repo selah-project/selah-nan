@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "因為高升毋是對東方來,嘛毋是對西方來,閣毋是對眾山的曠野來。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "對東方(出路)來"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "嘛毋是對西方來"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋是"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "對曠野"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "眾山"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:02.600330708Z",
+  "model": "glm-5.3"
+}

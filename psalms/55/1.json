@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "互指揮者的,用琴弦的;訓誨詩,大衛的。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者的"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "用琴弦"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:26.389130803Z",
+  "model": "glm-5.3"
+}

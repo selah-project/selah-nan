@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊就懷孕,生一個〈囝〉;伊就給⟨את⟩伊的名叫做珥。",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "伊就懷孕"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個囝"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊就叫……做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "ער",
+      "gloss": "珥"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:17.880347706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "著佇列國中間數念⟨את⟩伊的榮光;佇萬百姓中間傳講伊奇妙的事。",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "著數念"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中間"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的榮光"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇萬"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "百姓中間"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "伊奇妙的事"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:43.426657570Z",
+  "model": "glm-5.3"
+}

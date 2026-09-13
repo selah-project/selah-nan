@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "大衛將⟨את⟩這些話囥佇伊的心內,佇亞吉、迦特王的面前真驚。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "囥"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "這些話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "佇伊的心內"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "真驚"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "佇…的面前"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞吉"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:14.089348378Z",
+  "model": "glm-5.3"
+}

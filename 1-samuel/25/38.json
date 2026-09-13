@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣過了十日了,雅威擊打 ⟨את⟩ 拿八,伊就死矣。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "十"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿八"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "拿八"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "伊就死矣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:12.671529555Z",
+  "model": "glm-5.3"
+}

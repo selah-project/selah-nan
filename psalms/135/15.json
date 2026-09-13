@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "列國的偶像是銀佮金,是人的手所做的。",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國的"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "佮金"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "手"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.346701100Z",
+  "model": "glm-5.3"
+}

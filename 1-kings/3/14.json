@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "你若行佇我的路,欲守我的律例佮我的誡命,親像你阿爸大衛所行的,我就延長⟨את⟩你的日子。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "佇我的路"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "欲守"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "佮我的誡命"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你阿爸"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "我就延長"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的日子"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "你的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:01.207172828Z",
+  "model": "glm-5.3"
+}

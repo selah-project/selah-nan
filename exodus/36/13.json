@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "伊閣做五十个金釦,用釦仔將⟨את⟩幔一頂佮一頂相接,帳幕就做一个。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "釦"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "相接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "幔"
+    },
+    {
+      "surface": "הירעת",
+      "gloss": "幔"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一頂"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一頂"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "用釦仔"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就做"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:57.082132149Z",
+  "model": "glm-5.3"
+}

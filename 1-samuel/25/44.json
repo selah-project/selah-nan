@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "掃羅已經將⟨את⟩伊的查某囡仔米甲——大衛的某——給帕提,伊是拉億的兒子,對加琳來的。",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "已經將……給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米甲"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "米甲"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "伊的查某囡仔"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "的某"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "帕提"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的兒子"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "拉億"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "對加琳來的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:04.197954582Z",
+  "model": "glm-5.3"
+}

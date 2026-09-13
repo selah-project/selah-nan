@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "馬救人脫險是假的,靠伊的大力氣,伊袂救任何人。",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "假的"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "救人脫險"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "靠……的多多"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "力氣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "救任何人脫離"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:22.759202162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "我佇眠床頂紀念汝,佇夜間的更次,我默念汝。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "當……的時"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "我紀念汝"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "我的眠床"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "佇夜間的更次"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "我默念"
+    },
+    {
+      "surface": "בך",
+      "gloss": "汝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:52.214538319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "露水的躺臥層升上去的時,看啊,佇曠野的面頂有一項幼幼、親像鱗片款的物,幼幼親像地上的白霜。",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "升上去"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "躺臥層"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "露水"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頂"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "דק",
+      "gloss": "幼幼"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "親像鱗片款的物"
+    },
+    {
+      "surface": "דק",
+      "gloss": "幼幼"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "親像白霜"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:46.821132771Z",
+  "model": "glm-5.3"
+}

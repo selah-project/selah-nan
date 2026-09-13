@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊講:「你做的是啥物?你兄弟的血的聲對⟨彼個⟩土嚷到我遮。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你做的"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "嚷"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:49.421203264Z",
+  "model": "glm-5.3"
+}

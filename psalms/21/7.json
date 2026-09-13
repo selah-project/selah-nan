@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "因為你設伊做祝福到永遠;你用你的面前的歡喜予伊快樂 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "你設伊"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "做祝福"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "予伊快樂"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "用歡喜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的面前"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:56.628882578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "雅各對約瑟講:「以勒沙代(就是全足的以勒)佇路斯、佇迦南地顯現互我看,伊祝福⟨את⟩我。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "互我看"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "佇路斯"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "伊祝福"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:42.945556624Z",
+  "model": "glm-5.3"
+}

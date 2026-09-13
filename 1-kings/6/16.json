@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣伊佇厝的後尾用香柏的枋仔建造⟨את⟩二十肘,對地板到壁;閣伊佇內面為著伊建造做內殿(得比珥),就是彼至聖的所在。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "閣伊建造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "二十肘"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "對…的後尾"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "用…的枋仔"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏木"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "彼個地板"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "彼个壁"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "閣伊建造"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為著伊"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "佇內面"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "做內殿(得比珥)"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "做聖"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "彼至聖的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:06.047586011Z",
+  "model": "glm-5.3"
+}

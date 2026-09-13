@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "恁毋通佇審判、佇尺寸、佇重量、閣佇量器的頂面行毋公道。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁行"
+    },
+    {
+      "surface": "עול",
+      "gloss": "毋公道"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "佇審判"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "佇尺寸"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "佇重量"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "閣佇量器"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:08.513861946Z",
+  "model": "glm-5.3"
+}

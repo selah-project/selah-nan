@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "田野被毀壞,土地咧哀悼,因為五穀被毀壞,新酒枯焦去,油嘛衰弱。",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "被毀壞"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "咧哀悼"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "被毀壞"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "枯焦去"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "新酒"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "衰弱"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "油"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:41.885289230Z",
+  "model": "glm-5.3"
+}

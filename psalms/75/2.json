@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "阮感謝你,以羅欣;阮感謝,因為你的名近在;眾人述說你的奇事。",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "阮感謝"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "阮感謝"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "因為……近在"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "眾人述說"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "你的奇事"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:07.602033577Z",
+  "model": "glm-5.3"
+}

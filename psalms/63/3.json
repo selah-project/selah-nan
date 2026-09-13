@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "按呢我佇聖所看見汝,欲看見汝的氣力佮汝的榮光。",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇聖所"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "我看見汝"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看見"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "汝的氣力"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "佮汝的榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:02.914163025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊佇遐起一座祭壇,共伊號名做以勒·以羅欣·以色列。",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "號名"
+    },
+    {
+      "surface": "לו",
+      "gloss": "共伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:16.736598956Z",
+  "model": "glm-5.3"
+}

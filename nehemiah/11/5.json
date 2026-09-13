@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣瑪阿西雅是巴錄的子,巴錄是坷珥曷昕的子,坷珥曷昕是哈扎雅的子,哈扎雅是阿大雅的子,阿大雅是約雅立的子,約雅立是撒迦利亞的子,撒迦利亞是示拉族的。",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "閣瑪阿西雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "巴錄"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "כל",
+      "gloss": "坷珥"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "曷昕"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "哈扎雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "阿大雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "約雅立"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "撒迦利亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "示拉族的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:33.630766289Z",
+  "model": "glm-5.3"
+}

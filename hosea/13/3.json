@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "所以𪜶欲親像早起的雲,親像透早就消散的露,親像對打穀場予風吹走的糠粃,親像對窗仔出去的煙。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲親像"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "親像…雲"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早起的"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "親像露"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "透早"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "消散"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "親像糠粃"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "予風吹走"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "對打穀場"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "親像煙"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "對窗仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:01.760327121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩哈科斯(小鴞)佮⟨את⟩哈沙拉克(鸕鶿)佮⟨את⟩哈雅乃舒夫(大鴞),",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "哈科斯"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "哈科斯(小鴞)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "哈沙拉克"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "哈沙拉克(鸕鶿)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "哈雅乃舒夫"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "哈雅乃舒夫(大鴞)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:35.064556145Z",
+  "model": "glm-5.3"
+}

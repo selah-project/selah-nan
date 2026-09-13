@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 29:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "佇彼个日,臭耳聾的人欲聽著冊內底的話,對暗暗佮烏暗中間,青盲人的目睭欲看見。",
+  "tokens": [
+    {
+      "surface": "ושמעו",
+      "gloss": "欲聽著"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼个日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "臭耳聾的人"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "ומאפל",
+      "gloss": "對暗暗"
+    },
+    {
+      "surface": "ומחשך",
+      "gloss": "佮烏暗"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "青盲人的"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "欲看見"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:16.805580716Z",
+  "model": "glm-5.3"
+}

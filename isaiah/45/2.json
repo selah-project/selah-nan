@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "我欲行佇你面前,我欲互彎曲的所在變直;我欲拍破銅門,我欲砍斷鐵閂。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "佮彎曲的所在"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "我欲互…變直"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "門"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "銅的"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "我欲拍破"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "佮…的閂"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "我欲砍斷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:13.597453754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊閣囥佇我的喙內新的歌,就是對咱的以羅欣的讚美;真多人欲看見,閣敬畏,閣倚靠雅威。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "伊閣囥"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "佇我的喙內"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "對咱的以羅欣"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "欲看見"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真多人"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "閣敬畏"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "閣倚靠"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:54.127090852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "亦毋通倚近任何死人的身軀;為著伊的老爸、為著伊的老母,伊攏毋通互家己汙穢。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "亦倚"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "人的性命"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "接近"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "為著伊的老爸"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "佮為著伊的老母"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "互家己汙穢"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:40.154569588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "恁予⟨את⟩拿細耳人啉酒,閣對先知命令,講:「毋通講預言。」",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "恁予…啉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿細耳人"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "拿細耳人"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "先知"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "恁命令"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "講預言"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:50.285775964Z",
+  "model": "glm-5.3"
+}

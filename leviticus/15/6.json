@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佮彼個坐佇器具頂面──彼個患漏症的人所坐的──的人,著洗伊的衫,佮佇水底洗身軀,就無清氣到暗頭。",
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "佮彼個坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "彼個器具"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "患漏症的人"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "著洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "佮洗身軀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水底"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "就無清氣"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗頭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:41.293474729Z",
+  "model": "glm-5.3"
+}

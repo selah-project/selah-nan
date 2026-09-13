@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "智慧諸查某人起造伊的家;愚戇的用伊的雙手拆毀伊。",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "諸查某人"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "佮愚戇"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "用伊的雙手"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "拆毀伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:47.821745387Z",
+  "model": "glm-5.3"
+}

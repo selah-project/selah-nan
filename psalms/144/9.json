@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "以羅欣啊,新的歌我欲唱予你;用十絃的琴我欲彈奏予你。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我欲唱"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "用琴"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "十絃"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我欲彈奏"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:55.281492232Z",
+  "model": "glm-5.3"
+}

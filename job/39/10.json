@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "你敢會當用繩索共伊縛佇犁溝?抑是伊敢會佇你後面犁過山谷?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "敢會當…縛"
+    },
+    {
+      "surface": "רים",
+      "gloss": "伊(野牛)"
+    },
+    {
+      "surface": "בתלם",
+      "gloss": "佇犁溝"
+    },
+    {
+      "surface": "עבתו",
+      "gloss": "用繩索"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "敢會犁過"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "佇你後面"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:34.372730994Z",
+  "model": "glm-5.3"
+}

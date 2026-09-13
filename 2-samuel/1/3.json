@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "大衛問伊講:「你對佗位來的?」伊應講:「我對以色列的營走閃出來。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אי",
+      "gloss": "佗位"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "對遮"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "你來"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "對營"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "我走閃出來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:23.407460595Z",
+  "model": "glm-5.3"
+}

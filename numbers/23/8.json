@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "我欲咒詛啥物人,倘使以勒無咒詛伊?我欲咒怒啥物人,倘使雅威無咒怒伊?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "佮啥物人"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "咒怒"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "咒怒"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:17.355941088Z",
+  "model": "glm-5.3"
+}

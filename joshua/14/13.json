@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "約書亞就祝福伊,將⟨את⟩希伯崙賞互迦勒──耶孚尼的子──做產業。",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "就祝福伊"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "將…賞互"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "希伯崙"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "互迦勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "耶孚尼"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "做產業"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:08.459145161Z",
+  "model": "glm-5.3"
+}

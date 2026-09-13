@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "好名比好香油較好,閣死亡的日子比出世的日子較好。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "שם",
+      "gloss": "好名"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "比好香油"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "閣…的日子"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "比…的日子"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "出世"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:57.498014573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "亞薩的訓誨詩。以羅欣啊,啥物緣故你永遠棄撒⟨阮⟩?啥物緣故你的受氣冒煙,對⟨著⟩你自己牧養的羊群?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "訓誨詩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "你棄撒"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "冒煙"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的受氣"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "對著羊群"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "你自己牧養的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:09.391104302Z",
+  "model": "glm-5.3"
+}

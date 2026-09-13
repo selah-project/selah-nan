@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "列國啊,倚近來聽;諸個百姓啊,斟酌聽;此地佮伊所充滿的欲聽,世界佮伊所生出的一切嘛欲聽。",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "倚近來"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "來聽"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "諸個百姓"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "斟酌聽"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "欲聽"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "佮伊所充滿的"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "伊所生出的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:47.587864470Z",
+  "model": "glm-5.3"
+}

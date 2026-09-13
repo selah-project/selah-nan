@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "雅威對巴比倫、對迦勒底人的地所講的話,藉先知耶利米的手傳出來。",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    }
+  ],
+  "timestamp": "2026-09-12T06:30:56.608402005Z",
+  "model": "glm-5.3"
+}

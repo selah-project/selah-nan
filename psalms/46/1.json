@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "互指揮者,屬可拉的囝仔,照阿拉莫特(少女之聲),一首詩歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "屬…的囝仔"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "阿拉莫特(少女之聲)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首詩歌"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:44.335597485Z",
+  "model": "glm-5.3"
+}

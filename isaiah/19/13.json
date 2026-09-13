@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "瑣安的官長變戇矣,挪弗的官長互人𤆬偏去;𪜶𤆬⟨את⟩米茲拉因(埃及)迷路,做伊眾支派的角石。",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "變戇"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "官長"
+    },
+    {
+      "surface": "צען",
+      "gloss": "瑣安"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "互人𤆬偏去"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "官長"
+    },
+    {
+      "surface": "נף",
+      "gloss": "挪弗"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "𤆬迷路"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "角石"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "伊的眾支派"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:30.703106818Z",
+  "model": "glm-5.3"
+}

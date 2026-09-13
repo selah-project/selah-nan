@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣⟨את⟩以巴、⟨את⟩亞比瑪以勒、⟨את⟩示巴。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以巴"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "以巴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞比瑪以勒"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "亞比瑪以勒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "示巴"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:40.356924597Z",
+  "model": "glm-5.3"
+}

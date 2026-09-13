@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "虛假我怨恨,嘛真厭惡;⟨獨獨⟩你的律法我疼。",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "虛假"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "我怨恨"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "嘛真厭惡"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "你的律法"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我疼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:40.532170848Z",
+  "model": "glm-5.3"
+}

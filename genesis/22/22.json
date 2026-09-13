@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "閣⟨את⟩ 基薛、⟨את⟩ 哈左、⟨את⟩ 皮勒達施、⟨את⟩ 伊勒達夫,閣⟨את⟩ 彼土伊勒。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "基薛"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "基薛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "哈左"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "哈左"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "皮勒達施"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "皮勒達施"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "伊勒達夫"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "伊勒達夫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼土伊勒"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "彼土伊勒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:53.547501540Z",
+  "model": "glm-5.3"
+}

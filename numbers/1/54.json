@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以色列的眾人就照雅威命令⟨את⟩摩西的一切去行,按呢𪜶去行。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "就去行"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "去行"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:10.468949396Z",
+  "model": "glm-5.3"
+}

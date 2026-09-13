@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "閣予佇希伯崙的人,閣予大衛佮伊的隊友以往來過的全部所在。",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "閣予…的人"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "佇希伯崙"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "閣予…全部"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "來往過"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊家己"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "佮伊的隊友"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:15.826851389Z",
+  "model": "glm-5.3"
+}

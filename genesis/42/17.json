@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.3",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "伊就共𪜶收押⟨את⟩監禁三日。",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "伊就共𪜶收押"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(眾兄弟)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "監禁"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-13T06:54:14.355720519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我欲用柺仔責罰𪜶的悖逆,用鞭傷責罰𪜶的過犯。",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "我欲責罰"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用柺仔"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "𪜶的悖逆"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "用鞭傷"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "𪜶的過犯"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:34.939933471Z",
+  "model": "glm-5.3"
+}

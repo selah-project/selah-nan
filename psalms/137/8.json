@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 137,
+  "translation": "巴比倫的查某子啊,彼個受毀滅的!歡喜彼個欲報應你⟨את⟩你的報應 —— 你行佇阮身上的。",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "查某子"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "受毀滅的"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "歡喜…的"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "欲報應"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的報應"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "你的報應"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "你所行的"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "對阮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:11.802885337Z",
+  "model": "glm-5.3"
+}

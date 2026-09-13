@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "四圍歹人咧行來行去,親像卑賤的事佇人的子中間受抬高。",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "咧行來行去"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "親像"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "卑賤的事"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "人的子的"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:58.220479214Z",
+  "model": "glm-5.3"
+}

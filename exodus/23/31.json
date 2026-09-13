@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "我欲設⟨את⟩你的界限，對蘆葦海到非利士人的海，對曠野到彼條河，因為我欲將⟨את⟩彼塊地的居民交佇恁的手，你就對你面頭前趕𪜶出去。",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "我欲設"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的界限"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "你的界限"
+    },
+    {
+      "surface": "מים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人的"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "對曠野"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "彼條河"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲交"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "佇恁的手"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼塊地的居民"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼塊地的"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "你就趕𪜶出去"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "對你面頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:42.390891094Z",
+  "model": "glm-5.3"
+}

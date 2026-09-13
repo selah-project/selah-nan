@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "真濟痛苦歸佇歹人;獨獨倚靠雅威的,赫瑟德欲環抱伊。",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "痛苦"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "倚靠……的"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "環抱伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:53.593266428Z",
+  "model": "glm-5.3"
+}

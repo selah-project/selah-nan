@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 10:23",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶就按呢做,共 ⟨את⟩ 這五个王對穴裡帶出來到伊遮:⟨את⟩ 耶路撒冷王、⟨את⟩ 希伯崙王、⟨את⟩ 耶末王、⟨את⟩ 拉吉王、⟨את⟩ 伊磯倫王。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "𪜶就做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "帶出來"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這五个王"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "五"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "个王"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "穴裡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "希伯崙王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶末王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "耶末"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉吉王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "拉吉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊磯倫王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "伊磯倫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:37.790867576Z",
+  "model": "glm-5.3"
+}

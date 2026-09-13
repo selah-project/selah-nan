@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 16:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "願逐出去的摩押人寄居佇你遐;願你做𪜶的庇所,脫離毀滅者的面;因為暴虐者止矣,毀滅煞矣,踐踏的人對地上無去矣。",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "願寄居"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你遐"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "逐出去的"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押人"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "願做"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "庇所"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "脫離…的面"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "毀滅者"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "止"
+    },
+    {
+      "surface": "המץ",
+      "gloss": "暴虐者"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "煞"
+    },
+    {
+      "surface": "שד",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "無去矣"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "踐踏的人"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:39.166502294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "恁的心欲念著彼个驚惶:抄寫的人佇佗位?過秤的佇佗位?數⟨את⟩彼啲城樓的人佇佗位?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "恁的心"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "欲念著"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "彼个驚惶"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "抄寫的人"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "過秤的"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "數"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼啲城樓"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "彼啲城樓"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:39.522070495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我就講:請恁聽,雅各的頭人,以色列家的官長:豈毋是對恁來知 ⟨את⟩ 法度?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "佮官長"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "法度"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "法度"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:17.662196852Z",
+  "model": "glm-5.3"
+}

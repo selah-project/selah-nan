@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "「願你的工課顯現互你的奴僕看,你的華美徛佇𪜶的子兒身上。」",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "你的工課"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "你的華美"
+    },
+    {
+      "surface": "על",
+      "gloss": "徛佇…頂面"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "𪜶的子兒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:35.960779375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 49:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "猶大,你,你的兄弟欲讚美你;你的手欲按佇你的對敵的頷頸領;你老父的子欲向你落跪拜。",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "你的兄弟欲讚美你"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "בערף",
+      "gloss": "按佇……个頷頸領"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "欲……落跪拜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……个子"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老父"
+    }
+  ],
+  "timestamp": "2026-09-13T04:34:53.526591846Z",
+  "model": "glm-5.3"
+}

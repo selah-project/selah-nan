@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "伊用好物予你的心願飽足,你的青春親像鷹鳥按呢閣換新。",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "予…飽足"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "用好物"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "你的心願"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "閣換新"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "親像鷹鳥"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "你的青春"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:36.731405475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "我是雅威,恁的聖者,以色列的創造者,恁的王。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "是雅威"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "恁的聖者"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "創造者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "恁的王"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:01.026155412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "彼位佇我內面講話的天使就應講:「你豈毋知遮的是啥物?」我就講:「毋是我个阿多奈。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "就應"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "彼位天使"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "בי",
+      "gloss": "佇我內面"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你知"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "המה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我个阿多奈"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:00.926665202Z",
+  "model": "glm-5.3"
+}

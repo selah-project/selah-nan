@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我的氣力敢是石頭的氣力?我的肉敢是銅做的?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "敢是"
+    },
+    {
+      "surface": "כח",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的氣力"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢是"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "銅做的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:10.181040406Z",
+  "model": "glm-5.3"
+}

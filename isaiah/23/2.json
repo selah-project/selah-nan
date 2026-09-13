@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "恬恬啦,蹛海島的人;西頓的生理人渡海,充滿了𪜶。",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "恬恬啦"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "蹛……的人"
+    },
+    {
+      "surface": "אי",
+      "gloss": "海島"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "做生理"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "西頓"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "渡過"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "充滿了"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:49.518409703Z",
+  "model": "glm-5.3"
+}

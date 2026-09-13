@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "我欲差伊去悖謬的邦國,對我受氣的百姓落命令,欲搶奪掠物、劫取財物,欲互𪜶親像街路的土予人踹踏。",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "去悖謬的邦國"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "悖謬的"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "我欲差伊"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "我受氣的"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "落命令"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "欲搶奪"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "掠物"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "佮劫取"
+    },
+    {
+      "surface": "בז",
+      "gloss": "財物"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "佮欲互𪜶"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "予人踹踏"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "親像土"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "街路的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:05.021630917Z",
+  "model": "glm-5.3"
+}

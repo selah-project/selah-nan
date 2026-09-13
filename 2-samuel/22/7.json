@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "佇我的患難中我求叫雅威,閣向我的以羅欣我求叫;伊對伊的殿聽我的聲,我的哀求入伊的耳",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我求叫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣向"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我求叫"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "伊聽"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "對伊的殿"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "我的哀求"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "入伊的耳"
+    }
+  ],
+  "timestamp": "2026-09-12T02:58:07.376482320Z",
+  "model": "glm-5.3"
+}

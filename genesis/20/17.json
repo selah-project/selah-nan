@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "亞伯拉罕向以羅欣祈禱,以羅欣就醫好亞比米勒 ⟨את⟩、⟨את⟩ 伊的某、佮伊的婢女,𪜶就生育矣。",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "就醫好"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比米勒"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的某"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "佮伊的婢女"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "𪜶就生育"
+    }
+  ],
+  "timestamp": "2026-09-12T01:13:58.203445002Z",
+  "model": "glm-5.3"
+}

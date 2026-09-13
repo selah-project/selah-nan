@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我痲痺閣破損到極頭,我對心的呻吟咧哮。",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "我痲痺"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "閣破損"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極頭"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "我哮"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "對…的呻吟"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:35.143379170Z",
+  "model": "glm-5.3"
+}

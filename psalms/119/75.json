@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "雅威啊,我知你的判斷是公義的,閣你照信實磨苦我。",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判斷"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "閣照信實"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "你磨苦我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:47.791688773Z",
+  "model": "glm-5.3"
+}

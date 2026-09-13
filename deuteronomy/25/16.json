@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "因為做這些代誌的人、行毋公義的人,攏是雅威你的以羅欣所厭惡的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些代誌"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "עול",
+      "gloss": "毋公義"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:01.604283851Z",
+  "model": "glm-5.3"
+}

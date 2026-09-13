@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "我沉落佇深深的淤泥,無通徛的所在;我入去深水的深處,大水淹過我。",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "我沉落"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "佇深深的淤泥"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "通徛的所在"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "我入去"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "深水的深處"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "大水"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "淹過我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:50.032193168Z",
+  "model": "glm-5.3"
+}

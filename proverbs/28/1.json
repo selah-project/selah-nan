@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "惡人逃走,毋過無人追趕;義人親像少壯獅會使安心。",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "毋過無"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "閣義人"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "親像少壯獅"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "會使安心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:25.967901738Z",
+  "model": "glm-5.3"
+}

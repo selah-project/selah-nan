@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "看啊,以羅欣⟨是⟩幫助我的;阿多奈⟨是⟩佇扶持我性命的人中間。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "佇扶持…的人"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:12.747441886Z",
+  "model": "glm-5.3"
+}

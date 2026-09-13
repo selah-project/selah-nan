@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "大衛對約拿單講:「啥人欲共我講?抑是你老父若用歹聲口應你,欲怎樣?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "共我講"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "מה",
+      "gloss": "欲怎樣"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "應你"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老父"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "用歹聲口"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:27.221680501Z",
+  "model": "glm-5.3"
+}

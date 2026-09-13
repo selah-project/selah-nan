@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "雅威會予⟨את⟩伊聲的威嚴予儂聽見,閣將伊手臂搤落來的顯明出來,佇烈怒的激憤,佮吞食的火燄,佇打散的暴風雨佮淹流的大雨,閣有落雹的石頭。",
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "閣會予儂聽見"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊聲的威嚴"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "伊聲"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "佮搤落"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "伊手臂"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "佇激憤"
+    },
+    {
+      "surface": "אף",
+      "gloss": "烈怒"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "佮火燄"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "打散的暴風"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "佮淹流的大雨"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "閣石頭"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "雹"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:12.349891174Z",
+  "model": "glm-5.3"
+}

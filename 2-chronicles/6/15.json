@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你對你的奴僕、我的老爸大衛,守住⟨את⟩你對伊所講的話;你用你的嘴講,用你的手應驗,親像今仔日按呢。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "守住"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "對你的奴僕"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的老爸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你對伊所講的話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "用你的嘴"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "用你的手"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "應驗"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "親像今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:23.712779228Z",
+  "model": "glm-5.3"
+}

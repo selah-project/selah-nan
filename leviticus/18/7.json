@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "恁老父個下體,佮恁老母個下體,你毋通露;伊是你個老母,你毋通露伊個下體。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "下體"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "恁老父個"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "佮下體"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "恁老母個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "你露"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你個老母"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "你露"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "伊個下體"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:41.326419434Z",
+  "model": "glm-5.3"
+}

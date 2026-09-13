@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "大衛佮伊的人來到彼座城,看啊,已經予火燒去矣,𪜶的某、𪜶的後生、𪜶的查某囡,攏予人擄去矣。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "佮伊的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "燒去矣"
+    },
+    {
+      "surface": "באש",
+      "gloss": "予火"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "𪜶的某"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "𪜶的後生"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "𪜶的查某囡"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "攏予人擄去矣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:38.683131550Z",
+  "model": "glm-5.3"
+}

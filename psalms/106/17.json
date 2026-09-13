@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "地開嘴吞掉大坍，閣掩埋亞比蘭的會眾。",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "開嘴"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "吞掉"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "大坍"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "閣掩埋"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "亞比蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:19.420124576Z",
+  "model": "glm-5.3"
+}

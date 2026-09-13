@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "因為我困苦閣散赤,我的心佇我內面受刺傷。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "閣散赤"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "閣我的心"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "受刺傷"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "佇我內面"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:59.615914733Z",
+  "model": "glm-5.3"
+}

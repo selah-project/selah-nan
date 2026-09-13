@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊做⟨את⟩柱仔的廊:伊的長五十肘,伊的闊三十肘;頭前閣有一个廊,閣有柱仔佮厚的枋仔徛佇𪜶頭前。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "柱仔的廊"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "廊"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱仔的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "佮三十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "閣有一个廊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "𪜶頭前"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "佮柱仔"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "佮厚的枋仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "𪜶頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:15.134405972Z",
+  "model": "glm-5.3"
+}

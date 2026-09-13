@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "做恁逐世代永遠的定例,佇恁攏總的所在:一切的油佮一切的血,恁攏毋通食。",
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "恁逐世代"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇攏總"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "恁的所在"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:30.230879676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "救我脫離泥沼,互我袂沈落去;互我對怨恨我的人得著釋放,佮對深深的水底。",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "脫離泥沼"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮毋通"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "我沈落去"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "互我得著釋放"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "對怨恨我的人"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "佮對…深深"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:02.332324343Z",
+  "model": "glm-5.3"
+}

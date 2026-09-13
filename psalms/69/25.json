@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "將你的憤怒倒落𪜶身上,互你烈怒的怒氣追掠着𪜶。",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "倒落"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "𪜶身上"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "你的憤怒"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "閣烈怒"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "你的怒氣"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "追掠着𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:06.008144396Z",
+  "model": "glm-5.3"
+}

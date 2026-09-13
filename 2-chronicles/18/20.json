@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "彼个神靈就出去,徛佇雅威面前,講:「我欲誘騙伊。」雅威給伊講:「用啥物?」",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "彼个神靈"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "欲誘騙伊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "במה",
+      "gloss": "用啥物"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:58.220223923Z",
+  "model": "glm-5.3"
+}

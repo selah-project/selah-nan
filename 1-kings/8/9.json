@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "約櫃內底無別物,獨獨兩塊石版,就是摩西佇何烈山下佇彼所放的,彼个雅威佮以色列的子兒所切的約,佇𪜶出埃及地的時。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "約櫃內底"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "塊版"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "放"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇彼"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "佇何烈山"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "所切的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "佇𪜶出的時"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:18.521003664Z",
+  "model": "glm-5.3"
+}

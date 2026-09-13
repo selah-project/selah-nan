@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威啊,祢欲照𪜶雙手所做的,報應𪜶。",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "祢欲報應"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "報應"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "照…所做的"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶雙手"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:54.633494219Z",
+  "model": "glm-5.3"
+}

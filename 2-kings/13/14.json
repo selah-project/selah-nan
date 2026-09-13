@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "以利沙破病,破⟨את⟩伊彼個會致到死的病症;約阿施以色列的王落去到伊遐,對伊的面頭前啼哭,講:「阿我的阿爸!阿我的阿爸!以色列的戰車佮伊的騎兵!」",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "破病"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊彼個會致到死的病症"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "伊的病症"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "會致到死"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遐"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "על",
+      "gloss": "對……面頭前"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的阿爸"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的阿爸"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "伊的騎兵"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:04.675093787Z",
+  "model": "glm-5.3"
+}

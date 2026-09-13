@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "約押佮亞捫人的拉巴相戰,掠了⟨את⟩彼座王城。",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "佮拉巴"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人的"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "掠了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼座王城"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:13.980173588Z",
+  "model": "glm-5.3"
+}

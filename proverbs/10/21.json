@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "義人的嘴脣飼養濟多人,愚妄的人因為欠心就會死。",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "嘴脣"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "飼養"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "濟多人"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "愚妄的人"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "因為欠"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "就會死"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:35.509050556Z",
+  "model": "glm-5.3"
+}

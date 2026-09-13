@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "雅各就到路斯,就是佇迦南地的彼位——伊就是伯特以勒——伊佮所有佮伊做陣的百姓。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "就到"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "路斯"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇……地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊就是"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做陣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:33.313817298Z",
+  "model": "glm-5.3"
+}

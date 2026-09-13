@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 26:11",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "「雅威禁戒我,斷斷毋通伸出我的手對雅威的彌賽亞;這馬請你提⟨את⟩彼支佇伊頭殼邊的槍仔,閣提⟨את⟩裝水的甌仔,咱就走。」",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "斷斷毋通"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "毋通伸出"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "對彌賽亞"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "קח",
+      "gloss": "提"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼支槍仔"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "彼支槍仔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "佇伊頭殼邊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣提⟨את⟩",
+      "marks": "水的甌仔"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "水的甌仔"
+    },
+    {
+      "surface": "המים",
+      "gloss": "裝水"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "咱就走"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "咱"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:15.530066756Z",
+  "model": "glm-5.3"
+}

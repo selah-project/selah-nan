@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "你導阮入陷坑;你將壓迫下佇阮的腰。",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "你導阮入"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "陷坑"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "你下"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "佇阮的腰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:07.800515052Z",
+  "model": "glm-5.3"
+}

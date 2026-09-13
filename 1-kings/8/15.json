@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊講:「願雅威、以色列的以羅欣得著福氣,伊用伊的嘴對⟨את⟩大衛我老爸講過,閣用伊的手行伊所講的,講:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "願……得著福氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以色列的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講過"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "用伊的嘴"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛我老爸"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我老爸"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "閣用伊的手"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "行伊所講的"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:55.536040140Z",
+  "model": "glm-5.3"
+}

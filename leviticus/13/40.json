@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 13:40",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "若是人的頭殼毛落光,伊是後頭秃,伊是清氣的。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "若是人"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "落光"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "頭殼毛"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "後頭秃"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:15.712694279Z",
+  "model": "glm-5.3"
+}

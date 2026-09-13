@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威啊,你著記得阮遭遇啥物;注視,看阮的凌辱 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "記得"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "היה",
+      "gloss": "遭遇"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "注視"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的凌辱"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "阮的凌辱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:37.090927148Z",
+  "model": "glm-5.3"
+}

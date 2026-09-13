@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "用你的氣力堅固諸山,用大能力束腰的——",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "堅固"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "用你的氣力"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "束腰"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "用大能力"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:49.195104246Z",
+  "model": "glm-5.3"
+}

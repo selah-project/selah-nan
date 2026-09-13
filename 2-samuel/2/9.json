@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊立伊做王，管基列、管亞述利人、管耶斯列，閣管以法蓮、管便雅憫，閣管以色列全境。",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "伊立伊做王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "管"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣管"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "亞述利人"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣管"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "耶斯列"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣管"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣管"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣管"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "全境"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:12.004219657Z",
+  "model": "glm-5.3"
+}

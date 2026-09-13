@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "約沙法做猶大的王,平安倒去伊的厝,到耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "倒去"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的厝"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:14:40.391488596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "到七日期間矣,洪水的就佇地頂。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到…矣"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "七日"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "期間"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "…的水"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "洪水"
+    },
+    {
+      "surface": "היו",
+      "gloss": "就佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:57.031859190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣我家己欲對⟨את⟩恁相戰,用伸出的手,用強壯的膀臂,用受氣,用烈怒,閣用大的怨恨。",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "閣我欲相戰"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我家己"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸出的"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "閣用膀臂"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強壯的"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "閣用受氣"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "閣用烈怒"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "閣用怨恨"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:54:24.172172012Z",
+  "model": "glm-5.3"
+}

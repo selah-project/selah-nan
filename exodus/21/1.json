@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣,這些是諸個判語,你欲排佇𪜶面前的:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣,這些"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "諸個判語"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "你欲排"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "佇𪜶面前"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:37.968694879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "非利士人閣講:「今仔日我侮辱以色列的陣列 ⟨את⟩;給我一個儂,咱來相拚。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "侮辱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的陣列"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "陣列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "給"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個儂"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "咱來相拚"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:35.698765828Z",
+  "model": "glm-5.3"
+}

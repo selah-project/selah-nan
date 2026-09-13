@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "實在,雅威啊,亞述的諸王毀滅了⟨את⟩列邦佮⟨את⟩𪜶的土地。",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "實在"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "毀滅了"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "的諸王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "列邦"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的土地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:08.620402501Z",
+  "model": "glm-5.3"
+}

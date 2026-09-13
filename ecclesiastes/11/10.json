@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "著共憤怒趕出你的心,共歹趕出你的肉體,因為少年時期佮烏髮是空虛。",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "著共…趕出"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "憤怒"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "共…趕走"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "你的肉體"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "少年時期"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "佮烏髮"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:43.571991538Z",
+  "model": "glm-5.3"
+}

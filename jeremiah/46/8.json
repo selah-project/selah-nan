@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "米茲拉因(埃及)親像耶澳河彼樣漲起來,伊的水親像諸條河彼樣攪擾;伊講:我欲漲起來,掩滿大地,我欲滅無城佮徛佇城內的人。",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "親像耶澳河"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "漲起來"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "親像諸條河"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "攪擾"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "我欲漲起來"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "掩滿"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "我欲滅無"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "佮徛佇…的人"
+    },
+    {
+      "surface": "בה",
+      "gloss": "城內"
+    }
+  ],
+  "timestamp": "2026-09-12T04:03:08.978873593Z",
+  "model": "glm-5.3"
+}

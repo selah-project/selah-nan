@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "若有人犯罪,聽見咒誓的聲,伊做見證——抑是看見,抑是知影——若無講出來,伊就著擔當伊的罪孽。",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "做見證"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "講出來"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "擔當"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "伊的罪孽"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:14.548905361Z",
+  "model": "glm-5.3"
+}

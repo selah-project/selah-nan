@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "我講:我欲謹守我的路,免得用我的舌犯罪;我欲用籠頭縛我的喙,當猶有惡人佇我面前的時。",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "我欲謹守"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "我的路"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "免得犯罪"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "用我的舌"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "我欲縛"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "籠頭"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "佇我面前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:47.301339731Z",
+  "model": "glm-5.3"
+}

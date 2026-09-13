@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "伊責備蘆葋海,海就乾去;伊導𪜶行過深淵,親像行過曠野。",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "伊責備"
+    },
+    {
+      "surface": "בים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葋(海)"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "就乾去"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "伊導𪜶行"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "過深淵"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "親像行過曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:17.726766186Z",
+  "model": "glm-5.3"
+}

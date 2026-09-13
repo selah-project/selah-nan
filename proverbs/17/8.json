@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "賄賂佇伊的主人的目睭內是一粒得人疼的石頭;伊向佗位轉,就佗位順利。",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "חן",
+      "gloss": "得人疼"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "賄賂"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的目睭內"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "轉"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "順利"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:24.525612687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "你欲提⟨את⟩錐仔,刺過伊的耳仔到門,伊就做你的奴僕到永遠;對你的婢女嘛欲按呢做。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你欲提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錐仔"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "錐仔"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "刺過"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "伊的耳仔"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "到門"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "伊就"
+    },
+    {
+      "surface": "לך",
+      "gloss": "做你的"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "對你的婢女"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:50.381657503Z",
+  "model": "glm-5.3"
+}

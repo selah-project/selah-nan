@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "若恁行佮我對敵,毋肯聽我,我就欲添刑罰佇恁身上七倍,照恁的罪。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "恁行"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "肯"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "我就欲添"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "佇恁身上"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "刑罰"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七倍"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "照恁的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:03.643518717Z",
+  "model": "glm-5.3"
+}

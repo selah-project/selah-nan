@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "以勒啊,試察我,知我的心;驗我,知我的思念,",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "試察我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "知"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "驗我"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "知"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "我的思念"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:45.357015128Z",
+  "model": "glm-5.3"
+}

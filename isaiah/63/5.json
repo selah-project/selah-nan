@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "我一看,無相助的人;我真驚奇,無扶持的人;就救我的是我的膀臂,我的受氣——伊扶持我。",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "我看"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "相助的人"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "我真驚奇"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "扶持的人"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "就救"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "我的膀臂"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "我的受氣"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "扶持我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:41.444575273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "有人共耶利哥的王報講:「你看,今暝有以色列的仔儿入來遮,欲探查⟨את⟩這个地。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "有人報講"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "共…的王"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "有人"
+    },
+    {
+      "surface": "באו",
+      "gloss": "入來"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今暝"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "的仔儿"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "欲探查"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這个地"
+    }
+  ],
+  "timestamp": "2026-09-12T02:21:22.299546229Z",
+  "model": "glm-5.3"
+}

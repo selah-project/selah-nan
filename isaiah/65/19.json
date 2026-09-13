@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 65:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "我欲佇耶路撒冷快樂,欲佇我的百姓歡喜;伊內底袂閣聽著哮哭的聲,佮哀號的聲。",
+  "tokens": [
+    {
+      "surface": "וגלתי",
+      "gloss": "我欲…快樂"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "וששתי",
+      "gloss": "欲…歡喜"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "佇我的百姓"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "閣聽著"
+    },
+    {
+      "surface": "בה",
+      "gloss": "伊內底"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "哮哭"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "佮…的聲"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "哀號"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:52.136003494Z",
+  "model": "glm-5.3"
+}

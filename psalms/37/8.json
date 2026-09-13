@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "停止受氣,放棄激怒;毋通掛慮,伊干焦致到做歹。",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "停止"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "激怒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "掛慮"
+    },
+    {
+      "surface": "אך",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "致到做歹"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:49.475426342Z",
+  "model": "glm-5.3"
+}

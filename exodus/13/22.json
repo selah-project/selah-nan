@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "雲柱日時無離開,火柱暗時嘛無,攏佇人民的頭前。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "離開"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "彼个雲"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "佮柱"
+    },
+    {
+      "surface": "האש",
+      "gloss": "彼个火"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暗時"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…的頭前"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:58.653664416Z",
+  "model": "glm-5.3"
+}

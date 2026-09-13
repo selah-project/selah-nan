@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "𪜶共⟨את⟩𪜶的舌頭彎做弓,來行詭詐,毋是來行信實;𪜶佇地上得勢——因為𪜶對歹走到歹,閣佮⟨את⟩我無認識,這是雅威的神諭。",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "𪜶彎"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的舌頭"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "𪜶的舌頭"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "𪜶的弓"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "詭詐"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "信實"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "得勢"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "對歹"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "行出去"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "佮⟨את⟩我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "認識"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:48.335272987Z",
+  "model": "glm-5.3"
+}

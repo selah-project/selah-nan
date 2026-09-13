@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 111,
+  "translation": "哈利路雅!我欲用歸个心佇正直人的密會中、佮會眾𪜶中間感謝雅威。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "哈利路雅(讚美)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "我欲感謝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用歸个"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "佇…的密會"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "佮會眾"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:31.935071534Z",
+  "model": "glm-5.3"
+}

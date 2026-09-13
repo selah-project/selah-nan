@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "以色列就安穩、獨獨徛起;雅各的泉源對著五穀佮新酒的地面,連伊的天嘛會滴露。",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "就徛起"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "安穩"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "עין",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對著"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "佮新酒"
+    },
+    {
+      "surface": "אף",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "伊的天"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "會滴"
+    },
+    {
+      "surface": "טל",
+      "gloss": "露"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:54.930616872Z",
+  "model": "glm-5.3"
+}

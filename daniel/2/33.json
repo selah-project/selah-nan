@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊的兩跤柄是鐵,伊的腳半是鐵、半是土。",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "兩跤柄"
+    },
+    {
+      "surface": "די",
+      "gloss": "是"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "伊的腳"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "半……半"
+    },
+    {
+      "surface": "די",
+      "gloss": "是"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "半"
+    },
+    {
+      "surface": "די",
+      "gloss": "是"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "土"
+    }
+  ],
+  "timestamp": "2026-09-12T05:43:51.124227223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "百姓中間就有人落去遐,約三千人,𪜶對艾城的人面前逃走。",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "就落去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "約三千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "𪜶逃走"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "對…的面前"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "的人"
+    },
+    {
+      "surface": "העי",
+      "gloss": "艾城"
+    }
+  ],
+  "timestamp": "2026-09-13T04:39:10.857524232Z",
+  "model": "glm-5.3"
+}

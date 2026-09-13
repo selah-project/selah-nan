@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "𪜶欲帶𪜶的羊群佮牛群去揣⟨את⟩雅威,若是𪜶袂尋著;伊已經對𪜶退離矣。",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "帶𪜶的羊群"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "佮𪜶的牛群"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "去"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "揣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "若是毋"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "退離"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:17.484034715Z",
+  "model": "glm-5.3"
+}

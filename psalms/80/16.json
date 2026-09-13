@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "佮你右手所栽的彼株,佮你所培養堅固、為你自己的子。",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "佮彼株"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "栽"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的右手"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "你培養堅固"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你自己"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.907588221Z",
+  "model": "glm-5.3"
+}

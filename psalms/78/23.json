@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊命令頂高的雲,開天裡的門,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "對頂高"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "…的門"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:16.959807992Z",
+  "model": "glm-5.3"
+}

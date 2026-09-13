@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "你看,彼頂是所羅門的轎:六十个勇士圍佇伊四圍,攏是對以色列的勇士中間來的。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "伊的轎"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "所羅門的"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "个勇士"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍佇四圍"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "對…的勇士"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:46.842746914Z",
+  "model": "glm-5.3"
+}

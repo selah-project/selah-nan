@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威啊,恩待我;看見我的苦難,對恨我的人遐;你對死門提拔我起來的,",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "恩待我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "我的苦難"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "對恨我的人"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "提拔我的"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "對…門"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:22.134490804Z",
+  "model": "glm-5.3"
+}

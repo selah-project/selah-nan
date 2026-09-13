@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "彼日,阿多奈、雅威、采巴奧特呼叫人來啼哭、來哀悼、來剃頭、來縛麻衣。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "閣呼叫"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "來啼哭"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "閣來哀悼"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "閣來剃頭"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "閣來縛"
+    },
+    {
+      "surface": "שק",
+      "gloss": "麻衣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:32.568426802Z",
+  "model": "glm-5.3"
+}

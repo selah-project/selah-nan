@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "看輕伊同伴的,是欠缺心的人;總是有明白的人,會恬恬。",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "看輕"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "伊同伴"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠缺"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "總是…的人"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "明白"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "恬恬"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:44.788253024Z",
+  "model": "glm-5.3"
+}

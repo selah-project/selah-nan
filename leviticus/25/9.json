@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 25:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "恁著予號角的大聲通過,佇第七個月、彼月⟨的⟩初十,佇贖罪⟨的⟩日,恁著佇恁全地吹號角。",
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "恁著予…通過"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "號角"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "大聲喊"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "佇初十"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼月"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "恁著通過"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "號角"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "恁的地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:24.116382850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "以色列著歡喜佇創造伊的;錫安的子兒著佇𪜶的王面前跳躍歡喜。",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "著歡喜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "佇創造伊的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子兒"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "著跳躍歡喜"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "佇𪜶的王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:50.306198207Z",
+  "model": "glm-5.3"
+}

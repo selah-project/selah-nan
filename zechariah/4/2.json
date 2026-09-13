@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 4:2",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊對我講:「你看見啥物?」我講:「我看著,你看,一座金燈臺,歸座攏是金,伊頂面有一个球缽,伊有七個燈頭佇頂面,七个佮七个管仔通到彼个燈頭,就是佇伊頂面的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看著"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "מנורת",
+      "gloss": "一座燈臺"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "歸座攏是"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "伊頂面――球缽"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "伊頂面"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "七個"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "燈頭"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七个"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "佮七个"
+    },
+    {
+      "surface": "מוצקות",
+      "gloss": "管仔"
+    },
+    {
+      "surface": "לנרות",
+      "gloss": "通到彼个燈頭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "伊頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:59.181926468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 2:34",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "彼時阮掠⟨את⟩所有伊的城,阮歸滅⟨את⟩逐城的大人、婦人人佮囡仔,阮無留半個殘存的。",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "阮掠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有伊的城"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "伊的城"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "ונחרם",
+      "gloss": "阮歸滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "逐城的大人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "大人"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "佮婦人人"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "佮囡仔"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "השארנו",
+      "gloss": "阮留"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "殘存的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:35.421769660Z",
+  "model": "glm-5.3"
+}

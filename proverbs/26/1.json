@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "親像雪佇夏天,佮親像雨佇收割的時,按呢,榮光對戇人毋合宜。",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "親像雪"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "佇夏天"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "佮親像雨"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "佇收割的時"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "合宜"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "對戇人"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:25.075228414Z",
+  "model": "glm-5.3"
+}

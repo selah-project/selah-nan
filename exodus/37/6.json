@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊閣做一个贖罪蓋(כפרת),用純金做,長二肘半,闊一肘半。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "贖罪蓋"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "二肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "閣半"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "長"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "閣半"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "闊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:42.086369287Z",
+  "model": "glm-5.3"
+}

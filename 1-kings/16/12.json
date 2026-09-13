@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "心利滅無去⟨את⟩巴沙的全家,照雅威的話——就是藉先知耶戶的手對巴沙講的。",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "滅無去"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "心利"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴沙的全家"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼句"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:05.911131270Z",
+  "model": "glm-5.3"
+}

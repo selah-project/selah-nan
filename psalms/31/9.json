@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "閣祢無將我關起來交佇對敵的手裡;祢互我的跤徛佇寬闊的所在。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "祢無將我關起來交"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手裡"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "祢互…徛"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "佇寬闊的所在"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的跤"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:01.880349575Z",
+  "model": "glm-5.3"
+}

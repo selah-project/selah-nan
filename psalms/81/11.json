@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "我⟨是⟩雅威,恁的以羅欣,帶恁對米茲拉因(埃及)的地起來的;恁著共嘴開闊,我欲互伊滿滿。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "帶恁起來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "開闊"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "恁的嘴"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "我欲互伊滿滿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:07.243775436Z",
+  "model": "glm-5.3"
+}

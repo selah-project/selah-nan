@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "你看見真濟項,總是無遵守;耳仔開啟,總是無聽。",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "你看見"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "真濟項"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "總是無"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "開啟"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "總是無"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:04.996143304Z",
+  "model": "glm-5.3"
+}

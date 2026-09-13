@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "雅威的誓就著佇𪜶兩人中間,證明伊有毋曾伸出伊的手去動厝邊的物件;物主著愛接受⟨彼个誓⟩,伊就毋免賠償。",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "著佇"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "𪜶兩人"
+    },
+    {
+      "surface": "אם",
+      "gloss": "證明…有毋"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "去動…的物件"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "厝邊"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "物主著愛接受"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "物主"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "賠償"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:56.327926120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "你捙扁拉哈伯,親像捙死的人;用手膀的氣力,你散開你的對敵。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "你捙扁"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "親像捙死的人"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "拉哈伯"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "用手膀"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "你的氣力"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "你散開"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "你的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:25.821637012Z",
+  "model": "glm-5.3"
+}

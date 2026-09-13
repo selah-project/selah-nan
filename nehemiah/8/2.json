@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "祭司以斯拉捧⟨את⟩律法到會眾面前,對查埔人到查某人,佮攏總會曉聽、會了解的,佇第七個月的一日。",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "捧來"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "以斯拉"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "律法"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "對查埔人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "會了解"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "會曉聽"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "個月"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:29.645804464Z",
+  "model": "glm-5.3"
+}

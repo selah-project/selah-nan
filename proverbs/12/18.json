@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "有人隨便亂講,親像刀劍咧刺;毋過智慧人的舌頭,是醫治。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "隨便亂講"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "親像咧刺"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "毋過⋯⋯的舌頭"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "醫治"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:49.844522415Z",
+  "model": "glm-5.3"
+}

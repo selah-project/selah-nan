@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "上升之歌。雅威啊,求祢紀念大衛,紀念⟨את⟩伊一切的艱苦。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上升的"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "為大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊一切的艱苦"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "伊的艱苦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:20.152688420Z",
+  "model": "glm-5.3"
+}

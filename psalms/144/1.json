@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "大衛的詩。雅威──我的磐石──是當受讚美的;伊教我的手曉得相戰,我的指頭仔曉得拍仗。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "是當受讚美的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "伊教"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "曉得相戰"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "我的指頭仔"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "曉得拍仗"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:15.076699731Z",
+  "model": "glm-5.3"
+}

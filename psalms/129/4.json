@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 129,
+  "translation": "雅威⟨是⟩公義的;伊已經剪斷歹人的索。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "剪斷"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "索"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:25.283821964Z",
+  "model": "glm-5.3"
+}

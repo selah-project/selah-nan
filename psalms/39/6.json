@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "看啊,你掠我的日子做幾若掌闊,我的世間佇你面前親像無;的確,徛佇遮的攏總人是空虛。細拉。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "幾若掌闊"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "你掠…做"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "我的日子"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "佮我的世間"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "親像無"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "徛佇遮"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:02.856210800Z",
+  "model": "glm-5.3"
+}

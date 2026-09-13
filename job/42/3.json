@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "是啥人按呢無智慧咧掩密計謀?所以我有講——我毋了解;奇妙的事超出我,我毋知。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "זה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "咧掩密"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "我有講"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "了解"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇妙的事"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "超出我"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知"
+    }
+  ],
+  "timestamp": "2026-09-12T05:31:51.728266057Z",
+  "model": "glm-5.3"
+}

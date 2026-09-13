@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "彼個海岸所在欲變做牧羊人的草地佮羊仔的羊欄。",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "欲變做"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "海岸所在"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "נות",
+      "gloss": "草地居所"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "草埔"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "牧羊人"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "佮羊欄"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:19.222266972Z",
+  "model": "glm-5.3"
+}

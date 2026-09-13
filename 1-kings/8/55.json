@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊徛起,就祝福⟨את⟩以色列全會眾,用大聲講:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "伊徛起"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "就祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列全會眾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:03.146533730Z",
+  "model": "glm-5.3"
+}

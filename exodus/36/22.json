@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "彼一塊板有兩个榫頭,一个對一个相接做伙;伊按呢做會幕所有的板。",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "榫頭"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "為彼塊板"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一塊"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "相接做伙"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "板"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:32.214476442Z",
+  "model": "glm-5.3"
+}

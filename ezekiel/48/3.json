@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "閣倚 ⟨佇⟩亞設的界,對東旁到西旁,拿弗他利一區。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣倚 ⟨佇⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "界"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "亞設"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "對…旁"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "東"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "旁"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "西"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "拿弗他利"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一(區)"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:02.115239546Z",
+  "model": "glm-5.3"
+}

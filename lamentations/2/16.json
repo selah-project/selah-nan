@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 2:16",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你的眾敵人攏對你開𪜶的喙,𪜶吹哨佮咬牙;𪜶講:阮吞伊落去矣!的確,這是阮所向望的日子;阮揣著矣,阮看見矣!",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "開"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "𪜶的喙"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "你的眾敵人"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "𪜶吹哨"
+    },
+    {
+      "surface": "ויחרקו",
+      "gloss": "佮咬"
+    },
+    {
+      "surface": "שן",
+      "gloss": "牙"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "בלענו",
+      "gloss": "阮吞伊落去矣"
+    },
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "היום",
+      "gloss": "是…的日子"
+    },
+    {
+      "surface": "שקוינהו",
+      "gloss": "阮所向望的"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "阮揣著矣"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "阮看見矣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:49.628512683Z",
+  "model": "glm-5.3"
+}

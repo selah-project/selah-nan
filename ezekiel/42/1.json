@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 42:1",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "伊導我出去外庭,向北爿彼條路;閣導我入去彼間廳仔房,佇隔離區的對面,佇向北的建築物對面。",
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "伊導我出去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "彼个庭"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "外"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "彼條路"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "行向"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北爿"
+    },
+    {
+      "surface": "ויבאני",
+      "gloss": "閣導我入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "彼間廳仔房"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼間"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "佇…對面"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "隔離區"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "閣彼間"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "佇…對面"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "建築物"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北爿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:34.957255742Z",
+  "model": "glm-5.3"
+}

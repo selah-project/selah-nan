@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "拉姆生⟨את⟩亞米拿達;亞米拿達生⟨את⟩拿黑順,做猶大囝仔的首領。",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "閣拉姆"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞米拿達"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "亞米拿達"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "閣亞米拿達"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿黑順"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "拿黑順"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "首領"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:11.348676609Z",
+  "model": "glm-5.3"
+}

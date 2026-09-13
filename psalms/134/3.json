@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 134,
+  "translation": "願雅威對你賜福,對米茲拉因的錫安──彼位造天佮地的──賜福你;伊是造天佮地的那位。",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "願伊賜福你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "對錫安"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮地"
+    }
+  ],
+  "timestamp": "2026-09-13T03:56:35.374014641Z",
+  "model": "glm-5.3"
+}

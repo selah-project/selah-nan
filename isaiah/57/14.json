@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "閣有人欲講:填路、填路,收拾路,對我百姓的路中提出絆跌物。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "填起"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "填起"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "收拾"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "提出"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "絆跌物"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "對路"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:02.094967608Z",
+  "model": "glm-5.3"
+}

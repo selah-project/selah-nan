@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你欲縛𪜶做記號佇你的手,𪜶欲做額頭帶佇你的目睭中間。",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "你欲縛𪜶"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "做記號"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "𪜶欲做"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "額頭帶"
+    },
+    {
+      "surface": "בין",
+      "gloss": "中間"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:55.177822647Z",
+  "model": "glm-5.3"
+}

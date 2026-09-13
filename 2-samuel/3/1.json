@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "戰爭拖長,佇掃羅的家佮大衛的家中間;大衛一直行、一直強,掃羅的家嘛一直行、一直削弱。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "戰爭拖長"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "拖長"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮……中間"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "一直行"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "一直強"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "掃羅的家嘛"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "一直行"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "一直削弱"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:45.260533936Z",
+  "model": "glm-5.3"
+}

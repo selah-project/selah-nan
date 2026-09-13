@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 33:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威對摩西講:「你去,對遮起來——你佮彼个你對埃及地所帶上來的百姓——去到我對亞伯拉罕、以撒、雅各起誓彼个地,講:「我欲給⟨伊⟩你的後嗣。」」",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "對遮"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "佮彼个百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "帶上來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼个地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "我…起誓"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "對亞伯拉罕"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "對以撒"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "閣對雅各"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "給你的後嗣"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "我欲給伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:42.420896981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "一个女人到伊的姊妹,你毋通娶,來做對敵,揭開伊的赤露佇伊猶活的日子。",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "一个女人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "伊的姊妹"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "來做對敵"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "揭開"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "伊的赤露"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "伊猶活的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:05.153256142Z",
+  "model": "glm-5.3"
+}

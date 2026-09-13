@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "你食飽,就欲頌讚⟨את⟩雅威——你的以羅欣——為著彼個好地,就是伊所賞你的。",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "你食"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "飽"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "你就欲頌讚"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "好的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "伊賞給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:29.456332212Z",
+  "model": "glm-5.3"
+}

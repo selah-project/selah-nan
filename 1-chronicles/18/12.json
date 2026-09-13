@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "閣有撒路雅的子亞比篩佇鹽谷拍敗⟨את⟩以東，十八千。",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "閣有亞比篩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的子"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "撒路雅"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "拍敗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以東"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "佇…谷"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "鹽"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "八"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T06:36:38.267399151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "當伊用仁慈的聲音講話，毋通信任伊，因為有七項可厭惡的事佇伊的心內。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "用仁慈"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "伊的聲音"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "信任"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "可厭惡的事"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "佇伊的心內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:26.974853094Z",
+  "model": "glm-5.3"
+}

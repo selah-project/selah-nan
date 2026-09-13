@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "互伊用伊喙唇的惜來惜我,因為你的疼比酒較好。",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "互伊…惜我"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "用…的惜"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "伊喙唇的"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "較好"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "你的疼"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "比酒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:16.097296118Z",
+  "model": "glm-5.3"
+}

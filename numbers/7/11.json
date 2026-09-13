@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威對摩西講：「首領一个一日，首領一个一日，𪜶獻⟨את⟩𪜶的祭物，來行壇的奉獻禮。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "首領"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "首領"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "𪜶獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的祭物"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "來行…的奉獻禮"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:42.919744822Z",
+  "model": "glm-5.3"
+}

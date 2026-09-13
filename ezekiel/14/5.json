@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "為著欲掠住⟨את⟩以色列的家佇𪜶的心中,因為𪜶攏對我隔開,佇𪜶的偶像——𪜶攏總。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著欲"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "掠住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "佇𪜶的心中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "𪜶隔開"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "佇𪜶的偶像"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏總"
+    }
+  ],
+  "timestamp": "2026-09-12T04:13:33.239635332Z",
+  "model": "glm-5.3"
+}

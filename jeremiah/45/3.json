@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "你講過:「唉,我真苦啊!因為雅威閣添憂傷佇我的痛苦頂;我為著我的吐大氣拍到真厭,安息嘛揣無。」",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "你講過"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "唉"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啊"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "閣添"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "憂傷"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "我的痛苦"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "我厭"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "佇我的吐大氣"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "安息"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "揣著"
+    }
+  ],
+  "timestamp": "2026-09-12T04:03:34.872595272Z",
+  "model": "glm-5.3"
+}

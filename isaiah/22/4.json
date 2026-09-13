@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 22:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為按呢,我講:閃開我,我欲苦苦啼哭,毋通趕緊安慰我,因為我的人民的查某囝受毀壞。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "שעו",
+      "gloss": "閃開"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אמרר",
+      "gloss": "苦苦"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאיצו",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "安慰我"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שד",
+      "gloss": "受毀壞"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:11.022724172Z",
+  "model": "glm-5.3"
+}

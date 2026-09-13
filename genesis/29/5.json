@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "伊對𪜶講:「恁敢捌⟨את⟩拉班、拿鶴的囝?」𪜶應講:「阮捌。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "恁敢捌"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉班"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "拿鶴"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶應講"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "阮捌"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:07.376338261Z",
+  "model": "glm-5.3"
+}

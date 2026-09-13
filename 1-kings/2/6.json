@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "所以你著照你的智慧去做,毋通共伊的白頭毛安然落去示阿勒。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "去做"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "照你的智慧"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "伊的白頭毛"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "安然"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "示阿勒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:03.583626184Z",
+  "model": "glm-5.3"
+}

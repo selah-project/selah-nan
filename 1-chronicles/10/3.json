@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "戰事佇掃羅身上愈來愈重,射箭的人揣著伊,伊著箭手傷著真艱苦。",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "愈來愈重"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰事"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…身上"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "揣著伊"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "射箭的人"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "用弓"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "傷著真艱苦"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "彼的射箭的人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:25.409164427Z",
+  "model": "glm-5.3"
+}

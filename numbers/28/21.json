@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "十分之一、十分之一,你著為一隻羊羔備辦,為七隻羊羔",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "十分之一"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "十分之一"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你著備辦"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "為羊羔"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一隻"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "為七隻"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "羊羔"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:12.924606154Z",
+  "model": "glm-5.3"
+}

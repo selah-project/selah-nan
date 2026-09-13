@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "謀略欲看守你,聰明欲保護你,",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "謀略"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "欲看守"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "聰明"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "欲保護你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:11.041173320Z",
+  "model": "glm-5.3"
+}

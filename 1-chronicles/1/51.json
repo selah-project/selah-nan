@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "哈達嘛死矣。後來以東有諸個族長:族長亭拿、族長亞勒瓦、族長耶帖。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "哈達"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "有"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "諸個族長"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "族長"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "亭拿"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "族長"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "亞勒瓦"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "族長"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "耶帖"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:41.006137775Z",
+  "model": "glm-5.3"
+}

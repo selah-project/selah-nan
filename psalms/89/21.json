@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我尋著大衛我的奴僕;用我的聖油我抹伊。",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "我尋著"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用…油"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "我的聖"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "我抹伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:45.523511901Z",
+  "model": "glm-5.3"
+}

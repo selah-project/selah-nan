@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "替我伸冤,贖回我,照你的話互我活。",
+  "tokens": [
+    {
+      "surface": "ריבה",
+      "gloss": "替…伸冤"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "我的案件"
+    },
+    {
+      "surface": "וגאלני",
+      "gloss": "贖回我"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "照你的話"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "互我活"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:59.456764350Z",
+  "model": "glm-5.3"
+}

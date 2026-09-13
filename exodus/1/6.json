@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "約瑟死矣,伊的兄弟攏死,彼個世代的人嘛攏死矣。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "彼世代"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:13.638861320Z",
+  "model": "glm-5.3"
+}

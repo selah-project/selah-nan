@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為雖然伊使人受苦,總是伊欲照伊赫瑟德(慈愛)的豐富憐憫。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אם",
+      "gloss": "雖然"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "使人受苦"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "照……的豐富"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:13.186475338Z",
+  "model": "glm-5.3"
+}

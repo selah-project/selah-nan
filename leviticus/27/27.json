@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是佇無清氣的牲畜,人就照你的估價贖回,閣加伊的五份一佇頂面;若無欲贖,就照你的估價賣出去。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "佇牲畜"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "無清氣的"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "贖回"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "照你的估價"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "閣加"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "伊的五份一"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "贖"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "賣出去"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "照你的估價"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:09.682150485Z",
+  "model": "glm-5.3"
+}

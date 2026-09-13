@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 108,
+  "translation": "豈無採你,以羅欣,已經撇棄阮?閣你,以羅欣,袂佮阮的軍隊出陣,是無?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈無…是無"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "已經撇棄阮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣…袂"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出陣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "佮阮的軍隊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:49.776967762Z",
+  "model": "glm-5.3"
+}

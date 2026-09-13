@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "有福氣啊,你所揀選、致使伊接近你、徛住佇你庭苑的人;阮欲用你厝的美好——你聖的宮殿——得滿足。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "你所揀選"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "致使伊接近"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "徛住"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "你的庭苑"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "阮得滿足"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "用…的美好"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的厝"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "你的宮殿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:49.194687170Z",
+  "model": "glm-5.3"
+}

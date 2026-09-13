@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "這是通雅威的門,公義的人欲對遮入去。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "通雅威"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בו",
+      "gloss": "對遮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:51.711916271Z",
+  "model": "glm-5.3"
+}

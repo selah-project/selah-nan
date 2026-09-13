@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "賠罪的銀佮犯罪的銀,毋會入去雅威的家;彼號銀愛歸祭司。",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "賠罪的"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "佮……的銀"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "犯罪的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋會"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "歸祭司"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "愛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:42.079776333Z",
+  "model": "glm-5.3"
+}

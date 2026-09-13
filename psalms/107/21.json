@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "願𪜶向雅威講出𪜶的赫瑟德(慈愛)做感謝,嘛向人的囡仔數念伊的奇妙作為。",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "願𪜶講出感謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "嘛數念伊的奇妙作為"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "向…的囡仔"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:06.626816070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 15:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊出行到亞撒面前,共伊講:「聽我,亞撒佮猶大、便雅憫眾人:恁若佮伊鬥陣,雅威就佮恁鬥陣;恁若尋伊,伊就互恁尋著;恁若離棄伊,伊就離棄⟨את⟩恁。」",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "伊出行"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "到…面前"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "共伊"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "聽我"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…眾"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁鬥陣"
+    },
+    {
+      "surface": "בהיותכם",
+      "gloss": "恁若是"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊鬥陣"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תדרשהו",
+      "gloss": "恁尋伊"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "伊互…尋著"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תעזבהו",
+      "gloss": "恁離棄伊"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "伊就離棄"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:38.675730543Z",
+  "model": "glm-5.3"
+}

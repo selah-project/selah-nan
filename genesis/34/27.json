@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "雅各的後生來到彼刣死的人遐,就搶劫彼个城市,因為怹有玷污怹的阿妹。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "彼刣死的人"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "搶劫"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼个城市"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "玷污"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "怹的阿妹"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:39.010177532Z",
+  "model": "glm-5.3"
+}

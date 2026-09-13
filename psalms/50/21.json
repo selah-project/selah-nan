@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "遮个你做了,我就恬默;你想講我是親像你;我欲責備你,排列佇你个目睭前。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你做了"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "我就恬默"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "你想講"
+    },
+    {
+      "surface": "היות",
+      "gloss": "是"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "親像你"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "我欲責備你"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "排列"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "佇你个目睭前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:48.901381750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "我主問⟨את⟩伊的奴僕講:「恁有父親抑是兄弟無?」",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "我主"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的奴僕"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "היש",
+      "gloss": "有……無"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:01.727695725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我的目屎對我成做餅,日時佮暗時,因為𪜶規日共我講:你的以羅欣佇佗位?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "成做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "我的目屎"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暗時"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "因為…講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "共我"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:08.613213740Z",
+  "model": "glm-5.3"
+}

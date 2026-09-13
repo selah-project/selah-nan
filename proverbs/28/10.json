@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "誘拐正直的人入歹路的,家己會跋落伊的家己坑;完全的人會承接好物。",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "誘拐……行偏差"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直的人"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "入……路"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "佇伊家己的坑"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "家己"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "會跋落"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "閣完全的人"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "會承接"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:37.345862557Z",
+  "model": "glm-5.3"
+}

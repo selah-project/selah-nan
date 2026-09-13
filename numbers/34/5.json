@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 34:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "閣界會對阿茲蒙彎過去，到埃及的溪仔，伊的出口攏會到大海。",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "閣…彎過去"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "界"
+    },
+    {
+      "surface": "מעצמון",
+      "gloss": "對阿茲蒙"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "溪仔"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "攏會"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "伊的出口"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "到大海"
+    }
+  ],
+  "timestamp": "2026-09-12T02:05:39.874358123Z",
+  "model": "glm-5.3"
+}

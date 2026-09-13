@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "亞倫的家啊,恁著倚靠雅威;伊是𪜶的幫助,嘛是𪜶的盾牌。",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "恁著倚靠"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "𪜶的幫助"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "嘛是𪜶的盾牌"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:38.979352699Z",
+  "model": "glm-5.3"
+}

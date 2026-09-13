@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "「西頓人共赫爾蒙叫做細利安,亞摩利人共伊叫做細尼爾。」",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "西頓人"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "叫做"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "共赫爾蒙"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "細利安"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "叫做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "共伊"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "細尼爾"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:44.507882272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "𪜶下昏倒轉來,親像狗咧吠,閣踅城市。",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "𪜶倒轉來"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "下昏"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "咧吠"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "親像狗"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "閣踅"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城市"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:55.652257125Z",
+  "model": "glm-5.3"
+}

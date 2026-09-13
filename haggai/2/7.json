@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我欲搖動⟨את⟩所有列國,𪜶欲來,列國一切所切慕的物;我欲用榮光充滿⟨את⟩這間殿——雅威・采巴奧特講。",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "我欲搖動"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有列國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "𪜶欲來"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "所切慕的物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "我欲充滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這間殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這間"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:31.224981876Z",
+  "model": "glm-5.3"
+}

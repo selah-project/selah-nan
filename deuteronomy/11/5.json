@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣伊佇曠野為恁所行的事,直到恁來到遮這个所在:",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "閣……的事"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所行"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為恁"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "恁來到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "這个所在"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "遮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:23.742120520Z",
+  "model": "glm-5.3"
+}

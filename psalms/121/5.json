@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "雅威是顧你的,雅威是你的影,佇你的正手爿。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "顧你的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "你的影"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:39.121170124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 84,
+  "translation": "互指揮者的,用迦特琴;可拉的子兒的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者的"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "迦特琴"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "……的子兒"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:58.513610419Z",
+  "model": "glm-5.3"
+}

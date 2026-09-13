@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 10:30",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣對巴哈·摩押的後代中,有阿得納、克拿勒、比拿雅、瑪阿西雅、瑪他尼雅、比撒利珥、佮賓努伊、佮瑪拿西。",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "閣對……的後代"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "巴哈"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "阿得納"
+    },
+    {
+      "surface": "וכלל",
+      "gloss": "佮克拿勒"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "比拿雅"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "瑪阿西雅"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "瑪他尼雅"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "比撒利珥"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "佮賓努伊"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "佮瑪拿西"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:12.166595783Z",
+  "model": "glm-5.3"
+}

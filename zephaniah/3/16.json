@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇彼個日,人會對耶路撒冷講:毋通驚;錫安啊,你的手毋通垂落。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇彼個日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "人會講"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "驚"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "垂落"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你的手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:09.492756999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "佇亞倫點⟨את⟩燈火的時,佇下晝暗邊仔,伊著燒伊,做常常佇雅威面前的香,對恁逐世代。",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "佇……點的時"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燈火"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "燈火"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇……之間"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "下晝暗邊仔"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "伊著燒伊"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "對恁逐世代"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:29.777439622Z",
+  "model": "glm-5.3"
+}

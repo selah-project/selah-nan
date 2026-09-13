@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 28:40",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "你欲替亞倫的囝仔做長衫,嘛欲替𪜶做腰帶,帽仔你欲替𪜶做,做榮光佮美。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "替…的囝仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "長衫"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "嘛欲做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "替𪜶"
+    },
+    {
+      "surface": "אבנטים",
+      "gloss": "腰帶"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "佮帽仔"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "替𪜶"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "做榮光"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "佮美"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:08.780042675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你欲牽⟨את⟩牛到會幕的面頭前;亞倫佮伊的眾子欲按⟨את⟩𪜶的手佇牛的頭殼頂。",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "你欲牽…到"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牛"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會(相刵的所在)"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "欲按"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "佮伊的眾子"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭殼頂"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "牛的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:24.032384940Z",
+  "model": "glm-5.3"
+}

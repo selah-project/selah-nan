@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "拿單就轉去伊的家。雅威擊打⟨את⟩烏利亞的某予大衛所生的彼個囝仔,伊就病甲真重。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "轉去"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個囝仔"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "彼個囝仔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "所生"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "予大衛"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "病甲真重"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:23.663214252Z",
+  "model": "glm-5.3"
+}

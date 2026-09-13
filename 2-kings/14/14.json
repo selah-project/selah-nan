@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊提了⟨את⟩所有的金佮銀,閣提⟨את⟩佇雅威的殿佮王的宮內庫房所抵著的一切器具,佮⟨את⟩做人質的囡仔,就倒去撒馬利亞。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "伊提了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的金佮銀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "佮銀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "一切器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器具"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "所抵著的"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "佇……的庫房"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "做人質的囡仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "做人質"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就倒去"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:03.374676279Z",
+  "model": "glm-5.3"
+}

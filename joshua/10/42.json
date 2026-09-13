@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣⟨את⟩諸個列王攏總佮⟨את⟩𪜶的地,約書亞一擺就掠𪜶矣;因為雅威、以色列的以羅欣替以色列相刣。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "諸個列王攏總"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "諸個列王"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的地"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "掠"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "擺"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以色列的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "相刣"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "替以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:59.756640895Z",
+  "model": "glm-5.3"
+}

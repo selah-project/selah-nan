@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "我就會下令⟨את⟩我的祝福臨到恁,佇第六年,伊就會備辦⟨את⟩收成,抵三年份的量。",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "我就會下令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的祝福"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "我的祝福"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "臨到恁"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "第六年"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "伊就會備辦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个收成"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "收成"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "三年份"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "(幾)年"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:43.264544287Z",
+  "model": "glm-5.3"
+}

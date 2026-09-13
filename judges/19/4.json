@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊的丈人——彼個少女的老父——強留伊,伊佮⟨את⟩伊坐規三日;𪜶食、𪜶啉、𪜶歇睏佇遐。",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "強留"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "伊的丈人"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "老父"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "彼個少女的"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐規"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(利未人)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "𪜶食"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "𪜶啉"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "𪜶歇睏"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T02:36:29.035542355Z",
+  "model": "glm-5.3"
+}

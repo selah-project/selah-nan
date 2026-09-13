@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "阮的性命親像鳥仔對設網人的網仔逃脫;網仔破去,阮就逃脫矣。",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "阮的性命"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "親像鳥仔"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "逃脫"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "對…網仔"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "設網人的"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "網仔"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "破去"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "阮就"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "逃脫矣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:45.102295965Z",
+  "model": "glm-5.3"
+}

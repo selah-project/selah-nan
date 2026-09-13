@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "亞倫佮伊的眾子著對彼个洗盆洗⟨את⟩𪜶的手佮⟨את⟩𪜶的腳。",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "著洗"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "佮伊的眾子"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對彼个洗盆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的手"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的腳"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "𪜶的腳"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:36.888222469Z",
+  "model": "glm-5.3"
+}

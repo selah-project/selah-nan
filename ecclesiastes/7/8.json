@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "代誌的結局比伊的起頭較好；性情忍耐比性情高傲較好。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "結局"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "比伊的起頭"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "忍耐"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "性情"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "比…高傲"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "性情"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:19.303242731Z",
+  "model": "glm-5.3"
+}

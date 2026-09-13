@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "佇以法蓮、便雅憫、瑪拿西面前,醒起⟨את⟩你的大氣力,來做阮的拯救!",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "醒起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的大氣力"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "你的大氣力"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "來"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "做拯救"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:22.679882793Z",
+  "model": "glm-5.3"
+}

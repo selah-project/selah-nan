@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "你的座位,以羅欣啊,是永永遠遠;你國的權柄是正直的權柄。",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "你的座位"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣啊"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "佮遠遠"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "權柄"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "權柄"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "你國的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:27.865153382Z",
+  "model": "glm-5.3"
+}

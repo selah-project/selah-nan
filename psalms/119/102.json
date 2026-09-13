@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "對你的判語我無偏離,因為是你教示我。",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "對你的判語"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "我偏離"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "是你"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "教示我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:31.545116150Z",
+  "model": "glm-5.3"
+}

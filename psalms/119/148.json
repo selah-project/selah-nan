@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的目睭趕佇夜更的頭前,欲默想你的話。",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "趕佇…的頭前"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "夜更"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "欲默想"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:44.964122819Z",
+  "model": "glm-5.3"
+}

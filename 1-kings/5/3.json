@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "十隻飼肥的牛,佮二十隻草埔的牛,佮一百隻羊,另外有公鹿、羌仔、鹿,佮飼肥的禽鳥。",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "隻牛"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "飼肥的"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "隻牛"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "草埔的"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "佮一百"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "另外"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "公鹿"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "佮羌仔"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "佮鹿"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "佮禽鳥"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "飼肥的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:10.531272361Z",
+  "model": "glm-5.3"
+}

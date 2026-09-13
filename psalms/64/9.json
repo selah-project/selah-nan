@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "𪜶予家己的舌溜絆倒家己;𪜶的舌溜倒轉來對付𪜶,逐个看見𪜶的人攏會搖頭。",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "𪜶予家己絆倒家己"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "倒轉來對付𪜶"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "𪜶的舌溜"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "攏會搖頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:33.772652957Z",
+  "model": "glm-5.3"
+}

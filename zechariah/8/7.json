@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "按呢雅威・采巴奧特講:看啊,我欲救⟨את⟩我的人民,對日頭出來的彼個地,嘛對日頭入去的彼個地。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的人民"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…的地"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "日頭出來"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "嘛對…的地"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "日頭入去"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:07.430390274Z",
+  "model": "glm-5.3"
+}

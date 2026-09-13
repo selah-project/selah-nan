@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "愛管教的,愛知識;獨忌恨責備的,是愚戇。",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "愛"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "獨忌恨"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "責備"
+    },
+    {
+      "surface": "בער",
+      "gloss": "愚戇"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:15.644380410Z",
+  "model": "glm-5.3"
+}

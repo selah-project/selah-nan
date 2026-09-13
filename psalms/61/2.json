@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 61,
+  "translation": "以羅欣啊,聽我的呼求;斟酌聽我的祈禱。",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "我的呼求"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "斟酌聽"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:26.566447168Z",
+  "model": "glm-5.3"
+}

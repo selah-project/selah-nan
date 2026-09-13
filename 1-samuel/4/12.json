@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "有一个便雅憫人對陣中走出來,彼个日走到示羅,伊的衫予人撕破,頭殼頂有土。",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "走出來"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "對陣中"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "走到"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "示羅"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "彼个日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "予人撕破"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭殼"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:58.881332172Z",
+  "model": "glm-5.3"
+}

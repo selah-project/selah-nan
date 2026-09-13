@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "因為我食灰像麵包,我的飲料用目屎來摻。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "灰"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "像麵包"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "我食"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "我的飲料"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "用目屎"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "我摻"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:47.225264331Z",
+  "model": "glm-5.3"
+}

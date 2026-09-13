@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "亞伯拉罕將⟨את⟩伊所有的一切攏給以撒。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所有的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "予以撒"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:45.987857120Z",
+  "model": "glm-5.3"
+}

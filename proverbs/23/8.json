@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你食落去的彼嘴飯,你會吐出來,嘛糟蹋你的好聽話。",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "彼嘴飯"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "你食"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "你會吐出來"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "嘛糟蹋"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "好聽的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:42.362075803Z",
+  "model": "glm-5.3"
+}

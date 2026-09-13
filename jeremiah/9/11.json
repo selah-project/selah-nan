@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 9:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "啥物人是智慧人,會當明白⟨את⟩這事?閣啥物人是雅威的喙對伊講過的,會當曉示這个?是為著啥物土地毀滅,燒甲親像曠野,無人行過?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "會當明白"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這事"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這事"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "閣…的"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講過"
+    },
+    {
+      "surface": "פי",
+      "gloss": "喙"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ויגדה",
+      "gloss": "會當曉示這个"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "נצתה",
+      "gloss": "燒"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "親像曠野"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "人行過"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:09.373492214Z",
+  "model": "glm-5.3"
+}

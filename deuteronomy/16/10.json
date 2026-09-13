@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 16:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "你欲為雅威你的以羅欣守七七節期,照你喙手甘心奉獻的份量,你欲獻彼個,照雅威你的以羅欣祝福你的份量。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲守"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節期"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "七七"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "מסת",
+      "gloss": "份量"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "甘心奉獻"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你喙手"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "你欲獻"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "祝福你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:31.831924963Z",
+  "model": "glm-5.3"
+}

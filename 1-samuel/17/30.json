@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊對伊遐閃開,徛到另外一個人面前,照這話閣講;彼眾人照頭前彼句話應伊。",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "伊閃開"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "對伊遐"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מול",
+      "gloss": "面前"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "另外一個"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "應伊"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼眾人"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…話"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭前的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:21.888136780Z",
+  "model": "glm-5.3"
+}

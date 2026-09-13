@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "歸个百姓親像一个仝款的人,齊聚集到水門頭前的廣場;𪜶對文士以斯拉講,請伊捧⟨את⟩摩西的律法冊——就是雅威命令⟨את⟩以色列的——來。",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "齊聚集"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "親像一个人"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "(一个)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "廣場"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "對以斯拉"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "文士"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "請伊捧來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西的律法冊"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼本"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:29.645323593Z",
+  "model": "glm-5.3"
+}

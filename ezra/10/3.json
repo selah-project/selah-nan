@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 10:3",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "「今,阮著閣佮阮的以羅欣立約,欲給所有的查某,佮對𪜶所生的,攏趕出去──照阿多奈的意見,佮許個驚畏阮以羅欣誡命的人──閣照律法來行。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "著…立"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "佮阮的以羅欣"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "欲趕出去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "查某"
+    },
+    {
+      "surface": "והנולד",
+      "gloss": "佮所生的"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "照…的意見"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "והחרדים",
+      "gloss": "佮許個驚畏"
+    },
+    {
+      "surface": "במצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮以羅欣的"
+    },
+    {
+      "surface": "וכתורה",
+      "gloss": "閣照律法"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "來行"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:50.768380330Z",
+  "model": "glm-5.3"
+}

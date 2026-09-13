@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "因為暗對你嘛袂暗,暗暝親像日時會光;親像暗暝,嘛親像光。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "暗"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "變暗"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "暗暝"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "親像日時"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "光"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "親像暗暝"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "親像光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:38.258782535Z",
+  "model": "glm-5.3"
+}

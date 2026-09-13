@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "王亞哈隨魯就講,閣對王后以斯帖講:「彼个是啥人?伊閣佇佗位?就是彼個心充滿伊、欲按呢做的人。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "對以斯帖"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王后"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "זה",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "閣佗位"
+    },
+    {
+      "surface": "זה",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個……的人"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "充滿伊"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T05:43:05.674111518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "你伸出你的正手,土就吞落𪜶。",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "你伸出"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "吞落𪜶"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:13.028706307Z",
+  "model": "glm-5.3"
+}

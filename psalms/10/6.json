@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊佇伊的心內講:「我袂振動;一代閣一代,我免遇著歹。」",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "佇伊的心內"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "振動"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨引號內的話⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "免"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "遇著歹"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:51.133612218Z",
+  "model": "glm-5.3"
+}

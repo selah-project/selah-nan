@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "𪜶佇比色克尋著⟨את⟩阿多尼・比色克,就佮伊相戰;𪜶拍敗⟨את⟩迦南人佮⟨את⟩比利洗人。",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿多尼・比色克"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多尼"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "比色克"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "佇比色克"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "拍敗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南人"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "比利洗人"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "比利洗人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:15.009511480Z",
+  "model": "glm-5.3"
+}

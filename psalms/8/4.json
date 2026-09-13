@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "因為我看你的諸天,你的指頭所做的工,月娘佮星,你所建立的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "我看"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "你的諸天"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "…所做的工"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "你的指頭"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "月娘"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "佮星"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "你所建立的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:33.786029435Z",
+  "model": "glm-5.3"
+}

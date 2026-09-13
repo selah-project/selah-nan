@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "恁佇這個城內加添恁的死者，閣恁用死者充滿伊的街路。",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "恁加添"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "恁的死者"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇這個城內"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "閣恁充滿"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "伊的街路"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "死者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:10:25.936564074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "一個面容兇猛的邦,伊毋抬老人的面,嘛毋憐惜少年人。",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "邦"
+    },
+    {
+      "surface": "עז",
+      "gloss": "兇猛的"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面容"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "抬"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "老人"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "佮少年人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "憐惜"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:04.063100345Z",
+  "model": "glm-5.3"
+}

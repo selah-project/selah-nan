@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "歹人謀算對付義人,閣對伊咬牙切齒。",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "謀算"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "對付義人"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "咬牙"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "伊的齒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:37.007863486Z",
+  "model": "glm-5.3"
+}

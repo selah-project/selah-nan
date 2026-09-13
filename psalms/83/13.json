@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "𪜶講:「阮來侵佔做阮的,⟨את⟩以羅欣的草埔。」",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "侵佔"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "做阮的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的草埔"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "草埔"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:18.590820501Z",
+  "model": "glm-5.3"
+}

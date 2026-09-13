@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我欲用清白洗我的手,雅威啊,我欲環繞⟨את⟩你的祭壇。",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "我欲洗"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "用清白"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "我的手掌"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "我欲環繞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的祭壇"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "你的祭壇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:57.037074773Z",
+  "model": "glm-5.3"
+}

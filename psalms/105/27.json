@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "𪜶佇𪜶中間設立伊記號的事蹟,佮奇事佇含的地。",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "設立"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的事蹟"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "伊的記號"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "佮奇事"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:10.249423568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 22:25",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "米該雅講:看啊,佇彼个日子你欲看見,彼時你欲走入去房間內底的房間,欲覕佇遐。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "米該雅"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼个日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "你欲走入去"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "房間"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "佇房間內底"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "欲覕佇遐"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:21.304865434Z",
+  "model": "glm-5.3"
+}

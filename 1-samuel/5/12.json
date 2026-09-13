@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼寡無死的人嘛予癰瘤擊著，城的哀聲上升到諸天。",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "彼寡人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "予癰瘤擊著"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "癰瘤"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "上升到"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "哀聲"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城的"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:48.546145833Z",
+  "model": "glm-5.3"
+}

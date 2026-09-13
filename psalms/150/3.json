@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 150,
+  "translation": "用羊角的吹聲呵咾伊,用琴佮豎琴呵咾伊。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "呵咾伊"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "用吹聲"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "呵咾伊"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "用琴"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "佮豎琴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:40.723480105Z",
+  "model": "glm-5.3"
+}

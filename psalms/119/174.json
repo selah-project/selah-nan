@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 174,
+  "ref": "psalms 119:174",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "雅威啊,我渴想你的救恩;你的律法是我的歡喜。",
+  "tokens": [
+    {
+      "surface": "תאבתי",
+      "gloss": "我渴想"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "你的救恩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "你的律法"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "我的歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:42.039472741Z",
+  "model": "glm-5.3"
+}

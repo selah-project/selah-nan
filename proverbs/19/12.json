@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "王的受氣親像獅仔的吼聲,伊的恩惠親像露水降落佇草仔頂。",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "吼聲"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "親像獅仔"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "親像露水"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草仔"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "伊的恩惠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:12.384469030Z",
+  "model": "glm-5.3"
+}

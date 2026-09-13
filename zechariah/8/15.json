@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "按呢我閣倒轉來,佇這些日子我打算欲好待⟨את⟩耶路撒冷佮⟨את⟩猶大家;毋通驚。",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "我閣倒轉來"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "我打算"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "欲好待"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "猶大家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "驚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:40.103105970Z",
+  "model": "glm-5.3"
+}

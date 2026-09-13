@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "起來,去撒勒法(屬西頓的),佇遐徛起:看啊,我已經命令遐一个寡婦查某人飼你。",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "撒勒法"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "西頓的"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我已經命令"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "飼你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:36.599666279Z",
+  "model": "glm-5.3"
+}

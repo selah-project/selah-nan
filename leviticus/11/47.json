@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "來分別無清氣的佮清氣的,分別會使食的活物佮彼個毋通食的活物。",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "來分別"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…佮…"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "無清氣的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…佮…"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…佮…"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "活物"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "會使食的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…佮…"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "活物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:46.978851095Z",
+  "model": "glm-5.3"
+}

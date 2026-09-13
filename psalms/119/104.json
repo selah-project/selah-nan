@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "對你的律例我得著明白,所以阮怨恨逐條白賊的路。",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "對你的律例"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "我得著明白"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "阮怨恨"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐條"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "路"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:31.545550580Z",
+  "model": "glm-5.3"
+}

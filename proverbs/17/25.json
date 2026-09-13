@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "愚戇的子是伊老爸的煩惱,嘛是生伊的老母的苦楚。",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "煩惱"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "伊的老爸"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚戇的"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "嘛是…苦楚"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "生伊的老母"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:32.274308005Z",
+  "model": "glm-5.3"
+}

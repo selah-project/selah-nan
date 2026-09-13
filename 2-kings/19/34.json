@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 19:34",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "我欲蔭這個城來救伊,為著我家己,嘛為著我的奴僕大衛。",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "我欲蔭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "來"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這個城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "救伊"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "為著我家己"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "嘛為著"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:54.155599360Z",
+  "model": "glm-5.3"
+}

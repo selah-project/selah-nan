@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣討魚人會哀嘆悲哀,所有佇運河擲釣仔的攏會啼哭,佇水面罩網的攏會消瘦去。",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "閣會哀嘆"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "討魚人"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "閣會悲哀"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "擲的"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "佇運河"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "釣仔"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "閣罩網的"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "網"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "攏會消瘦去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:02.910715154Z",
+  "model": "glm-5.3"
+}

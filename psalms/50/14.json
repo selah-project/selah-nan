@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "著獻感恩做祭互以羅欣,閣對以利昂(至高者)還你的願。",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "著……做祭獻"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "互以羅欣"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "感恩"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "閣……還"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "對以利昂(至高者)"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "你的願"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:12.222683953Z",
+  "model": "glm-5.3"
+}

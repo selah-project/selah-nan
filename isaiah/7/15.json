@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "凝乳佮蜜伊欲食,到伊知影拒絕歹、揀好。",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "凝乳"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "佮蜜"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "伊欲食"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "到伊知影"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "拒絕"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "揀"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "好"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:45.203310677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣若有一個該死的罪的刑罰落佇一個人身上,閣伊互人處死,閣你共⟨את⟩伊掛佇樹頂,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "閣若"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "佇一個人"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "刑罰"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "閣互人處死"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "閣你掛"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹頂"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:13.161796589Z",
+  "model": "glm-5.3"
+}

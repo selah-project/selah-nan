@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為你共我抾落深淵,佇海的中央;大水流環繞我;你一切的湧浪佮你的波浪攏對我頂面經過。",
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "你共我抾落"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "佇…的中央"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "佮大水流"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "環繞我"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "你的湧浪"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "佮你的波浪"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我頂面"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "攏經過"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:23.416986420Z",
+  "model": "glm-5.3"
+}

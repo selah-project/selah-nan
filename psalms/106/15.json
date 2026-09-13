@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "伊就互𪜶所求的,毋拘將消瘦送入𪜶的性命內。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "伊就互"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "所求的"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "毋拘將…送入"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "消瘦"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "𪜶的性命內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:17.250253879Z",
+  "model": "glm-5.3"
+}

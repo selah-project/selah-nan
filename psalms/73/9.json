@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "𪜶將𪜶的嘴設佇天,𪜶的舌佇地上行。",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "設"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "𪜶的嘴"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "佮𪜶的舌"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:35.129557757Z",
+  "model": "glm-5.3"
+}

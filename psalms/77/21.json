@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "你親像牧羊仔引導你的子民，藉摩西佮亞倫的手。",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "引導"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "親像牧羊仔"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的子民"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:12.638247133Z",
+  "model": "glm-5.3"
+}

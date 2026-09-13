@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "你迎接彼個歡喜行公義、佇你的道路記得你的人。看啊，你受氣，阮犯罪；佇⟨את⟩其中就有長久，阮就會得救。",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "你迎接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歡喜行公義的人"
+    },
+    {
+      "surface": "שש",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "佮行"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "佇你的道路"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "記得你"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "阮犯罪"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇其中"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "長久"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "阮會得救"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:15.863549629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "雅威啊，毋通互歹人得著伊所向望的；伊的計謀毋通成，免得𪜶懸懸昇起來。細拉。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "互…得著"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "所向望的"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "伊的計謀"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "成"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "懸懸昇起來"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:19.518160655Z",
+  "model": "glm-5.3"
+}

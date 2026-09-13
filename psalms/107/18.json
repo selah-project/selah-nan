@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "逐樣食物𪜶的性命攏厭惡,𪜶就行到死亡的門。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "逐樣"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "攏厭惡"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "𪜶就行到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "…的門"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:44.910568952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊會使食伊的以羅欣的食物,對至聖的物,嘛對聖的物。",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "對至聖的物"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "至聖"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "嘛對"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖的物"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "伊會使食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:22.833330834Z",
+  "model": "glm-5.3"
+}

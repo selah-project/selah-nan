@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "恁欲照我所做的去做:恁毋通掩恁的喙鬚頂面,嘛毋通食人的餅。",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "恁欲做"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我所做的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇...頂面"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "喙鬚"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "掩"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "佮...餅"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "人的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:43.913968242Z",
+  "model": "glm-5.3"
+}

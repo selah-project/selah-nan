@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "欲聽見監囚的哀叫,來放予死定著的子兒;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "欲聽見"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "哀叫"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "監囚"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "來放予"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "死定著"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:23.846483647Z",
+  "model": "glm-5.3"
+}

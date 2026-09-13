@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "對諸天的極限是伊的出口,伊的環繞到𪜶的極限;無啥物會使對伊的熱度躲起來。",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "對……的極限"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "伊的出口"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "佮伊的環繞"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "𪜶的極限"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "佮無"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "躲起來"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "對伊的熱度"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:20.678892355Z",
+  "model": "glm-5.3"
+}

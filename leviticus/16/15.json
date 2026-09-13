@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 16:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "閣伊欲宰⟨את⟩彼隻為著百姓的罪祭羊公,閣帶⟨את⟩伊的血到布簾內面,閣照伊對牛的血所行的,用⟨את⟩伊的血按呢行,閣灑⟨את⟩伊佇蓋頂面佮蓋面前。",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "閣…宰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "罪祭羊公"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "羊公"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "罪祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "為著"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "閣…帶入去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "內面"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "布簾"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "閣…行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "對…血"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "閣…灑"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(羊公的血)"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "蓋"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "佮…面前"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "蓋"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:22.447295332Z",
+  "model": "glm-5.3"
+}

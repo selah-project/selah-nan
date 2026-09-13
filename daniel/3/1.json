@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 3:1",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "尼布甲尼撒王造一個金的像,伊的高六十肘,伊的闊六肘;伊徛起佇巴比倫省的杜拉平原。",
+  "tokens": [
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "造"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "像"
+    },
+    {
+      "surface": "די",
+      "gloss": "的"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "高"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "肘"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "六十"
+    },
+    {
+      "surface": "פתיה",
+      "gloss": "闊"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "肘"
+    },
+    {
+      "surface": "שת",
+      "gloss": "六"
+    },
+    {
+      "surface": "אקימה",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "佇…平原"
+    },
+    {
+      "surface": "דורא",
+      "gloss": "杜拉"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "佇…省"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:44:12.783556756Z",
+  "model": "glm-5.3"
+}

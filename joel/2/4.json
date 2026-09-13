@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "親像諸隻馬的形,是𪜶的形;閣親像騎馬的,按呢𪜶咧走。",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "親像…的形"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "諸隻馬"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "𪜶的形"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "閣親像騎馬的"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "𪜶咧走"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:55.494951628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 4:19",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "何況彼啲徛起土埆厝、地基佇土粉中的人,𪜶佇蛾仔面前予拍碎!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "徛起的人"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "厝"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "土埆"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "佇土粉"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "𪜶的地基"
+    },
+    {
+      "surface": "ידכאום",
+      "gloss": "予拍碎"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "עש",
+      "gloss": "蛾仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:14.326353545Z",
+  "model": "glm-5.3"
+}

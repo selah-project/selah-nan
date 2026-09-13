@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "彼個查某人懷孕,生一个後生;伊看見⟨את⟩伊,見伊真媠,就共伊匿三個月日。",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "懷孕"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼個查某人"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一个後生"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "伊看見"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(彼個嬰仔)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "見"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "真媠"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "共伊匿"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三個"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "月日"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:19.528073624Z",
+  "model": "glm-5.3"
+}

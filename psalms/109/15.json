@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願𪜶徛佇雅威面前不斷,互伊對土地剪除𪜶的紀念。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "願𪜶徛"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不斷"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "互伊剪除"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土地"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "𪜶的紀念"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:17.138387228Z",
+  "model": "glm-5.3"
+}

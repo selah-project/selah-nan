@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊做王的時是三十佮二歲，佇耶路撒冷做王八年。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歲(做…歲的囡仔)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "佮二"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "佇伊做王的時"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:49.644931814Z",
+  "model": "glm-5.3"
+}

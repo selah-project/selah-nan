@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "總是我揀耶路撒冷,互我的名徛佇遐;我揀大衛,伊徛佇我的子民以色列頂面。",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "總是我揀"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "互…徛"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "我揀"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的子民"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:26.678934669Z",
+  "model": "glm-5.3"
+}

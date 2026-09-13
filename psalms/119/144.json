@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "汝个法度个公義⟨是⟩永遠个;賜我明白,我就會活。",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "汝个法度"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "賜我明白"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "我就會活"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:20.634861119Z",
+  "model": "glm-5.3"
+}

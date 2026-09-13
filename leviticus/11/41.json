@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "見若佇地面頂蠕行咧蠕行的物,是可憎的物,袂使食。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "蠕行的物"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "咧蠕行"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎的物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:47.323203527Z",
+  "model": "glm-5.3"
+}

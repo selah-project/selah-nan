@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "𪜶會滅無,你欲徛在;𪜶攏欲親像衫仔按呢破舊;親像換衫,你欲換𪜶,𪜶就換新過去。",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "會滅無"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "欲徛在"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "𪜶攏"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "親像衫仔"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "欲破舊"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "親像換衫"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "你欲換𪜶"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "𪜶就過去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.890052208Z",
+  "model": "glm-5.3"
+}

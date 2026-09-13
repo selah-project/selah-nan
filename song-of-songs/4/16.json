@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 4:16",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "北風啊,醒起來!南風啊,來喔!吹入我的園,互伊的香味滴落來。願我的心愛入去伊的園,食伊上美的果子。",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "醒起來"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北風"
+    },
+    {
+      "surface": "ובואי",
+      "gloss": "佮來"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "南風"
+    },
+    {
+      "surface": "הפיחי",
+      "gloss": "吹"
+    },
+    {
+      "surface": "גני",
+      "gloss": "我的園"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "滴落來"
+    },
+    {
+      "surface": "בשמיו",
+      "gloss": "伊的香味"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我的心愛"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "去伊的園"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "佮食"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "מגדיו",
+      "gloss": "伊上美的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:21.945171090Z",
+  "model": "glm-5.3"
+}

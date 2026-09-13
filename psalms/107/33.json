@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "⟨伊⟩共河流變做曠野,出水泉的所在變做焦渴的地;",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "⟨伊⟩設"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "河流"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "做曠野"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "佮出水泉的"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "做焦渴的地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:39.030495349Z",
+  "model": "glm-5.3"
+}

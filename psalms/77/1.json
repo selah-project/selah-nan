@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "指揮者,照耶杜頓;亞薩𪜩詩篇。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "指揮者"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "耶杜頓"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:18.124410057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "彼時雅威差一个先知去以色列的子兒遐，伊就對𪜶講：「雅威──以色列的以羅欣──按呢講：我，是我將⟨את⟩恁對埃及帶上來，嘛將⟨את⟩恁對奴僕的家帶出來。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "帶上來"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對埃及"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "嘛帶出來"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:02.375233184Z",
+  "model": "glm-5.3"
+}

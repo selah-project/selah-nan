@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "雅威啊,無親像你的,嘛無別个以羅欣,除你以外,照阮親耳聽著的一切。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "親像你的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "除你以外"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "阮聽著"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "親耳"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:22.781898309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "雅威記得阮;伊欲賜福,欲賜福⟨את⟩以色列的家,欲賜福⟨את⟩亞倫的家。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "記得阮"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "欲賜福"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞倫的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:38.979613229Z",
+  "model": "glm-5.3"
+}

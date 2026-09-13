@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣若有男人共伊的睏交佇牲畜身上,一定愛處死伊;閣 ⟨את⟩ 彼隻牲畜恁著刣掉。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣若有男人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יתן",
+      "gloss": "交佇"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "伊的睏"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "牲畜身上"
+    },
+    {
+      "surface": "מות",
+      "gloss": "一定愛處死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "處死"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "彼隻牲畜"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "彼隻牲畜"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "恁著刣掉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:07.194519832Z",
+  "model": "glm-5.3"
+}

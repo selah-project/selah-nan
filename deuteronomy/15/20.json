@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "你佮你的厝內的人,欲佇雅威你的以羅欣面前,佇雅威所揀選的所在,一年過一年食伊。",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "你欲食伊"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "過一年"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇…的所在"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "揀選"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "佮你的厝內的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:50.382510923Z",
+  "model": "glm-5.3"
+}

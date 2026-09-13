@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "猶大看著伊,想講伊是娼妓,因為伊有罩面。",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "看著伊"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "想講伊是"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "娼妓"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "有罩"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:40.291719321Z",
+  "model": "glm-5.3"
+}

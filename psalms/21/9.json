@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "你的手會尋著你一切的對敵;你的正手會尋著怨恨你的人。",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "會尋著"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "會尋著"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "怨恨你的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:32.782581417Z",
+  "model": "glm-5.3"
+}

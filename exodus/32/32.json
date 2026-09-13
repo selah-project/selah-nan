@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "這陣,你若肯擔當𪜶的罪——若無,請你將我對你所寫的冊抹消。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "擔當"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "𪜶的罪"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若無"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "抹消我"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "你的冊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "你所寫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:44.742948517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "遵守誡命的,是看守伊的性命;看輕家己道路的,會死去。",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "看輕"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "家己道路"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "會死去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:15.822595245Z",
+  "model": "glm-5.3"
+}

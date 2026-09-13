@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "做伊的天使做風,伊的差役做燒燙的火炎。",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "伊的天使"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "風"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "伊的差役"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火炎"
+    },
+    {
+      "surface": "להט",
+      "gloss": "燒燙的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:18.380117979Z",
+  "model": "glm-5.3"
+}

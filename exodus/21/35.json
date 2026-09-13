@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "若是人的牛觸⟨את⟩伊同伴的牛,抑死啊,𪜶著賣⟨את⟩彼隻活的牛,均分⟨את⟩伊的銀子;連⟨את⟩彼隻死的嘛著對半分。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "觸"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊同伴的牛"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊同伴的"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "抑死啊"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "𪜶著賣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻活的牛"
+    },
+    {
+      "surface": "השור",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "均分"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的銀子"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "伊的銀子"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻死的"
+    },
+    {
+      "surface": "המת",
+      "gloss": "彼隻死的"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "著對半分"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:12.384922953Z",
+  "model": "glm-5.3"
+}

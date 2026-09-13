@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "伊一生一世攏用善待伊翁,毋用歹。",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "伊用待伊"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "善"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "一世的日"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "伊的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:41.291991437Z",
+  "model": "glm-5.3"
+}

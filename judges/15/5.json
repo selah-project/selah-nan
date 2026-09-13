@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 15:5",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊點火佇火把,放落入去非利士人的粟田,就燒起來,對粟堆燒到企咧的粟,連到橄欖園。",
+  "tokens": [
+    {
+      "surface": "ויבער",
+      "gloss": "點火燒"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בלפידים",
+      "gloss": "佇火把"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "放落去"
+    },
+    {
+      "surface": "בקמות",
+      "gloss": "佇粟田"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "מגדיש",
+      "gloss": "對粟堆"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "企咧的粟"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "連到"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "זית",
+      "gloss": "橄欖"
+    }
+  ],
+  "timestamp": "2026-09-12T02:34:52.557468526Z",
+  "model": "glm-5.3"
+}

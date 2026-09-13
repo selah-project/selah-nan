@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佮⟨את⟩耶布斯人,佮⟨את⟩亞摩利人,佮⟨את⟩基迦施人,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "耶布斯人"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "亞摩利人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "基迦施人"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "基迦施人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:57.379254823Z",
+  "model": "glm-5.3"
+}

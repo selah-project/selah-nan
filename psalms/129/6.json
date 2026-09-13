@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 129,
+  "translation": "𪜶欲親像厝頂的草,猶未長透就乾去矣。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "𪜶欲親像"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "親像草"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "厝頂"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "長透"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "乾去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:21.764724714Z",
+  "model": "glm-5.3"
+}

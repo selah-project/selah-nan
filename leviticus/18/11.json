@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你老爸的某所生的查某囝——你老爸生的——伊是你阿姊抑是小妹，你毋通揭穿伊的赤身。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "赤身"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老爸的"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "生的"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老爸"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "你阿姊抑是小妹"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "揭穿"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "伊的赤身"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:24.988938376Z",
+  "model": "glm-5.3"
+}

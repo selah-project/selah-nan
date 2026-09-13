@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "我欲用比喻開我的喙,我欲湧出古早時的謎語。",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "我欲……開"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "用比喻"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "我欲湧出"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "謎語"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對……"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "古早時"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:24.188124414Z",
+  "model": "glm-5.3"
+}

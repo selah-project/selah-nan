@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "搭配發酵麵包的餅,伊欲獻伊的祭物,佇伊的感謝平安祭上。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "搭配"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "餅"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "麵包"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "發酵的"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "伊欲獻"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "伊的祭物"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…上"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "感謝"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "伊的平安祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:49.258111224Z",
+  "model": "glm-5.3"
+}

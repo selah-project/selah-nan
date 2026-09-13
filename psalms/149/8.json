@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "欲縛𪜶的諸王佇鐵鏈內,閣縛𪜶的尊貴人佇鐵枷內;",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "欲縛"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "𪜶的諸王"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "佇鐵鏈內"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "閣…𪜶的尊貴人"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "佇…枷內"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.978265468Z",
+  "model": "glm-5.3"
+}

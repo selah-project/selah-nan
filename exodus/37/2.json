@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊用純金共伊包起來,內面佮外面攏總,閣為著伊造一個金牙邊,圍四箍輾。",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "包伊起來"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對內面"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "佮對外面"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "閣造"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為著伊"
+    },
+    {
+      "surface": "זר",
+      "gloss": "金牙邊"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍四箍輾"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:21.786393564Z",
+  "model": "glm-5.3"
+}

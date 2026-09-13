@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "七日的確滿矣,佇雅威擊打⟨את⟩河了後。",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "滿矣"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七日的確"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "河"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:56.007943519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "啥人是智慧的,通明白諸個;啥人是明達的,通知影諸個。因為雅威的路是正直的;公義的人欲行佇伊內面,悖逆的人欲佇伊內面絆倒。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧的"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "通明白"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "明達的"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "通知影𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וצדקים",
+      "gloss": "佮公義的人"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇伊內面"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "佮悖逆的人"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "絆倒"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇伊內面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:52.583603471Z",
+  "model": "glm-5.3"
+}

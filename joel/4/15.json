@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "日頭佮月暗去,星辰收起𪜶的光。",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "佮月"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "暗去"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "佮星辰"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "收起"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "𪜶的光"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:13.588329996Z",
+  "model": "glm-5.3"
+}

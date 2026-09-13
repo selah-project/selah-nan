@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "毋拘你,以羅欣啊,欲帶𪜶落去滅亡的坑;流人血佮詭詐的人,𪜶的日子𪜶袂活到一半;毋拘我,我欲倚靠佇你。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋拘你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "欲帶𪜶落去"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "到"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "滅亡的坑"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "流人血"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "佮詭詐"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "活到一半"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "𪜶的日子"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "毋拘我"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:24.212780216Z",
+  "model": "glm-5.3"
+}

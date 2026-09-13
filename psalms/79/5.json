@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "到啥物時陣,雅威?祢欲受氣到永遠嗎?祢的嫉妒欲燒親像火無?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到啥物時陣"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "祢欲受氣"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "欲燒"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "祢的嫉妒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:35.220744619Z",
+  "model": "glm-5.3"
+}

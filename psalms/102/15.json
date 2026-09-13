@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "因為你的奴僕歡喜⟨את⟩伊的石頭,憐惜⟨את⟩伊的土粉。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的石頭"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "伊的石頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的土粉"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "伊的土粉"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "憐惜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:35.353516604Z",
+  "model": "glm-5.3"
+}

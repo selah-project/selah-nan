@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "予樂長,用尼希羅特(伴奏);大衛个詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "予樂長"
+    },
+    {
+      "surface": "אל",
+      "gloss": "用"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "尼希羅特"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:53.366219474Z",
+  "model": "glm-5.3"
+}

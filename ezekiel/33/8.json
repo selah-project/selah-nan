@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 33:8",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "我若對歹人講:歹人啊,你的確愛死;你若無開嘴警戒歹人離開伊的路,彼個歹人欲佇伊的罪惡中死,獨獨伊的血我欲對你的手討。",
+  "tokens": [
+    {
+      "surface": "באמרי",
+      "gloss": "我若…講"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "對歹人"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "愛死"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "開嘴講"
+    },
+    {
+      "surface": "להזהיר",
+      "gloss": "警戒"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "離開伊的路"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "佇伊的罪惡中"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "欲死"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "對你的手"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "我欲討"
+    }
+  ],
+  "timestamp": "2026-09-12T04:20:17.073278670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "你頭殼頂的彼个天欲⟨做⟩銅,你腳下的彼个地欲⟨做⟩鐵。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "你的天"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "你的頭殼"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "佮彼个地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "你的腳下"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:31.833793812Z",
+  "model": "glm-5.3"
+}

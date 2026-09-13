@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "就算⟨את⟩伊賣了的年數,閣還⟨את⟩剩的數額對彼个賣予伊的人,就倒轉去伊的產業。",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "算"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "年數"
+    },
+    {
+      "surface": "שני",
+      "gloss": "年"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "伊所賣的"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "還"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "剩的數額"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "剩的"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "對彼个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "賣"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "伊的產業"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:32.452184978Z",
+  "model": "glm-5.3"
+}

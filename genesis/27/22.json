@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "雅各倚近去伊的老父以撒遐;以撒就摸伊,閣講:「聲是雅各的聲,手是以掃的手。」",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "倚近去"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "摸伊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "聲"
+    },
+    {
+      "surface": "קול",
+      "gloss": "(是)…的聲"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "(是)…的手"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:39.033376976Z",
+  "model": "glm-5.3"
+}

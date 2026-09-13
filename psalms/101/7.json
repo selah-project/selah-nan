@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 101,
+  "translation": "行欺騙的,袂當坐佇我心肝內的厝;講白賊的,袂當徛佇我的目睭面前。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…心肝內"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "我的厝"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行的"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺騙"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:25.092283648Z",
+  "model": "glm-5.3"
+}

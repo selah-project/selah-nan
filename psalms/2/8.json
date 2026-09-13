@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你對我求,我就賞你列國做你的產業,地的極頭做你的業。",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "求"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "我就賞你"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "做你的產業"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "做你的業"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "…的極頭"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:55.649016632Z",
+  "model": "glm-5.3"
+}

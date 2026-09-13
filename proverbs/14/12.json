@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "有一條路佇人的面前看做正直,總是伊的結局是死亡的路。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…的面前"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "伊的結局"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "…的路"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:34.595222486Z",
+  "model": "glm-5.3"
+}

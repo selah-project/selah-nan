@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所羅門講欲起一間厝,為著雅威的名,閣一間厝為著伊的國。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "欲起"
+    },
+    {
+      "surface": "בית",
+      "gloss": "一間厝"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "為著…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "閣一間厝"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "為著伊的國"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:16.042811815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "亞倫佮以色列眾子看見⟨את⟩摩西,看啊,伊的面皮發光射出光角,𪜶驚,毋敢倚近伊。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "射出光角"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "𪜶驚"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "毋敢倚近"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:59.517360659Z",
+  "model": "glm-5.3"
+}

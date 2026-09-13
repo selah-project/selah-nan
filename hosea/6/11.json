@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "猶大嘛為你設一个收割期,當我欲互我的百姓倒轉來脫離受掠的日。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "שת",
+      "gloss": "設"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "一个收割期"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為你"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "當我欲……倒轉來"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "受掠的狀態"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:18.000810569Z",
+  "model": "glm-5.3"
+}

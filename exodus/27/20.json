@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你著吩咐⟨את⟩以色列的眾子,𪜶欲給你提純的、拍的橄欖油,做燈,互燈火常常燃。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "著吩咐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的眾子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "𪜶欲提"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "זית",
+      "gloss": "橄欖"
+    },
+    {
+      "surface": "זך",
+      "gloss": "純的"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "拍的"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "做燈"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "互…燃起來"
+    },
+    {
+      "surface": "נר",
+      "gloss": "燈火"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:37.524995134Z",
+  "model": "glm-5.3"
+}

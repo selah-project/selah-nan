@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "刀劍閣咧延慢佇伊的城內,閣欲了伊的門閂,閣欲吞食,因為怹家己的計謀。",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "閣咧延慢"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "佇伊的城內"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "閣欲了"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "伊的門閂"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "閣欲吞食"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "因為怹家己的計謀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:37.021315944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "伊愛咒詛,咒詛就臨到伊身上;伊毋愛祝福,祝福就離伊遠遠。",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "伊愛"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "就臨到伊身上"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "愛"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "就離遠遠"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:24.923168174Z",
+  "model": "glm-5.3"
+}

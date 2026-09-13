@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "以羅欣的車輿有幾萬萬閣幾萬千,重沓重沓算毋了;阿多奈佇𪜶中間 —— 西奈,佇聖所。",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "車輿"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "幾萬萬"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "幾萬千"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "重沓重沓"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:23.112421602Z",
+  "model": "glm-5.3"
+}

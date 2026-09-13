@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "一个金匙,十舍客勒,滿香。",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "匙(掌形的器)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "滿"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:58.689123584Z",
+  "model": "glm-5.3"
+}

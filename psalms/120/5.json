@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 120,
+  "translation": "禍哉著我,因為我寄腳佇米設,我徛居佮基達的帳棚做伙!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "禍哉"
+    },
+    {
+      "surface": "לי",
+      "gloss": "著我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "我寄腳"
+    },
+    {
+      "surface": "משך",
+      "gloss": "米設"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "我徛居"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "基達"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:27.163434876Z",
+  "model": "glm-5.3"
+}

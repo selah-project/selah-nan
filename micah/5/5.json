@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "𪜶欲用刀劍毀壞⟨את⟩亞述的地,嘛用刀劍毀壞⟨את⟩寧錄的地佇伊的門口;伊欲救阮脫離亞述,當亞述入來阮的地、踏過阮的境界的時。",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "𪜶欲毀壞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞述的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀劍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "寧錄的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "寧錄"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "佇伊的門口"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "伊欲救"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "脫離亞述"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "阮的地"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "佮當"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "踏過"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "阮的境界"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:12.539871674Z",
+  "model": "glm-5.3"
+}

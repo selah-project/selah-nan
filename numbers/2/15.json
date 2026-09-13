@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣伊的軍隊,𪜶點算的𪜶有四萬五千閣六百五十。",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "閣伊的軍隊"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "𪜶點算的𪜶"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "閣四十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "閣六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "閣五十"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:02.248036508Z",
+  "model": "glm-5.3"
+}

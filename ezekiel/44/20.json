@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "𪜶的頭毋通剃光,長毛髮嘛毋通放予伊長;𪜶乾焦剪𪜶的頭毛,準準好剪掉⟨את⟩𪜶的頭。",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "𪜶的頭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "剃光"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "長毛髮"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "放予伊長"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "剪"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "剪掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的頭"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "𪜶的頭"
+    }
+  ],
+  "timestamp": "2026-09-13T04:33:18.717459042Z",
+  "model": "glm-5.3"
+}

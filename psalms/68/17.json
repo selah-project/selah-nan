@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 68:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "為啥物恁看斜斜、起嫉妒,諸個有崠崠高峰的山?彼座山,是⟨彼位⟩以羅欣愛慕徛起的;實在,雅威嘛欲徛在到永遠。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "תרצדון",
+      "gloss": "恁看斜斜、起嫉妒"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸個山"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "有崠崠高峰的"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "愛慕"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לשבתו",
+      "gloss": "欲徛起"
+    },
+    {
+      "surface": "אף",
+      "gloss": "實在"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "欲徛在"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:23.112103720Z",
+  "model": "glm-5.3"
+}

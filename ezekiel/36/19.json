@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 36:19",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "我就共𪜶⟨את⟩散佇列國中,𪜶就佇諸個國家中四散;照𪜶的路佮𪜶的所做,我審判𪜶。",
+  "tokens": [
+    {
+      "surface": "ואפיץ",
+      "gloss": "我就散"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "ויזרו",
+      "gloss": "𪜶就四散"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "佇諸個國家中"
+    },
+    {
+      "surface": "כדרכם",
+      "gloss": "照𪜶的路"
+    },
+    {
+      "surface": "וכעלילותם",
+      "gloss": "佮照𪜶的所做"
+    },
+    {
+      "surface": "שפטתים",
+      "gloss": "我審判𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:19.622245166Z",
+  "model": "glm-5.3"
+}

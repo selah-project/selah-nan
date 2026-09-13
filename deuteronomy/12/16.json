@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "獨獨血恁毋通食;恁著共伊倒佇土腳頂,親像水仝款。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土腳"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "恁著共伊倒落去"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "親像水仝款"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:42.592587211Z",
+  "model": "glm-5.3"
+}

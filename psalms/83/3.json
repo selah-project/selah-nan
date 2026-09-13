@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "因為你看,你的對敵咧喧嘩,怨恨你的攑起頭。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "咧喧嘩"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "怨恨你的"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "攑起"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.299165581Z",
+  "model": "glm-5.3"
+}

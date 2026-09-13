@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "𪜶命令⟨את⟩百姓,講:「恁看見⟨את⟩雅威——恁的以羅欣——約的約櫃,佮利未人的祭司咧扛⟨את⟩伊,恁著對恁的所在啟程,行伊的後面。」",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "命令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "當恁看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "佮祭司"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "咧扛"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(約櫃)"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "啟程"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "對恁的所在"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "行"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "伊的後面"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:54.917119656Z",
+  "model": "glm-5.3"
+}

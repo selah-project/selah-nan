@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "因為大衛行了⟨את⟩正直,佇雅威的目睭前,伊一世人的日攏無偏離雅威所命令伊的一切,獨獨佇烏利亞(赫人)彼件代誌。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "正直"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的目睭前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "攏無"
+    },
+    {
+      "surface": "סר",
+      "gloss": "偏離"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "命令伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "日"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "伊一世人"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "佇…彼件代誌"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:25.629240217Z",
+  "model": "glm-5.3"
+}

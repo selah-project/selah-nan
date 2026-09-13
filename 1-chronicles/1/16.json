@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佮⟨את⟩亞瓦底人,佮⟨את⟩洗瑪利人,佮⟨את⟩哈馬人。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "亞瓦底人"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "亞瓦底人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "洗瑪利人"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "洗瑪利人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "哈馬人"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "哈馬人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:57.379845768Z",
+  "model": "glm-5.3"
+}

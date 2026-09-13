@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "心彎曲的,袂尋著好;喙舌反覆的,會跌佇歹。",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "彎曲"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "反覆"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "伊的喙舌"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "跌"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "佇歹"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:30.323027596Z",
+  "model": "glm-5.3"
+}

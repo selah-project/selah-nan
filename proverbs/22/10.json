@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "趕走譏誚的人,相爭就會出去,冤家佮見笑嘛會止。",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "譏誚的人"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "就會出去"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "相爭"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "嘛會止"
+    },
+    {
+      "surface": "דין",
+      "gloss": "冤家"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "佮見笑"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:16.222346524Z",
+  "model": "glm-5.3"
+}

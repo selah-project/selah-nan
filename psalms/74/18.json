@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "記得這个:敵人侮辱了雅威,愚戇的百姓褻瀆了祢的名。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "記得"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "敵人"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "侮辱了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "佮百姓"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚戇的"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "褻瀆了"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "祢的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:07.700257467Z",
+  "model": "glm-5.3"
+}

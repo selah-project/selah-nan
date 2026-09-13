@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "其餘的以色列人、祭司、利未人,徛家佇猶大逐個城,逐人佇伊的家業。",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "其餘的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列人"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇逐個"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "佇伊的家業"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:48.847653289Z",
+  "model": "glm-5.3"
+}

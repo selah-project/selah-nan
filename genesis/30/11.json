@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "利亞就講:「好運到啦!」就給伊號名⟨את⟩做迦得。",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "利亞"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "好運到啦"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "就號名"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:38.433226272Z",
+  "model": "glm-5.3"
+}

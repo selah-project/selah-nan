@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "恁的囡仔、恁的某,佮寄腳佇恁營內的,對砍恁柴的到汲恁水的。",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "恁的囡仔"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "恁的某"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "佮恁的寄腳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…內底"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "恁的營"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "對砍…的"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "恁的柴"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "汲…的"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "恁的水"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:56.877588800Z",
+  "model": "glm-5.3"
+}

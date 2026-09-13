@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 24:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "咒詛雅威的名的人，的確愛處死；全會眾的確愛用石頭擲伊；寄腳的佮本地生的攏一樣；佇伊咒詛名的時，的確愛處死。",
+  "tokens": [
+    {
+      "surface": "ונקב",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "的確愛處死"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "用石頭擲"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "的確愛擲"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "寄腳的"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "佮本地生的"
+    },
+    {
+      "surface": "בנקבו",
+      "gloss": "佇伊咒詛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "的確愛處死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:59.290368868Z",
+  "model": "glm-5.3"
+}

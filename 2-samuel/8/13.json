@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "大衛佇伊倒轉來、拍敗⟨את⟩亞蘭了後,佇鹽谷得著名聲 —— 一萬八千。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "得著"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名聲"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "佇伊倒轉來"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "對拍敗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞蘭"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "佇谷"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "鹽"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "八"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:57.244288188Z",
+  "model": "glm-5.3"
+}

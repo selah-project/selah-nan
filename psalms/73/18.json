@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "確實,你安置𪜶佇滑溜的所在;你擲倒𪜶,予𪜶落入荒廢。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "確實"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "佇滑溜的所在"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "你安置"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "你擲倒𪜶"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "落入荒廢"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:29.594429508Z",
+  "model": "glm-5.3"
+}

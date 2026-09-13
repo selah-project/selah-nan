@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊差⟨את⟩以利亞敬,伊管理彼個家的,佮文書示拿,閣⟨את⟩祭司的長老 —— 攏穿麻布 —— 去見先知以賽亞,亞摩斯的子。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞敬"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "以利亞敬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "管理"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼個家"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "佮示拿"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "文書"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "祭司的長老"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "攏穿"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去見"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "以賽亞"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "亞摩斯"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:08.857740534Z",
+  "model": "glm-5.3"
+}

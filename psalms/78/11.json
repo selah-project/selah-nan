@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "閣𪜶袂記得伊的作為,佮伊顯示𪜶的奇事。",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "閣…袂記得"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "伊的作為"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "佮伊的奇事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "顯示𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:19.626253378Z",
+  "model": "glm-5.3"
+}

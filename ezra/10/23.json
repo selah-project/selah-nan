@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 10:23",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "對利未人中間嘛有:約薩拔、示每、基拉伊亞——伊就是基利塔——毘他希雅、猶大、佮以利以謝。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "對…中間嘛有"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "יוזבד",
+      "gloss": "約薩拔"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "וקליה",
+      "gloss": "基拉伊亞"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊就是"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "基利塔"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "毘他希雅"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "以利以謝"
+    }
+  ],
+  "timestamp": "2026-09-13T04:50:54.565079637Z",
+  "model": "glm-5.3"
+}

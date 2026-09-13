@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "你知影⟨את⟩押尼珥、尼珥的囝,伊來是欲誘騙你,欲知⟨את⟩你的出去佮⟨את⟩你的入來,閣欲知⟨את⟩你咧做的一切。",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "你知影"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "押尼珥"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "押尼珥"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "נר",
+      "gloss": "尼珥"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "欲誘騙你"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "欲知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的出去"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "你的出去"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "你的入來"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "你的入來"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "閣欲知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "咧做的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:05.961719333Z",
+  "model": "glm-5.3"
+}

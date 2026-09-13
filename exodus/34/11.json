@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "你著為著家己保守我今仔日命令你⟨את⟩的彼項;看啊,我欲對你面前趕出⟨את⟩亞摩利人、閣迦南人、閣赫人、閣比利洗人、閣希未人,閣耶布斯人。",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "你著保守"
+    },
+    {
+      "surface": "לך",
+      "gloss": "為著你家己"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我今仔日命令你的彼項"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼項…的"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "命令你"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊我"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "欲趕出"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "對你面前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞摩利人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "閣迦南人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "閣赫人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "閣比利洗人"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "閣希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "閣耶布斯人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:46.645408901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "欺壓人命、流人血的人,會逃到深坑;莫有人扶持伊。",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "欺壓"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "流血"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "人命"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בור",
+      "gloss": "深坑"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "אל",
+      "gloss": "莫"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "扶持"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:25.525714066Z",
+  "model": "glm-5.3"
+}

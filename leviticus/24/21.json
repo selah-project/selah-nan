@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "拍死牲畜的,伊著賠償伊;拍死人的,伊著處死。",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "佮拍死"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "著賠償伊"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "佮拍死"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "著處死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:22.806502278Z",
+  "model": "glm-5.3"
+}

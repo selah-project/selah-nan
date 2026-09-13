@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊匿佇隱密的地方,親像獅子佇草寮;伊埋伏,欲掠困苦的人;伊掠困苦的人,佇伊牽伊入網的時,入伊的網。",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "佇隱密的地方"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "親像獅子"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "佇草寮"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "欲掠"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦的人"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "掠"
+    },
+    {
+      "surface": "עני",
+      "gloss": "困苦的人"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "佇伊牽伊入網的時"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "入伊的網"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:09.857088759Z",
+  "model": "glm-5.3"
+}

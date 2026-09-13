@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "到暗的時,就發生彼個事:鵪鶉(色列)飛起來,掩住〈⟨את⟩營地〉;到隔轉早起,露水倒佇營地四箍圍仔。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就發生"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "到暗的時"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "飛起來"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "鵪鶉"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "掩住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "營地"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營地"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "到隔轉早起"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "有"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "倒佇"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "露水"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍圍仔"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營地"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:46.819907772Z",
+  "model": "glm-5.3"
+}

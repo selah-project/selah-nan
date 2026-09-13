@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "歸陣的會眾攏應講,出大聲:「著!照你的話對阮,著按呢做。」",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "應講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "כן",
+      "gloss": "著!按呢"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "照你的話"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "著做"
+    }
+  ],
+  "timestamp": "2026-09-13T03:56:27.564622616Z",
+  "model": "glm-5.3"
+}

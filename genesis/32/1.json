@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "拉班透早起來,嘴唚伊的後生佮伊的查某囝,閣祝福𪜶⟨את⟩;伊就行去,拉班倒轉去到伊的所在。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "透早起來"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇清晨"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "嘴唚"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "ו לבנותיו",
+      "gloss": "佮伊的查某囝"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "閣祝福"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(in 後生佮查某囝)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "伊就行去"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "拉班"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "到伊的所在"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:12.187735889Z",
+  "model": "glm-5.3"
+}

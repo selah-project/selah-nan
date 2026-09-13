@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "若是阮親像啞的人,無欲聽;閣親像喑的人,嘴毋開。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "若是阮"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "親像啞的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "欲聽"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "閣親像喑的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊的嘴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:40.233557854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "⟨את⟩你的收成家己落奇的,你毋通收割;⟨את⟩你留做分別的葡萄,你毋通摘:這欲做土地的安息年。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的收成家己落奇的"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "家己落奇的"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "你的收成"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "收割"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你留做分別的葡萄"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "葡萄"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "你留做分別的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "摘"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…的年"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "安息"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "對土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:53.171789742Z",
+  "model": "glm-5.3"
+}

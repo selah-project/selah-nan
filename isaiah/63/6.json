@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "我踹踏萬民佇我的怒氣,予𪜶醉佇我的烈怒,閣共𪜶的血汁流落地。",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "我踹踏"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "佇我的怒氣"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "予𪜶醉"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "佇我的烈怒"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "閣流落"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "落地"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "𪜶的血汁"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:41.444889107Z",
+  "model": "glm-5.3"
+}

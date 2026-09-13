@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "彼日,以羅欣佇以色列囝仔的面前制壓⟨את⟩迦南王耶賓。",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "制壓"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南王耶賓"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "耶賓"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……的面前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "以色列囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:05.811817041Z",
+  "model": "glm-5.3"
+}

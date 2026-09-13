@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "因為約押佮以色列攏佇遐徛六個月,直到滅絕以東一切的男性。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…攏"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "滅絕"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "男性"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "佇以東"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:44.961917902Z",
+  "model": "glm-5.3"
+}

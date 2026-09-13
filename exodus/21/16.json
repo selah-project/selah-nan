@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "拐掠人的,抑是共人賣掉的,抑是佇伊的手裡予人揣著的,一定愛處死。",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "拐掠"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "抑是共伊賣掉"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "抑是予人揣著"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手裡"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "一定愛處死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:06.204095739Z",
+  "model": "glm-5.3"
+}

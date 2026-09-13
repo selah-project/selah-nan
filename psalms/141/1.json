@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 141,
+  "translation": "大衛的詩歌。雅威啊,我求叫你,緊來我遮;斟酌聽我的聲,佇我求叫你的時。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "我求叫你"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "緊"
+    },
+    {
+      "surface": "לי",
+      "gloss": "來我遮"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "斟酌聽"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "佇我求叫"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:30.949272486Z",
+  "model": "glm-5.3"
+}

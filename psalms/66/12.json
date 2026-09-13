@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "你互人騎踮阮的頭殼頂;阮行入火內佮水內;你導阮出去到飽足。",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "你互…騎"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "踮阮的頭殼頂"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "阮行入"
+    },
+    {
+      "surface": "באש",
+      "gloss": "火內"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "佮水內"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "你導阮出去"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "到飽足"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:07.800656168Z",
+  "model": "glm-5.3"
+}

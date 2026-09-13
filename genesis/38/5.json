@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊閣添閣生一個子,叫⟨את⟩伊的名做設拉;彼陣佇基悉,當伊生⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "閣添"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個子"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "設拉"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "彼陣"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "佇基悉"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "當伊生"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:28.770910301Z",
+  "model": "glm-5.3"
+}

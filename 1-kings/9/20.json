@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "所有賰落來的百姓,對亞摩利人、赫人、比利洗人、希未人,佮耶布斯人,𪜶毋是以色列人的後代,",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "賰落來的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "佮耶布斯人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "……的後代"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:28.444167903Z",
+  "model": "glm-5.3"
+}

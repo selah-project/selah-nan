@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 5:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "抑若有人出嘴咒誓,愛行歹抑是行好,照人用咒誓所講出的一切話,彼件事對伊隱瞞,後來伊知影,伊就佇遮个之中一項有罪。",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "抑"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "לבטא",
+      "gloss": "出嘴講"
+    },
+    {
+      "surface": "בשפתים",
+      "gloss": "用嘴唇"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "行歹"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "行好"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "יבטא",
+      "gloss": "講出"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "用咒誓"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "隱瞞"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "有罪"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "一項"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "遮个之中"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:14.549556224Z",
+  "model": "glm-5.3"
+}

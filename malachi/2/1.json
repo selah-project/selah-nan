@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "現此時,這條誡命令是對恁,諸個祭司。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "現此時"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "誡命令"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這條"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "諸個祭司"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:10.732032709Z",
+  "model": "glm-5.3"
+}

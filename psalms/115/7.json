@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "𪜶有手,毋過袂摸;𪜶有跤,毋過袂行;𪜶袂用喉嚨出聲。",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "手"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過袂"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "摸"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "跤"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過袂"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "出聲"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "用喉嚨"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:28.185080332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "對跛腳的人來講,雙腿垂垂無力;戇人的喙內的俗語嘛是按呢。",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "垂垂無力"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "雙腿"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "對跛腳的人"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "佮俗語"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "佇喙內"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "戇人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:27.122247877Z",
+  "model": "glm-5.3"
+}

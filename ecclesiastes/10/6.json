@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "戇人受設佇真濟懸位,好額人坐佇低處。",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "受設"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "佇懸位"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "佮好額人"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "佇低處"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "坐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:01.618278830Z",
+  "model": "glm-5.3"
+}

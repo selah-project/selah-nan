@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "示劍的眾頭人佮米羅全家攏聚集起來,行去,設⟨את⟩亞比米勒做王,徛佇示劍彼棵橡樹的柱像邊仔。",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "聚集起來"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…攏"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "米羅"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "行去"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "設…做王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比米勒"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "עם",
+      "gloss": "邊仔"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "橡樹"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "佇示劍"
+    }
+  ],
+  "timestamp": "2026-09-12T02:32:02.545155541Z",
+  "model": "glm-5.3"
+}

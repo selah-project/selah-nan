@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "毋通袂記得祢對敵的聲,𪜶起來攻擊祢的喧嘩直直上升,無歇。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "祢的對敵"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "起來攻擊祢的"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上升"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "直直、無歇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.154386431Z",
+  "model": "glm-5.3"
+}

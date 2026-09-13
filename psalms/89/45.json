@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "你共伊的光榮止息矣,閣共伊的寶座捒落土腳。",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "你共……止息矣"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "伊的光榮"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "閣伊的寶座"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "落土腳"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "捒落"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:32.391207589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊對烏暗裡顯明深奧的事,閣導死蔭出來到光。",
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "顯明"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "深奧的事"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對……裡"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "閣導……出來"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "到光"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死蔭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:41.935734970Z",
+  "model": "glm-5.3"
+}

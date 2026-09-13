@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "親像對平安祭的牛所提起的按呢;祭司欲共𪜶燒佇燔祭的壇頂。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "親像…按呢"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "所提起的"
+    },
+    {
+      "surface": "משור",
+      "gloss": "對牛"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "欲共𪜶燒(做煙獻上)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:04.864775915Z",
+  "model": "glm-5.3"
+}

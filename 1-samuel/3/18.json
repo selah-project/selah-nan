@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 3:18",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "撒母耳給伊講 ⟨את⟩ 一切的話,無對伊瞞半項。伊就講:「雅威──是伊;啥物好佇伊的目睭內,伊就做啥物。」",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "給伊講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "的話"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כחד",
+      "gloss": "瞞"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是伊"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "啥物好"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "佇伊的目睭內"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "伊就做"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:16.150819638Z",
+  "model": "glm-5.3"
+}

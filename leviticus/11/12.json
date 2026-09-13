@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "見若無鰭佮鱗佇水中的,彼个對恁是可憎的物。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "有"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "鰭"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "佮鱗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水中"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎的物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:08.742751027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "公道的秤佮天平屬雅威;錢袋內一切的石頭攏是伊的工。",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "秤"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "佮天平"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "伊的工"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "錢袋"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:39.427873239Z",
+  "model": "glm-5.3"
+}

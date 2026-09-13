@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "醒來啊,我的榮光;醒來啊,豎琴佮琴;我欲叫早起的天光醒起。",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "醒來啊"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "我的榮光"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "醒來啊"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "豎琴"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "佮琴"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "我欲叫……醒起"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "早起的天光"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:07.183614479Z",
+  "model": "glm-5.3"
+}

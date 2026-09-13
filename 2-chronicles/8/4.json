@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊起造⟨את⟩塔德莫爾佇曠野,嘛起造⟨את⟩一切的倉庫城,就是伊佇哈瑪特起造的。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "伊起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "塔德莫爾"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "塔德莫爾"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "嘛起造⟨את⟩",
+      "marks": "一切的倉庫城"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "倉庫"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "佇哈瑪特"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:33.364173503Z",
+  "model": "glm-5.3"
+}

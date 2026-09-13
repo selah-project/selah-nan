@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣我也確立⟨את⟩我的約,⟨את⟩ 佮𪜶,欲賞𪜶⟨את⟩迦南地,⟨את⟩𪜶寄腳的土地,𪜶佇遐做寄腳的。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣也"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "我確立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ 佮𪜶"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "欲賞"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦南地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶寄腳的土地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "𪜶寄腳的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "𪜶做寄腳"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:18.092318429Z",
+  "model": "glm-5.3"
+}

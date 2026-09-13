@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "彼個是我的喙唇所開的,佮我的嘴佇我受困迫的時所講的。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "所開"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我的喙唇"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "佮…所講"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的嘴"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇困迫中"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:25.590674664Z",
+  "model": "glm-5.3"
+}

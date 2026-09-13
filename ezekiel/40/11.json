@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊量 ⟨את⟩ 門口彼個闊度,十肘;門的長度十三肘。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "門口彼個闊度"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊度"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門的"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長度"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門的"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "十三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(十)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:22.536127807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 17:6",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我佇以色列全體中間所行的逐位,我有講一句話⟨את⟩以色列士師中的一位,就是我所命令伊飼⟨את⟩我百姓的,講:啥物緣故恁毋曾為我起一間香柏木的厝?",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "佇…逐位"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "我…所行的"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "我遊行"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…全體"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我有講"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列士師中的一位"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一位"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "士師"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我所命令"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "飼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "恁曾起"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏木"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:27.376450825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "雅威落來看⟨את⟩彼座城佮⟨את⟩彼座塔,就是人的後代所起造的。",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "落來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼座城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼座塔"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "彼座塔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "所起造的"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的後代"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:36.223356581Z",
+  "model": "glm-5.3"
+}

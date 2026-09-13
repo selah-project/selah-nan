@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "彼時,所羅門佇耶路撒冷對面的山頂,為著基抹——摩押人的可憎物——起高邱,嘛為著摩洛——亞捫人仔的可憎物。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "起"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "במה",
+      "gloss": "高邱"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "為著基抹"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎物"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山頂"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…對面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "嘛為著摩洛"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "可憎物"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…人仔"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:46.426423144Z",
+  "model": "glm-5.3"
+}

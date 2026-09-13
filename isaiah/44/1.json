@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "這陣著聽,雅各,我的奴僕,閣以色列,我揀選伊。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "閣以色列"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我揀選"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:34.715559217Z",
+  "model": "glm-5.3"
+}

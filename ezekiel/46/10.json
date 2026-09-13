@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "君王佇𪜶中間：𪜶入來，伊入來；𪜶出去，伊嘛出去。",
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "君王"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "𪜶入來時"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "伊入來"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "𪜶出去時"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "伊出去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:24:43.682690680Z",
+  "model": "glm-5.3"
+}

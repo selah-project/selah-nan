@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "雅各講:「今仔日賣⟨את⟩你的頭名權互我。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "賣"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的頭名權"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "你的頭名權"
+    },
+    {
+      "surface": "לי",
+      "gloss": "互我"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:25.783875181Z",
+  "model": "glm-5.3"
+}

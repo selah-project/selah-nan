@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊欲去提的時,伊閣叫伊,講:「請也給我提一逝餅佇你的手裡。」",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "伊欲去"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "提"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊閣叫"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "提"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "פת",
+      "gloss": "一逝"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手裡"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:36.600184713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 29:40",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣細麵伊法的十分之一,攪和搗出來的油,一欣的四分之一;閣澆祭酒一欣的四分之一,配彼一隻羊仔。",
+  "tokens": [
+    {
+      "surface": "ועשרן",
+      "gloss": "閣十分之一(伊法)"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "攪和"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "搗出來的"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "四分之一"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "一欣"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "閣澆祭"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "四分之一"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "一欣"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "配彼羊仔"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一隻"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:46.465974157Z",
+  "model": "glm-5.3"
+}

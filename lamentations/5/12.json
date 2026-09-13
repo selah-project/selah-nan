@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "首領被𪜶的手吊起來;長老的面無受敬重。",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "被𪜶的手"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "吊起來"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "長老"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "受敬重"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:42.493717280Z",
+  "model": "glm-5.3"
+}

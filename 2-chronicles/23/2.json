@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "𪜶就行遍猶大,對猶大諸城聚集⟨את⟩利未人,閣以色列諸父老的頭,來到耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "就行遍"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "佇猶大"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "利未人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對諸"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "諸頭"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "父老"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:09.314423903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "恁侮辱苦難人的計謀,因為雅威是伊的避難所。",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦難人"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "恁侮辱"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "伊的避難所"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:27.726027486Z",
+  "model": "glm-5.3"
+}

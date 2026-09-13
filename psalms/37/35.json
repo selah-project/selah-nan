@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "我有看著一個歹人,真兇猛,家己展開,親像青翠的在地樹。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我有看著"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "兇猛的"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "家己展開"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "親像在地樹"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "青翠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:14.381682930Z",
+  "model": "glm-5.3"
+}

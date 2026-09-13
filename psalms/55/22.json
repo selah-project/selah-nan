@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "伊的喙比牛油卡滑,毋拘伊的心是戰爭;伊的話比油卡軟,毋拘彼啲是出鞘的劍。",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "卡滑"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "牛油"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊的喙"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "毋拘……是戰爭"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "卡軟"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "比油"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "毋拘彼啲"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "出鞘的劍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:24.212500449Z",
+  "model": "glm-5.3"
+}

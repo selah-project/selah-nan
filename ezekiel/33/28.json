@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 33:28",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "閣我欲給⟨את⟩彼片土地做荒涼閣荒廢,伊力量的威勢欲停止,以色列的山會荒涼,因為無啉經過。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "閣我欲給…做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼片土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼片土地"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒涼"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "閣荒廢"
+    },
+    {
+      "surface": "ונשבת",
+      "gloss": "閣欲停止"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "威勢"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "伊的力量"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "閣會荒涼"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "…的山"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "因為無"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "啉經過"
+    }
+  ],
+  "timestamp": "2026-09-12T04:20:30.295483016Z",
+  "model": "glm-5.3"
+}

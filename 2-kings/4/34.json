@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 4:34",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊上去,倒佇彼個囡仔身上,共伊的喙唇下佇伊的喙唇頂,伊的目睭下佇伊的目睭頂,伊的手掌下佇伊的手掌頂,伊就彎身覆落伊身上,彼個囡仔的肉軀就燒烙起來。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "伊上去"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "倒佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "身上"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "彼個囡仔"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "共…下"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊的喙唇"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊的喙唇"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "伊的目睭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    },
+    {
+      "surface": "וכפיו",
+      "gloss": "伊的手掌"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "伊的手掌"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "伊就彎身覆落"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊身上"
+    },
+    {
+      "surface": "ויחם",
+      "gloss": "燒烙起來"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉軀"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "彼個囡仔"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:30.935620252Z",
+  "model": "glm-5.3"
+}

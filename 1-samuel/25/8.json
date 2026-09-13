@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你問⟨את⟩你的少年人,𪜶會共你講。願少年的佇你的目睭前得著恩惠,因為阮佇好日子來;請你將⟨את⟩你的手所尋著的,賜予你的奴僕,嘛予你的子大衛。」",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的少年人"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "你的少年人"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "𪜶會共你講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "願…得著"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩惠"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "佇你的目睭前"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "阮來"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "請你賜"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "啥物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的物"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "所尋著的"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "嘛予你的子"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:25.135279351Z",
+  "model": "glm-5.3"
+}

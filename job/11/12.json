@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣空空的人會得著智慧,當野驢的驢仔囝落生做人的時。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣人"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "空空的"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "得著智慧"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "閣驢仔囝"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "野"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "落生做"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:39.539635569Z",
+  "model": "glm-5.3"
+}

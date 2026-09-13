@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅各的厝啊,來,咱來行佇雅威的光內。",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "來"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "咱來行"
+    },
+    {
+      "surface": "באור",
+      "gloss": "佇…光內"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:12.936782666Z",
+  "model": "glm-5.3"
+}

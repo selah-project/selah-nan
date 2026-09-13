@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊給⟨את⟩伊展開佇我面前,彼卷前面佮後面攏有寫字,頂面寫哀歌、悲傷佮災禍。",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "伊展開"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(彼卷皮卷)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "彼卷"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "攏有寫字"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "前面"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "佮後面"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "頂面寫"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "哀歌"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "佮悲傷"
+    },
+    {
+      "surface": "והי",
+      "gloss": "佮災禍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:20.690759371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "哈嫩就提⟨את⟩大衛的奴僕,剃掉⟨את⟩𪜶喙鬚的一半,閣割⟨את⟩𪜶的衫,割佇中央、到𪜶的尻川,就差𪜶離開。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "哈嫩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛的奴僕"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "剃掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一半"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "一半"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "𪜶的喙鬚"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "割"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的衫"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "𪜶的衫"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "佇中央"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "𪜶的尻川"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "差𪜶離開"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:06.568963038Z",
+  "model": "glm-5.3"
+}

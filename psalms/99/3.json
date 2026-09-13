@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 99,
+  "translation": "願𪜶謳咾你的名——大閣可畏,聖——伊是。",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "願𪜶謳咾"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "閣可畏"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:41.244457551Z",
+  "model": "glm-5.3"
+}

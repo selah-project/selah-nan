@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊共⟨את⟩三百個人分做三隊,閣將號角交代佇逐個人手裡,以及空的甕,佮火把佇甕內底。",
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "分"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "三百個人"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "隊"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "交代"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "號角"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…手"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "逐個人"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "佮甕"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "空的"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "佮火把"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…內底"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "彼个甕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:33:07.099576166Z",
+  "model": "glm-5.3"
+}

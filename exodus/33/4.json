@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "百姓聽見⟨את⟩這个歹消息,就哀傷,無人將伊的妝飾掛佇家己身軀。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "…聽見"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个歹消息"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這个…話"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "就哀傷"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "掛"
+    },
+    {
+      "surface": "איש",
+      "gloss": "無人"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "伊的妝飾"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇家己身軀"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:42.421542534Z",
+  "model": "glm-5.3"
+}

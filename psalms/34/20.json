@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "公義的人患難真濟,毋拘雅威對彼一切拯救伊。",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "患難"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "對彼一切"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "拯救伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:25.411134026Z",
+  "model": "glm-5.3"
+}

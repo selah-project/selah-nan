@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 4:23",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣拉麥對伊的某講:亞大佮洗拉,著聽我的聲;拉麥的某,入耳我的話:因為我刣死一个大人,照我的傷害;閣一个少年人,照我的損傷。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣…講"
+    },
+    {
+      "surface": "למך",
+      "gloss": "拉麥"
+    },
+    {
+      "surface": "לנשיו",
+      "gloss": "對伊的某"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "亞大"
+    },
+    {
+      "surface": "וצלה",
+      "gloss": "佮洗拉"
+    },
+    {
+      "surface": "שמען",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "…的某"
+    },
+    {
+      "surface": "למך",
+      "gloss": "拉麥"
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "入耳"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我的話"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "איש",
+      "gloss": "大人"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "我刣死"
+    },
+    {
+      "surface": "לפצעי",
+      "gloss": "照我的傷害"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "閣一个少年人"
+    },
+    {
+      "surface": "לחברתי",
+      "gloss": "照我的損傷"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:08.614544696Z",
+  "model": "glm-5.3"
+}

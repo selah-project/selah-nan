@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "為啥物你掩你的面,袂記得阮的苦難佮阮的壓迫?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "掩"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "阮的苦難"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "佮阮的壓迫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:22.300103864Z",
+  "model": "glm-5.3"
+}

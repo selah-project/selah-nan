@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "大地啼哭衰殘,世界凋萎衰殘,地上懸懸的百姓攏凋萎。",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "衰殘"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "凋萎"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "衰殘"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "攏凋萎"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "懸懸的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:28.488557814Z",
+  "model": "glm-5.3"
+}

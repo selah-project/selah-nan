@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊侮辱⟨את⟩以色列,約拿單──示每的後生、大衛的兄弟──共伊拍死。",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "侮辱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "共伊拍死"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:02.900772805Z",
+  "model": "glm-5.3"
+}

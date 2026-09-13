@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "猶大的後生佮耶路撒冷相戰,攻掠⟨את⟩伊,用刀劍的嘴拍敗伊;𪜶共⟨את⟩城送去火裡。",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "攻掠"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "拍敗"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "用…的嘴"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "送去"
+    },
+    {
+      "surface": "באש",
+      "gloss": "入火"
+    }
+  ],
+  "timestamp": "2026-09-12T02:29:15.010173305Z",
+  "model": "glm-5.3"
+}

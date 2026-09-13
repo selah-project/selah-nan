@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若有人對伊的厝邊借物件,彼件若受折損抑是死,彼陣主人無佮伊做伙,伊著愛賠,真正愛賠。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "借"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的厝邊"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "若受折損"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "主人"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做伙"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "著愛賠"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "真正愛賠"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:51.837522734Z",
+  "model": "glm-5.3"
+}

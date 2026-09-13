@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇迦特毋通講,毋通啼哭;佇伯利亞弗拉(塵土之家)恁踮塵土滾。",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "佇迦特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "講"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…之家"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "亞弗拉"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "滾"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:14.268272912Z",
+  "model": "glm-5.3"
+}

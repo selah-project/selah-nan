@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "阮聽過摩押的威風,伊驕傲甲真厲害;伊的傲慢、伊的威風、伊的受氣——毋是按呢,伊的白賊話攏無影。",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "阮聽過"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "威風(驕傲)"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "גא",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "甲真厲害"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "伊的傲慢"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "伊的威風"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "伊的受氣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "伊的白賊話"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:40.892356015Z",
+  "model": "glm-5.3"
+}

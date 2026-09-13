@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "佇雅威恁的以羅欣後面恁欲行,⟨את⟩伊恁欲敬畏,⟨את⟩伊的誡命恁欲守,佮伊的聲恁欲聽,⟨את⟩伊恁欲事奉,佮伊恁欲黏倚。",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "佇…後面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "恁欲行"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(雅威)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "恁欲敬畏"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的誡命"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "伊的誡命"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "恁欲守"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "佮伊的聲"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "恁欲聽"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(雅威)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "恁欲事奉"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "恁欲黏倚"
+    }
+  ],
+  "timestamp": "2026-09-12T02:12:44.115937477Z",
+  "model": "glm-5.3"
+}

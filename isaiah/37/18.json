@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "實在,雅威啊,亞述(阿述爾)的諸王已經毀滅⟨את⟩諸國,閣毀滅⟨את⟩𪜶的邦國,",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "實在"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "已經毀滅"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "的諸王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "諸國"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "𪜶的邦國"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的邦國"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:54.375414946Z",
+  "model": "glm-5.3"
+}

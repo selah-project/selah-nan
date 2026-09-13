@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "王講:「這个講:『活的阮子,死的你子』;彼个嘛講:『毋是!死的你子,活的阮子』。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "王講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "講"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "בני",
+      "gloss": "阮子"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "你子"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "嘛講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "כי",
+      "gloss": "!"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你子"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "阮子"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:38.711214761Z",
+  "model": "glm-5.3"
+}

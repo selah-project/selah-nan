@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 47:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "佇彼個人出去向東的時,手裡夯一條量繩,伊量一千肘,紲牽我入水裡,水到跤踝。",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "佇…出去的時"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "向東"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "佮一條量繩"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊手裡"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "用肘"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "牽我過"
+    },
+    {
+      "surface": "במים",
+      "gloss": "入水裡"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "אפסים",
+      "gloss": "到跤踝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:25:40.786060666Z",
+  "model": "glm-5.3"
+}

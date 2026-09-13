@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "諸天佮地攏完成矣,連𪜶一切的隊伍嘛完成。",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "攏完成矣"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "佮地"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "𪜶的隊伍"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:56.137065401Z",
+  "model": "glm-5.3"
+}

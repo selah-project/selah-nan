@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 19:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "因為伊共⟨את⟩伊的性命囥佇伊的手裡,拍⟨את⟩彼個非利士人,雅威就為歸個以色列行一个大拯救;你有看見,嘛歡喜;哪啥愛用無辜者的血來犯罪,白白仔欲害死⟨את⟩大衛?",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "囥"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的性命"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "佇伊的手裡"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "拍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個非利士人"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "彼個非利士人"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "一个拯救"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "為歸個"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "你有看見"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "嘛歡喜"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "哪啥"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "愛犯罪"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "用…的血"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜者"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "欲害死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "白白仔"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:43.481042537Z",
+  "model": "glm-5.3"
+}

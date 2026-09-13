@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "信實的路我揀選;你的判語我排列佇面前。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "信實"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我揀選"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判語"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "我排列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:14.829383113Z",
+  "model": "glm-5.3"
+}

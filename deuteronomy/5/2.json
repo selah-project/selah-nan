@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威、咱的以羅欣,佮咱立約,佇何烈。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "立(切)約"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "佮咱"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "佇何烈"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:55.374138801Z",
+  "model": "glm-5.3"
+}

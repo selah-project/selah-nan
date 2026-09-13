@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你欲疼⟨את⟩雅威你的以羅欣,用你全個的心,佮你全個的性命,佮你全個的力氣。",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "你欲疼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用你全個的"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "心"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "佮你全個的"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "性命"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "佮你全個的"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "力氣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:55.177153667Z",
+  "model": "glm-5.3"
+}

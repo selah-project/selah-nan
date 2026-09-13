@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "當我──我但以利──看見⟨את⟩這異象了後,我極力愛明白伊;看啊,有一个親像人的形像徛佇我面前。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "但以利"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這異象"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "這異象"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "我極力愛明白"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "明白"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "佇我面前"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "親像……的形像"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:31.809826280Z",
+  "model": "glm-5.3"
+}

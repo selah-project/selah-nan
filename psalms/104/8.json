@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "山嶺懸--起來,溪谷沉--落去,到彼個你為𪜶設立的所在。",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "懸--起來"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山嶺"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "沉--落去"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "溪谷"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "זה",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "你設立"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:16.040237160Z",
+  "model": "glm-5.3"
+}

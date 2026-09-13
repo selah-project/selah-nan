@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威看見伊轉向來看,以羅欣對荊棘的中央叫伊,講:「摩西!摩西!」伊講:「我在這。」",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "סר",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "來看"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…中央"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我在這"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:20.592244493Z",
+  "model": "glm-5.3"
+}

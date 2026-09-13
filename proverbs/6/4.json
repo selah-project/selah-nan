@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "莫得互睏你的目睭,也莫得互夯眠睏你的目睫毛。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "莫得"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "睏"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "也莫得互夯眠睏"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "你的目睫毛"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:19.939999163Z",
+  "model": "glm-5.3"
+}

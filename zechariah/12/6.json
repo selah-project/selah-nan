@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 12:6",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇彼日,我欲設⟨את⟩猶大的首領親像柴堆中的火盆、親像稻草堆中的火把;𪜶欲佇正手爿佮倒手爿吞食⟨את⟩四圍所有的民族;耶路撒冷猶原欲徛佇伊家己的位,佇耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我欲設"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的首領"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ככיור",
+      "gloss": "親像火盆"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בעצים",
+      "gloss": "佇柴堆中"
+    },
+    {
+      "surface": "וכלפיד",
+      "gloss": "閣親像火把"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בעמיר",
+      "gloss": "佇稻草堆"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "𪜶欲吞食"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "正手爿"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "倒手爿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的民族"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "民族"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "閣欲徛住"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶原"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "佇伊的位"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:02.032385931Z",
+  "model": "glm-5.3"
+}

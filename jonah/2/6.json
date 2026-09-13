@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "水圍𪜶到性命,深淵四面圍我,海草縛佇我的頭殼頂。",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "圍𪜶…我"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "四面圍我"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "海草"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "縛"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "佇我的頭殼頂"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:08.253185273Z",
+  "model": "glm-5.3"
+}

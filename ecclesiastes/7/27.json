@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "看啊,這我已經揣著啊,傳道者按呢講:一項一項數,欲揣出算計。",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "我已經揣著啊"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "按呢講"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "傳道者"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一項"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "閣一項"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "欲揣出"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "算計"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:41.956540132Z",
+  "model": "glm-5.3"
+}

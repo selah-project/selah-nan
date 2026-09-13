@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "毋過哈曼忍耐家己,倒去入去伊的家,就差人去帶⟨את⟩伊的朋友佮⟨את⟩細利斯伊的某來。",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "忍耐家己"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "帶…來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的朋友"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "伊的朋友"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "細利斯"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "細利斯"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:49.603687274Z",
+  "model": "glm-5.3"
+}

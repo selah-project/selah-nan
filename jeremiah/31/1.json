@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "佇彼個時陣,雅威的神諭講:「我欲做以色列逐個家族的以羅欣,𪜶欲做我的百姓。」",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "佇彼個時陣"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我欲做"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對逐個"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "家族"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T03:58:04.496821903Z",
+  "model": "glm-5.3"
+}

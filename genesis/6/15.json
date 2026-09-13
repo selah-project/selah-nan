@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "這就是你著做 ⟨את⟩ 伊的方式:船的長度三百肘,伊的闊度五十肘,伊的懸度三十肘。",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "佮這是"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你著做"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長度"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "這隻船的"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "伊的闊度"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "閣三十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "伊的懸度"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:43.364155294Z",
+  "model": "glm-5.3"
+}

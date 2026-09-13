@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 24:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "彼个欲屬亞倫佮伊的後生,𪜶欲佇聖的所在食伊,因為伊是至聖的物,對雅威的火祭——永遠的定例。",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "彼个欲屬"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "佮伊的後生"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "𪜶欲食伊"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇所在的"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "至聖的物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "對火祭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חק",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:31.673433981Z",
+  "model": "glm-5.3"
+}

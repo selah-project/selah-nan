@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "大衛講:「雅威,以色列的以羅欣啊,你的奴僕實在聽見講,掃羅欲來基伊拉,為著我的緣故毀滅彼个城。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "實在"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "欲"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "彼个城"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "為著我的緣故"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:23.360384493Z",
+  "model": "glm-5.3"
+}

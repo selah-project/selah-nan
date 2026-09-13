@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "後來撒母耳老的時,伊設立⟨את⟩伊的囝仔做以色列的士師。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "伊設立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的囝仔"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝仔"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "士師"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "做以色列的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:09.205118708Z",
+  "model": "glm-5.3"
+}

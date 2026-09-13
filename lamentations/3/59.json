@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威啊,你看見了我的冤屈;請你審判我的案件。",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "你看見了"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "我的冤屈"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "請你審判"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的案件"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:10.639814666Z",
+  "model": "glm-5.3"
+}

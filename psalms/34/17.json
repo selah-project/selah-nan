@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "雅威的面抵著彼啲做歹的人,欲對土地剪除𪜶的記念。",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "面"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "彼啲做歹的人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "剪除"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對土地"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "𪜶的記念"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:25.410487661Z",
+  "model": "glm-5.3"
+}

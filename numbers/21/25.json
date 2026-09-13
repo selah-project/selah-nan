@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "以色列奪取⟨את⟩遮个城攏總,以色列就徛起佇亞摩利人一切的城,佇希實本,佮伊一切的莊頭。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "奪取"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮个城攏總"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "遮个城"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就徛起"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "的城"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "佇希實本"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "佮佇一切"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "伊的莊頭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:50.638748664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "「六日恁著拾伊,獨第七日⟨是⟩安息日,彼日無。」",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "恁著拾伊"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "獨佇彼日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇彼日"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:02.797477565Z",
+  "model": "glm-5.3"
+}

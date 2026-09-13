@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣一个勇猛的王會徛起來,伊會統治一個大的權柄,照伊的意愛去做。",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "閣…徛起來"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇猛"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "閣統治"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "權柄"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "照伊的意愛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:53.219208053Z",
+  "model": "glm-5.3"
+}

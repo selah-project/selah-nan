@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我的人民問𪜶的柴頭,𪜶的柺仔指示𪜶;因為淫亂的靈迷惑𪜶,𪜶就佇𪜶的以羅欣下面行淫亂。",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "我的人民"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "佇𪜶的柴頭"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "佮𪜶的柺仔"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "指示"
+    },
+    {
+      "surface": "לו",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "淫亂的"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "迷惑"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "𪜶就行淫亂"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "佇…下面"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:52.363589568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "照恁辦的數,逐隻攏按呢辦,照𪜶的數。",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "照…的數"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "恁辦"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "辦"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "逐隻"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "照𪜶的數"
+    }
+  ],
+  "timestamp": "2026-09-12T01:57:47.836853023Z",
+  "model": "glm-5.3"
+}

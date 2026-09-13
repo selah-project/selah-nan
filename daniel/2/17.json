@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 2:17",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "彼時但以理去到伊的厝,將彼件代誌講予哈拿尼雅、米沙利、亞撒利雅——伊的同伴——知影。",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "到伊的厝"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "予哈拿尼雅"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "米沙利"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "佮亞撒利雅"
+    },
+    {
+      "surface": "חברוהי",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "彼件代誌"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "講予……知影"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:16.778303494Z",
+  "model": "glm-5.3"
+}

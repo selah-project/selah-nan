@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nahum 3:15",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "遐,火欲食你,刀劍欲剪除你;伊欲親像草蜢按呢食你。你著增加到親像草蜢,增加到親像草螿。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "欲食你"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "תכריתך",
+      "gloss": "欲剪除你"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "תאכלך",
+      "gloss": "欲食你"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "親像草蜢"
+    },
+    {
+      "surface": "התכבד",
+      "gloss": "你著增加"
+    },
+    {
+      "surface": "כילק",
+      "gloss": "親像草蜢"
+    },
+    {
+      "surface": "התכבדי",
+      "gloss": "你著增加"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "親像草螿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:13.240874109Z",
+  "model": "glm-5.3"
+}

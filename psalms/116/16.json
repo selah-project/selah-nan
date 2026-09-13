@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "啊,雅威啊,因為我是你的奴僕,我是你的奴僕,是你查某婢人之子;你有拍開我的縛索。",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…之子"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你的查某婢人"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "拍開"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "我的縛索"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:02.364642504Z",
+  "model": "glm-5.3"
+}

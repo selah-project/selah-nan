@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你的新芽是石榴的果園,佮上美的果子,指甲花(頭一擺出現:薰衣花)佮甘松香。",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "你的新芽"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "果園"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "石榴"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "上美的"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "指甲花"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "甘松香"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:21.944492182Z",
+  "model": "glm-5.3"
+}

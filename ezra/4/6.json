@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣佇亞哈隨魯的王國,佇伊王國的起頭,𪜶寫控告的文攻擊猶大佮耶路撒冷的居民。",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "閣佇…的王國"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "佇…的起頭"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "伊的王國"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "𪜶寫"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "控告的文"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:49:40.524372117Z",
+  "model": "glm-5.3"
+}

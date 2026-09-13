@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣彼個第二個基路伯是十肘;兩个基路伯是同一个尺寸、同一个樣式。",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "閣十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "基路伯"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "尺寸"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "閣樣式"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "對彼兩个"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "基路伯"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:53.929153276Z",
+  "model": "glm-5.3"
+}

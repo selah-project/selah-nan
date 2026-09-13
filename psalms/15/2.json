@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "就是行完全的路、做公道、心內講實話的人。",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "做"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公道"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "實話"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "佇伊心內"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:06.744845356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "有福氣喔,彼個處境按呢的百姓!有福氣喔,彼個百姓,雅威做伊的以羅欣!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣喔"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼個百姓"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "處境按呢"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣喔"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼個百姓"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "做伊的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:55.033461313Z",
+  "model": "glm-5.3"
+}

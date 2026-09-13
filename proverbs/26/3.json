@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "鞭仔對馬,轡頭對驢,佮枋仔對諸戇人的背脊。",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "鞭仔"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "對馬"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "轡頭"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "對驢"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "佮枋仔"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "對背脊"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "諸戇人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:25.075636782Z",
+  "model": "glm-5.3"
+}

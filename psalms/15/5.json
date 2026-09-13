@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊的銀無利息借出去,亦無對無辜的人提賄賂;做遮的代誌的人,永遠袂搖動。",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "伊的銀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "借出去"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "利息"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "亦無…賄賂"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無辜的人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮的代誌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:56.612738052Z",
+  "model": "glm-5.3"
+}

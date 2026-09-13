@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "有哭嚎的聲對巴別出來,閣有大的毀壞對迦勒底人的地。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "哭嚎"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "對巴別"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "閣毀壞"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大的"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對地"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:07:23.350911207Z",
+  "model": "glm-5.3"
+}

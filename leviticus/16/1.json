@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "雅威對摩西講話,佇亞倫的兩个仔死了了後,因為𪜶倚近到雅威面前,𪜶就死矣。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇…了後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "בני",
+      "gloss": "仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "因為𪜶倚近"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "到…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "𪜶就死矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:34.596101452Z",
+  "model": "glm-5.3"
+}

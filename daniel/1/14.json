@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "管家就聽𪜶,照這個話,給𪜶試十日。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "就聽"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "照……話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "給𪜶試"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:02.799710690Z",
+  "model": "glm-5.3"
+}

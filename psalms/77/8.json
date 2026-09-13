@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "阿多奈敢欲永遠棄撒?敢閣袂施恩矣?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "敢欲永遠"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "棄撒"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "敢……無"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "施恩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:47.941945994Z",
+  "model": "glm-5.3"
+}

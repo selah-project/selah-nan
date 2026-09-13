@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威已經提走你的審判,已經趕走你的敵人;以色列的王、雅威,佇你的中間,你毋通閣驚歹代。",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "已經提走"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的審判"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "已經趕走"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "你的敵人"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "佇你的中間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "閣驚"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:09.492624811Z",
+  "model": "glm-5.3"
+}

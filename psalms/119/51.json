@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "驕傲的人極端嘲笑我,猶久我無對你的律法偏去。",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "驕傲的人"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "嘲笑我"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極端"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "對你的律法"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "偏去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:28.632998394Z",
+  "model": "glm-5.3"
+}

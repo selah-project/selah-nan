@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "阿多奈我的以羅欣啊,我欲用我全個心感謝你;我欲榮光你的名到永遠。",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "我欲感謝你"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用全個"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "心"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "我欲榮光"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:55.920540079Z",
+  "model": "glm-5.3"
+}

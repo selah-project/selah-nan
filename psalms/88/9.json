@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "你共我相熟的人離開我遠遠,你互我成做𪜶討厭的物;我關牢,袂當出去。",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "你…離開遠遠"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "我相熟的人"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "你互我成做"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "討厭的物"
+    },
+    {
+      "surface": "למו",
+      "gloss": "予𪜶"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "關牢"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "出去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:01.915480691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 17:16",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "這馬著緊急差人去報大衛,講:「今暝毋通蹛佇曠野的平原過暝,嘛著趕緊渡過去,免得王佮攏總⟨את⟩隨伊的百姓攏總吞滅。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "差人"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "緊急"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "報"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "給大衛"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "蹛過暝"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今暝"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "佇……平原"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛著"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "渡過"
+    },
+    {
+      "surface": "תעבור",
+      "gloss": "渡過去"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "吞滅"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩隨伊",
+      "marks": "隨伊(的百姓)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:12.203975341Z",
+  "model": "glm-5.3"
+}

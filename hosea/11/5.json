@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊袂倒轉去米茲拉因(埃及)的地,亞述──伊做伊的王,因為怹拒絕倒轉來。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "做伊的王"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "怹拒絕"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "倒轉來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:37.021036657Z",
+  "model": "glm-5.3"
+}

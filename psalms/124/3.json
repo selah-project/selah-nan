@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "彼時𪜶就欲活活吞掉阮,當𪜶的怒氣燒起來抵著阮;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活活"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "吞掉阮"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "當…燒起來"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "𪜶的怒氣"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "抵著阮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:36.655491647Z",
+  "model": "glm-5.3"
+}

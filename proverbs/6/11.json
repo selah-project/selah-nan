@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "對按呢,你的散赤就親像行路的人來到,你的欠缺就親像帶盾牌的人。",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "就來到"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "親像行路的人"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "你的散赤"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "你的欠缺"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "親像一個人"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "帶盾牌的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:17.862064185Z",
+  "model": "glm-5.3"
+}

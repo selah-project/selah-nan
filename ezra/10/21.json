@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 10:21",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣對哈琳的後生:瑪西雅、以利亞、示瑪雅、耶歇,佮烏西雅。",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "閣對…的後生"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "哈琳"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "瑪西雅"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "佮以利亞"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "佮示瑪雅"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "佮耶歇"
+    },
+    {
+      "surface": "ועזיה",
+      "gloss": "佮烏西雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:30.188842679Z",
+  "model": "glm-5.3"
+}

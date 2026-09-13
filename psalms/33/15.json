@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "塑造𪜶的心做伙兒的彼位,了解向𪜶一切的作為。",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "塑造…的彼位"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙兒"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "𪜶的心"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "了解"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "𪜶的作為"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:29.659192174Z",
+  "model": "glm-5.3"
+}

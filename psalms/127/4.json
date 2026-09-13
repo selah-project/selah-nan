@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 127,
+  "translation": "親像箭佇勇士的手中,按呢,少年時所得的子兒也是。",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "親像箭"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇……手中"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "少年時(所得的)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:28.718824268Z",
+  "model": "glm-5.3"
+}

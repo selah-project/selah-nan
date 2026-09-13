@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "講歹人有理、講好人有罪的,這兩个攏是雅威所厭惡的。",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "講……有理"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "講……有罪"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "好人"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "所厭惡的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גם",
+      "gloss": "攏"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "這兩个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:11.339349948Z",
+  "model": "glm-5.3"
+}

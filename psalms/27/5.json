@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "因為伊欲阮佇伊的棚仔內,佇患難的日子,伊欲掩護阮;佇伊帳棚的隱密所在,伊欲藏阮;佇磐石頂面,伊欲舉阮懸。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "伊欲掩護阮"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "佇棚仔內"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "患難的"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "伊欲藏阮"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "佇隱密所在"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "伊的帳棚"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "佇磐石頂面"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "伊欲舉阮懸"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:28.208288309Z",
+  "model": "glm-5.3"
+}

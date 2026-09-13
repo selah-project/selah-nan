@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "去啦,歡歡喜喜食你的飯,用好膽的心啉你的酒,因為以羅欣已經喜悅⟨את⟩你的所行。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "去啦"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "你的飯"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "啉"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "用心"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "你的酒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "已經"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "喜悅"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的所行"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的所行"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:18.609619892Z",
+  "model": "glm-5.3"
+}

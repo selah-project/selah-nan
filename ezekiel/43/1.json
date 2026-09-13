@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "伊帶我到彼个門,就是面向東爿彼條路的門。",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "伊帶我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼个門"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "面向"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "彼條路"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "東爿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:47.016139836Z",
+  "model": "glm-5.3"
+}

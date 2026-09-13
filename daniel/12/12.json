@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "彼个等候閣到達一千三百三十五日的人,伊有福氣喔!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣喔"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "彼个等候"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "閣到達"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "到…日"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "五"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:04.353860683Z",
+  "model": "glm-5.3"
+}

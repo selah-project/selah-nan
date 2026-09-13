@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我全心叫叫;雅威啊,應我;我欲守你的律例。",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "我叫叫"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用全部"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "應我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "你的律例"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "我欲守"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:44.963596981Z",
+  "model": "glm-5.3"
+}

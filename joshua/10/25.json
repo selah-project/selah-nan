@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "約書亞對𪜶講:「恁毋通驚,嘛毋通餒志;著壯膽,著勇敢,因為雅威欲按呢待恁一切个對敵,就是恁咧相戰个⟨את⟩𪜶。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "驚"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "餒志"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "著壯膽"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "著勇敢"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "待"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "恁个對敵"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "咧相戰"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(恁个對敵)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:09.283320497Z",
+  "model": "glm-5.3"
+}

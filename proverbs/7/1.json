@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我的囝,遵守我的話,佮我的誡命,著收藏佇⟨את⟩你遐。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我的囝"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "我的話"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "佮我的誡命"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "著收藏"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你遐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:12.271471754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "「替以色列的子孮報仇,對米甸人報⟨את⟩;了後,你欲受聚集到你的人民遐。」",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "報仇"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "報仇(名詞)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孮"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩",
+      "marks": "米甸人"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "米甸人"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "受聚集"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "你的人民"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:23.243871911Z",
+  "model": "glm-5.3"
+}

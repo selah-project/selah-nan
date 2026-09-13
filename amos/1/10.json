@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我欲差火落去推羅的城牆,火欲吞食伊的宮殿。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "落去……的城牆"
+    },
+    {
+      "surface": "צר",
+      "gloss": "推羅"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "欲吞食"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "伊的宮殿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:04.377364506Z",
+  "model": "glm-5.3"
+}

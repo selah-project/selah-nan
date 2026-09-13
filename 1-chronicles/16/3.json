@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊分予以色列逐个人,對男人到女人,逐人一粒圓餅、一份肉,佮一粒葡萄乾餅。",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "分"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "予…逐个"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "對男人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "一粒圓"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "佮一份肉"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "佮一粒葡萄乾餅"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:45.061155609Z",
+  "model": "glm-5.3"
+}

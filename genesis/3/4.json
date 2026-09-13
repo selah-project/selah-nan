@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "蛇對彼个查某人講:「恁絕對袂死。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼个查某人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "恁會死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:27.778184769Z",
+  "model": "glm-5.3"
+}

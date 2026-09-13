@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣有,見若人食、啉,佇伊一切的辛勞內底看著好——這是以羅欣的禮物。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "啉"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "看著"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切的"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "辛勞內底"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "禮物"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "היא",
+      "gloss": "這是"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:02.585790738Z",
+  "model": "glm-5.3"
+}

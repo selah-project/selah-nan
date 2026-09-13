@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "阮就對阮的以羅欣祈禱,嘛對𪜶設守衛,日時佮暗時,因為驚𪜶。",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "設"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "守衛"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暗時"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "因為驚𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:03.822490385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 4:6",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊閣做十個洗盤,五個下佇正手爿,五個下佇倒手爿,通佇𪜶內底洗⟨את⟩燒祭的物件,佇𪜶內底沖洗;彼个海是予祭司佇伊內底洗身軀的。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "כיורים",
+      "gloss": "十個洗盤"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "下"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "佇正手爿"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "五個"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "佇倒手爿"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "通洗"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇𪜶內底"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燒祭的物件"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "物件"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ידיחו",
+      "gloss": "沖洗"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇𪜶內底"
+    },
+    {
+      "surface": "והים",
+      "gloss": "彼个海"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "通洗"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "予祭司"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:36.509548161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "你的烈怒對我頂面過去;你的恐怖滅掉了我。",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "對我頂面"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "過去"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "你的烈怒"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "你的恐怖"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "滅掉了我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:56.874400485Z",
+  "model": "glm-5.3"
+}

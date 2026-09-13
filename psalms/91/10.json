@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "災禍袂臨到你,瘟疫嘛袂接近你的帳棚。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "佮瘟疫"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "接近"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "你的帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:18.700249798Z",
+  "model": "glm-5.3"
+}

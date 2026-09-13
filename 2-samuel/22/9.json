@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "煙對伊的鼻孔升起來,火對伊的喙食滅掉;炭對伊燒起來。",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "升起來"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "對伊的鼻孔"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "佮火"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "對伊的喙"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食滅掉"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "炭"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:12.284543402Z",
+  "model": "glm-5.3"
+}

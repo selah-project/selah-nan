@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 10:5",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "撒瑪利亞的居民欲為著伯阿文的牛犢驚惶,因為伊的百姓欲為伊哀傷,伊的祭司嘛為伊歡喜,是對伊的榮光,因為伊已經對伊中間被擄去矣。",
+  "tokens": [
+    {
+      "surface": "לעגלות",
+      "gloss": "為著牛犢"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "און",
+      "gloss": "阿文"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "居民"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "וכמריו",
+      "gloss": "嘛伊的祭司"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "被擄去"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:11.832327503Z",
+  "model": "glm-5.3"
+}

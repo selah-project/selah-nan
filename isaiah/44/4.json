@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "𪜶欲佇草中間發芽,親像水邊的楊柳。",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "𪜶欲發芽"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "親像楊柳"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……邊"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "水溪"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:34.716904701Z",
+  "model": "glm-5.3"
+}

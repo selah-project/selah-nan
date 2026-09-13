@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "照這樣,王大流士簽了文件佮禁令。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "照"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "這"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "大流士"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "簽"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "文件"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "佮禁令"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:02.568910510Z",
+  "model": "glm-5.3"
+}

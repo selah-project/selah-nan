@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 100,
+  "translation": "恁著入去伊的門用感謝,入去伊的院仔用讚美;恁著感謝伊,著祝福伊的名。",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "伊的門"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "用感謝"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "伊的院仔"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "用讚美"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "著感謝"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "著祝福"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:14.580346227Z",
+  "model": "glm-5.3"
+}

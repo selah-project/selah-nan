@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 22:11",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "閣有人對⟨את⟩朋友的某做可憎惡的事;閣有人對⟨את⟩家己的媳婦用歹事致污穢;閣有人佇你中間壓制⟨את⟩伊的小妹、阿爸的查某囝。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "朋友的某"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "朋友的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "可憎惡的事"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "閣有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家己的媳婦"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "媳婦"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "致污穢"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "用歹事"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "閣有人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的小妹"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "小妹"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "阿爸的"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "壓制"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:15:58.894900717Z",
+  "model": "glm-5.3"
+}

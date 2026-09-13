@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 37:24",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "閣我的奴僕大衛欲做王佇𪜶頂面,𪜶眾人欲有一个牧者;𪜶欲行佇我的判語內,遵守我的律例,閣行伊⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "閣我的奴僕"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "ורועה",
+      "gloss": "閣牧者"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "對𪜶眾人"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "佇我的判語內"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "וחקתי",
+      "gloss": "佮我的律例"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "伊(律例)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:28.099990830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "𪜶心內圖謀歹事,逐日攏聚集欲相戰。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨𪜶⟩就是"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "圖謀"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "心內"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "יום",
+      "gloss": "逐日"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "欲相戰"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:45.727133476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "彼個得潔淨的人著洗⟨את⟩𪜶的衫,閣剃⟨את⟩全部的毛,佇水內洗身軀,就潔淨矣;了後伊才會當入去營內,總是著徛佇伊帳篷的外口七日。",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "著洗"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "彼個得潔淨的人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的衫"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "𪜶的衫"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "閣剃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全部的毛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "伊的毛"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "閣佇水內洗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水內"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "就潔淨"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "才會當入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "著徛"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外口"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "伊的帳篷"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:18.624915222Z",
+  "model": "glm-5.3"
+}

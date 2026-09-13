@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣祭司欲燒祀𪜶佇祭壇頂,做火祭的食物,做芳舒服的氣味;所有的油攏是雅威的。",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "閣燒祀𪜶"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇祭壇頂"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "做…的氣味"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "芳舒服"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "油"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "是雅威的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:38.671240376Z",
+  "model": "glm-5.3"
+}

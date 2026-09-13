@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "王給哈曼講:「銀子給你矣,百姓嘛予你,照你目睭看做好的去對付伊。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "給哈曼"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀子"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "已經給"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "嘛彼个百姓"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去對付…做"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "照…好的"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "你目睭看的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:14.910389866Z",
+  "model": "glm-5.3"
+}

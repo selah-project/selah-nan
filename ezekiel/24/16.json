@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "人子啊,看,我欲用瘟疫對你提走⟨את⟩你目睭所疼惜的;你毋通吊喪,嘛毋通啼哭,你的目屎嘛毋通流出來。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "我欲提走"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你目睭所疼惜的"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "疼惜的"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "用瘟疫"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "吊喪"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "流出來"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "你的目屎"
+    }
+  ],
+  "timestamp": "2026-09-12T04:16:56.375278538Z",
+  "model": "glm-5.3"
+}

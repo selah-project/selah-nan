@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "有人共大衛報講:「你看,非利士人佇基伊拉咧相戰,𪜶咧搶奪⟨את⟩禾埕。」",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "報"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "共大衛"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "咧相戰"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "佇基伊拉"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "咧搶奪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "禾埕"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "禾埕"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:49.798588822Z",
+  "model": "glm-5.3"
+}

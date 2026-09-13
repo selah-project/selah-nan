@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "以色列全體攏聚集到大衛遐,佇希伯崙,講:「看啊,你的骨佮你的肉——就是阮。」",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "攏聚集"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "你的骨"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "佮你的肉"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:26.087788793Z",
+  "model": "glm-5.3"
+}

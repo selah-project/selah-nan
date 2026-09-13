@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "雅威的目睭向義人,伊的耳仔向𪜶的哀求。",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "伊的耳仔"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "𪜶的哀求"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:14.022358703Z",
+  "model": "glm-5.3"
+}

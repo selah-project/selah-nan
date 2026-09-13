@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣⟨את⟩帕瑪什塔、⟨את⟩亞利賽、⟨את⟩亞利代、⟨את⟩瓦耶薩塔。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "帕瑪什塔"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "帕瑪什塔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞利賽"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "亞利賽"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞利代"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "亞利代"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "瓦耶薩塔"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "瓦耶薩塔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:38.237237067Z",
+  "model": "glm-5.3"
+}

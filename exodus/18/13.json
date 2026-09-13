@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "後來隔轉日，摩西坐咧欲審判⟨את⟩百姓，百姓就徛佇摩西身邊，對透早到黃昏。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "隔轉日"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐咧"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "欲審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "על",
+      "gloss": "身邊"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "黃昏"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:39.177229328Z",
+  "model": "glm-5.3"
+}

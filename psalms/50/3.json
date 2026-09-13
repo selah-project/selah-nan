@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "咱的以羅欣會來,伊袂恬默:火佇伊面前吞食,佇伊的四圍大大攪起風颺。",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "會來"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "恬默"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "佇伊的四圍"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "攪起風颺"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.143525754Z",
+  "model": "glm-5.3"
+}

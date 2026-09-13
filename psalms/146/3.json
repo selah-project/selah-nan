@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 146,
+  "translation": "恁毋通倚靠𪜶貴人,嘛毋通倚靠人子,因為伊無拯救。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "恁倚靠"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "𪜶貴人"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "嘛毋通倚靠"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人子"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "因為無"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:33.297925945Z",
+  "model": "glm-5.3"
+}

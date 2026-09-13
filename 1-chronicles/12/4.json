@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣有以實瑪雅・基比亞人,是三十人中間的勇士,閣做彼三十人的頭。",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "閣有以實瑪雅"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "基比亞人"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "佇三十人中間"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣做……的頭"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "彼三十人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:30.129354548Z",
+  "model": "glm-5.3"
+}

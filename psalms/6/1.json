@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "互指揮者的,用絃樂器,佇第八調;大衛的詩歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者的"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "用絃樂器"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "第八調"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:37.371794955Z",
+  "model": "glm-5.3"
+}

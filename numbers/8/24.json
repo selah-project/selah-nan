@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 8:24",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "「這是關係利未人的:對二十五歲起,𪜶欲來服事,佇會幕的工課內底做兵役。」",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是關係……的"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對……歲起"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "欲來"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "服事"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "做兵役"
+    },
+    {
+      "surface": "בעבדת",
+      "gloss": "佇……的工課內底"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕的帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "聚會"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:00.976278046Z",
+  "model": "glm-5.3"
+}

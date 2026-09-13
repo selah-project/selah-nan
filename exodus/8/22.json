@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 8:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "摩西講:「按呢做毋著,因為阮獻予雅威——阮的以羅欣——的是埃及人的可憎物。看啊,阮若佇𪜶目睭前獻⟨את⟩埃及人的可憎物,𪜶敢袂用石頭擲阮?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "著"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "可憎物"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人的"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "阮獻"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "阮獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及人的可憎物"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "可憎物"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及人的"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "佇𪜶目睭前"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "敢袂"
+    },
+    {
+      "surface": "יסקלנו",
+      "gloss": "用石頭擲阮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:15.259924689Z",
+  "model": "glm-5.3"
+}

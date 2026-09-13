@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威啊,憐憫我,因為我虛弱矣;醫好我,雅威啊,因為我的骨頭攏驚惶。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "憐憫我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "虛弱"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "醫好我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "我的骨頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:37.372736869Z",
+  "model": "glm-5.3"
+}

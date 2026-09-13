@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "猶大佇以色列面前拍輸,逐个人攏走走去家己的帳棚。",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "拍輸"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "走走"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐个人"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "去家己的帳棚"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:54.052837414Z",
+  "model": "glm-5.3"
+}

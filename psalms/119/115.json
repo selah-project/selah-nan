@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "行歹的人,離開我!我欲謹守我以羅欣的誡命。",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "離開"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離我"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "行歹的人"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "我欲謹守"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:48.227767222Z",
+  "model": "glm-5.3"
+}

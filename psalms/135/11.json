@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "就是西宏,亞摩利人的王,佮噩,巴珊的王,閣有迦南逐個王國;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "就是西宏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人的"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "佮噩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊的"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "閣有…逐個"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:23.926486949Z",
+  "model": "glm-5.3"
+}

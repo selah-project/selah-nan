@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣祭司欲將⟨את⟩這个咒詛寫佇冊裡，閣掠向苦水裡拭掉。",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "閣…寫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个咒詛"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "這个咒詛"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "佇冊裡"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "閣拭掉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "苦个"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:06.613213933Z",
+  "model": "glm-5.3"
+}

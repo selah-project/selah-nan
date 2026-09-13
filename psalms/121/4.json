@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "看,看守以色列的,毋會瞌眼,嘛毋會睏。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "瞌眼"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "睏"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "看守…的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:30.594152528Z",
+  "model": "glm-5.3"
+}

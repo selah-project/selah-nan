@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "以羅欣佇夜間的異象中對以色列講話,講:「雅各!雅各!」伊講:「看--我,我佇遮。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "佇……的異象中"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "夜間"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看--我,我佇遮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:55.709670883Z",
+  "model": "glm-5.3"
+}

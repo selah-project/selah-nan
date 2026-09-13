@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "大衛的手下共伊講:「你看,咱佇猶大遮就已經驚矣,何況閣去基伊拉,對非利士人的軍陣?」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "共伊"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "咱"
+    },
+    {
+      "surface": "פה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "佇猶大"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "驚"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": "閣"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "去"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "軍陣"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:49.799133899Z",
+  "model": "glm-5.3"
+}

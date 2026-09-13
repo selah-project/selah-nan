@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "雅威的使者揣著伊,佇曠野水泉仔的邊——佇彼個泉仔,佇去舒爾的路中。",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "揣著伊"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "עין",
+      "gloss": "泉仔"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "העין",
+      "gloss": "彼個泉仔"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路中"
+    },
+    {
+      "surface": "שור",
+      "gloss": "舒爾"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:26.862072782Z",
+  "model": "glm-5.3"
+}

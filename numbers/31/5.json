@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "對以色列的千人團中間,逐支派交付一千人,總共十二千人,攏是武裝備戰的兵。",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "就交付"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "對千人的團"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "逐支派"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "武裝的"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍隊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:49.173548413Z",
+  "model": "glm-5.3"
+}

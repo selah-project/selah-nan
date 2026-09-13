@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "獨獨佇歌珊地,彼位以色列囝仔佇遐的所在,無落冰雹。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "歌珊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "冰雹"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:46.271077495Z",
+  "model": "glm-5.3"
+}

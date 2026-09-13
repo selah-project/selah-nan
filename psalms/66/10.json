@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "因為你試驗阮,以羅欣;你熬煉阮,親像熬煉白銀。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "你試驗阮"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "你熬煉阮"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "親像熬煉"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "白銀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:07.800381641Z",
+  "model": "glm-5.3"
+}

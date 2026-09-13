@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "彼時王坐佇冬天厝,佇第九個月,⟨את⟩ 火盆佇伊面前燒燒。",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "彼時王"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "坐佇"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "冬天"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…個月"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "第九"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "火盆"
+    },
+    {
+      "surface": "האח",
+      "gloss": "火盆"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "燒燒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:01:48.028818335Z",
+  "model": "glm-5.3"
+}

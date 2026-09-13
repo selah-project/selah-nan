@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "伊共⟨את⟩彼五頛布幔一頛接一頛,閣彼五頛布幔伊一頛接一頛。",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "伊接"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼五頛布幔"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "頛布幔"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一頛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "另一頛"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "閣五頛"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "布幔"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "接做夥"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一頛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "另一頛"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:42.683275957Z",
+  "model": "glm-5.3"
+}

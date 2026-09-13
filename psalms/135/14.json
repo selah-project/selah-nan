@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "因為雅威欲審判伊的百姓,閣欲為著伊的奴僕回心轉意。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "欲審判"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣為著"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "回心轉意"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.346529183Z",
+  "model": "glm-5.3"
+}

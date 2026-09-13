@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "你⟨是⟩彼位仝款的,你的年歲袂息煞。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨是⟩彼位"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "你的年歲"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "息煞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.890220117Z",
+  "model": "glm-5.3"
+}

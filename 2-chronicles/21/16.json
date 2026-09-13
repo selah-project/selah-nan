@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣雅威激起⟨את⟩非利士人佮亞拉伯人的氣來對敵約蘭,就是徛佇古實人邊仔的。",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "閣…激起"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "約蘭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人佮亞拉伯人的氣"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "佮亞拉伯人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊仔"
+    },
+    {
+      "surface": "יד",
+      "gloss": "邊仔"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "古實人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:05.696208761Z",
+  "model": "glm-5.3"
+}

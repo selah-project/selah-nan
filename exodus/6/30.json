@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "摩哈佇雅威面前講:「你看,我是喙唇無割禮(意思就是喙舌無靈利)的人,法老哪會聽我?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הן",
+      "gloss": "你看"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "無割禮"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "喙唇"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:11.663409310Z",
+  "model": "glm-5.3"
+}

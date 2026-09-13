@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "以色列的囡仔按摩西的話去做,向米茲拉因人求銀的器具、金的器具,佮衫。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "……的囡仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "去做"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "按……的話"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "向……求"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "米茲拉因人(埃及)"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "佮……的器具"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "佮衫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:58.409161819Z",
+  "model": "glm-5.3"
+}

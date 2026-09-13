@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "亞伯拉罕老矣,入矣日子;雅威佇萬項代誌攏賜福亞伯拉罕 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老矣"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "日子"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞伯拉罕"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇萬項代誌攏"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:04.239161725Z",
+  "model": "glm-5.3"
+}

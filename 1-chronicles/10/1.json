@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "非利士人佮以色列人相戰,以色列人對非利士人的面頭前走閃,傷死的人仆落佇基利波山。",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佮以色列人"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "走閃"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面頭前"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "仆落"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "傷死的人"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "基利波"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:25.408631816Z",
+  "model": "glm-5.3"
+}

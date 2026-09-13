@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣這些是亞倫眾子的名,頭胎生的拿答,佮亞比戶、以利亞撒、以他瑪。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣這些"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "名"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "頭胎生的"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "拿答"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "佮亞比戶"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "佮以他瑪"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:54.773496462Z",
+  "model": "glm-5.3"
+}

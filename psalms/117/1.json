@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 117,
+  "translation": "列國啊,恁攏著呵咾雅威 ⟨את⟩;萬百姓啊,恁攏著頌讚伊!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "呵咾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "頌讚伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "萬百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:44.713797328Z",
+  "model": "glm-5.3"
+}

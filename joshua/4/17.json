@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "約書亞就命令⟨את⟩彼眾祭司,講:「恁對約旦河裡上來。」",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "就命令"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼眾祭司"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "彼眾祭司"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "上來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…裡"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:29.105678479Z",
+  "model": "glm-5.3"
+}

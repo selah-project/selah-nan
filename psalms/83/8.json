@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "基巴拉佮亞捫佮亞瑪力,非利士佮推羅的居民,",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "基巴拉"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "佮亞捫"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "佮亞瑪力"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "非利士"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "צור",
+      "gloss": "推羅"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:24.992970849Z",
+  "model": "glm-5.3"
+}

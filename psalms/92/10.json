@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "因為你看,雅威,你的對敵;因為你看,你的對敵欲滅無;做歹的人攏欲四散。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "欲滅無"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "欲四散"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "做…的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "歹"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:31.405396096Z",
+  "model": "glm-5.3"
+}

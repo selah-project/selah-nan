@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "智慧人个心向伊个正手爿,愚戇人个心向伊个倒手爿。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "向伊个正手爿"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "佮…个心"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "向伊个倒手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:24.862818468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 21:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "若是伊拍落伊奴僕的喙齒,抑是女婢的喙齒,伊著放伊做自由的人,為著彼粒喙齒。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "שן",
+      "gloss": "喙齒"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "שן",
+      "gloss": "喙齒"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "伊的女婢"
+    },
+    {
+      "surface": "יפיל",
+      "gloss": "拍落"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "做自由的人"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "伊著放伊"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "為著"
+    },
+    {
+      "surface": "שנו",
+      "gloss": "彼粒喙齒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:59.491069322Z",
+  "model": "glm-5.3"
+}

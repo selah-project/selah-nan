@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "利未的子仔就扛⟨את⟩以羅欣的約櫃,照摩西所命令的,照雅威的話,用槓仔佇𪜶的肩頭頂。",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "就扛"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子仔"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "𪜶的肩頭"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "用槓仔"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:43.278028155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊的厚度是一掌闊,伊的喙唇親像杯的喙唇的工,親像百合的花,會當容三千個罷的容量。",
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "伊的厚度"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "一掌闊"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "伊的喙唇"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "親像…的工"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "喙唇"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "花"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "百合"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "會當容"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "罷"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "容量"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:36.509136867Z",
+  "model": "glm-5.3"
+}

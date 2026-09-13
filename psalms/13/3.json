@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "到外久我欲閣佇我的性命內底設計謀?日日憂悶佇我的心內?到外久我的對敵欲閣升高佇我頂面?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "外久"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "我欲閣設"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "佇我的性命內底"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "憂悶"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "佇我的心內"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日日"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "外久"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "欲閣升高"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:37.840771463Z",
+  "model": "glm-5.3"
+}

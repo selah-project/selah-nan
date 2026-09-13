@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "願我的教示滴落親像雨,我的話透滴親像露,親像細雨落佇幼草,親像陣雨落佇青草。",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "滴落"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "親像雨"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "我的教示"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "透滴"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "親像露"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我的話"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "親像細雨"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "落佇…頂"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "幼草"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "親像陣雨"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "落佇…頂"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "青草"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:10.555018373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 15:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "驚惶佮恐怖欲落佇𪜶身上;因為你的膀臂大,𪜶靜默親像石頭,直到你的子民過去,雅威啊,直到此個你買來的子民過去。",
+  "tokens": [
+    {
+      "surface": "תפל",
+      "gloss": "欲落"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶身上"
+    },
+    {
+      "surface": "אימתה",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "佮恐怖"
+    },
+    {
+      "surface": "בגדל",
+      "gloss": "因為…大"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "你的膀臂"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "𪜶靜默"
+    },
+    {
+      "surface": "כאבן",
+      "gloss": "親像石頭"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "過去"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的子民"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "過去"
+    },
+    {
+      "surface": "עם",
+      "gloss": "子民"
+    },
+    {
+      "surface": "זו",
+      "gloss": "此個"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "你買來的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:50.110614747Z",
+  "model": "glm-5.3"
+}

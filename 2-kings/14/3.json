@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊行雅威眼看做對的事,獨獨毋親像伊老爸大衛;伊照伊老爸約阿施所行的一切去行。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊行"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "對的事"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "親像大衛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老爸"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老爸"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:10.581644648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊擘開海,帶𪜶過去;閣予水徛起來親像一堆。",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "擘開"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "帶𪜶過去"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "予…徛起來"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "נד",
+      "gloss": "一堆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:20.472551101Z",
+  "model": "glm-5.3"
+}

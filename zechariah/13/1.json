@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 13:1",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "佇彼个日,欲有一个泉源開予大衛的家佮耶路撒冷的居民,為著罪佮無清氣。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲有"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "予…的家"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ולישבי",
+      "gloss": "佮…的居民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "為著罪"
+    },
+    {
+      "surface": "ולנדה",
+      "gloss": "佮無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:30.797904684Z",
+  "model": "glm-5.3"
+}

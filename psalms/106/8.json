@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "毋拘伊為著伊的名拯救𪜶,欲互人知⟨את⟩伊的大權能。",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "毋拘伊拯救𪜶"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "欲互人知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的大權能"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "伊的大權能"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:09.430721767Z",
+  "model": "glm-5.3"
+}

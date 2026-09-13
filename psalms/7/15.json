@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "看,伊勞苦抱歹,有身懷害,閣生出白賊。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "勞苦抱"
+    },
+    {
+      "surface": "און",
+      "gloss": "歹"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "有身"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "害"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "閣生出"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:39.859668314Z",
+  "model": "glm-5.3"
+}

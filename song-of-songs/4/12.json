@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "關起來的果園,是我的阿妹、我的新娘;封密的泉,封印的活水源。",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "果園"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "關起來的"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "我的阿妹"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "我的新娘"
+    },
+    {
+      "surface": "גל",
+      "gloss": "泉"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "封密的"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "活水源"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "封印的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:14.295184527Z",
+  "model": "glm-5.3"
+}

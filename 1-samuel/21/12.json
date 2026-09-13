@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 21:12",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "亞吉的奴僕給伊講:這敢毋是大衛,彼地的王?人敢毋是佇跳舞應答這個人,講:掃羅刣死千千,大衛刣死萬萬?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞吉"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "敢毋是"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼地的"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "敢毋是"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "這個人"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "應答"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "佇跳舞"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "千千"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "萬萬"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:47.334678211Z",
+  "model": "glm-5.3"
+}

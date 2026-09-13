@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "互指揮的人,照「清晨的鹿仔」,大衛的一首詩歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "鹿仔"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "清晨"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "一首詩歌"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:00.687823261Z",
+  "model": "glm-5.3"
+}

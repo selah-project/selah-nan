@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "願𪜶親像糠秕佇風頭前,雅威的天使共伊趕散。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "願𪜶親像"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "糠秕"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…頭前"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "佮…的天使"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "趕散"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:17.269215432Z",
+  "model": "glm-5.3"
+}

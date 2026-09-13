@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "所以我污瀆聖所的領袖,閣共雅各交互毀滅(咒詛),共以色列做譏誚的對象。",
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "所以我污瀆"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "領袖"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "閣我共……交互"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "做毀滅(咒詛)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "佮以色列"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "做譏誚的對象"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:26.310613716Z",
+  "model": "glm-5.3"
+}

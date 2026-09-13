@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "我佇逐個對敵的面前提做見笑,閣較厲害——佇我的厝邊;我做熟似人的驚惶;佇外面看著我的人攏對我閃走。",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "佇逐個"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我提做"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "閣較厲害——佇我的厝邊"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "較厲害"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "閣做…驚惶"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "熟似人"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "看著我的人"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "佇外面"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "攏閃走"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:01.881183908Z",
+  "model": "glm-5.3"
+}

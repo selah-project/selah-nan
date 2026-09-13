@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "欲互你的老老爸佮你的老母歡喜,嘛欲互生你的彼个歡喜到大聲喊。",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "欲互…歡喜"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的老爸"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "佮你的老母"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "嘛欲互…歡喜到大聲喊"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "生你的彼个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:21.843122370Z",
+  "model": "glm-5.3"
+}

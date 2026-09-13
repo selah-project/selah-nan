@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "這个查某人的囝佇暗暝死,因為伊睏囡仔的頂面。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "彼个查某人"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "佇暗暝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "伊睏"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊的頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:07.409152213Z",
+  "model": "glm-5.3"
+}

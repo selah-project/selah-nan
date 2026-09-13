@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣無求問雅威,伊就共伊處死,將⟨את⟩王位轉互大衛,耶西的仔。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "求問"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "共伊處死"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "轉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王位"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "王位"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "互大衛"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:23.830642065Z",
+  "model": "glm-5.3"
+}

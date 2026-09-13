@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 93,
+  "translation": "比多水的大聲,比海撞岸的大湧閣較威嚴的,是佇高天的雅威。",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "比……的大聲"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "比……撞岸的大湧"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "閣較威嚴"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "佇高天"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:12.935723284Z",
+  "model": "glm-5.3"
+}

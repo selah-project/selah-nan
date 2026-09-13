@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我的果子比金、比純金卡好;我的收成比揀選過的銀卡好。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "卡好"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "我的果子"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "比金"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "佮比純金"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "佮我的收成"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "比銀"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "揀選過的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:59.582168697Z",
+  "model": "glm-5.3"
+}

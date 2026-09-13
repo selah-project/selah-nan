@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊有王妃七百人,閣有細姨三百人;伊的查某人振了⟨את⟩伊的心。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "王妃"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "細姨"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "振了"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "伊的查某人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的心"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    }
+  ],
+  "timestamp": "2026-09-12T03:09:07.204383786Z",
+  "model": "glm-5.3"
+}

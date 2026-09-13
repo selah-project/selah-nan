@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊就佇田裡拾到暗昏,閣共⟨את⟩伊所拾的拍落,落來約略一伊法的大麥。",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "就拾"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "暗昏"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "閣拍落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所拾的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "拾的"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "落來成做"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "約略一伊法"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麥"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:36.486795882Z",
+  "model": "glm-5.3"
+}

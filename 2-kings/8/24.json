@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "約蘭佮伊的列祖同睏,埋葬佇大衛城,佮伊的列祖做夥;伊的子亞哈謝接替伊做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "就同睏"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "約蘭"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "就埋葬"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇…城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "就做王"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "亞哈謝"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接替伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:15.758706967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "攑你的耳仔倚向我,緊救我脫離;做我的磐石,做堅固營壘的厝,來救我。",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "攑…倚向我"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "倚向我"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳仔"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "緊"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "救我脫離"
+    },
+    {
+      "surface": "היה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "做磐石"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "做鞏固的營壘"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "的厝"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "來救我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:16.265604993Z",
+  "model": "glm-5.3"
+}

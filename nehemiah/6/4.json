@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "𪜶照這个話差人來我遮四擺,我嘛照這个話應𪜶⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "𪜶差人"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "來我遮"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照這个話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "我嘛應"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "這个話"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照這个話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:33.504452363Z",
+  "model": "glm-5.3"
+}

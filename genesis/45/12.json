@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "「看啊,恁的目睭看見,我兄弟便雅憫的目睭嘛看見,對恁講話的嘴就是我的嘴。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "恁的目睭"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "……的目睭嘛"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我兄弟"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的嘴"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "講話的"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:59.594610204Z",
+  "model": "glm-5.3"
+}

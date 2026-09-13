@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "𪜶趕走孤兒的驢,牽走寡婦的牛做抵押。",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "驢"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "孤兒的"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "牽走……做抵押"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:27:06.667278567Z",
+  "model": "glm-5.3"
+}

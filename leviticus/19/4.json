@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "恁毋通越向彼號假神,嘛毋通為恁家己鑄造湠形的神;我是雅威恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "越向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "彼號假神"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "…的神"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "鑄造湠形的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "為恁家己"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:30.422206457Z",
+  "model": "glm-5.3"
+}

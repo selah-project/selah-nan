@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "大衛佮佇伊身邊⟨את⟩的眾人,舉起⟨את⟩𪜶的聲哮,𪜶哮到佇𪜶內底無力通哮。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "佮眾人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼的"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩佮伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的聲"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "𪜶的聲"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "哮"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "到彼陣"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇𪜶內底"
+    },
+    {
+      "surface": "כח",
+      "gloss": "力"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "通哮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:38.683312134Z",
+  "model": "glm-5.3"
+}

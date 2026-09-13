@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "閣對摩西講:「你欲上去雅威遐,你閣亞倫、拿答、亞比戶,佮以色列的七十个長老,恁欲佇遠遠的所在跪拜。」",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "閣亞倫"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "拿答"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "閣亞比戶"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "七十个"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "的長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "恁欲跪拜"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "佇遠遠的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:31.584699142Z",
+  "model": "glm-5.3"
+}

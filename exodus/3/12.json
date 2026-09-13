@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊講:因為我欲佮你佇咧,閣這是你的記號,講是我差你:佇你帶⟨את⟩彼個百姓對米茲拉因出去了後,𪜶欲佇這座山頂服事⟨את⟩以羅欣。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "我欲佇"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "閣這"
+    },
+    {
+      "surface": "לך",
+      "gloss": "是你的"
+    },
+    {
+      "surface": "האות",
+      "gloss": "記號"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講是"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "差你"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "佇你帶……出去了後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼個百姓"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "𪜶欲服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "……山頂"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這座"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:51.627463175Z",
+  "model": "glm-5.3"
+}

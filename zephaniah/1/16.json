@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "是羊角佮戰喊的日子,攻擊彼號堅固的城,閣攻擊彼號懸高的角樓。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "佮戰喊"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "彼號城"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣攻擊"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "彼號角樓"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "懸高的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:45.888083803Z",
+  "model": "glm-5.3"
+}

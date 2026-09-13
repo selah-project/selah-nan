@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "願對敵追趕我的性命,閣趕上我,共我的活命踏落土腳,閣將我的榮光安置佇塗粉內。細拉。",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "閣趕上"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "閣踏落"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "到土腳"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我的活命"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "閣我的榮光"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "到塗粉"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "安置"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:10.370166189Z",
+  "model": "glm-5.3"
+}

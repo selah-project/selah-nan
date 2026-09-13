@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "雅威對伊講:「你手裡彼个是啥物?」伊講:「一支柺仔。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "你手裡"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "柺仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:52.411903558Z",
+  "model": "glm-5.3"
+}

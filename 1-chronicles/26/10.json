@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "閣對何撒,對米拉利的後生,有後生:希米利做頭,因為伊毋是頭胎生的,伊的老父設伊做頭。",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "閣對何撒"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "米拉利"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "有後生"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "希米利"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "做頭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭胎生的"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "設伊"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "做頭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:16.886760886Z",
+  "model": "glm-5.3"
+}

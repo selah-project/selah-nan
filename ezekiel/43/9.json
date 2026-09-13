@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "這馬𪜶著將⟨את⟩𪜶的淫亂,佮𪜶諸王的屍體,對我遐趕離遠,我就欲徛家佇𪜶中間到萬世久。",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "著趕離遠"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的淫亂"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "𪜶的淫亂"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "佮…的屍體"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "𪜶諸王"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "我就欲徛家"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到萬世久"
+    }
+  ],
+  "timestamp": "2026-09-12T04:24:01.247994201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "這了後,約伯閣活一百四十年,看見⟨את⟩伊的後生,佮⟨את⟩伊後生的後生,四代。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "伊閣活"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "佮四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "伊看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的後生"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊後生的後生"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的後生"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊後生"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "代"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:04.791646840Z",
+  "model": "glm-5.3"
+}

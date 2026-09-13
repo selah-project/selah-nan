@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣諸个就是大衛所設立、佇雅威的殿掌理歌唱的，對約柜安息了後。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣諸个"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是……的"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "所設立"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "……的手（掌理）"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌唱"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "對……安息了後"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "約柜"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:23.879752297Z",
+  "model": "glm-5.3"
+}

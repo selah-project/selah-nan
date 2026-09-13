@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "伊對伊的家出來,行去,做別个查埔人的某。",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "出來"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "對伊的家"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "行去"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "查埔人"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別个"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:22.774996435Z",
+  "model": "glm-5.3"
+}

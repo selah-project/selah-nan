@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 27:12",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "亞奇士信了大衛,講:「伊家己臭甲極臭,佇伊的百姓、佇以色列中間;伊會永遠做我的奴僕。」",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "信了"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞奇士"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הבאש",
+      "gloss": "臭甲"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "極臭"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "佇伊的百姓"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "伊會做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:42.288944378Z",
+  "model": "glm-5.3"
+}

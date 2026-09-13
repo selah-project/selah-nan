@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "求你奇妙地分別出你的赫瑟德,拯救投靠你的人,用你的右手脫離彼些起來攻擊的人。",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "奇妙地分別出"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "投靠的人"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "脫離彼些起來攻擊的人"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "用你的右手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:59.431814371Z",
+  "model": "glm-5.3"
+}

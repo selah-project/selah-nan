@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "按呢教示阮算阮的日子,互阮的心得著智慧。",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "算"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "阮的日子"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "教示阮知"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "互阮得著"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:21.711095134Z",
+  "model": "glm-5.3"
+}

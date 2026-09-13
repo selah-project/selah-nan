@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "猶大人接受⟨את⟩𪜶所開始行的代誌,嘛接受⟨את⟩末底改寫互𪜶的。",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "接受"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶所開始行的代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "開始"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "行"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "嘛接受⟨את⟩",
+      "marks": "末底改寫互𪜶的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "互𪜶"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:28.202624848Z",
+  "model": "glm-5.3"
+}

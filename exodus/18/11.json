@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "這陣我知雅威比一切的神攏較大,因為佇𪜶囂張對付𪜶的彼件代誌。",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…知"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "較大"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比一切…攏"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "的神"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "佇…的代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼件"
+    },
+    {
+      "surface": "זדו",
+      "gloss": "𪜶囂張對付"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "對付𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:36.885238285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "巴比倫王就拍⟨את⟩𪜶,佇利比拉、佇哈馬地共𪜶處死;猶大就對伊的土地予人徙出去。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "就拍"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "共𪜶處死"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "佇利比拉"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "就予人徙出去"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…頂面"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "伊的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:44.915422914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "伊將水縛佇伊的雲內底,雲嘛無佇𪜶下面裂開。",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "縛"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "佇伊的雲內底"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "裂開"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "佇𪜶下面"
+    }
+  ],
+  "timestamp": "2026-09-12T05:27:37.285680291Z",
+  "model": "glm-5.3"
+}

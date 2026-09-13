@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "佇第五年,恁通食⟨את⟩伊的果子,欲互恁加添伊的出產;我是雅威,恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "第五"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁通食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的果子"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "加添"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "互恁"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "伊的出產"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:59.498476928Z",
+  "model": "glm-5.3"
+}

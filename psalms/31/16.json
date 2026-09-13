@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "我个時陣攏佇你手中;救我脫離我對敵个手,脫離掠趕我个人。",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "佇你手中"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "我个時陣"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…个手"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "我个對敵"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "佮掠趕我个人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:06.190282822Z",
+  "model": "glm-5.3"
+}

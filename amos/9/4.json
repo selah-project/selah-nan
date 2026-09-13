@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "若𪜶去做仇敵面前的俘虜,對遐我欲命令⟨את⟩刀劍,伊就欲刣死𪜶;我欲將我的目睭注視𪜶,為著歹,毋為著好。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "𪜶去做"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "俘虜"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "我欲命令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "刀劍"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "伊就欲刣死𪜶"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "我欲將…注視"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "為著歹"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "為著好"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:52.237301297Z",
+  "model": "glm-5.3"
+}

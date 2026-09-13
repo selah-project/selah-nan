@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "底拿——利亞逐个查某囝,利亞替雅各生的——出去,欲看遐个地方个查某囝。",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "底拿"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "利亞"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——彼个"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "替雅各"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "遐个查某囝"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地方个"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:26.859039697Z",
+  "model": "glm-5.3"
+}

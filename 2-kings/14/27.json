@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 14:27",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "雅威無講欲抹消⟨את⟩以色列的名,對天的下面;伊就藉耶羅波安、約阿施的仔的手救𪜶。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "…無"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "欲抹消"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "對…下面"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "伊就救𪜶"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:27.538792496Z",
+  "model": "glm-5.3"
+}

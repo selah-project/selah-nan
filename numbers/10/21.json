@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "哥轄人啟程,𪜶是扛聖所的;𪜶閣會當佇𪜶到以前搭起⟨את⟩帳棚。",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "啟程"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "哥轄人"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "扛……的"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "搭起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳棚"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "באם",
+      "gloss": "𪜶來到"
+    }
+  ],
+  "timestamp": "2026-09-12T01:55:04.527014551Z",
+  "model": "glm-5.3"
+}

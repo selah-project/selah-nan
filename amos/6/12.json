@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "馬敢會佇石頭頂走?有人敢會用牛佇遐犁?因為恁共公道顛倒做毒物,共公義的果子做苦艾。",
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "敢會走"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "佇石頭頂"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "會犁"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "用牛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "恁共…顛倒"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "做毒物"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "…的果子"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "做苦艾"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:15.898455040Z",
+  "model": "glm-5.3"
+}

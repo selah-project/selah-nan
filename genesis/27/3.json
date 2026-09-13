@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "這馬你提你的家私、你的箭袋佮你的弓,出去田裡,替我獵獵物",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "שא",
+      "gloss": "提"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "你的家私"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "你的箭袋"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "佮你的弓"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "獵"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "獵物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:30.634112722Z",
+  "model": "glm-5.3"
+}

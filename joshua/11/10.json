@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "彼時約書亞倒轉去,攻落⟨את⟩夏瑣,用刀拍死⟨את⟩伊的王;因為夏瑣代先是諸個王國的頭。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…時"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "攻落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "夏瑣"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "夏瑣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的王"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "伊的王"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "拍死"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "夏瑣"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "代先"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "諸個王國"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "諸個"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:55.894361965Z",
+  "model": "glm-5.3"
+}

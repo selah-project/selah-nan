@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "風行向南,紲轉向北;風一直踅、一直踅、一直行,照伊的循環轉來轉去。",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "南"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "紲轉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "北"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "踅"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "踅"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "照"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "伊的循環"
+    },
+    {
+      "surface": "שב",
+      "gloss": "轉來轉去"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:18.973452319Z",
+  "model": "glm-5.3"
+}

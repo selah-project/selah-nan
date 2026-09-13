@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "互指揮者的,照『啞啞的鴿仔佇遠遠』(約拿特‧以勒姆‧拉霍基姆)彼個調,大衛的米克坦,佇非利士人掠⟨את⟩伊佇迦特的時。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者的"
+    },
+    {
+      "surface": "על",
+      "gloss": "照…彼個調"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "鴿仔"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "啞啞"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "遠遠"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "米克坦"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "佇…掠"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "佇迦特"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:19.348306498Z",
+  "model": "glm-5.3"
+}

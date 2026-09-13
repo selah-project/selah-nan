@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "願諸天歡喜,大地快樂;願海吼出聲,佮伊所充滿的一切。",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "吼出聲"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "佮伊所充滿的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:33.705217568Z",
+  "model": "glm-5.3"
+}

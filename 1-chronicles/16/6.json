@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "閣有比拿雅佮雅哈悉做祭司的,時常用喇叭佇以羅欣約的櫃仔頭前吹。",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "閣有比拿雅"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "佮雅哈悉"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "做祭司的"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "用喇叭"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "時常"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "頭前"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "櫃仔"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:38.091104739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 128,
+  "translation": "你看,真正按呢,敬畏雅威的人會按呢得福。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "כי",
+      "gloss": "真正"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "會得福"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "人(丈夫)"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.658279424Z",
+  "model": "glm-5.3"
+}

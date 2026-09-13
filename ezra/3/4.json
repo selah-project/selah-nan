@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "𪜶閣照所記載的守⟨את⟩棚仔節，閣照數額、照逐日的定例、照彼个日的事工，逐日獻燒祭佇伊的日子。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "閣守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "棚仔節"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "棚仔"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "照所記載的"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "閣獻燒祭"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "逐日"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "照數額"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "照定例"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "的事工"
+    },
+    {
+      "surface": "יום",
+      "gloss": "彼个日"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "佇伊的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:49:43.903693290Z",
+  "model": "glm-5.3"
+}

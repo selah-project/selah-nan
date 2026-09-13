@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "雅威定一个期限,講:「明仔載,雅威欲佇此地行這個話。」",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "定"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "期限"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明仔載"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這個話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇此地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:37.550699372Z",
+  "model": "glm-5.3"
+}

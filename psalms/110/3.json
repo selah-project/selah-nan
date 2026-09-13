@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 110,
+  "translation": "你的百姓佇你陣仗的日子甘願奉獻,佇聖的榮光內,對清晨的母胎,你有你青春的露水。",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "甘願奉獻"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "你的陣仗"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "佇…的榮光"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "對母胎"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "清晨"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你有\/給你"
+    },
+    {
+      "surface": "טל",
+      "gloss": "露水"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "你的青春"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:34.420293675Z",
+  "model": "glm-5.3"
+}

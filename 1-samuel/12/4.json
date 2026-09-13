@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "𪜶講:你無欺負阮,嘛無壓迫阮,嘛無對啥人的手提半項物件。",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "欺負阮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "壓迫阮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "提"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "איש",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "半項物件"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:09.934094102Z",
+  "model": "glm-5.3"
+}

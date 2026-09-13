@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "伊欲來,擊打⟨את⟩米茲拉因(埃及)的地:該當死的到死,該當予人掠的到予人掠,該當著刀的到著刀。",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "伊欲來"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米茲拉因的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "該當"
+    },
+    {
+      "surface": "למות",
+      "gloss": "死"
+    },
+    {
+      "surface": "למות",
+      "gloss": "到死"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮該當"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "予人掠"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "到予人掠"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮該當"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "著刀"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "到著刀"
+    }
+  ],
+  "timestamp": "2026-09-12T06:30:49.192796468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "雅威啊,到當久,你欲按呢掩藏到永遠?你的烈怒欲燒親像火嗎?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מה",
+      "gloss": "當久"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "你掩藏"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "欲燒"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "你的烈怒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:32.391646768Z",
+  "model": "glm-5.3"
+}

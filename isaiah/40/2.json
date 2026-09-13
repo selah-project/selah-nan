@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 40:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "向耶路撒冷的心講話,向伊呼喊:伊的兵役已經滿矣,伊的罪孽已經得著赦免,因為伊對雅威的手加倍受著伊一切罪的刑罰。",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "講話"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "向伊呼喊"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⋯⋯矣"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "已經滿矣"
+    },
+    {
+      "surface": "צבאה",
+      "gloss": "伊的兵役"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⋯⋯矣"
+    },
+    {
+      "surface": "נרצה",
+      "gloss": "已經得著赦免"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "伊的罪孽"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "伊⋯⋯受著"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對⋯⋯的手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "加倍"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "伊一切"
+    },
+    {
+      "surface": "חטאתיה",
+      "gloss": "罪的刑罰"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:13.184418411Z",
+  "model": "glm-5.3"
+}

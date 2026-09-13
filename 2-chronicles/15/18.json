@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊帶 ⟨את⟩ 伊老父的聖物佮伊家己的聖物入以羅欣的家,銀、金,佮器具。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "伊帶入"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊老父的聖物"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "佮伊家己的聖物"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "佮金"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "佮器具"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:56.190477929Z",
+  "model": "glm-5.3"
+}

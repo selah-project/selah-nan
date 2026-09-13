@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "毋通,阮的囝,因為我咧聽的彼個風聲毋好——就是予雅威的百姓犯過。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "בני",
+      "gloss": "阮的囝"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "好"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "彼個風聲"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "咧聽"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "予…犯過"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:34.064961930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "啥人欲互我佇曠野有一个行路人歇睏的旅宿,我就會當放棄⟨את⟩我的百姓,對⟨את⟩𪜶行離開?因為𪜶攏是行姦淫的,是一陣背叛的人。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "互我"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "旅宿"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "行路人的"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "我就放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "我就行離開"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "對⟨את⟩𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "行姦淫的"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "一陣(聚集)"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "背叛的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:48.334894657Z",
+  "model": "glm-5.3"
+}

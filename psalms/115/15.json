@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "恁是蒙雅威賜福的,伊是造天佮地的。",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "蒙……賜福的"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:38.273634424Z",
+  "model": "glm-5.3"
+}

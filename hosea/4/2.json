@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "咒詛、白賊、刣人、偷提、姦淫──𪜶氾濫出來，血佮血相黏。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "佮白賊"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "佮刣人"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "佮偷提"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "佮姦淫"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "氾濫出來"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "佮血"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "佇血"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "相黏"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:09.289079251Z",
+  "model": "glm-5.3"
+}

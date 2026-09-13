@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "雅威就照摩西的話行,蠓蟲就對法老、對伊的奴僕、對伊的民撤走,連一個嘛無留。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照……的話"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "就撤走"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "蠓蟲"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "對法老"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "對伊的奴僕"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "佮對伊的民"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "留"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:24.274139463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 1:26",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "獨獨我 —— 我你的奴僕,佮祭司撒督,佮耶何耶大的子便雅憫人比拿雅(便雅憫人比拿雅,耶何耶大的子),佮你奴僕所羅門,伊攏無召集。",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "獨獨我"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你——的奴僕"
+    },
+    {
+      "surface": "ולצדק",
+      "gloss": "佮撒督"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "佮便雅憫人比拿雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "耶何耶大"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "佮所羅門"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你——的奴僕"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "召集"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:37.815318834Z",
+  "model": "glm-5.3"
+}

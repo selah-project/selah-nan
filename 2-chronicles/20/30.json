@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 20:30",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "約沙法的國就安靜落去,伊的以羅欣互伊四圍攏得安息。",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "就安靜落去"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "國"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "互伊安息"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:33.763595849Z",
+  "model": "glm-5.3"
+}

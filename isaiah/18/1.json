@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "「哀哉,彼个翼仔嗡嗡響个地,佇古實諸河的對岸!」",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "哀哉"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "嗡嗡響"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "翼"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "對岸"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "諸河"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:07.217434197Z",
+  "model": "glm-5.3"
+}

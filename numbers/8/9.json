@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣你欲獻上 ⟨את⟩ 利未人佇會幕(相會的帳棚)面頭前,閣你欲聚集 ⟨את⟩ 以色列眾子兒的全會眾。",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "閣你欲獻上"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "利未人"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相會"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "閣你欲聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列眾子兒的全會眾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:55:13.183689590Z",
+  "model": "glm-5.3"
+}

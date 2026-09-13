@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "若掌權者个怒氣升起衝著你,毋通放棄你个位;因為溫柔个醫法會使大大條个罪過安靜落去。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "怒氣"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "掌權者"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "升起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "衝著你"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "你个位"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "溫柔个醫法"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "會使…安靜"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "罪過"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "大大條个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:24.863131921Z",
+  "model": "glm-5.3"
+}

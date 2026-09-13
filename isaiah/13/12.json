@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我欲互人比精金閣較稀罕,互世人比俄斐的純金閣較稀罕。",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "我欲互…閣較稀罕"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "比精金"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "佮世人"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "比…純金"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "俄斐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:58.749405613Z",
+  "model": "glm-5.3"
+}

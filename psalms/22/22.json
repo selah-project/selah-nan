@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "救我脫離獅的喙,對野牛的角你應答我。",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "脫離…的喙"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "對…的角"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "野牛"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "你應答我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:24.560334527Z",
+  "model": "glm-5.3"
+}

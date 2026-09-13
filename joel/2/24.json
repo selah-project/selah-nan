@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joel 2:24",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "禾埕會滿五穀,酒甕會溢出新酒佮油。",
+  "tokens": [
+    {
+      "surface": "ומלאו",
+      "gloss": "會滿"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "禾埕"
+    },
+    {
+      "surface": "בר",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "והשיקו",
+      "gloss": "會溢出"
+    },
+    {
+      "surface": "היקבים",
+      "gloss": "酒甕"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "新酒"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "佮油"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:17.349736767Z",
+  "model": "glm-5.3"
+}

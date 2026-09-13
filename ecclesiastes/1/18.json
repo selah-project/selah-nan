@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "因為佇真濟智慧內底有真濟煩惱，佮添知識的人嘛添艱苦。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "佇真濟……內底"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "רב",
+      "gloss": "有真濟"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "煩惱"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "佮添"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "添"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "艱苦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:39.672709218Z",
+  "model": "glm-5.3"
+}

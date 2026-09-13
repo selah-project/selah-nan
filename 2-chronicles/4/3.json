@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣有牛隻的形像佇伊下脚,四圍閣四圍,環圍 ⟨את⟩ 伊,一肘十隻,環圍 ⟨את⟩ 彼個海四圍;牛隻有兩排,佇伊鑄的時就鑄佇咧。",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "閣有……的形像"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "牛隻"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下脚"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "閣四圍"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "環圍"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十隻"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "環圍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼個海"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "排"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "彼个牛隻"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "鑄的"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "佇伊鑄的時"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:43.535055273Z",
+  "model": "glm-5.3"
+}

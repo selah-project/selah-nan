@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "我追我的對敵,閣趕著𪜶;我毋倒轉,到𪜶消滅為止。",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "我追"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "閣趕著𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "𪜶消滅為止"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:21.981708103Z",
+  "model": "glm-5.3"
+}

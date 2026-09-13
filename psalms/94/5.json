@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "雅威啊,⟨𪜶⟩壓碎你的百姓,苦待你的產業。",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "壓碎"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "佮你的產業"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "苦待"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:18.582529741Z",
+  "model": "glm-5.3"
+}

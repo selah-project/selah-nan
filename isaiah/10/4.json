@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "干焦會當佇囚犯的下跤屈膝,佇被殺的人下面倒落去爾爾。佇這一切的中間,伊的受氣無退轉,伊的手猶閣伸出咧。",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "干焦…爾爾"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "屈膝"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下跤"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "囚犯"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "佮佇…下面"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "被殺的人"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…一切的"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שב",
+      "gloss": "退轉"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊的受氣"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "猶閣"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸出咧"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:11.527331368Z",
+  "model": "glm-5.3"
+}

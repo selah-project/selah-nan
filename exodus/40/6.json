@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣,汝著下⟨את⟩燒祭的壇佇會面帳棚門口的面頭前。",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "汝著下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燒祭的壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭的"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:54.911635487Z",
+  "model": "glm-5.3"
+}

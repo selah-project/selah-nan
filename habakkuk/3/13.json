@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "你出去救你的百姓,救⟨את⟩你的彌賽亞;你拍破歹人的厝的頭殼,裸露地基一直到頷頸。細拉。",
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "你出去"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "救"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "救"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的彌賽亞"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "你的彌賽亞"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "你拍破"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭殼"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對厝"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "裸露"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "地基"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "頷頸"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:54.427925759Z",
+  "model": "glm-5.3"
+}

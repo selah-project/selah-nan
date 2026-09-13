@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "猶大的囝照𪜶的家族是按呢:屬示拉的,有示拉人的家族;屬法勒斯的,有法勒斯人的家族;屬謝拉的,有謝拉人的家族。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "是按呢"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "屬示拉的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "示拉人的"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "屬法勒斯的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "法勒斯人的"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "屬謝拉的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "謝拉人的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:29.153469907Z",
+  "model": "glm-5.3"
+}

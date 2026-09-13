@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "祭司就予諸個百夫長⟨את⟩槍佮⟨את⟩盾牌——大衛王所有的,彼个囥佇雅威的殿內的。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "就予"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "予諸個…的頭目"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "百夫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "槍"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "盾牌"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…所有的"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个囥佇"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…的殿內"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:51.798608283Z",
+  "model": "glm-5.3"
+}

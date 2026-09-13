@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 101,
+  "translation": "彎曲的心著離開我;歹的代誌我毋知。",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "心"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "彎曲的"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "著離開"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "離我"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹的代誌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "知"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:57.811239551Z",
+  "model": "glm-5.3"
+}

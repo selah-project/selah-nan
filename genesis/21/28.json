@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "亞伯拉罕另外排設⟨את⟩七隻母羊羔。",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "排設"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七隻母羊羔"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "母羊羔"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "另外"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:41.531742881Z",
+  "model": "glm-5.3"
+}

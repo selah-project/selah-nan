@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 12:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "頭人是亞希以謝,閣有約阿施,是施瑪亞・基比亞人的囝;閣有耶疊佮比勒,是亞斯瑪威的囝;閣有比拉迦,閣有耶戶・亞拿突人。",
+  "tokens": [
+    {
+      "surface": "הראש",
+      "gloss": "頭人是"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "亞希以謝"
+    },
+    {
+      "surface": "ויואש",
+      "gloss": "閣有約阿施"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的囝"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "施瑪亞"
+    },
+    {
+      "surface": "הגבעתי",
+      "gloss": "基比亞人"
+    },
+    {
+      "surface": "ויזואל",
+      "gloss": "閣有耶疊"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "佮比勒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的囝"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "亞斯瑪威"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "閣有比拉迦"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "閣有耶戶"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "亞拿突人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:30.129185908Z",
+  "model": "glm-5.3"
+}

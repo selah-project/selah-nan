@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 122,
+  "translation": "願平安佇⟨你的⟩牆圍內,安穩佇⟨你的⟩宮殿內。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願…有"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "佇你的牆圍內"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "安穩"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "佇你的宮殿內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:20.031709416Z",
+  "model": "glm-5.3"
+}

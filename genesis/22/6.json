@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "亞伯拉罕提⟨את⟩燔祭的柴,下佇伊的子以撒身上;伊手內提⟨את⟩火佮⟨את⟩刀仔;兩人就做伙行。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燔祭的柴"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "柴"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "下"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…身上"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇手內"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "火"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "刀仔"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "刀仔"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "兩人"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:44.662720537Z",
+  "model": "glm-5.3"
+}

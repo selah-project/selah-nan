@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "歸個會眾攏昂起來,𪜶出⟨את⟩𪜶的聲,人民佇彼個暗暝哮。",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "𪜶就昂起來"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸個"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "𪜶出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的聲"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "𪜶的聲"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "哮"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "佇暗暝"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:43.499807637Z",
+  "model": "glm-5.3"
+}

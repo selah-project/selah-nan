@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "你收你葡萄園的果的時,你毋通拾剩的落尾;著留互寄腳的、互孤兒的、互寡婦的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "你收"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "你葡萄園"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "拾剩的"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "落尾"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "互寄腳的"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "互孤兒的"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "互寡婦的"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "著有"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:50.311015282Z",
+  "model": "glm-5.3"
+}

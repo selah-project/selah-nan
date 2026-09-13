@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊予拍伊的人伊的面頰,伊予侮辱食甲飽。",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "拍伊的人"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "面頰"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "食甲飽"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "侮辱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:13.186191513Z",
+  "model": "glm-5.3"
+}

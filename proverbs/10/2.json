@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "邪惡的寶物無利益,獨義會救人脫離死亡。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "有利益"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "寶物"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "邪惡的"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "獨義"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "會救人脫離"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.253303429Z",
+  "model": "glm-5.3"
+}

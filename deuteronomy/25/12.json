@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你就著剪掉⟨את⟩伊的手,你的目睭毋通憐憫伊。",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "你就著剪掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的手"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "你的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:15.716997666Z",
+  "model": "glm-5.3"
+}

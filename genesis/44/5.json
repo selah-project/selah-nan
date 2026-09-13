@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "「這豈毋是阮主人用伊來啉的?伊嘛用伊來占卜(納哈施)。恁所行的,是行歹矣。」",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的物"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "啉"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阮主人"
+    },
+    {
+      "surface": "בו",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊嘛"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "占卜"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "來占卜"
+    },
+    {
+      "surface": "בו",
+      "gloss": "用伊"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "恁行歹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "恁所行的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:04.375739271Z",
+  "model": "glm-5.3"
+}

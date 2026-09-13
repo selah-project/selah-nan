@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊的奴僕起來,結了陰謀,佇米羅的家 —— 落去示拉彼條路 —— 擊殺⟨את⟩約阿施。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "結"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "陰謀"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "擊殺"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約阿施"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "בית",
+      "gloss": "的家"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "米羅"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "落去的"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "示拉"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:25.591086909Z",
+  "model": "glm-5.3"
+}

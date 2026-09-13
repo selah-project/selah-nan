@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "智慧的人知驚，就閃離歹代；愚戇的人受氣沖沖滾，家己乖乖信任。",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "智慧的人"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "知驚"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "就閃離"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "受氣沖沖滾"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "家己乖乖信任"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:37.406702649Z",
+  "model": "glm-5.3"
+}

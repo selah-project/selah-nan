@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "所以,我的百姓欲知影我的名;所以佇彼日,𪜶欲知影我就是彼个講話的 —— 看啊,我佇遮。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "欲知影"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨就是⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是彼个"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "講話的"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我佇遮"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:42.790692819Z",
+  "model": "glm-5.3"
+}

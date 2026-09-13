@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊落雨予𪜶嗎哪通食,閣將天頂的糧賜𪜶。",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "落雨予"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מן",
+      "gloss": "嗎哪"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "通食"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "糧"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賜"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:16.959963947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "重擔 —— 異象谷。你今是按怎,攏總上到厝頂?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "重擔"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "谷"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "מה",
+      "gloss": "是按怎"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "今"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨因為按呢⟩"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "上去"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "到厝頂"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:11.022115600Z",
+  "model": "glm-5.3"
+}

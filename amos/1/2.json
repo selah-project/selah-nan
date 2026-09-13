@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊講:雅威欲對錫安吼,對耶路撒冷發出伊的聲;牧羊人的草埔欲哀悲,迦密的山頭欲焦去。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "對錫安"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "吼"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "發出"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "欲哀悲"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "草埔"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "牧羊人的"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "欲焦去"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "山頭"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "迦密的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:00.538069752Z",
+  "model": "glm-5.3"
+}

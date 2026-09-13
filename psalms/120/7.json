@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 120,
+  "translation": "我,是和平;獨若我講,𪜶就是為著相刣。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "和平"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "獨若"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "為著相刣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:27.163919794Z",
+  "model": "glm-5.3"
+}

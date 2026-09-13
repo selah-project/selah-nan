@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "看啊,天佮天上的天攏屬佇雅威你的以羅欣,地佮地上所有的嘛是。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "佮……的天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊內底"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:26.683924813Z",
+  "model": "glm-5.3"
+}

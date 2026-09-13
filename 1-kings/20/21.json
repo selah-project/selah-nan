@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "以色列的王出去，擊打⟨את⟩馬佮⟨את⟩戰車，閣共亞蘭大刣一擺。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "馬"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "戰車"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "閣刣"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "一擺刣"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:16.725416351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "我信,因為我講話;我,我受著極大的艱苦。",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "我信"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我講話"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "我受著…艱苦"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極大的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:46.997149011Z",
+  "model": "glm-5.3"
+}

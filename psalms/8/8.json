@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "羊佮牛,攏總是,閣有田野的野獸。",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "佮牛"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣有"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "野獸"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田野"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:08.496355645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊的繩尺遍滿全地,伊的話語到世界的極限;為著日頭,⟨伊⟩佇遐搭帳棚。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "遍滿全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "קום",
+      "gloss": "繩尺"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "佇……的極限"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "伊的話語"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "為著日頭"
+    },
+    {
+      "surface": "שם",
+      "gloss": "搭"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:20.678413478Z",
+  "model": "glm-5.3"
+}

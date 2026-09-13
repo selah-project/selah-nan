@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "因為你佇隱密所做的,我欲對以色列眾人、閣對日頭,做⟨את⟩這個代誌。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "做"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "佇隱密"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個代誌"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:15.647679910Z",
+  "model": "glm-5.3"
+}

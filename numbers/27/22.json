@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "摩西就照雅威命令伊⟨את⟩的去做；伊就提約書亞⟨את⟩，叫伊徛佇祭司以利亞撒面前，佮攏總會眾的面前。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就做"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照…所"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(摩西)"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約書亞"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "叫伊徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "以利亞撒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "彼個祭司"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "佮佇…面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "彼個會眾"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:27.475345958Z",
+  "model": "glm-5.3"
+}

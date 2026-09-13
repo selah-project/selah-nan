@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為你毋是愛歹惡的以勒,歹的袂寄居佇你遐。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "愛"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹惡"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "寄居佇你遐"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:39.104783009Z",
+  "model": "glm-5.3"
+}

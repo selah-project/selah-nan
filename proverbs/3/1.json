@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我子啊,毋通袂記得我的妥拉;我的誡命,你的心著遵守:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "我子"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我的妥拉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "我的誡命"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:58.839292609Z",
+  "model": "glm-5.3"
+}

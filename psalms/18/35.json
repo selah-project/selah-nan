@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊教我的手會相戰,閣用我的手股頭挽落銅弓。",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "教"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "會相戰"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "閣挽落"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "弓"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "銅"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "用我的手股頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:41.264235693Z",
+  "model": "glm-5.3"
+}

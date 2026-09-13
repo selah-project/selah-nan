@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "獨獨伊毋通入去帷仔內,嘛毋通倚近祭壇,因為缺陷佇伊身上;免得伊褻瀆⟨את⟩我的聖所,因為我是雅威,是使𪜶成聖的。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "帷仔內"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛倚近"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מום",
+      "gloss": "缺陷"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得…毋通"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "褻瀆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的聖所"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "我的聖所"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "使𪜶成聖的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:22.833506067Z",
+  "model": "glm-5.3"
+}

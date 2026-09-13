@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣伊用貴重的石頭鋪彼間殿⟨את⟩,做妝飾;彼個金是巴瓦因的金。",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "閣伊鋪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼間殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間殿"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "貴重"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "做妝飾"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "彼個金"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "巴瓦因"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:51.230276904Z",
+  "model": "glm-5.3"
+}

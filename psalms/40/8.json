@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "彼時我講:看啊,我來矣!佇冊卷內底,有寫關係我的。",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "我來矣"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "佇…卷內底"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "有寫"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "關係我的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:04.565351988Z",
+  "model": "glm-5.3"
+}

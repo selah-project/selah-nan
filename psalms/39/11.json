@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "將你的災禍對我身上挪去;對你手的攻擊,我消滅矣。",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "挪去"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "對我身上"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "你的災禍"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "對……的攻擊"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "消滅矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:34.157886410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 17:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "閣佇伊做王第三年,伊差遣伊的官員——便希勒、俄巴底雅、撒迦利雅、拿坦業、米迦雅——去教示佇猶大的城。",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "閣佇…年"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "第三"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "伊做王"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "לשריו",
+      "gloss": "伊的官員"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "便希勒"
+    },
+    {
+      "surface": "חיל",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעבדיה",
+      "gloss": "俄巴底雅"
+    },
+    {
+      "surface": "ולזכריה",
+      "gloss": "撒迦利雅"
+    },
+    {
+      "surface": "ולנתנאל",
+      "gloss": "拿坦業"
+    },
+    {
+      "surface": "ולמיכיהו",
+      "gloss": "米迦雅"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "去教示"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "佇…的城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:41.282898134Z",
+  "model": "glm-5.3"
+}

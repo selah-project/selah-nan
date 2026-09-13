@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 37:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "法老的軍隊對米茲拉因(埃及)出來,圍困耶路撒冷的迦勒底人聽著⟨את⟩𪜶的消息,就對耶路撒冷的頂面退起去。",
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出來"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因(埃及)"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "聽著"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "圍困"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的消息"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "𪜶的消息"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "退起去"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對頂面"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:00:53.660411576Z",
+  "model": "glm-5.3"
+}

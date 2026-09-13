@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "列國的神明,有哪一个真正救出⟨את⟩伊家己的地,脫離亞述王的手?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "真正救出"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "救出"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國的"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊家己的地"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊家己的地"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:36.913432846Z",
+  "model": "glm-5.3"
+}

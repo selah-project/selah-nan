@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "摩西上去到以羅欣遐，雅威對彼座山呼召伊，講：「你欲按呢講給雅各的家，嘛報給以色列的子兒知：",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "呼召"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你欲講"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "給…的家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "嘛報…知"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "給…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:53.824380771Z",
+  "model": "glm-5.3"
+}

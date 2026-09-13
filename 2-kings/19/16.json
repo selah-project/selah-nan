@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "雅威啊,俯落祢的耳仔,聽伊;雅威啊,開祢的目睭,看伊;閣聽森赫里布所差派來侮辱活人的以羅欣的話 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "俯落"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "祢的耳仔"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "聽伊"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "開"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "祢的目睭"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "看伊"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "閣聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "森赫里布"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "差派伊來"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "侮辱"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活人的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:12.379682765Z",
+  "model": "glm-5.3"
+}

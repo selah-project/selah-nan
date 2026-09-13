@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 130,
+  "translation": "以色列啊,著向雅威抱向望,因為佇雅威遐有赫瑟德(慈愛),佇伊遐有真濟的贖回。",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "著抱向望"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列啊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佇…遐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "有赫瑟德(慈愛)"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "閣有真濟"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佇伊遐"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "的贖回"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:22.894709672Z",
+  "model": "glm-5.3"
+}

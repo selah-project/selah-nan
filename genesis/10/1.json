@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "這个是挪亞的眾子的後代:閃、含、雅弗;大水了後,𪜶有囝生出來。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "這个是"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "後代"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的眾子"
+    },
+    {
+      "surface": "נח",
+      "gloss": "挪亞"
+    },
+    {
+      "surface": "שם",
+      "gloss": "閃"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "雅弗"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "生出來"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶有"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "大水"
+    }
+  ],
+  "timestamp": "2026-09-13T04:34:03.863260469Z",
+  "model": "glm-5.3"
+}

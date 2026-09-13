@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 8:30",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "按呢,祭司佮利未人就收下銀仔、金仔佮器具的重量,欲帶去耶路撒冷,去阮以羅欣的殿。",
+  "tokens": [
+    {
+      "surface": "וקבלו",
+      "gloss": "按呢…就收下"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "重量"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "金仔"
+    },
+    {
+      "surface": "והכלים",
+      "gloss": "佮器具"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "欲帶去"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…的殿"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-13T04:33:37.755510963Z",
+  "model": "glm-5.3"
+}

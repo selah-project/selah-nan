@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "雅威你的以羅欣欲互⟨את⟩遮个咒詛攏落佇你的仇敵,佮恨你的人、追趕你的人身上。",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "欲互…落佇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮个咒詛攏"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "遮个咒詛"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮落佇"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "恨你的人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼寡"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "追趕你的人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:58.178238280Z",
+  "model": "glm-5.3"
+}

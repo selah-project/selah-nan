@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "佇彼個時陣，亞哈斯王差人去亞述的諸王遐，求𪜶鬥相共。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "佇…時"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "亞哈斯"
+    },
+    {
+      "surface": "על",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "求鬥相共"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:37.003527878Z",
+  "model": "glm-5.3"
+}

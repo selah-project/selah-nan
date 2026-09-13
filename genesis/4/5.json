@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "總是對該隱佮對伊的供奉,伊無看顧;該隱真受氣,伊的面落落。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "對"
+    },
+    {
+      "surface": "קין",
+      "gloss": "該隱"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "伊的供奉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "看顧"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "對該隱"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "落落"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:26.795242724Z",
+  "model": "glm-5.3"
+}

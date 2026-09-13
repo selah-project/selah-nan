@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "𪜶點算的、照𪜶的宗族、照𪜶父的家、共兩千六百三十个。",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "就有了"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "𪜶點算的"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的宗族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照…的家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "𪜶的父"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "兩千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "三十"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:36.719244402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "予彼位獨獨家己行大奇事的,因為伊的赫瑟德(慈愛)永遠佇遐;",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "予彼位…行的"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "奇事"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "大"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "獨獨家己"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德(慈愛)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:38.195398927Z",
+  "model": "glm-5.3"
+}

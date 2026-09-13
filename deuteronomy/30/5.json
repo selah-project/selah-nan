@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "雅威你的以羅欣欲帶你轉來入去你列祖所得著的地,你欲得著伊;伊欲善待你,閣互你比你的列祖較興旺。",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "欲帶你入去"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨彼⟩地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "所得著"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "你的列祖"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "你欲得著伊"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "伊欲善待你"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "閣互你興旺"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "比你的列祖較濟"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:58.177681620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "對彼位剖開蘆葦海做幾若爿的:因為伊的赫瑟德到永遠。",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "對彼位剖開"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "做幾若爿"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:23.597412010Z",
+  "model": "glm-5.3"
+}

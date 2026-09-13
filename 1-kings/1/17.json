@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 1:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊對伊講:「阮主人啊,你曾對你婢女指雅威、你的以羅欣咒誓,講:『所羅門、你的子,欲佇我以後做王,伊欲坐我的寶座。』",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阮主人啊"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "你曾咒誓"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "指雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "對你婢女"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你的子"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "欲做王"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇我以後"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "欲坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "我的寶座"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:42.586486022Z",
+  "model": "glm-5.3"
+}

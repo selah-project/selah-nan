@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "雅威啊,求你紀念你的憐憫佮你的赫瑟德,因為𪜶對永遠就有。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你紀念"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "你的憐憫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "佮你的赫瑟德"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "對永遠"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:49.131767461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "敬畏雅威⟨是⟩清潔的,徛到永遠;雅威的判斷⟨是⟩真實,攏總公義。",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "清潔的"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "判斷"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "公義"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "攏總"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:36.530481426Z",
+  "model": "glm-5.3"
+}

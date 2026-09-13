@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "⟨伊⟩佇水的面上畫一個圓圈做界,一直到光佮暗的極限。",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "做界"
+    },
+    {
+      "surface": "חג",
+      "gloss": "畫一個圓圈"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "的面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "極限"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "暗"
+    }
+  ],
+  "timestamp": "2026-09-12T05:27:00.945078310Z",
+  "model": "glm-5.3"
+}

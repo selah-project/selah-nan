@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 8:19",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "埋伏的人隨對𪜶的所在起來,伊的手一伸出,𪜶就走,入彼個城,奪取伊,趕緊用火燒⟨את⟩彼個城。",
+  "tokens": [
+    {
+      "surface": "והאורב",
+      "gloss": "埋伏的人"
+    },
+    {
+      "surface": "קם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "隨"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "對𪜶的所在"
+    },
+    {
+      "surface": "וירוצו",
+      "gloss": "就走"
+    },
+    {
+      "surface": "כנטות",
+      "gloss": "…一伸出"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "入"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "וילכדוה",
+      "gloss": "奪取伊"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "ויציתו",
+      "gloss": "燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼個城"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:07.845577175Z",
+  "model": "glm-5.3"
+}

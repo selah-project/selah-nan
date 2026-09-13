@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "獨獨摩西一人欲靠近雅威;𪜶袂使靠近,百姓嘛袂使佮伊上去。",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "欲靠近"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "獨獨伊一人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "靠近"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "上去"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:31.584949061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "佇遐我欲互大衛生一枝角,我已經為我的彌賽亞排設一欞燈。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "我欲互…生"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "一枝角"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛(的)"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "我已經排設"
+    },
+    {
+      "surface": "נר",
+      "gloss": "一欞燈"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "為我的彌賽亞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:48.284940995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "阮對𪜶遐行過無外久,就揣著⟨את⟩彼個阮的心所疼的;阮攬牢伊,毋肯放伊走,直到阮帶伊入去阮老母的厝,入去生阮的彼間房間內底。",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "無外久"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "阮行過"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶遐"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "阮揣著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個阮的心所疼的"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "彼個…疼的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "阮的心"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "阮攬牢伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋肯"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "放伊走"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "阮帶伊入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "阮老母的"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "房間"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "生阮的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:41.209634900Z",
+  "model": "glm-5.3"
+}

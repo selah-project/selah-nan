@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "肉佮餅所賰落的,恁著用火燒掉。",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "所賰落的"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "佇肉"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "閣佇餅"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "恁著燒掉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:10.644949589Z",
+  "model": "glm-5.3"
+}

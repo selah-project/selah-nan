@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 9:11",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣以色列眾人攏越過⟨את⟩你的律法,偏行去毋聽你的聲;致到彼个咒詛佮咒誓——就是寫佇以羅欣的奴僕摩西的律法內彼个——淋落佇阮身上,因為阮得罪伊。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "閣……眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "𪜶越過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的律法"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "你的律法"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "亦偏行去"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "來毋"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקלך",
+      "gloss": "你的聲"
+    },
+    {
+      "surface": "ותתך",
+      "gloss": "就淋落"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "佇阮身上"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "彼个咒詛"
+    },
+    {
+      "surface": "והשבעה",
+      "gloss": "佮咒誓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "寫"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "佇……的律法內"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "阮得罪"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:18.464455607Z",
+  "model": "glm-5.3"
+}

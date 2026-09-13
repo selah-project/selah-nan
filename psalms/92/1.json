@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "一篇詩,一首歌,為著⟨安息⟩⟨個⟩日。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "一篇詩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "為著⟨個⟩日"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "安息"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:51.262716583Z",
+  "model": "glm-5.3"
+}

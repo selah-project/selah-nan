@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 1:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞摩斯的子以賽亞所看見關係猶大佮耶路撒冷的異象,佇烏西雅、約坦、亞哈斯、希西家,猶大諸王的日子。",
+  "tokens": [
+    {
+      "surface": "חזון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "以賽亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "亞摩斯"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "על",
+      "gloss": "關係"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "烏西雅"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "約坦"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "亞哈斯"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:58.342063073Z",
+  "model": "glm-5.3"
+}

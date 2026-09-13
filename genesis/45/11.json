@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "「我欲佇遐供養⟨את⟩你,因為猶有五年饑荒;免得你、你的厝內,佮你所有的一切變窮。",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "我欲供養"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你",
+      "marks": "你"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶有"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "變窮"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "佮你的厝內"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有……的"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:59.594422437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "敢毋是親像我對撒馬利亞佮𪜶的偶像所做一切的,按呢我嘛欲對耶路撒冷佮𪜶的偶像做?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "敢毋是"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我所做"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "對撒馬利亞"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "佮𪜶的偶像"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我嘛欲做"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "佮𪜶的偶像"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:04.405324871Z",
+  "model": "glm-5.3"
+}

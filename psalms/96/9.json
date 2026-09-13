@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "跪拜雅威,佇聖潔的威嚴;全地攏著佇伊面前戰兢。",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "佇…的威嚴"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖潔"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "戰兢"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊的面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:33.704601492Z",
+  "model": "glm-5.3"
+}

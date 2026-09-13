@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "親像肥油佮油膏,我的性命得著滿足;用歡喜出聲的嘴唇,我的嘴欲讚美。",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "肥油"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "佮油膏"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "得著滿足"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "佮嘴唇"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "歡喜出聲"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "欲讚美"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的嘴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:52.214247951Z",
+  "model": "glm-5.3"
+}

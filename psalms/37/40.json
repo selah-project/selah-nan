@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "雅威幫贊𪜶,救𪜶——實在救𪜶脫離歹人——閣拯救𪜶,因為𪜶投靠伊。",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "幫贊𪜶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "救𪜶"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "實在救𪜶"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "脫離歹人"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "閣拯救𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "投靠"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:09.697128026Z",
+  "model": "glm-5.3"
+}

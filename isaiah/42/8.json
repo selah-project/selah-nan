@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我,雅威,⟨這就是⟩我的名;我的榮光我袂予別人,我的謳咾嘛袂予雕刻的偶像。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨這就是⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "閣我的榮光"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "予別人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我給"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "閣我的謳咾"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "予雕刻的偶像"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:27.725296505Z",
+  "model": "glm-5.3"
+}

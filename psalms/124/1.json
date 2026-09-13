@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "上階之歌,大衛所作。若毋是雅威為著阮——請以色列講——",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上階"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "若毋是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為著阮"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:36.654997660Z",
+  "model": "glm-5.3"
+}

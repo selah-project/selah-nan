@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "亞伯蘭(亞伯蘭)帶⟨את⟩伊的某沙萊(撒萊),閣⟨את⟩伊兄弟的子羅得,閣⟨את⟩𪜶所積聚的一切財產,閣⟨את⟩𪜶佇哈蘭(哈蘭)所得著的人;𪜶出去,欲去迦南(迦南)地,就入去迦南地。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "帶"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "沙萊"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "沙萊"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "羅得"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "一切財產"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "𪜶的財產"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "𪜶積聚"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "𪜶做"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "佇哈蘭"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "𪜶出去"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "欲去"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:25.717642727Z",
+  "model": "glm-5.3"
+}

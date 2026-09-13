@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "看啊,遐有以色列个以羅欣个榮光,親像我佇彼個平原所看著个款。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "親像…个款"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "我…个"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "所看著"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "佇彼個平原"
+    }
+  ],
+  "timestamp": "2026-09-12T04:10:05.885858323Z",
+  "model": "glm-5.3"
+}

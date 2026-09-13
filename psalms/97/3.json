@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "火行佇伊面頭前,燒伊的對敵四圍。",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面頭前"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "燒"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "伊的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:52.069996792Z",
+  "model": "glm-5.3"
+}

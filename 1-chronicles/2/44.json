@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "沙瑪生⟨את⟩拉罕,伊是約蘭坎的老爸;勒坎生⟨את⟩沙瑪伊。",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "沙瑪"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拉罕"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "拉罕"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "老爸"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "約蘭坎"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "勒坎"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "沙瑪伊"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "沙瑪伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:59:00.486723328Z",
+  "model": "glm-5.3"
+}

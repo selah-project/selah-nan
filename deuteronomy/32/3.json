@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為我欲宣揚雅威的名;恁著將大歸互咱的以羅欣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我欲宣揚"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "恁著歸互"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "大"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "咱的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:10.555142195Z",
+  "model": "glm-5.3"
+}

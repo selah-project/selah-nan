@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇肚內伊掠⟨את⟩伊小弟的腳後跡,佇伊的氣力伊佮⟨את⟩以羅欣相拍。",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "佇肚內"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "掠腳後跡"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊小弟"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊小弟"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "佇伊的氣力"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "相拍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:28.974143556Z",
+  "model": "glm-5.3"
+}

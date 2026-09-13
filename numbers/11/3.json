@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊就叫彼个所在的名做他備拉,因為雅威的火佇𪜶中間燒起來。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就叫"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼个所在"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "他備拉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇𪜶中間"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:27.016719406Z",
+  "model": "glm-5.3"
+}

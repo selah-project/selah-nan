@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "已經有的,早已佇咧;將來欲有的,嘛早已有過;閣以羅欣咧尋⟨את⟩彼个受迫的。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "已經有的"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "早已"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "佇咧"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "閣"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "將來欲有的"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "嘛早已"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有過"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "閣以羅欣"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "咧尋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个受迫的"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "彼个受迫的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:02.586422251Z",
+  "model": "glm-5.3"
+}

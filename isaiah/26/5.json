@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "因為伊降落住佇高處的人,彼座高懸的城,伊降卑伊,降卑到土地,伊捒伊直到塵土。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השח",
+      "gloss": "伊降落"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "住…的人"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "高處"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "高懸的"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "伊降卑伊"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "降卑"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "伊捒伊直到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:33.991467861Z",
+  "model": "glm-5.3"
+}

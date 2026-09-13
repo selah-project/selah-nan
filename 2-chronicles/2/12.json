@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "這陣我已經差一個有智慧、有明白見識的人去——戶蘭,我的阿維(我的師傅)。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我已經差"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "有明白"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "見識"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "就是戶蘭"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我的阿維(師傅)"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:53.166443832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "掃羅看見⟨את⟩非利士人的營,就驚,伊的心極其咧抖。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人的營"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "就驚"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "就抖"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:22.617938051Z",
+  "model": "glm-5.3"
+}

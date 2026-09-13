@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "拉丹的後生:頭人是耶希伊勒,閣有西坦佮約珥,三个。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "拉丹"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "耶希伊勒"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "西坦"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "約珥"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三个"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:45.390616412Z",
+  "model": "glm-5.3"
+}

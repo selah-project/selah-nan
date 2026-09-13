@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 112,
+  "translation": "光佇黑暗中對正直人升起,伊有恩典、有憐憫、閣公義。",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "升起"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "佇黑暗中"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "對正直人"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "有恩典"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "有憐憫"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "閣公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:51.267277317Z",
+  "model": "glm-5.3"
+}

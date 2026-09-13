@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊喙內話語的起頭是愚戇,伊喙的路尾是歹的狂妄。",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話語"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "伊的喙"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "愚戇"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "路尾"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "伊的喙"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "狂妄"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:57.801035122Z",
+  "model": "glm-5.3"
+}

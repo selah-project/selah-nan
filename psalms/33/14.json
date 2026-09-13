@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "對伊徛家坐位的所在,伊注視地面所有的居民。",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "對…徛家的所在"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "伊坐位"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "伊注視"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:29.659030338Z",
+  "model": "glm-5.3"
+}

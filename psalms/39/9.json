@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "對我一切的悖逆救我;愚戇人的辱罵,毋通互我擔當。",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "對我一切的"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "辱罵"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "互我擔當"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:34.157544100Z",
+  "model": "glm-5.3"
+}

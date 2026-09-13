@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅威(雅威)對亞伯蘭(亞伯蘭)顯現,講:「這塊地,我欲互⟨את⟩你的後裔。」伊就佇遐為雅威起一座祭壇——就是彼位對伊顯現的雅威。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "予你的後裔"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這塊地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "這塊地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "就起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為雅威"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "彼位顯現的"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:25.720317402Z",
+  "model": "glm-5.3"
+}

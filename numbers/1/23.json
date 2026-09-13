@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "𪜶被點算的,屬西緬支派的,有五萬九千三百。",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "𪜶被點算的"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "屬…支派"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "九"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "佮五十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "佮三"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:43.715858323Z",
+  "model": "glm-5.3"
+}

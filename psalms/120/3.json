@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 120,
+  "translation": "啥物會互你?閣加啥物互你,詭詐个舌?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "伊會互"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "閣啥物"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "加"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "詭詐个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:29.130717755Z",
+  "model": "glm-5.3"
+}

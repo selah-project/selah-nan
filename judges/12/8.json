@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇伊了後,伯利恆人以比贊審判⟨את⟩以色列。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "佇伊了後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "以比贊"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對伯利恆"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "伯利恆"
+    }
+  ],
+  "timestamp": "2026-09-12T02:34:33.800272848Z",
+  "model": "glm-5.3"
+}

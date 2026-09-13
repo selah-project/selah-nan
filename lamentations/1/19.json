@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 1:19",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我叫我疼的人,𪜶欺騙我;我的祭司佮我的長老佇城內斷氣,因為𪜶揣食物,欲挽回⟨את⟩𪜶的性命。",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "我叫"
+    },
+    {
+      "surface": "למאהבי",
+      "gloss": "對我疼的人"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "欺騙我"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "我的祭司"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "佮我的長老"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "גועו",
+      "gloss": "斷氣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "𪜶揣"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "למו",
+      "gloss": "為𪜶家己"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "欲挽回"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的性命"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:45.126888691Z",
+  "model": "glm-5.3"
+}

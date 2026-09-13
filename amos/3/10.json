@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "𪜶毋知行正直的事——這是雅威的神諭;𪜶囤積殘暴佮搶奪佇𪜶的宮殿內。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "𪜶知"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "行"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "正直的事"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "𪜶囤積"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "殘暴"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "佮搶奪"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "佇𪜶的宮殿內"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:39.044715379Z",
+  "model": "glm-5.3"
+}

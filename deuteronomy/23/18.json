@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "以色列諸個查某子中間毋通有娼妓,以色列諸個子中間嘛毋通有孌童。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會有"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "娼妓"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "對…查某子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會有"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "孌童"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "對…子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:28.434793443Z",
+  "model": "glm-5.3"
+}

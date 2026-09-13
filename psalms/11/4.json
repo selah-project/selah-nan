@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "雅威佇伊聖的殿;雅威,伊的寶座佇諸天。伊的目睭咧看,伊的目睫毛咧試驗人的子兒。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "佇殿"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊聖的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "伊的寶座"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "伊的目睭"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "咧看"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "伊的目睫毛"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "咧試驗"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人的"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "子兒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:00.730379987Z",
+  "model": "glm-5.3"
+}

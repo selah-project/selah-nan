@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閃的後生是以攬、亞述、亞法撒、路德、亞蘭。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "שם",
+      "gloss": "閃"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "以攬"
+    },
+    {
+      "surface": "וואשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "亞法撒"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "路德"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "亞蘭"
+    }
+  ],
+  "timestamp": "2026-09-13T04:33:23.990564174Z",
+  "model": "glm-5.3"
+}

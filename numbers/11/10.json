@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "摩西聽見⟨את⟩百姓照逐个家族啼哭,逐人佇家己帳棚的門口,雅威的受氣著起真厲害,這件事佇摩西的眼中嘛是歹。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "照逐个家族"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "佇門口"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "伊的帳棚"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "著起"
+    },
+    {
+      "surface": "אף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真厲害"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:28.124661038Z",
+  "model": "glm-5.3"
+}

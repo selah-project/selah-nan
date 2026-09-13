@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你著用 ⟨את⟩ 伊做薰香,是調香的工課,調香師的手藝,鹽過、純潔、聖潔。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你著…做"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "薰香"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "調香"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "調香師"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "鹽過"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "純潔"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖潔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:31.771458120Z",
+  "model": "glm-5.3"
+}

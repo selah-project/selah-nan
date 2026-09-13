@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "押沙龍就講:「請你也叫亞基人戶篩來,咱來聽伊的喙內底講啥物 —— 伊嘛是。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "戶篩"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "亞基人"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "咱來聽"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "伊的喙內底"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:23.537375663Z",
+  "model": "glm-5.3"
+}

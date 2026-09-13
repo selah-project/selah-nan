@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣我對以法蓮親像蛀蟲,對猶大全家親像朽爛。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "親像蛀蟲"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "對以法蓮"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "閣親像朽爛"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "對…的家"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:36.489178747Z",
+  "model": "glm-5.3"
+}

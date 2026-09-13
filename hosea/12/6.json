@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣雅威,采巴奧特(萬軍)之以羅欣,雅威是伊的記念。",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "閣雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "之以羅欣"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "是伊的記念"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:33.158150369Z",
+  "model": "glm-5.3"
+}

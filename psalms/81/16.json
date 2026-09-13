@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "怨恨雅威的人會假冒順服伊,獨𪜶的時陣欲存到永遠。",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "怨恨…的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "會假冒順服"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "獨…欲存"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "𪜶的時陣"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.176954095Z",
+  "model": "glm-5.3"
+}

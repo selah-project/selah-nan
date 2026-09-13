@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "伊欲用刀劍刣死你佇田裡的女兒;伊欲對你起攻城的樓塔,對你堆土墩,對你舉起盾牌。",
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "你的女兒"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀劍"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "伊欲對你起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "攻城樓塔"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "堆"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "土墩"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "舉起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "盾牌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:41.802788890Z",
+  "model": "glm-5.3"
+}

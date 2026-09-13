@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "雅威做阮的高臺,阮的以羅欣做阮逃避的磐石。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לי",
+      "gloss": "阮的"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "高臺"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "逃避的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:14.040373538Z",
+  "model": "glm-5.3"
+}

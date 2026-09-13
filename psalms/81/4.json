@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "恁著佇新月吹羊角,佇滿月,佇咱節期的日子。",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "恁著吹"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇新月"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "佇滿月"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "咱的節期"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.160349407Z",
+  "model": "glm-5.3"
+}

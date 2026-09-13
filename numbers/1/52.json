@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以色列人嘛欲紮營,逐人照伊的營,逐人照伊的旗,照𪜶的軍隊。",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "嘛欲紮營"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "伊的營"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "閣逐人"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "伊的旗"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "照𪜶的軍隊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:49.897243753Z",
+  "model": "glm-5.3"
+}

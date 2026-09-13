@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你耕種⟨את⟩彼個土的時,伊袂閣給你伊的力量;你欲佇地上做流浪佮逃閃的人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "的時"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "你耕種"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個土"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "彼個土"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "袂閣"
+    },
+    {
+      "surface": "תת",
+      "gloss": "給"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "伊的力量"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "נע",
+      "gloss": "流浪"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "逃閃"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "做"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:49.422949662Z",
+  "model": "glm-5.3"
+}

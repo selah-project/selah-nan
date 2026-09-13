@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我是阮所愛的,阮所愛的是我的,伊是佇百合花中飼羊的。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "是阮所愛的"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "阮所愛的是"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "飼羊的"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "佇百合花中"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:40.500103078Z",
+  "model": "glm-5.3"
+}

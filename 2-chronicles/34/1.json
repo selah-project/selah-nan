@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "約西亞做王的時是八歲的囡仔,伊佇耶路撒冷做王三十佮一年。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "八"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "歲"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "佇伊做王的時"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "佮一"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:03.661512600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "𪜶看見⟨את⟩以色列的以羅欣;伊的腳踏做下面,親像藍寶石磚的工,閣親像天本身的清氣透明。",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "𪜶看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的以羅欣"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "做下面"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的腳踏"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "親像……的工"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "磚"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "藍寶石"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "閣親像……本身"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "清氣透明"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:20.135854078Z",
+  "model": "glm-5.3"
+}

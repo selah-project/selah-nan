@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 35:23",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "利亞的子:雅各的頭生子流便、西緬、利未、猶大、以薩迦、西布倫。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "子"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "利亞"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "流便"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "西緬"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "利未"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "以薩迦"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "西布倫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:44.590333683Z",
+  "model": "glm-5.3"
+}

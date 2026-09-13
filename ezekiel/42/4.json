@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "佇彼號廳仔房進前有一條走道,闊十肘,通到內面;一條一肘闊的路,𪜶的門口攏向北爿。",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "佇…進前"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "彼號廳仔房"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "走道"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "闊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "內面"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "𪜶的門口"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "向北爿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:34.957841217Z",
+  "model": "glm-5.3"
+}

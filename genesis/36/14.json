@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "諸個是阿何利巴瑪(亞拿的查某囝、西玻恩的查某囝、以掃的某)的後生;伊給以掃生⟨את⟩耶烏施、⟨את⟩雅蘭佮⟨את⟩可拉。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "阿何利巴瑪"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "亞拿"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "西玻恩"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "給以掃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶烏施"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "耶烏施"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "雅蘭"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "雅蘭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "可拉"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:05.013785562Z",
+  "model": "glm-5.3"
+}

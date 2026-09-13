@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "義人的舌是揀選的銀;歹人的心,若無值。",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "揀選"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "若無值"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:33.885222207Z",
+  "model": "glm-5.3"
+}

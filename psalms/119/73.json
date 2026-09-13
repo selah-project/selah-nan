@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "你的手製造我,閣建立我;互我明白,我就會學你的誡命。",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "製造我"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "閣建立我"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "互我明白"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "我就會學"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "你的誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:47.791280524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為按呢,我欲佇列國中感謝你,雅威,閣向你的名我要唱歌。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "我感謝你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "閣向你的名"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "我唱歌"
+    }
+  ],
+  "timestamp": "2026-09-12T02:59:31.105808152Z",
+  "model": "glm-5.3"
+}

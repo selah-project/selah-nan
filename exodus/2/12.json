@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊向遮向遐看,看無人,就摃彼个⟨את⟩埃及人,共伊埋佇沙內底。",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "向…看"
+    },
+    {
+      "surface": "כה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "遐"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "摃"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个埃及人"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "彼個埃及人"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "共伊埋"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "佇沙內底"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:53.197738700Z",
+  "model": "glm-5.3"
+}

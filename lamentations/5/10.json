@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "阮的皮親像火爐按呢燒起來矣,因為饑荒的熱焰。",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "阮的皮"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "親像火爐"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "燒起來矣"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因為…的面"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "熱焰"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "饑荒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:42.493373168Z",
+  "model": "glm-5.3"
+}

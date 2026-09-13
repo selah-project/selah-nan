@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "我欲互你的城市變做廢墟,你欲成做荒蕪,閣你欲知影我就是雅威。",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "你的城市"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "廢墟"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我欲互…變做"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "閣你"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "荒蕪"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "欲成做"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "閣你欲知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:01.861691140Z",
+  "model": "glm-5.3"
+}

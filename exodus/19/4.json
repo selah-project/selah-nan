@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "「恁已經看見我對米茲拉因(埃及)所做的，我閣用鵟鷹的翼負恁 ⟨את⟩，嘛帶恁 ⟨את⟩ 來到我遮。",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "已經看見"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我做的"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "我閣…負"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "על",
+      "gloss": "用…頂"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "的翼"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "鵟鷹"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "嘛帶…來"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我遮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:53.824551064Z",
+  "model": "glm-5.3"
+}

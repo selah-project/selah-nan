@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威按呢講:因為大馬士革三項悖逆,閣第四項,我毋收回,因為𪜶用鐵的踐踏器具踏⟨את⟩基列。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三項"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "大馬士革"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "第四項"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "收回"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "踏"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "用鐵的踐踏器具"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "鐵的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:00.538313459Z",
+  "model": "glm-5.3"
+}

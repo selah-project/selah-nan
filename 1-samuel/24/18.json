@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "伊就對大衛講:「你比我閣較公義,因為你用好个代誌待我,我煞用歹个待你。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "比我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "待我"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "好个"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我煞"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "待你"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "歹个"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:43.846074278Z",
+  "model": "glm-5.3"
+}

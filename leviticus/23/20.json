@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "閣祭司欲搖 ⟨את⟩ 𪜶,陪初熟的餅做搖祭佇雅威面前,閣陪彼兩隻羊羔;𪜶欲做聖物,屬雅威,歸祭司。",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "閣…欲搖"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(羊羔佮餅)"
+    },
+    {
+      "surface": "על",
+      "gloss": "陪"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "初熟的"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "搖祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "陪"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩隻"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "做"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "歸祭司"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:40.700534039Z",
+  "model": "glm-5.3"
+}

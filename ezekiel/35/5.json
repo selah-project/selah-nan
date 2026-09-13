@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 35:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "「因為恁有永遠的仇恨,共⟨את⟩以色列的子兒交佇刀劍的手下,佇𪜶災禍的時,佇𪜶罪惡到結局的時,",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היות",
+      "gloss": "有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "恁"
+    },
+    {
+      "surface": "איבת",
+      "gloss": "仇恨"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠的"
+    },
+    {
+      "surface": "ותגר",
+      "gloss": "共…交落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的子兒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…之下"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "…的手"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…的時"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "𪜶的災禍"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇…的時"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪惡"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "結局"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:34.403665405Z",
+  "model": "glm-5.3"
+}

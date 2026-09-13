@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "皮袋內底的水了矣,伊就共⟨את⟩囡仔囥佇一欉灌木跤。",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "了矣"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對……來講無去"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "彼个皮袋"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "伊就囥落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "囡仔"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……跤"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一欉"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "灌木"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:13.331223917Z",
+  "model": "glm-5.3"
+}

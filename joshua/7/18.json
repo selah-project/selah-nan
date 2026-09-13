@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 7:18",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊就挨家宰的人一個一個呈現⟨את⟩伊的家己的人;就有掠著亞干,迦米的子,撒底的子,謝拉的後代,屬猶大支派的。",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "伊就呈現"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的家己的人"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家己的人"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "逐個人一個一個"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "就有掠著"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "亞干"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "迦米"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "撒底"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後代"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "謝拉"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "屬…支派的"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:00.609572604Z",
+  "model": "glm-5.3"
+}

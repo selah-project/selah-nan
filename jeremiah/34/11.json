@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "毋過後來𪜶倒轉去,共𪜶所放做自由人的奴僕 ⟨את⟩ 佮婢女 ⟨את⟩ 抑轉來,壓制𪜶做奴僕佮做婢女。",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢(了後)"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "共…抑轉來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "奴僕"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "婢女"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "放出去"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "做自由人"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "壓制𪜶"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "做奴僕"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "佮做婢女"
+    }
+  ],
+  "timestamp": "2026-09-12T03:59:36.461872703Z",
+  "model": "glm-5.3"
+}

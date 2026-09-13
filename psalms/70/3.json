@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 70,
+  "translation": "願尋我性命的見笑、受辱;願𪜶倒退、蒙羞 —— 彼號愛我歹運的。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "願見笑"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "受辱"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "尋我…的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "性命"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "願倒退"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "倒退(向後)"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "蒙羞"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "愛…的"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "我歹運"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:06.865588077Z",
+  "model": "glm-5.3"
+}

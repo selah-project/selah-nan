@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣你欲做⟨את⟩以弗得(聖褂)的長袍,全部攏用藍紫色線做。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "閣你欲做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以弗得的長袍"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "長袍"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "全部攏"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "藍紫色線"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:13.267557174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我烏,毋過媠,耶路撒冷的查某囡仔,親像基達的帳棚,親像沙龍的布幔。",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "烏"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "毋過媠"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "查某囡仔"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "親像…的帳棚"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "基達"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "親像…的布幔"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "沙龍"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:47.636355635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "銀是屬我的,金嘛是屬我的——雅威・采巴奧特的神諭。",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "屬我"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "嘛屬我"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:31.225099406Z",
+  "model": "glm-5.3"
+}

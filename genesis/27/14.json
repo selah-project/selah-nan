@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "伊就去,就提,就帶來予伊的阿母;伊的阿母就備辦好食的物,照伊的老父所愛的。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "伊就去"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "就帶來"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "予伊的阿母"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "就做"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的阿母"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "好食的物"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "所愛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:20.844460828Z",
+  "model": "glm-5.3"
+}

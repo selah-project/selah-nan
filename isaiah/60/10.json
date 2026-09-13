@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "外地人的囝仔欲起造你的城牆,𪜶的諸個王欲服事你;因為我佇受氣中責罰你,閣佇我的喜愛中憐憫你。",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "欲起造"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外地人"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "你的城牆"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "佮𪜶的諸個王"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "欲服事你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "佇我的受氣中"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "責罰你"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "閣佇我的喜愛中"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "憐憫你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:51.031275101Z",
+  "model": "glm-5.3"
+}

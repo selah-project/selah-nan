@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "雅威的神佇我內面講話,伊的話佇我的舌頭頂。",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "神"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "בי",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "閣伊的話"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的舌頭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:02.104689808Z",
+  "model": "glm-5.3"
+}

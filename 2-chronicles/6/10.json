@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威有照伊所講的話來實現 ⟨את⟩;我起來接大衛我爸的位,坐佇以色列的王座頂,照雅威所講的;我嘛起了這厝,互雅威——以色列的以羅欣——的名。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "實現"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的話"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "我起來"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "接…的位"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我爸"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "我坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "我起了"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "這厝"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "互…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:40.255764332Z",
+  "model": "glm-5.3"
+}

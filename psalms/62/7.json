@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "獨獨伊是我的磐石佮我的拯救;伊是我的高臺,我袂搖動。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "佮我的拯救"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "我的高臺"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "我袂搖動"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:31.357390903Z",
+  "model": "glm-5.3"
+}

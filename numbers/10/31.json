@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊講:「求你千萬毋通放捒 ⟨את⟩ 阮,因為按呢,你知阮佇曠野怎樣紮營,你欲做阮的目睭。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你千萬"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "放捒"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "阮"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "על",
+      "gloss": "按"
+    },
+    {
+      "surface": "כן",
+      "gloss": "呢"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你知"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "阮咧紮營"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮的"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:55:35.195776208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "⟨את⟩ 帳幔庭院的,⟨את⟩ 伊的柱仔,佮⟨את⟩ 伊的座,閣⟨את⟩ 庭院門仔的簾。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳幔庭院的"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "帳幔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的柱仔"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "伊的柱仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的座"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "伊的座"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "庭院門仔的簾"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "簾"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門仔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:10.685290254Z",
+  "model": "glm-5.3"
+}

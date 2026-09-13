@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "當以里昂(至高者)互列國承受產業,當伊分開亞當(人類)的子兒的時,伊設立列邦的疆界,照以色列子兒的數目。",
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "當…承受產業"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以里昂"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "當伊分開"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "亞當(人類)"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "設立"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "疆界"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "照…數目"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:44.281036703Z",
+  "model": "glm-5.3"
+}

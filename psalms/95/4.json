@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "地的深處佇伊的手內,山的懸高嘛是伊的。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "彼位——"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手內"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "深處"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "嘛是懸高"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:01.349134118Z",
+  "model": "glm-5.3"
+}

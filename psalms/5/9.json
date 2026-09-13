@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威啊,佇你的公義中引導我,為著我的對敵;佇我的面頭前,互你的路直直。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "引導我"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "佇你的公義中"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "互……直直"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……的面頭前"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的路"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:34.820924007Z",
+  "model": "glm-5.3"
+}

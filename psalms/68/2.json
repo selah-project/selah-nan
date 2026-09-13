@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "願以羅欣起來,願𪜶的對敵四散;願怨恨伊的人對伊的面前逃走。",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "願…起來"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "四散"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "𪜶的對敵"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "逃走"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "怨恨伊的人"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊的面前"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:12.546618408Z",
+  "model": "glm-5.3"
+}

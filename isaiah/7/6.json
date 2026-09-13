@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "「咱來上去猶大,攪擾伊,閣替咱拍破伊,佇伊中間立一個王,就是⟨את⟩陀比勒的子。」",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "咱來上去"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "攪擾伊"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "拍破伊"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "替咱"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "立…做王"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "一個王"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "佇伊中間"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "陀比勒的子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "陀比勒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:13.720148565Z",
+  "model": "glm-5.3"
+}

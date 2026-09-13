@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "看啊,為著公義,君王欲掌權;官員為著判斷欲治理。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "為著公義"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "欲掌權"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "君王"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "佮官員"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "為著判斷"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "欲治理"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:02.324510759Z",
+  "model": "glm-5.3"
+}

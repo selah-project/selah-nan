@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊起造⟨את⟩伯利恆、⟨את⟩伊坦、閣⟨את⟩提哥亞,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "伊起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伯利恆"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "利恆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊坦"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "伊坦"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "提哥亞"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "提哥亞"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:57.704503427Z",
+  "model": "glm-5.3"
+}

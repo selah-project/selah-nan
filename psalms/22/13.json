@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "真濟牛圍𪜶圍我;巴珊的壯牛𪜶嘛四圍困我。",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "圍我"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "牛"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "壯牛"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "巴珊"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "四圍困我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:51.826079079Z",
+  "model": "glm-5.3"
+}

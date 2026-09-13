@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 1:17",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我欲互人受迫害,𪜶欲親像青盲人按呢行,因為𪜶得罪雅威;𪜶的血欲流甲親像土粉,𪜶的肉親像糞掃。",
+  "tokens": [
+    {
+      "surface": "והצרתי",
+      "gloss": "我欲互人受迫害"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "𪜶欲行"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "親像青盲人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "𪜶得罪"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "欲流甲"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "𪜶的血"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "親像土粉"
+    },
+    {
+      "surface": "ולחמם",
+      "gloss": "佮𪜶的肉"
+    },
+    {
+      "surface": "כגללים",
+      "gloss": "親像糞掃"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:37.371878225Z",
+  "model": "glm-5.3"
+}

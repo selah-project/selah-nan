@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "阮的倉庫滿滿,對一項貨出到閣一項貨;阮的羊群生千生萬,攏佇阮的街路上。",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "阮的倉庫"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "湠出"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "對一項貨"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "זן",
+      "gloss": "閣一項貨"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "阮的羊群"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "生千"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "生萬"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "佇阮的街路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:55.030430884Z",
+  "model": "glm-5.3"
+}

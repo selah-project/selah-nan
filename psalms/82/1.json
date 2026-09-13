@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 82,
+  "translation": "米自摩,亞薩的。以羅欣徛佇以勒的會中,佇以羅欣中間施行審判。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "米自摩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "佇……的會中"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "施行審判"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:58.904153961Z",
+  "model": "glm-5.3"
+}

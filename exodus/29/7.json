@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "你欲提 ⟨את⟩ 膏抹個油,倒佇伊個頭殼頂,閣膏抹 ⟨את⟩ 伊。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你欲提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "膏抹個油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏抹個"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "閣倒"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊個頭殼頂"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "閣膏抹"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:27.841157166Z",
+  "model": "glm-5.3"
+}

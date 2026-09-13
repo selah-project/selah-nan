@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣⟨את⟩帕爾珊達塔、⟨את⟩達勒豐、⟨את⟩阿斯帕塔;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "帕爾珊達塔"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "帕爾珊達塔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "達勒豐"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "達勒豐"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "阿斯帕塔"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "阿斯帕塔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:28.223612906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "王講愛按呢做;法令就佇書珊頒出去,閣⟨את⟩哈曼的十個囝𪜶予掛起來。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "去做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "頒出去"
+    },
+    {
+      "surface": "דת",
+      "gloss": "法令"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "佇書珊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "十個囝"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十個"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "掛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:49.252700454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "迦勒底人會倒轉來,閣攻擊這個城,搶著伊,用火燒伊。",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "搶著伊"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "燒伊"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-12T04:00:53.660965178Z",
+  "model": "glm-5.3"
+}

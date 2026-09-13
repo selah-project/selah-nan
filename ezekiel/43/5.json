@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "靈舉我起來,紲帶我入內底埕;你看,雅威的榮光充滿彼間厝。",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "舉我起來"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "紲帶我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "彼個埕"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "內底的"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:24:41.150011099Z",
+  "model": "glm-5.3"
+}

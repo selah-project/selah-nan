@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joel 1:19",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威啊,我向你叫,因為火有食掉曠野的草地,火焰有舐燒掉田園攏總的樹仔。",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我叫"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "食掉"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "草地"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "佮火焰"
+    },
+    {
+      "surface": "להטה",
+      "gloss": "舐燒掉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "樹仔"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田園"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:47.625728264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "你若看著賊仔,就佮伊走去;閣佮姦淫的人,是你的份。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "看著"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "賊仔"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "就走去"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "閣佮"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "姦淫的人"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "是你的份"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:58.425380145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "濟濟人對我的神魂講:「伊佇以羅欣〈內底〉無拯救。」細拉。",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "濟濟人"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "講"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "對我的神魂"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "佇以羅欣"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:03.647727997Z",
+  "model": "glm-5.3"
+}

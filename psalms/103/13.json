@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "親像老父憐憫囝兒,雅威嘛按呢憐憫敬畏伊的人。",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "親像……憐憫"
+    },
+    {
+      "surface": "אב",
+      "gloss": "老父"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝兒"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏伊的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:40.621532859Z",
+  "model": "glm-5.3"
+}

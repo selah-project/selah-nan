@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "約拿單褪掉伊身軀頂面的彼領外袍，將⟨את⟩彼領外袍予大衛，連伊的衫褲，以及伊的刀、伊的弓、伊的腰帶。",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "褪掉"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼領外袍"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "彼領外袍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊身軀頂面"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "將伊予"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "連伊的衫褲"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "以及"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "伊的刀"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "以及"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "伊的弓"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "以及"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "伊的腰帶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:07.517506241Z",
+  "model": "glm-5.3"
+}

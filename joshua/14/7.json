@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 14:7",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "當摩西 —— 雅威的奴僕 —— 對加低斯巴尼亞差⟨את⟩我去看⟨את⟩彼土地的時,我是四十歲;我就照合我心內的,共伊轉報⟨את⟩彼句話。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "當…差的時"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "差我(迦勒)"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "對加低斯"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "巴尼亞"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "去看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼土地"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "我就轉報"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "彼句話"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "彼句話"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "עם",
+      "gloss": "合"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "我的心"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:21.427554176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣米烏挪泰生了⟨את⟩俄弗拉;西萊雅生了⟨את⟩約押,伊是基伊・哈拉欣(工匠谷)的老父,因為𪜶攏是做工匠的人。",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "閣米烏挪泰"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "俄弗拉"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "俄弗拉"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "閣西萊雅"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約押"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "……的老父"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "基伊(谷)"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "哈拉欣(工匠)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "做工匠的人"
+    },
+    {
+      "surface": "היו",
+      "gloss": "𪜶攏是"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:48.782653464Z",
+  "model": "glm-5.3"
+}

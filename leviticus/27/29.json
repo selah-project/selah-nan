@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "見若歸滅之物,就是對人當中列做歸滅的,袂當贖回;死——的確著處死。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "歸滅之物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "列做歸滅的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人當中"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "贖回"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "的確著處死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:30.180216534Z",
+  "model": "glm-5.3"
+}

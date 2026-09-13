@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 53,
+  "translation": "伊佇伊面前長起來,親像樹仔苗,閣親像對乾旱地出來的根;伊無形貌,也無威嚴;咱看見伊,伊無面貌通看,咱嘛無欣慕伊。",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "長起來"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "親像樹仔苗"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "閣親像根"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對地"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾旱"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "形貌"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也無"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "咱看見伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "面貌"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "咱無欣慕伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:51.476650986Z",
+  "model": "glm-5.3"
+}

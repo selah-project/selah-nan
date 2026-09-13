@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣對這號人,你煞開目睭看,閣將⟨את⟩我帶去佮你審判?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這號人"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "開"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "你个目睭"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩我",
+      "marks": "⟨את⟩我"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "帶去"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:21.865865474Z",
+  "model": "glm-5.3"
+}

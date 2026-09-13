@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "閣對你鼻孔的氣,水堆做一堆;流水徛起來親像壁;深淵結凍佇海的心。",
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "閣對…的氣"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "你鼻孔的"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "堆做一堆"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "徛起來"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "נד",
+      "gloss": "壁"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "流水"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "結凍"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "佇…的心"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:24.526415981Z",
+  "model": "glm-5.3"
+}

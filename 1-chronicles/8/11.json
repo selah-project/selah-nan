@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊嘛對戶施生生⟨את⟩阿比土、⟨את⟩以利帕勒。",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "對戶施姆"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿比土"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "阿比土"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "以利帕勒"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "以利帕勒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:17.292114713Z",
+  "model": "glm-5.3"
+}

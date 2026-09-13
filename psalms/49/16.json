@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "的確,以羅欣欲贖回我的性命,脫離示阿勒的手,因為伊欲接納我。細拉。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "欲贖回"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的手"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "欲接納我"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:15.909079720Z",
+  "model": "glm-5.3"
+}

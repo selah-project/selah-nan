@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "柴加予濟,火點予著,肉煮予透,湯熬予濃,骨頭攏燒予焦。",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "加予濟"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "柴"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "點予著"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "התם",
+      "gloss": "煮予透"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "熬"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "湯"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "骨頭攏"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "燒予焦"
+    }
+  ],
+  "timestamp": "2026-09-12T04:15:56.422774518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "這件代誌佇約拿眼中成做極大的惡事,伊就大大受氣。",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "成做歹"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "約拿"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡事"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "極大"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:21.125757700Z",
+  "model": "glm-5.3"
+}

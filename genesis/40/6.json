@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "隔轉早起,約瑟入去𪜶遐,看⟨את⟩𪜶,你看,𪜶悶悶面臭臭。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "到𪜶遐"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "你看"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "面臭臭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:58.852641243Z",
+  "model": "glm-5.3"
+}

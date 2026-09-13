@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅威坐佇洪水頂面做王,雅威做王到永遠。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "佇洪水頂面"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐做王"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "閣坐做王"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:35.508357282Z",
+  "model": "glm-5.3"
+}

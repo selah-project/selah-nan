@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 12:11",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "我嘛有藉先知講話,閣我增多異象,藉先知的手用譬喻。",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "我嘛有…講話"
+    },
+    {
+      "surface": "על",
+      "gloss": "藉"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "先知"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "增多"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "藉…的手"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "先知"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "用譬喻"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:29.546620986Z",
+  "model": "glm-5.3"
+}

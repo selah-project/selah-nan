@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我 —— 王个嘴,著遵守,佮為著以羅欣个誓照按呢行。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "פי",
+      "gloss": "嘴"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "著遵守"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮為著"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "照按呢行"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "誓"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:49.365488183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我就講:你欲去佗位?伊就應我講:去量⟨את⟩耶路撒冷,欲看伊有外闊、外長。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我就講"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "佗位"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就應我講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "למד",
+      "gloss": "去量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶路撒冷"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "外"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "闊"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "外"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "長"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:56.720559245Z",
+  "model": "glm-5.3"
+}

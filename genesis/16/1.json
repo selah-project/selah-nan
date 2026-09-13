@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "撒萊——亞伯蘭个某——無替伊生子;伊有一个埃及个查某婢仔,名叫夏甲。",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "撒萊"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "个某"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "伊有"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "查某婢仔"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "埃及个"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "名叫"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "夏甲"
+    }
+  ],
+  "timestamp": "2026-09-12T01:13:15.743024874Z",
+  "model": "glm-5.3"
+}

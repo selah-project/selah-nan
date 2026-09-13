@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "亞哈就點閱⟨את⟩諸省首領的少年家,共是兩百三十二个;閣佇𪜶後面點閱⟨את⟩歸陣的百姓,以色列逐個囝仔,七千。",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "點閱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸省首領的少年家"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "少年家"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首領"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "諸省"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "共是"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "兩百"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "閣佇𪜶後面"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "點閱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歸陣的百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸陣"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:19.647036502Z",
+  "model": "glm-5.3"
+}

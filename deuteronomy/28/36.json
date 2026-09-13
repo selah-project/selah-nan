@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "雅威欲導⟨את⟩你,佮⟨את⟩你的王——就是你欲立佇你頂面彼个——去到一個你佮你的祖先攏毋識的國家;你欲佇遐服事別个神,木頭佮石頭。",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "欲導…去"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你的王"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "你的王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "你欲立"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "佇你頂面"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "一個國家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你識"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "佮你的祖先"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "你欲服事"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "別个神"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別个"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "木頭"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "佮石頭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:24.555893201Z",
+  "model": "glm-5.3"
+}

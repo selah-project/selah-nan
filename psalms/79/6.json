@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "將祢的烈怒倒落去⟨佮⟩毋捌𪜶的列國身上,亦倒落去⟨佮⟩無用祢的名來求告的諸個王國身上。",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "祢的烈怒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "落去"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨佮⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "捌祢"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "亦倒落"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨佮⟩"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "用祢的名"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "求告"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:35.221012083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "雅威啊,你是阮的以羅欣,我欲尊崇你,我欲感謝你的名;因為你做了奇妙的事,是對遠古就有的計謀,信實、確實。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你是"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "我欲尊崇你"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "我欲感謝"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "你做了"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "奇妙的事"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "對遠古就有的"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "信實"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "確實"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:24.138112252Z",
+  "model": "glm-5.3"
+}

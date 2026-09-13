@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我的對敵猶活閣壯,怨恨我的人白白加添真濟。",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "猶活"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "壯"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "加添真濟"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "怨恨我的人"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白白"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:29.225697264Z",
+  "model": "glm-5.3"
+}

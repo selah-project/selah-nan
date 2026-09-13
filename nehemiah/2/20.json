@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 2:20",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我就應𪜶 ⟨את⟩ 話,對𪜶講:「天〈的〉以羅欣,伊欲互咱成功;阮是伊的奴僕,欲起來起造;毋拘恁佇耶路撒冷無份、無公道、嘛無紀念。」",
+  "tokens": [
+    {
+      "surface": "ואשיב",
+      "gloss": "我就應"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "對𪜶講"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "互咱成功"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "起造"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "份"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "公道"
+    },
+    {
+      "surface": "וזכרון",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:06.003938208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "王問彼個婦人人,伊就對伊講。王就指定一個太監,講:「還 ⟨את⟩ 伊所有的一切,佮 ⟨את⟩ 田裡一切的出產,對伊離開 ⟨את⟩ 此地彼日起,到今。」",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "問"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "彼個婦人人"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "就指定"
+    },
+    {
+      "surface": "לה",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "太監"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "還"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所有的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "田裡一切的出產"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "出產"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "對…彼日"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "伊離開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "此地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:04.469641729Z",
+  "model": "glm-5.3"
+}

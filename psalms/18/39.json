@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "我捶碎𪜶,𪜶袂當起來;𪜶攏倒佇我的跤下。",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "我捶碎𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "會"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "𪜶攏倒落"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的跤"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:21.981896191Z",
+  "model": "glm-5.3"
+}

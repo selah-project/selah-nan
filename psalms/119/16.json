@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我欲恬恬享受你的律例;我毋會袂記得你的話。",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "佇你的律例"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "我欲恬恬享受"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "我會袂記得"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:09.735948844Z",
+  "model": "glm-5.3"
+}

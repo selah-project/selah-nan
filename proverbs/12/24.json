@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "殷勤人的手會統治,毋過懈怠的會淪落去做苦役。",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "殷勤人"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "會統治"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "毋過懈怠的"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會淪落去做"
+    },
+    {
+      "surface": "למס",
+      "gloss": "苦役"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.391353938Z",
+  "model": "glm-5.3"
+}

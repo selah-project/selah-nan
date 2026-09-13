@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我欲賞恁憐憫,閣憐憫⟨את⟩恁,閣互⟨את⟩恁倒轉去恁的土地。",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "我欲賞"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "閣憐憫"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "閣互…倒轉"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "恁的土地"
+    }
+  ],
+  "timestamp": "2026-09-13T06:33:30.222116349Z",
+  "model": "glm-5.3"
+}

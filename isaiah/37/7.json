@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "「看啊,我欲互伊一個神魂,伊會聽著風聲,就倒轉去伊的土地;我閣欲用刀予伊跋倒佇伊的土地。」",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "看啊,我"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "欲互"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "一個神魂"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "閣伊會聽著"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "風聲"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "閣倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "閣我欲予伊跋倒"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "佇伊的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:46.440612900Z",
+  "model": "glm-5.3"
+}

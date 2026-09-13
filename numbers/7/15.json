@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "牛一隻,牛群的囝;公羊一隻;羊羔一隻,一歲的囝,做燒祭。",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "איל",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "一歲"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "做燒祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:20.516645948Z",
+  "model": "glm-5.3"
+}

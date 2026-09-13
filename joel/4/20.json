@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "猶大欲徛起到永遠,耶路撒冷嘛欲一代閣一代。",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "佮猶大"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "到一代"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "閣一代"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:19.718124708Z",
+  "model": "glm-5.3"
+}

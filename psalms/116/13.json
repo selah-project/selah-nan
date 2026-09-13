@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "救恩的杯我欲捧起來,閣我欲用雅威的名來呼求。",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "杯"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "救恩"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "捧起來"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "用…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "呼求"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:02.364071678Z",
+  "model": "glm-5.3"
+}

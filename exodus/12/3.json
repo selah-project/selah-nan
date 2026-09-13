@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "「恁著對以色列全會眾講:『這個月⟨初⟩十,逐人照伊父的家攞一隻羊仔,一厝一隻羊仔。",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "恁講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "佇十"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "屬這月"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "𪜶著攞"
+    },
+    {
+      "surface": "להם",
+      "gloss": "為𪜶"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "שה",
+      "gloss": "一隻羊仔"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "屬…的家"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "父"
+    },
+    {
+      "surface": "שה",
+      "gloss": "一隻羊仔"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "一厝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:11.737558978Z",
+  "model": "glm-5.3"
+}

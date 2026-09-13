@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 40:28",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊帶我入去內庭,對向南的門;伊量 ⟨את⟩ 彼個向南的門,照遐的尺寸。",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "伊帶我入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "庭"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "內"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "對……門"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "向南的"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個向南的門"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "向南的"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "照……的尺寸"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遐的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:08.792221165Z",
+  "model": "glm-5.3"
+}

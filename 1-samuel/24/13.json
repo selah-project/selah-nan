@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "願雅威審判佇我佮你中間,願雅威對你替我報冤,總是我的手袂佇你身上。",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "願…審判"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "佮你中間"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "願…替我報冤"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "總是我的手"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你身上"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:32.640678169Z",
+  "model": "glm-5.3"
+}

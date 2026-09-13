@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "有一个世代,咒詛𪜶的老父,⟨את⟩𪜶的老母毋祝福。",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "一个世代"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "𪜶的老父"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的老母"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "𪜶的老母"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "祝福"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:04.828204270Z",
+  "model": "glm-5.3"
+}

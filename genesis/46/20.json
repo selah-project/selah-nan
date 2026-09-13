@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "約瑟佇埃及地得著囝仔,就是安城的祭司波提非拉查某囝亞西納為伊生的:⟨את⟩ 瑪拿西佮 ⟨את⟩ 以法蓮。",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "閣…生"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "予約瑟"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "伊生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "亞西納"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "波提"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "非拉"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אן",
+      "gloss": "安"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瑪拿西"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "以法蓮"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:38.754326653Z",
+  "model": "glm-5.3"
+}

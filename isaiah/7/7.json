@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "阿多奈雅威按呢講:彼項事袂徛在,嘛袂發生。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛袂"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "發生"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:13.720335010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "佮你曾講:我一定欲善待你,閣欲給⟨את⟩你的後籽親像海的沙,濟甲無法度算會了。」",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "佮你"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "曾講"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "一定"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "善待"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "閣欲給"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的後籽"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的後籽"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "親像沙"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無法度"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "算會了"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "濟甲"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:09.574852847Z",
+  "model": "glm-5.3"
+}

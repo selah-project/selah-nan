@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "雅威是應當稱頌的,對永遠。阿們,閣阿們。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "應當稱頌的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "對永遠"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿們"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "閣阿們"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:59.130410803Z",
+  "model": "glm-5.3"
+}

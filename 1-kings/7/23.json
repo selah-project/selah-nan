@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊鑄造⟨את⟩彼個海,是鑄出來的:對唇到唇十肘,規个圓圓,懸五肘;一條量索三十肘,咧圍⟨את⟩伊一週圍。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼個海"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "鑄出來的"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "對伊的唇"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "伊的唇"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "圓圓"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "規个四圍"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "閣五"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "伊的懸度"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "閣一條量索"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "咧圍"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "一週圍"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:59.660545374Z",
+  "model": "glm-5.3"
+}

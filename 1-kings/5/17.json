@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "汝知影⟨את⟩大衛我爸:因為對佇彼個圍伊四圍的戰爭,伊袂當為雅威伊的以羅欣的名起厝,直到雅威互⟨את⟩𪜶佇伊的腳掌下。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "知影"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "我爸"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "起"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "為…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對佇"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "彼个戰爭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "圍伊四圍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "תת",
+      "gloss": "互"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "腳掌"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "伊的腳"
+    }
+  ],
+  "timestamp": "2026-09-12T03:05:28.459534902Z",
+  "model": "glm-5.3"
+}

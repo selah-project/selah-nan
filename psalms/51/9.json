@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "用牛膝草互我罪得洗淨,我就會清氣;給我踏洗,我就會比雪較白。",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "互我罪得洗淨"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "用牛膝草"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "我就會清氣"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "給我踏洗"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "我就會比雪較白"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "會白"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:50.662847708Z",
+  "model": "glm-5.3"
+}

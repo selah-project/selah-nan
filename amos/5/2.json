@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 5:2",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "倒--落去矣,以色列的處女,毋閣袂閣起來矣;伊拋荒佇伊的土地,無人共伊扶起來。",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "倒--落去矣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "處女"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נטשה",
+      "gloss": "拋荒"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "אדמתה",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מקימה",
+      "gloss": "共伊扶起來的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:30:09.980495100Z",
+  "model": "glm-5.3"
+}

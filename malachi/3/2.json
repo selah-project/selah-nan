@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣,啥人忍受會牢 ⟨את⟩ 伊來的日子?佮啥人會當佇伊顯現的時徛在?因為伊像煉銀的火,嘛像洗衫人的皂。",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "閣,啥人"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "忍受會牢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "日子"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "伊來的"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "佮啥人"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "佇伊顯現的時"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "像火"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "煉銀的"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "嘛像皂"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "洗衫人的"
+    }
+  ],
+  "timestamp": "2026-09-13T06:35:19.382754075Z",
+  "model": "glm-5.3"
+}

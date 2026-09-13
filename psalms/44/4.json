@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "因為𪜶毋是用𪜶的劍佔得土地,𪜶的手臂嘛無救𪜶;是你的正手、你的手臂,佮你面上的光,因為你恩待𪜶。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "用𪜶的劍"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "𪜶佔得"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "閣𪜶的手臂"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "救"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "佮你的手臂"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "閣…的光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "你恩待𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.348321651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣⟨את⟩這十二塊石頭,就是𪜶對約旦河提來的,約書亞佇吉甲將伊豎起來。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "這十二塊石頭"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "十…"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…二"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "塊石頭"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "𪜶提來的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…裡"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "豎起來"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "佇吉甲"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:29.106330154Z",
+  "model": "glm-5.3"
+}

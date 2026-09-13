@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我的腳步持守佇你的路徑,我的腳未曾搖撼。",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "持守"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "我的腳步"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "佇你的路徑"
+    },
+    {
+      "surface": "בל",
+      "gloss": "未曾"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "搖撼"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "我的腳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:59.431427143Z",
+  "model": "glm-5.3"
+}

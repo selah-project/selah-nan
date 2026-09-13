@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "伊攻落⟨את⟩猶大彼寡堅固的城,一直來到耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "攻落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大彼寡堅固的城"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "堅固的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼寡"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "一直"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:13.795021319Z",
+  "model": "glm-5.3"
+}

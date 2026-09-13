@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "閣伊導祂的百姓出去親像羊群,佇曠野引𪜶親像一陣牛羊。",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "閣…出去"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "親像羊群"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "祂的百姓"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "引𪜶"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "親像一陣牛羊"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:41.052772545Z",
+  "model": "glm-5.3"
+}

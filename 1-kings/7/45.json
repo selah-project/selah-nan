@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣⟨את⟩彼寡鼎、⟨את⟩彼寡鏟仔、⟨את⟩彼寡噴碗,閣⟨את⟩希蘭替所羅門王佇雅威的殿所做的全部器具,攏是磨光的銅。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡鼎"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "彼寡鼎"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡鏟仔"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "彼寡鏟仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡噴碗"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "彼寡噴碗"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全部器具"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器具"
+    },
+    {
+      "surface": "האהל",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "希蘭"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "替王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "磨光的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:39.809740040Z",
+  "model": "glm-5.3"
+}

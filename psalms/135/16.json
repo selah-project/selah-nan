@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "𪜶有喙,毋過𪜶袂講話;𪜶有目睭,毋過𪜶袂看。",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "喙"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶有"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過𪜶毋"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "講話"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶有"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋過𪜶毋"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "看"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.346874990Z",
+  "model": "glm-5.3"
+}

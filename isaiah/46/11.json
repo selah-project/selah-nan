@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "我對東方呼召一隻猛鳥,對遠地一个人來行我的計謀;實在,我已經講,實在我欲帶伊來;我已經計畫,閣實在我欲做成伊。",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "呼召"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "對東方"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "一隻猛鳥"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對地"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "遠"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "我的計謀"
+    },
+    {
+      "surface": "אף",
+      "gloss": "實在"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "我已經講"
+    },
+    {
+      "surface": "אף",
+      "gloss": "實在"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "我欲帶伊來"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "我已經計畫"
+    },
+    {
+      "surface": "אף",
+      "gloss": "閣實在"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "我欲做成伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:58.684328833Z",
+  "model": "glm-5.3"
+}

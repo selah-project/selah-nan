@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "公義欲做伊腰帶,信實欲做伊腰間的帶。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "腰帶"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "伊的腰"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "佮信實"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "帶"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "伊的腰間"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:51.851322595Z",
+  "model": "glm-5.3"
+}

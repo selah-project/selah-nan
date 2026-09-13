@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "所以因為恁,錫安會犁做田,耶路撒冷會成做廢墟,聖殿的山會成做樹林的高地。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "因為恁"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "做田"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "會犁"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "廢墟"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "會成做"
+    },
+    {
+      "surface": "והר",
+      "gloss": "佮…山"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "聖殿"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "高地"
+    },
+    {
+      "surface": "יער",
+      "gloss": "樹林"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:32.176156361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "予伊對歹的日仔得著安靜,直到坑掘好勢予歹人。",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "予…得著安靜"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "對…的日仔"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "掘好勢"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "予歹人"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "坑"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:43.530246249Z",
+  "model": "glm-5.3"
+}

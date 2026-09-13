@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "阿多奈雅威開了我的耳,我嘛毋反叛;倒退,我嘛無。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "反叛"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "倒退"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "退後"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:52.692340486Z",
+  "model": "glm-5.3"
+}

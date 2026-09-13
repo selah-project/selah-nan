@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "喧嘩鬧熱⟨的⟩所在,滿滿⟨的⟩城,歡喜⟨的⟩城;你的死者毋是刀劍刺死的,嘛毋是佇戰爭中死的。",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "滿滿"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "鬧熱的"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "歡喜的"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "你的死者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "死者"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋是"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "死的"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:11.022382813Z",
+  "model": "glm-5.3"
+}

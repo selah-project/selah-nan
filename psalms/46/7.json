@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "列國咧喧嘩,王國咧搖動;伊用伊的聲發出,土地就熔化。",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "咧喧嘩"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "咧搖動"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "發出"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "用伊的聲"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "就熔化"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:06.082436212Z",
+  "model": "glm-5.3"
+}

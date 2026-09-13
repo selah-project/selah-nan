@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊帶⟨את⟩我到庭院的門口,我一看,看啊,壁頂有一个空。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "伊帶"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院的"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "我看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "חר",
+      "gloss": "一个空"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "佇壁"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:54.997288694Z",
+  "model": "glm-5.3"
+}

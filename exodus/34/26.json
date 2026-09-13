@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 34:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "你的土地尚早熟果子个頭一批,你著帶入雅威、你的以羅欣的殿;羊羔毋通煮佇伊老母的奶。",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "頭一批"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "尚早熟果子"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "你的土地"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "你著帶入"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "煮"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "佇……的奶"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:13.667162060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「所以今你去,我欲佮你的喙同在,我亦會指示你應該講啥。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "所以今"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "而我"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "欲…同在"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你的喙"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "我亦會指示你"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "你講"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:07.056464304Z",
+  "model": "glm-5.3"
+}

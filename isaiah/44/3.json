@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "因為我欲沃水佇喉乾的頂面,閣溪流佇焦地的頂面;我欲沃我的靈佇你的籽裔頂面,閣我的祝福佇你的後代頂面。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "我欲沃"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "喉乾的"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "閣溪流"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "焦地"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "我欲沃"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "我的靈"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "你的籽裔"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "閣我的祝福"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "你的後代"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:34.716435612Z",
+  "model": "glm-5.3"
+}

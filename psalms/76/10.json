@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 76,
+  "translation": "當以羅欣起來行審判、欲救地上所有謙卑者的時陣。細拉。",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "當…起來的時"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "行審判"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "欲救"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "謙卑者"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:27.743686104Z",
+  "model": "glm-5.3"
+}

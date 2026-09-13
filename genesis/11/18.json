@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "佩勒格活三十冬,生⟨את⟩勒烏。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "活"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "佩勒格"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "冬"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "勒烏"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "勒烏"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:22.675568269Z",
+  "model": "glm-5.3"
+}

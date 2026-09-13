@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "這是𪜶的路,是𪜶的愚戇;𪜶後來的人猶原用𪜶的喙來滿意。細拉。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "𪜶的路"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "愚戇"
+    },
+    {
+      "surface": "למו",
+      "gloss": "屬𪜶"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "𪜶後來的人"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "用𪜶的喙"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "來滿意"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:15.908749534Z",
+  "model": "glm-5.3"
+}

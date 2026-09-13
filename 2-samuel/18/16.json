@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "約押吹哨角,百姓就對追趕以色列轉來,因為約押制住⟨את⟩百姓。",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "吹"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "哨角"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就轉來"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "對追趕"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "隨在……後面"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "制住"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:39.311109378Z",
+  "model": "glm-5.3"
+}

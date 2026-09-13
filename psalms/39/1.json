@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "互指揮的,互耶杜頓的。大衛的一首詩篇。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮的"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "互耶杜頓的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:47.301111374Z",
+  "model": "glm-5.3"
+}

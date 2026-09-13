@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "閣用怨恨个話圍了〈我〉,無緣無故攻擊我。",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "閣个話"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "圍了我"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "攻擊我"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無緣無故"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:25.911476656Z",
+  "model": "glm-5.3"
+}

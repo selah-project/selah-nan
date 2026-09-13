@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "以羅欣啊,以勒我的神,汝⟨是⟩;天未光我就欲尋汝,我的魂對汝渴,我的肉體對汝嚮慕,佇乾旱、疲倦、無水的地。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "以勒我的神"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "天未光我就欲尋汝"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "渴"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對汝"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的魂"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "嚮慕"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對汝"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉體"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "乾旱"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "疲倦"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:02.913912334Z",
+  "model": "glm-5.3"
+}

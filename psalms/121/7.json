@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 121,
+  "translation": "雅威欲顧你脫離一切的歹,伊欲守顧⟨את⟩你的性命。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "欲顧你"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離一切的"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "欲守顧"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的性命"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:39.121610475Z",
+  "model": "glm-5.3"
+}

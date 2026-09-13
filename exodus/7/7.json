@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "摩西是八十歲,亞倫是八十三歲,佇𪜶對法老講話的時。",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "而摩西"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…歲(子兒)"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "八十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "而亞倫"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…歲(子兒)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "佮八十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "佇𪜶講話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:26.602249330Z",
+  "model": "glm-5.3"
+}

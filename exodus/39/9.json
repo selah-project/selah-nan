@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "四角形、雙重,𪜶做⟨את⟩胸牌;一虎口是伊的長,一虎口是伊的闊,雙重。",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "四角形"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨是⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "雙重"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "𪜶做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "胸牌"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "一虎口"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "一虎口"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "雙重"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:15.113328524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "七日你欲為祭壇贖罪,閣共伊分別做聖⟨את⟩;按呢祭壇欲成做聖中之聖;見若摸著祭壇的,攏欲成聖。",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "贖罪"
+    },
+    {
+      "surface": "על",
+      "gloss": "為"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "閣分別做聖"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇(伊)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "按呢…欲成"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "中之聖(諸聖)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "摸著的"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "攏欲成聖"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:16.647110709Z",
+  "model": "glm-5.3"
+}

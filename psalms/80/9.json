@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "葡萄樹對米茲拉因(埃及)你搬出來;你趕走列國,閣栽種伊。",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "葡萄樹"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "你搬出來"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "你趕走"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "閣栽種伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:05.389573498Z",
+  "model": "glm-5.3"
+}

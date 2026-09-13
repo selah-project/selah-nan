@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣我嘛曾對恁擋住⟨את⟩雨,猶有三個月才到收成;我互雨落佇一個城,毋過另一個城我無互雨落;一坵田有雨落,閣彼坵無落雨的,就焦去。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣嘛"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "曾擋住"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雨"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "猶有"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "才到收成"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "閣我互雨落"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一個"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋過無"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "互雨落"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "一坵田"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "有雨落"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "閣彼坵田"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "落雨"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "就焦去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:14.945769523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "願雅威、以色列的以羅欣,得著賜福,對永遠到永遠;閣所有的人民攏講:「阿們。」當讚美雅!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "得著賜福"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "阿們"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "當讚美"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:36.008409364Z",
+  "model": "glm-5.3"
+}

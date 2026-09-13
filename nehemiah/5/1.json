@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼時人民佮𪜶的某大聲哮,對𪜶的兄弟猶大人哮出來。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "彼時有"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "哮聲"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "佮𪜶的某"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大聲"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "𪜶的兄弟"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:54:50.982010829Z",
+  "model": "glm-5.3"
+}

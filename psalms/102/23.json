@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "佇列國聚集做伙、諸王國來服事⟨את⟩雅威的時,",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "佇……聚集"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "佮諸王國"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "來服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:23.846932095Z",
+  "model": "glm-5.3"
+}

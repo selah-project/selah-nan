@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "𪜶應對尼布甲尼撒王講:「王啊,願王活到永遠!」",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "𪜶應"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "講"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "對尼布甲尼撒"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王啊"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "活"
+    }
+  ],
+  "timestamp": "2026-09-12T05:44:30.048470246Z",
+  "model": "glm-5.3"
+}

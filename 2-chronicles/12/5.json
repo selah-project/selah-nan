@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 12:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "對按呢,先知示瑪雅來到羅波安佮猶大的首領遐 —— 𪜶為著示撒聚集到耶路撒冷 —— 伊就對𪜶講:「雅威按呢講:『恁離棄⟨את⟩我,嘛換我離棄⟨את⟩恁,交佇示撒的手裡。』」",
+  "tokens": [
+    {
+      "surface": "ושמעיה",
+      "gloss": "示瑪雅"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "佮…首領"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "遮"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "示撒"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "離棄"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我",
+      "marks": "我"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "離棄"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "示撒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:49.767199948Z",
+  "model": "glm-5.3"
+}

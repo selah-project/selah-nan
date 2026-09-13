@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "「來去,食我的餅,啉我調好的酒。」",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "來去"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "食"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "我的餅"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "麥啉"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "佇酒"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "我調好的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:14.833127751Z",
+  "model": "glm-5.3"
+}

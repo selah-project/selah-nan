@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 16:3",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "閣落向西，到押利提人的境界，到下伯和崙的境界，到基色；伊的出口向西到海。",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "היפלטי",
+      "gloss": "押利提人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境界"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "和崙"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "下"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "基色"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "…做"
+    },
+    {
+      "surface": "תצאתו",
+      "gloss": "伊的出口"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向西"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:49.253791976Z",
+  "model": "glm-5.3"
+}

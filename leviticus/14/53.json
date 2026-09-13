@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣伊欲放⟨את⟩彼隻活的鳥仔飛出去城外,對田野的面前,閣替彼間厝行贖罪,厝就清氣矣。",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "閣放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻活的鳥仔"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "彼隻鳥仔"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "活的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "出去…外"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "閣替…行贖罪"
+    },
+    {
+      "surface": "על",
+      "gloss": "替"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼間厝"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "閣清氣"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:33.097577530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "這些就是以實瑪利的囝,這个就是𪜶的名,照𪜶的庄頭佮𪜶的營寨:十二个首領,照𪜶的族。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הם",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "這个就是"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "𪜶的名"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "照𪜶的庄頭"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "佮𪜶的營寨"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(个)"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "首領"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "照𪜶的族"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:36.204921898Z",
+  "model": "glm-5.3"
+}

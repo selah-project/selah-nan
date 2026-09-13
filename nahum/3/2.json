@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "鞭仔的聲,佮輪轆轆的聲,佮馬咧衝,佮戰車咧跳躍!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "鞭仔"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "佮…的聲"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "轆轆"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "輪"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "佮馬"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "咧衝"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "佮戰車"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "咧跳躍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:22.565470049Z",
+  "model": "glm-5.3"
+}

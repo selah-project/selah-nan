@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 20:42",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "𪜶就佇以色列的人面前轉身逃閃,對曠野的路去;戰爭綴牢𪜶,對彼啲城出來的嘛佇𪜶中間毀滅⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "就轉身逃閃"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "איש",
+      "gloss": "的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "佮戰爭"
+    },
+    {
+      "surface": "הדביקתהו",
+      "gloss": "綴牢𪜶"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮彼啲"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "對城出來的"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "佇𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T02:37:16.130479355Z",
+  "model": "glm-5.3"
+}

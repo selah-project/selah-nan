@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "逐日我欲祝福你,閣欲讚美你的名,直到永遠,永無止息。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "我欲祝福你"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "閣欲讚美"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "直到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "永無止息"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:41.612166120Z",
+  "model": "glm-5.3"
+}

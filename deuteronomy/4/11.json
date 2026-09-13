@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "恁倚近,徛佇彼座山腳下;彼座山燒佇火,直到天的中心——烏暗、雲,佮深霧。",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "恁倚近"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "恁徛"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……腳下"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "בער",
+      "gloss": "燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "לב",
+      "gloss": "中心"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天的"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "佮深霧"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:17.095446193Z",
+  "model": "glm-5.3"
+}

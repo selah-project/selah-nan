@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "伊對伊的高處灌水互諸山,地對你所作的果子得著飽足。",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "灌水互"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "對伊的高處"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "對……的果子"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你所作的"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "得著飽足"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:09.438206509Z",
+  "model": "glm-5.3"
+}

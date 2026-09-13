@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣我欲對遐賞賜伊⟨את⟩伊的葡萄園,閣⟨את⟩亞割谷做向望的門口;伊欲佇遐應答,親像伊少年時的日子,親像伊對埃及地上來彼日。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "閣我欲賞賜"
+    },
+    {
+      "surface": "לה",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的葡萄園"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "伊的葡萄園"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞割谷"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "谷"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "亞割"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "做門口"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "向望"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "閣伊欲應答"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "親像……的日子"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "伊的少年時"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "佮親像……彼日"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對……地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:31.504579848Z",
+  "model": "glm-5.3"
+}

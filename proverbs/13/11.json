@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "對空虛來的錢財會減少;用手聚集的人會加添。",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "錢財"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "對空虛來的"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "會減少"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "聚集的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "會加添"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:55.928872653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "烏薛的後生是米沙利、以利撒反佮西提利。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "烏薛"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "米沙利"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "以利撒反"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "西提利"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:25.263688144Z",
+  "model": "glm-5.3"
+}

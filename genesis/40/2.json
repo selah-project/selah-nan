@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "法老對伊兩个內臣受氣,就是對酒政的頭目佮對餅師傅的頭目。",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "伊的內臣"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "שר",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "酒政的"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "שר",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "餅師傅的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:21.600265545Z",
+  "model": "glm-5.3"
+}

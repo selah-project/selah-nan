@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "刴急欲發財的人,目睭是歹的,毋知欠缺會臨到伊。",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "刴急"
+    },
+    {
+      "surface": "להון",
+      "gloss": "欲發財"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋知"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "會"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "欠缺"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "臨到伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:13.995762135Z",
+  "model": "glm-5.3"
+}

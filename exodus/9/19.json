@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "這陣你著緊共你的牲畜 ⟨את⟩ 佮 ⟨את⟩ 你佇田裡所有的一切攏收收入厝內,因為見若佇田裡揣著的人佮牲畜,若無收入厝裡,冰雹就會落佇𪜶身上,𪜶就會死。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "著緊"
+    },
+    {
+      "surface": "העז",
+      "gloss": "共…收收"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的牲畜"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "你的牲畜"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "所有的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的物"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你有"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "佮牲畜"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "凡是"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "揣著"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "若無"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "收入"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "入厝內"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "就會落"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "佇𪜶身上"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "冰雹"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "𪜶就會死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:31.304757549Z",
+  "model": "glm-5.3"
+}

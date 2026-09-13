@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司著愛看⟨את⟩彼个損傷,閣愛關住⟨את⟩彼个有損傷的物件七日。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "著愛看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个損傷"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "彼个損傷"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "閣愛關住"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个損傷"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "彼个損傷"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:41.465380037Z",
+  "model": "glm-5.3"
+}

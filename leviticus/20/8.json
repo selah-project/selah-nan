@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "恁著守⟨את⟩我的律例,閣行⟨את⟩𪜶;我是雅威,彼個互恁成聖的。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "恁著守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的律例"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "閣恁著行"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(我的律例)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "互恁成聖的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:30.088346292Z",
+  "model": "glm-5.3"
+}

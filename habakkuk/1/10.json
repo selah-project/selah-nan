@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊譏笑諸個王,侯伯做伊的笑柄;伊戲笑逐個堡壘,堆土起高,就共伊攻落。",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "諸個王"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "譏笑"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "侯伯"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "笑柄"
+    },
+    {
+      "surface": "לו",
+      "gloss": "做伊的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "戲笑"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "堆土"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "共伊攻落"
+    }
+  ],
+  "timestamp": "2026-09-12T04:34:52.020573360Z",
+  "model": "glm-5.3"
+}

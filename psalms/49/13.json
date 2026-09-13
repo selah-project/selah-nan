@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "毋拘人佇榮光內袂過暝,伊親像牲畜,𪜶攏滅無去。",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "毋拘人"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "佇榮光內"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "過暝"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "親像"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "滅無去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:15.908446251Z",
+  "model": "glm-5.3"
+}

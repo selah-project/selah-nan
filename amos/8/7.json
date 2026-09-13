@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "雅威對雅各的榮光來咒誓講:「阮絕對袂永遠𣍐記𪜶一切的所行。」",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "對……的榮光"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若(誓詞)"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "𣍐記"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "𪜶的所行"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:10.494328350Z",
+  "model": "glm-5.3"
+}

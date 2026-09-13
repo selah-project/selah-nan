@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "王對大馬士革來到,王看著⟨את⟩祭壇,就行倚祭壇,佇伊頂面獻祭。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "對大馬士革"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看著"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "行倚"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "על",
+      "gloss": "到"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:28.693199638Z",
+  "model": "glm-5.3"
+}

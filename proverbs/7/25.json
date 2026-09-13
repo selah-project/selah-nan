@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "毋通你的心偏向往伊的路,毋通佇伊的小路內迷失。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "偏往"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "你的心"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "迷失"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "佇伊的小路內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:33.063570207Z",
+  "model": "glm-5.3"
+}

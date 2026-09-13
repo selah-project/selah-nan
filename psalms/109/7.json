@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "佇伊受審判的時,互伊做歹人出去;伊的祈禱成做罪。",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "佇伊受審判的時"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "做歹人"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "伊的祈禱"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "成做"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.771996934Z",
+  "model": "glm-5.3"
+}

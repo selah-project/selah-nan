@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊聚集海的諸水親像一堆,將深淵下佇伊的寶庫內。",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "親像一堆"
+    },
+    {
+      "surface": "מי",
+      "gloss": "諸水"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海的"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "下"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "佇寶庫內"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "深淵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:03.948533524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "保全我的性命,因為敬虔人是我;救汝的奴僕——汝是我的以羅欣——彼个倚靠汝的。",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "保全"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "敬虔人"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "救"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "汝的奴僕"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "倚靠汝的"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向汝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:47.277608822Z",
+  "model": "glm-5.3"
+}

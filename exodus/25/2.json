@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "「你對以色列的子兒講,予𪜶為我提奉獻;對⟨את⟩逐個心甘情願的人,恁著提⟨את⟩我的奉獻。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "予𪜶提"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "奉獻"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩",
+      "marks": "逐個心甘情願的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "心甘情願"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "心"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "恁著提"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的奉獻"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "我的奉獻"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:37.232718887Z",
+  "model": "glm-5.3"
+}

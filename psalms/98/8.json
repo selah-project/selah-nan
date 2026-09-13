@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 98,
+  "translation": "願江河拍噗仔掌,做伙,諸山歡喜出聲。",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "江河"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "拍…掌"
+    },
+    {
+      "surface": "כף",
+      "gloss": "噗仔掌"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歡喜出聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:32.455753846Z",
+  "model": "glm-5.3"
+}

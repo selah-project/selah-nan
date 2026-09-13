@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你的耳仔欲聽著一句話佇你的後壁,講:「這就是彼條路,恁著行佇伊。」你若偏向正手爿,抑若偏向倒手爿。",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "你的耳仔"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "欲聽著"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一句話"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "對你的後壁"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "彼條路"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "恁著行"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "恁偏向正手爿"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "抑若"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "恁偏向倒手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:19.269632825Z",
+  "model": "glm-5.3"
+}

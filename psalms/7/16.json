@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊掘坑,挖透透,就跋落佇伊家己掘的坑。",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "掘"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "挖伊"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "就跋落"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "佇坑"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "伊做的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:39.861386386Z",
+  "model": "glm-5.3"
+}

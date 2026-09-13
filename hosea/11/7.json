@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣我的子民吊佇半空中,向望我倒轉來;獨獨對至高者,怹同齊呵咾伊──毋,怹攏無抬舉伊。",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "閣我的子民"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "吊佇半空中"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "向望我倒轉來"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "對"
+    },
+    {
+      "surface": "על",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "怹呵咾伊"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "同齊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋,攏無"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "抬舉伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:37.021491718Z",
+  "model": "glm-5.3"
+}

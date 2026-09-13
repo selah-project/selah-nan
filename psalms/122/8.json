@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 122,
+  "translation": "為著我的兄弟佮同伴,我今欲講:平安佇你內面。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我的兄弟"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "佮我的同伴"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "我…講"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你內面"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:20.031856584Z",
+  "model": "glm-5.3"
+}

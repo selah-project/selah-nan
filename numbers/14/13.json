@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 14:13",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "摩西對雅威講:「米茲拉因人(埃及)聽見講,你用你的氣力共⟨את⟩這個民族對𪜶中間攑起來——",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "……講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "𪜶會聽見"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "你攑起來"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "用你的氣力"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個民族"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這個民族"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "מקרבו",
+      "gloss": "對𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:42.738699141Z",
+  "model": "glm-5.3"
+}

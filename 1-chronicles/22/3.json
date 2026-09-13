@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 22:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "鐵真濟,通做城門的門扇的釘佮接榫,大衛攏備辦;銅嘛真濟,無法度秤。",
+  "tokens": [
+    {
+      "surface": "וברזל",
+      "gloss": "閣鐵"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "למסמרים",
+      "gloss": "通做釘"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "門扇"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "城門"
+    },
+    {
+      "surface": "ולמחברות",
+      "gloss": "佮接榫"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "閣銅"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "法度秤"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:19.797036177Z",
+  "model": "glm-5.3"
+}

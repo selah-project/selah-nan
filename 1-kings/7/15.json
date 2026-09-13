@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊鑄造⟨את⟩兩支柱仔,銅的;十八肘是頭一根柱仔的懸度,一條索仔十二肘圍⟨את⟩第二根柱仔。",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "伊鑄造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "兩支柱仔"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩支"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "柱仔"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅的"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "十八"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "懸度"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "柱仔"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "頭一根"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "一條索仔"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "圍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "第二根柱仔"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "柱仔"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二根"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:44.583476609Z",
+  "model": "glm-5.3"
+}

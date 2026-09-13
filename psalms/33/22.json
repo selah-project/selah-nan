@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威啊,願祢的赫瑟德(慈愛)佇阮頂面,親像阮向祢所向望的。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願…成"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "祢的赫瑟德"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "佇阮頂面"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "阮向望"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向祢"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:45.989150053Z",
+  "model": "glm-5.3"
+}

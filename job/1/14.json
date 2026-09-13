@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 1:14",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "有一个使者來到約伯遐,講:「牛咧犁田,驢仔佇𪜶手邊食草。",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "有一个使者"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "約伯"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "היו",
+      "gloss": "咧"
+    },
+    {
+      "surface": "חרשות",
+      "gloss": "犁田"
+    },
+    {
+      "surface": "והאתנות",
+      "gloss": "佮驢仔"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "食草"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "𪜶的手邊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:46.645985094Z",
+  "model": "glm-5.3"
+}

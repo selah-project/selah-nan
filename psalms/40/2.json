@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "向望、恬恬向望雅威,伊就彎垂朝阮,閣聽見我的哀求。",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "向望"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "恬恬向望"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "伊就彎垂"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "朝阮"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "閣聽見"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "我的哀求"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:54.126802768Z",
+  "model": "glm-5.3"
+}

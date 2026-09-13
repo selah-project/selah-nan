@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 48:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "閣,我的手設立大地,我的右手展開諸天;我咧呼叫𪜶,𪜶就做伙徛在。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "設立"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "וימיני",
+      "gloss": "佮我的右手"
+    },
+    {
+      "surface": "טפחה",
+      "gloss": "展開"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "咧呼叫"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:08.990575656Z",
+  "model": "glm-5.3"
+}

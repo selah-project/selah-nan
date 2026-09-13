@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊閣向下拜,講:「你的奴僕算啥物,你哪會紲看一隻死的狗——親像我這款人?」",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "閣向下拜"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "紲看"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "彼隻狗"
+    },
+    {
+      "surface": "המת",
+      "gloss": "死的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "親像我"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:55.660382733Z",
+  "model": "glm-5.3"
+}

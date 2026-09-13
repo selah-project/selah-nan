@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 78:69",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊起造伊的聖所親像高處,親像地,伊建立伊到永遠。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "伊起造"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "高處"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "伊的聖所"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "親像地"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "伊建立伊"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:36.583323784Z",
+  "model": "glm-5.3"
+}

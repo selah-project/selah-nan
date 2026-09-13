@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "按呢,猶大佮耶路撒冷的素祭欲合雅威的意,親像古早的日,親像往過的年代。",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "欲合……的意"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "……的素祭"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "親像……的日"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "古早"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "親像……的年代"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "往過的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:20.686659623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "伊互𪜶徛在到永遠到永世;伊定一條界限,𪜶袂得越過。",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "伊互𪜶徛在"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永世"
+    },
+    {
+      "surface": "חק",
+      "gloss": "一條界限"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "伊定"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂得"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "越過"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:09.433985040Z",
+  "model": "glm-5.3"
+}

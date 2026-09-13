@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "死佮活⟨是⟩佇舌的手中;疼伊的人欲食伊的果子。",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "佮活"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…的手中"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "佮疼伊的人"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "伊的果子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:47.140790817Z",
+  "model": "glm-5.3"
+}

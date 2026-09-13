@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "破碎的頭前是驕傲,跋倒的頭前是高傲的氣。",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "…的頭前"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "破碎"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "閣…的頭前"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "跋倒"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "高傲"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:18.806650640Z",
+  "model": "glm-5.3"
+}

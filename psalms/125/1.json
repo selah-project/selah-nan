@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 125,
+  "translation": "上陞之歌。倚靠雅威的人親像錫安山,袂搖動,到永遠攏徛在。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "之歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上陞"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "倚靠……的人"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "親像山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "攏徛在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:41.078218791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "實在人徛佇幻影中間咧行,實在𪜶佇空虛哄哄嚷嚷;伊堆積,佮毋知啥物人欲收集𪜶。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "實在"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "徛佇幻影中間"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "咧行"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אך",
+      "gloss": "實在"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "哄哄嚷嚷"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "堆積"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "收集𪜶"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:18.460192816Z",
+  "model": "glm-5.3"
+}

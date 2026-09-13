@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "對以勒的氣息霜會降落,閣水的闊面會凝結。",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "對…的氣息"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會降落"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "霜"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "閣…的闊面"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "凝結"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:31.756083331Z",
+  "model": "glm-5.3"
+}

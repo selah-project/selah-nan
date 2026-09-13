@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "屬俄德⟨的⟩子亞撒利亞——以羅欣⟨的⟩神臨到伊身上。",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "亞撒利亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "俄德"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "神(氣息)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣⟨的⟩"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:38.675399454Z",
+  "model": "glm-5.3"
+}

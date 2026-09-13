@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 33:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "若摩西入去帳棚,雲柱就落落來,徛佇帳棚的門口,⟨伊⟩佮摩西講話。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "若…就"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "落落來"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "柱"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "雲"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "佮…講話"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:59.724345336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "佇祢的名內𪜶歡喜規個日,佇祢的公義𪜶𣛮高。",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "佇祢的名內"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "𪜶歡喜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "佮佇祢的公義"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "𪜶𣛮高"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:32.825384849Z",
+  "model": "glm-5.3"
+}

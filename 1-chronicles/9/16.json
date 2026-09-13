@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 9:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣有俄巴底亞,伊是示瑪雅的後生,示瑪雅是加拉的後生,加拉是耶杜頓的後生;閣有比利家,伊是亞撒的後生,亞撒是以利加拿的後生,伊徛佇拿托法的村社。",
+  "tokens": [
+    {
+      "surface": "ועבדיה",
+      "gloss": "閣有俄巴底亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "示瑪雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "加拉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "耶杜頓"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "閣有比利家"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "以利加拿"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בחצרי",
+      "gloss": "的村社"
+    },
+    {
+      "surface": "נטופתי",
+      "gloss": "拿托法的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:43.635724225Z",
+  "model": "glm-5.3"
+}

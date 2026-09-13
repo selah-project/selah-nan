@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 18:42",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "亞哈就上去欲食欲啉;以利亞上去迦密山頂,匍落土腳,共伊的面下佇跤庫中間。",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "就上去"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "佮欲啉"
+    },
+    {
+      "surface": "ואליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頂"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "迦密山"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "匍落"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "土腳"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "共……下"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "跤庫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:39.800745166Z",
+  "model": "glm-5.3"
+}

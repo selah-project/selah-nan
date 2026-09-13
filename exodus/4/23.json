@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我對你講:『放⟨את⟩我的子去,互伊服事我』;你毋肯放伊去;看啊,我欲刣⟨את⟩你的子,你的頭生子。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放…去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的子"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的子"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "互伊服事我"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "你毋肯"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "放伊去"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "刣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的子"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你的子"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "你的頭生子"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:37.474455234Z",
+  "model": "glm-5.3"
+}

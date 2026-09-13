@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "有才德的某,是𪜶翁的冕旒;獨見羞的,親像伊骨頭內的腐爛。",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "才德"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "冕旒"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "𪜶翁"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "親像腐爛"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "伊骨頭內"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "見羞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:15.645643221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 24:3",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "實在,照雅威的嘴,這事臨到猶大,欲對伊的面除掉𪜶,因為瑪拿西的罪,照伊所行的一切。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "實在"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "פי",
+      "gloss": "…的嘴"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "欲除掉"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "בחטאת",
+      "gloss": "因為…的罪"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "伊所行的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:17.312544167Z",
+  "model": "glm-5.3"
+}

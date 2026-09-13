@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "你講(這干焦是喙唇的話罷矣)——策略佮氣力是為著相戰;今,你倚靠啥人,才敢背叛我?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "你講"
+    },
+    {
+      "surface": "אך",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "喙唇个"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "策略"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "佮氣力"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "為著相戰"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "על",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "你倚靠"
+    },
+    {
+      "surface": "כי",
+      "gloss": "才敢"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "你背叛"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:12.136033099Z",
+  "model": "glm-5.3"
+}

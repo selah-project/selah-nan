@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "毋拘𪜶過去,猶是你——雅威——永遠徛起,你的紀念到一代閣一代。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "猶是你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "徛在\/坐寶座"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "你的紀念"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "到一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:35.353009612Z",
+  "model": "glm-5.3"
+}

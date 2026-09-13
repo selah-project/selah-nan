@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我就安置佇下底的所在,佇牆後面,佇露天的地方;我閣安置⟨את⟩眾人照𪜶的家族,𪜶的刀、𪜶的槍、佮𪜶的弓攏佇𪜶手裡。",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "我就安置"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "佇下底的所在"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "佇…的所在"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "…後面"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "牆"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "佇露天的地方"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "我閣安置"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾人"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "עם",
+      "gloss": "攜帶"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "𪜶的刀"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "𪜶的槍"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "佮𪜶的弓"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:19.524503358Z",
+  "model": "glm-5.3"
+}

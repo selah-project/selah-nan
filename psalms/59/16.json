@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "𪜶為著揣食物遊走,若毋曾食飽,就過暝埋怨。",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "𪜶(強調)"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "遊走"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "為著揣食物"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "食飽"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "就過暝埋怨"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:11.044833574Z",
+  "model": "glm-5.3"
+}

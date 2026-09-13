@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "毋拘阮的百姓無欲聽我的聲,以色列嘛無肯順我。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋拘…無"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "阮的百姓"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "肯"
+    },
+    {
+      "surface": "לי",
+      "gloss": "順我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:07.244035335Z",
+  "model": "glm-5.3"
+}

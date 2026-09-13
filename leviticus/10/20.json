@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "摩西聽見,就佇伊目睭內看做好。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "伊聽見"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "就看做好"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊目睭內"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:10.507117079Z",
+  "model": "glm-5.3"
+}

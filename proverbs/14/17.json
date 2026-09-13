@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "短性(鼻空)的人做戇事,設計謀的人予人怨恨。",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "短性"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "鼻空(怒氣)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "戇事"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮(彼个)人"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "設計謀"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "予人怨恨"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:39.983782881Z",
+  "model": "glm-5.3"
+}

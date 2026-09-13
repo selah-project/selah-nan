@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "「恁對這個會眾中間起來閃開,我欲一下仔滅掉⟨את⟩𪜶。」𪜶就仆落𪜶的面。",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "起來閃開"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "這個會眾"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這個"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "我欲滅掉"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "一下仔"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "𪜶就仆落"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "𪜶的面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:58:53.710289141Z",
+  "model": "glm-5.3"
+}

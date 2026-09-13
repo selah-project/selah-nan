@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "摩西佮亞倫就攑面仆落去,仆佇以色列仔的會眾、全會的聚集面前。",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "就仆落去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "על",
+      "gloss": "仆佇……頂面"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "𪜶的面"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "……面前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:47.023980869Z",
+  "model": "glm-5.3"
+}

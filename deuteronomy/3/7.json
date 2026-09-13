@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "獨獨一切的牲畜佮諸個城的掠物,阮家己提起來。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "獨獨一切的"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "佮…掠物"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "諸個城的"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "阮提起來"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮家己"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:27.835256939Z",
+  "model": "glm-5.3"
+}

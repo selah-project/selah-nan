@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "你看,這陣我已經開我的喙,我的舌佇我喙腔內講話。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "נא",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "我已經開"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "講話"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的舌"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "佇我喙腔內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:05.476288883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "對彼个喝的聲,門斗的門箍震動,殿就充滿煙。",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "震動"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "門箍"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "門斗的"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "彼个喝的"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:38.952709731Z",
+  "model": "glm-5.3"
+}

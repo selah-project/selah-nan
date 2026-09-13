@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "以羅欣啊,佇聖中⟨是⟩你的道路;啥物以勒大親像以羅欣?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇聖中"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的道路"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "親像以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:01.581149714Z",
+  "model": "glm-5.3"
+}

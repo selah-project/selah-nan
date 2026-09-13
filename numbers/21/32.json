@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "摩西就差人去探雅謝 ⟨את⟩,𪜶攻取伊的莊頭,閣趕出佇遐的亞摩利人 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "就差人"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "去探"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅謝"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "雅謝"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "𪜶攻取"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "伊的莊頭"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "閣趕出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞摩利人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:55.439086832Z",
+  "model": "glm-5.3"
+}

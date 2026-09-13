@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊閣將⟨את⟩彼個海安置佇正手爿的肩頭,向東邊,對南面。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼個海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "彼個海"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "安置"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "對...肩頭"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "正手爿的"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "向東邊"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "對面"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "南面"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:38.274192940Z",
+  "model": "glm-5.3"
+}

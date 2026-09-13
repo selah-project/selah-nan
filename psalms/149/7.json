@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "欲行報復佇列國中,施行責罰佇萬民身上,",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "欲行"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "報復"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "責罰"
+    },
+    {
+      "surface": "בל",
+      "gloss": "佇…身上"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "萬民"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:54.976664586Z",
+  "model": "glm-5.3"
+}

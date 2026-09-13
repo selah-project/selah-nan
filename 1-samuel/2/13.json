@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "眾祭司對⟨את⟩眾百姓的規矩是按呢:見若有人獻祭,祭司的少年人仔就來,佇肉咧滾的時,手裡攑三齒的肉叉。",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "規矩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "眾祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "איש",
+      "gloss": "有人"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "獻"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "就來"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年人仔"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司的"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "咧滾的時"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "佮彼支肉叉"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "齒"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊手裡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:46.835513076Z",
+  "model": "glm-5.3"
+}

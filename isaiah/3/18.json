@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇彼个日,阿多奈欲提走⟨את⟩會響的踝鍊彼款榮飾,佮頭網仔,佮月形墜仔。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇彼个日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "欲提走"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會響的踝鍊彼款榮飾"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "榮飾"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "會響的踝鍊"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "頭網仔"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "月形墜仔"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:15.808993309Z",
+  "model": "glm-5.3"
+}

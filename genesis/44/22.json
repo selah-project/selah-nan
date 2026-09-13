@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "阮就對阿多奈講:「彼个少年仔袂當離開⟨את⟩伊的老父;若是伊離開⟨את⟩伊的老父,老父就會死。」",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "阮就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "能夠"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼个少年仔"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "離開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的老父"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "若是離開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的老父"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的老父"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "就會死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:02.217170651Z",
+  "model": "glm-5.3"
+}

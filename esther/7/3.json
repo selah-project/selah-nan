@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以斯帖王后應講:「我若佇王——王啊——的面頭前得著恩典,抑是若合王的意,願佇我的請求,我的性命會賞互我;佇我的心願,我的百姓。」",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "應"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王后"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "我得著"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩典"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "佇你的目睭"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "抑是若"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "會賞"
+    },
+    {
+      "surface": "לי",
+      "gloss": "互我"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "佇我的請求"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "佮我的百姓"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "佇我的心願"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:50.925533904Z",
+  "model": "glm-5.3"
+}

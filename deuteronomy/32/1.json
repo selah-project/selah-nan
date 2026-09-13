@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "側耳聽啊,諸天,我就欲講;願地聽我喙裡的話。",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "側耳聽"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "我就欲講"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "願伊聽"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "話"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:10.554780567Z",
+  "model": "glm-5.3"
+}

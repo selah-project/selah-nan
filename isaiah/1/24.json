@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所以,阿多奈雅威采巴奧特(萬軍)、以色列的大能力者有講:啊,我欲對我的對敵得安慰,我欲對我的仇敵報仇。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "有講"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "大能力者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "啊"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "我欲得安慰"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "對我的對敵"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "我欲報仇"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "對我的仇敵"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:03.397736145Z",
+  "model": "glm-5.3"
+}

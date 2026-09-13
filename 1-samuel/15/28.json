@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "撒母耳對伊講:「雅威今仔日已經將⟨את⟩以色列的王國對你頂面撕裂,交互你隔壁彼个較好的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "……講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "撕裂"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的王國"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "對你頂面"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "已經交互"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "你的隔壁"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "較好的"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "比你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:29.499770051Z",
+  "model": "glm-5.3"
+}

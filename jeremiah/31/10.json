@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 31:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "列國啊,恁著聽雅威的話,閣著佇遠遠的海島報揚,講:撒分散以色列的,伊欲收聚伊,閣欲看守伊,親像牧者看守伊的羊群。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國啊"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "閣著報揚"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "佇海島"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "撒分散"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יקבצנו",
+      "gloss": "伊欲收聚伊"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "閣看守"
+    },
+    {
+      "surface": "כרעה",
+      "gloss": "親像牧者"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "伊的羊群"
+    }
+  ],
+  "timestamp": "2026-09-12T03:56:58.798793462Z",
+  "model": "glm-5.3"
+}

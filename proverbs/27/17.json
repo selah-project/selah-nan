@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "鐵對鐵會磨利,按呢一個人嘛磨利伊同伴的面。",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "對鐵"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "會磨利"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "按呢一個人嘛"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "磨利"
+    },
+    {
+      "surface": "פני",
+      "gloss": "的面"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊同伴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:44.835161324Z",
+  "model": "glm-5.3"
+}

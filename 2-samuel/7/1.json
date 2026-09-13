@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "後來發生一个代誌:王坐佇伊的家,雅威四周圍予伊安息,脫離伊一切的對敵。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來發生"
+    },
+    {
+      "surface": "כי",
+      "gloss": "當…的時陣"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊的家"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "予…安息"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四周圍"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "伊的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:21.384280059Z",
+  "model": "glm-5.3"
+}

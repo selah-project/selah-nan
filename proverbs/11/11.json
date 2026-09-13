@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "對正直的人的祝福,城會得高升;總是用歹人的喙,伊會予人拆毀。",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "對…的祝福"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直的人"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "會得高升"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "城"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "總是用…的喙"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "會予人拆毀"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:44.787670845Z",
+  "model": "glm-5.3"
+}

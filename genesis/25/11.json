@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "亞伯拉罕死了了了後，以羅欣賜福伊的後生以撒 ⟨את⟩；以撒就徛起佇別是巴拉海羅伊井遐。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…發生"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以撒"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佇…遐"
+    },
+    {
+      "surface": "באר",
+      "gloss": "井"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "拉海"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "羅伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:28.305021639Z",
+  "model": "glm-5.3"
+}

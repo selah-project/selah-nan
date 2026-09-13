@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 21:14",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "看啊,雅威欲用大瘟疫擊打你的百姓,閣擊打你的子兒、你的某、佮你一切的財產。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "擊打"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "瘟疫"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "佇你的百姓"
+    },
+    {
+      "surface": "ובבניך",
+      "gloss": "閣佇你的子兒"
+    },
+    {
+      "surface": "ובנשיך",
+      "gloss": "閣佇你的某"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "閣佇一切"
+    },
+    {
+      "surface": "רכושך",
+      "gloss": "你的財產"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:05.695663782Z",
+  "model": "glm-5.3"
+}

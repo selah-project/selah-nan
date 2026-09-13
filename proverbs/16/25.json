@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "有一條路佇人面前看做正直,毋拘伊的路尾是死亡的路。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "一條路"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "看做正直"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "毋拘伊的路尾"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "…的路"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:52.917895231Z",
+  "model": "glm-5.3"
+}

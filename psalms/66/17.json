@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "我用喙向伊呼叫,尊崇⟨的話⟩就徛佇我的舌下。",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我呼叫"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "佮尊崇"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……下"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的舌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:29.439193118Z",
+  "model": "glm-5.3"
+}

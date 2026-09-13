@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以法蓮的頭是撒瑪利亞，撒瑪利亞的頭是利瑪利的子；恁若毋信，就的確袂穩固。",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "佮…的頭"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "佮…的頭"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "利瑪利亞"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "信"
+    },
+    {
+      "surface": "כי",
+      "gloss": "的確"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "袂穩固"
+    }
+  ],
+  "timestamp": "2026-09-13T04:36:40.446247391Z",
+  "model": "glm-5.3"
+}

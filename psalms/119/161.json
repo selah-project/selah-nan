@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "官長無緣故迫害我,獨獨你的話予我的心敬畏。",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "官長"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "迫害我"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無緣故"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "獨獨你的話"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:40.531729475Z",
+  "model": "glm-5.3"
+}

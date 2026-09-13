@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威恁的以羅欣已經互⟨את⟩恁增濟,看啊,恁今仔日親像天裡的星遐爾濟。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "已經互恁增濟"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "看啊,恁"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "親像…的星"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "遐爾濟"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:35.522951701Z",
+  "model": "glm-5.3"
+}

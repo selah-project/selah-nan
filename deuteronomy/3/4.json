@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼時咱攻落⟨את⟩伊全部的城;無一個城是咱無對⟨את⟩𪜶提來的 —— 六十個城,就是亞珥歌伯全區域,噩佇巴珊的王國。",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "咱攻落"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊全部的城"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "伊的城"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "有"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "城"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "咱提來"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "對⟨את⟩𪜶"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "個城"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "區域"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "亞珥歌伯"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "王國"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "噩"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "佇巴珊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:00.805562684Z",
+  "model": "glm-5.3"
+}

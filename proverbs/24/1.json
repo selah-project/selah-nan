@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "毋通嫉妒歹人,嘛毋通渴望欲佮⟨את⟩𪜶做伙。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "嫉妒"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "渴望"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "欲"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:02.773561897Z",
+  "model": "glm-5.3"
+}

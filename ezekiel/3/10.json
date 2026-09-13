@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊對我講:人子啊,我對你講的一切話,你著囥⟨את⟩佇心內,用你的耳仔聽。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊對我講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בן",
+      "gloss": "……的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "קח",
+      "gloss": "你著囥"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "佇心內"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "用你的耳仔"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    }
+  ],
+  "timestamp": "2026-09-12T04:08:58.276321309Z",
+  "model": "glm-5.3"
+}

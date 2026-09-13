@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 1:35",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "恁就隨伊上來,伊入來坐佇我的座位,伊欲代我做王;我已經命令⟨את⟩伊做以色列佮猶大的首領。」",
+  "tokens": [
+    {
+      "surface": "ועליתם",
+      "gloss": "恁就…上來"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "隨伊"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "伊入來"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "我的座位"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "欲…做王"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "代我"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(所羅門)"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我已經命令"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "做"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "首領"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮治理"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:33.426764424Z",
+  "model": "glm-5.3"
+}

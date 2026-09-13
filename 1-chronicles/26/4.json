@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "佮俄別以東有眾子:示瑪雅頭胎,耶何撒拔第二,約亞第三,撒割第四,拿坦業第五。",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "佮俄別"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "以東"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "有眾子"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "示瑪雅"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "頭胎"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "耶何撒拔"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "約亞"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "撒割"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "第四"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "拿坦業"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "第五"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:45.307859807Z",
+  "model": "glm-5.3"
+}

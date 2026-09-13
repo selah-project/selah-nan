@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "以色列的子孫就除掉⟨את⟩諸巴力佮⟨את⟩亞斯她錄,獨獨事奉⟨את⟩雅威。",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "除掉"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸巴力"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "諸巴力"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞斯她錄"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "亞斯她錄"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "事奉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "獨獨"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:21.068273936Z",
+  "model": "glm-5.3"
+}

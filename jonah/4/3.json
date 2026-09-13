@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "這馬,雅威啊,請你共⟨את⟩我的性命對我身上提去,因為我的死比我的活較好。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這馬"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קח",
+      "gloss": "提去"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的性命"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我身上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "較好"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "我的死"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "我的活"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:21.126633654Z",
+  "model": "glm-5.3"
+}

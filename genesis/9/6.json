@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "見若流人的血的,佇人的手中伊的血欲予人流;因為以羅欣照伊的像造⟨את⟩人。",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "流……的"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "佇人的手中"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "欲予人流"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "照……的像"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:08.310703256Z",
+  "model": "glm-5.3"
+}

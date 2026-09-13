@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣愛分別聖的佮俗的,無清氣的佮清氣的,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "閣愛分別"
+    },
+    {
+      "surface": "בין",
+      "gloss": "之間"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "החל",
+      "gloss": "俗的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "無清氣的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "清氣的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:17.582911457Z",
+  "model": "glm-5.3"
+}

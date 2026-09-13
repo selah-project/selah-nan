@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "𪜶欲入去相會的帳棚,抑是欲倚近壇的時,就洗軀體,照雅威命令⟨את⟩摩西的。",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "𪜶入去…的時"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相會"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "𪜶倚近…的時"
+    },
+    {
+      "surface": "אל",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "壇"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "就洗"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:01.527473325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "王的少年奴僕就對伊講:「看啊,哈曼徛佇庭院。」王就講:「予伊入來。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "就講"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "少年奴僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "佇庭院"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "予伊入來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:42.579104659Z",
+  "model": "glm-5.3"
+}

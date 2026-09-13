@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "恁毋通試 ⟨את⟩ 雅威、恁的以羅欣,親像恁佇瑪撒試按呢。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "恁試"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "恁試"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "佇瑪撒"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:14.284497611Z",
+  "model": "glm-5.3"
+}

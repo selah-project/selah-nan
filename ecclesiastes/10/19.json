@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "為著笑鬧,人備辦食物;酒會使活人歡喜;閣銀仔應答⟨את⟩一切。",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "為著笑鬧"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "人備辦"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "食物"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "閣酒"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "會使歡喜"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "閣彼个銀仔"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "應答"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "一切"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:13.185362327Z",
+  "model": "glm-5.3"
+}

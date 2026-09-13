@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "一陣風對我的面頭前經過,我的肉的毛攏豎起來。",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "一陣風"
+    },
+    {
+      "surface": "על",
+      "gloss": "對…頂面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "經過"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "豎起來"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "…的毛"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:16.155986838Z",
+  "model": "glm-5.3"
+}

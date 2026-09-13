@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "關係這个,恁著講予恁的後生子聽;恁的後生子閣講予𪜶的後生子聽;𪜶的後生子閣講予後一個世代聽。",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "關係這个"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "予恁的後生子"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "恁著講…聽"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "恁的後生子"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "予𪜶的後生子"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "𪜶的後生子"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "予…世代"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "後一個"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:17.187245269Z",
+  "model": "glm-5.3"
+}

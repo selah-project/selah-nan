@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威日豈毋是烏暗,毋是光?是幽暗,無光焰佇伊?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "幽暗"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "光焰"
+    },
+    {
+      "surface": "לו",
+      "gloss": "佇伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:02.854023888Z",
+  "model": "glm-5.3"
+}

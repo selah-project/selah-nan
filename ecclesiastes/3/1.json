@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "萬項物攏有伊的時期,閣天下逐項所疼愛的代誌攏有伊的時陣:",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "逐項"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "時期"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "閣……時陣"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "逐項"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "所疼愛的代誌"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "底下"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天下"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:11.247459272Z",
+  "model": "glm-5.3"
+}

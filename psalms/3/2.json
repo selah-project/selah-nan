@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威啊,我的對敵偌濟啊!濟濟人起來攻擊我。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌濟啊"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "增加到偌濟"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "濟濟人"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "起來"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "攻擊我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:03.646302087Z",
+  "model": "glm-5.3"
+}

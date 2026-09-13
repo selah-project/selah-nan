@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "因為伊的手毛茸茸,親像伊阿兄以掃的手,以撒就認𪜶毋出來;閣伊就祝福伊。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "認𪜶出來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "親像…的手"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊阿兄"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "毛茸茸"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "伊就祝福伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:39.033761639Z",
+  "model": "glm-5.3"
+}

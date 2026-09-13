@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "以羅欣佇第七日完成伊的工,就是伊所做的;第七日伊安息,脫離伊一切的工,就是伊所做的。",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "完成"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "伊的工"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "伊安息"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "脫離一切的"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "伊的工"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:56.137417581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "因為日時佮暗暝,你的手重沉重佇我身上,我的精力變做親像夏天的焦旱。細拉。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暗暝"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "重沉重"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我身上"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "變做"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "我的精力"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "親像焦旱"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "夏天"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:40.108728734Z",
+  "model": "glm-5.3"
+}

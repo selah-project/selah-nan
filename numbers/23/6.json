@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊就倒轉去到伊遐,看啊,伊徛佇伊的燒祭邊──伊佮摩押攏總的頭人。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遐"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "伊的燒祭"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:17.355380670Z",
+  "model": "glm-5.3"
+}

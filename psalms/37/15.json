@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "𪜶的刀會插入𪜶的心肝,𪜶的弓會予人拍斷。",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "𪜶的刀"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "會插入"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "𪜶的心肝"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "𪜶的弓"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "會予人拍斷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:59.721761560Z",
+  "model": "glm-5.3"
+}

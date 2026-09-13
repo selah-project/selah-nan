@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊對彼中間灑佇祭壇頂七擺,閣膏⟨את⟩祭壇佮⟨את⟩伊一切的器具,佮⟨את⟩洗的盆佮⟨את⟩伊的座,來互𪜶成做聖。",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "灑"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對彼中間"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "擺"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "閣膏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的器具"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "洗的盆"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗的盆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的座"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "伊的座"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "來互𪜶成做聖"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:45.921097288Z",
+  "model": "glm-5.3"
+}

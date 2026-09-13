@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣用⟨את⟩山羊仔囝的皮,包佇伊的手,佮伊的脖頸光滑的所在。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣用⟨את⟩",
+      "marks": "山羊仔囝的皮"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "的皮"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "仔囝"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "伊包"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "光滑的"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "伊的脖頸"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:20.845426188Z",
+  "model": "glm-5.3"
+}

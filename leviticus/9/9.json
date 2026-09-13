@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "亞倫的囝將⟨את⟩彼个血捧到伊面前,伊用指頭仔蘸血,點佇祭壇的四个角,閣將⟨את⟩賰的血漓佇祭壇的崁底。",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "捧到"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "彼个血"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊面前"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "蘸"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "伊的指頭仔"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "點佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "四个角"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼个血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "彼个血"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "漓"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "崁底"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:43.338193130Z",
+  "model": "glm-5.3"
+}

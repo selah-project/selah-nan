@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威欲承受⟨את⟩猶大做伊的家業,佇聖潔的土地頂面,閣再揀選耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "欲承受做家業"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "伊的家業"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "土地"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖潔的"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "閣再揀選"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:32.115128542Z",
+  "model": "glm-5.3"
+}

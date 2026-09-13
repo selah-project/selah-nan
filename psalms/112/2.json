@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 112,
+  "translation": "伊的後代佇地上欲做大勇士;正直人的世代欲得著福氣。",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "大勇士"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "伊的後代"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "欲得著福氣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:51.266915549Z",
+  "model": "glm-5.3"
+}

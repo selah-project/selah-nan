@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "你欲佇胸牌頂面做兩个金環,閣共⟨את⟩彼兩个環下佇胸牌的兩个邊頭。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "个環"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "閣……下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼兩个環"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "个環"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "个邊頭"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:28.449806898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "有一个囝仔對亞希米勒 — 伊是亞希突的囝 — 走脫出來,伊的名叫亞比亞他,伊走去投靠大衛。",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "走脫出來"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "亞希米勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "亞希突"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "走去"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "投靠"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-13T08:15:04.254372869Z",
+  "model": "glm-5.3"
+}

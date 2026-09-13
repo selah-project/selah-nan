@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 76,
+  "translation": "互指揮的,用絃琴;亞薩的一首詩,一首歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮的"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "用絃琴"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "一首詩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.022110479Z",
+  "model": "glm-5.3"
+}

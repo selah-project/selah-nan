@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 6:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣我,看啊,我欲帶 ⟨את⟩ 洪水——水——落來地面,欲毀滅一切佇伊內底有活命之氣的肉體,佇天下面的;一切佇地裡的攏會斷氣。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "我欲帶來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洪水"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "洪水"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "על",
+      "gloss": "落來…頂面"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "欲毀滅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼…的"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "氣"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "佇…下面"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼…的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地裡"
+    },
+    {
+      "surface": "יגוע",
+      "gloss": "攏會斷氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:51.609936592Z",
+  "model": "glm-5.3"
+}

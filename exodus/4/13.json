@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊講:「啊,阿多奈,請你差遣,用手差你所欲差遣的。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "בי",
+      "gloss": "啊"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "請差遣"
+    },
+    {
+      "surface": "נא",
+      "gloss": "求你"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "你所欲差遣的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:54.566333361Z",
+  "model": "glm-5.3"
+}

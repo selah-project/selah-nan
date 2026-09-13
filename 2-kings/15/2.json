@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 15:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "伊做起王的時十六歲,佇耶路撒冷做王五十二年;伊老母的名是耶可利雅,對耶路撒冷來。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歲"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "佇伊做王"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "閣二"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "閣…名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    },
+    {
+      "surface": "יכליהו",
+      "gloss": "耶可利雅"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:21.168666058Z",
+  "model": "glm-5.3"
+}

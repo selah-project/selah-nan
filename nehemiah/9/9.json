@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "祢看見⟨את⟩阮祖先佇米茲拉因的苦楚,閣聽見⟨את⟩𪜶佇蘇芙海邊的哀叫。",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "祢看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮祖先的苦楚"
+    },
+    {
+      "surface": "עני",
+      "gloss": "苦楚"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "阮祖先"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇米茲拉因"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "𪜶的哀叫"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "𪜶的哀叫"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "祢聽見"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘇芙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:16.743067801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣佮恁仝款⟨את⟩著有一个人一个，逐支派，一个人做𪜶祖公之家的頭——就是彼个人。",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "閣佮恁⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "著有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "逐支派"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "做…的家"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "𪜶的祖公"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是彼个人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:07.814285770Z",
+  "model": "glm-5.3"
+}

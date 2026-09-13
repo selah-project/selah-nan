@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "ezra 2:70",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "祭司佮利未人,以及對百姓中間來的、唱歌的、守門的、佮尼提寧人,徛起佇𪜶的城;以色列眾人嘛徛起佇𪜶的城。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "𪜶徛起"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "以及對…中間來的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "唱歌的"
+    },
+    {
+      "surface": "והשוערים",
+      "gloss": "守門的"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "佮尼提寧人"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "佇𪜶的城"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "…眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "嘛徛起佇𪜶的城"
+    }
+  ],
+  "timestamp": "2026-09-12T05:49:19.309893520Z",
+  "model": "glm-5.3"
+}

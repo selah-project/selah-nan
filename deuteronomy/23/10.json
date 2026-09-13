@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你若出營去攻擊你的仇敵,就當謹慎遠離一切惡事。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "你…出去"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的仇敵"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "就當謹慎"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "遠離一切"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "事"
+    },
+    {
+      "surface": "רע",
+      "gloss": "惡"
+    }
+  ],
+  "timestamp": "2026-09-13T04:31:20.093464051Z",
+  "model": "glm-5.3"
+}

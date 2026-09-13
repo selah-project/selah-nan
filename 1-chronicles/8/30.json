@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊的頭生子押頓,閣有蘇珥、基施、巴力,佮拿達。",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "押頓"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "閣有蘇珥"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "基施"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "佮拿達"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:54.732449991Z",
+  "model": "glm-5.3"
+}

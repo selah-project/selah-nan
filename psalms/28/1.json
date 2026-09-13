@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "大衛的。雅威啊,我向你哀叫;我的磐石啊,你毋通對我靜默,免得你對我閉口無應,我就變做佮彼个落坑的人相像。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我哀叫"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "靜默"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "閉口無應"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "我就變做…相像"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "落去…的人"
+    },
+    {
+      "surface": "בור",
+      "gloss": "坑"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:41.907201353Z",
+  "model": "glm-5.3"
+}

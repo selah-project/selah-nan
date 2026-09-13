@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以色列人卡哈特宗族逐個父親家族的頭人是伊莉薩反,烏薛的兒子。",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "頭人是"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אב",
+      "gloss": "父親"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "逐個……的家族"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "卡哈特(哥轄)的"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "伊莉薩反"
+    },
+    {
+      "surface": "בן",
+      "gloss": "兒子"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "烏薛"
+    }
+  ],
+  "timestamp": "2026-09-13T06:23:58.834433108Z",
+  "model": "glm-5.3"
+}

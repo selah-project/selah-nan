@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 44:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "恁敢𣍐記得⟨את⟩恁列祖的歹,佮⟨את⟩猶大諸王的歹,佮⟨את⟩𪜶某的歹,佮⟨את⟩恁本身的歹,佮⟨את⟩恁某的歹,就是𪜶佇猶大地佮耶路撒冷的街路所做的?",
+  "tokens": [
+    {
+      "surface": "השכחתם",
+      "gloss": "恁敢𣍐記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁列祖的歹"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "歹"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "恁列祖"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "猶大諸王的歹"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶某的歹"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "歹"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "𪜶某"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "恁本身的歹"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "恁本身的歹"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "恁某的歹"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "歹"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "恁某"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "佮…的街路"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:03:29.335443253Z",
+  "model": "glm-5.3"
+}

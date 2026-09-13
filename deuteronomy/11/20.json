@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "你嘛著寫伊佇你的厝的門框頂,佮你的城門頂。",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "你嘛著寫伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "門框"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "你的厝"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "佮你的城門"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:31.002609306Z",
+  "model": "glm-5.3"
+}

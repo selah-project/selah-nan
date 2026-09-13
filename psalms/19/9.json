@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "雅威的律例是正直的,互心歡喜;雅威的誡命⟨是⟩清潔的,互目睭放光。",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "律例"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直的"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "互…歡喜"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "清潔的"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "互…放光"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:36.530192050Z",
+  "model": "glm-5.3"
+}

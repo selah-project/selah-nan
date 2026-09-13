@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣,對雅各的大腿出來的活人攏總七十個;約瑟已經佇米茲拉因(埃及)。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣(發生)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "活人"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "出來的"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "大腿"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七十"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "個(活人)"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "閣約瑟"
+    },
+    {
+      "surface": "היה",
+      "gloss": "已經佇"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "米茲拉因(埃及)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:13.638543970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "⟨את⟩ 這个恁會當食,對一切佇水中的:見若有鰭佮鱗佇水裡,佇海裡佮佇溪裡的,⟨את⟩ 𪜶恁會當食。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水中"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "有"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "鰭"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "佮鱗"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水裡"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "佇海裡"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "佮佇溪裡"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:08.742244305Z",
+  "model": "glm-5.3"
+}

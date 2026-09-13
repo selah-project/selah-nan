@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 124,
+  "translation": "雅威是當受謳咾的,伊無將阮做𪜶喙齒的掠物。",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "當受謳咾的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "將阮做"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "掠物"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "𪜶喙齒的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:45.102085143Z",
+  "model": "glm-5.3"
+}

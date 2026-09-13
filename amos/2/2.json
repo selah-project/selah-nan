@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 2:2",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我欲差火落去米茲拉因隔壁的摩押,伊欲吞食加略的宮殿;摩押欲佇喧嘩中間死,佇吶喊、佇號角的聲中間。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲差"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "落去摩押"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "伊欲吞食"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "הקריות",
+      "gloss": "加略的"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "死"
+    },
+    {
+      "surface": "בשאון",
+      "gloss": "佇喧嘩中間"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "佇吶喊"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "佇…的聲中間"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "號角"
+    }
+  ],
+  "timestamp": "2026-09-13T04:50:22.937005960Z",
+  "model": "glm-5.3"
+}

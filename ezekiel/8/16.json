@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 8:16",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊帶 ⟨את⟩ 我入雅威的殿的內院,看啊,佇雅威殿的門口,佇走廊佮祭壇中間,約莫有二十五個人,𪜶的背向雅威的殿,𪜶的面向東,𪜶向東咧跪拜日頭。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "伊帶"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "內"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "走廊"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "כעשרים",
+      "gloss": "約二十"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "閣五"
+    },
+    {
+      "surface": "איש",
+      "gloss": "個人"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "𪜶的背向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "𪜶的面"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "向東"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "משתחויתם",
+      "gloss": "咧跪拜"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "向東"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:10:42.695471741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣恁欲做我的祭司國度,做聖潔的國族。這些話,就是恁著對以色列的子孫講的。",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "閣恁"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "國度"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "閣國族"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖潔的"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "恁著講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:33.735516522Z",
+  "model": "glm-5.3"
+}

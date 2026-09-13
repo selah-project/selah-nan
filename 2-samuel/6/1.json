@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "大衛閣再聚集 ⟨את⟩ 以色列所有揀選出來的少年人,共計三十千名。",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "閣再聚集"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列所有揀選出來的少年人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "揀選出來的少年人"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:19.197090261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 7:15",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "閣帶白銀佮黃金,就是王佮伊的謀士甘願獻互以色列的以拉的 —— 伊的居所佇耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ולהיבלה",
+      "gloss": "閣帶"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "白銀"
+    },
+    {
+      "surface": "ודהב",
+      "gloss": "佮黃金"
+    },
+    {
+      "surface": "די",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויעטוהי",
+      "gloss": "佮伊的謀士"
+    },
+    {
+      "surface": "התנדבו",
+      "gloss": "甘願獻"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "互以拉"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    },
+    {
+      "surface": "די",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "משכנה",
+      "gloss": "伊的居所"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:42.221005226Z",
+  "model": "glm-5.3"
+}

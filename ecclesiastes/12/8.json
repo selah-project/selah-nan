@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "空虛的空虛,傳道者講:攏總是空虛。",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "的空虛"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "傳道者"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "是空虛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:58.491879583Z",
+  "model": "glm-5.3"
+}

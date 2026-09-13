@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "著唱歌予伊,著用琴聲謳咾伊;著講論伊一切的奇妙。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "著唱歌"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "謳咾"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "著講論"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "伊的奇妙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:06.971695348Z",
+  "model": "glm-5.3"
+}

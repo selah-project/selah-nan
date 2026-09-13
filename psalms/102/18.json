@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "伊越頭看孤單無倚靠的人的祈禱,無看無⟨את⟩𪜶的祈禱。",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "越頭看"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "……的祈禱"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "孤單無倚靠的人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "看無"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的祈禱"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "𪜶的祈禱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:47.580612227Z",
+  "model": "glm-5.3"
+}

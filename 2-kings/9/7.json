@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "你欲擊打你主人亞哈的⟨את⟩家,我欲報申我的奴僕先知們的血,佮雅威一切奴僕的血,對耶洗別的手。",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "你欲擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你主人亞哈的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "你的主人"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "我欲報申"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "血"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "先知們"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "佮……的血"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對……的手"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "耶洗別"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:13.191086081Z",
+  "model": "glm-5.3"
+}

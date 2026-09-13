@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "(屬)所羅門的。以羅欣啊,將你的判斷互王,閣將你的公義互王的仔。",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "屬所羅門的"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判斷"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "互王"
+    },
+    {
+      "surface": "תן",
+      "gloss": "互"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "閣你的公義"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "互……的仔"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:17.221162995Z",
+  "model": "glm-5.3"
+}

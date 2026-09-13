@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "當疼⟨את⟩雅威,伊逐個敬虔人!雅威看守誠實的人,閣對行驕傲的人充充足足報應。",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "當疼"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "伊的敬虔人"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "誠實的人"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "閣報應"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "充充足足"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "驕傲"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:03.073296222Z",
+  "model": "glm-5.3"
+}

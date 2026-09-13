@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "你清除地面佇伊面前,伊就深深扎根,伊的根仔生滿遍地。",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "你清除"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "伊就扎根"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "伊的根仔"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "閣生滿滿"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "遍地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:05.389906640Z",
+  "model": "glm-5.3"
+}

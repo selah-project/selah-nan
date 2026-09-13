@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 98,
+  "translation": "全地著出大聲呼喝予雅威,著爆開喉嗓歡喜,出聲唱歌!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "著出大聲呼喝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "著爆開喉嗓"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "佮歡喜出聲"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "佮唱歌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:02.457870859Z",
+  "model": "glm-5.3"
+}

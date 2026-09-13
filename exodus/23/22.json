@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.3",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "若是你的確聽伊的聲,閣行我所講的一切,我就欲做你敵對者的敵對者,閣壓制你的壓制者⟨את⟩你的敵對者,閣欲抵拒⟨את⟩抵拒你的。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "אם",
+      "gloss": "的確"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "你聽"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "我就做敵對者"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的敵對者"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "你的敵對者"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "閣欲抵拒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "抵拒你的"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "抵拒你的"
+    }
+  ],
+  "timestamp": "2026-09-13T06:54:08.677195948Z",
+  "model": "glm-5.3"
+}

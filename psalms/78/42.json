@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶無記得⟨伊的⟩手 ⟨את⟩彼日伊救贖𪜶脫離對敵。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼日"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "יום",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "當……的時陣"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "救贖𪜶"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對……脫離"
+    },
+    {
+      "surface": "צר",
+      "gloss": "對敵"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:04.895132753Z",
+  "model": "glm-5.3"
+}

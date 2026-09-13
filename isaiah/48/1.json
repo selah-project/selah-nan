@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "恁著聽這个,雅各的厝,互人用以色列的名叫的,對猶大的水出來的,奉雅威的名咒誓的,嘛會提起以色列的以羅欣——毋是照真實,嘛毋是照公義。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "בית",
+      "gloss": "的厝"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "互人叫的"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "用…的名"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "對…的水"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出來的"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "咒誓的"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "奉…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "嘛…的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "會提起"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "照真實"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋是"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "照公義"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:52.921201135Z",
+  "model": "glm-5.3"
+}

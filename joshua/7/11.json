@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "「以色列犯罪矣,閣𪜶違背⟨את⟩我的約,就是我所命令⟨את⟩𪜶的;閣𪜶對當滅之物(赫冷)有提,閣偷提,閣否認,閣下佇𪜶的家私內底。",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "違背"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "我所命令"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(所命令的對象)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "提"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "當滅之物"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "偷提"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "否認"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "下"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "佇𪜶的家私內底"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:03.240739781Z",
+  "model": "glm-5.3"
+}

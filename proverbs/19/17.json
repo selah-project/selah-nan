@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "借予雅威的,就是施恩惠予散赤人的;伊的報賞,雅威會報還予伊。",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "借予"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "施恩惠予"
+    },
+    {
+      "surface": "דל",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "伊的報賞"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "會報還"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:40.584925721Z",
+  "model": "glm-5.3"
+}

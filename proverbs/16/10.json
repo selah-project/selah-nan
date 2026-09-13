@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "神讖佇王的嘴脣;佇判斷,伊的喙毋通背叛。",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "神讖"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "嘴脣"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "佇判斷"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "背叛"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "伊的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:39.427689249Z",
+  "model": "glm-5.3"
+}

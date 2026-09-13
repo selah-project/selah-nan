@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我閣我的心踅來踅去,欲知、欲揣、欲尋智慧佮算計,欲知歹⟨是⟩虛妄,愚戇⟨是⟩瘋癲。",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "我踅來踅去"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "佮我的心"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "欲知"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "欲揣"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "欲尋"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "佮算計"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "欲知"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "虛妄"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "佮愚戇"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "瘋癲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:41.955975339Z",
+  "model": "glm-5.3"
+}

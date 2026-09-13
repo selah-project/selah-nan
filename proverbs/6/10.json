@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "「淡薄仔睏,淡薄仔眠,淡薄仔合手,通倒去睏——」",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "淡薄仔"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "睏"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "淡薄仔"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "眠"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "淡薄仔"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "合"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "手"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "通倒去睏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:17.861910865Z",
+  "model": "glm-5.3"
+}

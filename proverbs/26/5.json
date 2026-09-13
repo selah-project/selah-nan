@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "著照伊的戇愚來應答戇人,免得伊佇家己的目睭內做智者。",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "應答"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "照伊的戇愚"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "做"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智者"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:27.121885829Z",
+  "model": "glm-5.3"
+}

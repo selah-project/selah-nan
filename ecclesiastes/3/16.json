@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣閣我看見佇日頭下底:審判的所在,彼位有邪惡;公義的所在,彼位嘛有邪惡。",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "閣閣"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭下底"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "審判的"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "有邪惡"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "閣…的所在"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "彼位嘛"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "有邪惡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:02.586585730Z",
+  "model": "glm-5.3"
+}

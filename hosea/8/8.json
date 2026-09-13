@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "以色列予人吞啉去矣;這陣𪜶佇列國中間親像一个器皿,無人愛伊。",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "予人吞啉去"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "היו",
+      "gloss": "𪜶成做"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中間"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "親像一个器皿"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "人愛"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:55.124616308Z",
+  "model": "glm-5.3"
+}

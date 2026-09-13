@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 21:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "隔轉日,百姓早起,佇遐起一座祭壇,獻燒祭佮平安祭。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "隔轉日"
+    },
+    {
+      "surface": "וישכימו",
+      "gloss": "早起"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "獻"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "平安祭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:37:35.519340732Z",
+  "model": "glm-5.3"
+}

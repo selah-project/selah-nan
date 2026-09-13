@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "願𪜶的路黑暗閣滑溜,雅威的天使追趕𪜶。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願…成做"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "𪜶的路"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "黑暗"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "閣滑溜"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "佮…的天使"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "追趕𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:17.269459019Z",
+  "model": "glm-5.3"
+}

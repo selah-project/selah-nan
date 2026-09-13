@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "虛幻佮白賊的話,離我遠遠;貧窮佮富足,攏毋通互我;飼我我份額的餅。",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "虛幻"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "佮…的話"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "離…遠遠"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "貧窮"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "佮富足"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "飼我"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "我份額的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:09.556386482Z",
+  "model": "glm-5.3"
+}

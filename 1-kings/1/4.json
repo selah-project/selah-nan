@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「彼个少女真媠、媠甲極,伊做王的照顧者,佮伊做事伺候伊;毋過王無佮伊同房。」",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "彼个少女"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "媠"
+    },
+    {
+      "surface": "עד",
+      "gloss": "甲"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "照顧者"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "伺候伊"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "毋過王"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "佮伊同房"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:46.854187362Z",
+  "model": "glm-5.3"
+}

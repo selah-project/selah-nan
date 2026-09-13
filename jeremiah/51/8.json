@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 51:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "忽然間巴別倒落來,破碎矣;為著伊號啕,提芳膏來醫伊的傷,看敢會好。",
+  "tokens": [
+    {
+      "surface": "פתאם",
+      "gloss": "忽然間"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "倒落來"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴別"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "破碎矣"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "號啕"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "為著伊"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "提"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "芳膏"
+    },
+    {
+      "surface": "למכאובה",
+      "gloss": "來醫伊的傷"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "看敢"
+    },
+    {
+      "surface": "תרפא",
+      "gloss": "會好"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:43.515199293Z",
+  "model": "glm-5.3"
+}

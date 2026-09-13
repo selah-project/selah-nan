@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 14:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "猶大咧哀傷,伊的城門衰弱;𪜶變烏向土地;耶路撒冷的哀哭聲升起。",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "伊的城門嘛"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "衰弱"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "變烏"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "向土地"
+    },
+    {
+      "surface": "וצוחת",
+      "gloss": "嘛哀哭聲"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "升起"
+    }
+  ],
+  "timestamp": "2026-09-12T03:52:13.663003160Z",
+  "model": "glm-5.3"
+}

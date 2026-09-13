@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我欲賜福⟨את⟩伊,閣我欲對伊給你一個子;我欲賜福伊,伊欲做列國,百姓的君王欲對伊出。",
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "我欲賜福"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我欲給"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個子"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "我欲賜福伊"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "伊欲做"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "做列國"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "君王"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "欲出"
+    }
+  ],
+  "timestamp": "2026-09-12T01:13:26.284184766Z",
+  "model": "glm-5.3"
+}

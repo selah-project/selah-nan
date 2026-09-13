@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "毋通趕緊出去相爭,免得後來你毋知欲創啥物,當你的朋友磨辱⟨את⟩你的時。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "去相爭"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你做"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "後來"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "磨辱"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "你"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你的朋友"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:26.188169130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 59:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "審判受退到後壁,義徛佇遠遠⟨的所在⟩,因為真實佇街路跌倒,正直袂當入去。",
+  "tokens": [
+    {
+      "surface": "והסג",
+      "gloss": "受退到"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "後壁"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "佮義"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "對遠遠"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "跌倒"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "佇街路"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "ונכחה",
+      "gloss": "佮正直"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "會當"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "入去"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:12.729968738Z",
+  "model": "glm-5.3"
+}

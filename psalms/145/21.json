@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "雅威的讚美,我的喙欲講出來;願一切的肉身攏祝福伊的聖名,到永遠閣永遠。",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "讚美"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "欲講出來"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "閣祝福"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉身"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "伊的聖"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:18.606092341Z",
+  "model": "glm-5.3"
+}

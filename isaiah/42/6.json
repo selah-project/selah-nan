@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我,雅威,已經佇公義召你,我欲掠住你的手,閣保守你;我欲設你做人民的約,做列國的光,",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "我召你"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "佇公義"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "閣掠住"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "閣保守你"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "閣設你"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "做約"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "做光"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:27.724618859Z",
+  "model": "glm-5.3"
+}

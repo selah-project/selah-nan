@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "水飼大伊,深淵舉懸伊;⟨את⟩伊的河流對伊栽種的四圍流,伊嘛派出⟨את⟩伊的圳溝到田裡所有的樹。",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "飼大伊"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "舉懸伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的河流"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "伊的河流"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "流"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "伊栽種的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的圳溝"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "伊的圳溝"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "派出"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "樹"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:19:16.031170388Z",
+  "model": "glm-5.3"
+}

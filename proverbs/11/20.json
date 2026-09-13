@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "心彎曲的,是雅威所厭惡⟨的⟩;行路完全的,是伊所喜愛⟨的⟩。",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "可厭惡的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "彎曲的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "佮伊的喜愛"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "完全的"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:21.711941567Z",
+  "model": "glm-5.3"
+}

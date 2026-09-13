@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "因為親像雨佮雪對天頂落落來,袂閣倒轉去遐,除非伊有沃灌⟨את⟩土地,閣互伊生子、發芽,互撒種的有種子,食飯的有食物,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "落落來"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "佮雪"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "閣去遐"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "כי",
+      "gloss": "除非(若無)"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "沃灌"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "閣互伊生子"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "閣互伊發芽"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "閣互"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "種子"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "撒種的"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "佮食物"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "食飯的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:35.290037886Z",
+  "model": "glm-5.3"
+}

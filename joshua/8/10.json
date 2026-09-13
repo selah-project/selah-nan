@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "約書亞透早佇早起起來,點閱⟨את⟩人民,伊家己佮以色列的長老佇人民的頭前上去,到艾。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "透早起來"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "點閱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "上去"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊家己"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "佮…的長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…的頭前"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "העי",
+      "gloss": "到艾"
+    }
+  ],
+  "timestamp": "2026-09-12T02:22:32.340022548Z",
+  "model": "glm-5.3"
+}

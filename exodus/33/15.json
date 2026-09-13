@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊對伊講:若無你的面行,就毋通帶阮對遮上去。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "行"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "帶阮上去"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "對遮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:08.331784845Z",
+  "model": "glm-5.3"
+}

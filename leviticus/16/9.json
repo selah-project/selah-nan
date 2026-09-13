@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "亞倫愛獻⟨את⟩彼隻公山羊——雅威的籤拈著伊的,用伊做贖罪祭。",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "愛獻"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻公山羊"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "彼隻公山羊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——彼隻"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "拈著"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "的籤"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "用伊做"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:47.099631519Z",
+  "model": "glm-5.3"
+}

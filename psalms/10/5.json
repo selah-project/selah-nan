@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊的路隨時攏真艱苦;你的判語懸佇伊的面頭前,任伊看袂著;伊一切的對敵,伊攏向𪜶噴氣。",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "攏真艱苦"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "隨時"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "懸佇高處"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "你的判語"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "佇伊的面頭前"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "伊的對敵"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "伊噴氣"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "向𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:51.133351949Z",
+  "model": "glm-5.3"
+}

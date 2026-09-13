@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣你欲佇彼的石頭頂面寫 ⟨את⟩ 這律法的一切話,刻予明、予清楚。",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "閣你欲寫"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "彼的石頭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這律法的一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "這律法"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "באר",
+      "gloss": "刻予明"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "予清楚"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:41.690583508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "頭一條的名是比遜,伊就是環繞⟨את⟩哈腓拉全地的彼條,遐有金。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "頭一條"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "比遜"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "環繞…的彼條"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈腓拉全地"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "哈腓拉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的所在"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:32.456866958Z",
+  "model": "glm-5.3"
+}

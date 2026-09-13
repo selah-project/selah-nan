@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "因為伊家己佇伊的目睭內家己哄家己,直到伊的罪惡被尋著、通予人恨。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "哄家己"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊家己"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭內"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "通…尋著"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "伊的罪惡"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "通予人恨"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:29.843583949Z",
+  "model": "glm-5.3"
+}

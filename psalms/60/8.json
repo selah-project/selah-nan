@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "以羅欣佇伊的聖所講話,我欲歡喜:我欲分示劍(示劍),量疏割(疏割)彼个溪谷。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "佇伊的聖所"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "我欲歡喜"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "我欲分"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "示劍"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "佮…彼个溪谷"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "疏割"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "量"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:22.473870947Z",
+  "model": "glm-5.3"
+}

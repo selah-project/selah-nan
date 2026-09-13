@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊就講:「我無攪擾⟨את⟩以色列,是你佮你的父的家,因為恁放棄⟨את⟩雅威的誡命,閣去綴諸個巴力。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "我攪擾"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אם",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "佮…的家"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的父"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "恁放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "誡命"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "閣去"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "諸個巴力"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:48.512328102Z",
+  "model": "glm-5.3"
+}

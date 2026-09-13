@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 16:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "撒母耳講:「我按怎去?設使掃羅聽著,會害死我。」雅威講:「你的手內提一隻牛母仔,閣講:『我來,是欲獻祭予雅威。』",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "איך",
+      "gloss": "按怎"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我去"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "設使……聽著"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "會害死我"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "一隻牛母仔"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "提"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "你的手內"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "欲獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "我來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:55.340349737Z",
+  "model": "glm-5.3"
+}

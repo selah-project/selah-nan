@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "王講:「越頭過去,徛佇遮。」⟨伊⟩就越頭過去,徛佇遐。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סב",
+      "gloss": "越頭過去"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "כה",
+      "gloss": "佇遮"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "就越頭過去"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "徛佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T02:58:07.749957297Z",
+  "model": "glm-5.3"
+}

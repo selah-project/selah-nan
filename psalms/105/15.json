@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "講:「莫得摸阮的受膏者,嘛莫得對阮的先知做歹。」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "莫得"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "摸"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "阮的受膏者"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "嘛對阮的先知"
+    },
+    {
+      "surface": "אל",
+      "gloss": "莫得"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "做歹"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:50.086991424Z",
+  "model": "glm-5.3"
+}

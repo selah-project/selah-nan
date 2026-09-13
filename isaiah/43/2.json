@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "因為你欲過水底的時,⟨את⟩你倚邊有我;你入江河,𪜶袂淹滿你;因為你行入火中,你袂燒焦,火焰嘛袂對你燒起來。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "你欲過"
+    },
+    {
+      "surface": "במים",
+      "gloss": "水底"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你倚邊"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "佮入江河"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "淹滿你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "你行"
+    },
+    {
+      "surface": "במו",
+      "gloss": "入……中"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "燒焦"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "佮火焰"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "בך",
+      "gloss": "對你"
+    }
+  ],
+  "timestamp": "2026-09-13T04:36:20.292225699Z",
+  "model": "glm-5.3"
+}

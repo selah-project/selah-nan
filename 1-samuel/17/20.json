@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "大衛透早起床,將⟨את⟩羊群留予一个看守的人,就照耶西所命令伊的提物品出發;伊行到營盤的圍籬遐,彼陣軍隊咧開出去陣前,出聲吼叫備戰。",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "透早起床"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "留"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "羊群"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "על",
+      "gloss": "予"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "看守的人"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "提"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "出發"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "所命令伊的"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "耶西"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "行到"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "圍籬"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "彼陣軍隊"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "咧開出去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到陣前"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "陣"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "出聲吼叫"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "備戰"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:10.389714621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "閣示每的仔:雅哈、細拿、耶烏施、比利雅。遮是示每的仔,四个。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "閣…的仔"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "雅哈"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "細拿"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "耶烏施"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "比利雅"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的仔"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四个"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:40.675687673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "所以伊的百姓倒轉來遮,滿滿的水搾出來予𪜶。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "倒轉"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "來遮"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "佮水"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "滿滿的"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "搾出來"
+    },
+    {
+      "surface": "למו",
+      "gloss": "予𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:35.129773169Z",
+  "model": "glm-5.3"
+}

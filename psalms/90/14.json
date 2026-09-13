@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "「佇透早用你的赫瑟德(慈愛)予阮飽足,互阮佇阮一切的日子唱歌、歡喜。」",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "予阮飽足"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "佇透早"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "互阮唱歌"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "阮歡喜"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "阮的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:35.957600324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 23:19",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "了後,亞伯拉罕埋葬⟨את⟩撒拉、伊的某,佇麥比拉田的穴,佇幔利的面頭前——彼個就是希伯崙——佇迦南地。",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(彼)樣"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒拉"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "…的穴"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "麥比拉"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的面"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "幔利"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼個就是"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:22.636956550Z",
+  "model": "glm-5.3"
+}

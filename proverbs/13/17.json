@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "歹人的使者欲落佇災禍,獨獨忠實的使者是醫好。",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "使者"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人的"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "欲落"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "佇災禍"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "獨獨…的使者"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "忠實"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "是醫好"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:18.481022563Z",
+  "model": "glm-5.3"
+}

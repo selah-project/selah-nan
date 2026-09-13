@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "𪜶就紮營攻擊以色列,毀壞⟨את⟩土地的收成,直到你入迦薩;𪜶無留任何活命的食物佇以色列——羊、牛、驢攏無。",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "紮營"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "攻擊𪜶"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "毀壞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "收成"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "收成"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "你入"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "迦薩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "留"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "活命的食物"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "驢"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:22.804679359Z",
+  "model": "glm-5.3"
+}

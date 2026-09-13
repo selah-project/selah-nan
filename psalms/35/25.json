@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "毋通予𪜶佇心內講:「好啊,咱的心願遂矣!」毋通予𪜶講:「阮共伊吞落去矣!」",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "予𪜶講"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "佇心內"
+    },
+    {
+      "surface": "האח",
+      "gloss": "好啊"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "咱的心願"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "予𪜶講"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "阮共伊吞落去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:52.835602814Z",
+  "model": "glm-5.3"
+}

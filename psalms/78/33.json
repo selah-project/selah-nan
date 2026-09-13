@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "所以伊予𪜶的日子消磨盡佇虛空內,𪜶的年歲佇驚惶中過去。",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "消磨盡"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "佇虛空內"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "𪜶的日子"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "𪜶的年歲"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "佇驚惶中"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:38.542408686Z",
+  "model": "glm-5.3"
+}

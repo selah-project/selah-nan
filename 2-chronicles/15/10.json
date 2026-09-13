@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "𪜶聚集佇耶路撒冷,佇第三個月,佇亞撒做王第十五年。",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "𪜶聚集"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇……月"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "佇……年"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:56.277722733Z",
+  "model": "glm-5.3"
+}

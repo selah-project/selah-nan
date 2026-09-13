@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "願𪜶的目睭暗去,看無;願𪜶的腰骨常常搖晃。",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "願…暗去"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "𪜶的目睭"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "看無"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "佮𪜶的腰骨"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "搖晃"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:28.461937509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "沙代佇彼位拍散諸王的時,落雪佇撒勒門。",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "拍散"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼位"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "落雪"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "佇撒勒門"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:16.869207659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "枵閣喋,𪜶的性命佇𪜶內面昏去。",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "枵"
+    },
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "喋"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇𪜶內面"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "昏去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:27.291954796Z",
+  "model": "glm-5.3"
+}

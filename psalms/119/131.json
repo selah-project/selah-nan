@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的喙張開,我就喘氣,因為我為著你的誡命渴慕。",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "我的喙"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "張開"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "閣喘氣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "你的誡命"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "渴慕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:09.384865753Z",
+  "model": "glm-5.3"
+}

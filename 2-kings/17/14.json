@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "毋若𪜶無欲聽,抑且𪜶閣夯硬⟨את⟩𪜶的頷仔頸,親像𪜶祖先的頷仔頸遐,彼个無信雅威、𪜶的以羅欣的。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋若…無"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "聽"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "夯硬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的頷仔頸"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "𪜶的頷仔頸"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "親像…的頷仔頸"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "𪜶祖先"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "信"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:49.437469234Z",
+  "model": "glm-5.3"
+}

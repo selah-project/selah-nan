@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "欲救𪜶的性命脫離死亡,佇饑荒中保全𪜶的活命。",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "欲救"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "脫離死亡"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "𪜶的性命"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "保全𪜶的活命"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "佇饑荒中"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:22.759600111Z",
+  "model": "glm-5.3"
+}

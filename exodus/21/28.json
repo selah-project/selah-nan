@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "設使一隻牛觸⟨את⟩人,抑是觸⟨את⟩女人,伊就死去,彼隻牛著用石頭擲死,⟨את⟩伊的肉毋通食,彼隻牛的主人無罪。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "設使"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "觸"
+    },
+    {
+      "surface": "שור",
+      "gloss": "一隻牛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "女人"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "伊就死去"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "用石頭擲死"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "著擲死"
+    },
+    {
+      "surface": "השור",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋通"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的肉"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的肉"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "的主人"
+    },
+    {
+      "surface": "השור",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "無罪"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:59.491387004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.3",
+  "verse": 7,
+  "ref": "1-samuel 9:7",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "掃羅對伊的少年僕人講:「你看,咱是欲去矣,啊欲提啥物去予彼个人?因為餅已經對阮个袋仔內底去了矣,閣無禮物通帶去予神的人 —— 啥物 ⟨את⟩ 佇阮遮?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "對伊的少年僕人"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "咱欲去"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "啊啥物"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "通提去予"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "去矣"
+    },
+    {
+      "surface": "מכלינו",
+      "gloss": "對阮个袋仔內底"
+    },
+    {
+      "surface": "ותשורה",
+      "gloss": "閣禮物"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "通帶去"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "予…彼个人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神的人(以羅欣的人)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "阮遮"
+    }
+  ],
+  "timestamp": "2026-09-13T06:54:02.935166026Z",
+  "model": "glm-5.3"
+}

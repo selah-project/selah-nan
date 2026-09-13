@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "豈毋是你,以羅欣啊,你拒絕阮?閣你,以羅欣啊,無佮阮的軍隊出去?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "你拒絕阮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "佮阮的軍隊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:07.736575557Z",
+  "model": "glm-5.3"
+}

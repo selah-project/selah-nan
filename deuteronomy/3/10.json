@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "平原所有的城,佮基列攏總,佮巴珊攏總,到撒迦佮以得來,攏是噩佇巴珊的國度的城。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "…的城"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "平原"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…攏總"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…攏總"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "撒迦"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "佮以得來"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "…的城"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "國度"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "噩"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "佇巴珊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:44.508186046Z",
+  "model": "glm-5.3"
+}

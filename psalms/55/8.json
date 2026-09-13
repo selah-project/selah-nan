@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "你看,我欲走遠遠去流浪,欲佇曠野過暝。細拉。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "走遠遠"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "去流浪"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "過暝"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:48.220253564Z",
+  "model": "glm-5.3"
+}

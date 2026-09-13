@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "惡人顛倒無去,義人的厝會徛在。",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "顛倒"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "無去"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "毋過…的厝"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "會徛在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:56.264412504Z",
+  "model": "glm-5.3"
+}

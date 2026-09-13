@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "塔普尼絲的阿姊給伊生一個子,名叫基努拔,塔普尼絲佇法老的厝內給伊斷奶飼大,⟨את⟩基努拔伊的子;基努拔就徛佇法老的厝內,佇法老的眾子中間。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "阿姊"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "塔普尼絲"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基努拔"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "基努拔"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "給伊斷奶飼大"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "塔普尼絲"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就徛佇"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "基努拔"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-13T04:27:20.302416946Z",
+  "model": "glm-5.3"
+}

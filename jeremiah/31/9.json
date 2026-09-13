@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 31:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "𪜶欲啼哭來,我欲用懇求引𪜶;我欲導𪜶到活水溪,行佇直直的路,𪜶袂佇彼條路絆倒;因為我對以色列做老父,以法蓮──伊是我𪜶的頭生子。",
+  "tokens": [
+    {
+      "surface": "בבכי",
+      "gloss": "啼哭"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "來"
+    },
+    {
+      "surface": "ובתחנונים",
+      "gloss": "用懇求"
+    },
+    {
+      "surface": "אובילם",
+      "gloss": "我欲引𪜶"
+    },
+    {
+      "surface": "אוליכם",
+      "gloss": "我欲導𪜶行"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "溪"
+    },
+    {
+      "surface": "מים",
+      "gloss": "活水"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "直直的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "袂絆倒"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼條路"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "我做過"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "做老父"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "我的頭生子"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:56:58.798472115Z",
+  "model": "glm-5.3"
+}

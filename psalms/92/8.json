@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "歹人發芽親像草,做歹的人攏開花——是為著𪜶欲毀滅無去,到永遠。",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "佇…發芽"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "攏開花"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "做…的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "歹"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "為著𪜶欲毀滅"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:54.725768368Z",
+  "model": "glm-5.3"
+}

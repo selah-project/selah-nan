@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "也人的子孫,也尊貴人的子孫,做伙,有錢人佮散赤人。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人(普通人)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "也"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "איש",
+      "gloss": "尊貴人"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "有錢人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散赤人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.199616822Z",
+  "model": "glm-5.3"
+}

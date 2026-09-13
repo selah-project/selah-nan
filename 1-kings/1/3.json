@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「𪜶就佇以色列全境去揣一位真媠的少女,尋著⟨את⟩亞比煞・書念人,就帶⟨את⟩伊去王遐。」",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "𪜶就去揣"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "少女"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "媠的"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…全"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比煞・書念人"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "亞比煞"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "書念人"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "就帶"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊去王遐"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "去王遐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:46.853853369Z",
+  "model": "glm-5.3"
+}

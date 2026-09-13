@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 30:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "亞倫著佇頂面燒芳香料的香,早起、逐早起,佇伊整理⟨את⟩燈火的時,伊著燒伊。",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "著燒香"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "芳香料"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "早起"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "逐早起"
+    },
+    {
+      "surface": "בהיטיבו",
+      "gloss": "佇伊整理的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燈火"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "燈火"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "伊著燒伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:29.777290471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "綴佇伊後面有迦拜、撒萊,攏總九百二十八人。",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "綴佇伊後面"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "迦拜"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "撒萊"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "閣八"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:33.631919454Z",
+  "model": "glm-5.3"
+}

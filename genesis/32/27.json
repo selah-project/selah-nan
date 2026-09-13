@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "伊講:「放我走,因為天已經光矣。」雅各講:「我袂放你走,除非你祝福我。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "放我走"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "已經光"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "天"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "放你走"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "除非"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "祝福我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:08.428017047Z",
+  "model": "glm-5.3"
+}

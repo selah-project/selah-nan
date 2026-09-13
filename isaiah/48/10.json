@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "看啊,我煉過你,毋是按呢用銀煉;我揀你,佇患難的爐內。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "我煉過你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "用銀"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "我揀你"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "爐"
+    },
+    {
+      "surface": "עני",
+      "gloss": "患難"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:51.622081643Z",
+  "model": "glm-5.3"
+}

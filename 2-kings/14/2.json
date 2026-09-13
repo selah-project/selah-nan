@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 14:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊做王的時二十五歲,佇耶路撒冷做王二十九年;伊老母的名是耶何阿丹,對耶路撒冷來。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "佮五"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "佇伊做王的時"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "佮九"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佮…的名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    },
+    {
+      "surface": "יהועדין",
+      "gloss": "耶何阿丹"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…來"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T03:21:10.581480246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "住錫安的啊,著歕吶佮唱歌,因為以色列的聖者佇你中間是真大位的。",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "著歕吶"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "佮唱歌"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "住"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "真大位"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "佇你中間"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:43.846600996Z",
+  "model": "glm-5.3"
+}

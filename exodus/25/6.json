@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "為著照光的油,香料為著芳香的膏油,閣為著香的香料。",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "為著照光"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "香料"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "為著…油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "芳香的膏"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "閣為著香"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "香料的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:07.178813643Z",
+  "model": "glm-5.3"
+}

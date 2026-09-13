@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 22:12",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊用烏暗做伊四圍的帳棚,做水的積聚、厚雲佇天頂。",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "伊…做"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "伊四圍"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "חשרת",
+      "gloss": "積聚"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "厚雲"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "天頂"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:12.285189777Z",
+  "model": "glm-5.3"
+}

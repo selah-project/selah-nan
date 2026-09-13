@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "阿多奈啊,你起頭的赫瑟德(慈愛)佇佗位?你曾用你的信實對大衛起誓。",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "起頭的"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "你曾起誓"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "對大衛"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "用你的信實"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:27.278508397Z",
+  "model": "glm-5.3"
+}

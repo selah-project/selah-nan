@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 22:6",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊就叫伊的子所羅門來,命令伊為雅威、以色列的以羅欣起造一間厝。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就叫…來"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "命令伊"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "起造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "一間厝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:42.042886913Z",
+  "model": "glm-5.3"
+}

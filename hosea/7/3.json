@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "𪜶用𪜶的歹事予王歡喜,用𪜶的白賊予首領歡喜。",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "用𪜶的歹事"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "予歡喜"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "用𪜶的白賊"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "首領"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:35.131631868Z",
+  "model": "glm-5.3"
+}

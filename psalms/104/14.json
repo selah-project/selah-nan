@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "伊互草發芽互精牲,閣草仔為著人的服事,通對土裡提出餅。",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "互……發芽"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "互精牲"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "閣草仔"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "為著……的服事"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "通提出"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土裡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:09.438471859Z",
+  "model": "glm-5.3"
+}

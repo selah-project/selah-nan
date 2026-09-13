@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "按怎倒落去啊,勇士,佇彼場戰爭的中間!約拿單,佇你的高地受刺死!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "按怎"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "勇士"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…的中間"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "彼場戰爭"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "你的高地"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "受刺死"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:27.056016650Z",
+  "model": "glm-5.3"
+}

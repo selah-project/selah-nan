@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "雅威你的以羅欣就欲共伊交代佇你的手內,你就著用刀嘴拍死⟨את⟩伊內底所有的查埔。",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "就欲交代"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手內"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "你就著拍死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊內底所有的查埔"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "查埔"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "用…的嘴"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:39.559807630Z",
+  "model": "glm-5.3"
+}

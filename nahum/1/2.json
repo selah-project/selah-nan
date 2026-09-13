@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 1:2",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以勒是妒忌閣報復的⟨是⟩;雅威報復,雅威閣大有烈怒;雅威對伊的對敵報復,伊對伊的仇敵記恨。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "妒忌"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "閣報復"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報復"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "閣大有"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "烈怒"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報復"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "對伊的對敵"
+    },
+    {
+      "surface": "ונוטר",
+      "gloss": "佮記恨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "對伊的仇敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:03.105477612Z",
+  "model": "glm-5.3"
+}

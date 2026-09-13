@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "𪜶對雅威行詭詭詐詐的事,因為𪜶生了外來的囝;今新月欲吞食𪜶⟨את⟩𪜶的份。",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "行詭詐"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外來的"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "生"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "吞食𪜶"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新月"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的份"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "𪜶的份"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:17.484183476Z",
+  "model": "glm-5.3"
+}

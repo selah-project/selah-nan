@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "以色列眾子的會眾攏對摩西面前出去。",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "對…面前"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:10.685860680Z",
+  "model": "glm-5.3"
+}

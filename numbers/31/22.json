@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "獨獨⟨את⟩金,⟨את⟩銀、⟨את⟩銅、⟨את⟩鐵、⟨את⟩錫、佮⟨את⟩鉛,",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銅"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "鐵"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "錫"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "錫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "鉛"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "鉛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:03:49.810595243Z",
+  "model": "glm-5.3"
+}

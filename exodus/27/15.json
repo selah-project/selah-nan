@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣佇第二爿邊有帷仔十五肘;𪜶的柱仔三枝,𪜶的座三個。",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "閣佇…爿邊"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "帷仔"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "𪜶的柱仔"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "𪜶的座"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:10.870389762Z",
+  "model": "glm-5.3"
+}

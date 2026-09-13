@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊量 ⟨את⟩ 門的廳,八肘;𪜶的壁柱二肘;門的廳閣是對殿遐。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "門的廳"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "廳"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門的"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "佮壁柱"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "二"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "佮門的廳"
+    },
+    {
+      "surface": "השער",
+      "gloss": "門的"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "對殿遐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:22.535714148Z",
+  "model": "glm-5.3"
+}

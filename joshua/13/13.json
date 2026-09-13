@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "毋拘以色列的子孫無趕走⟨את⟩基述人佮⟨את⟩瑪阿客人;基述佮瑪阿客就徛佇以色列中間,直到這个今仔日。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋拘……無"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基述人"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "基述人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "瑪阿客人"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "瑪阿客人"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就徛"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "基述"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "瑪阿客"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:26.609067542Z",
+  "model": "glm-5.3"
+}

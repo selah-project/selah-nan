@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 35:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "願彼个對我的患難歡喜的人做伙見笑、受辱;願彼个家己捧懸來攻擊我的人穿羞辱佮恥辱。",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "佮受辱"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "歡喜(的人)"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "我的患難"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "穿"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "羞辱"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "佮恥辱"
+    },
+    {
+      "surface": "המגדילים",
+      "gloss": "家己捧懸(的人)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "來攻擊我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:52.835895977Z",
+  "model": "glm-5.3"
+}

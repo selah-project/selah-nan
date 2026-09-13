@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇半暝的時,彼个人驚一下戰慄,就翻身,看啊,有一个查某人睏佇伊的跤尾。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生佇"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "佇一半"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "彼暝"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "驚一下戰慄"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "就翻身"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一个查某人"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "睏佇"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "伊的跤尾"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:46.601723251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為𪜶的喙內無正直,𪜶的內心是毀滅;𪜶的喉嚨是開敞的墓,𪜶用𪜶的舌頭講滑溜的話。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "佇𪜶的喙內"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "正直"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "𪜶的內心"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墓"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "開敞的"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "𪜶的喉嚨"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "𪜶的舌頭"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "講滑溜的話"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:34.821721909Z",
+  "model": "glm-5.3"
+}

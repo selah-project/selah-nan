@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "𪜶欲應講:「因為𪜶放棄⟨את⟩雅威、𪜶的以羅欣的約,跪拜別个以羅欣,閣事奉𪜶。」",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "𪜶欲應講"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "𪜶放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威𪜶的以羅欣的約"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的以羅欣"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "對別个以羅欣"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別个"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "閣事奉𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:45.457629924Z",
+  "model": "glm-5.3"
+}

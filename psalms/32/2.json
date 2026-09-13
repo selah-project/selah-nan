@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "有福氣啊,彼個人,雅威無共伊算罪孽,伊的心神內底也無欺詐!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "算"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也無"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "佇伊的心神"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "欺詐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:40.108464006Z",
+  "model": "glm-5.3"
+}

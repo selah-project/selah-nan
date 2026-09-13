@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以利米勒 —— 拿俄米的𪜶翁 —— 死矣,賰的是伊佮伊的兩个後生。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "以利米勒"
+    },
+    {
+      "surface": "איש",
+      "gloss": "𪜶翁"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "拿俄米"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "賰的是"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "後生"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:55.229570613Z",
+  "model": "glm-5.3"
+}

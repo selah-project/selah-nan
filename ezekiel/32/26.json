@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 32:26",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "遐有米設、土巴,佮伊所有的人群;伊的墓攏佇伊的四圍;𪜶攏是未受割禮的、互刀劍刺死的,因為𪜶曾互𪜶的驚惶下佇活人的土地。",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "משך",
+      "gloss": "米設"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "土巴"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…所有"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "人群"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "伊的四圍"
+    },
+    {
+      "surface": "קברותיה",
+      "gloss": "伊的墓"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "未受割禮的"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "互…刺死的"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "𪜶曾互…下"
+    },
+    {
+      "surface": "חתיתם",
+      "gloss": "𪜶的驚惶"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的土地"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:19:49.654276018Z",
+  "model": "glm-5.3"
+}

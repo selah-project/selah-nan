@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "你就對天裡聽⟨את⟩𪜶的祈禱佮⟨את⟩𪜶的懇求,閣行𪜶的判斷,",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "你就聽"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的祈禱"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "𪜶的祈禱"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "𪜶的懇求"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "𪜶的懇求"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "𪜶的判斷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:19.005810287Z",
+  "model": "glm-5.3"
+}

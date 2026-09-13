@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "願你的赫瑟德來安慰我,照你對你奴僕所講的話。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "願"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "來安慰我"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "照你的話"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "對你奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:47.791818927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "靠我,諸個王做王治理;靠我,掌權者制定公義。",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "靠我"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "諸個王"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "做王治理"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "佮掌權者"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "制定"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:50.956147330Z",
+  "model": "glm-5.3"
+}

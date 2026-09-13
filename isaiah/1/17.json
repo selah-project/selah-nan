@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "學習行好,追求公義,扶持〈受壓迫的〉,為孤兒判斷,為寡婦辯護。",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "學習"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "行好"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "追求"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "扶持"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "受壓迫的"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "判斷"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "辯護"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:38.815056483Z",
+  "model": "glm-5.3"
+}

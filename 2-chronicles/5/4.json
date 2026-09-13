@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以色列眾長老攏到齊矣,利未人就扛⟨את⟩櫃。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "攏到矣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "就扛"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "櫃"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "櫃"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:38.429998624Z",
+  "model": "glm-5.3"
+}

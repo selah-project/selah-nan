@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "彼時,當𪜶聽⟨את⟩律法,𪜶就對以色列隔開一切的混雜族群。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "當𪜶聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "律法"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "彼律法"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "𪜶就隔開"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "混雜族群"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "對以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:13.939594456Z",
+  "model": "glm-5.3"
+}

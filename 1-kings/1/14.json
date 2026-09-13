@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "看啊,你猶佇遐佮王講話个時,我欲入去佇你後面,閣補滿 ⟨את⟩ 你个話。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "你猶"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "講話"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "佇你後面"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "閣我補滿"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你个話"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你个話"
+    }
+  ],
+  "timestamp": "2026-09-12T03:00:54.709697079Z",
+  "model": "glm-5.3"
+}

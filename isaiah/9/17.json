@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 9:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "因為歹毒親像火咧燒起,伊吞食薊刺佮刺柴,嘛佇樹林的草堆中著火,伊滾滾而上做驕傲的煙。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "親像火"
+    },
+    {
+      "surface": "רשעה",
+      "gloss": "歹毒"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "薊刺"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "佮刺柴"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "ותצת",
+      "gloss": "嘛著火"
+    },
+    {
+      "surface": "בסבכי",
+      "gloss": "佇草堆中"
+    },
+    {
+      "surface": "היער",
+      "gloss": "樹林的"
+    },
+    {
+      "surface": "ויתאבכו",
+      "gloss": "滾滾而上"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "驕傲"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:17.028076557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "反倒是,伊所歡喜的是雅威的律法,閣佇伊的律法伊日時佮暗時反覆咧唸。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "反倒是"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "佇…的律法"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "伊所歡喜的"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "閣佇伊的律法"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "反覆咧唸"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暗時"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:38.564242486Z",
+  "model": "glm-5.3"
+}

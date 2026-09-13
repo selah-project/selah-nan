@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣我的心驚惶真厲害;你,雅威啊,愛等到啥物時陣?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "閣我的心"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真厲害"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עד",
+      "gloss": "愛等到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:37.373093767Z",
+  "model": "glm-5.3"
+}

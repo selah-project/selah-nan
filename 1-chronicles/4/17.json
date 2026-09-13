@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "佮以斯拉的囝是耶帖、米勒、以法、雅崙;伊懷孕⟨生⟩了⟨את⟩米利暗、⟨את⟩沙瑪伊、⟨את⟩伊施巴——以實提瑪的父。",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "佮…的囝"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "以斯拉"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "耶帖"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "米勒"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "以法"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "雅崙"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "伊懷孕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米利暗"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "米利暗"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "沙瑪伊"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "沙瑪伊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊施巴"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "伊施巴"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…的父"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "以實提瑪"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:01.226159426Z",
+  "model": "glm-5.3"
+}

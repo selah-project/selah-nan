@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "看啊,雅威欲共你抡來抡去,大力抡摔你這个勇者,閣欲緊緊共你包起來。",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "抡來抡去你"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "大力个抡摔"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "勇者"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "閣包你"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "緊緊包"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:31.672371077Z",
+  "model": "glm-5.3"
+}

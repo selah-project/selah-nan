@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊拍擊伊的對敵倒退,給𪜶永遠的見笑。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "伊拍擊"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "伊的對敵"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "倒退"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠的"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:34.286300109Z",
+  "model": "glm-5.3"
+}

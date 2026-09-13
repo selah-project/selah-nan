@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "阿多奈啊,求你記念你的奴僕所受的凌辱;我佇我的懷內擔當(攏總)真濟族群的凌辱。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你記念"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "凌辱"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "我擔當"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "佇我的懷內"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "族群"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:27.278743407Z",
+  "model": "glm-5.3"
+}

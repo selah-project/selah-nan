@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 40:15",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "「你看,今,彼個河馬(比希蒙)就是我佮你做伙造的,草親像牛,伊食。」",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "比希蒙(河馬)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個就是"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我造的"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你做伙"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "親像牛"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "伊食"
+    }
+  ],
+  "timestamp": "2026-09-13T04:57:17.746378640Z",
+  "model": "glm-5.3"
+}

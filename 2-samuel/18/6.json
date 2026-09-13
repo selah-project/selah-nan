@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "百姓出去田園對陣以色列,戰爭就發生佇以法蓮⟨的⟩樹林。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田園"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "對陣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "就發生"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "佇樹林"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:46.395889536Z",
+  "model": "glm-5.3"
+}

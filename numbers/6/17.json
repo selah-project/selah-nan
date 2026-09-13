@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣⟨את⟩公羊愛獻做向雅威獻平安祭,佮一籃無酵餅;祭司嘛愛獻⟨את⟩伊的素祭佮⟨את⟩伊的奠祭。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "公羊"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "愛獻做"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "佮"
+    },
+    {
+      "surface": "סל",
+      "gloss": "一籃"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "嘛愛獻"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的素祭"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "伊的素祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的奠祭"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "伊的奠祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:59.014546201Z",
+  "model": "glm-5.3"
+}

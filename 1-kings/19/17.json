@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 19:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "將來,對哈薛的刀閃過的,耶戶會予伊死;對耶戶的刀閃過的,以利沙會予伊死。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "將來"
+    },
+    {
+      "surface": "הנמלט",
+      "gloss": "閃過刀的"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "對…的刀"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "會予伊死"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "והנמלט",
+      "gloss": "閃過刀的"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "對…的刀"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "會予伊死"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:58.955552629Z",
+  "model": "glm-5.3"
+}

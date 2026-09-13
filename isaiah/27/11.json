@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "當伊的樹枝乾去的時，欲拍斷；諸個婦人人來，放火燒 ⟨את⟩ 伊；因為伊毋是明白的百姓，所以伊的造者袂憐憫伊，伊的形成者嘛袂施恩伊。",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "當…乾去"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "伊的收成（樹枝）"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "欲拍斷"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "婦人人"
+    },
+    {
+      "surface": "באות",
+      "gloss": "來"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "放火燒"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "明白的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "憐憫伊"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "伊的造者"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "閣伊的形成者"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "施恩伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:59.323662994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣十二隻獅徛遐,佇六層踏階頂,對遮佮對遐;無按呢的工曾予任何王國做過。",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "閣十二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "獅"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "徛的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "層踏階"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "對遮"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "佮對遐"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "給所有"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "王國"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:03.450183824Z",
+  "model": "glm-5.3"
+}

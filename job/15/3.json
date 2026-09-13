@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "豈會用無利益的話來辯論?閣講其中無路用的言語?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "辯論"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "用話"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "有利益"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "閣……言語"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "有路用"
+    },
+    {
+      "surface": "בם",
+      "gloss": "在其中的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:25:07.077043579Z",
+  "model": "glm-5.3"
+}

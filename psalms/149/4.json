@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "因為雅威歡喜伊的百姓;伊用救恩裝飾謙卑的人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "裝飾"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "謙卑的人"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "用救恩"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:50.308344886Z",
+  "model": "glm-5.3"
+}

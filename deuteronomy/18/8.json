@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "份量親像份量,𪜶欲食,獨獨除外伊的家產賣掉的,照父家的份。",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "份"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "親像份"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "𪜶欲食"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "獨獨除外"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "伊的家產賣掉的"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "父家"
+    }
+  ],
+  "timestamp": "2026-09-12T02:13:05.638730442Z",
+  "model": "glm-5.3"
+}

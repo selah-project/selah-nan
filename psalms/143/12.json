@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "閣用你的赫瑟德,你剿滅我的對敵,消滅一切迫害我的性命的人;因為我是你的奴僕。",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "閣用你的赫瑟德"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "你剿滅"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "消滅"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "迫害我…的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:57.245343067Z",
+  "model": "glm-5.3"
+}

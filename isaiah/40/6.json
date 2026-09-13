@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "有聲音講:「叫!」伊講:「我欲叫啥物?」「一切肉體是草,伊一切的赫瑟德(仁慈)親像田裡的花。」",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲音"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我欲叫"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "草"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮伊一切"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "赫瑟德(仁慈)"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "親像花"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:17.735971043Z",
+  "model": "glm-5.3"
+}

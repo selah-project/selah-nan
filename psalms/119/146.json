@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我叫你;救我,我就會守你的法度。",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "我叫你"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "我就會守"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "你的法度"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:44.963814466Z",
+  "model": "glm-5.3"
+}

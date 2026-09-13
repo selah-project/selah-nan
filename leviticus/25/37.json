@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "⟨את⟩你的銀仔,你毋通提去放利息互伊;嘛毋通對增利提你的食物。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的銀仔"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "你的銀仔"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "提去放"
+    },
+    {
+      "surface": "לו",
+      "gloss": "互伊"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "佇利息"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "嘛毋通對增利"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "提"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "你的食物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:11.347138428Z",
+  "model": "glm-5.3"
+}

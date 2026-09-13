@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣一隻牛佮一隻公羊做平安祭，宰佇雅威面前獻祭；閣素祭用油抐勻。因為今仔日雅威欲向恁顯現。",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "閣一隻牛"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "佮一隻公羊"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "做平安祭"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "宰來獻祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "……面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "閣素祭"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "抐勻"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "向恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:26.286892166Z",
+  "model": "glm-5.3"
+}

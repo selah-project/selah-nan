@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 4:26",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣將⟨את⟩伊全部的油佇壇頂燒做煙,親像平安祭的油按呢;祭司就替伊對伊的罪贖罪,伊就受赦免。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊全部的油"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "伊的油"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "燒做煙"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇壇頂"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "親像…的油"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安祭"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "閣贖罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "對伊的罪"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "閣受赦免"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:21.640243104Z",
+  "model": "glm-5.3"
+}

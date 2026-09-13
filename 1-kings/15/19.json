@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.3",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "「約 ⟨是⟩ 佇我佮你中間,佇阮老父佮你老父中間;看,我已經差人送你禮物──銀佮金;你去廢掉 ⟨את⟩ 你的約,⟨את⟩ 巴沙──以色列的王,互伊對我頂起來離開。」",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我…中間"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "佮你中間"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "阮老父"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老父"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "我已經差人送"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "禮物"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "佮金"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "廢掉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的約"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "你的約"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "巴沙──以色列的王"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "互伊頂起來離開"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-13T06:53:57.414015879Z",
+  "model": "glm-5.3"
+}

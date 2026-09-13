@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣遮的佇耶路撒冷(耶路撒冷)生予伊:示瑪、示瓦布、拿單、所羅門,四个,攏是書阿(拔示巴)查某囝──阿米以勒(亞米利)的查某囝──生的。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "閣遮的"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "示瑪"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "佮示瓦布"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "四个"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "對……查某囝"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "書阿"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "阿米以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:05.614770992Z",
+  "model": "glm-5.3"
+}

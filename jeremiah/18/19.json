@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "雅威啊,請你斟酌聽我,嘛聽我對敵的聲。",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "請你斟酌聽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "嘛聽"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "我的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:08.102362036Z",
+  "model": "glm-5.3"
+}

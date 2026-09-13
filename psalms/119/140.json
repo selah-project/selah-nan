@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "汝的話煉甲真純、極其清氣，佮汝的奴僕疼伊。",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "煉甲真純"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "汝的話"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "佮汝的奴僕"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "疼伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:15.641101191Z",
+  "model": "glm-5.3"
+}

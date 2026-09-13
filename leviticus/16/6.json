@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "亞倫閣愛獻⟨את⟩彼隻屬伊家己的贖罪祭牛,替伊家己佮伊的家贖罪。",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "閣愛獻"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻贖罪祭牛"
+    },
+    {
+      "surface": "פר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "彼個贖罪祭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬伊家己的"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "閣贖罪"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "替伊家己"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "閣替"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:00.937217882Z",
+  "model": "glm-5.3"
+}

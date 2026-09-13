@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "一切話語攏互人厭倦,人的喙講袂完;目睭看袂飽,耳仔聽袂滿。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話語"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "互人厭倦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "會當"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "用喙講完"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "看飽"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "聽滿"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳仔"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "聽"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:18.973874413Z",
+  "model": "glm-5.3"
+}

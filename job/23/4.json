@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 23:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "我就欲佇伊面前排列我的案件,用辯駁充滿我的喙。",
+  "tokens": [
+    {
+      "surface": "אערכה",
+      "gloss": "我就欲排列"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "我的案件"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "閣我的喙"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "辯駁"
+    }
+  ],
+  "timestamp": "2026-09-12T05:26:48.603361574Z",
+  "model": "glm-5.3"
+}

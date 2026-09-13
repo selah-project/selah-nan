@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威講:「看啊,有一個所在⟨את⟩我遐,你欲徛佇磐石頂。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "一個所在"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩我遐"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "你欲徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "磐石"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:22.885188728Z",
+  "model": "glm-5.3"
+}

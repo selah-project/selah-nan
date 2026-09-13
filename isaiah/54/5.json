@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "因為你的丈夫就是你的創造者,伊的名是雅威采巴奧特;閣你的救贖者是以色列的聖者,全地的以羅欣,伊欲按呢稱呼伊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "你的丈夫"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "你的創造者"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "閣你的救贖者"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "伊欲稱呼"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:14.797970964Z",
+  "model": "glm-5.3"
+}

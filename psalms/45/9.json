@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "沒藥、蘆薈、肉桂,攏是你的衫;對象牙的宮殿,弦琴予你歡喜。",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "沒藥"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "蘆薈"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "肉桂"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "是你的衫"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "宮殿"
+    },
+    {
+      "surface": "שן",
+      "gloss": "象牙"
+    },
+    {
+      "surface": "מני",
+      "gloss": "弦琴"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "予你歡喜"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:47.675269654Z",
+  "model": "glm-5.3"
+}

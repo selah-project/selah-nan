@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "錫安的查某囝留落來,親像葡萄園內的草寮,親像黃瓜園內的寮仔,親像受圍困的城。",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "留落來"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "親像草寮"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "佇葡萄園內"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "親像寮仔"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "佇黃瓜園內"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "親像城"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "受圍困"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:46.722960750Z",
+  "model": "glm-5.3"
+}

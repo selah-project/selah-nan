@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "水對海消失去,河嘛會焦涸、乾焦無水。",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "消失去"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "河嘛"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "焦涸"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "乾焦無水"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:08.642945913Z",
+  "model": "glm-5.3"
+}

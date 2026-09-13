@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "通設計圖樣，用金、用銀、用銅來做，",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "通設計"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "圖樣"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "來做"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "用金"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "用銀"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "用銅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:08.229663409Z",
+  "model": "glm-5.3"
+}

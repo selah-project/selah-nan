@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 18:16",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "閣伊的贖價，對滿一個月的，你愛照你的估價贖回：銀五舍客勒，照聖所的舍客勒，一舍客勒是二十格拉。",
+  "tokens": [
+    {
+      "surface": "ופדויו",
+      "gloss": "閣伊的贖價"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…大的"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "一個月"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "你愛贖回"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "照你的估價"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "五"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "照…舍客勒"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所的"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "格拉"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:05.722127325Z",
+  "model": "glm-5.3"
+}

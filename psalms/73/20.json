@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "親像夢,對睏醒過來;阿多奈啊,你醒起的時,你會藐視𪜶的形像。",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "親像夢"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "對睏醒過來"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "你醒起的時"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "𪜶的形像"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "你會藐視"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:29.594685549Z",
+  "model": "glm-5.3"
+}

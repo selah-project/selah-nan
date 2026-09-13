@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "王佮哈曼入去,佮王后以斯帖啉酒。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "佮哈曼"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "啉酒"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王后"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:50.924341574Z",
+  "model": "glm-5.3"
+}

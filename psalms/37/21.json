@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "惡人借錢,毋還;獨義人施恩,嘛給予。",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "借錢"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "還"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "獨義人"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "施恩"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "嘛給予"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:12.010786401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 61:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 61,
+  "translation": "阿多奈雅威的神魂佇我頂面,因為雅威抹油⟨את⟩我,差我去報好消息互窮困的人,去包裹心肝破碎的人,去對掠來的人宣告釋放,對受綁的人開監獄的門。",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "神魂"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇我頂面"
+    },
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "משח",
+      "gloss": "抹油"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "報好消息"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "窮困的人"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "差我"
+    },
+    {
+      "surface": "לחבש",
+      "gloss": "去包裹"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "破碎的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心肝"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "去宣告"
+    },
+    {
+      "surface": "לשבוים",
+      "gloss": "掠來的人"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "釋放"
+    },
+    {
+      "surface": "ולאסורים",
+      "gloss": "對受綁的人"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "開"
+    },
+    {
+      "surface": "קוח",
+      "gloss": "監獄門的開放"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:21.506729598Z",
+  "model": "glm-5.3"
+}

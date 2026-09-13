@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "恁著呵咾雅!向雅威唱新的歌,伊的讚美佇敬虔人的會中。",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "恁著呵咾"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "伊的讚美"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "佇……會中"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "敬虔人的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:50.305015473Z",
+  "model": "glm-5.3"
+}

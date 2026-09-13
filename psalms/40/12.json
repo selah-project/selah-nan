@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "汝,雅威,毋通按捺祢——祢的憐憫,離開我;祢——祢的赫瑟德(慈愛)佮祢——祢的誠實會常常守護我。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "按捺"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "祢的憐憫"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我這位"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "祢的赫瑟德"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "佮祢的誠實"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "守護我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:37.218474956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "去啦,我的子民!入去你的房間內,關你的門佇你後壁;囥密一下仔,到受氣過去。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "去啦"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的子民"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "你的房間內"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "關"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "你的門"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "佇你後壁"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "囥密"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "一下仔"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "瞬息"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "過去"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "受氣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:01.243712691Z",
+  "model": "glm-5.3"
+}

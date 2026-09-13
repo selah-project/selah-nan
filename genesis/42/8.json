@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "約瑟認得⟨את⟩伊的兄弟,毋閣𪜶無認得伊。",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "認得"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的兄弟"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "והם",
+      "gloss": "毋閣𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "認得伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:46.429821826Z",
+  "model": "glm-5.3"
+}

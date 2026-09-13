@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "計謀欲做歹的人,人會叫伊做奸計的頭人。",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "欲做歹"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "奸計"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "人會叫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:27.263981500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 34:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "驚了你佮徛佇彼個土地的居民結約,𪜶綴𪜶的神明去行淫,閣獻祭予𪜶的神明,若有人招你,你就食伊的祭物。",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "驚了"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "你…結"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "佮…的居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個土地"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "𪜶…去行淫"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的神明"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "閣獻祭"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "予𪜶的神明"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "招"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "你就食"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "伊的祭物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:36.667281095Z",
+  "model": "glm-5.3"
+}

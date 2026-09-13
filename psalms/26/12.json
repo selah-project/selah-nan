@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我的腳徛佇平坦之地;佇會眾的中間我欲祝福雅威。",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "徛"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "佇平坦之地"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "佇會眾的中間"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "我欲祝福"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:42.641808211Z",
+  "model": "glm-5.3"
+}

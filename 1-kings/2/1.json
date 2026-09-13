@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "大衛的日子咧接近死,伊就吩咐 ⟨את⟩ 伊的子所羅門,講:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "咧接近"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "的日子"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "למות",
+      "gloss": "欲死"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "就吩咐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所羅門"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:35.423858900Z",
+  "model": "glm-5.3"
+}

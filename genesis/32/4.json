@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "雅各差使者佇伊頭前, 去伊的兄哥以掃遐, 去西珥境內, 以東的田野。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊頭前"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄哥"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "境內"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田野"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:32.377353993Z",
+  "model": "glm-5.3"
+}

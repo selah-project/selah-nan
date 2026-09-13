@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "大聲吼出來,毋通抑制,親像號頭按呢攑懸你的聲,對我的子民宣示𪜶的悖逆,對雅各家宣示𪜶的罪。",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "大聲吼出來"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "用喉嚨"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "抑制"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "親像號頭"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "攑懸"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "你的聲"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "佮宣示"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "對我的子民"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "𪜶的悖逆"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "佮對…的家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "𪜶的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:27.906318502Z",
+  "model": "glm-5.3"
+}

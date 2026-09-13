@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "智慧人的心佇哀傷的厝,愚戇人的心佇歡喜的厝。",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的厝"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "閣…的心"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的厝"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:57.498673721Z",
+  "model": "glm-5.3"
+}

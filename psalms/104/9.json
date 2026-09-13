@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "祢設界限,𪜶袂越過;𪜶袂倒轉來遮蓋大地。",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "界限"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "祢設"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "𪜶越過"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "𪜶倒轉"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "來遮蓋"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:36.085154700Z",
+  "model": "glm-5.3"
+}

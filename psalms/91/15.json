@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "伊欲叫我的名,我欲應伊;佇患難中我佮伊佇咧;我欲拯救伊,我欲互伊尊貴。",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "伊欲叫我的名"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "我欲應伊"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "我欲拯救伊"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "我欲互伊尊貴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:32.674095369Z",
+  "model": "glm-5.3"
+}

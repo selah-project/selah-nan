@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 51:40",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "我欲帶𪜶落去,親像羊羔到刣牲的所在,親像公羊佮公山羊。",
+  "tokens": [
+    {
+      "surface": "אורידם",
+      "gloss": "我欲帶𪜶落去"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "親像羊羔"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "到刣牲的所在"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "親像公羊"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "公山羊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:49.145613291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 19:8",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊用牆圍我的路,互我袂得過;佇我的路徑頂面鋪烏暗。",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "我的路"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "用牆圍"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "我過"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "נתיבותי",
+      "gloss": "我的路徑"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "鋪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:25:34.541504636Z",
+  "model": "glm-5.3"
+}

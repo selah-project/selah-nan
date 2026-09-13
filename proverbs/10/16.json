@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "公義的人的工課⟨行向⟩活命,歹人的收入⟨行向⟩罪。",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "工課"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "⟨行向⟩活命"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "收入"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "⟨行向⟩罪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:30.304467311Z",
+  "model": "glm-5.3"
+}

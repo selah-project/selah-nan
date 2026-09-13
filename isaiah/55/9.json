@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "因為天懸佇地面頂,按呢我的路嘛懸佇恁的路頂面,我的想法嘛懸佇恁的想法頂面。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "懸"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "比地(面)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "懸"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "我的路"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "比恁的路"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "閣我的想法"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "比恁的想法"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:35.289697250Z",
+  "model": "glm-5.3"
+}

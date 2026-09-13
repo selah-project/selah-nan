@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "山羊母兩百隻、山羊公二十隻,綿羊母兩百隻、公羊二十隻,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "山羊母"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "兩百隻"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "山羊公"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十隻"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "綿羊母"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "兩百隻"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十隻"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:09.577275329Z",
+  "model": "glm-5.3"
+}

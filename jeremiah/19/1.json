@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 19:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "按呢雅威講:你去買一个陶匠𪜶燒的瓶仔,閣對民間的長老佮祭司的長老中間帶幾个來。",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "閣買"
+    },
+    {
+      "surface": "בקבק",
+      "gloss": "瓶仔"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "陶匠"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "燒(陶)"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "閣對……的長老"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民間"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "佮……的長老"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    }
+  ],
+  "timestamp": "2026-09-12T03:54:13.370523805Z",
+  "model": "glm-5.3"
+}

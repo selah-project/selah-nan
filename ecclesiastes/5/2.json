@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "因為夢對多多工課來,戇人个聲對多多話語來。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "夢"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "對多多"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "工課"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "佮…个聲"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "對多多"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "話語"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:52.036797939Z",
+  "model": "glm-5.3"
+}

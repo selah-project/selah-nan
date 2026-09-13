@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣佇彼日,我欲設法滅無⟨את⟩一切來攻擊耶路撒冷的列國。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "閣會發生"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "我欲設法"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "滅無"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切列國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "來"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:03.939229941Z",
+  "model": "glm-5.3"
+}

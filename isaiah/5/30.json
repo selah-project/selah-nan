@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 5:30",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "彼個日子,伊欲對伊低吼,親像海的大聲吼;人若看向地,看啊,烏暗佮苦難,連光佇伊的雲頂攏變暗。",
+  "tokens": [
+    {
+      "surface": "וינהם",
+      "gloss": "低吼"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "כנהמת",
+      "gloss": "親像大聲吼"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ונבט",
+      "gloss": "若看向"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "צר",
+      "gloss": "苦難"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "連光"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "變暗"
+    },
+    {
+      "surface": "בעריפיה",
+      "gloss": "佇伊的雲頂"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:49.370743840Z",
+  "model": "glm-5.3"
+}

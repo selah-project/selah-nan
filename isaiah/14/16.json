@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "看著你的人欲凝視你,欲斟酌看你,講:「這就是彼个搖動大地、震動列國的人?」",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "看著你的人"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "欲凝視"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "欲斟酌看"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這就是"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "震動"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "列國"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:33.618664646Z",
+  "model": "glm-5.3"
+}

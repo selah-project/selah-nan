@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佇𪜶的街仔內𪜶縛麻布;佇𪜶的厝頂頂,佇𪜶的廣場,攏總咧嚎,落佇啼哭。",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "佇𪜶的街仔內"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "縛"
+    },
+    {
+      "surface": "שק",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "𪜶的厝頂頂"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "佮佇𪜶的廣場"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "咧嚎"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "落"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "佇啼哭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:10.462665320Z",
+  "model": "glm-5.3"
+}

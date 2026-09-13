@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "𪜶就歡喜,因為波浪安靜矣;伊就引𪜶到𪜶所愛的港。",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "𪜶就歡喜"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "安靜矣"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "伊就引"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "港"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "𪜶所愛的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:42.277128567Z",
+  "model": "glm-5.3"
+}

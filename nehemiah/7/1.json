@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 7:1",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "牆起好矣,門斗嘛下矣,我就派守門的、唱歌的佮利未人。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生矣"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當…的時陣"
+    },
+    {
+      "surface": "נבנתה",
+      "gloss": "起好"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "牆"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "我就下"
+    },
+    {
+      "surface": "הדלתות",
+      "gloss": "門斗"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "受派"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "守門的"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "唱歌的"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "利未人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:29.316469838Z",
+  "model": "glm-5.3"
+}

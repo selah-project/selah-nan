@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣有智慧的人會發光,親像天穹的光彼號光;閣互真濟人得著稱義的,會親像星辰,到永遠閣無煞。",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "閣有智慧的人"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "會發光"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "親像…的光"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "天穹"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "閣稱…做義"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "真濟人"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "親像星辰"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣無煞"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:55.151469579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "當我下⟨את⟩我的心欲知智慧、欲看⟨את⟩佇地上所行的事務,因為無論日時抑是暗暝,佇目睭內睏眠攏無看見。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "當"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的心"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "欲知"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "事務"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "事務"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日時"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "抑是暗暝"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "睏眠"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊的目睭"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "無"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "看見"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:35.377083498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "伊毋會餒志,也毋會受挫,直到伊佇地上設立公義;海島攏欲向伊的律法等候。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋會"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "餒志"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋會"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "受挫"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "設立"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "向伊的律法"
+    },
+    {
+      "surface": "איים",
+      "gloss": "海島攏"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "欲等候"
+    }
+  ],
+  "timestamp": "2026-09-12T03:39:21.908678523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "佇第三輛馬車有白色的馬,佇第四輛馬車有花斑閣勇健的馬。",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "佇第三輛馬車"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "第三"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "白色的"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "佇第四輛馬車"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "第四"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "花斑的"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "勇健的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:59.831469792Z",
+  "model": "glm-5.3"
+}

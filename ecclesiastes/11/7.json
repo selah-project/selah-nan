@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣光是真甜,目睭看著⟨את⟩日頭嘛是好代誌。",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "閣……真甜"
+    },
+    {
+      "surface": "האור",
+      "gloss": "光"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "嘛是好"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "日頭"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:29.642601030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩兔仔,因為伊會反芻,毋過蹄無分開,伊對恁是無清氣的。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "兔仔"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "兔仔"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "會反芻"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "(所反芻的)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "毋過蹄"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "分開"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:06.752861809Z",
+  "model": "glm-5.3"
+}

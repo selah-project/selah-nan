@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "約書亞打發⟨את⟩眾人去了了,以色列入的囝仔就逐家己去家己的產業,欲佔取⟨את⟩彼個地。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "打發…去"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "眾人"
+    },
+    {
+      "surface": "העם",
+      "gloss": "眾人"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "就去"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列入"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "去家己的產業"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "欲佔取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:51.238762720Z",
+  "model": "glm-5.3"
+}

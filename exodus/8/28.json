@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "法老這擺嘛閣互⟨את⟩伊的心剛硬,就無放⟨את⟩人民出去。",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "互……剛硬"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的心"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "佇……擺"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放……出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:24.274506199Z",
+  "model": "glm-5.3"
+}

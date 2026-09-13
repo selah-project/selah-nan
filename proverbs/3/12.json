@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為雅威責備⟨את⟩伊所疼的,親像老父責備⟨את⟩伊所歡喜的子。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所疼的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所……的"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "責備"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "親像老父"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "子"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "伊所歡喜的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:33.460230671Z",
+  "model": "glm-5.3"
+}

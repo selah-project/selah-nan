@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我的心內昏厥的時,我數念⟨את⟩雅威,我的祈禱入來到你遐,入到你的聖殿。",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "昏厥的時"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "(我)身上"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "我數念"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "入來到"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "你遐"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "我的祈禱"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入到"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "你的聖"
+    }
+  ],
+  "timestamp": "2026-09-12T04:33:08.253444300Z",
+  "model": "glm-5.3"
+}

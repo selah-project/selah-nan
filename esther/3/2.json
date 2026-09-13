@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 3:2",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇王門許的所有王的奴僕攏跪落、向哈曼下拜,因為王按呢吩咐伊;獨獨末底改毋跪,也毋下拜。",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "閣所有"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇門"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "跪落"
+    },
+    {
+      "surface": "ומשתחוים",
+      "gloss": "閣下拜"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "向哈曼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "獨獨末底改"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "跪"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "下拜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:25.211528413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "非利士人召祭司佮占卜的來,講:「咱欲對雅威的約櫃按怎辦?請教示咱,欲按啥物方式送伊轉去伊的所在。」",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "召…來"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "佮占卜的"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "咱欲…辦"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "對…約櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "請教示咱"
+    },
+    {
+      "surface": "במה",
+      "gloss": "按啥物方式"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "咱送伊"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "轉去伊的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:59.487620393Z",
+  "model": "glm-5.3"
+}

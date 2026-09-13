@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "佇諸個以羅欣中間無親像𪜶的,阿多奈啊;嘛無作品親像𪜶的作品的。",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "親像𪜶的"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "佇諸個以羅欣中間"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "親像𪜶的作品的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:16.234876287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "雅威你的以羅欣交出𪜶到你面前,你著拍擊𪜶;毀滅閣毀滅⟨את⟩𪜶;毋通佮𪜶立約,嘛毋通憐憫𪜶。",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "交出𪜶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "到你面前"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "你著拍擊𪜶"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "毀滅"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "閣毀滅"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "立"
+    },
+    {
+      "surface": "להם",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "憐憫𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:21.021583580Z",
+  "model": "glm-5.3"
+}

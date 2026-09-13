@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "便雅悯生⟨את⟩比拉做伊的頭胎子,亞實別第二,亞哈拉第三。",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "便雅悯"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "比拉"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "比拉"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "伊的頭胎子"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "亞實別"
+    },
+    {
+      "surface": "השני",
+      "gloss": "第二"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "亞哈拉"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:42.459906121Z",
+  "model": "glm-5.3"
+}

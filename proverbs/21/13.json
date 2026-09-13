@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "掩伊的耳仔毋聽窮散人的哀叫的人,伊本身嘛欲叫,卻無人應伊。",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "掩"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "伊的耳仔"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "毋聽哀叫"
+    },
+    {
+      "surface": "דל",
+      "gloss": "窮散人"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊本身"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "欲叫"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "卻無"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "人應伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:06.115532184Z",
+  "model": "glm-5.3"
+}

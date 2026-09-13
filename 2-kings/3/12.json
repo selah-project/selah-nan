@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "約沙法講:「雅威的話有佇伊身上 ⟨את⟩。」以色列的王、約沙法佮以東的王就落去伊遐。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的話"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "落去"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊遐"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    }
+  ],
+  "timestamp": "2026-09-12T03:15:50.458181756Z",
+  "model": "glm-5.3"
+}

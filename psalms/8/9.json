@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "天頂的鳥仔,佮海裡的魚,行過海路的逐項。",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "鳥仔"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "佮魚"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海裡的"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "行過"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "海路"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:58.099818047Z",
+  "model": "glm-5.3"
+}

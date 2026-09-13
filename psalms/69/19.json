@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "近倚我的性命，救贖⟨伊⟩；為著我的對敵的緣故，贖回我。",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "近倚"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "救贖⟨伊⟩"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著……的緣故"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "贖回我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:56.460990951Z",
+  "model": "glm-5.3"
+}

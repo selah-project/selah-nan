@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "𪜶看見你的行伍,以羅欣啊,我的以勒、我的王的行伍,佇聖所。",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "𪜶看見"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "你的行伍"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "行伍"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我的以勒"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "我的王"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:15.693202163Z",
+  "model": "glm-5.3"
+}

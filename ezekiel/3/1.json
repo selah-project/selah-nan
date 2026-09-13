@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊對我講:人子啊,⟨את⟩啥物你抵著,就食;食⟨את⟩這个卷,然後去,對以色列家講。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊對我講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "啥物你抵著的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "你抵著"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "食"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个卷"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "這个卷"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "然後去"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:41.123392685Z",
+  "model": "glm-5.3"
+}

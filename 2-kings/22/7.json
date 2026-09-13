@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "毋過,交佇𪜶手中的銀毋免佮⟨את⟩𪜶算數,因為𪜶攏用誠實咧做工。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "毋過"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋免"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "算數"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "交佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "𪜶手中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "用誠實"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "咧做工"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:27.793719646Z",
+  "model": "glm-5.3"
+}

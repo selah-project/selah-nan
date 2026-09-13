@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "因為阮的悖逆佇你面前增加,阮的罪對阮做干證;因為阮的悖逆佮⟨את⟩阮佇咧,阮的過失阮知影。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "增加"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "阮的悖逆"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "阮的罪"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "做干證"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "對阮"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "阮的悖逆"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩阮",
+      "marks": "阮(悖逆佮阮佇咧)"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "阮的過失"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "阮知影"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:44.173097151Z",
+  "model": "glm-5.3"
+}

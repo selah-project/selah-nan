@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "六日你欲做工,佇第七日你欲歇睏安息;踅田的時佮收割的時你欲安息。",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "六"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "你欲做工"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "你欲安息"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "佇踅田的時"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "佮佇收割的時"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "你欲安息"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:08.241203195Z",
+  "model": "glm-5.3"
+}

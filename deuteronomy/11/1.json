@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "所以恁著愛 ⟨את⟩ 雅威——恁的以羅欣,謹守伊的所守、伊的律例、伊的典章、佮伊的誡命,攏總所有的日子。",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "恁著愛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "謹守"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "伊的所守"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "伊的律例"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "伊的典章"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "伊的誡命"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "所有的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:34.807496152Z",
+  "model": "glm-5.3"
+}

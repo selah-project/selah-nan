@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 82,
+  "translation": "我講過:恁是以羅欣,恁攏是以利永的子。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "講過"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "佮…的子"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以利永"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "恁攏是"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:04.844643249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣雅各聽從伊老爸佮伊老母的話,就去巴旦亞蘭。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽從"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老爸"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "巴旦"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:59.325750947Z",
+  "model": "glm-5.3"
+}

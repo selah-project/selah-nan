@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我欲向雅威等候,伊掩伊的面,離開雅各家,我嘛欲等候伊。",
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "我欲…等候"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "伊掩"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "離開…家"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "我嘛欲等候"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:44.059233463Z",
+  "model": "glm-5.3"
+}

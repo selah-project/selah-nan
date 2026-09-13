@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是一个人放 ⟨את⟩ 伊的牛羊去食別人的田抑是葡萄園,伊的牛羊佇別人的田裡食,伊著用伊家己田裡上好的佮伊葡萄園裡上好的來賠償。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "放去食"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的牛羊"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "牛羊"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "去食"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇別人的田"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別人的"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "上好的"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "伊家己田裡"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "佮上好的"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "伊葡萄園裡"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "著來賠償"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:26.294565196Z",
+  "model": "glm-5.3"
+}

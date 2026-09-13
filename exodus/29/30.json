@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "七日久,彼个對伊的眾囝出來、替代伊做祭司的,欲穿彼个衫,就是入去會幕、欲佇聖所服事的。",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "欲穿彼"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "替代伊"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "對伊的眾囝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相會"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "欲服事"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "佇聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:56.425267550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "冰雹拍佇米茲拉因全地,⟨את⟩田裡所有的一切,對人到精牲;閣⟨את⟩田裡所有的草,冰雹攏拍,閣⟨את⟩田裡所有的樹,攏拍碎矣。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "拍"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "冰雹"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "田裡所有的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇田裡"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "對人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "精牲"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "田裡所有的草"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "彼田"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "拍"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "冰雹"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "田裡所有的樹"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "彼田"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "拍碎"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:46.270656051Z",
+  "model": "glm-5.3"
+}

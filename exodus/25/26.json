@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣你欲給伊做四个金環,閣你欲將 ⟨את⟩ 諸个環下佇四個邊角,就是佇伊四支跤頂。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "閣你欲做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "環"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "閣你欲下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸个環"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "諸个環"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "个邊角"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "佇四"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊个跤"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:03.137413902Z",
+  "model": "glm-5.3"
+}

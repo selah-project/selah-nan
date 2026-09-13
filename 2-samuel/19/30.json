@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "王就對伊講:你哪會閣講你的事?我已經講矣:你佮洗巴來分⟨את⟩彼坵田。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "למה",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的事"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我已經講"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "佮洗巴"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "來分"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼坵田"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "彼坵田"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:53.104631773Z",
+  "model": "glm-5.3"
+}

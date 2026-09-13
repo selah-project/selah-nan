@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "對你,獨獨你,我犯罪,佇你目睭前行此歹,為著欲互你佇你的話得著斷做對,佇你的審判得著清白。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "獨獨你"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "我犯罪"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "行此歹"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "佇你目睭前"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "行"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著欲互"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "得著斷做對"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "佇你的話"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "得著清白"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "佇你的審判"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:47.992499498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你欲⟨את⟩共彼的棍仔放入去阿倫邊肋的環仔內,通用𪜶扛⟨את⟩阿倫。",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "你欲…放入去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼的棍仔"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "彼的棍仔"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "入去…環仔內"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "邊肋"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "阿倫"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "通扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿倫"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "阿倫"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "用𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:31.191495622Z",
+  "model": "glm-5.3"
+}

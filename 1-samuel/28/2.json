@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "大衛對亞基士講:「按呢,你會通知⟨את⟩你的奴僕所做的。」亞基士對大衛講:「按呢,我欲設立你做守衛顧我的頭,攏總日子。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞基士"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "會通知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的奴僕所做的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "亞基士"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "守衛"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "顧我的頭"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "我設立你"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日子"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:17.102810427Z",
+  "model": "glm-5.3"
+}

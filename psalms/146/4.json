@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 146,
+  "translation": "伊的氣一出去,伊就倒歸伊的土地;佇彼一日,伊的計謀攏滅無去。",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "一出去"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "伊的氣"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "伊就倒歸"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼一日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "攏滅無去"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "伊的計謀"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:33.298620063Z",
+  "model": "glm-5.3"
+}

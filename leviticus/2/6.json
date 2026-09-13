@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "著共⟨את⟩伊掰做一塊一塊,閣倒油佇伊頂面;伊就是素祭。",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "掰開"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "一塊一塊"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "做一塊一塊"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "閣倒落去"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊就是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:28.531626688Z",
+  "model": "glm-5.3"
+}

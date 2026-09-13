@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "欲開睛盲人的目睭,對監牢提出囚犯,對關監的厝提出坐佇烏暗中的人。",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "開"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "睛盲的"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "提出去"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "對監牢"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "囚犯"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "對厝"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "關監"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "坐佇…的人"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "烏暗"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:27.725053600Z",
+  "model": "glm-5.3"
+}

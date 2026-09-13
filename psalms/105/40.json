@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "𪜩求,伊就帶鵪鶉來,用天頂的餅予𪜩食到飽。",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "𪜩求"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "伊就帶…來"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "鵪鶉"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "用餅"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "予𪜩食到飽"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:46.978424606Z",
+  "model": "glm-5.3"
+}

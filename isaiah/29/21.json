@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 29:21",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "用一句話害人出差錯,佇城門為責備人的人設網仔,閣用空虛的代誌予義人偏去的。",
+  "tokens": [
+    {
+      "surface": "מחטיאי",
+      "gloss": "害……出差錯"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "用一句話"
+    },
+    {
+      "surface": "ולמוכיח",
+      "gloss": "閣對責備人的人"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇城門"
+    },
+    {
+      "surface": "יקשון",
+      "gloss": "設網仔"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "閣予……偏去"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "用空虛的代誌"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:24.291357014Z",
+  "model": "glm-5.3"
+}

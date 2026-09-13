@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣今,你來,我欲差你去見法老,閣你欲帶⟨את⟩我的百姓、以色列的囝仔對米茲拉因(埃及)出來。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "閣今"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "你來"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "我欲差你"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去見"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "閣你欲帶……出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的百姓、以色列的囝仔"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因(埃及)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:51.626798306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "我欲報你的義,閣⟨את⟩你的所行,𪜶對你無利益。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "欲報"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "你的義"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你的所行"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "你的所行"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "對你有利益"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:47.127515182Z",
+  "model": "glm-5.3"
+}

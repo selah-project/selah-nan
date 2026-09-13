@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "後來,亞捫人仔的王拿轄死矣,伊的仔就接替伊做王。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "後來"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "了"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(彼以外)"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "拿轄"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人仔"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的仔"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接替伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:05:50.753778518Z",
+  "model": "glm-5.3"
+}

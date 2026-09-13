@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊閣等七日別的日了後,就閣再差遣 ⟨את⟩ 彼隻鴿仔對方舟出去。",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "伊就等"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "閣再"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻鴿仔"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "彼隻鴿仔"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…出去"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "方舟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:58.945958225Z",
+  "model": "glm-5.3"
+}

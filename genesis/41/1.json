@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "過了兩年滿的日子,法老咧夢,看啊,伊徛佇河邊。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "過了"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "…个尾"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "兩年"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "滿个日子"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "咧夢"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "河"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:18.292610082Z",
+  "model": "glm-5.3"
+}

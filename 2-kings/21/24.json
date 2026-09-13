@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "此地的人拍死⟨את⟩所有陰謀反抗亞們王的人,閣此地的人立⟨את⟩約西亞、伊的囝,做王代替伊。",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "閣拍死"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有陰謀反抗亞們王的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "陰謀者"
+    },
+    {
+      "surface": "על",
+      "gloss": "反抗"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "亞們"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "閣立做王"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約西亞"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的囝"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "代替伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:55.019901232Z",
+  "model": "glm-5.3"
+}

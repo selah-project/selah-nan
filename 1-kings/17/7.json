@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "過了多多日,彼條溪就焦去,因為地上無落雨。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "過了……的尾"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "多多日"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "就焦去"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "彼條溪"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T03:10:56.878705092Z",
+  "model": "glm-5.3"
+}

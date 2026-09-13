@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "所以阮講:咱來家己起造⟨את⟩祭壇,毋是為著燒祭,嘛毋是為著獻祭。",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "所以阮講"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "咱來做"
+    },
+    {
+      "surface": "נא",
+      "gloss": "來"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "為咱家己"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭壇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "為著燒祭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋是"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "為著獻祭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:04.185618141Z",
+  "model": "glm-5.3"
+}

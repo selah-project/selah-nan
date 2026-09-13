@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 40:24",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊帶我沿向南的路行,看啊,有一個門向南方;伊量伊的壁柱佮伊的廊仔,照這號量法。",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "伊帶我行"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "向南方"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "שער",
+      "gloss": "一個門"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "向"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "南方"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "伊的壁柱"
+    },
+    {
+      "surface": "ואילמו",
+      "gloss": "伊的廊仔"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "照…的量法"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這號"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:53.835016371Z",
+  "model": "glm-5.3"
+}

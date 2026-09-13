@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願無人對伊伸出赫瑟德,嘛無人施恩惠互伊的孤囝。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "願毋通"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "משך",
+      "gloss": "伸出"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮嘛毋通"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "施恩惠"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "互伊的孤囝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:09.427727360Z",
+  "model": "glm-5.3"
+}

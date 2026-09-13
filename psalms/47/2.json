@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "萬民啊,恁攏來拍掌;用歡呼的聲向以羅欣喝采!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "拍"
+    },
+    {
+      "surface": "כף",
+      "gloss": "手掌"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "喝采"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "向以羅欣"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "用…的聲"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "歡呼"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:09.190139158Z",
+  "model": "glm-5.3"
+}

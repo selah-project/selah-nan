@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "malachi 2:11",
+  "book": "malachi",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "猶大背信,佇以色列佮耶路撒冷有可憎惡个代誌做出來;因為猶大褻瀆雅威个聖──伊所疼个──閣娶外邦神个查某囝。",
+  "tokens": [
+    {
+      "surface": "בגדה",
+      "gloss": "背信"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ותועבה",
+      "gloss": "可憎惡个代誌"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "做出來"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "褻瀆"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…个"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "所疼"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "娶"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "אל",
+      "gloss": "神"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "外邦(个)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:09.838765418Z",
+  "model": "glm-5.3"
+}

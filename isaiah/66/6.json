@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "有喧嘩的聲對城裡來,有聲對殿來,是雅威的聲,伊欲報應伊的對敵。",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "對城裡"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "對殿"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "報應"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "予伊的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:29.168114892Z",
+  "model": "glm-5.3"
+}

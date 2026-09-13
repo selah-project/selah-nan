@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "人對伊喙的果子食著好物,毋過悖謹的人的心,是強暴。",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "對……的果子"
+    },
+    {
+      "surface": "פי",
+      "gloss": "喙"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "食著"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好物"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "毋過……的心"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "悖謹的人"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:34.647167827Z",
+  "model": "glm-5.3"
+}

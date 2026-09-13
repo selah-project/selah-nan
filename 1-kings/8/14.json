@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "王轉向⟨את⟩伊的面,祝福⟨את⟩以色列全會眾,以色列的全會眾攏徛在。",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "轉向"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的面"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列全會眾"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "全"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "攏徛在"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:55.535805040Z",
+  "model": "glm-5.3"
+}

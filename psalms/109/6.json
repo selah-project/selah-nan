@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "設立一個歹人佇伊頂面,互撒但徛佇伊的正手爿。",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "設立"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "互撒但"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "伊的正手爿"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.771716455Z",
+  "model": "glm-5.3"
+}

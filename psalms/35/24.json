@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "雅威我的以羅欣啊,照你的公義審判我;莫得互𪜶對我歡喜。",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "審判我"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "照你的公義"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "莫得"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "互𪜶歡喜"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:12.712166153Z",
+  "model": "glm-5.3"
+}

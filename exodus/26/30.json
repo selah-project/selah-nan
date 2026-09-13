@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "你欲照伊的規例,就是佇山裡互你看過的彼个樣,起 ⟨את⟩ 會幕。",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "你欲起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "照伊的規例"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "你看過的"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山裡"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:55.447266335Z",
+  "model": "glm-5.3"
+}

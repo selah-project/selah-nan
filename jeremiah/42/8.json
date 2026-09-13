@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "伊就召集約哈難——卡拉的後生——佮所有佮⟨את⟩伊做夥的軍長,以及全體的百姓,對上細的到大號的。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "伊就召集"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "約哈難"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "卡拉"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "佮對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "……的長"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "軍兵"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼寡"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩佮伊",
+      "marks": "伊做夥的"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "以及全體的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "對上細的"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大號的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:03:12.349679353Z",
+  "model": "glm-5.3"
+}

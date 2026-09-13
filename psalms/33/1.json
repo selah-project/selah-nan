@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "義人著歕吶喝佇雅威,讚美對正直的人是合宜的。",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "歕吶喝"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "對正直的人"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "合宜"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "讚美"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:50.793515107Z",
+  "model": "glm-5.3"
+}

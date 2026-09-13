@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "因為雅威・采巴奧特(萬軍)按呢講:閣一擺,⟨是⟩短短,我就欲搖動⟨את⟩諸天、佮⟨את⟩土地、佮⟨את⟩海、佮⟨את⟩乾旱地。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一擺"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "短短"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨是⟩伊"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我就"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸天"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "海"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "乾旱地"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "乾旱地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:31.224802385Z",
+  "model": "glm-5.3"
+}

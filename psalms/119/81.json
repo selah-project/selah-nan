@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的性命為著你的搭救強欲消失去;為著你的話我猶原向望。",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "強欲消失去"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "為著你的搭救"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "為著你的話"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "我猶原向望"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:00.619808732Z",
+  "model": "glm-5.3"
+}

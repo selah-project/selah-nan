@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "恁著用恁麵的頭甸舉一个餅做起奉獻禮物,親像禾埕的奉獻禮物彼款,恁著按呢舉起來 ⟨את⟩ 伊。",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "頭甸"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "恁的麵"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "餅"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "恁著舉起來"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "奉獻禮物"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "親像……的奉獻禮物"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "禾埕"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "恁著舉起來"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ 伊",
+      "marks": "伊(彼个餅)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:58:03.814959203Z",
+  "model": "glm-5.3"
+}

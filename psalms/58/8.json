@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "願𪜶親像水消散,親像水四界流走;伊上箭的時,願箭親像予人折斷。",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "消散"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "四界流走"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "上箭"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "伊的箭"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "予人折斷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:35.478542777Z",
+  "model": "glm-5.3"
+}

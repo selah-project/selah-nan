@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "獨獨聚集⟨את⟩會眾的時,恁著吹,毋通吹警號。",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "聚集…的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會眾"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "恁著吹"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "吹警號"
+    }
+  ],
+  "timestamp": "2026-09-12T01:55:19.672484966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 12:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "當雅羅波安(耶羅波安)、尼巴的子,聽著的時——伊猶閣佇米茲拉因(埃及),就是伊對示羅摩(所羅門)王的面走逃去的地——雅羅波安就徛佇米茲拉因。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聽著"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "雅羅波安"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "尼巴"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "猶閣"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇米茲拉因"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "走逃去"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…的面"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "示羅摩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "就徛"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "雅羅波安"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T03:09:00.205957618Z",
+  "model": "glm-5.3"
+}

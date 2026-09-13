@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "起來,雅威!救我,我的以羅欣啊!因為你已經拍⟨את⟩我眾仇敵的頰骨,打破了歹人的喙齒。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "你已經拍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我眾仇敵的頰骨"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "頰骨"
+    },
+    {
+      "surface": "שני",
+      "gloss": "喙齒"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人的"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "你打破了"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:12.964806552Z",
+  "model": "glm-5.3"
+}

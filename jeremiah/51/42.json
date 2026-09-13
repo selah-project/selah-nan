@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "海湧湧起來攻擊巴比倫,伊予濟濟海浪蓋牢矣。",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "湧起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "佇濟濟"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "海浪"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "予人蓋牢矣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:50.276394900Z",
+  "model": "glm-5.3"
+}

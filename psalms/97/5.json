@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "諸個山嶺親像蠟熔去,佇雅威面前,佇阿多奈、全地⟨的⟩面前熔去。",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "諸個山嶺"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "親像蠟"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "熔去"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:04.809469315Z",
+  "model": "glm-5.3"
+}

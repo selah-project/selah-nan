@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 1:42",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊猶閣咧講話,看啊,約拿單,亞比亞塔个祭司个後生入來;亞多尼亞就共伊講:「入來,因為你是勇敢个人,佮你報好消息。」",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "猶閣"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "咧講話"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "בן",
+      "gloss": "个後生"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞塔"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就共伊講"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "亞多尼亞"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "איש",
+      "gloss": "个人"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "勇敢"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "佮好"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "報消息"
+    }
+  ],
+  "timestamp": "2026-09-13T04:26:43.624521290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "伊赦免你一切的過失,醫好你一切的病症。",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "赦免的"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "你的過失"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "醫好的"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "一切的"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "你的病症"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:55.345235551Z",
+  "model": "glm-5.3"
+}

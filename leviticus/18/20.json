@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "到佮你同伴的某,你毋通互你的躺臥做種,來佮伊染著無清潔。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "你同伴的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "你的躺臥"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "做種"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "來染著無清潔"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佮伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:05.153487805Z",
+  "model": "glm-5.3"
+}

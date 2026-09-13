@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "用強的手,伸展出來的胳膊,因為伊的赫瑟德存到永遠。",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強的"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "用…的胳膊"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "伸展"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:29.888003645Z",
+  "model": "glm-5.3"
+}

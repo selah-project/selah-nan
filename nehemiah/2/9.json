@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 2:9",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我就來到河彼岸諸個總督遐,共𪜶⟨את⟩王的批;嘛是王差軍事首長佮騎兵佮我同行。",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "我就來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "諸個總督"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "彼岸"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "河"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "我共…(給)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王的批"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "批"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我同行"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "首長"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍力"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "佮騎兵"
+    }
+  ],
+  "timestamp": "2026-09-12T05:54:26.853681787Z",
+  "model": "glm-5.3"
+}

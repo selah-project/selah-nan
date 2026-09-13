@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "示阿勒的繩索環圍我,死亡的網罟迎頭拄著我。",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "繩索"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "環圍我"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "迎頭拄著我"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "網罟"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:55.958319833Z",
+  "model": "glm-5.3"
+}

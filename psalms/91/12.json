@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "𪜶要佇手掌頂捧你起來,免得你的腳撞著石頭。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "手掌"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "捧你起來"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "撞著"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "著石頭"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "你的腳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:18.700736881Z",
+  "model": "glm-5.3"
+}

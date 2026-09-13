@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "𪜶欲做可憎的物對恁;對𪜶的肉恁毋通食,⟨את⟩ 𪜶的死體恁著厭惡。",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "佮可憎的物"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "做"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "對𪜶的肉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的死體"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "𪜶的死體"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "恁厭惡"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:08.742636743Z",
+  "model": "glm-5.3"
+}

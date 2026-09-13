@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊欲佇雅威面前宰 ⟨את⟩ 彼隻牛;亞倫的囝仔做祭司的欲獻 ⟨את⟩ 彼個血,閣欲共 ⟨את⟩ 彼個血灑佇彼个壇的四箍圍,彼壇就是佇會幕門口的。",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "伊欲宰"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻牛"
+    },
+    {
+      "surface": "בן",
+      "gloss": "牛"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "彼隻牛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "閣欲獻"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "做祭司的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "彼個血"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "閣欲灑"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "彼個血"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "彼个壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍圍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會幕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:29.648910472Z",
+  "model": "glm-5.3"
+}

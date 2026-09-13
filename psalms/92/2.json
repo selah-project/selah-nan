@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 92,
+  "translation": "好,來感謝雅威,閣來唱歌讚美你的名,以里昂(至高者)。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "來感謝"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "閣來唱歌讚美"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以里昂"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:51.263467452Z",
+  "model": "glm-5.3"
+}

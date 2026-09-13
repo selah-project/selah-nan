@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣無酵的餅,佮用油攪和的無酵薄餅,佮用油抹過的無酵圓餅;你欲用小麥的細麵做⟨את⟩諸個。",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "閣無酵的餅"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "佮……薄餅"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "用油攪和的"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "佮……圓餅"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵的"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "抹過的"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "小麥的"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "諸個"
+    }
+  ],
+  "timestamp": "2026-09-13T06:31:19.892105074Z",
+  "model": "glm-5.3"
+}

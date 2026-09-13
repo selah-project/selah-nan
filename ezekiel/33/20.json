@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "閣恁講:「阿多奈的路無秤平。」以色列家啊,我欲照逐人自己的路審判⟨את⟩恁。",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "閣恁講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "秤平"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "照自己的路"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "我欲…審判"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁(以色列家)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:19:11.696323398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "大衛聽見,就派⟨את⟩約押佮⟨את⟩全部勇士的軍隊。",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就派"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約押"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全部勇士的軍隊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "勇士的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:20.526484031Z",
+  "model": "glm-5.3"
+}

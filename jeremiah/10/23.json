@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "雅威啊,我知,人的路毋是在家己,行路的人嘛毋是家己通準備⟨את⟩伊的腳步。",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…啊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "路"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "人的"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行路"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "通準備"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的腳步"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "伊的腳步"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:31.104795029Z",
+  "model": "glm-5.3"
+}

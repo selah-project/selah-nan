@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佮院子的布幔,⟨את⟩院子門口的簾——彼个佇帳幕佮祭壇四圍的——閣⟨את⟩伊的索仔,抵伊一切的服事。",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "佮布幔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院子的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "院子門口的簾"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "簾"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "院子的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳幕"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的索仔"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "伊的索仔"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "抵一切"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "伊的服事"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:36.522633734Z",
+  "model": "glm-5.3"
+}

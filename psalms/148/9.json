@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "山佮攏總的丘陵;果子樹,佮攏總的香柏樹,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總的"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "丘陵"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總的"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "香柏樹"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:27.607109315Z",
+  "model": "glm-5.3"
+}

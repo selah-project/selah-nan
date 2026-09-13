@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "你嘛愛對以色列的子兒講，講：任何人若咒詛伊的以羅欣，就愛擔當伊的罪。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "嘛愛對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "איש",
+      "gloss": "任何"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "就愛擔當"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "伊的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:59.290204436Z",
+  "model": "glm-5.3"
+}

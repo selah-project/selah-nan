@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 6:11",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我落去核桃園,欲看溪谷的嫩芽,欲看葡萄樹敢有開花,石榴敢有發苞。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "落去"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "園"
+    },
+    {
+      "surface": "אגוז",
+      "gloss": "核桃"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "我落"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "באבי",
+      "gloss": "的嫩芽"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "溪谷"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "הפרחה",
+      "gloss": "敢有開花"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "葡萄樹"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "敢有發苞"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "石榴"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:07.714297216Z",
+  "model": "glm-5.3"
+}

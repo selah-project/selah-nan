@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 5:15",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "我欲去,倒轉去我的所在,等到𪜶認罪,閣尋我的面;佇𪜶的患難中,𪜶欲切切尋我。",
+  "tokens": [
+    {
+      "surface": "אלך",
+      "gloss": "我欲去"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "我的所在"
+    },
+    {
+      "surface": "עד",
+      "gloss": "等到"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "𪜶認罪"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "閣尋"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "𪜶欲切切尋我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:31.943326615Z",
+  "model": "glm-5.3"
+}

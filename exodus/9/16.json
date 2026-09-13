@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "毋拘,為著這个緣故我予你徛起,是為著欲顯明互你看⟨את⟩我的力量,閣為著欲佇全地上傳揚我的名。",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "為著"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "我予你徛起"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "為著"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "顯明互你看"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的力量"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的力量"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "閣為著"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "傳揚"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:36.901356778Z",
+  "model": "glm-5.3"
+}

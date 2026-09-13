@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "以羅欣閣對雅各顯現,當伊對帕丹亞蘭倒來的時,就祝福⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "顯現"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "當伊來"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "對帕丹"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "就祝福"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:17.626706246Z",
+  "model": "glm-5.3"
+}

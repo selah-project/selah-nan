@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "巴比倫的人做⟨את⟩疏割伯努特,古他的人做⟨את⟩捏爾加勒,哈馬的人做⟨את⟩阿實瑪。",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "巴比倫的人"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "疏割伯努特"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "疏割"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "伯努特"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "古他的人"
+    },
+    {
+      "surface": "כות",
+      "gloss": "古他"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "捏爾加勒"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "捏爾加勒"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "哈馬的人"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "哈馬"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿實瑪"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "阿實瑪"
+    }
+  ],
+  "timestamp": "2026-09-13T04:49:13.417776119Z",
+  "model": "glm-5.3"
+}

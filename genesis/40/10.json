@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "佇彼欉葡萄樹頂有三个枝仔,伊親像咧開花,花苞浮出來,伊的葡萄蕊熟矣。",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "佇彼欉葡萄樹頂"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "个枝仔"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "親像咧開花"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "浮出來"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "花苞"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "熟矣"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "伊的葡萄蕊"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "葡萄"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:35.635578621Z",
+  "model": "glm-5.3"
+}

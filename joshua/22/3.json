@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "恁無放棄⟨את⟩恁的兄弟遮濟日,直到今仔日,嘛有遵守⟨את⟩雅威 —— 恁的以羅欣 —— 誡命的職守。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的兄弟"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "恁的兄弟"
+    },
+    {
+      "surface": "זה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "濟日"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "濟"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "嘛有遵守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "職守"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "職守"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:27:50.903182271Z",
+  "model": "glm-5.3"
+}

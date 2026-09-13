@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "雅威啊,你的道路互我知;你的路徑教示我。",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "你的道路"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "互我知"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "你的路徑"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "教示我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:54.957614441Z",
+  "model": "glm-5.3"
+}

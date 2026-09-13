@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "我的性命欲佇雅威面前誇口;謙卑的人聽見,就歡喜。",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "欲…誇口"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "謙卑的人"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "就歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:22.948162747Z",
+  "model": "glm-5.3"
+}

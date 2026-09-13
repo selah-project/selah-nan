@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "閣⟨את⟩彼的裹頭巾,用細麻;佮⟨את⟩彼的帽仔的妝飾,用細麻;佮⟨את⟩褲仔,用細麻,撚紗的;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "彼的裹頭巾"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "彼的裹頭巾"
+    },
+    {
+      "surface": "שש",
+      "gloss": "細麻"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼的帽仔的妝飾"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "妝飾"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "彼的帽仔"
+    },
+    {
+      "surface": "שש",
+      "gloss": "細麻"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "褲仔"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "褲仔"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "彼的麻"
+    },
+    {
+      "surface": "שש",
+      "gloss": "細麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚紗"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:21.115097535Z",
+  "model": "glm-5.3"
+}

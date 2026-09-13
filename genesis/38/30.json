@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "了後,彼个手上有胭脂紅線的伊的兄弟嘛走出來,就給伊號名叫做謝拉。",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "走出來"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "上有"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "השני",
+      "gloss": "胭脂紅線"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "就給伊號名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "謝拉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:13.814921952Z",
+  "model": "glm-5.3"
+}

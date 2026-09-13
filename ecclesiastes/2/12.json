@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣我越頭看智慧、狂妄,佮愚戇,因為人會當按呢講:彼个綴佇王的後壁來的,敢會當做啥物?⟨את⟩彼項代誌,人早就做過矣。",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "閣我越頭看"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我自己"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "看"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "狂妄"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "佮愚戇"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "會當來"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴佇…的後壁"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼項代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼項"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "早就"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "人做過矣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:21.660216626Z",
+  "model": "glm-5.3"
+}

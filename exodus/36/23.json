@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "伊做⟨את⟩會幕的板:二十塊板為著南片,向南邊。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕的板"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "板"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "為會幕"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "塊板"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "為著…片"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "向南邊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:32.214613691Z",
+  "model": "glm-5.3"
+}

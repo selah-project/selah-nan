@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇阮的眠床頂,佇暗暝,阮揣⟨את⟩彼個阮的心所疼的;阮揣伊,毋拘揣無伊。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "阮的眠床"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "佇暗暝"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "阮揣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個阮的心所疼的"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "彼個…疼的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "阮的心"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "阮揣伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "揣無伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:41.208768124Z",
+  "model": "glm-5.3"
+}

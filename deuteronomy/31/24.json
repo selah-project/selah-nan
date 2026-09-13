@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "事情到摩西寫⟨את⟩這律法的話佇冊裡，一直到攏總完的時。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "事情到"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "…完"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這律法的話"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "攏總完"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:38.233993110Z",
+  "model": "glm-5.3"
+}

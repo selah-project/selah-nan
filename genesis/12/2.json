@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "我欲互你做大國,我欲賜福你,我欲互你的名做大;你亦著做祝福。",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "我欲互你做"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "做國"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "我欲賜福你"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "我欲做大"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "你著做"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "祝福"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:01.386017713Z",
+  "model": "glm-5.3"
+}

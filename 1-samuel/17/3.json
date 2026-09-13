@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "非利士人徛佇遮爿的山,以色列徛佇遐爿的山,山谷佇𪜶中間。",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "徛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "遮爿"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "徛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "山"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "遐爿"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "佇𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:01.226570989Z",
+  "model": "glm-5.3"
+}

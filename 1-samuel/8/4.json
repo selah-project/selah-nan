@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "以色列的長老攏聚集起來,來到拉瑪見撒母耳。",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "聚集起來"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "見"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "拉瑪"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:09.205676369Z",
+  "model": "glm-5.3"
+}

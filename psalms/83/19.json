@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "互𪜶知影,獨獨你的名是雅威,你是全地上面的以勒以里昂(至高者)。",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "互𪜶知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "獨獨你"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以勒以里昂(至高者)"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…上面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:49.421603910Z",
+  "model": "glm-5.3"
+}

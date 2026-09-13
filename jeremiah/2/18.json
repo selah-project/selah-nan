@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "這陣,啥物事予你去米茲拉因(埃及)的路,欲啉施何爾(埃及的河)的水?啥物事予你去亞述的路,欲啉彼條河的水?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物事"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "去…的路"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "欲啉"
+    },
+    {
+      "surface": "מי",
+      "gloss": "…的水"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "施何爾"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "啥物事"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予你"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "去…的路"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "欲啉"
+    },
+    {
+      "surface": "מי",
+      "gloss": "…的水"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "河"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:39.693491310Z",
+  "model": "glm-5.3"
+}

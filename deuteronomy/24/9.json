@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "著紀念雅威、你的以羅欣佇恁對米茲拉因出來的路中,對米利暗所行⟨את⟩的代誌。",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "著紀念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米利暗所行的代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "對米利暗"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路中"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "佇恁出去的時"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:20.537039643Z",
+  "model": "glm-5.3"
+}

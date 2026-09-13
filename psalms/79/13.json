@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "阮做你的人民,做你草場的羊群,欲永遠感謝你,一代閣一代,欲數念你的稱讚。",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的人民"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "你的草場"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "欲感謝"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "欲數念"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "你的稱讚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:41.578536614Z",
+  "model": "glm-5.3"
+}

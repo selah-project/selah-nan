@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "𪜶對我下歹來換好,用怨恨來換我的疼。",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "𪜶下"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "來換"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "好"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "用怨恨"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "來換"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我的疼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:04.771289129Z",
+  "model": "glm-5.3"
+}

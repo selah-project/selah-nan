@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 18:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "對人的喙的果子,伊的腹肚會得飽;對伊的嘴脣的出產,伊會飽足。",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "對…的果子"
+    },
+    {
+      "surface": "פי",
+      "gloss": "喙"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "會得飽"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "伊的腹肚"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "出產"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "伊的嘴脣"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "會飽足"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:49.099991139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "對你的百姓𪜶用奸巧設謀,嘛議論攻擊你所收藏的人。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "用奸巧設謀"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "密謀"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "嘛議論"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "你所收藏的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.299299283Z",
+  "model": "glm-5.3"
+}

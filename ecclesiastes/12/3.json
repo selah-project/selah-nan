@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇彼日,顧厝的人會慄抖,勇健的人會彎落去,磨的人會停,因為賰無幾个,對窗仔孔看出去的人會變暗。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "會慄抖"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "顧…的人"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "會彎落去"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "勇健"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "會停"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "磨的人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "賰無幾个"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "會變暗"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "看的人"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "對窗仔孔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:02.622708354Z",
+  "model": "glm-5.3"
+}

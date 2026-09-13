@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我就欲用倒反的受氣佮恁行,我嘛欲責罰恁 ⟨את⟩,七擺,因為恁的罪。",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "我就欲行"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "用…的受氣"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "倒反"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "我嘛欲責罰"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七擺"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "恁的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:54.665721806Z",
+  "model": "glm-5.3"
+}

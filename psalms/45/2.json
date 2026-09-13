@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "我的心湧出好話;我咧講我的工是關係一位王;我的舌是快手的文士的筆。",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "湧出"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "我的工"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "關係一位王"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "我的舌"
+    },
+    {
+      "surface": "עט",
+      "gloss": "筆"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "文士"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "快手的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:21.048826052Z",
+  "model": "glm-5.3"
+}

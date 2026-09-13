@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 144,
+  "translation": "𪜶的喙講白賊,𪜶的正手是虛假的正手。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "𪜶(所指的)"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "𪜶的喙"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "𪜶的正手"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "…的正手"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "虛假"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:35.549925046Z",
+  "model": "glm-5.3"
+}

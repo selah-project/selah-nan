@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佮⟨את⟩希未人,佮⟨את⟩亞基人,佮⟨את⟩西尼人,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "希未人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "亞基人"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "亞基人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "西尼人"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "西尼人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:58:57.379522105Z",
+  "model": "glm-5.3"
+}

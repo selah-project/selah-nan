@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "雅弗的囝仔:歌篾、瑪各、瑪代、雅完、土巴、米設、陀拉士。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "雅弗"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "歌篾"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "瑪各"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "瑪代"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "雅完"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "土巴"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "米設"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "陀拉士"
+    }
+  ],
+  "timestamp": "2026-09-13T04:33:22.642732763Z",
+  "model": "glm-5.3"
+}

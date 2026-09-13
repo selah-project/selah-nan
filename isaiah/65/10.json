@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 65:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "沙崙欲做羊群徛起的所在,亞割谿欲做牛群倒踮的所在,互我尋我的百姓。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "閣⟨欲做⟩"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "沙崙"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "做……徛起的所在"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "閣谿"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "亞割"
+    },
+    {
+      "surface": "לרבץ",
+      "gloss": "做……倒踮的所在"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛群"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "互我的百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "尋我的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:28.078171506Z",
+  "model": "glm-5.3"
+}

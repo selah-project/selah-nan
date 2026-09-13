@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "彼些入去的,公的佮母的,對逐个肉身攏入去,照以羅欣所命令伊的⟨את⟩;雅威替伊共門關起來。",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "彼些入去的"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "公的"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "佮母的"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對逐个"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉身"
+    },
+    {
+      "surface": "באו",
+      "gloss": "攏入去"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所命令"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(挪亞)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "共門關起來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "替伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:14.212693036Z",
+  "model": "glm-5.3"
+}

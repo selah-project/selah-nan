@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "這是含的後生,照𪜶的宗族、照𪜶的腔口,佇𪜶的地、佇𪜶的國族。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的宗族"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "照𪜶的腔口"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "佇𪜶的地"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "佇𪜶的國族"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:12.472967926Z",
+  "model": "glm-5.3"
+}

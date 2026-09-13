@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "恁倒佇象牙的眠床,攤開佇𪜶的榻頂,食羊群的公羊,佮牛欄中央的牛犢。",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "倒佇…的"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "眠床"
+    },
+    {
+      "surface": "שן",
+      "gloss": "象牙"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "佮攤開"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "𪜶的榻"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "佮食"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "對羊群"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "佮牛犢"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…中央"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "牛欄"
+    }
+  ],
+  "timestamp": "2026-09-12T04:31:48.807716780Z",
+  "model": "glm-5.3"
+}

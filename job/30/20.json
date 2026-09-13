@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "我叫救,對你;你毋應我。我徛起來,你就干焦金看著我。",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "我叫救"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "你毋"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "應我"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "我徛起來"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "你就金看"
+    },
+    {
+      "surface": "בי",
+      "gloss": "著我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:28:42.002389235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "𪜶的手內有歹計謀,𪜶的正手滿滿是賄賂。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "〈彼啲人〉"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "𪜶的手內"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "歹計謀"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "𪜶的正手"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "滿滿是"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "賄賂"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:42.641504727Z",
+  "model": "glm-5.3"
+}

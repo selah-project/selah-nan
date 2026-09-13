@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 15:3",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "閣伊對蠍坡的南勢出去,經過尫,對加低斯巴尼亞的南勢上去,閣經過希斯崙,上到亞達,閣彎過卡拉加。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "對…的南勢"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "坡"
+    },
+    {
+      "surface": "עקרבים",
+      "gloss": "蠍"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "閣經過"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "尫"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "閣上去"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "對…的南勢"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "到加低斯"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "巴尼亞"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "閣經過"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "希斯崙"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "閣上去到"
+    },
+    {
+      "surface": "אדרה",
+      "gloss": "亞達"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "閣彎過"
+    },
+    {
+      "surface": "הקרקעה",
+      "gloss": "卡拉加"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:26.486143834Z",
+  "model": "glm-5.3"
+}

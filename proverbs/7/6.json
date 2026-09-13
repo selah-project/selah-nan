@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為佇阮兜的窗仔門,對格仔窗我向外看。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "佇窗仔"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "阮兜"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "對、透過"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "格仔窗"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "我向外看"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:40.581728215Z",
+  "model": "glm-5.3"
+}

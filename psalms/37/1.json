@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "大衛的詩。毋通因為歹人來憤慨,毋通嫉妒做毋著代的人。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "憤慨"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "因為歹人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "嫉妒"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "佇做……的人"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "毋著的代"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:55.460400064Z",
+  "model": "glm-5.3"
+}

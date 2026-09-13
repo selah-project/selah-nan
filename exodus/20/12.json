@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "孝敬 ⟨את⟩ 汝的老爸,閣 ⟨את⟩ 汝的老母,互汝的日子佇雅威——汝的以羅欣——欲賞賜汝的土地頂面會當長久。",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "孝敬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "汝的老爸"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "汝的老爸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "汝的老母"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "汝的老母"
+    },
+    {
+      "surface": "למען",
+      "gloss": "互……會當"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "長久"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "汝的日子"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "汝的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "予汝"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:47.130108034Z",
+  "model": "glm-5.3"
+}

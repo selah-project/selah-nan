@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 36:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "板攏總有八塊,銀做的座有十六个:一塊板下底有兩个座。",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "攏總有"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "塊板"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "𪜶的座"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "六"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "个座"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "个座"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "个座"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "彼塊板"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一塊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:48.860904228Z",
+  "model": "glm-5.3"
+}

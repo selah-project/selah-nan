@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我雅威勘察心,考驗腰子,欲照伊的路、照伊的行做果子來報應逐人。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "勘察"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "考驗"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "腰子"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "欲……報應"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "照伊的路"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "照……果子"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "伊的行做"
+    }
+  ],
+  "timestamp": "2026-09-12T03:52:21.344124811Z",
+  "model": "glm-5.3"
+}

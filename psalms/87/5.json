@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 87,
+  "translation": "閣論到錫安,人會講:這人佮彼人攏出世佇伊;閣伊家己——以里昂(至高者)——欲建立伊。",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "閣論到錫安"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "人會講"
+    },
+    {
+      "surface": "איש",
+      "gloss": "這人"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮彼人"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "出世"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "閣伊家己"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "欲建立伊"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以里昂(至高者)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:59.667927176Z",
+  "model": "glm-5.3"
+}

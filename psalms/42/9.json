@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "日時雅威會命令伊的赫瑟德,佮暗時伊的歌會佮我佇咧,一個祈禱予我活命的以勒。",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "會命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "佮暗時"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "歌"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "佮我"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "予以勒"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "我的活命"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:58.229723212Z",
+  "model": "glm-5.3"
+}

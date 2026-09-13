@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "面對面,雅威佇山頂對恁講話,對火──的中央。",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "面"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "對面"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "佮恁"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山頂"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對……的中央"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:55.374394301Z",
+  "model": "glm-5.3"
+}

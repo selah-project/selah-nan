@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "我欲親像露水對以色列;伊欲開花親像百合,伊的根欲伸出去親像黎巴嫩。",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "我欲親像"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "露水"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "伊欲開花"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "親像百合"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "伊欲伸出去"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "伊的根"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "親像黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:44.084599365Z",
+  "model": "glm-5.3"
+}

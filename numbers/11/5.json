@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "阮數念⟨את⟩彼个魚,就是阮佇米茲拉因免錢咧食的,⟨את⟩彼个黃瓜、⟨את⟩西瓜、⟨את⟩蔥、⟨את⟩蔥頭、⟨את⟩蒜頭。",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "阮數念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个魚"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "彼个魚"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "咧食"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇米茲拉因"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "免錢"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个黃瓜"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "彼个黃瓜"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼个西瓜"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "彼个西瓜"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼个蔥"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "彼个蔥"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼个蔥頭"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "彼个蔥頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼个蒜頭"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "彼个蒜頭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:23.785848095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "因為伊是阮的以羅欣,咱是伊草牧的子民,是伊手中的羊。今仔日,恁若聽伊的聲,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "閣咱"
+    },
+    {
+      "surface": "עם",
+      "gloss": "子民"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "伊草牧的"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "閣羊"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "恁聽"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:05.474297313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 149,
+  "translation": "願𪜶佇跳舞中呵咾伊的名,用鈴鼓佮琴為伊奏樂。",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "願𪜶呵咾"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "佇跳舞中"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "用鈴鼓"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "佮琴"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "奏樂"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:50.307134959Z",
+  "model": "glm-5.3"
+}

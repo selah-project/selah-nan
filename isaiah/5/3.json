@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "今,耶路撒冷的居民佮猶大的人啊,請恁佇我佮我的葡萄園中間審判。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "居民"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮…的人"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "請恁審判"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "我的葡萄園"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:28.974677673Z",
+  "model": "glm-5.3"
+}

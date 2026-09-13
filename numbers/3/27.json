@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 3:27",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣對哥轄,有暗蘭族、以斯哈族、希伯倫族、烏薛族;遮就是哥轝宗族的家族。",
+  "tokens": [
+    {
+      "surface": "ולקהת",
+      "gloss": "閣對哥轄"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "העמרמי",
+      "gloss": "暗蘭族"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "佮家族"
+    },
+    {
+      "surface": "היצהרי",
+      "gloss": "以斯哈族"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "佮家族"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "希伯倫族"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "佮家族"
+    },
+    {
+      "surface": "העזיאלי",
+      "gloss": "烏薛族"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "הם",
+      "gloss": "就是"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "哥轄族的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:36.522813295Z",
+  "model": "glm-5.3"
+}

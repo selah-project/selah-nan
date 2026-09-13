@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "尼希米——哈迦利亞的囝——的話。基斯流月,二十年的時,我佇書珊城堡內。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "尼希米"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "哈迦利亞"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "基斯流"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "年"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "書珊"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "城堡內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:52:36.636398700Z",
+  "model": "glm-5.3"
+}

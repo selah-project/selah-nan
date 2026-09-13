@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "佇彼个日子,摩西大漢了,出去伊的兄弟遐,看著𪜶的重擔;閣看見一个埃及人咧搥一个希伯來人,是伊的兄弟。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "彼个日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "大漢"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看著"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "𪜶的重擔"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "閣看見"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个…人"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "咧搥"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "希伯來"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "是伊的兄弟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:53.197397454Z",
+  "model": "glm-5.3"
+}

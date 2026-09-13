@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 9:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "耶戶就騎馬車去耶斯列,因為約蘭倒佇遐。亞哈謝——猶大王——有落去探望⟨את⟩約蘭。",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "就騎馬車"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "耶戶"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "耶斯列"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "約蘭"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "倒"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "ואחזיה",
+      "gloss": "亞哈謝"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "探望"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約蘭"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "約蘭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:45.155765095Z",
+  "model": "glm-5.3"
+}

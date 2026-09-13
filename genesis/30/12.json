@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "悉帕,利亞的婢手,閣替雅各生第二個子。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "閣生"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "悉帕"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "利亞的"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "שני",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "替雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:38.433441313Z",
+  "model": "glm-5.3"
+}

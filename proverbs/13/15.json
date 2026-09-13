@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "好的見識會得著恩寵;毋過背叛的人行个路是真歹行。",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "見識"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會得著"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩寵"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "背叛的人"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "真歹行"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:21.526969251Z",
+  "model": "glm-5.3"
+}

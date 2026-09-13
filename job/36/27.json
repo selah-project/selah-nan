@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "因為伊提走水滴,透過伊的霧,雨就滴落下來。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "伊提走"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "水滴"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "滴落下來"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "伊的霧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:25.832596204Z",
+  "model": "glm-5.3"
+}

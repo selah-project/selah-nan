@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "你握牢阮目睭的看守,阮受攪擾,袂講話。",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "你握牢"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "看守"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "阮目睭"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "阮受攪擾"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "講話"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:47.941458330Z",
+  "model": "glm-5.3"
+}

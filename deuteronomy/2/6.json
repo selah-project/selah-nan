@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "食物恁著對⟨את⟩𪜶用銀仔買糧來食,水嘛著對⟨את⟩𪜶用銀仔買來飲。",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "食物"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "買糧"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "對⟨את⟩𪜶"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "用銀仔"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "來食"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "買"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "對⟨את⟩𪜶"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "用銀仔"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "來飲"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:24.310474087Z",
+  "model": "glm-5.3"
+}

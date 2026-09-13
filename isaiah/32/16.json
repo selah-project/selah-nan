@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "按呢,審判欲徛佇曠野,公義欲坐佇肥沃的田園。",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "欲徛佇"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "佇肥沃的田園"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "欲坐"
+    }
+  ],
+  "timestamp": "2026-09-13T04:36:16.782246797Z",
+  "model": "glm-5.3"
+}

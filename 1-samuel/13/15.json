@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "撒母耳就起來,對上去吉甲,去便雅憫的基比亞;掃羅就點閱⟨את⟩佮伊佇遮的人,約略六百人。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "對上去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "吉甲"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "基比亞"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "點閱"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼的百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼的百姓"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "佮伊佇遮的"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "約略六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    }
+  ],
+  "timestamp": "2026-09-13T06:29:34.456356963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣,汝著下⟨את⟩洗滌盆佇會面帳棚佮祭壇的中間,閣著下水佇遐。",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "汝著下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "洗滌盆"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "洗滌盆"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會面"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "閣著下"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:54.911815109Z",
+  "model": "glm-5.3"
+}

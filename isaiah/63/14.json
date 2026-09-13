@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "親像牲畜落向山谷,雅威的神予伊安息;按呢你導你的百姓,來給你家己做出榮光的名。",
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "親像牲畜"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "佇山谷"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "神"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "予伊安息"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "你導"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "來做"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:14.085019407Z",
+  "model": "glm-5.3"
+}

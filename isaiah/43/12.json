@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "我,我已經講明,已經拯救,已經互人聽見;佇恁中間無外族的神。恁是我的見證,雅威的神諭;我就是以勒。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "我已經講明"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "已經拯救"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "已經互人聽見"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "佇恁中間"
+    },
+    {
+      "surface": "זר",
+      "gloss": "外族的(神)"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "是我的見證"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "的神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "就是以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:28.316461701Z",
+  "model": "glm-5.3"
+}

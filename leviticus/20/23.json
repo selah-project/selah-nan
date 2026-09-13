@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "恁毋通照我對恁面前趕出去彼个國家的律例去行,因為𪜶做了⟨את⟩這一切,我就厭惡𪜶。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "照……的律例"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "彼个國家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "趕出去"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "對恁面前"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做了"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "我就厭惡"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:07.623297470Z",
+  "model": "glm-5.3"
+}

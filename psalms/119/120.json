@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的肉對你的驚惶咧發毛慄,對你的判語我敬畏。",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "咧發毛慄"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "對你的驚惶"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "我的肉"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "對你的判語"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "我敬畏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:04.783409872Z",
+  "model": "glm-5.3"
+}

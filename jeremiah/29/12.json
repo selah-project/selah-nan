@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "恁欲求叫⟨את⟩我,欲行來,欲向我祈禱,我欲垂聽恁。",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "恁欲求叫"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "欲行來"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "欲祈禱"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "我欲垂聽"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T03:57:02.367972853Z",
+  "model": "glm-5.3"
+}

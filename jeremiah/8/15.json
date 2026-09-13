@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "向望平安,亦無好事;向望醫治的時陣,看啊,驚惶到矣。",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "向望"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "亦無"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好事"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "的時陣"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "醫治"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:49:51.726011915Z",
+  "model": "glm-5.3"
+}

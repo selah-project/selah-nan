@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "為啥物,雅威,你徛佇遠遠?佇患難的時陣,你隱藏?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "你徛"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "佇遠遠"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "你隱藏"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "佇……的時陣"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "患難"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:46.640875645Z",
+  "model": "glm-5.3"
+}

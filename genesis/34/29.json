@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "閣⟨את⟩𪜶全部的家產,閣⟨את⟩𪜶全部的囡仔,閣⟨את⟩𪜶的某,𪜶擄走去,嘛搶奪了,連⟨את⟩厝內所有的物攏總提去。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶全部的家產"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "家產"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶全部的囡仔"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的某"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "某"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "擄走去"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "搶奪了"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "厝內所有的物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的物"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "厝內"
+    }
+  ],
+  "timestamp": "2026-09-13T04:34:44.336755503Z",
+  "model": "glm-5.3"
+}

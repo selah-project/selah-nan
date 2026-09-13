@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "奢華無合佇戇人身上,何況奴僕統治王子。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "合"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "戇人"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "奢華"
+    },
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨連詞⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "משל",
+      "gloss": "統治"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "王子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:12.384214322Z",
+  "model": "glm-5.3"
+}

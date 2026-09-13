@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "雅威欲賜福敬畏伊的人,細的佮大的攏總。",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "欲賜福"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "敬畏……的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "細的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "大的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:38.273220434Z",
+  "model": "glm-5.3"
+}

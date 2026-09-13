@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "這个代誌佇以羅欣的眼中做歹,伊就拍擊⟨את⟩以色列。",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "做歹"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼个代誌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "拍擊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:01.227162317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "你的囝若得罪伊,伊就𪜶就照𪜶悖逆的手放𪜶去。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的囝"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "得罪"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "伊就放𪜶去"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "照…的手"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "𪜶悖逆的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:43.619355944Z",
+  "model": "glm-5.3"
+}

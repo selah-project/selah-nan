@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我的愛人屬佇我,我也屬佇伊,伊佇百合花中牧羊。",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "我的愛人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "屬佇我"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我也"
+    },
+    {
+      "surface": "לו",
+      "gloss": "屬佇伊"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "牧羊"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "佇百合花中"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:14.584432677Z",
+  "model": "glm-5.3"
+}

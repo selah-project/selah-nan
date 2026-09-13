@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 15:21",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "我欲救你脫離歹人的手,欲贖你脫離殘忍人的掌。",
+  "tokens": [
+    {
+      "surface": "והצלתיך",
+      "gloss": "我欲救你"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離……的手"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ופדתיך",
+      "gloss": "欲贖你"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "脫離……的掌"
+    },
+    {
+      "surface": "ערצים",
+      "gloss": "殘忍人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:50:54.320316486Z",
+  "model": "glm-5.3"
+}

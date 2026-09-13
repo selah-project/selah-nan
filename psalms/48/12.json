@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "願錫安山歡喜,願猶大的諸個查某囝快樂,為著祢的判斷。",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "願…歡喜"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "願…快樂"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "諸個查某囝"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "祢的判斷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:40.946123974Z",
+  "model": "glm-5.3"
+}

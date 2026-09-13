@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 20:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "大衛閣咒誓,講:「你老爸真知我得著恩典佇你目睭前;伊〈心內講〉:『毋通予約拿單知影這个,免得伊艱苦。』毋拘,雅威活啲,你的活命嘛活啲,的確親像一步仔爾爾——佇我佮死亡的中間。」",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "閣咒誓"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "真知"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你老爸"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "我得著"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩典"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "佇你目睭前"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "艱苦"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "毋拘"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活啲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "嘛活啲"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的活命"
+    },
+    {
+      "surface": "כי",
+      "gloss": "的確"
+    },
+    {
+      "surface": "כפשע",
+      "gloss": "親像一步仔"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮"
+    },
+    {
+      "surface": "המות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:36.928082555Z",
+  "model": "glm-5.3"
+}

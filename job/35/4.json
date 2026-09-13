@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "我欲用話應汝,閣⟨את⟩汝的朋友佮你做夥。」",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "欲應汝"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "用話"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "汝的朋友"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "汝的朋友"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "佮你做夥"
+    }
+  ],
+  "timestamp": "2026-09-12T05:29:31.222418641Z",
+  "model": "glm-5.3"
+}

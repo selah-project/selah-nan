@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "北方佮南方,是祢創造𪜶的;他泊佮黑門佇祢的名內底歡喜出聲。",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "北方"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "佮南方"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "祢"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "創造𪜶的"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "他泊"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "佮黑門"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "佇祢的名"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歡喜出聲"
+    }
+  ],
+  "timestamp": "2026-09-13T04:55:00.433725607Z",
+  "model": "glm-5.3"
+}

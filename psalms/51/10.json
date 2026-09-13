@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "互我聽著歡喜佮快樂,互你拍碎的骨頭會歡喜踴跳。",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "互我聽著"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "佮快樂"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "會歡喜踴跳"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "骨頭"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "你所拍碎的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:50.663112015Z",
+  "model": "glm-5.3"
+}

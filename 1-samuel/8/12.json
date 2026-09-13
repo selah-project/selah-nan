@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣欲設立做伊千人的首領佮五十人的首領,閣欲替伊犁伊的田、割伊的五穀,閣欲做伊交戰的器具佮伊戰車的器具。",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "閣欲設立"
+    },
+    {
+      "surface": "לו",
+      "gloss": "做伊"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "的首領"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千人"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "佮…的首領"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十人"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "閣欲犁"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "伊的田"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "閣欲割"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "伊的五穀"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "閣欲做"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "的器具"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "伊交戰"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "佮…的器具"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "伊的戰車"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:21.820115353Z",
+  "model": "glm-5.3"
+}

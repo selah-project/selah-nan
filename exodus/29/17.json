@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣⟨את⟩彼隻公羊仔,你欲刣做伊的切片;你欲洗伊的內臟佮伊的腳腿,下佇伊的切片頂面,佮伊的頭殼頂面。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻公羊仔"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "彼隻公羊仔"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "刣做切片"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "做伊的切片"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "你欲洗"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "伊的內臟"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "佮伊的腳腿"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "你欲下"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "伊的切片"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮…頂面"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭殼"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:05.337614182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 13:8",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "大衛佮以色列眾人佇以羅欣面前盡一切力量歡喜跳舞,用歌仔、琴、瑟、鈴鼓、鈸佮號筒。",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…眾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "歡喜跳舞"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "盡一切"
+    },
+    {
+      "surface": "עז",
+      "gloss": "力量"
+    },
+    {
+      "surface": "ובשירים",
+      "gloss": "用歌仔"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "琴"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "瑟"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "鈴鼓"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "鈸"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "號筒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:50.397739106Z",
+  "model": "glm-5.3"
+}

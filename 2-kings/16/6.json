@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "佇彼陣彼時,亞蘭王利汛轉還⟨את⟩以拉予亞蘭,伊嘛對以拉趕走⟨את⟩猶大人;亞蘭人來到以拉,蹛佇遮到這個今仔日。",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "佇…陣"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "轉還"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "利汛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以拉"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "以拉"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "予亞蘭"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "趕走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大人"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "對以拉"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "亞蘭人"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "以拉"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遮"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:28.468016348Z",
+  "model": "glm-5.3"
+}

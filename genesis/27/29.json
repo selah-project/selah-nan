@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 27:29",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "「願萬民服事你,列族向你跪拜;你欲做你兄弟的主人,你老母的囝嘛向你跪拜;咒詛你的,受咒詛;祝福你的,受祝福。」",
+  "tokens": [
+    {
+      "surface": "יעבדוך",
+      "gloss": "願…服事你"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列族"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "做"
+    },
+    {
+      "surface": "גביר",
+      "gloss": "主人"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "你的兄弟"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你老母"
+    },
+    {
+      "surface": "ארריך",
+      "gloss": "咒詛你的"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "受咒詛"
+    },
+    {
+      "surface": "ומברכיך",
+      "gloss": "祝福你的"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "受祝福"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:28.078277532Z",
+  "model": "glm-5.3"
+}

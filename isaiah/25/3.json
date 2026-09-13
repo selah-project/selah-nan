@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "對按呢,強悍的百姓欲敬重你,殘暴列國的城欲敬畏你。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "欲敬重你"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "עז",
+      "gloss": "強悍的"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "城"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "殘暴的"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "欲敬畏你"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:24.138593354Z",
+  "model": "glm-5.3"
+}

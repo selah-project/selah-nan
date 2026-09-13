@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "這陣你著將⟨את⟩這塊地做產業分配,分予九个支派,閣瑪拿西半个支派。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "分配"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這塊地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這塊"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "做產業"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "予九个"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "支派"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "閣…半"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "个支派"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "瑪拿西"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:54.504472999Z",
+  "model": "glm-5.3"
+}

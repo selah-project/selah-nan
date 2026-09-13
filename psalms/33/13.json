@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "對諸天雅威俯視落來,伊看見⟨את⟩人類一切的子兒。",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "對諸天"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "俯視落來"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "伊看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人類一切的子兒"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人類"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:29.658707005Z",
+  "model": "glm-5.3"
+}

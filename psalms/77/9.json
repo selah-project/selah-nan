@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "雅威的赫瑟德敢已經永遠無去矣無?伊的話語敢已經代代攏失敗?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "敢已經無去"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "失敗"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "話語"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "代代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "佮代代"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:50.095985826Z",
+  "model": "glm-5.3"
+}

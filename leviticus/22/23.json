@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "牛抑是羊,肢體傷長抑是傷短的,會使用⟨את⟩彼隻獻做甘心祭;若是還願,就袂蒙悅納。",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "羊"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "傷長的"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "傷短的"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "甘心祭"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "獻做"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻(牛抑羊)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "若是還願"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "蒙悅納"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:34.331002286Z",
+  "model": "glm-5.3"
+}

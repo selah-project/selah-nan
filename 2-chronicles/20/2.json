@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 20:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "有人來共約沙法講:「有一大陣對海彼爿、對亞蘭遐來攻擊你;你看,𪜶已經佇哈洗遜・他瑪——就是・恩戈迪。」",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "有人來"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "共……講"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "攻擊你"
+    },
+    {
+      "surface": "המון",
+      "gloss": "一大陣"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "對……彼爿"
+    },
+    {
+      "surface": "לים",
+      "gloss": "海"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "對亞蘭"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "你看,𪜶"
+    },
+    {
+      "surface": "בחצצון",
+      "gloss": "佇哈洗遜"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "他瑪"
+    },
+    {
+      "surface": "היא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "עין",
+      "gloss": "恩"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "戈迪"
+    }
+  ],
+  "timestamp": "2026-09-13T04:49:37.734171166Z",
+  "model": "glm-5.3"
+}

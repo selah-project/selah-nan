@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "大衛講:「掃羅的厝內敢猶有留落來的人無?我好對伊做赫瑟德,為著約拿單的緣故。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "敢"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "猶"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "留落來"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "對厝內"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "我欲做"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "為著"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:11.659323496Z",
+  "model": "glm-5.3"
+}

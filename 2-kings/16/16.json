@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "烏利亞祭司就行王亞哈斯所命令的一切。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就行"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "亞哈斯"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:09.137234785Z",
+  "model": "glm-5.3"
+}

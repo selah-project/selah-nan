@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 58:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "「啥物緣故阮禁食,你嘛毋看見?啥物緣故阮刻苦阮的性命,你嘛毋知?」看啊,佇你禁食的日,你猶照家己的意思,你所有做工的,你攏共𪜶討。",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "צמנו",
+      "gloss": "阮禁食"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "你看見"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "阮刻苦"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "阮的性命"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "你知"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日"
+    },
+    {
+      "surface": "צמכם",
+      "gloss": "你禁食"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "你猶照"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "家己的意思"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有"
+    },
+    {
+      "surface": "עצביכם",
+      "gloss": "你做工的"
+    },
+    {
+      "surface": "תנגשו",
+      "gloss": "你共𪜶討"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:27.906752161Z",
+  "model": "glm-5.3"
+}

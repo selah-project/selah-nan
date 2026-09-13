@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你掠去我的心,阿妹、新娘啊;你用你的一粒目睭,用你頷頸的一條珠鍊,掠去我的心。",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "掠去我的心"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "阿妹"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "新娘"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "掠去我的心"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "用一個"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "用一條"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "珠鍊"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "你的頷頸"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:14.294370033Z",
+  "model": "glm-5.3"
+}

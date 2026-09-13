@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 88,
+  "translation": "歌,一篇詩篇,可拉的子孫的,予伶長,用瑪哈拉・利安努,一篇訓誨詩,是以斯拉人希幔的。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "一篇詩篇"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的子孫的"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "予伶長"
+    },
+    {
+      "surface": "על",
+      "gloss": "用"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "瑪哈拉"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "利安努"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "一篇訓誨詩"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "希幔的"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "以斯拉人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:17.704163706Z",
+  "model": "glm-5.3"
+}

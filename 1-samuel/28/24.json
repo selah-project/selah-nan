@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "彼个婦人厝裡有一隻飼佇牛椆个牛囝,伊緊緊刣死伊,閣抾麵粉揉,烙伊做無酵餅。",
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "佮彼个婦人(有)"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "牛囝"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "牛椆"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇厝"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "緊緊"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "刣死伊"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "抾"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "麵粉"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "揉"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "烙伊"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "無酵餅"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:50.904576913Z",
+  "model": "glm-5.3"
+}

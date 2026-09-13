@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "佇伊後了後,伊娶⟨את⟩押沙龍的查某子瑪迦;伊給伊生⟨את⟩亞比雅、閣⟨את⟩亞太、閣⟨את⟩西撒、閣⟨את⟩示羅密。",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "佇伊後了後"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "伊娶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瑪迦"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "瑪迦"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某子"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "伊生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞比雅"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "亞比雅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "亞太"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "亞太"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "西撒"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "西撒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "示羅密"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "示羅密"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:50.997300793Z",
+  "model": "glm-5.3"
+}

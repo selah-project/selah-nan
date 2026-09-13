@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "佇遐你欲給雅威、你的以羅欣起一座祭壇,石頭的祭壇;你毋通舉鐵器掠對𪜶頂懸揮。",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "你欲起"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "給雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "揮動"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "對𪜶頂懸"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵器"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:41.684435313Z",
+  "model": "glm-5.3"
+}

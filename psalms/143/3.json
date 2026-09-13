@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 143,
+  "translation": "因為對敵追趕我的性命,捒壓我的活命到土腳,伊予我住佇烏暗內,親像上古的死人事。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "捒壓"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "到土腳"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "我的活命"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "予我住"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "佇烏暗內"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "親像死人事"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "上古"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:09.775013979Z",
+  "model": "glm-5.3"
+}

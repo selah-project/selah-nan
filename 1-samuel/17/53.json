@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "以色列的子孫對追趕非利士人轉來,搶奪⟨את⟩𪜶的營盤。",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "轉來"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "對追趕"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…了後"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "搶奪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的營盤"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "𪜶的營盤"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:13.235726521Z",
+  "model": "glm-5.3"
+}

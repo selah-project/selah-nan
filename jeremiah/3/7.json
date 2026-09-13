@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我閣講:佇伊做完⟨את⟩這一切了後,伊會倒轉來阮遮;毋閣伊無倒轉來。伊奸詐的妹妹猶大看見這個。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我閣講"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇……了後"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "伊做完"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "阮遮"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "伊會倒轉來"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋閣……無"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "奸詐"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "妹妹"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:52.998138405Z",
+  "model": "glm-5.3"
+}

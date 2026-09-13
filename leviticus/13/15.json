@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司看⟨את⟩彼个活的肉,就判伊無清氣;彼个活的肉是無清氣的,伊是皮癩病。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个活的肉"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "彼个肉"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "判伊無清氣"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "彼个肉"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "皮癩病"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:58.184254550Z",
+  "model": "glm-5.3"
+}

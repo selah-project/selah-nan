@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "伊予摩西知影伊的路,予以色列的子孫知影伊的作為。",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "予…知影"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "伊的路"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "予摩西"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "予…的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "伊的作為"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:36.731786882Z",
+  "model": "glm-5.3"
+}

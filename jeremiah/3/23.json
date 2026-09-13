@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 3:23",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "實在,對山嶺的喧嘩是虛假的;實在,佇雅威阮的以羅欣才是以色列的拯救。",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "實在"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "是虛假的"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "對山嶺"
+    },
+    {
+      "surface": "המון",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "眾山"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "實在"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:30.706611989Z",
+  "model": "glm-5.3"
+}

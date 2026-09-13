@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣伊著獻⟨את⟩彼隻斑鳩抑是鴿仔的雛鳥,照伊的手搣會著的。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "閣伊著獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼隻"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "斑鳩"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "雛鳥"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "鴿仔"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "搣會著"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:23.157283919Z",
+  "model": "glm-5.3"
+}

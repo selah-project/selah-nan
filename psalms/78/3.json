@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "就是阮所聽、所知影的,阮的祖先嘛有講予阮聽。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "就是……的"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "阮所聽"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "阮所知影"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "有講"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "予阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:24.188278897Z",
+  "model": "glm-5.3"
+}

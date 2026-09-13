@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "深淵對深淵呼喝,用你的水泉之聲;你所有的海湧佮大湧攏對我身上過。",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "呼喝"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "用…的聲"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "你的水泉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "你的海湧"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "佮你的大湧"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我身上"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "攏過"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:08.782097323Z",
+  "model": "glm-5.3"
+}

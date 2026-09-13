@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "你欲提細麵粉,烤伊⟨את⟩做十二个餅;兩个十分之一欲做一个餅。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "你欲提"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵粉"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "烤"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "十二个餅"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "兩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "个餅"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "个十分之一"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲是"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "彼个餅"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一个"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:49.486869612Z",
+  "model": "glm-5.3"
+}

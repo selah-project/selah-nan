@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "這是亞倫受膏的份，佮伊的眾後生受膏的份，對雅威的火祭，佇獻⟨את⟩𪜶近前服事雅威做祭司的彼日。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "受膏的份"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "佮…受膏的份"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的眾後生"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "對…的火祭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的彼日"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "獻…近前"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "做祭司"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "服事雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:32.901308425Z",
+  "model": "glm-5.3"
+}

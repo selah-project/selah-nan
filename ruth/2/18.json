@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 2:18",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊夯起來入城,𪜶大家看見⟨את⟩伊所拾的;伊閣提出來,予伊⟨את⟩對飽賰落來的。",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "夯起來"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "入"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "𪜶大家"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊所拾的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "拾的"
+    },
+    {
+      "surface": "ותוצא",
+      "gloss": "提出來"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "對飽賰落來的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "הותרה",
+      "gloss": "賰的"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "對飽"
+    }
+  ],
+  "timestamp": "2026-09-12T05:34:36.487128493Z",
+  "model": "glm-5.3"
+}

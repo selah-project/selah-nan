@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣祭司欲帶𪜶到雅威的面前,閣行⟨את⟩伊的贖罪祭佮⟨את⟩伊的燒祭。",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "閣…帶到面前"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…的面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "閣行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的贖罪祭"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "伊的贖罪祭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的燒祭"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "伊的燒祭"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:44.550912207Z",
+  "model": "glm-5.3"
+}

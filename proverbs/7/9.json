@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "佇黃昏暗暝欲到的時,佇日頭落山的暗昏,佇半夜上烏的時陣,佮烏暗。",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "佇黃昏暗暝欲到的時"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "佇暗昏"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日頭落山的"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "佇半夜上烏的時陣"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暗暝"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "佮烏暗"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:50.332232126Z",
+  "model": "glm-5.3"
+}

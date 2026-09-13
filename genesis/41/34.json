@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "法老著按呢做，閣任命監督的人佇遍地，佇豐足的七年將埃及地的五分之一〈收起來〉，⟨את⟩埃及地。",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "著…做"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "閣任命"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "監督的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "遍地"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "閣收五分之一"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "佇…七"
+    },
+    {
+      "surface": "שני",
+      "gloss": "年"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "彼个豐足"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:19.303172895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "以羅欣啊,我的心已經堅定;我的心已經堅定;我欲唱歌,我欲彈琴讚美。",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "已經堅定"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "已經堅定"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "我欲唱歌"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "我欲彈琴讚美"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:43.170387608Z",
+  "model": "glm-5.3"
+}

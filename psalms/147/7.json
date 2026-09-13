@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "恁著用感恩應答雅威,用琴仔謳咾咱的以羅欣。",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "恁著應答"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "用感恩"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "用琴仔謳咾"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "用琴仔"
+    }
+  ],
+  "timestamp": "2026-09-12T05:10:56.950541593Z",
+  "model": "glm-5.3"
+}

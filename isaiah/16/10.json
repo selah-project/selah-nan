@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "歡喜佮快樂已經對肥沃的果園被收走矣;佇葡萄園內無人唱歌,無人出歡呼的聲;踹酒的人佇酒池仔內欲無酒通踹;阮已經互歡呼的聲停止矣。",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "已經被收走"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "佮快樂"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "肥沃的果園"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "佇葡萄園內"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "人唱歌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "人出歡呼聲"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "佇酒池仔內"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "通踹"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "踹酒的人"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "歡呼的聲"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "阮已經互伊停止"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:59.602860293Z",
+  "model": "glm-5.3"
+}

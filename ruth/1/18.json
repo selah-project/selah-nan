@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊看見路得堅決欲⟨את⟩佮伊去做,就停止無閣對伊講話矣。",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "伊就看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "看見…"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "堅決"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "欲去"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩佮伊",
+      "marks": "佮伊去做"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "就停止"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:50.875057860Z",
+  "model": "glm-5.3"
+}

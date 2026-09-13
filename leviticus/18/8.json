@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "恁老父個某個下體,你毋通露;彼个是恁老父個下體。",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "下體"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "恁老父個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "你露"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "下體"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "恁老父個"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼个是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:41.326533417Z",
+  "model": "glm-5.3"
+}

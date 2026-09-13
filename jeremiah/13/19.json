@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 13:19",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "南地的城攏關閉矣,無人通開;猶大已經全境受放逐,受放逐到安然無存。",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南地"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "攏關閉"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無人"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "通開"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "受放逐"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "全境"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "受放逐"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "安然無存"
+    }
+  ],
+  "timestamp": "2026-09-12T03:51:45.220923438Z",
+  "model": "glm-5.3"
+}

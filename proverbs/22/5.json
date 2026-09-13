@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "荊棘佮陷阱佇彎曲的路;保守家己性命的人會離𪜶遠遠。",
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "荊棘"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "陷阱"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇…路"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "彎曲"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "家己的性命"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "會離開遠遠"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:19.742863175Z",
+  "model": "glm-5.3"
+}

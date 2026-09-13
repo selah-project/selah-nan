@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "以斯拉起來,叫⟨את⟩祭司的頭人、利未人佮以色列眾人咒誓,欲照這句話去行;𪜶就咒誓。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "以斯拉"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "叫……咒誓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祭司的頭人"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮……眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "去行"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照……句話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "𪜶就咒誓"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:32.907557449Z",
+  "model": "glm-5.3"
+}

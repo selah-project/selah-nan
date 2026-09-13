@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "𪜶就放棄佇遐⟨את⟩𪜶的偶像;大衛佮伊的手下就提走去。",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "就放棄"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的偶像"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "𪜶的偶像"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "就提走"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "伊的手下"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:10.145807883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "求你記得你的會眾,你古早買來的;你救贖做你產業的支派;錫安這座山,你曾徛佇彼位的。",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "求你記得"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "你的會眾"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "你買來的"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "古早"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "你救贖"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "支派"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "你的產業"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "你曾徛"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇彼位"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:09.391374311Z",
+  "model": "glm-5.3"
+}

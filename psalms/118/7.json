@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "雅威是我的,佇幫助我的人中間;我嘛欲看見恨我的人。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לי",
+      "gloss": "是我的"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "佇幫助我的人中間"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "看見"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "恨我的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:47.928675613Z",
+  "model": "glm-5.3"
+}

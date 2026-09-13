@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "以羅欣共⟨את⟩𪜶放佇天的穹蒼,通照光落佇土腳。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "放"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(兩个大光體)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "佇…穹蒼"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天的"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "通照光"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土腳"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:47.870736749Z",
+  "model": "glm-5.3"
+}

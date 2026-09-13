@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "來遵守⟨את⟩雅威你的以羅欣的誡命，行佇伊的道路，閣敬畏⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "你著遵守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威你的以羅欣的誡命"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "誡命"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "佇伊的道路"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "閣敬畏"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(雅威)"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:35.461504778Z",
+  "model": "glm-5.3"
+}

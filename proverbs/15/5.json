@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "愚戇的人看輕伊老父的管教;遵守勸誡的會得著精明。",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "愚戇的人"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "看輕"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "管教"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊老父"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "遵守"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "勸誡"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "得著精明"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:38.932208786Z",
+  "model": "glm-5.3"
+}

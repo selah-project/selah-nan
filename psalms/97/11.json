@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 97,
+  "translation": "光為著義人撒種,為著心正直的人有喜樂。",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "撒種"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "為著義人"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "為著…正直的人"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "喜樂"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:30.317367539Z",
+  "model": "glm-5.3"
+}

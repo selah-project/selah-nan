@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "我講:「𪜶是狂傲的人,毋通閣狂傲;做歹的人,毋通攑角——",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "對狂傲的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "狂傲"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "佮對做歹的人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "攑"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "角"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:02.600021082Z",
+  "model": "glm-5.3"
+}

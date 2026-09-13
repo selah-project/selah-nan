@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊看見,就起來,為著伊的性命走去,來到屬猶大的別是巴,共⟨את⟩伊的少年僕人留佇遐。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "走去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "為著"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "באר",
+      "gloss": "別"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "是巴"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "屬"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "留"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的少年僕人"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "伊的少年僕人"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:52.890030046Z",
+  "model": "glm-5.3"
+}

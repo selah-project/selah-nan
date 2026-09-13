@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "互𪜶的班長,照百合花,可拉的後生,教示的詩,一首疼愛的歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互𪜶的班長"
+    },
+    {
+      "surface": "על",
+      "gloss": "照"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "百合花"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的後生"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "教示的詩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "疼愛"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:21.048606262Z",
+  "model": "glm-5.3"
+}

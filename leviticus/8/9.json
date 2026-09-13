@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊就放⟨את⟩頭巾佇伊的頭殼頂,閣佇頭巾頂、對正伊的面頭前,放⟨את⟩金的牌仔,就是分別為聖的冠冕,照雅威所命令⟨את⟩摩西的。",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "伊就放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "頭巾"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "頭巾"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭殼"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "閣放"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "頭巾"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "מול",
+      "gloss": "正對"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "金的牌仔"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "牌仔"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "冠冕"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "分別為聖"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:45.920203229Z",
+  "model": "glm-5.3"
+}

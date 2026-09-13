@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "恁著拆毀 ⟨את⟩ 𪜶的祭壇,拍碎 ⟨את⟩ 𪜶的石柱,𪜶的亞舍拉恁著用火燒掉,𪜶的神明的雕刻像恁著砍斷,閣毀滅 ⟨את⟩ 𪜶的名,對彼個所在。",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "恁著拆毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的祭壇"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "𪜶的祭壇"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "拍碎"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的石柱"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "𪜶的石柱"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "𪜶的亞舍拉"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "恁著燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "…的雕刻像"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的神明"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "恁著砍斷"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "閣毀滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的名"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "𪜶的名"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:57.217994116Z",
+  "model": "glm-5.3"
+}

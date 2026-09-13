@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 2:17",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊對𪜶中間派出七萬人做扛貨的，八萬人佇山裡鑿石，三千六百人做監工，來催 ⟨את⟩ 民做工。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊對𪜶中間派出"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "七萬"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "萬"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "扛貨的"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "八萬"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "萬"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "鑿石"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山裡"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "三千"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "六百"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "מנצחים",
+      "gloss": "監工"
+    },
+    {
+      "surface": "להעביד",
+      "gloss": "來催…做工"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "民"
+    },
+    {
+      "surface": "העם",
+      "gloss": "民"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:14.232604533Z",
+  "model": "glm-5.3"
+}

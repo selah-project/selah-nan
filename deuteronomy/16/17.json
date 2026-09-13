@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "逐個人照伊的手所會當獻的禮物,照雅威你的以羅欣所賞賜你的祝福。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "逐個人"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "照…的禮物"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "照…的祝福"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:12:02.059780219Z",
+  "model": "glm-5.3"
+}

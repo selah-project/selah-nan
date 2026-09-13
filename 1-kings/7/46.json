@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "王佇約旦河的平原、佇黏質的土腳,佇疏割佮撒拉但中間鑄𪜶。",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "佇平原"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "鑄𪜶"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "佇黏質"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "疏割"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "撒拉但"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:39.810140052Z",
+  "model": "glm-5.3"
+}

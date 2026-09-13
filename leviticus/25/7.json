@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佮做你的牲畜,佮做佇你土地內的野獸;伊一切的出產欲做食物。",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "做你的牲畜"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "佮做…野獸"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "佇你土地內"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "伊的出產"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "做食物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:53.172318336Z",
+  "model": "glm-5.3"
+}

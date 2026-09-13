@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "雅威閣給伊講:「請你這馬將手探入你的懷內。」伊就將手探入伊的懷內,閣共掠出來,看啊,伊的手生癩,親像雪。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣…講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "探入"
+    },
+    {
+      "surface": "נא",
+      "gloss": "請"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "入你的懷內"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "伊就…探入"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "入伊的懷內"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "閣共…掠出來"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "生癩"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "親像雪"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:20.379732988Z",
+  "model": "glm-5.3"
+}

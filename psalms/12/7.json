@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "雅威的言語是清氣的言語,親像銀仔佇地上爐裡煉過的,提煉七遍。",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "言語"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "言語"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "煉過的"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "爐裡"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "提煉"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "七遍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:44.952350833Z",
+  "model": "glm-5.3"
+}

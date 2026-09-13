@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣希拉的子是細列、以撒哈,佮以特南。",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "閣……的子"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "希拉"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "細列"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "以撒哈"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "佮以特南"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:17.657960346Z",
+  "model": "glm-5.3"
+}

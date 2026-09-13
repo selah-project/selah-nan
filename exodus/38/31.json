@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "佮⟨את⟩庭院四圍的座,佮⟨את⟩庭院門的座,佮⟨את⟩會幕一切的橛仔,佮⟨את⟩庭院四圍一切的橛仔。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "庭院四圍的座"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "座"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院的"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "庭院門的座"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "座"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "會幕一切的橛仔"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "橛仔"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "會幕的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "庭院四圍一切的橛仔"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "橛仔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院的"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:57.686753960Z",
+  "model": "glm-5.3"
+}

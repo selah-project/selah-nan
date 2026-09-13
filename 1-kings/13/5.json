@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "彼個祭壇就裂開,灰對祭壇倒出來,照神的人佇雅威的話所給的兆頭。",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "彼個祭壇就"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "裂開"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "倒出來"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對……出來"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "照……的兆頭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "給"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "神——以羅欣的"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "佇……的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:34.999020050Z",
+  "model": "glm-5.3"
+}

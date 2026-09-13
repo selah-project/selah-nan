@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "閣無人叫你的名,無人醒起欲捉住你,因為你掩密你的面對伊,閣用阮罪過的手消滅阮。",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "閣無"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "人叫"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "醒起"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "欲捉住"
+    },
+    {
+      "surface": "בך",
+      "gloss": "你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "你掩密"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "你消滅阮"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "阮的罪過"
+    }
+  ],
+  "timestamp": "2026-09-12T03:44:30.047861109Z",
+  "model": "glm-5.3"
+}

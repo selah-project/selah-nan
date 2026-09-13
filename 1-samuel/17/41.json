@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 17:41",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "非利士人就行,一直行、一直倚近大衛;彼個人夯盾牌行佇伊面頭前。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就行"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "一直行"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "一直倚近"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "夯"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "伊面頭前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:19.657415148Z",
+  "model": "glm-5.3"
+}

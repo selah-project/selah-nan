@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "耶利米的話,希勒家的仔,對祭司中間彼个,徛佇亞拿突,佇便雅憫的地。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "耶利米"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "希勒家"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "徛佇亞拿突"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    }
+  ],
+  "timestamp": "2026-09-13T04:37:11.618794521Z",
+  "model": "glm-5.3"
+}

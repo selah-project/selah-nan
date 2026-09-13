@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 130,
+  "translation": "上行之歌。對深深的所在我呼叫你,雅威。",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上行(之詩)"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "對深深的所在"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "我呼叫你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:54.905845527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊量⟨את⟩彼個庭院:長一百肘,闊一百肘,四四方方;閣彼個祭壇徛佇聖殿的面頭前。",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個庭院"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "彼個庭院"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "閣闊"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "四四方方"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "閣彼個祭壇"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "聖殿"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:50.111174679Z",
+  "model": "glm-5.3"
+}

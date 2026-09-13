@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "佇彼個日子，摩西寫⟨את⟩這首詩歌，閣教示⟨את⟩以色列的囝仔。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這首詩歌"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "詩歌"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這首"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "閣教示"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的囝仔"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:19:38.233635871Z",
+  "model": "glm-5.3"
+}

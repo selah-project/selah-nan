@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "雅威啊,你的赫瑟德(慈愛)佇諸天,你的信實到雲霄。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "你的信實"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "雲霄"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:32.476488041Z",
+  "model": "glm-5.3"
+}

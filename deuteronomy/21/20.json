@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "閣對伊城的長老按呢講:「阮這个囝倔強閣悖逆,無聽阮的聲,是食酒食甲狠披閣啉酒醉的。」",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "閣…講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "伊城的"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "阮…囝"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "倔強"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "閣悖逆"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "無"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "阮的聲"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "狠披食"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "閣啉酒醉"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:20.908453638Z",
+  "model": "glm-5.3"
+}

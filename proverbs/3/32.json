@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為乖僻的人是雅威所厭惡的;伊的機密⟨是⟩⟨את⟩佮正直的人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "所厭惡的"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "乖僻的人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩佮",
+      "marks": "正直的人"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直的人"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "伊的機密"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:14.168534650Z",
+  "model": "glm-5.3"
+}

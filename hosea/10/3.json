@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "因為這陣𪜶欲講:『阮無王,因為阮毋敬畏⟨את⟩雅威;王會當對阮做啥物?』",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶欲講"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "會當做"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "對阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:03.029770952Z",
+  "model": "glm-5.3"
+}

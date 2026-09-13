@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 4:15",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "雅威用刀嘴敗壞⟨את⟩西西拉、⟨את⟩所有的戰車、閣⟨את⟩全營,攏佇巴拉克面前;西西拉就對戰車頂跳落來,用伊的兩跤走逃。",
+  "tokens": [
+    {
+      "surface": "ויהם",
+      "gloss": "敗壞"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西西拉"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "西西拉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "所有的戰車"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "全營"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "刀嘴"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "巴拉克"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "就跳落來"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "西西拉"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對…頂"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "走逃"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "用伊的兩跤"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:14.194016218Z",
+  "model": "glm-5.3"
+}

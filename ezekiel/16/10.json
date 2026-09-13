@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "我互汝穿刺繡的衫,用塔哈施皮做鞋予汝,用幼麻帶縛汝,用絹仔包汝。",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "我互汝穿"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "刺繡的衫"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "做鞋予汝"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "塔哈施皮"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "縛汝"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "用幼麻"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "包汝"
+    },
+    {
+      "surface": "משי",
+      "gloss": "用絹仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:12:37.670707674Z",
+  "model": "glm-5.3"
+}

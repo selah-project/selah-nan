@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣⟨את⟩豬,因為伊分蹄,毋拘無反芻——伊對恁是無清氣的;𪜶的肉恁毋通食,𪜶的死體恁毋通摸。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "豬"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "豬"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "分"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "蹄"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋拘無"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "反芻"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "無清氣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "𪜶的肉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁通食"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "佮𪜶的死體"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "恁通摸"
+    }
+  ],
+  "timestamp": "2026-09-12T02:12:40.938871196Z",
+  "model": "glm-5.3"
+}

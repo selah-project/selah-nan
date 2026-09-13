@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "恁著做⟨את⟩我的判語,守⟨את⟩我的律例,來行佇其中;我是雅威,恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的判語"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的判語"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "著做"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的律例"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "我的律例"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "守"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "來行"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇其中"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:09.556537131Z",
+  "model": "glm-5.3"
+}

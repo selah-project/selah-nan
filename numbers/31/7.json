@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "𪜶就照雅威命令⟨את⟩摩西的話,出兵攻擊米甸,刣死所有查埔的。",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "𪜶就出兵"
+    },
+    {
+      "surface": "על",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "就刣死"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "查埔的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:49.174592127Z",
+  "model": "glm-5.3"
+}

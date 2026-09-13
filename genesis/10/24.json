@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "亞法撒生⟨את⟩沙拉,沙拉嘛生⟨את⟩希伯。",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "亞法撒"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "沙拉"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "沙拉"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "沙拉嘛"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "希伯"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "希伯"
+    }
+  ],
+  "timestamp": "2026-09-13T04:33:49.237444132Z",
+  "model": "glm-5.3"
+}

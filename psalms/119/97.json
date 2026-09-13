@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "噢!我偌疼你的妥拉,規日伊是我的默想。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "噢!偌"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "我疼"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "你的妥拉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "是我的默想"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:07.874000069Z",
+  "model": "glm-5.3"
+}

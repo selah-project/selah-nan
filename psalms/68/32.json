@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "有尊貴的使者欲對米茲拉因(埃及)來;古實趕緊伸伊的手到以羅欣。",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "欲來"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "尊貴的使者"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "到以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:37.726704127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 17:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "因為伊求伊祖先的以羅欣,照伊的誡命來行,無照以色列的所行。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊祖先"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "伊求"
+    },
+    {
+      "surface": "ובמצותיו",
+      "gloss": "照伊的誡命"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "來行"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "照…的所行"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:13:14.116615129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "基列的雅比居民聽著非利士人對掃羅所做⟨את⟩的代誌,",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "聽著"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "關係伊"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "雅比"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "的代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "對掃羅"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:10.696182714Z",
+  "model": "glm-5.3"
+}

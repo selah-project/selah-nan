@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣有巴克巴卡、希咧施、加拉, 佮瑪探雅,伊是米迦的後生,米迦是細基利的後生,細基利是亞薩的後生。",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "閣有巴克巴卡"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "希咧施"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "佮加拉"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "佮瑪探雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "米迦"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "細基利"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "亞薩"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:43.635435941Z",
+  "model": "glm-5.3"
+}

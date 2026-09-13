@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "暗嫩有一个朋友,伊名叫約拿達,是示米亞的仔、大衛的阿兄;約拿達是一个真有智慧的人。",
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "暗嫩…有"
+    },
+    {
+      "surface": "רע",
+      "gloss": "朋友"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "約拿達"
+    },
+    {
+      "surface": "בן",
+      "gloss": "仔"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "示米亞"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "阿兄"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "約拿達"
+    },
+    {
+      "surface": "איש",
+      "gloss": "是一个…的人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "有智慧"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:15.354964512Z",
+  "model": "glm-5.3"
+}

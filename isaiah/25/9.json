@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佇彼日欲有人按呢講:看啊,這是阮的以羅欣,阮向伊有向望,伊欲救阮;這是雅威,阮向伊有向望;阮欲歡喜快樂佇伊的救恩。",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "欲有……講"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "阮……向望"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "伊欲救阮"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "阮……向望"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "阮欲歡喜"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "佇伊的救恩"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:39.831220770Z",
+  "model": "glm-5.3"
+}

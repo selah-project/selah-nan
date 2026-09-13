@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊就講:「⟨את⟩ 你的聲我佇園裡聽見,我就驚,因為我袒胸,我就家己閃匿。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的聲"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "你的聲"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "佇園裡"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "我就驚"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "袒胸"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "我就家己閃匿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:25.440529995Z",
+  "model": "glm-5.3"
+}

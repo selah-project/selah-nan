@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 40:25",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "你敢會當用釣鉤拖利未雅坦,用索壓落伊的舌頭?",
+  "tokens": [
+    {
+      "surface": "תמשך",
+      "gloss": "你敢會當拖"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "利未雅坦"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "用釣鉤"
+    },
+    {
+      "surface": "ובחבל",
+      "gloss": "用索"
+    },
+    {
+      "surface": "תשקיע",
+      "gloss": "壓落"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "伊的舌頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:33.983450087Z",
+  "model": "glm-5.3"
+}

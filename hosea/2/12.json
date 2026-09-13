@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "這陣我欲佇伊的情人目睭前,揭開⟨את⟩伊的見羞,無人會救伊脫離我的手。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "我欲揭開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的見羞"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "伊的見羞"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "佇…目睭前"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "伊的情人"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "無人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "會救伊"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "脫離我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:00.486229791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "我會對我的磐石以勒講:啥物緣故你無記得我?啥物緣故我面容變暗咧行,佇對敵的壓制之下?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "我會講"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "對以勒"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "我的磐石"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "你無記得我"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "面容變暗"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "我咧行"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "佇壓制之下"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:58.231119686Z",
+  "model": "glm-5.3"
+}

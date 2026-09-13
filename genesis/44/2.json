@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "閣將⟨את⟩我的杯、銀做的杯,下佇上細个彼个袋仔的喙內,閣⟨את⟩伊買糧的銀;管家就照約瑟所講的話去做。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我的杯"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "我的杯"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "杯"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀做的"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "下"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "佇…的喙內"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "袋仔"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "上細个彼个"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "買糧的"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "就去做"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:35.370937564Z",
+  "model": "glm-5.3"
+}

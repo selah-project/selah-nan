@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "摩西對以色列的子兒講⟨את⟩雅威的節期。",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的節期"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "節期"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:35.959103468Z",
+  "model": "glm-5.3"
+}

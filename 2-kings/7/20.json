@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊就按呢發生矣:百姓佇城門共⟨את⟩伊踏踏落去,伊就死矣。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就…發生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "共…踏踏落去"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇城門"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "就死"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:39.357342820Z",
+  "model": "glm-5.3"
+}

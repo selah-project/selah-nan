@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "智慧豈毋咧呼喚?明達豈無獻伊的聲?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈毋"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "咧呼喚"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "明達"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "獻"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "伊的聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:58.214980030Z",
+  "model": "glm-5.3"
+}

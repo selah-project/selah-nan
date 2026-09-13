@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊若佇我目睭前做歹,無要聽我的聲,我就會反悔彼個好代,就是我所講欲互伊得好處的 ⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "伊若做"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇我目睭前"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "無要"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "我的聲"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "我就反悔"
+    },
+    {
+      "surface": "על",
+      "gloss": "關於"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "彼個好代"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我所講"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "欲得好處"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(彼個國)"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:13.276711371Z",
+  "model": "glm-5.3"
+}

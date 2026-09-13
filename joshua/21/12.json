@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "毋過⟨את⟩城的田,佮⟨את⟩伊的庄頭,𪜶已經給迦勒 —— 耶孚尼的囝 —— 做伊的業。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "毋過⟨את⟩",
+      "marks": "城的田"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊的庄頭"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "伊的庄頭"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "𪜶給了"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "給迦勒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的囝"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "耶孚尼"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "做伊的業"
+    }
+  ],
+  "timestamp": "2026-09-12T02:27:18.315448968Z",
+  "model": "glm-5.3"
+}

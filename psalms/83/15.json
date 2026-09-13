@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "親像火燒樹林,閣親像火焰吐焰燒山地。",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "親像火"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "燒"
+    },
+    {
+      "surface": "יער",
+      "gloss": "樹林"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "閣親像火焰"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "吐焰燒"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:18.591306472Z",
+  "model": "glm-5.3"
+}

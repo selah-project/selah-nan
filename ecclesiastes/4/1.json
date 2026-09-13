@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 4:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣我倒轉來,我看見⟨את⟩一切受壓迫的人,就是佇日頭下底受做的;看啊,受壓迫者的目屎,𪜶無安慰者;對壓迫𪜶的人的手有氣力,𪜶嘛無安慰者。",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "閣我倒轉來"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切受壓迫的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "受壓迫的人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נעשים",
+      "gloss": "受做的"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇……下底"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "דמעת",
+      "gloss": "目屎"
+    },
+    {
+      "surface": "העשקים",
+      "gloss": "受壓迫者的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "安慰者"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "對……的手"
+    },
+    {
+      "surface": "עשקיהם",
+      "gloss": "壓迫𪜶的"
+    },
+    {
+      "surface": "כח",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "安慰者"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:51.979814355Z",
+  "model": "glm-5.3"
+}

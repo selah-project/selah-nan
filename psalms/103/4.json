@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "伊對滅亡救贖你的活命,用赫瑟德佮憐憫給你戴冠冕。",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "救贖的"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "對滅亡"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "你的活命"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "給你戴冠冕的"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "佮憐憫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:55.345405453Z",
+  "model": "glm-5.3"
+}

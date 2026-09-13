@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "約珊生⟨את⟩示巴佮⟨את⟩底但；底但的後生是以利書人、勒圖施人、勒烏米人。",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "約珊"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "示巴"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "底但"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "底但"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "底但"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "以利書人"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "勒圖施人"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "勒烏米人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:05.026249822Z",
+  "model": "glm-5.3"
+}

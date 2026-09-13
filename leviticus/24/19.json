@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "若有人傷害伊的同胞,伊按呢做,就按呢愛佇伊身上做。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "若有人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "傷害(放)"
+    },
+    {
+      "surface": "מום",
+      "gloss": "傷痕"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "佇伊的同胞身上"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "愛做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "佇伊身上"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:31.805171971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "散赤人的頭生子會得飼,欠缺的人會安然倒咧;我欲用饑荒刣死你的根,你的餘種會被刣。",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "會得飼"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "頭生子"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "欠缺的人"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "安然"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "倒咧"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "我欲刣死"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "用饑荒"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "你的根"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "你的餘種"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "會被刣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:31:48.927441177Z",
+  "model": "glm-5.3"
+}

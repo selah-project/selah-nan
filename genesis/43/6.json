@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "以色列講：「啥物緣故恁按呢害我，去共彼個人講恁猶有一個兄弟？」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "恁按呢害"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "去共…講"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "彼個人"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "敢猶"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "אח",
+      "gloss": "兄弟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:00.572639559Z",
+  "model": "glm-5.3"
+}

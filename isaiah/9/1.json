@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "行佇黑暗內的⟨彼個⟩人民看見大光;坐佇死蔭之地的,光照耀𪜶。",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "彼個人民"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "行佇"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "黑暗內"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "坐佇"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "之地的"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死蔭"
+    },
+    {
+      "surface": "אור",
+      "gloss": "光"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "照耀"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:42.423776302Z",
+  "model": "glm-5.3"
+}

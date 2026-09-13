@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣今阮的頭殼會懸佇阮的對敵、佇四圍圍阮的人的頂面;閣阮欲佇伊的帳棚內獻呼喊的祭,阮欲唱歌、閣用琴聲讚美雅威。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "閣今"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "會懸"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "阮的頭殼"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "阮的對敵"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "四圍圍阮的人"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "閣阮欲獻"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "佇伊的帳棚內"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "祭"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "呼喊的"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "阮欲唱歌"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "閣用琴聲讚美"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:28.565440962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "米迦充滿⟨את⟩利未人的手,彼个少年人就做伊的祭司,蹛佇米迦⟨的⟩厝裡。",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "米迦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "利未人的手"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼个少年人"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "蹛"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…厝裡"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "米迦"
+    }
+  ],
+  "timestamp": "2026-09-12T02:35:38.685187492Z",
+  "model": "glm-5.3"
+}

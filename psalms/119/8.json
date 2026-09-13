@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "⟨את⟩ 你的律例我欲遵守;求你毋通放棄我到極。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的律例"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "你的律例"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "我欲遵守"
+    },
+    {
+      "surface": "אל",
+      "gloss": "求你毋通"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "放棄我"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:04.049230213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "毋拘𪜶用喙諂媚伊,用𪜶的舌對伊講白賊。",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "諂媚伊"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "用喙"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "用𪜶的舌"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "講白賊"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:38.542869168Z",
+  "model": "glm-5.3"
+}

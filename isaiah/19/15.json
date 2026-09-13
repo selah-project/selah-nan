@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣米茲拉因(埃及)就無工課通做,無論是頭抑是尾、是棕樹枝抑是蘆葦,攏做無。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "閣…無"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "就有"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "無論是"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "抑是尾"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "棕樹枝"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "抑是蘆葦"
+    }
+  ],
+  "timestamp": "2026-09-13T04:36:09.414127788Z",
+  "model": "glm-5.3"
+}

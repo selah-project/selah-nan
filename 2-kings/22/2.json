@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊行雅威眼中看做著的代誌,照伊的父大衛一切的路來行,無偏右,嘛無偏左。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊行"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "著的代誌"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "來行"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "伊的父"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "סר",
+      "gloss": "偏離"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "嘛無偏左"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:50.273167541Z",
+  "model": "glm-5.3"
+}

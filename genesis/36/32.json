@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "比拉的子波拉的囝佇以東做王,伊的城的名叫做丁哈巴。",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "佇以東"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "比拉"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的囝"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "波拉"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "伊的城"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "丁哈巴"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:20.051053804Z",
+  "model": "glm-5.3"
+}

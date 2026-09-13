@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 60,
+  "translation": "你予你的百姓看著艱苦的代誌;你予阮啉會予人搖搖晃的酒。",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "你予…看著"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "艱苦"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "你予阮啉"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "會予人搖搖晃"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:22.473185806Z",
+  "model": "glm-5.3"
+}

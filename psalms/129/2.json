@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 129,
+  "translation": "真濟擺𪜶對我少年的時就壓迫我,嘛毋捌會當贏過我。",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "真濟擺"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "𪜶壓迫我"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "對我少年的時"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "會當"
+    },
+    {
+      "surface": "לי",
+      "gloss": "贏過我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:25.283489564Z",
+  "model": "glm-5.3"
+}

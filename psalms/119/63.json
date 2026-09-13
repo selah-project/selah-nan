@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我是敬畏你的眾人的同伴,嘛是遵守你命令的人。",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "同伴"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我是"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "眾人的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼的"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "敬畏你"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "嘛是遵守"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "你命令的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:34.703513521Z",
+  "model": "glm-5.3"
+}

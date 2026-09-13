@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣伊翻毀⟨את⟩諸個城，閣⟨את⟩歸個平原，閣⟨את⟩諸個城內攏總蹛的人，佮土地所發出來的草木。",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "閣伊翻毀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個城"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "諸個城"
+    },
+    {
+      "surface": "האל",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "歸個平原"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸個"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "平原"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "蹛諸個城的人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "蹛的人"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "諸個城"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "佮所發出來的草木"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:13:27.225806967Z",
+  "model": "glm-5.3"
+}

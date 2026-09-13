@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "閣我的信實佮我的赫瑟德(慈愛)欲佮伊佇咧,閣佇我的名內伊的角欲升高。",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "閣我的信實"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "佮我的赫瑟德(慈愛)"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "閣佇我的名內"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "欲升高"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "伊的角"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:56.885050434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "佇伊作王第三年，伊設宴請伊逐个大臣佮臣僕——波斯佮瑪代的軍力、貴族，佮逐省的省長，攏佇伊面前。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "第三"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "伊作王"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "伊設"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "宴席"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "請逐个"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "伊的大臣"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "佮伊的臣僕"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍力"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "波斯"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "佮瑪代"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "貴族"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "佮…首領"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "逐省的"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:49.567091870Z",
+  "model": "glm-5.3"
+}

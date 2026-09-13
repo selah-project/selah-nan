@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "閣 ⟨את⟩ 厝的地板,伊貼金,佇內底佮佇外面。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "厝的地板"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "地板"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "貼"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "向內底"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "佮向外面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:38.012208918Z",
+  "model": "glm-5.3"
+}

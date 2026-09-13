@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "以羅欣啊,照祢的赫瑟德施恩互我;照祢疼憐的多,抹消我的悖逆。",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "施恩互我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "照祢的赫瑟德"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "照…的多"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "祢的疼憐"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "抹消"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "我的悖逆"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:43.179918976Z",
+  "model": "glm-5.3"
+}

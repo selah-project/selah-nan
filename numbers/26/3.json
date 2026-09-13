@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "摩西佮祭司以利亞撒就佇摩押的平原、約旦對面耶利哥遐,對⟨את⟩𪜶講,講:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "佮以利亞撒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(以色列會眾)"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "佇…的平原"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "摩押"
+    },
+    {
+      "surface": "על",
+      "gloss": "對面"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "約旦"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:54.067730916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "智慧人欲聽,閣加添領受;通曉的人欲得著策略。",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "閣加添"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "領受"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "通曉的人"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "策略"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "得著"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:16.629673838Z",
+  "model": "glm-5.3"
+}

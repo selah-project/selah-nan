@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以伊施‧波設就差人去,對伊的翁──對帕鐵、拉億的後生──遐共伊帶走。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "איש",
+      "gloss": "以伊施"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "波設"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "共伊帶走"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對"
+    },
+    {
+      "surface": "איש",
+      "gloss": "翁"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "帕鐵"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "拉億"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:14.322301591Z",
+  "model": "glm-5.3"
+}

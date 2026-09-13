@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "以色列做囡仔的時,我就疼伊;我對米茲拉因叫我的子。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…的時"
+    },
+    {
+      "surface": "נער",
+      "gloss": "做囡仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "我就疼伊"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "對米茲拉因"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "我叫"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "我的子"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:35.269207988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 85,
+  "translation": "你擔走你百姓的孽;你蓋住𪜶一切的罪。細拉。",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "你擔走"
+    },
+    {
+      "surface": "עון",
+      "gloss": "…的孽"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "你蓋住"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "𪜶的罪"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:07.486725902Z",
+  "model": "glm-5.3"
+}

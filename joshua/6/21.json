@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "𪜶將⟨את⟩城內所有的一切攏滅無獻做禁物,對男人到女人,對少年到老人,連牛、羊佮驢,攏照刀嘴滅無。",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "滅無獻做禁物"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "城內所有的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(的)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "城內"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "對男人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "女人"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "對少年"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "老人"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "連……到"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "佮羊"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "佮驢"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "照……的嘴"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    }
+  ],
+  "timestamp": "2026-09-12T02:22:40.999650576Z",
+  "model": "glm-5.3"
+}

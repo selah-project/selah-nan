@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "親像火燒坱草,火燒甲水滾,欲互你的名互你的對敵知影,對你的面,列國攏會震驚。",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "親像火燒"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "坱草"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "燒甲滾"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "欲互…知影"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "對你的面"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "攏會震驚"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:22.128550224Z",
+  "model": "glm-5.3"
+}

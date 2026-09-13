@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "𪜶就啉叫羅得,對伊講:「彼个人佗位?就是今暗入去你遐的彼个。」。「𢪱𪜶提出來到阮遮,阮欲認識⟨את⟩𪜶。」",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "啉叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佗位"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "באו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到你遐"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "今暗"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "𢪱𪜶提出來"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "到阮遮"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "阮欲認識"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶(佇遮指向「彼个人」)"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:38.081068936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 140,
+  "translation": "講讒言的人佇地上袂當安定；強暴的歹人，歹會掠伊到滅無。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "講讒言的"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂當"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "安定"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴的"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "掠伊"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "到滅無"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:19.519306196Z",
+  "model": "glm-5.3"
+}

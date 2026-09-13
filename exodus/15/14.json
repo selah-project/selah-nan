@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "列國聽見就震驚;產痛抓住非利士地的居民。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "就震驚"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "產痛"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "抓住"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "非利士地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:50.110196820Z",
+  "model": "glm-5.3"
+}

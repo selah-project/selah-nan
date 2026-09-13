@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威毋是佮⟨את⟩咱的列祖立⟨את⟩這个約,是佮咱⟨את⟩——咱諸个佇遮、今仔日攏猶活——立的。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "את",
+      "gloss": "佮⟨את⟩",
+      "marks": "咱的列祖"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "咱的列祖"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "立(切)約"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个約"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "這个約"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "佮咱⟨את⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "咱"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "諸个"
+    },
+    {
+      "surface": "פה",
+      "gloss": "佇遮"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "咱逐家"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "攏猶活"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:55.374262062Z",
+  "model": "glm-5.3"
+}

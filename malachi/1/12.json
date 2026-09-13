@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "毋拘恁侮辱⟨את⟩伊，因為恁講：阿多奈的桌是垃墋的，伊的果子，伊的食物是互人看無。",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "毋拘恁"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "侮辱"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "伊（阿多奈的名）"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "因為恁講"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "桌"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "垃墋的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊是"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "閣伊的果子"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "互人看無"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "伊的食物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:52.102025892Z",
+  "model": "glm-5.3"
+}

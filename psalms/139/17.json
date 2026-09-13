@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "閣對我,以勒啊,你的思念偌寶貴!𪜶的總數偌濟!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "閣對我"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "寶貴"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "你的思念"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "濟"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "𪜶的總數"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:43.966242295Z",
+  "model": "glm-5.3"
+}

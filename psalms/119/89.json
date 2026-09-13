@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "到永遠,雅威啊,你的話徛在佇諸天。",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "你的話"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:50.991358202Z",
+  "model": "glm-5.3"
+}

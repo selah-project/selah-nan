@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 22:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為這是擾亂、踐踏、佮混亂的一日,是對阿多奈・雅威・采巴奧特(萬軍)來的,佇異象谷;有人咧拆牆壁,有人向山喊叫。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יום",
+      "gloss": "一日"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "擾亂"
+    },
+    {
+      "surface": "ומבוסה",
+      "gloss": "佮踐踏"
+    },
+    {
+      "surface": "ומבוכה",
+      "gloss": "佮混亂"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "對阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "佇…谷"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "異象"
+    },
+    {
+      "surface": "מקרקר",
+      "gloss": "咧拆"
+    },
+    {
+      "surface": "קר",
+      "gloss": "牆壁"
+    },
+    {
+      "surface": "ושוע",
+      "gloss": "佮喊叫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:54.248380211Z",
+  "model": "glm-5.3"
+}

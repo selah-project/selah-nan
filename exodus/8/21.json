@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "法老就召叫摩西佮亞倫,講:「恁去,佇⟨這⟩地獻祭予恁的以羅欣。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就召叫"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "恁去"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "予恁的以羅欣"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇此地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:15.259154885Z",
+  "model": "glm-5.3"
+}

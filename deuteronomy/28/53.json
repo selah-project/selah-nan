@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "deuteronomy 28:53",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "你欲食你肚內的果子,你後生佮查某囝的肉,就是雅威你的以羅欣所賞你的,佇圍困佮患難中,你的對敵欲按呢苦楚你。",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "你欲食"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "你肚內"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你後生"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "佮查某囝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "所賞"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "佇圍困"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "佮患難中"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יציק",
+      "gloss": "苦楚"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "你的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:57.041962351Z",
+  "model": "glm-5.3"
+}

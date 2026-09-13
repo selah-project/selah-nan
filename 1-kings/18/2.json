@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "以利亞就去亞哈面前現身;彼時撒馬利亞的饑荒真嚴重。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "去現身"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…面前"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "彼時…的饑荒"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "真嚴重"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:11.891163882Z",
+  "model": "glm-5.3"
+}

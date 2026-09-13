@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 34:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "天的一切軍隊會消溶,諸個天會親像冊卷咧捲起來;𪜶一切的軍隊會淍殘,親像葡萄樹的葉淍落,親像無花果樹的淍落。",
+  "tokens": [
+    {
+      "surface": "ונמקו",
+      "gloss": "會消溶"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天的"
+    },
+    {
+      "surface": "ונגלו",
+      "gloss": "會捲起來"
+    },
+    {
+      "surface": "כספר",
+      "gloss": "親像冊卷"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸個天"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "𪜶的軍隊"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "會淍殘"
+    },
+    {
+      "surface": "כנבל",
+      "gloss": "親像…淍落"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "葉"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "葡萄樹的"
+    },
+    {
+      "surface": "וכנבלת",
+      "gloss": "親像…淍落"
+    },
+    {
+      "surface": "מתאנה",
+      "gloss": "無花果樹的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:47.588626452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 125,
+  "translation": "耶路撒冷啊,山圍佇伊四圍;雅威嘛圍佇伊的百姓四圍,對此時直到永遠。",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍佇……四圍"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威嘛"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍佇……四圍"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "對此時"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:41.078515381Z",
+  "model": "glm-5.3"
+}

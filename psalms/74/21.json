@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "願受壓迫的人袂見笑倒轉去;願散凶人佮窮苦人謳咾祢——毋好,祢的名。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋好"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "דך",
+      "gloss": "受壓迫的人"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "עני",
+      "gloss": "窮苦人"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "佮散凶人"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "願𪜶謳咾"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "祢的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.153964977Z",
+  "model": "glm-5.3"
+}

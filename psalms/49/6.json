@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "我啥物代誌欲佇患難的日子驚,當罪孽纏絞我的腳後跘的時?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "啥物代誌欲"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "רע",
+      "gloss": "患難"
+    },
+    {
+      "surface": "עון",
+      "gloss": "罪孽"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "我的腳後跘"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "纏絞我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:41.421164856Z",
+  "model": "glm-5.3"
+}

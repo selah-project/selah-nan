@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是真正被撕破的,伊著提⟨彼隻⟩來做證據;彼个被撕破的,伊毋免賠。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "真正被撕破"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "被撕破"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "伊著提伊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "做證據"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "彼个被撕破的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "賠"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:56.328196869Z",
+  "model": "glm-5.3"
+}

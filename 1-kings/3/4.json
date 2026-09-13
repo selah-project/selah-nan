@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "王去基遍,欲佇遐獻祭,因為彼个⟨是⟩上大的邱壇;所羅門佇彼个祭壇頂面獻上一千隻燒祭。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "基遍"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "欲獻祭"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨是⟩"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "邱壇"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "上大的"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "燒祭"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "獻上"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "על",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼个"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:33.072786144Z",
+  "model": "glm-5.3"
+}

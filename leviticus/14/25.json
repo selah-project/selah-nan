@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 14:25",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣刣⟨את⟩賠罪祭的羊羔,祭司就提賠罪祭的血一寡,點佇欲潔淨彼個人的右耳的耳垂,閣點佇伊右手的頭拇,佮伊右腳的頭拇:",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "閣刣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "賠罪祭的羊羔"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "賠罪祭"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "閣提"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "對血"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "賠罪祭的"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "閣點"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "耳垂"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "耳"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "欲潔淨彼個人"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "頭拇"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "頭拇"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "伊的腳"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "右"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:57.690402672Z",
+  "model": "glm-5.3"
+}

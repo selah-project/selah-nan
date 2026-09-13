@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "啥物緣故列國欲講:「𪜶的以羅欣佇佗位?」",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "欲講"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "נא",
+      "gloss": "敢講"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "𪜶的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:32.023441390Z",
+  "model": "glm-5.3"
+}

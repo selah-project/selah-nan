@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "佇拿單先知來到伊遐的時,就是伊入去拔示巴了後",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "佇…來到的時"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遐"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "拿單"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בת",
+      "gloss": "拔"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "示巴"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:43.179749644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "搶救我的性命脫離刀劍,脫離狗的爪,搶救我的獨一者。",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "搶救"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "脫離刀劍"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "脫離…的爪"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "狗"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "我的獨一者"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:24.560126119Z",
+  "model": "glm-5.3"
+}

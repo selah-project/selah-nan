@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "米茲拉因(埃及)的王對希伯來的產婆講——一个的名是施弗拉,第二个的名是普阿:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "對…產婆"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "希伯來的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "——"
+    },
+    {
+      "surface": "שם",
+      "gloss": "…的名"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一个"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "施弗拉"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "第二个的名"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "第二个"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "普阿"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:24.289479443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你若止無欲許願,就無罪佇你身上。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "你止無"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "欲許願"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "就有"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "罪"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:05.494292713Z",
+  "model": "glm-5.3"
+}

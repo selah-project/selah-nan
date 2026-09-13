@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "你毋通食伊;著倒佇土腳頂,親像水按呢共伊倒落去。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "食伊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土腳"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "倒伊"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:25.738020358Z",
+  "model": "glm-5.3"
+}

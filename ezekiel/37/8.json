@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 37:8",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "我看,看啊,有筋佇𪜶頂面,肉長起來,皮對頂面包蔽𪜶;總是氣息無佇𪜶內底。",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "我看"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "גדים",
+      "gloss": "筋"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "閣肉"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "長起來"
+    },
+    {
+      "surface": "ויקרם",
+      "gloss": "閣包蔽"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "עור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "對頂面"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "總是氣息"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇𪜶內底"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:59.764084440Z",
+  "model": "glm-5.3"
+}

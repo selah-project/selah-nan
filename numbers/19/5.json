@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "閣欲燒 ⟨את⟩ 彼隻母牛佇伊的目睭前;⟨את⟩ 伊的皮、佮 ⟨את⟩ 伊的肉、佮 ⟨את⟩ 伊的血,連伊的屎,攏愛燒掉。",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "閣欲燒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻母牛"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "彼隻母牛"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "佇伊的目睭前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的皮"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "伊的皮"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的肉"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "伊的肉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的血"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "על",
+      "gloss": "連"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "伊的屎"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "攏愛燒掉"
+    }
+  ],
+  "timestamp": "2026-09-12T01:59:29.206275325Z",
+  "model": "glm-5.3"
+}

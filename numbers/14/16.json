@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "『因為雅威無法度共⟨את⟩這個民族帶入伊對𪜶起誓欲賞𪜶的彼片土地,就佇曠野刣死𪜶。』",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "因為……無法度"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "無法度"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "帶入"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個民族"
+    },
+    {
+      "surface": "העם",
+      "gloss": "這個民族"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "伊起誓"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "伊刣死𪜶"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T01:56:42.739468830Z",
+  "model": "glm-5.3"
+}

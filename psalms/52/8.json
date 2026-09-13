@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 52,
+  "translation": "義人會看見,就驚,佮對伊笑。",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "佮看見"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "就驚"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "佮對伊"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "笑"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:21.391541800Z",
+  "model": "glm-5.3"
+}

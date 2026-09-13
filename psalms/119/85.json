@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "驕傲的人替我掘坎坑,彼个毋是照你的律法。",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "掘"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "驕傲的人"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "坎坑"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "照你的律法"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:52.219645166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "阮的祖先佇埃及無明白你的奇事,無記得⟨את⟩你豐盛的赫瑟德,閣佇海——蘇弗海——悖逆。",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "阮的祖先"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇埃及"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "明白"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "你的奇事"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "記得"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你豐盛的赫瑟德"
+    },
+    {
+      "surface": "רב",
+      "gloss": "豐盛"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "閣悖逆"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "בים",
+      "gloss": "佇…海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘇弗"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:09.430544110Z",
+  "model": "glm-5.3"
+}

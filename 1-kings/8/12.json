@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "彼時沙門講:「雅威講,伊欲徛佇烏暗的雲內。」",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "沙門"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "佇烏暗的雲內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:18.521568830Z",
+  "model": "glm-5.3"
+}

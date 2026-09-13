@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "拉吳佇生⟨את⟩西魯格了後,閣活二百佮七年,生查甫囝佮查某囝。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "閣活"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "拉吳"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇…了後"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西魯格"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "西魯格"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "佮二百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "生"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "查甫囝"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "佮查某囝"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:55.549966946Z",
+  "model": "glm-5.3"
+}

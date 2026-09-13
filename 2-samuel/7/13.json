@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊欲為著我的名起造一間厝,我欲堅固⟨את⟩伊的國權的寶座到永遠。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "欲起造"
+    },
+    {
+      "surface": "בית",
+      "gloss": "一間厝"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "為著我的名"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "閣我欲堅固"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的國權的寶座"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "伊的國權"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:04.355131024Z",
+  "model": "glm-5.3"
+}

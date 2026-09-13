@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "閣人會講：的確義人有果子通得；的確有以羅欣佇地上審判。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣……講"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "予義人"
+    },
+    {
+      "surface": "אך",
+      "gloss": "的確"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "審判"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:11.365816851Z",
+  "model": "glm-5.3"
+}

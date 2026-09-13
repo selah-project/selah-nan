@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "對但,⟨是⟩亞撒列、耶羅罕的囝。遮⟨是⟩以色列諸支派的首領。",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "對但"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "亞撒列"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "耶羅罕"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "……的首領"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "諸支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:08:23.560888838Z",
+  "model": "glm-5.3"
+}

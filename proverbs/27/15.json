@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "大雨的日子滴水直直落,佮愛冤家的查某人,兩个是一个款。",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "滴水"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "直直落"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "大雨"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "佮查某人"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "愛冤家"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "是一个款"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:48.061582038Z",
+  "model": "glm-5.3"
+}

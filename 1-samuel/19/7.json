@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 19:7",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "約拿單叫大衛來,約拿單共伊講⟨את⟩這一切話,約拿單就帶⟨את⟩大衛去掃羅遐,伊就徛佇伊面前,親像昨昏佮前日按呢。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "叫…來"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "共伊講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "帶…去"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "徛佇伊面前"
+    },
+    {
+      "surface": "כאתמול",
+      "gloss": "親像昨昏"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "佮前日"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:43.481554398Z",
+  "model": "glm-5.3"
+}

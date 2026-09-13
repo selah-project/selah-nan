@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "閣 ⟨את⟩ 其餘的百姓,伊交佇伊小弟亞比篩的手中,伊排列去對亞捫的子弟。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "其餘的百姓"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "其餘的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "交"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "佇…手中"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "亞比篩"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊小弟"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "伊排列"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "去對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子弟"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "亞捫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:50.276807671Z",
+  "model": "glm-5.3"
+}

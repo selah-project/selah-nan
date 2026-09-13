@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "恁欲食舊糧,貯甲真舊的猶閣咧,因為新的來,恁著共舊的搬出去。",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "恁欲食"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "舊糧"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "貯甲真舊的"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "舊的"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因為…的緣故"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "恁著共…搬出去"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:32.862045963Z",
+  "model": "glm-5.3"
+}

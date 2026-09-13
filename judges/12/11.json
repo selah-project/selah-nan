@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇伊了後，以倫這個西布倫人審判⟨את⟩以色列；伊審判⟨את⟩以色列十年。",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "佇伊了後"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "以倫"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "這個西布倫人"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "伊審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    }
+  ],
+  "timestamp": "2026-09-12T02:33:44.771801101Z",
+  "model": "glm-5.3"
+}

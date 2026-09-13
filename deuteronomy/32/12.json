@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "雅威單獨引𪜶,無別個陌生的神佮伊佇咧。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "單獨"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "引𪜶"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "神"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "陌生的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:31.480115566Z",
+  "model": "glm-5.3"
+}

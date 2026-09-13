@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "雅威行離開，當伊講完了對亞伯拉罕講話了後，亞伯拉罕就倒轉去伊的所在。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "行離開"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "當…了後"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "講完"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "亞伯拉罕嘛"
+    },
+    {
+      "surface": "שב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "去伊的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:22.247853573Z",
+  "model": "glm-5.3"
+}

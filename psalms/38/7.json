@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我彎曲我屈低甲真厲害,規日黯淡哀傷咧行。",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "我彎曲"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "我屈低"
+    },
+    {
+      "surface": "עד",
+      "gloss": "甲"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真厲害"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "黯淡哀傷"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "咧行"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:24.798364006Z",
+  "model": "glm-5.3"
+}

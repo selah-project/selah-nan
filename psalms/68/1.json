@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 68,
+  "translation": "互指揮的人,大衛的,詩,一首歌。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮的人"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "一首歌"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:12.546400933Z",
+  "model": "glm-5.3"
+}

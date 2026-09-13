@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "掃羅佮以色列人嘛聚集,佇以拉山谷紮營,排陣欲抵對非利士人。",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "佮掃羅"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "佮…人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "嘛聚集"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "紮營"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "佇…山谷"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "以拉"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "排陣"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "欲抵對"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:01.226394192Z",
+  "model": "glm-5.3"
+}

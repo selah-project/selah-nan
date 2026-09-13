@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "一䊤指甲花,我的愛人佇我,佇隱基底(音譯:恩戈迪)的葡萄園內。",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "一䊤"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "指甲花"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "我的愛人"
+    },
+    {
+      "surface": "לי",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "佇…葡萄園"
+    },
+    {
+      "surface": "עין",
+      "gloss": "隱"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "基底"
+    }
+  ],
+  "timestamp": "2026-09-12T05:31:50.335041758Z",
+  "model": "glm-5.3"
+}

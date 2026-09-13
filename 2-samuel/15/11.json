@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佮⟨את⟩押沙龍做夥行的,有對耶路撒冷來的二百個人,攏是受邀請的;𪜶佇單純內行,啥物代誌攏毋知。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "行"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "個人"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "受邀請的"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "行"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "佇單純內"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知"
+    },
+    {
+      "surface": "כל",
+      "gloss": "啥物…攏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:42.912906023Z",
+  "model": "glm-5.3"
+}

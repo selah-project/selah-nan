@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "互我明白你誡命的路,我欲講論你的奇妙。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "你誡命的"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "互我明白"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "我欲講論"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "你的奇妙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:19.146152845Z",
+  "model": "glm-5.3"
+}

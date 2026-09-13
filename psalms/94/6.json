@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "寡婦佮寄腳的,⟨𪜶⟩刣死;孤兒,⟨𪜶⟩謀殺。",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "佮寄腳的"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "刣死"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "謀殺"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:18.582783888Z",
+  "model": "glm-5.3"
+}

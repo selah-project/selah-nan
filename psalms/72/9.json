@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "佇伊面前,曠野的人欲跪落;伊的對敵欲舐土砂。",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊面前"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "欲跪落"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "曠野的人"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "佮伊的對敵"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土砂"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "欲舐"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:39.642220255Z",
+  "model": "glm-5.3"
+}

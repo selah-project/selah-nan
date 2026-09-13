@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "行奇妙事佇含的地,行敬畏事佇蘇夫海頂面。",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "奇妙事"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "חם",
+      "gloss": "含"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "敬畏事"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘇夫"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:07.710037893Z",
+  "model": "glm-5.3"
+}

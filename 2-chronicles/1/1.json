@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "所羅門大衛的仔徛穩佇伊的國度頂面,雅威伊的以羅欣佮伊做伙,閣共伊提升到懸頂。",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "徛穩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "伊的國度"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "伊的以羅欣"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做伙"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "閣共伊提升"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "到懸頂"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:17.356160997Z",
+  "model": "glm-5.3"
+}

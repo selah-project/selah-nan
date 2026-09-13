@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "雅威行完⟨את⟩伊的受氣,洩出伊烈怒的火;伊佇錫安點著火,火吞食伊的地基。",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "行完"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的受氣"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "伊的受氣"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "洩出"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "烈怒"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊的火"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "伊點著"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "佇錫安"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "吞食"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "伊的地基"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:29.776398279Z",
+  "model": "glm-5.3"
+}

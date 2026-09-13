@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "門戶啊,抬起恁的頭,永遠的門嘴啊,恁嘛抬起來,通榮光的王入來。",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "抬起"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "門戶啊"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "恁的頭"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "嘛抬起來"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "門嘴啊"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠的"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "榮光的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:30.971855073Z",
+  "model": "glm-5.3"
+}

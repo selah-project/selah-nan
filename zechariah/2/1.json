@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我舉⟨את⟩我的目睭,我看見,看啊,有四枝角。",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "我舉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的目睭"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "角"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:33.158629200Z",
+  "model": "glm-5.3"
+}

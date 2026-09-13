@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我的心怦怦喘,我的力離開我,連我目睭的光,彼个嘛無佇我身軀邊⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "怦怦喘"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "離開我"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的力"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "閣…的光"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "הם",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ 佇我身軀邊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:35.143852566Z",
+  "model": "glm-5.3"
+}

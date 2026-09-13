@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "義人的路是平坦;正直者啊,你平義人的路徑。",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "路"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "平坦"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直者啊"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "路徑"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "你平"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:33.991939534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "因為對以色列來的就是伊;巧匠做伊,伊毋是以羅欣;因為撒瑪利亞的牛犢欲變做碎片。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "就是伊"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "巧匠"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "做伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "佮毋是"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "碎片"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "欲變做"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "牛犢"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:55.124294367Z",
+  "model": "glm-5.3"
+}

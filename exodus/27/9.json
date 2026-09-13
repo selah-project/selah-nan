@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你欲做 ⟨את⟩ 帳幕的院:對南旁、向南势,掛簾做院的,細麻捻的,一百肘長,對一邊。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "帳幕的院"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "院"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "帳幕的"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "對…旁"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "南"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "向南势"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "掛簾"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "做院的"
+    },
+    {
+      "surface": "שש",
+      "gloss": "細麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "捻的"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "對…旁"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一邊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:14.651208406Z",
+  "model": "glm-5.3"
+}

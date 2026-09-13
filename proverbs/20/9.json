@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "啥人會當講:「我有予我的心清氣,我對我的罪潔淨矣」?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "會當講"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "我有…清氣"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "我潔淨"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "對我的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:23.575412131Z",
+  "model": "glm-5.3"
+}

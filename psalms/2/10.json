@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "所以今,諸個王啊,著愛有智慧;地上審判的人啊,著愛受警戒。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "所以今"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "諸個王啊"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "著愛有智慧"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "著愛受警戒"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "審判的人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:33.516672510Z",
+  "model": "glm-5.3"
+}

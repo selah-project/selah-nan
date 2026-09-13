@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "羅波安的王權夯實矣、伊家己嘛強壯矣,伊就撇棄⟨את⟩雅威的律法,規个以色列嘛佮伊做伙按呢。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "發生"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "夯實了後"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王權"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "羅波安"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "佮伊家己強壯"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "撇棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的律法"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮規个"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:13.793959776Z",
+  "model": "glm-5.3"
+}

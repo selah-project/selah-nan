@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 15:37",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佇彼些日子,雅威開始差遣利汛•亞蘭王佮⟨את⟩比加•勒瑪利亞的子去攻擊猶大。",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "佇彼些日子"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "彼些"
+    },
+    {
+      "surface": "החל",
+      "gloss": "開始"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להשליח",
+      "gloss": "差遣"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "去攻擊猶大"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "利汛"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "比加"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "比加"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的子"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "勒瑪利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:05.984066558Z",
+  "model": "glm-5.3"
+}

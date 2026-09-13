@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "「咱來起一間細間的牆頂樓仔,閣替伊佇遐下眠床、桌仔、椅仔佮燈台;按呢伊來阮遮的時,就入去遐。」",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "咱來起"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "樓仔"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "牆頂"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "細間的"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "閣下"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "眠床"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "桌仔"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "椅仔"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "燈台"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "伊來"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "阮遮"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "入去"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "遐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:14.204531342Z",
+  "model": "glm-5.3"
+}

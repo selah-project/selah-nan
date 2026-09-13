@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "親像雅威對恁面前所消滅的許個列國按呢,恁嘛欲滅無,因為恁無聽雅威、恁的以羅欣的聲。",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "親像…的許個列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "消滅"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "對恁面前"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "恁嘛欲滅無"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:01.386036231Z",
+  "model": "glm-5.3"
+}

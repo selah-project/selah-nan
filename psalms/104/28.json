@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "你給𪜶,𪜶就去撿;你展開你的手,𪜶就予好物食甲飽。",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "你給"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "去撿"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "你展開"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "食甲飽"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:24.274966876Z",
+  "model": "glm-5.3"
+}

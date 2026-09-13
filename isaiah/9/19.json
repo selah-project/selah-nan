@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "𪜶佇正手爿掠取,猶飢餓;倒手爿食,猶是無飽;逐人食家己手臂的肉。",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "掠取"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "正手爿"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "猶飢餓"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "倒手爿"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "猶無"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "飽"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "家己的手臂"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:17.028446191Z",
+  "model": "glm-5.3"
+}

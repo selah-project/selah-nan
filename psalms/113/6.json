@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 113,
+  "translation": "彼位家己降卑、欲看佇諸天佮佇地上的──",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "彼位家己降卑的"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "欲看"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇諸天"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "佮佇地上"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:51.818453017Z",
+  "model": "glm-5.3"
+}

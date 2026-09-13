@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "猶大人聚集來對雅威求;對猶大全地的城嘛有人來,欲尋求⟨את⟩雅威。",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "來求"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對…全"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "באו",
+      "gloss": "有人來"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "欲尋求"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:04.926934864Z",
+  "model": "glm-5.3"
+}

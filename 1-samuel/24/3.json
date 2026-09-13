@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "掃羅就對以色列眾人內底揀三千個精壯的人,去尋大衛 ⟨את⟩ 佮伊的人,佇野山羊的石磐前。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "掠取"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三千的"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "…千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "揀"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對…全部"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "去"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "尋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "佮伊的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "石磐"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "野山羊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:11.723989051Z",
+  "model": "glm-5.3"
+}

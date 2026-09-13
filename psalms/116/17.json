@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 116,
+  "translation": "我欲獻互祢——毋是祢,是祢——感謝的祭物,閣我欲奉雅威的名來呼求。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "互祢"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "我欲獻祭"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "感謝"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "閣奉…的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我欲呼求"
+    }
+  ],
+  "timestamp": "2026-09-13T08:14:18.212015480Z",
+  "model": "glm-5.3"
+}

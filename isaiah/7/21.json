@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "彼日會到,一个人會飼一隻牛仔母佮兩隻羊。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "會到"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "會飼活"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "牛仔母"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "佮兩隻"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:21.739902125Z",
+  "model": "glm-5.3"
+}

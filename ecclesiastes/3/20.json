@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "攏總行到一个所在;攏總本底對塗來,攏總閣轉去歸塗。",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "行"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "一个所在"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "היה",
+      "gloss": "本底……來"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "塗"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "שב",
+      "gloss": "閣轉去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "塗"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:16.209596703Z",
+  "model": "glm-5.3"
+}

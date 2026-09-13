@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "佇伊目睭內,卑賤的人看無路用;伊尊敬⟨את⟩敬畏雅威的人;伊咒誓欲受損害,也毋改變。",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "卑賤的人"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊目睭內"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "看無路用"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "敬畏雅威的人"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "敬畏…的人"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "伊尊敬"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "伊咒誓"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "欲受損害"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "改變"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:06.745224418Z",
+  "model": "glm-5.3"
+}

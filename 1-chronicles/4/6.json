@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "拿阿拉給伊生阿戶薩姆⟨את⟩、⟨את⟩希弗、⟨את⟩提米尼、閣⟨את⟩哈阿什塔利;遮个是拿阿拉的後生。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "拿阿拉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阿戶薩姆"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "阿戶薩姆"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "希弗"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "希弗"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "提米尼"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "提米尼"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈阿什塔利"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "哈阿什塔利"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "拿阿拉的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:48:12.289023991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 47:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "我欲佮我的列祖同眠,你欲扛我離開埃及,埋我佇𪜶的墳墓。伊就講:我會照你的話做。",
+  "tokens": [
+    {
+      "surface": "ושכבתי",
+      "gloss": "我同眠"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "我的列祖"
+    },
+    {
+      "surface": "ונשאתני",
+      "gloss": "你扛我"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "離開埃及"
+    },
+    {
+      "surface": "וקברתני",
+      "gloss": "埋我"
+    },
+    {
+      "surface": "בקברתם",
+      "gloss": "佇𪜶的墳墓"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "會做"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "照你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:51.381288348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "鑄像的神明,你毋通家己造。",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "神明"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "鑄像的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "造"
+    },
+    {
+      "surface": "לך",
+      "gloss": "家己"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:07.792264851Z",
+  "model": "glm-5.3"
+}

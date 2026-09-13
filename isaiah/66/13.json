@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "親像一个大人,伊的老母安慰伊,按呢我欲安慰恁;閣佇耶路撒冷恁欲受安慰。",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "親像一个大人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "安慰伊"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "欲安慰恁"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "閣佇耶路撒冷"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "恁欲受安慰"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:05.358492360Z",
+  "model": "glm-5.3"
+}

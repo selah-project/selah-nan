@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "啥人會當予我知影,予我尋著伊,通來到伊的座位!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會當予"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知影"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "予我尋著伊"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "通來到"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "伊的座位"
+    }
+  ],
+  "timestamp": "2026-09-12T05:26:48.603232010Z",
+  "model": "glm-5.3"
+}

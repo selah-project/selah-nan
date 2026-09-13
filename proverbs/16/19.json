@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "心謙卑佮散赤人⟨את⟩做伙,好過佮高傲的人分贓物⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "好過"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "謙卑"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "心"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "散赤人"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "分"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "贓物"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "高傲的人"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "高傲的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:18.806813529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 14:2",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "我欲收集⟨את⟩所有的列國到耶路撒冷來相戰;彼座城欲被攻落,諸厝欲被搶奪,諸女人欲受玷污;彼座城的一半欲出去到流亡,剩的百姓毋會對彼座城被剪除。",
+  "tokens": [
+    {
+      "surface": "ואספתי",
+      "gloss": "我欲收集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "所有的列國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "來相戰"
+    },
+    {
+      "surface": "ונלכדה",
+      "gloss": "而且欲被攻落"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "ונשסו",
+      "gloss": "而且欲被搶奪"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "諸厝"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "而且諸女人"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "欲受玷污"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "而且欲出去"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "一半"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "到流亡"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "而且剩的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "欲被剪除"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "彼座城"
+    }
+  ],
+  "timestamp": "2026-09-12T04:41:51.590648673Z",
+  "model": "glm-5.3"
+}

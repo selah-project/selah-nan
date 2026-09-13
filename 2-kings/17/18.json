@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 17:18",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "雅威對以色列大受氣,就共𪜶對伊的面前除去,無留半個,干焦賰猶大支派獨獨家己。",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "大"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "對以色列"
+    },
+    {
+      "surface": "ויסרם",
+      "gloss": "共𪜶除去"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面前"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "賰"
+    },
+    {
+      "surface": "רק",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "支派"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "獨獨家己"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:33.130069953Z",
+  "model": "glm-5.3"
+}

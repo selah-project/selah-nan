@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "你著啉你家己水窟的水,佮對你井底流出來的水——",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "啉"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "對你的水窟"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "佮流出來的"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對中間"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "你的井"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:31.714378550Z",
+  "model": "glm-5.3"
+}

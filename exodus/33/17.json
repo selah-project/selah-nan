@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威對摩西講:「連你個所講 ⟨את⟩ 這個話,我嘛欲做;因為你已經佇我眼前得著恩惠,閣我識你的名。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這個話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "你講"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我欲做"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "你得著"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩惠"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇我眼前"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "閣我識你"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "叫名"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:56.333051844Z",
+  "model": "glm-5.3"
+}

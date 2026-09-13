@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "以羅欣啊,恬靜毋通佇你;毋通恬默,嘛毋通安靜,以勒啊。",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "恬靜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "恬默"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "安靜"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.299036879Z",
+  "model": "glm-5.3"
+}

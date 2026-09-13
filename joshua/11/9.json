@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "約書亞照雅威對伊所講的對𪜶行:剁斷⟨את⟩𪜶的馬的腳筋,用火燒⟨את⟩𪜶的戰車。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行"
+    },
+    {
+      "surface": "להם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "約書亞"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的馬"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "𪜶的馬"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "剁斷腳筋"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的戰車"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "𪜶的戰車"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "燒"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:55.894094581Z",
+  "model": "glm-5.3"
+}

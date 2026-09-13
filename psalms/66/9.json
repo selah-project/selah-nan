@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "彼位將阮的性命下佇活命中,無予阮的跤搖晃。",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "彼位下"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "阮的性命"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "佇活命中"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "搖晃"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "阮的跤"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:07.800116292Z",
+  "model": "glm-5.3"
+}

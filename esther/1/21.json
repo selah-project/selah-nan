@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 1:21",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "這個話佇王佮大臣的眼中看做好事,王就照米慕干──伊的話──去行。",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "看做好事"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這個話"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇……的眼中"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "佮大臣"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "就去行"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照……的話"
+    },
+    {
+      "surface": "ממוכן",
+      "gloss": "米慕干"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:46.264480977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我就共伊買--起來做我的,用十五个銀仔,佮一霍梅大麥,佮半霍梅的大麥。",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "我就共……買--起來"
+    },
+    {
+      "surface": "לי",
+      "gloss": "做我的"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "用十五"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כסף",
+      "gloss": "个銀仔"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "佮一霍梅"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麥"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "佮半霍梅的"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "大麥"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:10.355917236Z",
+  "model": "glm-5.3"
+}

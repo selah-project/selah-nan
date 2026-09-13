@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "毋通食 ⟨את⟩ 目睭歹的人的飯,嘛毋通欣羨伊的好料理。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "食"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "目睭歹的人的飯"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "飯"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "欣羨"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "伊的好料理"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:42.361724996Z",
+  "model": "glm-5.3"
+}

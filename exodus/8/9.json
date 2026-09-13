@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "雅威照摩西的話行,蛤仔就對厝內、對庭園、閣對田裡死矣。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "就死矣"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "蛤仔"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對(從)"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對(從)"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "庭園"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "閣對(又從)"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "田裡"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:05.655410155Z",
+  "model": "glm-5.3"
+}

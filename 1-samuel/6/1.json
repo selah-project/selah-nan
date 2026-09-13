@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威的約櫃佇非利士人的境內七個月。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "(過去發生)"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "佇…的境內"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:59.487352448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "諸山攏遮蓋佇伊的影內底,伊的枝仔親像以勒(權能者)的香柏樹。",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "攏遮蓋"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "諸山"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "伊的影"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "閣伊的枝仔"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "香柏樹"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒(權能者)的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:05.390053638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 9:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊徛起來,入去厝內,共油傾佇伊的頭殼頂,對伊講:「雅威,以色列的以羅欣,按呢講:我膏你做王,對雅威的百姓,對以色列。」",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "伊徛起來"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "傾"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "伊的頭殼"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "我膏你"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "עם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:13.190826943Z",
+  "model": "glm-5.3"
+}

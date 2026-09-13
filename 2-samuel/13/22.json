@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "押沙龍無佮暗嫩講話,無論歹抑是好,因為押沙龍怨恨⟨את⟩暗嫩,為著伊凌辱⟨את⟩伊小妹她瑪這个代誌。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "暗嫩"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "無論歹"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "暗嫩"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "暗嫩"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ענה",
+      "gloss": "凌辱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊小妹她瑪"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "她瑪"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "伊小妹"
+    }
+  ],
+  "timestamp": "2026-09-13T04:30:40.020103131Z",
+  "model": "glm-5.3"
+}

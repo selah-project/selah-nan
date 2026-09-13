@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 24:14",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "伊擄走⟨את⟩全耶路撒冷,⟨את⟩眾首領,⟨את⟩一切勇猛的戰士——做俘虜的共一萬人——佮一切的工匠佮鎖匠;無留落啥人,干焦上散凶的此地人民。",
+  "tokens": [
+    {
+      "surface": "והגלה",
+      "gloss": "擄走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全耶路撒冷"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "眾首領"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "一切勇猛的戰士"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "勇猛的"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "戰士"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "做俘虜"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "工匠"
+    },
+    {
+      "surface": "והמסגר",
+      "gloss": "佮鎖匠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "留落"
+    },
+    {
+      "surface": "זולת",
+      "gloss": "干焦"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "上散凶的"
+    },
+    {
+      "surface": "עם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:57.432234792Z",
+  "model": "glm-5.3"
+}

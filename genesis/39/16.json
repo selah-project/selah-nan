@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "伊就囥伊的衫佇伊遐,直到伊的主人入去到伊的家。",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "就囥"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "佇伊遐"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的家"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:17.985595011Z",
+  "model": "glm-5.3"
+}

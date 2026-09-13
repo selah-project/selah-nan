@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 66:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "按呢雅威講:「諸天是我的座位,地是我的踏跤凳。啥物厝是恁欲為我起的?啥物所在是我安歇的?」",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "我的座位"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "閣地"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "踏跤凳"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "אי",
+      "gloss": "佗位"
+    },
+    {
+      "surface": "זה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "תבנו",
+      "gloss": "恁起"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為我"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "閣佗位"
+    },
+    {
+      "surface": "זה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "我安歇的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:47:02.973462100Z",
+  "model": "glm-5.3"
+}

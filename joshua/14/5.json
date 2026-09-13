@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "照雅威命令⟨את⟩摩西的,以色列的子兒就按呢做,𪜶就分⟨את⟩彼個土地。",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "就分"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個土地"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個土地"
+    }
+  ],
+  "timestamp": "2026-09-12T02:25:21.426723731Z",
+  "model": "glm-5.3"
+}

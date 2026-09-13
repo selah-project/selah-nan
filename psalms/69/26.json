@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "願𪜶的營寨變做荒蕪,佇𪜶的帳棚內莫得有人徛起。",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "願…變做"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "𪜶的營寨"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "荒蕪"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "佇𪜶的帳棚"
+    },
+    {
+      "surface": "אל",
+      "gloss": "莫得"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "有"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "徛起的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:06.008374226Z",
+  "model": "glm-5.3"
+}

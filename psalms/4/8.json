@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "你已經佇我的心內落歡喜,比𪜶的五穀佮新酒增多的時卡濟。",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "你已經……落"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "佇我的心內"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "比……的時"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "𪜶的五穀"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "佮𪜶的新酒"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "增多"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:53.022500094Z",
+  "model": "glm-5.3"
+}

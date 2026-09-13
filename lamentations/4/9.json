@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "互刀劍刺死的,比受餓死的較好;因為𪜶消瘦流去,受刺透,是因為欠缺田園的出產。",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "較好"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "互…刺死的"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀劍"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "比受…死的"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "餓"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "因為𪜶"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "消瘦流去"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "受刺透"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "欠缺"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田園的出產"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:29.775295481Z",
+  "model": "glm-5.3"
+}

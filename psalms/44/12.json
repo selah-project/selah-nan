@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "你用阮親像羊做食物,佇列國中間你撒阮四散。",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "你用阮"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "親像羊"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "做食物"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "佮佇列國"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "你撒阮四散"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.352341487Z",
+  "model": "glm-5.3"
+}

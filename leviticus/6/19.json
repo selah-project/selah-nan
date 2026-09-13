@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "彼个獻罪祭的祭司著食⟨את⟩伊;著佇聖的所在食,佇會幕的庭院。",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "彼个祭司"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "獻罪祭的"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(罪祭)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "著食伊"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇…的所在"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "著食(伊)"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "佇…的庭院"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "聚集的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:35.351098488Z",
+  "model": "glm-5.3"
+}

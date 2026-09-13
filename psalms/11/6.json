@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊欲落雨落佇歹人身上 —— 火炭、火佮硫磺,佮燒熱的暴風;這是𪜶杯裡的份。",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "伊欲落雨"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇……身上"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "火炭"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "佮硫磺"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "佮……風"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "燒熱的暴"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "份"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "𪜶杯裡的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:31.647408730Z",
+  "model": "glm-5.3"
+}

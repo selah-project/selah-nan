@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "毋通將祢斑鳩的性命交佇野獸;祢困苦者的活命,永遠毋通袂記得。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "交"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "佇野獸"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "祢的斑鳩"
+    },
+    {
+      "surface": "חית",
+      "gloss": "活命"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "祢的困苦者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:07.700425977Z",
+  "model": "glm-5.3"
+}

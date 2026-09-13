@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "大衛就差使者去以伊施‧波設、掃羅的後生遐,講:「還⟨את⟩我的牽手,⟨את⟩米甲,就是我用一百个非利士人的包皮聘來做我的彼个。」",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…遐"
+    },
+    {
+      "surface": "איש",
+      "gloss": "以伊施"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "波設"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "還"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的牽手"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "我的牽手"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米甲"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "米甲"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "聘"
+    },
+    {
+      "surface": "לי",
+      "gloss": "做我的"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "用一百"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "包皮"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:14.322110197Z",
+  "model": "glm-5.3"
+}

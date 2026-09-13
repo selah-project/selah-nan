@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 6:7",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威會歡喜千千的公羊、萬萬條油的溪流無?我敢欲用我的頭生子換我的悖逆,用我肚腹的果子換我的性命的罪?",
+  "tokens": [
+    {
+      "surface": "הירצה",
+      "gloss": "敢…歡喜"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "באלפי",
+      "gloss": "千千的"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "公羊"
+    },
+    {
+      "surface": "ברבבות",
+      "gloss": "萬萬條"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "האתן",
+      "gloss": "敢欲用…換"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "我的頭生子"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "我的悖逆"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "我的肚腹"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:02.869342471Z",
+  "model": "glm-5.3"
+}

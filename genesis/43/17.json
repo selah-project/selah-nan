@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "彼个人就照約瑟所講的去做,彼个人帶 ⟨את⟩ 彼寡人入去約瑟的家。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就去做"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照…所講的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "帶入去"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼寡人"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "彼寡人"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "入去…的家"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:05.762538159Z",
+  "model": "glm-5.3"
+}

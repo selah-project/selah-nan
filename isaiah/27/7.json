@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "伊拍伊,豈親像拍伊的人按呢拍?抑是伊予人刣,豈親像予伊刣死的人按呢刣?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "豈親像……按呢"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "拍伊的人"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "拍伊"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "親像……按呢"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "予伊刣死的人"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "刣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:16.411589181Z",
+  "model": "glm-5.3"
+}

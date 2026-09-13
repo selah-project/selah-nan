@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 61,
+  "translation": "對地極我欲向你叫;我的心沉重𣍐堪的時,你導我去彼个比我懸的石磐。",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "對地極"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "我欲叫"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "沉重𣍐堪的時"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "石磐"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "比我懸"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "比我"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "你導我去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:26.566596500Z",
+  "model": "glm-5.3"
+}

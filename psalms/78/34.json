@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "當伊害死𪜶的時,𪜶就尋伊;𪜶倒轉來,早早閣尋以勒。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "當…的時"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "害死𪜶"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "就尋伊"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "早早閣尋"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:38.542612666Z",
+  "model": "glm-5.3"
+}

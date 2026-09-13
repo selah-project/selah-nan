@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "諸個是見證、律例佮典章,是摩西對以色列的子兒講的,佇𪜶出米茲拉因(埃及)的時。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "見證"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "佮律例"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "佮典章"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "佇𪜶出來的時"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對米茲拉因"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:35.247476643Z",
+  "model": "glm-5.3"
+}

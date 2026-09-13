@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶佇曠野幾若擺悖逆伊,佇伊什莫嫌恨伊!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "幾若擺"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "悖逆伊"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "嫌恨伊"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "佇伊什莫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:35.205311563Z",
+  "model": "glm-5.3"
+}

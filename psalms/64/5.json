@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 64,
+  "translation": "欲佇隱密的所在射彼個完全的人;突然間𪜶射伊,嘛毋驚。",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "欲射"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "佇隱密的所在"
+    },
+    {
+      "surface": "תם",
+      "gloss": "完全的人"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "突然間"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "𪜶射伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "驚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:49.613297443Z",
+  "model": "glm-5.3"
+}

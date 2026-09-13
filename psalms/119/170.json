@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "阮的懇求願到祢面前,照祢的話拯救阮。",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "願到"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "阮的懇求"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "到祢面前"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "照祢的話"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "拯救阮"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:01.953868772Z",
+  "model": "glm-5.3"
+}

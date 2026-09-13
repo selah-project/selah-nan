@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 23:14",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "伊帶伊去瑣非的田,到毗斯迦的山頂,起造七座祭壇,閣佇祭壇頂獻一隻公牛佮一隻公羊。",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "帶伊"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "צפים",
+      "gloss": "瑣非"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "山頂"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "彼毗斯迦"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "起造"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七座"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "閣獻上"
+    },
+    {
+      "surface": "פר",
+      "gloss": "公牛"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "佮公羊"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "佇祭壇頂"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:21.972092811Z",
+  "model": "glm-5.3"
+}

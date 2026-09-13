@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "無味無鹹的物敢會當食?抑是卵白內底有啥物滋味?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "敢會當食"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "無味的物"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "鹹"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "滋味"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "內底的"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "卵白"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:16.153663167Z",
+  "model": "glm-5.3"
+}

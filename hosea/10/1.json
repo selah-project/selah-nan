@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 10:1",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "以色列是咧蔓延的葡萄樹,果子是為著伊家己結的;照伊果子的濟,祭壇就愈添;照伊土地的好,柱像就愈予伊幼秀。",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "葡萄樹"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "咧蔓延的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "果子"
+    },
+    {
+      "surface": "ישוה",
+      "gloss": "結"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為著伊家己"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "照……濟"
+    },
+    {
+      "surface": "לפריו",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "愈添"
+    },
+    {
+      "surface": "למזבחות",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "照……好"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "愈予伊幼秀"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "柱像"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:03.029273859Z",
+  "model": "glm-5.3"
+}

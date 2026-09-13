@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "伊的王國的起頭是巴別、以力、亞甲、甲尼,攏佇示拿地。",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "起頭"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "伊的王國"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴別"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "以力"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "亞甲"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "甲尼"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "示拿"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:14.453793843Z",
+  "model": "glm-5.3"
+}

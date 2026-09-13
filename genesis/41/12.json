@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "佇遐佮⟨את⟩阮有一個希伯來的少年,做屠宰頭目的奴僕;阮講予伊聽,伊就替阮解⟨את⟩阮的夢,逐人照伊的夢解釋。",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "佮阮"
+    },
+    {
+      "surface": "נער",
+      "gloss": "少年"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "希伯來"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "奴僕"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "屬頭目"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "屠宰"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "講予聽"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "解"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "替阮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的夢"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "阮的夢"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "照伊的夢"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "解釋"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:09.452935804Z",
+  "model": "glm-5.3"
+}

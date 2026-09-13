@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "⟨את⟩丁納佮⟨את⟩伊的郊野、⟨את⟩拿哈拉佮⟨את⟩伊的郊野，四座城。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "丁納"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "丁納"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的郊野"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "伊的郊野"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿哈拉"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "拿哈拉"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "伊的郊野"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "伊的郊野"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "座城"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    }
+  ],
+  "timestamp": "2026-09-12T02:27:01.626248875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "毋拘我的赫瑟德我袂對伊身上剪斷,我的信實我嘛袂欺瞞。",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "毋拘我的赫瑟德"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "剪斷"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "對伊身上"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛袂"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "欺瞞"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "佇我的信實"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:34.940181386Z",
+  "model": "glm-5.3"
+}

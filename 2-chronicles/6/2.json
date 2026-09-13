@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "「我嘛已經給你起一間厝,做你徛身的所在,做你永遠安坐的位。」",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "我嘛"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "已經…起"
+    },
+    {
+      "surface": "בית",
+      "gloss": "一間厝"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "徛身的所在"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給你"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "安坐的位"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "你徛"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:24.494658869Z",
+  "model": "glm-5.3"
+}

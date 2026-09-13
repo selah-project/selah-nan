@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佮⟨את⟩賰落來佇城內的百姓,佮⟨את⟩彼寡倒去投靠巴比倫王的,佮⟨את⟩賰的大陣人,侍衛長尼布撒拉旦攏共𪜶押徙去做俘虜。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "賰的百姓"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "賰的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "賰落來的"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "彼寡倒去投靠的"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "彼寡倒去的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "倒去"
+    },
+    {
+      "surface": "על",
+      "gloss": "投靠"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "賰的大陣人"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "賰的"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "大陣人"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "押徙去做俘虜"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "尼布撒拉旦"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "侍衛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:41.845174248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "以利何列弗佮亞希雅,示沙的兩个後生,做書記;約沙法,亞希律的後生,做史官。",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "以利何列弗"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "佮亞希雅"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "示沙"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "書記"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "亞希律"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "史官"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:09.884471740Z",
+  "model": "glm-5.3"
+}

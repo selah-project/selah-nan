@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "恁著佇基比亞吹羊角,佇拉瑪吹號筒;恁著佇伯亞文(伯亞文就是亞文的家)出聲吼叫:佇你後面,便雅憫!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "恁著吹"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "佇基比亞"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "號筒"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "佇拉瑪"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "出聲吼叫"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯"
+    },
+    {
+      "surface": "און",
+      "gloss": "亞文"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "佇你後面"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "便雅憫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:17.484326736Z",
+  "model": "glm-5.3"
+}

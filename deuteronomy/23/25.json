@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你若入去你厝邊的葡萄園，會使照你的心願食葡萄，食到飽，毋通下任何物件入去你的家私。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "你入去"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "你厝邊的"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "會使食"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "葡萄"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "照你的心願"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "食到飽"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "你的家私"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "下"
+    }
+  ],
+  "timestamp": "2026-09-12T02:14:56.232793805Z",
+  "model": "glm-5.3"
+}

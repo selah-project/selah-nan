@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 34:14",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "曠野的獸欲佮孤嶼的獸相拄⟨את⟩,山羊魔欲對伊的同伴叫;獨獨遐,夜怪利利落定,替伊揣著安歇的所在。",
+  "tokens": [
+    {
+      "surface": "ופגשו",
+      "gloss": "欲相拄"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "曠野的獸"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "孤嶼的獸"
+    },
+    {
+      "surface": "איים",
+      "gloss": "孤嶼的獸"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "山羊魔"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的同伴"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "הרגיעה",
+      "gloss": "落定"
+    },
+    {
+      "surface": "לילית",
+      "gloss": "夜怪利利"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "替伊揣著"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "安歇的所在"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:11.528437282Z",
+  "model": "glm-5.3"
+}

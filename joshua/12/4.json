@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "閣有巴珊王噩的四界,伊是利乏音人留落來的,徛佇亞斯她錄佮佇以得來。",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "閣有…的四界"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "噩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "巴珊"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "留落來的"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "利乏音人"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "徛佇"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "亞斯她錄"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "佮佇以得來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:22.035148662Z",
+  "model": "glm-5.3"
+}

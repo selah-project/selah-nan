@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊就將⟨את⟩个杠仔插入去櫃仔邊斗个環仔內,來扛⟨את⟩个櫃仔。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "伊就插入去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "个杠仔"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "个杠仔"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "佇……環仔內"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "邊斗"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "个櫃仔"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "來扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "个櫃仔"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "个櫃仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:42.086129598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "押沙龍佮以色列眾人、逐個以色列人,入去耶路撒冷,亞希多弗嘛⟨את⟩佮伊做伙。",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮"
+    },
+    {
+      "surface": "העם",
+      "gloss": "以色列眾人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐個人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "באו",
+      "gloss": "入去"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "亞希多弗"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩佮伊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:55:56.989518312Z",
+  "model": "glm-5.3"
+}

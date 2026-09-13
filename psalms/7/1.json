@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "希加永(流浪之詩),大衛的,伊唱予雅威,論古實、便雅憫人彼個的話。",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "希加永"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "שר",
+      "gloss": "唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "論"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "古實"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "便雅憫人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:10.918891074Z",
+  "model": "glm-5.3"
+}

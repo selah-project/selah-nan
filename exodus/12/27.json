@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "恁著按呢講:「這是逾越節的祭,是獻互雅威的,因為伊行過以色列囝仔的厝佇埃及,當伊擊打⟨את⟩埃及、閣救⟨את⟩阮的厝的時。」百姓就落頭拜伊。",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "恁著講"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "逾越節"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "獻互雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為伊"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "行過"
+    },
+    {
+      "surface": "על",
+      "gloss": "遍"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "厝"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇埃及"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "當…擊打的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "埃及"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "阮的厝"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "阮的厝"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "就落頭"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "拜伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:25.752917183Z",
+  "model": "glm-5.3"
+}

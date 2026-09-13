@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊掠⟨את⟩庭造起來:佇向南彼爿、向南邊,彼个庭的帷仔是捻幼的白麻紗,一百肘;",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个庭"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "彼个庭"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "佇…彼爿"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "向南"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "向南邊"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "帷仔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "彼个庭的"
+    },
+    {
+      "surface": "שש",
+      "gloss": "白麻紗"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "捻幼的"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:29.636545332Z",
+  "model": "glm-5.3"
+}

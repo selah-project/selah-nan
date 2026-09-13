@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 31:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "閣亞述會倒落去,刀毋是人的,刀嘛毋是凡人的,會吞滅伊;伊欲家己走閃,逃避刀,伊的少年人會去做苦工。",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "閣…倒落去"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "閣刀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "凡人"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "會吞滅伊"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "閣走閃"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊家己"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "逃避"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "刀"
+    },
+    {
+      "surface": "ובחוריו",
+      "gloss": "伊的少年人"
+    },
+    {
+      "surface": "למס",
+      "gloss": "做苦工"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "會去做"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:34.195357931Z",
+  "model": "glm-5.3"
+}

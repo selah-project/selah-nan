@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "雅威的靈對掃羅離開去,閣有一个歹靈對雅威⟨את⟩來驚擾伊。",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "閣…靈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "離開去"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "就驚擾伊"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "靈"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:27:17.682207720Z",
+  "model": "glm-5.3"
+}

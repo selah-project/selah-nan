@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "豺狼欲佮羊羔徛起,豹欲佮幼羊仔倒𪜶做夥;牛犢、幼獅佮肥牛攏欲做夥,一个細漢囡仔欲𤆬𪜶。",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "欲徛起"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "豺狼"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "佮豹"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "幼羊仔"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "倒"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "牛犢"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "幼獅"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "肥牛"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做夥"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "細漢"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "𤆬"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:30:51.851611240Z",
+  "model": "glm-5.3"
+}

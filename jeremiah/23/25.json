@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "我聽見⟨את⟩諸個先知咧講的話,𪜶用我的名傳假話,講:「我夢見矣,我夢見矣。」",
+  "tokens": [
+    {
+      "surface": "שָׁמַ֗עְתִּי",
+      "gloss": "我聽見"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "諸個先知咧講的話"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "的"
+    },
+    {
+      "surface": "אָמְרוּ",
+      "gloss": "講"
+    },
+    {
+      "surface": "הַנְּבִאִים",
+      "gloss": "諸個先知"
+    },
+    {
+      "surface": "הַנִּבְּאִים",
+      "gloss": "咧傳"
+    },
+    {
+      "surface": "בִּשְׁמִי",
+      "gloss": "用我的名"
+    },
+    {
+      "surface": "שֶׁקֶר",
+      "gloss": "假話"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "講"
+    },
+    {
+      "surface": "חָלַמְתִּי",
+      "gloss": "我夢見矣"
+    },
+    {
+      "surface": "חָלַמְתִּי",
+      "gloss": "我夢見矣"
+    }
+  ],
+  "timestamp": "2026-09-13T06:33:08.000340048Z",
+  "model": "glm-5.3"
+}

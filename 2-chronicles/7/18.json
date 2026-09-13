@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我就欲堅固⟨את⟩你的國的王座,親像我佮大衛你的老父立約所講的:『對你毋會有一个治理的人佇以色列中受剪除。』",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "我就欲堅固"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王座"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "王座"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "你的國"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "我立約"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "佮大衛"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "受剪除"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个 人"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "治理"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:11:53.178485525Z",
+  "model": "glm-5.3"
+}

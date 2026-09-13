@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "因為伊知阮个形體;伊記得阮是粉土。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "阮个形體"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "記得"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "עפר",
+      "gloss": "粉土"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:01.279095826Z",
+  "model": "glm-5.3"
+}

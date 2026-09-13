@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "有錢人毋通加,散凶人毋通減,攏對半舍客勒,來獻⟨את⟩雅威的奉獻,為著贖恁的性命。",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "有錢人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "加"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "閣散凶人"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "減"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "對半"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "來獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的奉獻"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "奉獻"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "為著贖"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "恁的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:23.674905532Z",
+  "model": "glm-5.3"
+}

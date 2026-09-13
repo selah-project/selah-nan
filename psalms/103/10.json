@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 103,
+  "translation": "毋照阮的罪過對待阮,嘛毋照阮的過失報應阮。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "照阮的罪過"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "對待"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "照阮的過失"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "報應"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "阮身上"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:39.807275981Z",
+  "model": "glm-5.3"
+}

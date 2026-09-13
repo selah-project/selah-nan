@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "無柴,火就熄;無密報冤家的人,相諍就恬。",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "無"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "柴"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "就熄"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "無"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "密報冤家的人"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "就恬"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "相諍"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:22.514072497Z",
+  "model": "glm-5.3"
+}

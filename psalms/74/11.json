@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "為啥物你縮轉你的手,連你的正手?對你的懷中中央提出去,消滅𪜶!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "為啥物"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "你縮轉"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "連你的正手"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "對…中央"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "你的懷中"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "消滅"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.867458297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "大衛就追,伊佮四百个人;兩百个人徛起無去,因為𪜶衰竭,袂得過⟨את⟩比梭溪。",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "就追"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "佮四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "个人"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "徛起無去"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "兩百"
+    },
+    {
+      "surface": "איש",
+      "gloss": "个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "衰竭"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "袂得過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "比梭溪"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "比梭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:35.632950118Z",
+  "model": "glm-5.3"
+}

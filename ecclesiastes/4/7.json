@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "我閣越倒轉來看,閣看著日頭下底的虛空。",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "閣越倒轉來"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "閣看著"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "虛空"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:55.266269199Z",
+  "model": "glm-5.3"
+}

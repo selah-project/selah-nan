@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "親像牧者,伊欲牧飼伊的羊群;伊用手股收集羊仔囝,揣佇伊的懷內抱,引導飼奶的母羊。",
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "親像牧者"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "伊的羊群"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "伊欲牧飼"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "用手股"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "收集"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "羊仔囝"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "揣佇伊的懷內"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "抱"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "飼奶的母羊"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "引導"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:30.778594581Z",
+  "model": "glm-5.3"
+}

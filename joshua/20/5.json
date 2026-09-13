@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "設使報血仇的追伊,𪜶毋通將⟨את⟩殺人者交佇伊的手中,因為伊是無知覺拍死⟨את⟩伊的同伴,嘛無對伊有怨恨——無對前日、無對大前日。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "設使"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "追"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "報血仇的"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "伊後面"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殺人者"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "殺人者"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手中"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "知覺"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "拍死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的同伴"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "同伴"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "怨恨"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "對前日"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "大前日"
+    }
+  ],
+  "timestamp": "2026-09-12T02:28:01.084157870Z",
+  "model": "glm-5.3"
+}

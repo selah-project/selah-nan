@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "豈毋是?看啊,這是對雅威・采巴奧特(萬軍)⟨את⟩來的——萬民勞碌到火內,列國為著空空熬到疲乏。",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對…⟨את⟩",
+      "marks": "雅威采巴奧特"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "而勞碌"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "到…內"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "佮列國"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "為著"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "空空"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "熬到疲乏"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:37.806604789Z",
+  "model": "glm-5.3"
+}

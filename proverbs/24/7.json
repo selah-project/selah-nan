@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "智慧對戇人⟨是⟩傷高,佇城門伊毋開伊的喙。",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "傷高"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "對戇人"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇城門"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "開"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "伊的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:27.263824122Z",
+  "model": "glm-5.3"
+}

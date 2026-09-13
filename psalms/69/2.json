@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "拯救我,以羅欣啊,因為水已經來到我的〈נפש〉。",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "拯救我"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "באו",
+      "gloss": "已經來到"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "我的〈נפש〉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:50.032042222Z",
+  "model": "glm-5.3"
+}

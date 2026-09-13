@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "阮欲佇你的救恩歡呼,佇阮的以羅欣的名懸旗,願雅威成就你一切所求的。",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "佇你的救恩"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "佇……的名"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "阮的以羅欣"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "懸旗"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "成就"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "你所求的"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:25.866524306Z",
+  "model": "glm-5.3"
+}

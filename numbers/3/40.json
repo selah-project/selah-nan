@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威對摩西講:「你著數點以色列人的囝中間見凡頭生的查埔,對一個月大以上,閣提出⟨את⟩𪜶名的數目。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "…講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "著數點"
+    },
+    {
+      "surface": "כל",
+      "gloss": "見凡"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "頭生的"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "查埔的"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…的囝中間"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…大"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "一個月"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "以上"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "閣提出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶名的數目"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "數目"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "𪜶名的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:52:57.763222808Z",
+  "model": "glm-5.3"
+}

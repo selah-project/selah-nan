@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "伊的奴僕心利——戰車一半的頭人——謀反伊;彼時伊佇得撒,佇亞爾撒的厝內啉酒啉到醉,亞爾撒是代管宮內的,佇得撒。",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "謀反"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "對付伊"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "心利"
+    },
+    {
+      "surface": "שר",
+      "gloss": "頭人"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "一半"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "佇得撒"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "啉酒"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "醉"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "亞爾撒"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "על",
+      "gloss": "代管"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "宮內"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "佇得撒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:05.910469324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "法老差人去看,看啊,以色列的牲畜連一隻嘛無死。法老的心就剉硬,伊無放⟨את⟩恁的百姓出去。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "以色列的牲畜"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "עד",
+      "gloss": "連"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "剉硬"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放……出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "恁的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:37.551711169Z",
+  "model": "glm-5.3"
+}

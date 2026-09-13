@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "「我欠起瘋的人是無?啥物緣故恁帶⟨את⟩這个人來我面前咧起瘋?這个人敢會使入來阮厝?」",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "欠"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "起瘋的人"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "恁帶…來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這个人"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个人"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "咧起瘋"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "我面前"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "入來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "阮厝"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:14.090033068Z",
+  "model": "glm-5.3"
+}

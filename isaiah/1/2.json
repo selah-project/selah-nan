@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "聽啊,諸天,側耳來聽,地,因為雅威已經講:囝仔我飼大、我捧懸,𪜶卻悖逆我。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "聽啊"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "側耳來聽"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "已經講"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "我飼大"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "我捧懸"
+    },
+    {
+      "surface": "והם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "בי",
+      "gloss": "逆我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:58.342326559Z",
+  "model": "glm-5.3"
+}

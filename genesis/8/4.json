@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "第七個月,彼個月十七日,方舟歇佇亞拉臘的山頂。",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "歇"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "方舟"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…個月"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼個月"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "山頂"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "亞拉臘"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:28.592068866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊對日頭講話,日頭就袂發光;閣共星仔封印起來。",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "對日頭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "發光"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "星仔"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "封印"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:03.445109838Z",
+  "model": "glm-5.3"
+}

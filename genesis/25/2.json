@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "伊給伊生⟨את⟩心蘭、⟨את⟩約珊、⟨את⟩米但、⟨את⟩米甸、⟨את⟩伊施巴、⟨את⟩書亞。",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心蘭"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "心蘭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "約珊"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "約珊"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "米但"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "米但"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "米甸"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊施巴"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "伊施巴"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "書亞"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "書亞"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:05.025976376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "按呢,你的牛、你的羊嘛愛按呢做:七日日伊欲佮伊的老母踮做伙;佇第八日,你欲互伊予我。",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "對你的牛"
+    },
+    {
+      "surface": "לצאנך",
+      "gloss": "對你的羊"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日日"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "伊欲踮"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……日"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "第八"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "你欲互"
+    },
+    {
+      "surface": "לי",
+      "gloss": "予我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:40.463799819Z",
+  "model": "glm-5.3"
+}

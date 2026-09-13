@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "彼時亞比亞他,亞希米勒的後生,走逃到大衛遐基伊拉,以弗得就落佇伊的手裡。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "走逃"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "亞比亞他"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "亞希米勒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "基伊拉"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "落"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手裡"
+    }
+  ],
+  "timestamp": "2026-09-13T04:49:32.180157710Z",
+  "model": "glm-5.3"
+}

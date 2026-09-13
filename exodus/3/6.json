@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣講:「我是你某以羅欣,是亞伯拉罕的以羅欣、以撒的以羅欣、雅各的以羅欣。」摩西就摕面遮起來,因為驚看對以羅欣。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的父"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "閣…的以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "就摕…遮起來"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "看"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對向"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "彼位以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:10.472453953Z",
+  "model": "glm-5.3"
+}

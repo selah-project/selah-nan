@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "我就歸日受災殃,閣我的管教到逐早起。",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "我就成做"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "受災殃"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "閣我的管教"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "到逐早起"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:32.762438386Z",
+  "model": "glm-5.3"
+}

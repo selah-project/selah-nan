@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "使者入來,看啊,特拉芬佇眠床頂,山羊仔毛的墊仔佇伊的頭枕彼爿。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "入來"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "特拉芬"
+    },
+    {
+      "surface": "אל",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "眠床頂"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "閣山羊仔毛的墊仔"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "山羊仔"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "伊的頭枕彼爿"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:04.805060464Z",
+  "model": "glm-5.3"
+}

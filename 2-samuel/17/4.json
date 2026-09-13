@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "彼句話佇押沙龍的眼中看做妥當,嘛佇以色列眾長老的眼中看做妥當。",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "看做妥當"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼句話"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇……的眼中"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "嘛佇……的眼中"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:56:14.850022379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "請注意聽我,應答我;我佇我的哀嘆中流蕩,閣出聲哀吼。",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "請注意聽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "閣應答我"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "我流蕩"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "佇我的哀嘆中"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "閣出聲哀吼"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:26.389576766Z",
+  "model": "glm-5.3"
+}

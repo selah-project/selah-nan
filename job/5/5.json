@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "伊的五谷,枵的人會食去,閣對刺蓬中間提走伊,喙乾的人吞𪜶的財產。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "伊的"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "五谷"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "枵的人"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "會食去"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "刺蓬"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "提走伊"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "閣吞"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "喙乾的人"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "𪜶的財產"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:56.532346480Z",
+  "model": "glm-5.3"
+}

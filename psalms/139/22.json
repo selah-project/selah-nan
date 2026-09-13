@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 139,
+  "translation": "用徹底的恨,我恨𪜶;𪜶對我做對敵。",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "徹底的"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "恨"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "我恨𪜶"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "做對敵"
+    },
+    {
+      "surface": "היו",
+      "gloss": "𪜶成做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:45.356610506Z",
+  "model": "glm-5.3"
+}

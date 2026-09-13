@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "願你的赫瑟德(慈愛)延長到識你的人,你的公義到心正直的人。",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "延長到"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "你的赫瑟德"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "識你的人"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "閣你的公義"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "到正直的"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:58.834139238Z",
+  "model": "glm-5.3"
+}

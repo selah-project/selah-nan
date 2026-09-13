@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 17:4",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "亞述王佇何細亞身上查出謀反,因為伊差使者去埃及王梭遐,無照逐年對亞述王進貢;亞述王就將伊看守起來,閣共伊綁關佇監牢。",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "查出"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "בהושע",
+      "gloss": "佇何細亞身上"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "謀反"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "סוא",
+      "gloss": "梭"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "埃及"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "進"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢物"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "對…的王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "כשנה",
+      "gloss": "照逐年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "逐年"
+    },
+    {
+      "surface": "ויעצרהו",
+      "gloss": "將伊看守起來"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "共伊綁"
+    },
+    {
+      "surface": "בית",
+      "gloss": "佇…的所在"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "監牢"
+    }
+  ],
+  "timestamp": "2026-09-12T03:23:28.257576830Z",
+  "model": "glm-5.3"
+}

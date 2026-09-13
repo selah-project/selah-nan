@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "毋過佇遮的人內底,無半個對摩西佮祭司亞倫佇西奈曠野點算⟨את⟩以色列人的時有佇𪜶中間的。",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "毋過佇遮的人內底"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "איש",
+      "gloss": "半個"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "對…所點算的"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "𪜶點算"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇…曠野"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:53.102652346Z",
+  "model": "glm-5.3"
+}

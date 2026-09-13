@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊佇夏天備辦伊的糧食,佇收成的時收聚伊的食物。",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "佇夏天"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "伊的糧食"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "收聚"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "佇收成的時"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "伊的食物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:31.145243717Z",
+  "model": "glm-5.3"
+}

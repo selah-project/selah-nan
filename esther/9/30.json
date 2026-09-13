@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊差批去到所有的猶大人遐,到亞哈隨魯王國七佮二十佮一百省,講平安佮誠實的話。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "批"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "猶大人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "七"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "佮一百"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "省"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "王國"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "佮誠實"
+    }
+  ],
+  "timestamp": "2026-09-12T05:42:28.264308368Z",
+  "model": "glm-5.3"
+}

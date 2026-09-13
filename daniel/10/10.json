@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "看啊,一隻手摸著我,伊搖動我,互我徛佇我的膝頭佮我的手掌頂。",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יד",
+      "gloss": "一隻手"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "摸著"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "伊搖動我"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "我的膝頭"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "佮……手掌"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:36.189867728Z",
+  "model": "glm-5.3"
+}

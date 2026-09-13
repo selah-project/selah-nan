@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "有人報互雅各知,講:「你看,你的後生約瑟來到恁遮。」以色列就家己壯起來,坐佇眠床頂。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "報知"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "互雅各"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "你的後生"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "到恁遮"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "壯起來"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "眠床"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:42.945115051Z",
+  "model": "glm-5.3"
+}

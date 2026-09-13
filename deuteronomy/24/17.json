@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "毋通彎曲寄居者佮孤兒的判決,嘛毋通攬落寡婦的衫做抵押。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "彎曲"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "判決"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居者"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "孤兒"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "攬落做抵押"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "衫"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "寡婦"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:55.523227442Z",
+  "model": "glm-5.3"
+}

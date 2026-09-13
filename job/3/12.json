@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "啥物緣故有膝頭迎接我?有啥物奶,予我啉?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "啥物緣故"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "迎接我"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "膝頭"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "有啥物"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "奶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "予"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "我啉(奶)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:21:11.879175103Z",
+  "model": "glm-5.3"
+}

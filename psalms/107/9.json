@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "因為伊予乾渴的性命飽足,閣予枵餓的性命充滿好物。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "予…飽足"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "性命"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "乾渴的"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "閣…性命"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "枵餓的"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:46.062447423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "伊差泉水落谿谷,佇山嶺中間流動。",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "伊差"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "泉水"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "落谿谷"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "山嶺"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "流動"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:36.085443595Z",
+  "model": "glm-5.3"
+}

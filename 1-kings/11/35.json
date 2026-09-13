@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣我欲對伊後生的手內提王權,共彼個交互你,就是⟨את⟩十個支派。",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "閣我欲提"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "王權"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手內"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊後生"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "共彼個交互"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "十個支派"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "十個"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "支派"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:07.788141875Z",
+  "model": "glm-5.3"
+}

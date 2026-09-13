@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我就賞恁雨水佇𪜶的時陣,土地就會生出伊的五穀,田裡的樹仔會結𪜶的果子。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我就賞"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "恁的雨水"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "佇𪜶的時陣"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "就會生出"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "伊的五穀"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "閣樹仔"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "田裡的"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會結"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "𪜶的果子"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:31.406677195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "彼時我會記念 ⟨את⟩ 我佮雅各的約,閣記念 ⟨את⟩ 我佮以撒的約,嘛記念 ⟨את⟩ 我佮亞伯拉罕的約,我會記得,嘛會記得這塊地。",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "我會記念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我佮雅各的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我佮以撒的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我佮亞伯拉罕的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "我會記得"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "這塊地"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "我會記得"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:06.811779470Z",
+  "model": "glm-5.3"
+}

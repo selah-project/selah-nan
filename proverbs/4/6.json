@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "毋通放棄伊,伊欲保護你;著疼伊,伊欲看守你。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "放棄伊"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "伊欲保護你"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "著疼伊"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "伊欲看守你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:38.651103769Z",
+  "model": "glm-5.3"
+}

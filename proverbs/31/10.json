@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "有才德的婦人人,啥人尋會著?伊的價值贏過珍珠真遠。",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "婦人人"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "有才德"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "尋會著"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "佮贏過…真遠"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "珍珠"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "伊的價值"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:41.291565404Z",
+  "model": "glm-5.3"
+}

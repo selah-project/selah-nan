@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "亞伯蘭徛起佇迦南地,羅得徛起佇平原的城,閣扎營到色多姆。",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "羅得"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "徛起"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "佇…的城"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "平原"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "閣扎營"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "色多姆"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:37.421937475Z",
+  "model": "glm-5.3"
+}

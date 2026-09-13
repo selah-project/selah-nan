@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "彼陣,所羅門講:「雅威有講,欲徛佇濃濃的烏暗內。」",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "彼陣"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "有講"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "佇濃濃的烏暗內"
+    }
+  ],
+  "timestamp": "2026-09-12T06:10:24.494345383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "你敢欲廢掉我的判語?你敢欲判我有罪,為著你欲顯做公義?",
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "敢"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "欲廢掉"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "我的判語"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "判我有罪"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "顯做公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:30:33.616456475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 150,
+  "translation": "用響亮的鐃鈸謳咊伊,用喝采的鐃鈸謳咊伊。",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "謳咊伊"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "用…鐃鈸"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "響亮的"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "謳咊伊"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "用…鐃鈸"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "喝采的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:48.682195677Z",
+  "model": "glm-5.3"
+}

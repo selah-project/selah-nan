@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "雅威⟨是⟩我的份;我講過,欲遵守你的話。",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "我的份"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講過"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "欲遵守"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:02.728155707Z",
+  "model": "glm-5.3"
+}

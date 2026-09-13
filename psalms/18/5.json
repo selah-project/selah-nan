@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "死亡的繩索圍縛我,彼號無價值(彼暝)的溪流予我驚惶。",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "圍縛我"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "繩索"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "彼號溪流"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "無價值(彼暝)"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "予我驚惶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:55.958079513Z",
+  "model": "glm-5.3"
+}

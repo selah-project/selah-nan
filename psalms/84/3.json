@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 84,
+  "translation": "我的活魂切切戀慕,嘛消瘦去,因為雅威的庭院;我的心佮我的肉體歡喜出聲,向活的以勒。",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "切切戀慕"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "消瘦去"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的活魂"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "因為……的庭院"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "我的心"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "佮我的肉體"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歡喜出聲"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:58.514042344Z",
+  "model": "glm-5.3"
+}

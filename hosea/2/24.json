@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "土地欲應答⟨את⟩五穀、⟨את⟩新酒、⟨את⟩油;𪜶欲應答⟨את⟩耶斯列。",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "欲應答"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "五穀"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "新酒"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "新酒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "油"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "油"
+    },
+    {
+      "surface": "והם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "欲應答"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "耶斯列"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "耶斯列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:01.240899007Z",
+  "model": "glm-5.3"
+}

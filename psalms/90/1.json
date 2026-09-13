@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "祈禱,摩西的,⟨彼个⟩以羅欣的人。阿多奈,汝曾做阮的居所,佇一代閣一代。",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "摩西的"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "居所"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "היית",
+      "gloss": "曾做"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "阮的"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "佇一代"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "閣一代"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:54.342210889Z",
+  "model": "glm-5.3"
+}

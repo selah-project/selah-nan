@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "伊監看伊厝內的路,毋食懈怠的餅。",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "伊監看"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "…的路"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "伊厝內的"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "佮…的餅"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "懈怠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:39.279687313Z",
+  "model": "glm-5.3"
+}

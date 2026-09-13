@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "了後,伊誦讀⟨את⟩律法的一切話,祝福佮咒詛,照律法冊內所記載的一切。",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "彼陣"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "誦讀"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "律法的一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "佮咒詛"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "照一切"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "所記載的"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "佇冊"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "律法"
+    }
+  ],
+  "timestamp": "2026-09-12T02:22:31.657891497Z",
+  "model": "glm-5.3"
+}

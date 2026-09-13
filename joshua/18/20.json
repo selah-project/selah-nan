@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "約旦河做伊東爿的界,做伊向日頭出來彼爿的邊界 ⟨את⟩;這是便雅憫的囝孫的產業,照伊四圍的界線,照𪜶的家族。",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "做界"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "向東彼爿的邊界"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "對……彼爿"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "東爿"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "產業"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝孫"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "便雅憫"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "照伊的界線"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    }
+  ],
+  "timestamp": "2026-09-13T06:33:06.882050480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "豈毋是嗎?汝毋曾聽見對遠遠的所在嗎?⟨את⟩是我做的,對古早的日子我形成伊;現在我帶伊來,伊就成做荒廢,做石堆,堅固的城攏毀壞。",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "汝毋曾聽見"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "對遠遠的所在"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(所指的物)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "是我做的"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "對…的日子"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "古早"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "我形成伊"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "現在"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "我帶伊來"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "伊就成做"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "荒廢"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "石堆"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "毀壞的"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "城"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "堅固的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:56.564733162Z",
+  "model": "glm-5.3"
+}

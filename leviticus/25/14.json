@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你若賣物件予你的同伴,抑是對你的同伴的手買物件,恁毋通欺負人,逐人⟨את⟩伊的兄弟。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "恁賣"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "物件"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "予你的同伴"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "買"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "你的同伴"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "恁欺負"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的兄弟"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:10.692379514Z",
+  "model": "glm-5.3"
+}

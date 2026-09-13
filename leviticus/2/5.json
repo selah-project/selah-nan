@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "若是你的供物是佇烤盤仔的素祭,著是摻油的細麵粉,做無酵的才著。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "素祭"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "烤盤仔頂"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "你的供物"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "細麵粉"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "摻勻的"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "用油"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "才著"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:28.531408290Z",
+  "model": "glm-5.3"
+}

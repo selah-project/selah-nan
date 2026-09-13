@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "若是祭司的查某囝仔嫁互一个外人,伊就袂使食獻互聖物的提祭。",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "若是…的查某囝仔"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若是"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "嫁互(成做)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "一个…的丈夫"
+    },
+    {
+      "surface": "זר",
+      "gloss": "外人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊本人"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "提祭"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "袂使食"
+    }
+  ],
+  "timestamp": "2026-09-13T04:40:58.376088017Z",
+  "model": "glm-5.3"
+}

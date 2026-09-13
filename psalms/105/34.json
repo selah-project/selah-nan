@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "伊講一声,草蜢就來,閣有蟓蟲,多甲無法度數。",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "就來"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "草蜢"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "閣有蟓蟲"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "法度數的數目"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:43.640663106Z",
+  "model": "glm-5.3"
+}

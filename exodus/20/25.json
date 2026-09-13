@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "你若欲給我做石頭的祭壇,就毋通用刣好的石頭起⟨את⟩伊;因為你的刀若佇伊頂面揮,你就玷辱伊矣。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "你若"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "起"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "刣好的石頭"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "刣好的石頭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "你的刀"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "揮"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇伊頂面"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "就玷辱伊矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:40.042016119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "啥人欲為著阮起來攻擊做歹的人?啥人欲為著阮徛在,攻擊作孽的人?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為著阮"
+    },
+    {
+      "surface": "עם",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "做歹的人"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "徛在"
+    },
+    {
+      "surface": "לי",
+      "gloss": "為著阮"
+    },
+    {
+      "surface": "עם",
+      "gloss": "攻擊"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "作…的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "孽"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:43.533019446Z",
+  "model": "glm-5.3"
+}

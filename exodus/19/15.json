@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "伊對人民講:「恁著準備三日的時間,毋通親近查某人。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊…講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "היו",
+      "gloss": "恁著"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "準備"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "三日"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "的時間"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "親近"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:18.575929733Z",
+  "model": "glm-5.3"
+}

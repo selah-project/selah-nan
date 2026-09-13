@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "𪜶共⟨את⟩雅威的約櫃下佇彼輛牛車頂,閣⟨את⟩彼個匣仔,佮⟨את⟩金的老鼠,佮⟨את⟩𪜶的痔瘤的像。",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "𪜶下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "彼輛牛車"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼個匣仔"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "彼個匣仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金老鼠"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "老鼠"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的痔瘤的像"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "的像"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "𪜶的痔瘤"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:07.471029002Z",
+  "model": "glm-5.3"
+}

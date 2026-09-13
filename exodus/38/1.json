@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊造⟨את⟩燔祭的祭壇,皂莢木做的:長五肘,闊五肘,四四方方,高三肘。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燔祭的祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "皂莢"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "閣五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "四四方方"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "閣三"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "伊的高"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:16.963808725Z",
+  "model": "glm-5.3"
+}

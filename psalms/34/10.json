@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "恁敬畏⟨את⟩雅威，伊的聖者，因為敬畏伊的人啥物攏無欠缺。",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "恁敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "伊的聖者"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "欠缺"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "向敬畏伊的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:04.260481067Z",
+  "model": "glm-5.3"
+}

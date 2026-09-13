@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "摩西對可拉講:「你佮你全會眾,明仔載欲徛佇雅威面前——你、𪜶、佮亞倫。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "可拉"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮全"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "你的會眾"
+    },
+    {
+      "surface": "היו",
+      "gloss": "欲徛"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "והם",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明仔載"
+    }
+  ],
+  "timestamp": "2026-09-12T01:58:53.803716668Z",
+  "model": "glm-5.3"
+}

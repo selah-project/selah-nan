@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "毋通報仇,嘛毋通記恨⟨את⟩你百姓的子兒;你愛疼你的厝邊親像你家己。我是雅威。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "報仇"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "記恨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你百姓的子兒"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "你愛疼"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "你的厝邊"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "親像你家己"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:26.626295790Z",
+  "model": "glm-5.3"
+}

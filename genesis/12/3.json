@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "祝福你的,我欲賜福;看輕你的,我欲咒詛;地面上所有的家族欲因為你得著福氣。」",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "我欲賜福"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "祝福你的"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "看輕你的"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "我欲咒詛"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "欲得著福氣"
+    },
+    {
+      "surface": "בך",
+      "gloss": "因為你"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地面的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:01.386765948Z",
+  "model": "glm-5.3"
+}

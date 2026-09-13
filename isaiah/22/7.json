@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 22:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "閣彼時陣臉揀選上好的溪谷攏滿〈是〉戰車,騎馬的人嘛排列佇城門口。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "閣彼時陣"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "揀選上好"
+    },
+    {
+      "surface": "עמקיך",
+      "gloss": "臉的溪谷"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "攏滿"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "והפרשים",
+      "gloss": "閣騎馬的人"
+    },
+    {
+      "surface": "שת",
+      "gloss": "排列設置"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "設置排列"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "對城門口"
+    }
+  ],
+  "timestamp": "2026-09-13T04:35:44.528237637Z",
+  "model": "glm-5.3"
+}

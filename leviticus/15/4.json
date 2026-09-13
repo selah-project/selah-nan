@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "彼个流出汁的人所睏的逐个眠床，會無清氣;伊所坐的逐樣傢俬，會無清氣。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "逐个"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "眠床"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "睏"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "彼个流出汁的人"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "會無清氣"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮逐樣"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "傢俬"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "坐"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "會無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:11.395130710Z",
+  "model": "glm-5.3"
+}

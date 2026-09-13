@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以利就叫⟨את⟩撒母耳,講:「撒母耳,我子。」伊就講:「我在遮。」",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就叫"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "以利"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒母耳"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我子"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "我在遮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:13.729811424Z",
+  "model": "glm-5.3"
+}

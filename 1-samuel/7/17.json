@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊的轉去是到拉瑪,因為佇遐有伊的厝,閣佇遐伊審判⟨את⟩以色列;閣伊佇遐起造一座祭壇予雅威。",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "伊的轉去"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "到拉瑪"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊的厝"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "閣佇遐"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "伊審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "閣伊起造"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座祭壇"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:38.452816455Z",
+  "model": "glm-5.3"
+}

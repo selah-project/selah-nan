@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 2:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "欲救你脫離陌生的查某人,脫離生分人 —— 伊講的話甲滑溜;",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "欲救你"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "對查某人"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "陌生"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "對生分人"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "甲滑溜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:39.024386114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 9:7",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "我就欲剪除⟨את⟩以色列,對我𤆬𪜶到的土地的面頂離開;⟨את⟩彼座我為我的名分別做聖的殿,我欲對我的面前提走;以色列欲做俗語佮話柄,佇萬民中間。",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "我就欲剪除"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對……離開"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頂"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我𤆬𪜶到"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼座殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "彼座殿"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "我分別做聖"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "為我的名"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "我欲提走"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對……"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面前"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "俗語"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "話柄"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "萬民"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:06.169794682Z",
+  "model": "glm-5.3"
+}

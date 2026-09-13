@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "予指揮的。一首歌,一篇詩篇。恁著向以羅欣出大聲喝采,攏總的地!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "予指揮的"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩篇"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "恁著出大聲喝采"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "向以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "的地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:30.194042826Z",
+  "model": "glm-5.3"
+}

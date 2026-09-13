@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "酒是譏誚者,強酒是咧吼叫⟨的⟩;凡佇伊內底走迷的,攏毋會有智慧。",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "譏誚者"
+    },
+    {
+      "surface": "היין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "המה",
+      "gloss": "咧吼叫"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "強酒"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "凡…攏"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "走迷"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "有智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:52.433059335Z",
+  "model": "glm-5.3"
+}

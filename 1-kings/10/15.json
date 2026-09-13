@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "以外,對往來的商人,佮零售商人的貿易,佮混雜百姓的諸王,佮此地的諸總督。",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "以外"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "對…人"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "往來的商人"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "佮貿易"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "零售商人"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "混雜百姓的"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "佮諸總督"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "此地"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:36.958259413Z",
+  "model": "glm-5.3"
+}

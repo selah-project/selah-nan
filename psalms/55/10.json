@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "阿多奈啊,吞滅𪜶,分裂𪜶的舌;因為我已經看見強暴佮相爭佇城內。",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "吞滅"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "分裂"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "𪜶的舌"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "佮相爭"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇城內"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:57.464143310Z",
+  "model": "glm-5.3"
+}

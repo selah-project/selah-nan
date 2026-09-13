@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我佇我心內講:義人⟨佮⟩⟨את⟩義人、⟨את⟩歹人,以羅欣欲審判,因為逐項意願有一个時,閣逐項所做的,佇遐。",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "我……講"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "佇我心內"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "義人"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨佮⟩⟨את⟩",
+      "marks": "歹人"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "欲審判"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עת",
+      "gloss": "有一个時"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "逐項"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "意願"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐項"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:16.208918348Z",
+  "model": "glm-5.3"
+}

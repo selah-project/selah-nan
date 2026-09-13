@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你著對以色列的子孫講，講：佇第七个月，佇彼个月的初一，恁會有安息、吹角聲的紀念，是聖會。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "你著講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "初一"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼个月"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會有"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "予恁"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "完全的安息"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "吹角聲"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "聖會"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:46.541642680Z",
+  "model": "glm-5.3"
+}

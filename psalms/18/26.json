@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "佮行赫瑟德的人,你就用赫瑟德對待;佮完全的人,你就顯明完全。",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "行赫瑟德的人"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "用赫瑟德對待"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "人"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "顯明完全"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:44.198490543Z",
+  "model": "glm-5.3"
+}

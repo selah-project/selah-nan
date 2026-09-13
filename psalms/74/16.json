@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "日頭屬汝,暗暝嘛屬汝;汝備辦光體佮日頭。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "屬汝"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日間"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לך",
+      "gloss": "屬汝"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暗暝"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "光體"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "佮日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:01.862103912Z",
+  "model": "glm-5.3"
+}

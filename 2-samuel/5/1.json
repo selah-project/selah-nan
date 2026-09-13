@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以色列的眾支派攏來到大衛遐,希伯崙,講:「看啊,阮是你的骨、你的肉。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "攏來到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "眾"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "支派"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "來講"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "你的骨"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "你的肉"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    }
+  ],
+  "timestamp": "2026-09-12T02:52:46.142695422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "伊所做彼項代誌佇雅威的眼中是歹的,所以雅威嘛給⟨את⟩伊處死。",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "是歹"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "佇…的眼中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼項"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "就處死"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:46.355955418Z",
+  "model": "glm-5.3"
+}

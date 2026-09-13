@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "彼時地面有饑荒,亞伯蘭就落去米茲拉因(埃及)寄蹛遐,因為饑荒佇地面真重。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "彼時發生"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地面"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "就落去"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "去寄蹛"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "真重"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "彼个饑荒"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地面"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:43.359225267Z",
+  "model": "glm-5.3"
+}

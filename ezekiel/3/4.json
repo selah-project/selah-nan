@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊對我講:人子啊,去,入去以色列家,用我的話對𪜶講。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊對我講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לך",
+      "gloss": "去"
+    },
+    {
+      "surface": "בא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "你著講"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "用我的話"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "對𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:41.123935066Z",
+  "model": "glm-5.3"
+}

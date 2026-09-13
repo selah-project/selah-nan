@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威對摩西講:「這陣你欲看見我欲對法老所做的,因為用強的手,伊欲放𪜶去;嘛用強的手,伊欲對伊的土地趕𪜶出去。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "你欲看見"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我欲做"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "對法老"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "用手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強的"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "伊欲放𪜶去"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "嘛用手"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "強的"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "伊欲趕𪜶出去"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "對伊的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:18.089777634Z",
+  "model": "glm-5.3"
+}

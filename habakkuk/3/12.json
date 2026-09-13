@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "佇烈怒中你踏行大地;佇受氣中你踹踏列國。",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "佇烈怒中"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "你踏行"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "באף",
+      "gloss": "佇受氣中"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "你踹踏"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:55.159167728Z",
+  "model": "glm-5.3"
+}

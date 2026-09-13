@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "歹人毋是按呢;反倒是親像粃糠,風共伊吹散。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "反倒是"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "親像粃糠"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "共伊吹散"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T04:43:38.566822956Z",
+  "model": "glm-5.3"
+}

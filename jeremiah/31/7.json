@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "因為雅威按呢講:著為雅各歡喜唱歌,佇列國的頭前喝采;著哄出聲,著讚美,閣講:雅威啊,救你的百姓⟨את⟩,⟨את⟩以色列的剩落來的人!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "著……唱歌"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "為雅各"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "喝采"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "佇……的頭前"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "著哄出聲"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "著讚美"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "救"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威啊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的百姓"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "你的百姓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列的剩落來的人"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "剩落來的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:57:39.071284036Z",
+  "model": "glm-5.3"
+}

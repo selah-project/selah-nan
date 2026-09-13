@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "歹人覬覦歹人的網羅;毋拘公義的人的根會結果子。",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "覬覦"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "網羅"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "歹人的"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "毋拘…的根"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "公義的人"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會結果子"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:46.328139189Z",
+  "model": "glm-5.3"
+}

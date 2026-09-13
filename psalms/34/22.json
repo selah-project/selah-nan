@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "禍患欲害死歹人,怨恨義人的,欲受罪罰。",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "欲害死"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "禍患"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "佮怨恨"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人的"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "欲受罪罰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:47.655127630Z",
+  "model": "glm-5.3"
+}

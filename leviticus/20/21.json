@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣若有人娶⟨את⟩伊兄弟的某,彼是汙穢;伊有掀開伊兄弟的下體;𪜶會生無後嗣。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣若有人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊兄弟的某"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "某"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊兄弟"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "汙穢"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼是"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "下體"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊兄弟"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "掀開"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "無後嗣"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "𪜶會"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:07.622866567Z",
+  "model": "glm-5.3"
+}

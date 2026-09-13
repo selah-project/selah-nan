@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "我欲親像圓箍按呢對你周圍紮營,我欲用軍營圍困你,閣對你築起攻城的壘。",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "我欲…紮營"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "親像圓箍"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "我欲圍困"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "軍營"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "我欲築起"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "攻城的壘"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:22.880821742Z",
+  "model": "glm-5.3"
+}

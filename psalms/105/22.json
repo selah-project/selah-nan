@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "通照伊的心意縛伊的官員,教伊的長老智慧。",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "通縛"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "伊的官員"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "照伊的心意"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "伊的長老"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "教智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:45.720553646Z",
+  "model": "glm-5.3"
+}

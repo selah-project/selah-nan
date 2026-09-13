@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣伊兄弟的名是猶八:伊是一切捙琴佮簫的人的祖。",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "閣…的名"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊兄弟"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "猶八"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "היה",
+      "gloss": "是"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "祖"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "捙"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "琴"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "佮簫"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:08.613357192Z",
+  "model": "glm-5.3"
+}

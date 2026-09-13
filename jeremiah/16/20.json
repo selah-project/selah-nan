@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "人敢會家己做神明?其實𪜶毋是神明。",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "敢會做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊家己"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "其實𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    }
+  ],
+  "timestamp": "2026-09-12T03:52:20.883219160Z",
+  "model": "glm-5.3"
+}

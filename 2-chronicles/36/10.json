@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 36:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "到年轉回的時,王尼布甲尼撒差人去,共伊帶到巴比倫,連同雅威殿內可喜愛的器具;閣立伊的兄弟西底家⟨את⟩做王,治理猶大佮耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ולתשובת",
+      "gloss": "到…轉回"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差人去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "共伊帶到"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "עם",
+      "gloss": "連同"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "器具"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "可喜愛的"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "閣立…做王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西底家"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "西底家"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "על",
+      "gloss": "治理"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:04.897342213Z",
+  "model": "glm-5.3"
+}

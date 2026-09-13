@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 39,
+  "translation": "這馬,阿多奈啊,我閣咧向望啥物?我的向望,就是佇你。",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "佮這馬"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "我咧向望"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "我的向望"
+    },
+    {
+      "surface": "לך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "היא",
+      "gloss": "就是…伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:02.856515987Z",
+  "model": "glm-5.3"
+}

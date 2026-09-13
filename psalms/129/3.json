@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 129,
+  "translation": "作穡的人佇我的背脊犁田,𪜶共家己的犁溝拖甲真長。",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "我的背脊"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "犁田"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "作穡的人"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "共……拖甲真長"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "𪜶的犁溝"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:25.283671289Z",
+  "model": "glm-5.3"
+}

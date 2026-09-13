@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "摩西來,召集百姓的長老,將雅威命令伊的⟨את⟩這一切話,攏排佇𪜶面前。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "召集"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓的"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "排"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "佇𪜶面前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這一切話"
+    },
+    {
+      "surface": "כל",
+      "gloss": "這一切"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……的"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "命令伊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:33.735656977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "按呢掃羅死,伊的三個後生,扛伊家私的,嘛伊逐個人,佇彼個日子做伙死。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "三個"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "扛"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的家私"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐個"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "伊的人"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼個日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "做伙"
+    }
+  ],
+  "timestamp": "2026-09-12T06:26:54.813707337Z",
+  "model": "glm-5.3"
+}

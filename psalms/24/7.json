@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "城門啊,恁著懸起頭殼;永遠的門啊,恁嘛著懸起來;榮光的王欲入來。",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "著懸起"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "城門啊"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "恁的頭殼"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "恁嘛著懸起來"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "……的門"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "欲入來"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "榮光的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:14.772568270Z",
+  "model": "glm-5.3"
+}

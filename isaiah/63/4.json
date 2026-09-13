@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "因為報仇的日佇我的心內,我的贖回之年到矣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報仇"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "佇我的心內"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "…之年"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "我的贖回"
+    },
+    {
+      "surface": "באה",
+      "gloss": "到矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:03.750038280Z",
+  "model": "glm-5.3"
+}

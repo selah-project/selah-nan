@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "我就下令互⟨את⟩我的兄弟哈拿尼,閣互⟨את⟩管城堡的官哈拿尼雅,看守耶路撒冷;因為伊是做一个信實的人,閣敬畏⟨את⟩以羅欣,比真濟人卡甚。",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "我就下令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈拿尼"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "哈拿尼"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "我的兄弟"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "哈拿尼雅"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "哈拿尼雅"
+    },
+    {
+      "surface": "שר",
+      "gloss": "官"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "城堡"
+    },
+    {
+      "surface": "על",
+      "gloss": "看守"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "做一个…的人"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "信實"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "比真濟人卡甚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:55:29.317955573Z",
+  "model": "glm-5.3"
+}

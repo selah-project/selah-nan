@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "佮⟨את⟩帕斯魯西人佮⟨את⟩迦斯路基人 —— 對遐出去非利士人 —— 佮⟨את⟩迦斐托人。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "帕斯魯西人"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "帕斯魯西人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "迦斯路基人"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "迦斯路基人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "對彼"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "出去"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "迦斐托人"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "迦斐托人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:11.788652145Z",
+  "model": "glm-5.3"
+}

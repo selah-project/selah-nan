@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 113,
+  "translation": "來互伊佮尊貴的人同坐,佮伊人民的尊貴者做夥。",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "來互……坐"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "尊貴的人"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "尊貴者"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的人民"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:51.818767382Z",
+  "model": "glm-5.3"
+}

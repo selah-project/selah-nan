@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "我就將⟨את⟩我的面向阿多奈、彼位以羅欣,來求祈禱佮懇求,用禁食、粗麻衣佮爐灰。",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "我就將…安置"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的面"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "彼位以羅欣"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "來求"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "佮懇求"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "用禁食"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "佮粗麻衣"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "佮爐灰"
+    }
+  ],
+  "timestamp": "2026-09-12T05:46:34.656738165Z",
+  "model": "glm-5.3"
+}

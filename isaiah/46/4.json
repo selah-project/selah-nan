@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "到老的時我猶原是伊;到白頭毛我會擔;我做過,閣我會捧,閣我會擔,嘛我會救。",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "老"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是伊"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "閣到"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "白頭毛"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "會擔"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "做過"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "會捧"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "閣我"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "會擔"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "嘛會救"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:48.751016634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 3:15",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "以羅欣閣對摩西講:「你欲按呢對以色列的子兒講:『雅威,恁列祖的以羅欣,亞伯拉罕的以羅欣、以撒的以羅欣、閣雅各的以羅欣,差我來到恁遮。』這是我的名,到永遠;這是我的紀念,到世代世代。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "恁列祖"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "閣……的以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "差我"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "到恁遮"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "我的名"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "閣這"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "我的紀念"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "到世代"
+    },
+    {
+      "surface": "דר",
+      "gloss": "世代"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:27.018076704Z",
+  "model": "glm-5.3"
+}

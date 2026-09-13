@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊講:「我袂使佮⟨את⟩你倒轉去,嘛袂使佮⟨את⟩你入去;我毋通佇遮食餅,嘛毋通佮⟨את⟩你飲水。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "袂使"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "佮⟨את⟩你"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "嘛…入去"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "佮⟨את⟩你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "飲"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "佮⟨את⟩你"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇…所在"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "遮"
+    }
+  ],
+  "timestamp": "2026-09-12T03:08:13.302786018Z",
+  "model": "glm-5.3"
+}

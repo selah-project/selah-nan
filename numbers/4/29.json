@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "米拉利的子孫,照𪜶的宗族、照𪜶的父家,你欲點算⟨את⟩𪜶。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "米拉利"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的宗族"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照…的家"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "𪜶的父"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "你欲點算"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(米拉利的子孫)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:53:20.192140516Z",
+  "model": "glm-5.3"
+}

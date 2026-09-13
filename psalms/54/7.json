@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "彼個歹會倒轉去到我的對敵遐;佇你的信實,滅無𪜶。",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "彼個歹"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "到我的對敵"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "佇你的信實"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "滅無𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:12.747581609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我會賞地面有平安,恁會睏,無人驚惶;我會對地面消歹穢的生,劍袂經過恁的土地。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我會賞"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇地面"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "恁會睏"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "人驚惶"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "我會消"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "的生"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹穢"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地面"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "佮劍"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "經過"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "恁的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:53.720001665Z",
+  "model": "glm-5.3"
+}

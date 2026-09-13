@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "獨獨向以羅欣,我的性命恬恬無聲;我的拯救對伊來。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "恬恬無聲"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "我的拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:46.883005952Z",
+  "model": "glm-5.3"
+}

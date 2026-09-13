@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 2:42",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣跤指,一部份鐵、一部份塗:彼个國有一部份欲堅強,一部份欲破碎。",
+  "tokens": [
+    {
+      "surface": "ואצבעת",
+      "gloss": "閣跤指"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "个跤"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "一部份"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "一部份"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "塗"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "קצת",
+      "gloss": "一部份"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "彼个國"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "欲成做"
+    },
+    {
+      "surface": "תקיפה",
+      "gloss": "堅強"
+    },
+    {
+      "surface": "ומנה",
+      "gloss": "閣對一部份"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "欲成做"
+    },
+    {
+      "surface": "תבירה",
+      "gloss": "破碎"
+    }
+  ],
+  "timestamp": "2026-09-12T05:45:04.472354900Z",
+  "model": "glm-5.3"
+}

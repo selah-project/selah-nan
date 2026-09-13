@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威按呢講:恁若會破壞我日間的約⟨את⟩佮我暗時的約⟨את⟩,閣互白日佮暗暝無法度佇𪜶的時陣;",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אם",
+      "gloss": "恁若會"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "破壞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我日間的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日間"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "我暗時的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "暗時"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "閣互…無法度"
+    },
+    {
+      "surface": "היות",
+      "gloss": "有"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "白日"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "佮暗暝"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "佇𪜶的時陣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:59:20.305590157Z",
+  "model": "glm-5.3"
+}

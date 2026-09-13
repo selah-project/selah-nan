@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "愚妄的計謀是罪,譏誚的人對人是可厭惡的。",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "愚妄"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "罪"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "佮可厭惡"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "對人"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "譏誚的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:40.401171530Z",
+  "model": "glm-5.3"
+}

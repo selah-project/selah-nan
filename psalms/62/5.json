@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 62,
+  "translation": "獨獨𪜶謀算欲對伊的高位共伊摔落去;𪜶喜愛白賊,𪜶的嘴祝福,𪜶的心內咒詛。細拉。",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "伊的高位"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "𪜶謀算"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "欲摔落去"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "𪜶喜愛"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "𪜶的嘴"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "𪜶祝福"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "佇𪜶的心內"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "𪜶咒詛"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:31.357044565Z",
+  "model": "glm-5.3"
+}

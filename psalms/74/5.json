@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "伊上出名,是照伊摃斧頭起來頂面、對樹權落去的款。",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "上出名"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "照伊摃起來"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "頂面"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "對樹權"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "樹"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "斧頭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:54.003306326Z",
+  "model": "glm-5.3"
+}

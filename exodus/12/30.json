@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "法老半暝起來——伊,佮伊一切的奴僕,佮一切的米茲拉因人;佇米茲拉因有大大聲的哀嚎,因為無一個厝是彼內底無死人的。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "半暝"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因人"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "哀嚎"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "大大聲"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "佇米茲拉因"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "שם",
+      "gloss": "彼內底"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死人"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:59.073992399Z",
+  "model": "glm-5.3"
+}

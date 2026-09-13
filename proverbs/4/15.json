@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "著閃避伊,毋通行過;著越過伊,閣過去。",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "著閃避伊"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "行過"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "著越過"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "離開伊"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "閣過去"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:48.937213556Z",
+  "model": "glm-5.3"
+}

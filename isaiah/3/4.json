@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣我欲互少年人做𪜶的首領,佮任性的人欲管轄𪜶。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "閣我欲互"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "做𪜶的首領"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "佮任性的人"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "欲管轄"
+    },
+    {
+      "surface": "בם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:50.782421909Z",
+  "model": "glm-5.3"
+}

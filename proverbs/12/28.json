@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇公義⟨的⟩路內有活命,閣佇彼條路徑無死亡。",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "佇…路內"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "公義"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "閣…的路"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "彼條路徑"
+    },
+    {
+      "surface": "אל",
+      "gloss": "無"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死亡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:15.644812896Z",
+  "model": "glm-5.3"
+}

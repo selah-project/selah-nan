@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "親像熱氣佇錫安,你鎮壓外族人的喧嘩;熱氣佇雲影的蔭下,強橫者的歌聲受壓落。",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "親像熱氣"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "佇錫安"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "喧嘩"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "外族人"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "你鎮壓"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "熱氣"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "佇蔭下"
+    },
+    {
+      "surface": "עב",
+      "gloss": "雲"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "歌聲"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "強橫者"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "受壓落"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:35.519641198Z",
+  "model": "glm-5.3"
+}

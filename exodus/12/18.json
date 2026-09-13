@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇頭一个月,彼个月的第十四日,佇暗昏,恁著食無酵餅,直到彼个月的第二十一日佇暗昏。",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "佇頭一个月"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼个月的"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "佇暗昏"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁著食"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "無酵餅"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "佮二十"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼个月的"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "佇暗昏"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:09.818132280Z",
+  "model": "glm-5.3"
+}

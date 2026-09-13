@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "閣全以色列欲為伊哀哭,埋葬伊⟨את⟩;因為這个單獨屬耶羅波安的會入去墳墓,因為佇伊身上向雅威、以色列的以羅欣尋著一項好的代誌,佇耶羅波安的家。",
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "閣欲哀哭"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "佮埋葬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "單獨"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "會入去"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "耶羅波安"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "墳墓"
+    },
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "尋著"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的家"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "耶羅波安"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:22.255044534Z",
+  "model": "glm-5.3"
+}

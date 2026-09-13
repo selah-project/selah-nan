@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "因為悖逆親像占卜的罪,佮邪惡、特拉芬(家神)就是悖硬。因為你拒絕⟨את⟩雅威的話,伊嘛拒絕你,互你無閣做王。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "…的罪"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "占卜"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "佮邪惡"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "佮特拉芬"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "悖硬"
+    },
+    {
+      "surface": "יען",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "你拒絕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的話"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "伊嘛拒絕你"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "互你無閣做王"
+    }
+  ],
+  "timestamp": "2026-09-12T02:42:59.953735884Z",
+  "model": "glm-5.3"
+}

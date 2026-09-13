@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "沙蕃書記閣報王知,講:「希勒家祭司有交一本冊予我。」沙蕃就佇王的面前讀彼本冊。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "報…知"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "沙蕃"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "書記"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "予王"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "一本冊"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "交予"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "希勒家"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "讀伊"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "沙蕃"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:17.439581611Z",
+  "model": "glm-5.3"
+}

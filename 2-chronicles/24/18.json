@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "𪜶離棄⟨את⟩雅威——𪜶列祖的以羅欣——的家,去服事⟨את⟩亞舍拉木像佮⟨את⟩雕刻的偶像;因為𪜶這層罪過,受氣就臨到猶大佮耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "𪜶離棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威……的家"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "𪜶列祖"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "去服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞舍拉木像"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "亞舍拉木像"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "雕刻的偶像"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "雕刻的偶像"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就有"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "因為𪜶的罪過"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這層"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:47.577708987Z",
+  "model": "glm-5.3"
+}

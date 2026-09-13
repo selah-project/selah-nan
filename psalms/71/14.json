@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "毋拘我欲一直向望,我閣欲添佇你所有的讚美。",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "毋拘我"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "一直"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "向望"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "我閣欲添"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "你的讚美"
+    }
+  ],
+  "timestamp": "2026-09-13T04:44:07.392213155Z",
+  "model": "glm-5.3"
+}

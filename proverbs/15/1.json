@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "柔軟的應對會使息受氣,艱苦的話會激起憤怒。",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "應對"
+    },
+    {
+      "surface": "רך",
+      "gloss": "柔軟的"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "會使息"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "(若是)艱苦的話"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "艱苦的"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "會激起"
+    },
+    {
+      "surface": "אף",
+      "gloss": "憤怒"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:50.731236437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "毋通佇伊面前倉倉惶惶離開;毋通徛佇歹代誌內底,因為伊愛做啥物,就做啥物。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "倉倉惶惶"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "對伊面前"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "離開"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "徛"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "佇代誌內底"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "……个"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "伊愛"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "就做"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:49.365749243Z",
+  "model": "glm-5.3"
+}

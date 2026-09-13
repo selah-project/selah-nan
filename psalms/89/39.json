@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "毋拘你共伊棄撒、看無了,你對你的彌賽亞大發受氣。",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "毋拘你"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "共伊棄撒"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "看無了"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "大發受氣"
+    },
+    {
+      "surface": "עם",
+      "gloss": "對"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "你的彌賽亞"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:13.849774609Z",
+  "model": "glm-5.3"
+}

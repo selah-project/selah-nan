@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "深淵的泉源佮天頂的窗仔攏關起來,雨對天頂就停矣。",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "攏關起來"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "泉源"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "深淵"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "佮窗仔"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "就停"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "雨"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天頂"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:28.591295312Z",
+  "model": "glm-5.3"
+}

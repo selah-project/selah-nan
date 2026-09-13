@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 147,
+  "translation": "伊予精牲𪜶的食物,予烏鴉的囝仔──彼兮咧叫的。",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "伊予"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "精牲"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "𪜶的食物"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "予…的囝仔"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "烏鴉"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼兮"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "咧叫的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:27.438404317Z",
+  "model": "glm-5.3"
+}

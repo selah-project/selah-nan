@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊閣做 ⟨את⟩ 膏抹的油、聖的,閣 ⟨את⟩ 香的香料、清氣的,是調香師的工。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "伊閣做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "膏抹的油"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "膏抹的"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "香的香料"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "香"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "香料"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣的"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "工"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "調香師"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:21.736764593Z",
+  "model": "glm-5.3"
+}

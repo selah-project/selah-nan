@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "「你著對以色列的囝仔講,對𪜶講:恁中間若有人欲獻祭物互雅威,著對牲畜——對牛、對羊——獻⟨את⟩恁的祭物。",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "對𪜶講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "獻"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "恁中間"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "祭物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "獻"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的祭物"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "恁的祭物"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:41.785022355Z",
+  "model": "glm-5.3"
+}

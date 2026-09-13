@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 1:12",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "王后瓦實提毋肯照王的話——就是藉太監的手傳的——來,王就真受氣,伊的烈怒佇伊內燒起來。",
+  "tokens": [
+    {
+      "surface": "ותמאן",
+      "gloss": "就毋肯"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王后"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "瓦實提"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "來"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "照……的話"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "藉……的手"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "太監"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "就受氣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "וחמתו",
+      "gloss": "伊的烈怒"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "燒起來"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:20.486377746Z",
+  "model": "glm-5.3"
+}

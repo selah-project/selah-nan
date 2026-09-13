@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 23:22",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "所以,阿荷利巴,按呢阿多奈雅威講:看,我欲醒起⟨את⟩你的情人來對付你,就是⟨את⟩你的性命對𪜶厭而離開的;我欲導𪜶對四圍來對你。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "阿荷利巴"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "看,我"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "欲醒起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的情人"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "你的情人"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "來對付你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的性命對𪜶厭而離開的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "נקעה",
+      "gloss": "厭而離開"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "你的性命"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "對𪜶"
+    },
+    {
+      "surface": "והבאתים",
+      "gloss": "我欲導𪜶"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "來對你"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "對四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:12.842221556Z",
+  "model": "glm-5.3"
+}

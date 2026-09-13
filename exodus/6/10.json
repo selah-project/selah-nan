@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "雅威閣對摩西講,講:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講:"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:17.071880876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "亞倫看見,就佇伊頭前起一座壇,亞倫出聲宣告講:「有一个向雅威的節期,明仔載。」",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "就起造"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "一座壇"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "佇伊頭前"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "宣告"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "חג",
+      "gloss": "節期"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "向雅威"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "明仔載"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:36.375310924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "你的坐起、你的出去、你的入來,我攏知;閣⟨את⟩你對我的受氣。",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "你的坐起"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "你的出去"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "你的入來"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我攏知"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你對我的受氣"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "你的受氣"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:58.270949030Z",
+  "model": "glm-5.3"
+}

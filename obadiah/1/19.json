@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "南部的人會得著⟨את⟩以掃的山;低地的人會得著⟨את⟩非利士人;𪜶會得著⟨את⟩以法蓮的田佮⟨את⟩撒瑪利亞的田;便雅憫會得著⟨את⟩基列。",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "會得著"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "南部"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以掃的山"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "以掃"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "佮低地"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "會得著"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以法蓮的田"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "撒瑪利亞的田"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "佮便雅憫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:32:47.516826451Z",
+  "model": "glm-5.3"
+}

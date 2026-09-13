@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "雅威對向望伊的人是好,對尋求伊的心靈嘛是好。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "是好"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "對向望伊的人"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "對…的心靈"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "尋求伊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:22.395507019Z",
+  "model": "glm-5.3"
+}

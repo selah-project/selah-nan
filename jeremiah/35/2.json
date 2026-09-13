@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "「你去利甲人𪜶的厝,對𪜶講,紲𤆬⟨את⟩𪜶入雅威的厝,入一間廳房,予⟨את⟩𪜶啉酒。」",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "利甲人𪜶的"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "對𪜶講"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(利甲人)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "紲𤆬𪜶入"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一間"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "廳房"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "予…啉"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩𪜶",
+      "marks": "𪜶(利甲人)"
+    },
+    {
+      "surface": "יין",
+      "gloss": "酒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:01.573112308Z",
+  "model": "glm-5.3"
+}

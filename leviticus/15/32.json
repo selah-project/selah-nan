@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "這是患漏症者的律法,嘛是對伊身上流出精液、致到佇彼中間汙穢的律法。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "患漏症的"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "以及…者"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "流出"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊身上"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "(同房的)流出"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "精液"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "致到汙穢"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:47:12.647307195Z",
+  "model": "glm-5.3"
+}

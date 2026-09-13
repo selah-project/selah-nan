@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "法老講:「我會放⟨את⟩恁去,恁會使佇曠野獻祭予雅威恁的以羅欣;獨獨毋通行傷遠。替我祈求。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "會放"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "恁"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "恁獻祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "行遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "行傷遠"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "去行"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "祈求"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "替我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:15.260783087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "「閣伊著褪⟨את⟩伊的衫,穿別的衫,才將⟨את⟩灰捧出去,到營外清氣的所在。」",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "閣褪"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的衫"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "閣穿"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "衫"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "閣捧出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "灰"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "灰"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "外面"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:22.178169067Z",
+  "model": "glm-5.3"
+}

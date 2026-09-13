@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "對你來講,以勒的安慰傷少嗎?抑是對你講溫柔的話?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "傷少嗎"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "對你來講"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "安慰"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "抑是……話"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "溫柔"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "對你講"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:40.771370239Z",
+  "model": "glm-5.3"
+}

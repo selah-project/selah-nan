@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我就去，共伊埋匿佇比拉特，照雅威命令我⟨את⟩的。",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "就去"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "共伊埋匿"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "佇比拉特"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:51:18.140305939Z",
+  "model": "glm-5.3"
+}

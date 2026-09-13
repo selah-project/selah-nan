@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "亞比米勒牽羊佮牛、奴僕佮婢女,賞予亞伯拉罕,嘛共⟨את⟩撒拉——伊的某——還予伊。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "牽"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "佮牛"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "佮奴僕"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "佮婢女"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "賞予"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "還"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒拉"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:01.675317353Z",
+  "model": "glm-5.3"
+}

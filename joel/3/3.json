@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 3:3",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我欲佇天裡佮佇地裡顯出奇事:血佮火,佮煙个柱仔。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲顯出"
+    },
+    {
+      "surface": "מופתים",
+      "gloss": "奇事"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "佇天裡"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "佮佇地裡"
+    },
+    {
+      "surface": "דם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "佮火"
+    },
+    {
+      "surface": "ותימרות",
+      "gloss": "佮……柱仔"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "煙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:01.651594074Z",
+  "model": "glm-5.3"
+}

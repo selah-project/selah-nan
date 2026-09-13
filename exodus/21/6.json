@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "伊的主人就欲帶伊到以羅欣遐,閣帶伊到門抑是門框遐,伊的主人用錐仔鑿⟨את⟩伊的耳仔,伊就服事伊到永遠。",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "帶到"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "閣帶到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "門"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "門框"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "鑿"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的耳仔"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "伊的耳仔"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "用錐仔"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "服事伊"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:23.183763045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "好名聲比真濟財富卡值得一提;比銀佮金閣較有價值的,是美好的恩惠。",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "值得一提"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名聲"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "比財富"
+    },
+    {
+      "surface": "רב",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "比銀"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "佮金"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩惠"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "美好"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:08.461749157Z",
+  "model": "glm-5.3"
+}

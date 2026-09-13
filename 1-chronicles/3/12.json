@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "亞瑪謝伊的子,亞撒利雅伊的子,約坦伊的子。",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "亞瑪謝"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "亞撒利雅"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "約坦"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:04.292306307Z",
+  "model": "glm-5.3"
+}

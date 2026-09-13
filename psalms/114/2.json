@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 114,
+  "translation": "猶大成做⟨伊的⟩聖所,以色列成做伊的邦域。",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "成做"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "做伊的聖所"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "伊的邦域"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:20.747549413Z",
+  "model": "glm-5.3"
+}

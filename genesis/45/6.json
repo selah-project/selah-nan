@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "因為飢荒佇⟨這⟩地中央已經兩年矣,猶有五年,佇彼內底無犁田嘛無收成。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "兩年"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "飢荒"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "佇…中央"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "猶有"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇彼內底"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "犁田"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "嘛無收成"
+    }
+  ],
+  "timestamp": "2026-09-12T01:25:19.760827131Z",
+  "model": "glm-5.3"
+}

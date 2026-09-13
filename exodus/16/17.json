@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "以色列的子仔按呢做,𪜶拾收,有多收的,有少收的。",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "拾收"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "多收的"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "有少收的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:56.551040739Z",
+  "model": "glm-5.3"
+}

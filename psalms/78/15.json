@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊佇曠野擘開石磐,予𪜶啉甲親像大深淵按呢濟。",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "擘開"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "石磐"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "予𪜶啉"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "親像深淵"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "大、濟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:20.472963408Z",
+  "model": "glm-5.3"
+}

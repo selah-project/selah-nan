@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "毋通佇你家己的目睭內做智者;著敬畏⟨את⟩雅威,離開歹。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "做"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智者"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "佇你的目睭內"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "著敬畏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "離開"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "歹"
+    }
+  ],
+  "timestamp": "2026-09-12T05:11:46.191351200Z",
+  "model": "glm-5.3"
+}

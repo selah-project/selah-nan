@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣約拿單的後生是米利巴力,米利巴力生⟨את⟩米迦。",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "閣…的後生"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "米利"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "米利"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米迦"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "米迦"
+    }
+  ],
+  "timestamp": "2026-09-12T06:02:41.450043074Z",
+  "model": "glm-5.3"
+}

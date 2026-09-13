@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 55,
+  "translation": "看啊,我捌設立伊做列邦的見證,做列邦的首領佮命令者。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "עד",
+      "gloss": "見證"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "我捌設立伊"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "佮命令者"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "列邦"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:50.892636878Z",
+  "model": "glm-5.3"
+}

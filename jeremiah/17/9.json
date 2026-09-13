@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "比萬物閣奸詐是心,閣是無藥可醫 —— 啥人會當知伊?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "奸詐"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比萬物"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "閣是無藥可醫"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "會當知伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:52:21.343858349Z",
+  "model": "glm-5.3"
+}

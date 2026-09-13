@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "以羅欣抵著巴蘭,伊對以羅欣講:「⟨את⟩七座祭壇我已經排列,閣佇逐座祭壇頂獻一隻牛公佮一隻公羊。」",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "抵著"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "巴蘭"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "七座祭壇"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "座祭壇"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "我已經排列"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "閣獻"
+    },
+    {
+      "surface": "פר",
+      "gloss": "牛公"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "佮公羊"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "佇祭壇頂"
+    }
+  ],
+  "timestamp": "2026-09-12T02:01:11.149057891Z",
+  "model": "glm-5.3"
+}

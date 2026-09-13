@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "你有福氣的人啊!有福氣啊,諸個你的奴僕,𪜶常常徛佇你面前,聽⟨את⟩你的智慧!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "你的人"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣啊"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "常常"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "聽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的智慧"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "你的智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T03:06:22.974388750Z",
+  "model": "glm-5.3"
+}

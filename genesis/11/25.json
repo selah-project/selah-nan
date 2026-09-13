@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "拿鶴佇生⟨את⟩他拉了後,閣活十九年佮一百年;伊閣生查某子佮查甫子。",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "閣活"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "拿鶴"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "佇…了後"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "他拉"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "他拉"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "佮一百"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "閣生"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "查甫子"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "佮查某子"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:32.488126664Z",
+  "model": "glm-5.3"
+}

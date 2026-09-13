@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "王互⟨את⟩銀仔佮⟨את⟩金仔佇耶路撒冷親像石頭彼呢濟;⟨את⟩香柏木伊互𪜶親像低平地的桑樹彼呢濟。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "互"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀仔"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金仔"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "佮金仔"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "親像石頭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "香柏木"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "香柏木"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "伊互𪜶"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "親像桑樹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼的"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "佇低平地"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "彼呢濟"
+    }
+  ],
+  "timestamp": "2026-09-12T06:09:03.861481787Z",
+  "model": "glm-5.3"
+}

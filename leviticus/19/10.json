@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "你的葡萄園嘛毋通剃甲盡,你的葡萄園的落果嘛毋通去拾;著留⟨את⟩予散凶人佮寄腳的;我是雅威,恁的以羅欣。",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "你的葡萄園"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "剃甲盡"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "落果"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "你的葡萄園"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "拾"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "予散凶人"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "佮寄腳的"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "著留"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "散凶人佮寄腳的"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:45.780205129Z",
+  "model": "glm-5.3"
+}

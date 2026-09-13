@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "啥物利益佇我的血,佇我落去坑裡的時陣?塵土敢會感謝你?敢會講出你的信實?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "利益"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "佇我的血"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "佇我落去的時"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "坑"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "敢會感謝你"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "塵土"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "敢會講出"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "你的信實"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:48.505757011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "雅威導我出去到寬闊的所在;伊救助我,因為伊歡喜我。",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "導我出去"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "到寬闊的所在"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "救助我"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:44.278244323Z",
+  "model": "glm-5.3"
+}

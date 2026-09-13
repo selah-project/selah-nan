@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "伊拾起⟨את⟩庭院的四圍予會幕佮祭壇,閣下⟨את⟩庭院門仔的簾,按呢摩西就做完⟨את⟩此個工。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "拾起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "庭院"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "予會幕"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "佮祭壇"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "閣下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "簾"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "簾"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門仔"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "庭院"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "就做完"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "此個工"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:21.191649257Z",
+  "model": "glm-5.3"
+}

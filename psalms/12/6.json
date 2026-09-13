@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "對困苦人受的暴行,對散赤人的哀聲,「今我欲起來」,雅威按呢講;「我欲安置伊佇拯救內,向伊吹氣。」",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "暴行"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "困苦人"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "哀聲"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "今"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "我欲起來"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "按呢講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "我欲安置"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "佇拯救內"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "向伊吹氣"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:44.952214657Z",
+  "model": "glm-5.3"
+}

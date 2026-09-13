@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "耶利哥關牢牢,因為以色列仔仔的面前的緣故,就關予牢牢,無人出去,嘛無人入來。",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "耶利哥"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "關牢牢"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "關予牢牢"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "面前的緣故"
+    },
+    {
+      "surface": "בני",
+      "gloss": "仔仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "人出去"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "בא",
+      "gloss": "人入來"
+    }
+  ],
+  "timestamp": "2026-09-12T02:21:45.093770027Z",
+  "model": "glm-5.3"
+}

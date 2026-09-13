@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 4:7",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣對耶路撒冷的圍困,你欲對準你的面,閣你的跤臂裸露,你欲對伊發預言。",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "圍困"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "你欲對準"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "閣你的跤臂"
+    },
+    {
+      "surface": "חשופה",
+      "gloss": "裸露"
+    },
+    {
+      "surface": "ונבאת",
+      "gloss": "閣你欲發預言"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:21.615563446Z",
+  "model": "glm-5.3"
+}

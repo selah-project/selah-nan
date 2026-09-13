@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你若拄著你對敵的牛,抑是伊的驢走毋對路,你的確愛牽轉去還伊。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "若"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "拄著"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "你的對敵"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "伊的驢"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "走毋對路"
+    },
+    {
+      "surface": "השב",
+      "gloss": "的確牽轉"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "牽轉伊"
+    },
+    {
+      "surface": "לו",
+      "gloss": "還伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:25.890182346Z",
+  "model": "glm-5.3"
+}

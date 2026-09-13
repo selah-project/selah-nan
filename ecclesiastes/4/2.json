@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "閣我呵咾⟨את⟩已經死去的死人,比迄猶閣活啲、活到今的活人卡好。",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "閣我呵咾"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "已經死去的死人"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "死人"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "已經"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "死去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比……卡好"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活啲"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "到今猶活"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:51.980439105Z",
+  "model": "glm-5.3"
+}

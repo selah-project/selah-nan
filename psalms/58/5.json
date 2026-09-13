@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 58,
+  "translation": "𪜶的毒親像蛇的毒彼款,親像聾的蝮蛇掩住伊的耳。",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "毒"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "親像…彼款"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "毒"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "蝮蛇"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "聾的"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "掩住"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "伊的耳"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:35.477821846Z",
+  "model": "glm-5.3"
+}

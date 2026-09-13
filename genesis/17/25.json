@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "伊實瑪利(以實瑪利),亞伯拉罕的後生,十三歲,佇伊行割禮的時,割⟨את⟩伊包皮的肉。",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "伊實瑪利"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的後生"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…歲(做後生)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "佇伊行割禮的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊包皮的肉"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "伊的包皮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:12:33.667701290Z",
+  "model": "glm-5.3"
+}

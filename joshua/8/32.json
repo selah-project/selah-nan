@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣伊佇遐,佇石頭頂寫⟨את⟩摩西律法个抄本,就是伊以前佇以色列个子孫面前所寫个。",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "閣…寫"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "摩西律法个抄本"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "抄本"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "律法"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…个"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:34.352150611Z",
+  "model": "glm-5.3"
+}

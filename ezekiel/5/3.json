@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "「閣對遐你欲提淡薄仔幾支,照數目少少,閣你欲包⟨את⟩𪜶佇你的衫裾內。」",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "閣你欲提"
+    },
+    {
+      "surface": "משם",
+      "gloss": "對遐"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "淡薄仔"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "照數目"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "閣包"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "佇你的衫裾內"
+    }
+  ],
+  "timestamp": "2026-09-12T04:10:01.523641955Z",
+  "model": "glm-5.3"
+}

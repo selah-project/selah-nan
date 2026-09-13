@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "你敢欲嚇一張予風吹散个葉仔?閣敢欲追趕⟨את⟩枯焦个禾稈?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "彼張葉仔"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "予風吹散"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "你敢欲嚇"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "枯焦个禾稈"
+    },
+    {
+      "surface": "קש",
+      "gloss": "禾稈"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "枯焦"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "敢欲追趕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:05.708461525Z",
+  "model": "glm-5.3"
+}

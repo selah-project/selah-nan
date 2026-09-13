@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "女先知米利暗,亞倫的阿姊,就提⟨את⟩手鼓佇伊手中,所有的查某人攏隨伊出去,用手鼓佮跳舞。",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "就提"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "米利暗"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "女先知"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "阿姊"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "手鼓"
+    },
+    {
+      "surface": "התף",
+      "gloss": "手鼓"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "佇伊手中"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "攏出去"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "隨伊"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "用手鼓"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "佮跳舞"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:55.455767253Z",
+  "model": "glm-5.3"
+}

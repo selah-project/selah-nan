@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 45:10",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "「你欲踮歌珊地徛起,欲倚近我——你、你的囝、你的孫、你的羊、你的牛,佮你所有的一切。",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "你欲徛起"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "踮……地"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "歌珊"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "你欲做"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "佮你的囝"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "佮……的囝"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的孫(囝的囝)"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "你的羊"
+    },
+    {
+      "surface": "ובקרך",
+      "gloss": "你的牛"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有……的"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:24:59.594197548Z",
+  "model": "glm-5.3"
+}

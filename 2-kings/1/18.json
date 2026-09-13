@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 1:18",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "亞哈謝其餘所做的事,豈毋是攏記載佇以色列諸王的史記冊裡嗎?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "其餘"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的事"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "亞哈謝"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "豈毋是"
+    },
+    {
+      "surface": "המה",
+      "gloss": "攏"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "記載"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…裡"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "…的史記"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "諸王的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:34.957160689Z",
+  "model": "glm-5.3"
+}

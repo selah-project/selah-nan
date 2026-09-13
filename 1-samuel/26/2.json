@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "掃羅起來,落去西弗曠野,佮⟨את⟩伊做伙三千人,以色列揀出來的少年人,欲掠立⟨את⟩大衛佇西弗曠野。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "落去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "西弗"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "佮⟨את⟩伊"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "三"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "千"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "揀出來的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "欲掠立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇…曠野"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "西弗"
+    }
+  ],
+  "timestamp": "2026-09-12T02:48:42.029411977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "因為雅威疼公義,袂放棄⟨את⟩伊的敬虔人;𪜶受保守到永遠,毋過歹人的後代會被剪除。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "放棄"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的敬虔人"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "伊的敬虔人"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "𪜶受保守"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "毋過…的後代"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "會被剪除"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:15.212351033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 1:14",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我欲佇拉巴的城牆點火,火欲吞滅伊的宮殿,佇相戰的日子用吶喊,佇旋風鼱的日子用暴風。",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "我欲……點火"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "佇……的城牆"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "拉巴"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "火欲吞滅"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "伊的宮殿"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "用吶喊"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "相戰"
+    },
+    {
+      "surface": "בסער",
+      "gloss": "用暴風"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "旋風鼱"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:32.340788085Z",
+  "model": "glm-5.3"
+}

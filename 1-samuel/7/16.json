@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "伊逐年行、逐年巡迴伯特意勒(伯特利)、吉勒甲(吉甲)佮米茲帕(米斯巴),佇遮的一切所在審判⟨את⟩以色列⟨את⟩遮的一切所在。",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "逐年"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "逐年"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "巡迴"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯特意勒"
+    },
+    {
+      "surface": "אל",
+      "gloss": "伯特意勒"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "吉勒甲"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "米茲帕"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "審判"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮的一切所在"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "所在"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "遮的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:39:54.400757863Z",
+  "model": "glm-5.3"
+}

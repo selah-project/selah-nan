@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 18:1",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "以色列子兒的全會眾攏聚集佇示羅,𪜶共⟨את⟩會幕下佇遐,彼片地已經佇𪜶面前予人征服矣。",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "攏聚集"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "會眾"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "示羅"
+    },
+    {
+      "surface": "וישכינו",
+      "gloss": "下(徛做起)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "會幕"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕(帳棚)"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相聚集的所在"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "閣彼片地"
+    },
+    {
+      "surface": "נכבשה",
+      "gloss": "予人征服"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "佇𪜶面前"
+    }
+  ],
+  "timestamp": "2026-09-12T02:26:16.593949700Z",
+  "model": "glm-5.3"
+}

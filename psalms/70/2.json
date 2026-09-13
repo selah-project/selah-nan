@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 70,
+  "translation": "以羅欣啊,欲救我;雅威啊,欲幫助我,緊緊來!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "欲救我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "欲幫助我"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "緊緊來"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:06.865417363Z",
+  "model": "glm-5.3"
+}

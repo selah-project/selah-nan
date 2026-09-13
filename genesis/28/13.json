@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 28:13",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "看啊,雅威徛佇伊頂懸,閣講:「我是雅威,亞伯拉罕——你老父——的以羅欣,亦是伊撒克的以羅欣。你咧睏的彼片土地,我欲互你,嘛互你的後代。」",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "徛"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊頂懸"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的以羅欣"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "你的老父"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "亦是……的以羅欣"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "伊撒克"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼片土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "咧睏"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "佇頂面"
+    },
+    {
+      "surface": "לך",
+      "gloss": "互你"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "嘛互你的後代"
+    }
+  ],
+  "timestamp": "2026-09-12T01:17:35.922162497Z",
+  "model": "glm-5.3"
+}

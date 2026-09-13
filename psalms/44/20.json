@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "你壓碎阮佇豺狼的所在,用死蔭罩阮。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(雖然)"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "你壓碎阮"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "佇…的所在"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "豺狼"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "用…罩"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "用死蔭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:20.352284936Z",
+  "model": "glm-5.3"
+}

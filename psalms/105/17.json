@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 105,
+  "translation": "差一个人代先去佇𪜶面前：約瑟，做奴僕被賣去。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "差派"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "代先去佇𪜶面前"
+    },
+    {
+      "surface": "איש",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "做奴僕"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "被賣去"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:02.959147292Z",
+  "model": "glm-5.3"
+}

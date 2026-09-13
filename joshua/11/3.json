@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣去迦南人,對東邊閣對海邊;閣去亞摩利人、赫人、比利洗人,以及佇山地的耶布斯人;閣去佇黑門山下、米斯巴之地的希未人。",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "迦南人"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "對東邊"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "閣對海邊"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "閣亞摩利人"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "耶布斯人"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇山地"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "閣希未人"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…腳"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "黑門"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…之地"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "米斯巴"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:50.402845224Z",
+  "model": "glm-5.3"
+}

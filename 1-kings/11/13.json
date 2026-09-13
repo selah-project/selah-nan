@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "獨獨⟨את⟩歸個王國我袂拆;一個支族我欲互你囝,為著大衛我的奴僕,嘛為著耶路撒冷,就是我所揀選的。",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歸個王國"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸個"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "王國"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "我拆"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "支族"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲互"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "你囝"
+    },
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "嘛為著"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "我所揀選的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:07:44.961209536Z",
+  "model": "glm-5.3"
+}

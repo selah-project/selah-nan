@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "⟨公義的人⟩呼叫,雅威就聽見,對𪜶一切的患難中拯救𪜶。",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "呼叫"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "對一切"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "𪜶的患難"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "拯救𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:25.410733953Z",
+  "model": "glm-5.3"
+}

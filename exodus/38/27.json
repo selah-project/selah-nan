@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "一百他連得銀仔用來鑄造⟨את⟩聖所的座佮⟨את⟩幔仔的座:一百座對一百他連得來,一座一他連得。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "是"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "他連得"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀仔"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "用來鑄造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "聖所的座"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "座"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "幔仔的座"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "座"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "幔仔"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "座"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "對一百"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "他連得"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "一他連得"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "一座"
+    }
+  ],
+  "timestamp": "2026-09-13T04:50:19.441849040Z",
+  "model": "glm-5.3"
+}

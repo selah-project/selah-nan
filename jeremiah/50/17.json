@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 50:17",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "以色列是一隻四散的羊仔,獅仔共伊趕散;頭一個食伊的,是亞述王;這个末後的,是巴比倫王尼布甲尼撒,折斷伊的骨頭。",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "פזורה",
+      "gloss": "四散的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "獅仔"
+    },
+    {
+      "surface": "הדיחו",
+      "gloss": "共伊趕散"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "食伊的"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "末後的"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "折斷伊的骨頭"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:14.593895365Z",
+  "model": "glm-5.3"
+}

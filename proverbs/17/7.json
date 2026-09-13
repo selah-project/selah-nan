@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "懸級的嘴唇毋合愚戇人,何況白賊的嘴唇毋合高貴的人。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "合"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "懸級"
+    },
+    {
+      "surface": "אף",
+      "gloss": "何況"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "高貴的人"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "嘴唇"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:24.525444287Z",
+  "model": "glm-5.3"
+}

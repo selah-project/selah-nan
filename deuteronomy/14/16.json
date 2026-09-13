@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "⟨את⟩小貓頭鷹、閣有⟨את⟩大貓頭鷹,閣有白貓頭鷹;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "小貓頭鷹"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "小貓頭鷹"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣有⟨את⟩",
+      "marks": "大貓頭鷹"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "大貓頭鷹"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "閣有白貓頭鷹"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:17.494558315Z",
+  "model": "glm-5.3"
+}

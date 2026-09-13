@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 87,
+  "translation": "雅威欲點算,佇記錄列邦的名冊時:「這人出世佇遐。」細拉。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "欲點算"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "佇記錄"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "列邦"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這人"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "出世"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:59.668230138Z",
+  "model": "glm-5.3"
+}

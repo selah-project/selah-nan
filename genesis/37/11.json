@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊的兄弟就嫉妒伊；伊的阿爸保守⟨את⟩這個話。",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "就嫉妒"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "伊的阿爸"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "保守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這個話"
+    }
+  ],
+  "timestamp": "2026-09-12T01:20:21.858094432Z",
+  "model": "glm-5.3"
+}

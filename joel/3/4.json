@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "日頭會變做烏暗,月娘會變做血,佇雅威彼个大個、令人驚惶个日子來到進前。",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "會變做"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "佮月娘"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇……進前"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日子"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "彼个大個"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "佮令人驚惶个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:01.651737044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "諸个代誌了後,佇亞哈隨魯王的受氣消退的時,伊就數念⟨את⟩瓦實提,佮⟨את⟩伊所做的,佮⟨את⟩所判定落佇伊身上的。",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "以後"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "諸个"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "消退的時"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "數念"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "瓦實提"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "瓦實提"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "伊所做的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "做"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "所判定落佇伊身上的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "判定"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "落佇伊身上"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:56.298642312Z",
+  "model": "glm-5.3"
+}

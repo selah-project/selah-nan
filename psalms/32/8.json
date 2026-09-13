@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "我互你有智慧,指示你佇你欲行的這條路;我勸教你,我的目睭對你。",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "我互你有智慧"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "指示你"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇路"
+    },
+    {
+      "surface": "זו",
+      "gloss": "這條"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "你欲行"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "我勸教你"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "我的目睭"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:55.539073585Z",
+  "model": "glm-5.3"
+}

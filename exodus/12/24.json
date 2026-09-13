@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "恁欲遵守⟨את⟩這個話做恁的定例,亦遵守到永遠。",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "恁欲遵守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個話"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "做定例"
+    },
+    {
+      "surface": "לך",
+      "gloss": "給恁"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "亦給恁的後代"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:21.233585241Z",
+  "model": "glm-5.3"
+}

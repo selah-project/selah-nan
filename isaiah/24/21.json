@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "到彼日,雅威欲究辦天頂的軍隊,佇天頂;嘛欲究辦地上的諸王,佇地上。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "到彼日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "欲究辦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "天頂的"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "佇天頂"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "嘛對"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地上的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:31.907261456Z",
+  "model": "glm-5.3"
+}

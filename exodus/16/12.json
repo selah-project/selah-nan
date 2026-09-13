@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "「我已經聽見⟨את⟩以色列人的怨言;你給𪜶講:『佇黃昏中間恁欲食肉,佇早起恁欲食餅食到飽,恁就欲知影我雅威是恁的以羅欣。』」",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "我已經聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列人的怨言"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "怨言"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "給𪜶"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "黃昏"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁欲食"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "佇早起"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "恁欲食到飽"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "恁就欲知影"
+    },
+    {
+      "surface": "כי",
+      "gloss": "知影…"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:04.724472961Z",
+  "model": "glm-5.3"
+}

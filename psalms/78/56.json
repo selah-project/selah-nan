@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "𪜶閣試探、悖逆⟨את⟩至高的以羅欣,無遵守伊的見證。",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "試探"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "悖逆"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "至高的以羅欣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "至高者"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "伊的見證"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "遵守"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:01.093344737Z",
+  "model": "glm-5.3"
+}

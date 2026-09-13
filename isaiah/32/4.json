@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "急躁的人的心會明白知識,臭耳聾喙的人的喙舌會緊講,講了清清楚楚。",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "佮…的心"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "急躁的人"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "會明白"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "知識"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "佮…的喙舌"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "臭耳聾喙的人"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "會緊"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "清清楚楚"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:02.325043733Z",
+  "model": "glm-5.3"
+}

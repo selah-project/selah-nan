@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "佮你欲對法老按呢講:「雅威按呢講:以色列是我的子,我的頭生子。",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "佮你欲…講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的子"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "我的頭生子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:37.474165057Z",
+  "model": "glm-5.3"
+}

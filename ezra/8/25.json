@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我就秤予𪜶 ⟨את⟩ 銀、⟨את⟩ 金、⟨את⟩ 器皿,就是咱的以羅欣的殿的奉獻物,是王、伊的謀士、伊的官員,佮以色列眾人──彼寡佇遐搵著的──所獻起的。",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "我就秤予𪜶"
+    },
+    {
+      "surface": "להם",
+      "gloss": "予𪜶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "銀"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "金"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "器皿"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "器皿"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "奉獻物"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "所獻起的"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "伊的謀士"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "伊的官員"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮…眾人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "彼寡佇遐搵著的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:26.973961389Z",
+  "model": "glm-5.3"
+}

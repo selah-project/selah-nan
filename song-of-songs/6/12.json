@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我毋知影,我的心肝給我放佇我百姓貴族的戰車頂。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知影"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的心肝"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "給我放"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我百姓"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "貴族"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:07.714521164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "約坦佮伊的列祖睏落去,𪜶埋葬伊⟨את⟩佇大衛的城;伊的子亞哈斯接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "睏落去"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "約坦"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "𪜶埋葬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇…的城"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "亞哈斯"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:03.459309543Z",
+  "model": "glm-5.3"
+}

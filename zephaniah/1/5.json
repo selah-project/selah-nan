@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣有⟨את⟩彼跡佇厝頂向天空的采巴奧特(天軍)敬拜的人,閣有⟨את⟩彼跡敬拜的人、奉雅威的名咒誓,嘛對𪜶的米勒干(彼個神的名)咒誓的;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼跡佇厝頂敬拜的人"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "彼跡敬拜的人"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "厝頂"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "向……的采巴奧特"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天空"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼跡敬拜的人"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "彼跡敬拜的人"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "咒誓的"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "奉雅威"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "閣有咒誓的"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "對𪜶的米勒干"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:06.688154639Z",
+  "model": "glm-5.3"
+}

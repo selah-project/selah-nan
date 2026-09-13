@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "老人對城門停止⟨無去⟩,少年人對𪜶的樂聲⟨無去⟩。",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "老人"
+    },
+    {
+      "surface": "משער",
+      "gloss": "對城門"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "停止"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "對𪜶的樂聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:26.906458946Z",
+  "model": "glm-5.3"
+}

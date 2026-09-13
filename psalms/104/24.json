@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "雅威啊,祢的工有偌濟!祢用智慧做𪜶攏總;大地攏滿祢的造物。",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啊……偌濟"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "有偌濟"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "祢的工"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "𪜶攏總"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "用智慧"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "做"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "攏滿"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "祢的造物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:46.494818417Z",
+  "model": "glm-5.3"
+}

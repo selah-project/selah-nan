@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "「你佮祭司以利亞撒以及會眾的族長,著數⟨את⟩掠來的俘虜——人的俘虜佮牲畜的俘虜——的頭數。」",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "著舉起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掠來的俘虜的頭數"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭數"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "掠來的"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "俘虜"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "佇人中"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "佮佇牲畜中"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "佮以利亞撒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "佮……的族長"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "父家"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "會眾"
+    }
+  ],
+  "timestamp": "2026-09-12T02:04:39.908066394Z",
+  "model": "glm-5.3"
+}

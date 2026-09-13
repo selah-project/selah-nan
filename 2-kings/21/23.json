@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "亞們的奴僕陰謀反抗伊,閣佇伊的家內刣死⟨את⟩諸個王。",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "陰謀"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "的奴僕"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "亞們"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "反抗伊"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "閣刣死"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "諸個王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊的家內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:55.019695670Z",
+  "model": "glm-5.3"
+}

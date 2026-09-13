@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "凡勢你的衫攏著是白的,你頭殼頂的油嘛毋通欠。",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "凡勢"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "是"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "你的衫"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "白"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "閣油"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "你的頭殼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "欠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:39:18.609817879Z",
+  "model": "glm-5.3"
+}

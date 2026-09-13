@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "義人啊,佇雅威內面歡喜;正直心肝的人啊,著歡呼快樂!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "佇雅威內面"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "快樂"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "義人"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "歡呼"
+    },
+    {
+      "surface": "כל",
+      "gloss": "……的人"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "正直"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心肝"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:53.593433866Z",
+  "model": "glm-5.3"
+}

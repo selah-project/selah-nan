@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "對亞設來講,伊的餅會肥,伊會獻王的珍饈。",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "對亞設"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "肥"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "伊的餅"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "會獻"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "珍饈"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:20.846352888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "佇以色列的子兒出米茲拉因(埃及)地的第三個月，佇這個日，𪜶來到西奈的曠野。",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "佇…月"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "第三"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "出"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "對…地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "באו",
+      "gloss": "𪜶來到"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "曠野"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "西奈"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:53.823954648Z",
+  "model": "glm-5.3"
+}

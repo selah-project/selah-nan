@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "我,我已經講出;閣,我已經叫伊;我已經導伊來,伊欲互伊的路亨通。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "已經講出"
+    },
+    {
+      "surface": "אף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "已經叫伊"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "已經導伊來"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "佮欲亨通"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "伊的路"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:08.991008724Z",
+  "model": "glm-5.3"
+}

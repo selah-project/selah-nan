@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "王就徛起來,裂⟨את⟩伊的衫,倒佇土腳;伊一切的奴僕徛在邊仔,衫攏裂開。",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "就徛起來"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨彼⟩王"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "就裂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的衫"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "就倒"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "佇土腳"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佇彼一切"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "徛在邊仔"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "裂開的"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "衫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:27:55.593145277Z",
+  "model": "glm-5.3"
+}

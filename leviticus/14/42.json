@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "𪜶著提別的石頭,帶入來下佇迄叉石頭的位;嘛著提別的土,抹⟨את⟩厝。",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "𪜶著提"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "別的"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "帶入來"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "迄叉石頭"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "嘛著提別的土"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別的"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "伊著提"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "抹"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "厝"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    }
+  ],
+  "timestamp": "2026-09-13T04:40:46.600913667Z",
+  "model": "glm-5.3"
+}

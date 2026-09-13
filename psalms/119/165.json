@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "疼祢妥拉的,得著大的平安,佮𪜶無絆跌的物。",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大的"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "疼祢妥拉的"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "祢的妥拉"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "佮……無"
+    },
+    {
+      "surface": "למו",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "絆跌的物"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:03.226500519Z",
+  "model": "glm-5.3"
+}

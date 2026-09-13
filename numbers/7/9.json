@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "毋過哥轄的後生，伊無予，因為聖所的工課佇𪜶身上，𪜶扛佇肩頭。",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "對…的後生"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "哥轄"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "的工課"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "佇𪜶身上"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "佇肩頭"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "𪜶扛"
+    }
+  ],
+  "timestamp": "2026-09-12T01:54:42.919265973Z",
+  "model": "glm-5.3"
+}

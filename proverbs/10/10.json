@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "目睭挾一下的人予人痛苦,愚妄講喙箔的人欲倒塌。",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "挾"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "予"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "痛苦"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "愚妄"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "講喙箔"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "欲倒塌"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:15.359857803Z",
+  "model": "glm-5.3"
+}

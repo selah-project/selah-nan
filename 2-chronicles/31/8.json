@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "希西家佮諸個首領入來,看見⟨את⟩彼垛堆,就祝福⟨את⟩雅威,閣祝福⟨את⟩伊的百姓以色列。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "入來"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "佮諸個首領"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼垛堆"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "彼垛堆"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "就祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣祝福⟨את⟩",
+      "marks": "伊的百姓以色列"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "伊的百姓"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:18:37.891167998Z",
+  "model": "glm-5.3"
+}

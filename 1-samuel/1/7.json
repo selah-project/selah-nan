@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣按呢伊一年一年攏按呢做;逐擺伊上去雅威的家,就按呢激伊受氣,伊就哭,毋食。",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "閣按呢"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "伊做"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "一年"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "一年一年"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "逐擺"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "伊上去"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇……的家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כן",
+      "gloss": "就按呢"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "激伊受氣"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "伊就哭"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "食"
+    }
+  ],
+  "timestamp": "2026-09-12T02:38:09.038086339Z",
+  "model": "glm-5.3"
+}

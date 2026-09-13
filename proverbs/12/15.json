@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "愚戇人的路,佇伊家己的目睭內是正直的;聽勸的是智慧人。",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "正直"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "佇伊家己的目睭內"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "佮聽"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "勸"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:11.203298448Z",
+  "model": "glm-5.3"
+}

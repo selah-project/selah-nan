@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "另外一个名叫以利以謝,因為伊講:「阮老父的以羅欣是我的幫助,閣救我脫離法老的刀劍。」",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "另外一个名"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "另外一个"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "以利以謝"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "阮老父"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "是我的幫助"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "閣救我"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "脫離…的刀劍"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    }
+  ],
+  "timestamp": "2026-09-12T01:33:05.214373179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "來去伯特利,來犯罪;去吉甲,加添犯罪;閣透早提恁的祭物來,三日一擺提恁的十分一。",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "來去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "伯特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "艾"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "來犯罪"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "吉甲"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "加添"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "犯罪"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "閣提…來"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "透早"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "恁的祭物"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "三日一擺"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "恁的十分一"
+    }
+  ],
+  "timestamp": "2026-09-12T04:30:57.662254612Z",
+  "model": "glm-5.3"
+}

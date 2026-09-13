@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "阮求你啦，雅威，救阮啦；阮求你啦，雅威，互阮亨通啦。",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "阮求你啦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "救阮"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啦"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "阮求你啦"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "互阮亨通"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啦"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:02.076704189Z",
+  "model": "glm-5.3"
+}

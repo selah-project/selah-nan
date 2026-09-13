@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "到約阿施王二十年加三年的時,祭司猶原無補強⟨את⟩厝的破損。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "到…的時"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "加三"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "約阿施"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "補強"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "厝的破損"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "破損"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "厝"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:34.524474492Z",
+  "model": "glm-5.3"
+}

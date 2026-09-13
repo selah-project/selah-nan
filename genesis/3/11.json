@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊就講:「啥人共你講你袒胸?你敢對我命令你毋通食的彼棵樹食矣?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊就講"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "共你講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "袒胸"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "המן",
+      "gloss": "對"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "彼棵樹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "我命令你"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "你敢食"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:25.440793862Z",
+  "model": "glm-5.3"
+}

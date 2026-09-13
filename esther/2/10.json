@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "以斯帖無講出⟨את⟩伊的族,嘛無講出⟨את⟩伊的出身,因為末底改命令伊,彼項代誌毋通講出來。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "講出"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "以斯帖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的族"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "伊的族"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的出身"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "伊的出身"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼項代誌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "講出來"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:36.615484339Z",
+  "model": "glm-5.3"
+}

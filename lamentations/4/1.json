@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "哪會黃金變烏暗矣,上好的純金變色矣!聖的石頭瀉落佇逐條街路的路口。",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "哪會"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "變烏暗矣"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "黃金"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "變色矣"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "上好的純金"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "上好的"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "瀉落"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "石頭"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "佇…路口"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐條"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "街路"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:41.378043362Z",
+  "model": "glm-5.3"
+}

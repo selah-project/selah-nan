@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "這陣你差人召集⟨את⟩全以色列到我遮,到迦密山,嘛愛⟨את⟩彼四百五十个巴力的先知,佮亞舍拉的先知四百个,就是食耶洗別桌飯彼寡。」",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "差人"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "召集"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "到我遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "全以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "迦密"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "巴力的先知"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "…的先知"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "巴力"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "佮五十"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "佮…的先知"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "亞舍拉"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "食"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "桌飯"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "耶洗別"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:48.512538685Z",
+  "model": "glm-5.3"
+}

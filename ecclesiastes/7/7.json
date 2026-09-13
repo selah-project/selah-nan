@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為壓迫會予智者起狂，賄賂會毀滅⟨את⟩心。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "壓迫"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "會予…起狂"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智者"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "會毀滅"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "心"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "賄賂"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:19.303112897Z",
+  "model": "glm-5.3"
+}

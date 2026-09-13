@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "𪜶的名是按呢:便戶珥,佇以法蓮山地。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "𪜶的名"
+    },
+    {
+      "surface": "בן",
+      "gloss": "便"
+    },
+    {
+      "surface": "חור",
+      "gloss": "戶珥"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "佇…山地"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "以法蓮"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:57.502883737Z",
+  "model": "glm-5.3"
+}

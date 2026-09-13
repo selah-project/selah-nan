@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "一千二百台戰車,六萬个騎馬的;佮伊對埃及來的百姓,就無法度算——呂彼亞人、蘇基人,佮古實人。",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "二百"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "六萬"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "騎馬的"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "就無"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "法度算"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "對百姓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "對埃及"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "呂彼亞人"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "蘇基人"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "佮古實人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:13.794751890Z",
+  "model": "glm-5.3"
+}

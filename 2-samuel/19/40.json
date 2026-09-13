@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "所有百姓攏過約旦河⟨את⟩,王嘛過去;王唚巴西萊,祝福伊,伊就倒轉去伊个所在。",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "攏過"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約旦河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約旦河"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "佮王"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "嘛過去"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "唚"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "巴西萊"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "祝福伊"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "去伊个所在"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:19.242551197Z",
+  "model": "glm-5.3"
+}

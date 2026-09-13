@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "非利士人緊緊逼掃羅⟨את⟩佮伊的眾子⟨את⟩,非利士人拍死約拿單⟨את⟩、亞比拿達⟨את⟩佮麥基舒亞⟨את⟩,就是掃羅的子。",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "緊緊逼"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "掃羅"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的眾子"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的眾子"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "拍死"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約拿單"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "亞比拿達"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "亞比拿達"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "麥基舒亞"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "麥基"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "舒亞"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:13.628384498Z",
+  "model": "glm-5.3"
+}

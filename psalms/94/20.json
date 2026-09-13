@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 94,
+  "translation": "災禍的座位敢會及你結交?就是彼個佇律例上塑造勞害的。",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "敢會及你結交"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "座位"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "塑造"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "勞害"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇……上"
+    },
+    {
+      "surface": "חק",
+      "gloss": "律例"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:22.660017040Z",
+  "model": "glm-5.3"
+}

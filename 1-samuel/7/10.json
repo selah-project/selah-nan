@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "撒母耳咧獻彼個燒祭的時,非利士人逼近欲佮以色列相戰,彼日雅威用大聲雷對非利士人雷轟,互𪜶大亂,佇以色列面前互𪜶拍敗。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "的時"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "咧獻"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "彼個燒祭"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "逼近"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "欲相戰"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佮以色列"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "雷轟𪜶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "用聲"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "互𪜶大亂"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "拍敗"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:26:58.052521437Z",
+  "model": "glm-5.3"
+}

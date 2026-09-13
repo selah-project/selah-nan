@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我對彼位佇我內講話的天使講:「這些是啥物?」伊對我講:「這些是彼四枝掃散⟨את⟩猶大、⟨את⟩以色列、佮耶路撒冷的角。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "彼位天使"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "講話的"
+    },
+    {
+      "surface": "בי",
+      "gloss": "佇我內"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "彼四枝角"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "זרו",
+      "gloss": "掃散"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "佮耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:33.158937443Z",
+  "model": "glm-5.3"
+}

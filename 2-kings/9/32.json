@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "伊掠面頭舉起來向窗仔,講:「啥人⟨את⟩佮我?啥人?」就有兩三个太監向伊看落去。",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "舉起來"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "窗仔"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩佮我"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "看落去"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "兩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "太監"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:10.768719218Z",
+  "model": "glm-5.3"
+}

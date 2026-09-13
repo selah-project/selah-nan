@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為耶路撒冷跛倒矣,猶大仆落去;因為𪜶的喙舌佮𪜶的所作對敵雅威,來惹雅威榮光的目的睭。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "跛倒"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "閣猶大"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "仆落去"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "𪜶的喙舌"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "𪜶的所作"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "來惹"
+    },
+    {
+      "surface": "עני",
+      "gloss": "目的睭"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:49.774592238Z",
+  "model": "glm-5.3"
+}

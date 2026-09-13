@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "閣迦勒的細姨以法生⟨את⟩哈蘭、⟨את⟩摩撒、⟨את⟩迦謝;閣哈蘭生⟨את⟩迦謝。",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "閣以法"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "細姨"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "迦勒"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈蘭"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "哈蘭"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "摩撒"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "摩撒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "迦謝"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "迦謝"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "閣哈蘭"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "迦謝"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "迦謝"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:40.641600688Z",
+  "model": "glm-5.3"
+}

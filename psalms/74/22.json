@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "起來,以羅欣啊,替祢家己的案件伸冤;紀念愚戇人逐日對祢的侮辱。",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "起來"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "替……伸冤"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "祢的案件"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "紀念"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "對祢的侮辱"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "愚戇人"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.154238231Z",
+  "model": "glm-5.3"
+}

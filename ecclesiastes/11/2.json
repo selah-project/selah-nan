@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "分一份予七個,嘛予八個,因為你毋知啥物歹事會臨到地上。",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "分……予"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "一份"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "七個"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "八個"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "知"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "會"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹事"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:08.387201193Z",
+  "model": "glm-5.3"
+}

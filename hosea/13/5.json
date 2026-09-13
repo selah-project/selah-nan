@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "我佇曠野識恁,佇真焦旱的地。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "識恁"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…的地"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "真焦旱"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:37.824398974Z",
+  "model": "glm-5.3"
+}

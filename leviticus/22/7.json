@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "日頭落山了後,伊清氣矣,然後伊通食對聖物,因為彼是伊的食物。",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "了後"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "伊清氣矣"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "然後"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "伊通食"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "伊的食物"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "彼是"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:03.386305528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "土地毋通佇恁污穢⟨את⟩伊的時共⟨את⟩恁吐出來，親像伊吐出⟨את⟩佇恁進前彼個國家一樣。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "吐出來"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "佇恁污穢"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(土地)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "吐出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個國家"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "彼個國家"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "佇恁進前"
+    }
+  ],
+  "timestamp": "2026-09-13T04:41:20.248790490Z",
+  "model": "glm-5.3"
+}

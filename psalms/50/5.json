@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "「替阮招集合我的敬虔人,彼个用祭物割約的人,到雅威遮來。」",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "招集"
+    },
+    {
+      "surface": "לי",
+      "gloss": "替我"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "我的敬虔人"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "割的人"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "用"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:43.401238561Z",
+  "model": "glm-5.3"
+}

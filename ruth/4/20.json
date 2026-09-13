@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "亞米拿達生⟨את⟩拿順；拿順生⟨את⟩撒門。",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "閣亞米拿達"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "拿順"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "拿順"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "閣拿順"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒門"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "撒門"
+    }
+  ],
+  "timestamp": "2026-09-12T05:33:56.076315249Z",
+  "model": "glm-5.3"
+}

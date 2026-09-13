@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 66,
+  "translation": "恁著對以羅欣講:「汝的作為偌爾敬畏人啊!因為汝氣力的旺盛,汝的對敵著假意順服汝。",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "恁著講"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "對以羅欣"
+    },
+    {
+      "surface": "מה",
+      "gloss": "偌爾"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "敬畏人的"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "汝的作為"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "因為……的旺盛"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "汝的氣力"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "著假意順服"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對汝"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "汝的對敵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:30.194419143Z",
+  "model": "glm-5.3"
+}

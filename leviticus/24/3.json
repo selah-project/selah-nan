@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 24:3",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "佇見證的帳幔外口、佇會幕內，亞倫著排列⟨את⟩伊，對傍晚到早起，佇雅威面前不斷；這是恁世世代代永遠的定例。",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "外口"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "帳幔"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "見證的"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "佇…幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "會"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "排列"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "亞倫"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "對傍晚"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "早起"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "不斷"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "恁的世代"
+    }
+  ],
+  "timestamp": "2026-09-13T04:53:41.032796571Z",
+  "model": "glm-5.3"
+}

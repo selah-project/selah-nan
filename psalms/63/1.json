@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 63,
+  "translation": "大衛的詩,佇伊踮猶大曠野的時。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "佇伊…的時"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "踮曠野"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:02.913599281Z",
+  "model": "glm-5.3"
+}

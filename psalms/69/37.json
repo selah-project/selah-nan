@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "閣,伊諸個奴僕的後裔欲承業彼個地;疼伊的名的人欲徛起佇彼個。",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "閣…的後裔"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊諸個奴僕"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "欲承業伊"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "閣疼…的人"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "欲徛起"
+    },
+    {
+      "surface": "בה",
+      "gloss": "佇彼个"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:55.273785287Z",
+  "model": "glm-5.3"
+}

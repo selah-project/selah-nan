@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "嘛,瓦實提王后辦諸女性的筵席,佇亞哈隨魯王的王宮內。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "瓦實提"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "王后"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "辦"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "筵席"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "諸女性"
+    },
+    {
+      "surface": "בית",
+      "gloss": "佇……宮內"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "王室"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "屬佇……王"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "亞哈隨魯"
+    }
+  ],
+  "timestamp": "2026-09-12T05:40:20.485671456Z",
+  "model": "glm-5.3"
+}

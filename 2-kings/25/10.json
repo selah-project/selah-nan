@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "佮⟨את⟩耶路撒冷四圍的城牆,攏總迦勒底人的軍隊,就是佮侍衛長做夥的,攏共伊拆予倒平。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "城牆"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "城牆"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "拆予倒平"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "רב",
+      "gloss": "長"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "侍衛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:26:41.844943526Z",
+  "model": "glm-5.3"
+}

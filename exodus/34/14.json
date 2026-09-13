@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "因為你毋通跪拜別个以勒,因為雅威——忌邪是伊的名,伊是忌邪的以勒。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "別个以勒"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "別个"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "忌邪"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "伊的名"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "忌邪的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:36.667084580Z",
+  "model": "glm-5.3"
+}

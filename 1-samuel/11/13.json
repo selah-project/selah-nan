@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 11:13",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "掃羅講:「今仔日毋通用死刑法辦任何人,因為今仔日雅威佇以色列行了拯救。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "用死刑法辦"
+    },
+    {
+      "surface": "איש",
+      "gloss": "任何人"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇今仔日"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "行"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "拯救"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:40.220706809Z",
+  "model": "glm-5.3"
+}

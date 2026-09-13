@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "帷仔院的長一百肘,闊五十乘五十,懸五肘,是撚過的幼苧麻,𪜶的座是銅。",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "帷仔院⟨的⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "用肘"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "佮闊"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "乘五十"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "佮懸"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "五"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "שש",
+      "gloss": "幼苧麻"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "撚過的"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "佮𪜶的座"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:37.523979949Z",
+  "model": "glm-5.3"
+}

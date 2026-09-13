@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "雅威就用好話、安慰的話應答⟨את⟩彼个佇我內面講話的天使。",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "應答"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个天使"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "彼个天使"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "בי",
+      "gloss": "佇我內面"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "好"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "安慰"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:39.065408814Z",
+  "model": "glm-5.3"
+}

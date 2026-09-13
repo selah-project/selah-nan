@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "雅威拆破列國的計謀,互萬民的打算歸無效。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "拆破"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "互…歸無效"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "打算"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:56.535024916Z",
+  "model": "glm-5.3"
+}

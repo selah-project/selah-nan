@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "希西家看見西拿基立已經來到,伊的面向戰爭,對耶路撒冷。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "כי",
+      "gloss": "已經"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "西拿基立"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "向戰爭"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-13T04:28:43.083218829Z",
+  "model": "glm-5.3"
+}

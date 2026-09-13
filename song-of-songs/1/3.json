@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "為著你芳油的氣味好看,你的名親像傾流出來的油,所以少女疼你。",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "為著…氣味"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "你芳油"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "好看"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "傾流出來的"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "少女"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "疼你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:16.097470750Z",
+  "model": "glm-5.3"
+}

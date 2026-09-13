@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "以色列的子兒紮營佇吉甲,佇彼個月第十四日下晡,佇耶利哥的草原守⟨את⟩派撒(逾越)。",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "紮營"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "佇吉甲"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "守"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "派撒"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "派撒"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "佇十四"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "日"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "對彼個月"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "佇下晡"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "佇草原"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "耶利哥"
+    }
+  ],
+  "timestamp": "2026-09-12T02:20:29.196242684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你欲對⟨את⟩以色列人的子兒收⟨את⟩遮贖的銀,閣用⟨את⟩伊佇相會帳棚的工課;彼个欲做以色列人的子兒佇雅威面前的記念,為著贖恁的性命。",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "閣你欲收"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "遮贖的銀"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "遮贖"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "閣你欲用"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "遮贖的銀"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "工課"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相會"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "閣彼个欲做"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "予…的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "做記念"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "為著贖"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "恁的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:23.675101375Z",
+  "model": "glm-5.3"
+}

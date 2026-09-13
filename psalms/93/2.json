@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 93,
+  "translation": "對彼時起,恁的寶座就已經立在;對恆古,恁就存在。",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "就已經立在"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "恁的寶座"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "對彼時起"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "對恆古"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "恁就存在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:12.935398289Z",
+  "model": "glm-5.3"
+}

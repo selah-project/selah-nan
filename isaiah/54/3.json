@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "因為你欲對正手爿佮倒手爿衝破出去,你的後代欲承受列國,閣欲予荒廢的城有人蹛。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "正手爿"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "佮倒手爿"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "你欲……衝破出去"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "佮你的後代"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "欲承受"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "佮城"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "荒廢的"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "欲予……有人蹛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:41.762938351Z",
+  "model": "glm-5.3"
+}

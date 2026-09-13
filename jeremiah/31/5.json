@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 31:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "閣你欲閣栽葡萄園佇撒馬利亞的山;栽的人栽落,就會當提來享用。",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "你欲栽"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "葡萄園"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "佇……的山"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "栽(的人)栽"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "栽的人"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "就會當提來享用"
+    }
+  ],
+  "timestamp": "2026-09-12T03:57:39.070846051Z",
+  "model": "glm-5.3"
+}

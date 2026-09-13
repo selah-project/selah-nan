@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 40:23",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "閣內院有門,對北方的門,嘛對東方的門;伊對門量到門一百肘。",
+  "tokens": [
+    {
+      "surface": "ושער",
+      "gloss": "閣…門"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "通…院"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "內"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "對"
+    },
+    {
+      "surface": "השער",
+      "gloss": "彼個門"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "向北方"
+    },
+    {
+      "surface": "ולקדים",
+      "gloss": "嘛向東方"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "伊量"
+    },
+    {
+      "surface": "משער",
+      "gloss": "對門"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-09-12T04:22:53.834890154Z",
+  "model": "glm-5.3"
+}

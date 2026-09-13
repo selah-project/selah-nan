@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "雅威以羅欣用地上的土塑造⟨את⟩人,閣將活命的氣吹入伊的鼻空內,人就成做一個活的魂。",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "閣…塑造"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "人"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "土"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "閣吹"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "伊的鼻空內"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "氣"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活命的"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就成做"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "一個魂"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:28.004390533Z",
+  "model": "glm-5.3"
+}

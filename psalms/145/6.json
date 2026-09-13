@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "你驚人事蹟的氣力,𪜶欲講;閣你的大,我欲述說。",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "閣…的氣力"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "你驚人事蹟的"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "𪜶欲講"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "閣你的大"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "我欲述說"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:47.995018651Z",
+  "model": "glm-5.3"
+}

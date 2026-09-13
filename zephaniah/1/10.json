@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "彼日會按呢——雅威的神諭：對魚門有哀吼的聲，對第二區有哭嚎，對山丘有大毀壞。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "會按呢"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇彼日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "神諭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "哀吼"
+    },
+    {
+      "surface": "משער",
+      "gloss": "對門"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "魚"
+    },
+    {
+      "surface": "ויללה",
+      "gloss": "佮哭嚎"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "第二區"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "佮毀壞"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "מהגבעות",
+      "gloss": "對山丘"
+    }
+  ],
+  "timestamp": "2026-09-12T04:37:10.714225144Z",
+  "model": "glm-5.3"
+}

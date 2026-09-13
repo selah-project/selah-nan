@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "彼個放⟨את⟩山羊去阿匝責勒(替罪的羊)的,欲洗伊的衫,佮洗⟨את⟩伊的身軀佇水裡,了後伊才通入去營內。",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "彼個放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "山羊"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "去阿匝責勒"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "欲洗"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "佮洗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的身軀"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的身軀"
+    },
+    {
+      "surface": "במים",
+      "gloss": "佇水裡"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "才"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "通入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "營內"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:45.334176677Z",
+  "model": "glm-5.3"
+}

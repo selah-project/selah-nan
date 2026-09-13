@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我,佇公義欲看你的面;佇醒起的時,欲食飽你的形像。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "佇公義"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "看"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "食飽"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "佇醒起的時"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "你的形像"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:37.468913898Z",
+  "model": "glm-5.3"
+}

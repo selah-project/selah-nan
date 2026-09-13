@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣互一切佇你避難的人歡喜,永遠歡喜唱歌;你掩庇𪜶,互疼你的人的名的人佇你內面歡喜跳。",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "閣互……歡喜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "避難的人"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "歡喜唱歌"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "閣你掩庇"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "閣歡喜跳"
+    },
+    {
+      "surface": "בך",
+      "gloss": "佇你"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "疼……的人"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:34.822909663Z",
+  "model": "glm-5.3"
+}

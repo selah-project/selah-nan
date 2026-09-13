@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 3:1",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "諸個是大衛佇希伯崙生的眾子:頭胎生的暗嫩,對亞希暖──彼個耶斯列人;第二個但以理,對亞比該──彼個迦密人。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "諸個"
+    },
+    {
+      "surface": "היו",
+      "gloss": "是"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾子"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "佇希伯崙"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "頭胎生的"
+    },
+    {
+      "surface": "אמנן",
+      "gloss": "暗嫩"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "對亞希暖"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "彼個耶斯列人"
+    },
+    {
+      "surface": "שני",
+      "gloss": "第二個"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "לאביגיל",
+      "gloss": "對亞比該"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "彼個迦密人"
+    }
+  ],
+  "timestamp": "2026-09-12T06:00:30.580731233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "妳的赤身會露出來,妳的見誚嘛會予人看見;我要討報應,我毋容讓啥物人。",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "會露出來"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "妳的赤身"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "會予人看見"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "妳的見誚"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "報應"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "我要討"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "我毋"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "容讓"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "啥物人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:53.362564588Z",
+  "model": "glm-5.3"
+}

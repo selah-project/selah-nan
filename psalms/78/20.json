@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "你看,伊拍擊磐石,水就流出來,溪流沖瀉出;伊嘛豈會當賞餅?伊會為伊的百姓備辦肉無?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "你看"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "拍擊"
+    },
+    {
+      "surface": "צור",
+      "gloss": "磐石"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "流出來"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "溪流"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "沖瀉出"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "嘛豈"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "會當"
+    },
+    {
+      "surface": "תת",
+      "gloss": "賞"
+    },
+    {
+      "surface": "אם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "為伊的百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:16.453778709Z",
+  "model": "glm-5.3"
+}

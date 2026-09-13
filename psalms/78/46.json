@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊共𪜶的收成留互毛蟲,共𪜶的辛勞留互草蜢。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "伊共……留互"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "毛蟲"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "𪜶的收成"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "𪜶的辛勞"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "草蜢"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:47.938326820Z",
+  "model": "glm-5.3"
+}

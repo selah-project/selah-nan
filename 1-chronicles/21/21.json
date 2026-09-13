@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "大衛來到亞珥南遐,亞珥南啉看,看見⟨את⟩大衛,就對禾埕出來,向大衛跪拜,面伏落土。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "亞珥南"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "啉看"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "亞珥南"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "禾埕"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "跪拜"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "向大衛"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "面"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "落土"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:29.872826121Z",
+  "model": "glm-5.3"
+}

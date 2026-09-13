@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "佮伊的阿姊、守貞的查某囝、親近伊的、猶毋捌嫁人的,為著伊才會使無清氣。",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "佮伊的阿姊"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "守貞的查某囝"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "親近的"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋捌"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨有⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "嫁人"
+    },
+    {
+      "surface": "לה",
+      "gloss": "為著伊"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "才會使無清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:23.137558137Z",
+  "model": "glm-5.3"
+}

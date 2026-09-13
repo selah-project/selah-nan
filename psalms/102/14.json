@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "你欲起來,憐憫錫安,因為疼惜伊的時陣到矣,因為指定的期已經到。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "欲起來"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "憐憫"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "עת",
+      "gloss": "時陣"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "疼惜伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "בא",
+      "gloss": "到矣"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "指定的期"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:35.353302064Z",
+  "model": "glm-5.3"
+}

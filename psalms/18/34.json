@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 18:34",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "伊互我的腳親像鹿仔的腳,閣牽我徛佇高的所在。",
+  "tokens": [
+    {
+      "surface": "משוה",
+      "gloss": "互……親像"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "我的腳"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "鹿仔"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "高的所在"
+    },
+    {
+      "surface": "יעמידני",
+      "gloss": "牽我徛"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:41.264106380Z",
+  "model": "glm-5.3"
+}

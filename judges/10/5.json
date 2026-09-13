@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "雅伊爾死矣,埋葬佇卡捫。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "雅伊爾"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "佇卡捫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:26:01.696715534Z",
+  "model": "glm-5.3"
+}

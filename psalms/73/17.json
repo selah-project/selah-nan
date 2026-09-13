@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "一直到我入去以勒的聖所,我才明白𪜶的結局。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "我入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "聖所"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "我明白"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "𪜶的結局"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:29.594207363Z",
+  "model": "glm-5.3"
+}

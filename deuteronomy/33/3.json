@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "實在，伊疼百姓；伊的聖者攏佇你的手裡，𪜶坐踮你的腳下，逐个攏承受你的話。",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "實在"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "伊的聖者"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇你的手裡"
+    },
+    {
+      "surface": "והם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "坐踮"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "你的腳下"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "承受"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T02:18:55.517893806Z",
+  "model": "glm-5.3"
+}

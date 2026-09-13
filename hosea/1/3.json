@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊就去娶⟨את⟩歌篾——底比林的查某囝;伊懷胎,給伊生一個子。",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "伊就去"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "歌篾"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "歌篾"
+    },
+    {
+      "surface": "בת",
+      "gloss": "查某囝"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "底比林"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "伊懷胎"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "伊生"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "בן",
+      "gloss": "一個子"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:33.296309652Z",
+  "model": "glm-5.3"
+}

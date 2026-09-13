@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 23:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "閣三分之一欲徛佇王的宮,三分之一佇地基門,所有的百姓攏欲佇雅威殿的庭院。",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "閣三分之一"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "佇…的宮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "三分之一"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "佇…門"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "地基"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "佇…的庭院"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:27.128986908Z",
+  "model": "glm-5.3"
+}

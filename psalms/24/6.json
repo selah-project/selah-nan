@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "這是尋求伊的世代,尋求恁面的,雅各。細拉。",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "尋求伊"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "尋求……的人"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "恁面"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:14.772423968Z",
+  "model": "glm-5.3"
+}

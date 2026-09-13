@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我欲放⟨את⟩以色列囝仔的屍體佇𪜶的偶像面前,閣欲撒開⟨את⟩恁的骨頭佇恁的祭壇四箍圍。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我欲放"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列囝仔的屍體"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "屍體"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "𪜶的偶像"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "閣欲撒開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的骨頭"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "恁的骨頭"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "四箍圍"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "恁的祭壇"
+    }
+  ],
+  "timestamp": "2026-09-12T04:09:01.567147874Z",
+  "model": "glm-5.3"
+}

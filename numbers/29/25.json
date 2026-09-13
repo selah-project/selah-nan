@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 29:25",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "閣一隻山羊公做贖罪祭,佇逐日的燔祭以外,閣有伊的素祭佮伊的奠祭。",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "閣一隻山羊公"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "贖罪祭"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "佇……以外"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "燔祭"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "逐日的"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "伊的素祭"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "佮伊的奠祭"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:44.667624117Z",
+  "model": "glm-5.3"
+}

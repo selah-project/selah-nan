@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "倘若有一个寄居的佮⟨את⟩恁住逗留佇恁的土地,恁毋通欺負⟨את⟩伊。",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "住逗留做寄居的"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩佮恁"
+    },
+    {
+      "surface": "גר",
+      "gloss": "寄居的"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "佇恁的土地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "欺負"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:08.513498545Z",
+  "model": "glm-5.3"
+}

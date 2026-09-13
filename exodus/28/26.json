@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣你著做兩个金圈仔,共⟨את⟩下佇胸牌的兩个角仔、伊的邊仔,彼个所在抵著以弗得的彼爿,向內。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "閣你著做"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "圈仔"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "閣共下"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "in 兩个金圈仔"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "שני",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "角仔"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "伊的邊仔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אל",
+      "gloss": "抵著"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "彼爿"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "向內"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:33.401712889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我——我啉叫祢,因為祢欲應我,以勒啊;總是彼个「祢」愛寫做「你」:我啉叫你,因為你欲應我,以勒啊;傾你的耳向到我遮,聽我的話。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "我啉叫你"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "你欲應我"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "הט",
+      "gloss": "傾"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "你的耳"
+    },
+    {
+      "surface": "לי",
+      "gloss": "向到我"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我的話"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:37.233220663Z",
+  "model": "glm-5.3"
+}

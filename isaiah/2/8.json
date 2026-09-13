@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "伊的土地充滿偶像;𪜶對家己的手所做的落拜,對家己的手指所做的。",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "伊的土地"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "對…所做的"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "家己的手"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "落拜"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "對…彼個"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "家己的手指"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:12.937357572Z",
+  "model": "glm-5.3"
+}

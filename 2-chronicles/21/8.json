@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "佇伊的日子,以東對猶大的手下反叛,𪜶家己立一個王佇𪜶頂面。",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "佇伊的日子"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "反叛"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "以東"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "對…下面"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "𪜶立…做王"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "佇𪜶頂面"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:31.871552275Z",
+  "model": "glm-5.3"
+}

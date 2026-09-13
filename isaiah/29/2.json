@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 29:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "我欲互亞利伊勒受困迫;伊欲變做哀哭佮悲傷,伊欲對我親像亞利伊勒。",
+  "tokens": [
+    {
+      "surface": "והציקותי",
+      "gloss": "我欲互…受困迫"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "亞利伊勒"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "伊欲變做"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "哀哭"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "悲傷"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "伊欲變做"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "כאריאל",
+      "gloss": "親像亞利伊勒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:22.880687079Z",
+  "model": "glm-5.3"
+}

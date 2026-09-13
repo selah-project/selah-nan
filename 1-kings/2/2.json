@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我行佇全地的路;你著勇敢,做一個男子漢。",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇…的路"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "你著勇敢"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "做"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "一個男子漢"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:35.424118047Z",
+  "model": "glm-5.3"
+}

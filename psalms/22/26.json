@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "對⟨את⟩你,我的讚美徛佇大會;我的願,我欲還,佇敬畏伊的人面前。",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "對⟨את⟩你",
+      "marks": "你"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "我的讚美"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "佇大會"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大的"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "我的願"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "我欲還"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "敬畏伊的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:00.889094355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "佇凡人的苦楚中間,𪜶無;佮人間嘛袂受擊打。",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "佇…的苦楚中間"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "凡人"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "𪜶無"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人間"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "受擊打"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:37.176732766Z",
+  "model": "glm-5.3"
+}

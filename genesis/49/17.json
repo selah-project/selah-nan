@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 49,
+  "translation": "但欲做蛇佇路裡,做角蝮佇路徑,咬馬的跤後,予騎伊的人倒頭殕。",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "欲做"
+    },
+    {
+      "surface": "דן",
+      "gloss": "但"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "角蝮"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "路徑"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "彼個咬"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "跤後"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "馬"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "就倒"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "騎伊的人"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "倒頭殕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:26:20.845397422Z",
+  "model": "glm-5.3"
+}

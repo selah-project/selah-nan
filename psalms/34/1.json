@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "大衛的,佇伊改換⟨את⟩伊的滋味佇亞比米勒面前的時,伊趕伊走,伊就去。",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "大衛的"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "佇伊改換…的時"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的滋味"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "伊的滋味"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "亞比米勒"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "伊趕伊走"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "伊就去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:22.947662298Z",
+  "model": "glm-5.3"
+}

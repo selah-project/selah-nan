@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "米甸的手壓制以色列;因為米甸的緣故,以色列的子兒家己佇山內做穴仔⟨את⟩彼个湠仔(掩蔽的所在)佮⟨את⟩山空、佮⟨את⟩堡壘。",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "壓制"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "因為…的緣故"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "米甸"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "家己"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "湠仔"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "湠仔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "佇"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "山內"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "山空"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "山空"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "堡壘"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "堡壘"
+    }
+  ],
+  "timestamp": "2026-09-12T02:31:22.804221002Z",
+  "model": "glm-5.3"
+}

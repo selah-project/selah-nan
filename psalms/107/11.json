@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "因為𪜶悖逆以勒的話,閣看輕以里昂的計謀。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "𪜶悖逆"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "…的話"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "閣…的計謀"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "以里昂"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "看輕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:46.063039902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "約押,洗魯雅的囝,統領軍隊;約沙法,亞希律的囝,做史官。",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "約押"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "洗魯雅"
+    },
+    {
+      "surface": "על",
+      "gloss": "統領"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "בן",
+      "gloss": "囝"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "亞希律"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "史官"
+    }
+  ],
+  "timestamp": "2026-09-12T02:51:57.245201756Z",
+  "model": "glm-5.3"
+}

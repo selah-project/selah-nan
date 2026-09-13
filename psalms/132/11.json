@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "雅威用真實向大衛咒誓,伊袂對伊收回:「對你腹肚的果子,我欲安置寶座互你。」",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "咒誓"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "向大衛"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "用真實"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "收回"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "對…的果子"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "你腹肚"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "安置"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "寶座"
+    },
+    {
+      "surface": "לך",
+      "gloss": "互你"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:03.907651995Z",
+  "model": "glm-5.3"
+}

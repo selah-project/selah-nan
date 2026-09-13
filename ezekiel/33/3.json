@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "伊看見⟨את⟩彼把刀劍來到彼个地,就吹羊角,閣警戒⟨את⟩彼个百姓,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "伊看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼把刀劍"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "彼把刀劍"
+    },
+    {
+      "surface": "באה",
+      "gloss": "來到"
+    },
+    {
+      "surface": "על",
+      "gloss": "臨到"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼个地"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "伊就吹"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "羊角"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "閣警戒"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个百姓"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼个百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T04:20:22.532859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 2:11",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "豈有列國換𪜶的神明?──其實彼个毋是神明;獨獨我的人民換伊的榮光,去換彼个無路用的。",
+  "tokens": [
+    {
+      "surface": "ההימיר",
+      "gloss": "豈有…換"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "列國"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "其實𪜶"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "神明"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "獨獨我的人民"
+    },
+    {
+      "surface": "המיר",
+      "gloss": "換"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "彼个…無"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "路用"
+    }
+  ],
+  "timestamp": "2026-09-12T03:45:54.521147213Z",
+  "model": "glm-5.3"
+}

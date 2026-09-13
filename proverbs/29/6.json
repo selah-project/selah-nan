@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "歹人所犯的罪過是伊的家私,毋拘義人欲唱歌歡喜。",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "佇罪過"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "רע",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "家私(陷阱)"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "毋拘義人"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "欲唱歌"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "佮歡喜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:10.947989186Z",
+  "model": "glm-5.3"
+}

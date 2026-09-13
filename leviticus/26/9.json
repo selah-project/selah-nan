@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我欲向恁看顧,予恁結果子⟨את⟩,閣予恁加添⟨את⟩,閣我欲豎立我的約⟨את⟩⟨את⟩ 佮恁。",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "我欲向恁看顧"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "向恁"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "予恁結果子"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "予恁結果子(恁做物件)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "閣予恁加添"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "予恁加添(恁做物件)"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "我欲豎立"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的約"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 佮恁"
+    }
+  ],
+  "timestamp": "2026-09-13T06:34:43.715788083Z",
+  "model": "glm-5.3"
+}

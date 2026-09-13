@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "佇猶大,是以利戶,對大衛的兄弟中間;佇以薩迦,是暗利,米迦勒的後生。",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "佇猶大"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利戶"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "對…的兄弟中間"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "佇以薩迦"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "暗利"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的後生"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "米迦勒"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:58.703681669Z",
+  "model": "glm-5.3"
+}

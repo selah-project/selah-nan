@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "因為我有講:赫瑟德(慈愛)欲建立到永遠;諸天欲直立祢的信實佇𪜶中間。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我有講"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德(慈愛)"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "欲建立"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "欲直立"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "祢的信實"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "佇𪜶中間"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:32.114046227Z",
+  "model": "glm-5.3"
+}

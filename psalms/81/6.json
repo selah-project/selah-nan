@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "伊佇約瑟設立這個做證據,佇伊出去米茲拉因(埃及)地的時。一個我毋捌知的語言,我聽見。",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "證據"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "佇約瑟"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "設立"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "佇伊出去的時"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "語言"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "捌知"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "我聽見"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:22.102754732Z",
+  "model": "glm-5.3"
+}

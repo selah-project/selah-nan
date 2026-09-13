@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "亞哈聽見⟨את⟩這些話,就裂開伊的衫,用麻布下佇伊的身軀,禁食,睏佇麻布頂,閣慢慢行。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "當……聽見"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這些話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "這些話"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "就裂開"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "用……下"
+    },
+    {
+      "surface": "שק",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "伊的身軀"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "禁食"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "睏"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "佇麻布頂"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "אט",
+      "gloss": "慢慢"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:39.745187123Z",
+  "model": "glm-5.3"
+}

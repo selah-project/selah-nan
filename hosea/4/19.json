@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "風用伊的翼膊牢⟨את⟩伊;𪜶欲對𪜶的祭物見笑矣。",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "搏牢"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "用伊的翼"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "𪜶欲見笑矣"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "對𪜶的祭物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:26:15.461651115Z",
+  "model": "glm-5.3"
+}

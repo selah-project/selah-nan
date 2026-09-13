@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "安呢,查某囝仔的老父佮老母愛提⟨את⟩ 查某囝仔童貞的憑據,捧去予城裡的長老,佇城門遐。",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "安呢愛提"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "老父"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "查某囝仔的"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "佮老母"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "捧出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "查某囝仔童貞的憑據"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "童貞的憑據"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "查某囝仔"
+    },
+    {
+      "surface": "אל",
+      "gloss": "予"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "長老"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "城裡的"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "佇城門遐"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:53.516474974Z",
+  "model": "glm-5.3"
+}

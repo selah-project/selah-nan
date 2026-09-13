@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "對諸天伊互你聽見伊的聲⟨את⟩,欲教示你;閣佇地上伊互你看見伊的大火⟨את⟩,你嘛聽見伊的話,對彼个火的中間。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "互你聽見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的聲"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "欲教示你"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "互你看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的大火"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "伊的火"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "大的"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽見"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "對…中間"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-09-12T02:09:01.415754977Z",
+  "model": "glm-5.3"
+}

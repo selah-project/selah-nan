@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "長老啊,恁著聽這个,地上所有的居民,恁嘛傾耳來聽:佇恁的日子,抑是佇恁祖先的日子,敢曾發生過這款代誌?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "長老"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "傾耳來聽"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "敢曾發生過"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這款代誌"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "佇恁的日子"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "恁祖先"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:17.187070577Z",
+  "model": "glm-5.3"
+}

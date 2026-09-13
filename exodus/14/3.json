@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "法老會對以色列的子孫按呢講:「𪜶佇此地內迷惑去,曠野共𪜶關閉矣。」",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "對…子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "迷惑"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇此地"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "關閉"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "共𪜶"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T01:31:22.501765632Z",
+  "model": "glm-5.3"
+}

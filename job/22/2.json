@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "豈有利益予以勒,一个人?一个明智的人豈有利益抵⟨佇伊⟩?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "豈…予以勒"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "有利益"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "一个人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "豈"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "有利益"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "抵佇伊"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "明智的人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:26:40.077516551Z",
+  "model": "glm-5.3"
+}

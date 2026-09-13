@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 23:31",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "汝行汝姊小妹的路,所以我就欲摃伊的杯佇汝的手。",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "…的路"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "汝小妹"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "汝行"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "我就欲摃"
+    },
+    {
+      "surface": "כוסה",
+      "gloss": "伊的杯"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "佇汝的手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:03.357395670Z",
+  "model": "glm-5.3"
+}

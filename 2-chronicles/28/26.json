@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 28:26",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "伊其餘的事跡佮伊一切的行做,頭前的佮後尾的,看啊,攏記載佇猶大佮以色列諸王的冊上。",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "其餘的"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "伊的事跡"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮一切"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "伊的行做"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "頭前的"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "佮後尾的"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "記載"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……上"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "冊"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王的"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "佮以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T06:16:13.682868843Z",
+  "model": "glm-5.3"
+}

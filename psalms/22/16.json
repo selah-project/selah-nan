@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我的力氣親像瓦片乾去矣,我的喙脡黏佇我的頷仔頦,你安置我到死的土粉。",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "乾去矣"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "親像瓦片"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "我的力氣"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "我的喙脡"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "黏佇"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "我的頷仔頦"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "到…的土粉"
+    },
+    {
+      "surface": "מות",
+      "gloss": "死"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "你安置我"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:51.826602102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "我就放𪜶去照𪜶心內的固執,𪜶就行佇家己的計謀內。",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "我就放𪜶去"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "照…的固執"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "𪜶心內"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "𪜶就行"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "佇家己的計謀內"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.176414429Z",
+  "model": "glm-5.3"
+}

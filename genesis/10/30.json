@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "𪜶徛起的地是對米沙開始,去到西法,東邊的山。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "是"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "𪜶徛起的地"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "對米沙"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "去到"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "西法"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "東邊的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:09.120963787Z",
+  "model": "glm-5.3"
+}

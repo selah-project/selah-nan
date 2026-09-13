@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "「這個月欲做恁月頭的頭,伊是恁的頭一個月,是彼年的月。",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "這個月"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "頭"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "諸月"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "頭一個"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "屬諸月"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "彼年"
+    }
+  ],
+  "timestamp": "2026-09-12T01:30:11.737269111Z",
+  "model": "glm-5.3"
+}

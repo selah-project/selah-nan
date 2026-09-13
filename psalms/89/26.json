@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "我欲設伊的手佇海面,伊的正手佇諸個河川。",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "我欲設"
+    },
+    {
+      "surface": "בים",
+      "gloss": "佇海"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "佇諸個河川"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "伊的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:56.885253280Z",
+  "model": "glm-5.3"
+}

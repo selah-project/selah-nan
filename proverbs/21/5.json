@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "殷勤人的計謀確實致到有賰,獨獨急躁的攏確實致到欠缺。",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "殷勤人的"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確實"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "致到有賰"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "獨獨急躁的攏"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "急躁"
+    },
+    {
+      "surface": "אך",
+      "gloss": "確實"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "致到欠缺"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:25.328532760Z",
+  "model": "glm-5.3"
+}

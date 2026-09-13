@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "智慧人的話佇安靜中受聽,比佇戇人中央掌權者的嚷聲閣較有路用。",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "話"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "智慧人"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "佇安靜中"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "受聽"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "比……的嚷聲"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "掌權者"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "佇戇人中央"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:40.755742696Z",
+  "model": "glm-5.3"
+}

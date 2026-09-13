@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣若有男人娶 ⟨את⟩ 查某人,閣 ⟨את⟩ 伊的老母,這是邪惡的事;人欲用火燒 ⟨את⟩ 伊佮 ⟨את⟩ 𪜶,恁中間就袂再有邪惡的事。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "閣若有男人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יקח",
+      "gloss": "娶"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "查某人"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "查某人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣 ⟨את⟩",
+      "marks": "伊的老母"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "伊的老母"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "邪惡的事"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "燒"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ 伊",
+      "marks": "彼个男人"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "佮 ⟨את⟩ 𪜶",
+      "marks": "查某人佮伊的老母"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就袂再有"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "זמה",
+      "gloss": "邪惡的事"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "恁中間"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:07.194372043Z",
+  "model": "glm-5.3"
+}

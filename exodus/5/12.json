@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "對按呢,彼的百姓就散開遍米茲拉因全境,去拾草稈來替代稻草。",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "就散開"
+    },
+    {
+      "surface": "העם",
+      "gloss": "彼的百姓"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "遍…全"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "境"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "去拾"
+    },
+    {
+      "surface": "קש",
+      "gloss": "草稈"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "來替代稻草"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:35.386370571Z",
+  "model": "glm-5.3"
+}

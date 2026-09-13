@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 95,
+  "translation": "恁的心毋通剉硬,親像佇米利巴,親像佇曠野瑪撒彼日。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "剉硬"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "恁的心"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "親像佇米利巴"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "親像彼日"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "瑪撒"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:05.474432127Z",
+  "model": "glm-5.3"
+}

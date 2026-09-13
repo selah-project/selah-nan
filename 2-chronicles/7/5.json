@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "所羅門王獻⟨את⟩牛的祭牲,二十閣兩千隻,閣羊一百閣二十千隻;王佮全體的百姓就行奉獻禮⟨את⟩以羅欣的殿。",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "就獻"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "牛的祭牲"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭牲"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "牛"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "閣兩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "閣羊"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "閣二十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "就行奉獻禮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的殿"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮全體"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    }
+  ],
+  "timestamp": "2026-09-12T06:12:36.229647987Z",
+  "model": "glm-5.3"
+}

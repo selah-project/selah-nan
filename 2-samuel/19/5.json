@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "王掩⟨את⟩伊的面,王出大聲吼:我的囝啊,押沙龍!押沙龍,我的囝,我的囝啊!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "掩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的面"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "吼"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "大"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的囝"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的囝"
+    },
+    {
+      "surface": "בני",
+      "gloss": "我的囝"
+    }
+  ],
+  "timestamp": "2026-09-12T02:59:06.232654390Z",
+  "model": "glm-5.3"
+}

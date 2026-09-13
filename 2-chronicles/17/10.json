@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "雅威的驚惶落到佇四圍諸國一切的王國頂,𪜶就無佮約沙法相刣。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "就發生"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "驚惶"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "落佇…頂"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "…的王國"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "諸國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "𪜶相刣"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    }
+  ],
+  "timestamp": "2026-09-12T06:36:25.813743140Z",
+  "model": "glm-5.3"
+}

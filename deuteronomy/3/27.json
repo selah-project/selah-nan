@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 3:27",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "爬上毘斯迦的山頂,舉你的目睭向西、向北、向南、向東,用你的目睭看,因為你袂過⟨את⟩這個約但河。",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "爬上去"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "山頂"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "毘斯迦"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "佮舉"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "向西"
+    },
+    {
+      "surface": "וצפנה",
+      "gloss": "佮向北"
+    },
+    {
+      "surface": "ותימנה",
+      "gloss": "佮向南"
+    },
+    {
+      "surface": "ומזרחה",
+      "gloss": "佮向東"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "佮看"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "用目睭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "過去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這個約但河"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "約但河"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    }
+  ],
+  "timestamp": "2026-09-12T02:08:00.490373254Z",
+  "model": "glm-5.3"
+}

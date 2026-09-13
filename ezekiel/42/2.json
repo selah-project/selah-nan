@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "佇進前長一百肘彼爿,門口向北,闊五十肘。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "פני",
+      "gloss": "進前"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "長"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "門口"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "北爿"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "閣彼个闊"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    }
+  ],
+  "timestamp": "2026-09-12T04:23:34.957510721Z",
+  "model": "glm-5.3"
+}

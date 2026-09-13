@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "願雅威、恁祖公的以羅欣,佇恁身上加上親像恁這呢濟一千倍,閣照伊對恁講過的祝福⟨את⟩恁。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "恁祖公"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "加上"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "佇恁身上"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "親像恁這呢濟"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "倍"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "閣祝福"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "講過的"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "對恁"
+    }
+  ],
+  "timestamp": "2026-09-12T02:06:35.523118718Z",
+  "model": "glm-5.3"
+}

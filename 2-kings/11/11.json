@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "衛兵徛起,逐人攑家己的兵器佇手內,對殿的正爿爿到殿的倒爿爿,向祭壇佮殿,佇王的四周圍。",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "就徛起"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "衛兵"
+    },
+    {
+      "surface": "איש",
+      "gloss": "逐人"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "佮伊的兵器"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇手內"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "對…的肩頭"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "正爿的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "…的肩頭"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "倒爿的"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "向祭壇"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "佮向殿"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四圍"
+    }
+  ],
+  "timestamp": "2026-09-12T03:20:51.798869365Z",
+  "model": "glm-5.3"
+}

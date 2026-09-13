@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "伊講：「這是彼个邪惡。」伊射 ⟨את⟩ 伊入去伊法中間，閣射 ⟨את⟩ 彼个鉛磐落去伊的喙內。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "彼个邪惡"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "伊射"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊（彼个查某人）"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入去"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "中間"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "伊法"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "閣射"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个鉛磐"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "磐"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "鉛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "落去"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "伊的喙"
+    }
+  ],
+  "timestamp": "2026-09-12T04:39:09.667139257Z",
+  "model": "glm-5.3"
+}

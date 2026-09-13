@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "我欲對列國提⟨את⟩恁出來,對天下所有的國家收集⟨את⟩恁,導⟨את⟩恁轉來恁的土地。",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "我欲提出來"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對……出來"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "我欲收集"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "對所有的"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "國家"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "我欲導"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "אל",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "恁的土地"
+    }
+  ],
+  "timestamp": "2026-09-12T04:21:44.566413098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 23:8",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "恁著獻火祭予雅威,七日的久;佇第七日,有聖的聚會;攏總勞碌的工課,恁毋通做。",
+  "tokens": [
+    {
+      "surface": "והקרבתם",
+      "gloss": "恁著獻"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "聚會"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖的"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "工課"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "勞碌的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "做"
+    }
+  ],
+  "timestamp": "2026-09-12T01:48:55.687189715Z",
+  "model": "glm-5.3"
+}

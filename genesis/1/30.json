@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣對地上一切的活物,對天下一切的鳥,對一切佇地上爬行、內底有活命的——⟨את⟩一切的青菜草仔做𪜶的食物。」就按呢矣。",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "閣對一切"
+    },
+    {
+      "surface": "חית",
+      "gloss": "活物"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "閣對一切"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "鳥"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "閣對一切"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "爬行"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "בו",
+      "gloss": "內底"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "活命"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "活的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切的青菜草仔"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "青菜"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "草仔"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "做食物"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:08:49.470454039Z",
+  "model": "glm-5.3"
+}

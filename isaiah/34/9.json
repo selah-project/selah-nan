@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "伊的溪谷欲反轉做瀝青,伊的塗粉做硫磺,伊的地欲成做燒咧燒的瀝青。",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "欲反轉做"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "伊的溪谷"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "瀝青"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "伊的塗粉"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "硫磺"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "欲成做"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "伊的地"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "瀝青"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "燒咧燒的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:41.062891626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 100,
+  "translation": "恁著用歡喜服事⟨את⟩雅威,用咏讚入來到伊面前。",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "服事"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "用歡喜"
+    },
+    {
+      "surface": "באו",
+      "gloss": "入來"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "到伊面前"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "用咏讚"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:14.580043314Z",
+  "model": "glm-5.3"
+}

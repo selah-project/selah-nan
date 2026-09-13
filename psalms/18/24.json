@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "我佮伊做伙是完全的,我也保守家己,離開我的罪惡。",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "我也做"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "完全的"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "佮伊做伙"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "我也保守家己"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "離開我的罪惡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:45:15.528768191Z",
+  "model": "glm-5.3"
+}

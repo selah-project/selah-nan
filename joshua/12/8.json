@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "佇山地、佇低坪、佇亞拉巴、佇山坡、佇曠野、佇南部:赫人、亞摩利人、閣迦南人、比利洗人、希未人、閣耶布斯人。",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "佇山地"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "閣佇低坪"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "閣佇亞拉巴"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "閣佇山坡"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "閣佇曠野"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "閣佇南部"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "赫人"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "亞摩利人"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "閣迦南人"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "比利洗人"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "希未人"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "閣耶布斯人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:24:31.494117641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "𪜶向我哮叫:我的以羅欣啊,阮——以色列——識你!",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "向我"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "𪜶哮叫"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "阮識你"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:38.708039239Z",
+  "model": "glm-5.3"
+}

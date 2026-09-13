@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 36:7",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "閣雅威殿裡的器具,尼布甲尼撒帶去巴比倫,下𪜶佇伊的宮殿,佇巴比倫。",
+  "tokens": [
+    {
+      "surface": "ומכלי",
+      "gloss": "閣…的器具"
+    },
+    {
+      "surface": "בית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "帶去"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "去巴比倫"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "下𪜶"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "佇伊的宮殿"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "佇巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:12.626856Z",
+  "model": "glm-5.3"
+}

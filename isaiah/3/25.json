@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "恁的查埔人欲佇刀劍倒落去,恁的勇士嘛欲佇戰爭倒落去。",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "恁的查埔人"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "佇刀劍"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "倒落去"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "恁的勇士"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "佇戰爭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:56.392201261Z",
+  "model": "glm-5.3"
+}

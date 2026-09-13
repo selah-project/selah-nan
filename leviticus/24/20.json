@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "骨折換骨折,目睭換目睭,喙齒換喙齒;親像伊放傷痕佇人的身上,就按呢愛佇伊的身上還。",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "骨折"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "換"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "骨折"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "換"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "שן",
+      "gloss": "喙齒"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "換"
+    },
+    {
+      "surface": "שן",
+      "gloss": "喙齒"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "親像"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "放"
+    },
+    {
+      "surface": "מום",
+      "gloss": "傷痕"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "佇人身上"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "愛還"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊的身上"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:31.805353206Z",
+  "model": "glm-5.3"
+}

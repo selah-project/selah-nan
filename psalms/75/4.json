@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 75,
+  "translation": "地佮伊一切的居民攏咧熔化,我——是我扶正伊的柱仔。」細拉。",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "攏咧熔化"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佇一切的"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "伊的居民"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "是我"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "扶正"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "伊的柱仔"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "細拉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:07.602321591Z",
+  "model": "glm-5.3"
+}

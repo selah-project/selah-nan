@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "歹人的厝會受毀滅,正直人的帳棚會開花。",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "受毀滅"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "帳棚"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "正直人"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "開花"
+    }
+  ],
+  "timestamp": "2026-09-12T05:13:34.595056241Z",
+  "model": "glm-5.3"
+}

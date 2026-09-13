@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "伊掀開⟨את⟩猶大的掩罩;佇彼日,你覷向森林之家的兵器。",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "伊掀開"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "猶大的掩罩"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "掩罩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "你覷向"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "兵器"
+    },
+    {
+      "surface": "בית",
+      "gloss": "之家"
+    },
+    {
+      "surface": "היער",
+      "gloss": "森林"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:54.248880961Z",
+  "model": "glm-5.3"
+}

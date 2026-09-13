@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊講:「你攑起來。」伊就伸出伊的手,攑著⟨伊⟩。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "攑起來"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你(家己)"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "伊伸出"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "וקחהו",
+      "gloss": "攑著伊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:30:06.950353825Z",
+  "model": "glm-5.3"
+}

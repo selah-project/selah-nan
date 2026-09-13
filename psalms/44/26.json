@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "因為阮的性命伏落到土粉,阮的腹肚黏佇塗膠。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "伏落"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "到土粉"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "阮的性命"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "黏"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "佇塗膠"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "阮的腹肚"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:22.300362400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊日時用雲帶𪜶,規暝用火的光。",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "帶𪜶行"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "用雲"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "閣規个"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "暝"
+    },
+    {
+      "surface": "באור",
+      "gloss": "用…的光"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:20.472803956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "恁食⟨את⟩肥油,穿⟨את⟩羊毛,宰彼啲肥壯的,羊仔恁毋飼。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "肥油"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "肥油"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "恁食"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "羊毛"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "羊毛"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "恁穿"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "肥壯的"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "恁宰"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊仔"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "恁飼"
+    }
+  ],
+  "timestamp": "2026-09-12T04:20:41.984420372Z",
+  "model": "glm-5.3"
+}

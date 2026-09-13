@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 123,
+  "translation": "安逸人的譏誚佮傲慢人的凌辱,已經予咱的性命食甲足飽。",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "足(大)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "食甲飽"
+    },
+    {
+      "surface": "לה",
+      "gloss": "予…"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "咱的性命"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "譏誚"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "安逸人"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "凌辱"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "傲慢人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:57.939025535Z",
+  "model": "glm-5.3"
+}

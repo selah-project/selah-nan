@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 13:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "祭司看,看啊,伊的樣式比皮較低,伊的毛閣變做白色,祭司就宣告伊無清氣:這是癩病的災病,佇瘡的所在發出來的。",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "樣式"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "較低"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比"
+    },
+    {
+      "surface": "העור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "伊的毛"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "變做"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "白色"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "宣告……無清氣"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "災病"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "癩病"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "佇瘡"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "發出來"
+    }
+  ],
+  "timestamp": "2026-09-12T01:45:44.775138786Z",
+  "model": "glm-5.3"
+}

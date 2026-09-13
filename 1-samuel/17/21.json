@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "以色列佮非利士人排陣,陣對陣。",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "排陣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "佮非利士人"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "陣"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "對"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "陣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:43:46.182445928Z",
+  "model": "glm-5.3"
+}

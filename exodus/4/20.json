@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "摩西就攑⟨את⟩伊的某佮⟨את⟩伊的囝仔,予𪜶騎佇驢仔頂面,倒轉去米茲拉因的地;摩西就攑⟨את⟩以羅欣的柺仔佇伊的手裡。",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "攑"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的某"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的囝仔"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝仔"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "予𪜶騎"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂面"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "驢仔"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "地"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "攑"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "柺仔"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "柺仔"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "佇伊的手裡"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:54.753759112Z",
+  "model": "glm-5.3"
+}

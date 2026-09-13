@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊閣給伊做一掌闊的框仔圍四箍圍仔,閣給伊的框仔做金的邊框圍四箍圍仔。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "框仔"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "一掌闊"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍四箍圍仔"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "זר",
+      "gloss": "邊框"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "給伊的框仔"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "圍四箍圍仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:44.756497455Z",
+  "model": "glm-5.3"
+}

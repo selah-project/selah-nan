@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我是地上的寄旅,毋通將你的誡命對我隱瞞。",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "寄旅"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "地上的"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "隱瞞"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "對我"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "你的誡命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:12.355060122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "阮十二个兄弟,同一个老父的囝;彼一个已經無去矣,上細的今仔日佇迦南地佮⟨את⟩阮老父。",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "阮"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "兄弟"
+    },
+    {
+      "surface": "בני",
+      "gloss": "囝"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "阮老父"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一个"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "無去矣"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "閣上細的"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮老父"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "阮老父"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:37.870662308Z",
+  "model": "glm-5.3"
+}

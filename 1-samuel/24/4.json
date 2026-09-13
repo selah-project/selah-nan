@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 24:4",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "伊來到路邊的羊圈,遐有一个洞穴;掃羅入去遮 ⟨את⟩ 伊的腳,大衛佮伊的人就坐佇洞穴上內底。",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "גדרות",
+      "gloss": "羊圈"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…邊"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מערה",
+      "gloss": "洞穴"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "להסך",
+      "gloss": "遮"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的腳"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的腳"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "佮伊的人"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "佇…上內底"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "洞穴"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "坐"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:11.724590848Z",
+  "model": "glm-5.3"
+}

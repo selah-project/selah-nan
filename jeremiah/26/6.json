@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "我就欲互⟨את⟩這間厝親像示羅,閣⟨את⟩這個城我欲互伊做地上萬國的詛咒。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我就欲互"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這間厝"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "這間厝"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "親像示羅"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "這個城"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "這個城"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "這"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲互伊"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "做詛咒"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對…所有"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "萬國"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T03:55:59.119027066Z",
+  "model": "glm-5.3"
+}

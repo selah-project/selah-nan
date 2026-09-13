@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "有人去共約押講:你看,王咧啼哭,為著押沙龍哀傷。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人去講"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "共約押"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "咧啼哭"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "哀傷"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "押沙龍"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:30.232064632Z",
+  "model": "glm-5.3"
+}

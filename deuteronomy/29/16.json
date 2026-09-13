@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "恁看過⟨את⟩𪜶的可憎物,佮⟨את⟩𪜶的偶像——柴頭、石頭、銀、金,佇𪜶中間的——",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "恁看過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的可憎物"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "𪜶的可憎物"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "𪜶的偶像"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "𪜶的偶像"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "柴頭"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "佮石頭"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "佮金"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼啲"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "佮𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:05.105250836Z",
+  "model": "glm-5.3"
+}

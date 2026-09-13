@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 36:6",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "對敵伊,巴比倫王尼布甲尼撒上來,用銅鍊縛伊,欲帶伊去巴比倫。",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "對敵伊"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "上來"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "尼布甲尼撒"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "巴比倫"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "縛伊"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "用銅鍊"
+    },
+    {
+      "surface": "להליכו",
+      "gloss": "欲帶伊"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "去巴比倫"
+    }
+  ],
+  "timestamp": "2026-09-12T06:20:12.626615629Z",
+  "model": "glm-5.3"
+}

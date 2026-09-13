@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "人的禮物會使伊的路開闊,閣導伊到大人物的面頭前。",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "禮物"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人的"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "會使…開闊"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "閣…面頭前"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "大人物"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "導伊到"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:39.263124432Z",
+  "model": "glm-5.3"
+}

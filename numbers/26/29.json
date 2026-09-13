@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 26:29",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "瑪拿西的後生:屬瑪吉的,有瑪吉宗族;瑪吉生了⟨את⟩基列;屬基列的,有基列宗族。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "瑪拿西"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "屬瑪吉"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "המכירי",
+      "gloss": "瑪吉的"
+    },
+    {
+      "surface": "ומכיר",
+      "gloss": "閣瑪吉"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "生了"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "基列"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "屬基列"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "宗族"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "基列的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:02:33.443097234Z",
+  "model": "glm-5.3"
+}

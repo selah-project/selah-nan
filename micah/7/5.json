@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "毋通信靠朋友,毋通倚靠同伴;對偎佇你胸坎彼个,愛看守你喙的門。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "信靠"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "朋友"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "倚靠"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "同伴"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "偎佇"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "你胸坎彼个"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "看守"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "門"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你喙的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:30.019787354Z",
+  "model": "glm-5.3"
+}

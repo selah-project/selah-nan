@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "人是啥物,你紀念伊;人的子,你看顧伊?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "你紀念伊"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "佮…的子"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "你看顧伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:08.495540439Z",
+  "model": "glm-5.3"
+}

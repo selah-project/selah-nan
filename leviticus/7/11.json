@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "這是平安祭的法度,就是人欲獻互雅威的。",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "這是"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "法度"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "祭"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "平安"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "欲獻"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:12.851314110Z",
+  "model": "glm-5.3"
+}

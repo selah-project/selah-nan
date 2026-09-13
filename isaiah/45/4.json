@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "為著我的奴僕雅各、佮我所揀的以色列,我有用你的名叫你,我稱呼你,你猶毋識我。",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "我的奴僕"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "佮以色列"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "我所揀的"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "我有叫"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "用你的名"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "我稱呼你"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "你識我"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:13.597976187Z",
+  "model": "glm-5.3"
+}

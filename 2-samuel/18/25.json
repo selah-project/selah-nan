@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "瞭望的人喝一聲,報予王知。王講:『伊若單獨一个,⟨是⟩消息佇伊的喙內。』彼个人就走啊、行啊,愈來愈近。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "喝一聲"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "瞭望的人"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "報"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "予王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "單獨"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "消息"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "佇伊喙內"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "走"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "行"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "愈來愈近"
+    }
+  ],
+  "timestamp": "2026-09-12T02:57:50.373559896Z",
+  "model": "glm-5.3"
+}

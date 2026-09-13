@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊起造⟨את⟩殿,閣共伊做完整,閣用香柏的梁木佮列板覆蓋⟨את⟩歸間殿。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "共伊做完整"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "覆蓋"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "殿"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "殿"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "梁木"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "列板"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "香柏的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:04:07.563703145Z",
+  "model": "glm-5.3"
+}

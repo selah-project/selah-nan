@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "願咒詛對伊親像伊咧穿兮衫,閣做一條伊透底束咧腰裡兮腰帶。",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "願…成做"
+    },
+    {
+      "surface": "לו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "親像衫"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "伊咧穿"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "閣做腰帶"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "透底"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "伊束牢伊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:22:00.069569224Z",
+  "model": "glm-5.3"
+}

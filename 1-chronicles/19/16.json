@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "亞蘭看著𪜶佇以色列面前拍敗,就差使者去,共⟨את⟩彼个佇河對岸的亞蘭帶出來,沙法——哈大底謝的軍隊的軍長——徛佇𪜶面前。",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "看著"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "כי",
+      "gloss": "看著…已經"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "拍敗"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "就差使者去"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "使者"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "帶出來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个佇河對岸的亞蘭"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "亞蘭"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "對岸"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "彼條河"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "佮沙法"
+    },
+    {
+      "surface": "שר",
+      "gloss": "軍長"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "哈大底謝的"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "徛佇𪜶面前"
+    }
+  ],
+  "timestamp": "2026-09-12T06:06:02.427590550Z",
+  "model": "glm-5.3"
+}

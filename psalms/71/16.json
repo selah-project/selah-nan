@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 71,
+  "translation": "我欲入去佇阿多奈雅威的大權能,我欲數念你的公義,獨獨你。",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "佇…大權能"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "數念"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "你的公義"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "獨獨你"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:49.467024979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "按呢,所羅門王佇財富佮智慧,比地上一切的諸王攏較大。",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "成做大"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "比一切"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "佇財富"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "佮佇智慧"
+    }
+  ],
+  "timestamp": "2026-09-12T06:27:52.102691070Z",
+  "model": "glm-5.3"
+}

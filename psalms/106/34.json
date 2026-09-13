@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 106,
+  "translation": "𪜶無滅絕⟨את⟩彼號列邦,就是雅威所吩咐𪜶的,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "滅絕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼號列邦"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "彼號列邦"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是…的"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "吩咐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:23.330338703Z",
+  "model": "glm-5.3"
+}

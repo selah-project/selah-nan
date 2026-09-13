@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "彼個偶像，頭是好金，胸膛佮手是銀，腹肚佮大腿是銅。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "偶像"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "頭"
+    },
+    {
+      "surface": "די",
+      "gloss": "是"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "טב",
+      "gloss": "好的"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "胸膛"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "佮手"
+    },
+    {
+      "surface": "די",
+      "gloss": "是"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "腹肚"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "佮大腿"
+    },
+    {
+      "surface": "די",
+      "gloss": "是"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "銅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:43:40.763872037Z",
+  "model": "glm-5.3"
+}

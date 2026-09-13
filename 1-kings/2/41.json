@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 2:41",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "有人共所羅門講,講示每對耶路撒冷去迦特,閣倒轉來。",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "有人共…講"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "去"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "示每"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "對耶路撒冷"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "閣倒轉來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:18.430439464Z",
+  "model": "glm-5.3"
+}

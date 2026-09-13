@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "雅威欲命令⟨את⟩祝福臨到⟨את⟩你,佇你的穀倉,佮佇你的一舉一動;閣伊欲佇彼片土地祝福你,就是雅威你的以羅欣欲賞賜你的。",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "欲命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩你"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祝福"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "佇你的穀倉"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "佮佇你的一切"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "所拍拼的"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "你的手"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "閣欲祝福你"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇彼片土地"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "欲賞賜"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    }
+  ],
+  "timestamp": "2026-09-12T02:16:39.101642044Z",
+  "model": "glm-5.3"
+}

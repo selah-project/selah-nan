@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "𪜶就共⟨את⟩哈曼掛佇伊為著末底改所備辦的彼棵樹頂;王的受氣就平息矣。",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "𪜶就掛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哈曼"
+    },
+    {
+      "surface": "המן",
+      "gloss": "哈曼"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "彼棵樹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "備辦"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "為著末底改"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王的"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "就平息矣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:28.177947293Z",
+  "model": "glm-5.3"
+}

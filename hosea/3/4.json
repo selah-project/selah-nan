@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "因為以色列的子兒欲坐真濟日,無王,無首領,無獻祭,無柱像,無以弗得,也無家中神像。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "坐"
+    },
+    {
+      "surface": "בני",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "שר",
+      "gloss": "首領"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "獻祭"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "柱像"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "以弗得"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "也無家中神像"
+    }
+  ],
+  "timestamp": "2026-09-12T04:27:10.356227854Z",
+  "model": "glm-5.3"
+}

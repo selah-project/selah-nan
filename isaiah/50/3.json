@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "我予天穿烏暗做衫,用麻布做𪜶的蓋被。",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "我予…穿衫"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "我做"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "𪜶的蓋被"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:51.182219081Z",
+  "model": "glm-5.3"
+}

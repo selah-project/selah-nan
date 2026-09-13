@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "一半用火燒掉;靠彼个一半伊食肉,伊焙焙肉,閣食飽;閣溫暖家己,就講:「哈!我真溫暖,我看見火光矣。」",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "一半"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "燒掉"
+    },
+    {
+      "surface": "במו",
+      "gloss": "用"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "על",
+      "gloss": "靠"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "彼个一半"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "伊食"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "伊焙"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "焙肉"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "閣食飽"
+    },
+    {
+      "surface": "אף",
+      "gloss": "閣"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "溫暖家己"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "האח",
+      "gloss": "哈!"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "我真溫暖"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看見"
+    },
+    {
+      "surface": "אור",
+      "gloss": "火光"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:23.770598349Z",
+  "model": "glm-5.3"
+}

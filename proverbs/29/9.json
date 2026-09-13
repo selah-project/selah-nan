@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "智慧人共⟨את⟩戇人評理,伊受氣嘛笑,攏無安靜。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "評理"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "戇人"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "戇"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "笑"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "安靜"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:44.310869661Z",
+  "model": "glm-5.3"
+}

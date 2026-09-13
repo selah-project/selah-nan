@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "恁著聽,因為我欲講君王的事;我喙唇一開,就是正直。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "君王的事"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "我欲講"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "一開"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "我喙唇"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "正直"
+    }
+  ],
+  "timestamp": "2026-09-12T05:12:36.464621580Z",
+  "model": "glm-5.3"
+}

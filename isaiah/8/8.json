@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 8:8",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊欲掃過猶大,氾濫閃過,一直到頷頸才止;伊的翼股展開的闊度,欲充滿你土地的闊——以馬內利啊,⟨就是佮咱同在的以勒⟩。",
+  "tokens": [
+    {
+      "surface": "וְחָלַף",
+      "gloss": "掃過"
+    },
+    {
+      "surface": "בִּיהוּדָה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "שָׁטַף",
+      "gloss": "氾濫"
+    },
+    {
+      "surface": "וְעָבַר",
+      "gloss": "閃過"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "צַוָּאר",
+      "gloss": "頷頸"
+    },
+    {
+      "surface": "יַגִּיעַ",
+      "gloss": "才止"
+    },
+    {
+      "surface": "וְהָיָה",
+      "gloss": "欲成"
+    },
+    {
+      "surface": "מֻטּוֹת",
+      "gloss": "展開"
+    },
+    {
+      "surface": "כְּנָפָיו",
+      "gloss": "伊的翼股"
+    },
+    {
+      "surface": "מְלֹא",
+      "gloss": "充滿"
+    },
+    {
+      "surface": "רֹחַב",
+      "gloss": "闊度"
+    },
+    {
+      "surface": "אַרְצְךָ",
+      "gloss": "你土地的闊"
+    },
+    {
+      "surface": "עִמָּנוּ",
+      "gloss": "佮咱同在"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "以勒"
+    }
+  ],
+  "timestamp": "2026-09-13T04:37:39.267317715Z",
+  "model": "glm-5.3"
+}

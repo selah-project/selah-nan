@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "聽祈禱的,一切的肉體攏欲來到你遐。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "祈禱"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "到你遐"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "肉體"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "攏欲來"
+    }
+  ],
+  "timestamp": "2026-09-12T06:32:46.693142463Z",
+  "model": "glm-5.3"
+}

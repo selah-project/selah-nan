@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "毋過,斟酒的頭目無記得 ⟨את⟩ 約瑟,就共伊放袂記得矣。",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "毋過…無"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "記得"
+    },
+    {
+      "surface": "שר",
+      "gloss": "頭目"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "斟酒的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "約瑟"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "就共伊放袂記得矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:21:17.475158877Z",
+  "model": "glm-5.3"
+}

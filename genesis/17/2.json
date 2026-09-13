@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "我欲設我的約佇我佮你中間，閣欲互⟨את⟩你增加甲非常非常。」",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "我欲設"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "我的約"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "佇我"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "佮你中間"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "閣欲增加"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩你",
+      "marks": "你"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "甲非常"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "非常"
+    }
+  ],
+  "timestamp": "2026-09-12T01:13:46.361244838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "伊講:「叫伊。」伊就叫伊,伊徛佇門口。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "叫"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "伊就叫"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "伊徛"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "佇門口"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:36.426553898Z",
+  "model": "glm-5.3"
+}

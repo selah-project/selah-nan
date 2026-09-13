@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "佇塔爾坦來到阿什杜德彼年,彼時沙珥根做亞述王差伊去 ⟨את⟩,伊就攻打阿什杜德,拘拄著伊。",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "佇…彼年"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "塔爾坦"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "阿什杜德"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "差"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "沙珥根"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "沙珥根"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "亞述"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "攻打"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "阿什杜德"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "拘拄著伊"
+    }
+  ],
+  "timestamp": "2026-09-13T04:51:48.385014308Z",
+  "model": "glm-5.3"
+}

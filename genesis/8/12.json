@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "伊閣等七日別的日了後,就差遣 ⟨את⟩ 彼隻鴿仔出去;伊就無閣倒轉來到伊遐矣。",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "伊閣等"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別的"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "就差遣…出去"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼隻鴿仔"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "彼隻鴿仔"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "就無"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "倒轉來"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊遐"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "矣"
+    }
+  ],
+  "timestamp": "2026-09-12T01:09:58.947353516Z",
+  "model": "glm-5.3"
+}

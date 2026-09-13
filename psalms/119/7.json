@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我欲用正直的心感謝你,佇我學習你公義的判語的時。",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "我欲感謝你"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "用正直"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "的心"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "佇我學習…的時"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "…的判語"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "你的公義"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:04.049073807Z",
+  "model": "glm-5.3"
+}

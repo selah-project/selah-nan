@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "以色列佮猶大的人起來,喝喊,追趕⟨את⟩非利士人,直到你入到彼個溪谷,直到以革倫的城門;非利士人的傷亡者倒佇沙哈拉音的路上,直到迦特,直到以革倫。",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…的人"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "佮猶大"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "喝喊"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "追趕"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "非利士人"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "你入到"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "彼個溪谷"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "…的城門"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "以革倫"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "倒"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "傷亡者"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "非利士人…的"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "佇…的路上"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "沙哈拉音"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "גת",
+      "gloss": "迦特"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "以革倫"
+    }
+  ],
+  "timestamp": "2026-09-12T02:45:51.342557719Z",
+  "model": "glm-5.3"
+}

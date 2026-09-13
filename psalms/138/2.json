@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 138,
+  "translation": "我會向𪜶聖殿的所在跪落拜，嘛會宣認⟨את⟩祢的名，因為祢的赫瑟德,閣因為祢的誠實;因為祢已經互祢的話超過祢全部的名。",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "我會跪落拜"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "殿"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "祢的聖"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "嘛我會宣認"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祢的名"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "祢的名"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "祢的赫瑟德"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣因為"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "祢的誠實"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "祢已經互…高大"
+    },
+    {
+      "surface": "על",
+      "gloss": "超過"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "祢的名"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "祢的話"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:10.013074331Z",
+  "model": "glm-5.3"
+}

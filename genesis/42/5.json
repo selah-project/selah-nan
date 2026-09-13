@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "以色列的子孫就來到,佇彼啲來買糧的人的中間,因為饑荒佇迦南地。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "就來到"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的子孫"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "來買糧"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇……中間"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "彼啲來的人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "饑荒"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇……地"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "迦南"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:46.429222957Z",
+  "model": "glm-5.3"
+}

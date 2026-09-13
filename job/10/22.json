@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "是幽暗之地,親像烏暗,死影,無啥物次序,⟨光⟩照耀出來嘛親像烏暗。」",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "幽暗"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "烏暗"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "死影"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "無"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "啥物次序"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "照耀出來嘛"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "烏暗"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:20.243326806Z",
+  "model": "glm-5.3"
+}

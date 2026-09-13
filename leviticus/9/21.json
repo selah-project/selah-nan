@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "亞倫佇雅威面前用搖祭搖⟨את⟩胸閣搖⟨את⟩右腿,照摩西所命令的。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "胸"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "胸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "右腿"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "腿"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "右"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "搖"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "搖祭"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:33.477885018Z",
+  "model": "glm-5.3"
+}

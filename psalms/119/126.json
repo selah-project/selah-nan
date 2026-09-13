@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "是替雅威做事的時陣矣,因為𪜶廢掉祢的律法。",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "時陣"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "做事"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "替雅威"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "𪜶廢掉"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "祢的律法"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:54.032316406Z",
+  "model": "glm-5.3"
+}

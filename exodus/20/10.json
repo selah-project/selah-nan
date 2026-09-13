@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "獨第七日 ⟨是⟩ 屬雅威——汝的以羅欣——的安息日;彼日汝毋通做任何工課——汝、汝的後生、汝的查某囝、汝的奴僕、佮汝的婢女、佮汝的精牲、佮佇汝城門內的寄腳,攏毋通。",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "獨……日"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "屬雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "汝的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "通做"
+    },
+    {
+      "surface": "כל",
+      "gloss": "任何"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "工課"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "汝"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "汝的後生"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "汝的查某囝"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "汝的奴僕"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "汝的婢女"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "汝的精牲"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "汝的寄腳"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "佇汝的城門內"
+    }
+  ],
+  "timestamp": "2026-09-12T01:32:47.129691009Z",
+  "model": "glm-5.3"
+}

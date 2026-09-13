@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "因為伊徛佇散赤人的正手爿,欲救伊脫離審判伊性命的人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "伊徛"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "佇…正手爿"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "散赤人"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "欲救"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "審判…的人"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的性命"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:16.796402195Z",
+  "model": "glm-5.3"
+}

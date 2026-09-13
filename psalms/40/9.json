@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "行祢——行汝的旨意,阮的以羅欣,我歡喜;祢——汝的律法佇我的肚腸內底。",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "去做"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "汝的旨意"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "我歡喜"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "佮汝的律法"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇……內底"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "肚腸"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:37.217930140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "你就會親像一个睏佇海中央的人,嘛親像睏佇船桅頂的人。",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "你就會"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "親像一个睏的人"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "佇…中央"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "嘛親像睏的人"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "船桅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:18:33.708980203Z",
+  "model": "glm-5.3"
+}

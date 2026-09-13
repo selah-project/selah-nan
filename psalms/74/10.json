@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 74,
+  "translation": "到啥物時陣啊,以羅欣?對敵欲侮辱到幾時?仇敵欲藐視你的名到永遠無?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "侮辱"
+    },
+    {
+      "surface": "צר",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "藐視"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "仇敵"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "你的名"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:43.867292362Z",
+  "model": "glm-5.3"
+}

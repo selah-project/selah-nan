@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 2:2",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你去,佇耶路撒冷的耳仔邊大聲講:雅威按呢講:我記得你少年的時的赫瑟德(仁慈),你做新娘的時的愛情;你綴我行過曠野,行過彼塊無撒種的地的時。",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "你去"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "大聲講"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "佇…的耳仔邊"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "我記得"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "赫瑟德(仁慈)"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "你少年的時"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "愛情"
+    },
+    {
+      "surface": "כלולתיך",
+      "gloss": "你做新娘的時"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "你行"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "綴…後面"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "佇曠野"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇彼塊地"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "זרועה",
+      "gloss": "撒種"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:09.659579894Z",
+  "model": "glm-5.3"
+}

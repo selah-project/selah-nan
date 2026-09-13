@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "𪜶就掖籤,親像細个親像大个,照𪜶父親的家庭,一個門閣一個門。",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "就掖"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "籤"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "親像細个"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "親像大个"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "照…的家庭"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "𪜶父親"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "一個門"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "閣一個門"
+    }
+  ],
+  "timestamp": "2026-09-12T06:07:18.896320905Z",
+  "model": "glm-5.3"
+}

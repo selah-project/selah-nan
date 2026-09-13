@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 40,
+  "translation": "向望彼个人有福氣,伊共雅威做伊的依靠,也無轉向去看遐的囂張的人,佮偏向白賊的。",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "有福氣"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊"
+    },
+    {
+      "surface": "שם",
+      "gloss": "做"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "伊的依靠"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也無"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "轉向去看"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "囂張的人"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "佮偏向的"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "白賊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:04.564630906Z",
+  "model": "glm-5.3"
+}

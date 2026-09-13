@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "對利未人中:示瑪雅,哈舒的囝、亞撒利甘的囝、哈沙比雅的囝、布尼的囝。",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "對……中"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "利未人"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "示瑪雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "哈舒"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "亞撒利甘"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "哈沙比雅"
+    },
+    {
+      "surface": "בן",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "布尼"
+    }
+  ],
+  "timestamp": "2026-09-12T05:57:52.890289183Z",
+  "model": "glm-5.3"
+}

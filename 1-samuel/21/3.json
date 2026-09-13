@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "大衛對亞希米勒祭司講:「王命令我一個代誌,伊閣對我講:『毋管是啥人,毋通知影半項 —— ⟨את⟩ 彼個代誌,就是我差你去辦的,佮我命令你的;閣 ⟨את⟩ 彼的少年人,我已經安排佇某一个所在、某某所在。』",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "對亞希米勒"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "命令我"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "一個代誌"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "איש",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "半項"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個代誌"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "彼個代誌"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所…的"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "差你去"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "佮所…的"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "命令你的"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "彼的少年人"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "我已經安排"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "所在"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "某一个"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "某某"
+    }
+  ],
+  "timestamp": "2026-09-12T02:46:35.716783956Z",
+  "model": "glm-5.3"
+}

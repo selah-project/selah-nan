@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "法老的奴僕中驚雅威的話 ⟨את⟩ 的,共 ⟨את⟩ 家己的奴僕佮 ⟨את⟩ 牲畜攏趕入厝內。",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "驚…的"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的話"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "…的奴僕中"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "共…趕入"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "家己的奴僕"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "家己的奴僕"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮 ⟨את⟩",
+      "marks": "牲畜"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "牲畜"
+    },
+    {
+      "surface": "אל",
+      "gloss": "入"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "厝內"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:31.305172921Z",
+  "model": "glm-5.3"
+}

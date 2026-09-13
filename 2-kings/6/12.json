@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊的奴僕中有一個講:「毋是,阿多奈、王啊,是以色列內面的先知以利沙,伊給以色列的王講明⟨את⟩你佇你睏房裡所講的話。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一個"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "伊的奴僕中"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "כי",
+      "gloss": "是"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "以利沙"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "先知"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼位"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "講明"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "給…的王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你佇你睏房裡所講的話"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "話"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "你講"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "佇…房裡"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "你睏的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:17:38.648657934Z",
+  "model": "glm-5.3"
+}

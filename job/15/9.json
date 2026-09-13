@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "啥物你知影,阮毋知影?啥物你明白,是阮中間無的?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你知影"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "阮毋"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "你明白"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "阮中間"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "是……的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:40.770756698Z",
+  "model": "glm-5.3"
+}

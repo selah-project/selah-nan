@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "大衛王煞落去袂出去到押沙龍遐,因為伊已經為著暗嫩得安慰,因為伊已經死矣。",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "煞落去袂"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "押沙龍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "得安慰"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "暗嫩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מת",
+      "gloss": "已經死矣"
+    }
+  ],
+  "timestamp": "2026-09-12T02:53:37.543322192Z",
+  "model": "glm-5.3"
+}

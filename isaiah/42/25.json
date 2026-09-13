@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "伊就共赫瑟德个怒火啉佇伊身上,伊个鼻孔受氣,佮戰爭个猛烈;火四圍燒伊,伊嘛毋知;伊燒佇伊身上,伊嘛無囥佇心內。",
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "伊就…啉落去"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "佇伊身上"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "怒火"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊个鼻孔受氣"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "佮…猛烈"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "戰爭"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "火四圍燒伊"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "燒佇伊身上"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "囥"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心內"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:08.983740135Z",
+  "model": "glm-5.3"
+}

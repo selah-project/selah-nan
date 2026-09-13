@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "閣帶 ⟨את⟩ 我出去到寬闊的所在;伊救我出來,因為伊喜愛我。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "閣帶……出去"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "到寬闊的所在"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "伊救我出來"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "伊喜愛"
+    },
+    {
+      "surface": "בי",
+      "gloss": "我"
+    }
+  ],
+  "timestamp": "2026-09-12T02:59:28.849270584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "就是你,雅威以羅欣,揀選亞伯蘭,帶伊出迦勒底的吾珥,閣共伊的名號做亞伯拉罕。",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "就是"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "揀選"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "帶伊出"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "出吾珥"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "迦勒底"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "閣共伊的名"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "名"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "做亞伯拉罕"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:28.963310072Z",
+  "model": "glm-5.3"
+}

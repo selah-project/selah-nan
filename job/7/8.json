@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "看過我的目睭,袂閣看著我;你的目睭看佇我,我已經無佇遮矣。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "閣看著我"
+    },
+    {
+      "surface": "עין",
+      "gloss": "目睭"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "看過我的"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "בי",
+      "gloss": "看佇我"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "我已經無佇遮矣"
+    }
+  ],
+  "timestamp": "2026-09-12T05:22:11.212751528Z",
+  "model": "glm-5.3"
+}

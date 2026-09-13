@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 134,
+  "translation": "舉恁的手向聖所,來祝福⟨את⟩雅威!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "舉"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "恁的手"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "向聖所"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "來祝福"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:55.567152726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "願以羅欣賜互你天頂的露水,佮土地的肥油,佮豐盛的五穀佮新酒。",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "願賜互"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "對…的露水"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "天"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "佮…的肥油"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "土地"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "佮豐盛"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "佮新酒"
+    }
+  ],
+  "timestamp": "2026-09-13T04:21:25.045951921Z",
+  "model": "glm-5.3"
+}

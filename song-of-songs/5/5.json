@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "我起來欲開門予我的良人;我的手滴沒藥,我的指頭仔滴會流的沒藥,佇門閂的手柄頂面。",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "我起來"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "欲開"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "予我的良人"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "而且我的手"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "滴落來"
+    },
+    {
+      "surface": "מור",
+      "gloss": "沒藥"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "而且我的指頭仔"
+    },
+    {
+      "surface": "מור",
+      "gloss": "沒藥"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "會流的"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂面"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "手柄"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "門閂"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:58.852486278Z",
+  "model": "glm-5.3"
+}

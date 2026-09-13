@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "閣靠你个刀劍你會活,閣⟨את⟩你个兄弟你會服事;閣到彼時,你若掙扎反抗,你就會拆伊个軛,對你个頷胛頂脫離出來。",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "閣靠"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "你个刀劍"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "你會活"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "你个兄弟"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "你个兄弟"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "你會服事"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "閣到彼時"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "若"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "掙扎反抗"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "你就會拆"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "伊个軛"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對……頂脫離"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "你个頷胛"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:50.511810745Z",
+  "model": "glm-5.3"
+}

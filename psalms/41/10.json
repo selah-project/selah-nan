@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "連我和平的朋友,我所倚靠、共我食餅的彼个人,嘛舉腳後蹱踏對付我。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "איש",
+      "gloss": "彼个人"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "我和平的朋友"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "我所倚靠"
+    },
+    {
+      "surface": "בו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "食"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "我的餅"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "舉大"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對付我"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "腳後蹱"
+    }
+  ],
+  "timestamp": "2026-09-12T04:49:32.397640527Z",
+  "model": "glm-5.3"
+}

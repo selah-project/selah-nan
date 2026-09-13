@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "末底改倒轉去王門口,哈曼煞趕緊轉去伊家己的厝,真哀傷,頭殼蒙起來。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "倒轉去"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "末底改"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去…"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門口"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "哈曼煞"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "趕緊轉"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "伊家己的厝"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "真哀傷"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "頭殼蒙起來"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "(頭殼)"
+    }
+  ],
+  "timestamp": "2026-09-12T05:41:53.655213457Z",
+  "model": "glm-5.3"
+}

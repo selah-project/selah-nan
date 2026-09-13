@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "互你的面照光佇你的奴僕身上;照你的赫瑟德救我。",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "互…照光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…身上"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "你的奴僕"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "救我"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "照你的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T04:47:06.818298794Z",
+  "model": "glm-5.3"
+}

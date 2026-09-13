@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊敢欲怨恨到永遠,敢欲看守到永遠?看啊,你已經講出嘴,嘛做出歹代,而且逐項攏做會出來。",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "敢欲怨恨"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "אם",
+      "gloss": "敢"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "欲看守"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "你已經講出嘴"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "嘛做出"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "歹代"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "攏做會出來"
+    }
+  ],
+  "timestamp": "2026-09-12T03:46:52.997585844Z",
+  "model": "glm-5.3"
+}

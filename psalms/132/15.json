@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "伊的糧食我確定欲賜福,伊的散赤人我欲互𪜶飽食餅。",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "伊的糧食"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "賜福"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "確定欲賜福"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "伊的散赤人"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "我欲互𪜶食到飽"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:20.430439642Z",
+  "model": "glm-5.3"
+}

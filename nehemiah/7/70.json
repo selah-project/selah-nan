@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "nehemiah 7:70",
+  "book": "nehemiah",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "佮對父老的頭人當中,有獻入⟨這件⟩工程的庫房的:金子,達勒金幣二个萬;銀子,彌那二千佮二百。",
+  "tokens": [
+    {
+      "surface": "ומראשי",
+      "gloss": "佮對……的頭人"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "父老"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "獻"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "入庫房"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "工程的"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金子"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "達勒金幣"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "二"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "萬"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "佮銀子"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "彌那"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "二千"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "佮二百"
+    }
+  ],
+  "timestamp": "2026-09-12T05:56:25.474022907Z",
+  "model": "glm-5.3"
+}

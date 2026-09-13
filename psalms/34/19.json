@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 34,
+  "translation": "雅威倚近心破碎的人,閣拯救⟨את⟩心神受壓傷的人。",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "破碎的人"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "心神受壓傷的人"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "受壓傷的人"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "心神"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "拯救"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:25.410955857Z",
+  "model": "glm-5.3"
+}

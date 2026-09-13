@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 22:38",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "有人佇撒瑪利亞的池仔洗⟨את⟩戰車,狗仔舐⟨את⟩伊的血,妓女嘛佇遐洗身軀,照雅威的話,就是伊所講的。",
+  "tokens": [
+    {
+      "surface": "וישטף",
+      "gloss": "有人洗"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "戰車"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "戰車"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "的池仔"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "וילקו",
+      "gloss": "舐"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "狗仔"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的血"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "伊的血"
+    },
+    {
+      "surface": "והזנות",
+      "gloss": "妓女嘛"
+    },
+    {
+      "surface": "רחצו",
+      "gloss": "洗身軀"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "所講的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:45.485431698Z",
+  "model": "glm-5.3"
+}

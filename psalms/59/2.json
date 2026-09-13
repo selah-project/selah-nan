@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "我的以羅欣啊，救我脫離我的仇敵；那些起來攻擊我的人，求祢安置我佇高處。",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "救我脫離"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "我的仇敵"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "對敵我的、起來攻擊我的人"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "安置我佇高處"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:42.259170497Z",
+  "model": "glm-5.3"
+}

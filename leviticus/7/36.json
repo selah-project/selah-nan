@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "就是雅威命令佇膏⟨את⟩𪜶的彼日，愛對⟨את⟩以色列人的身上賞𪜶的，做𪜶世代永遠的定例。",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "愛賞"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的彼日"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "膏"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "對⟨את⟩…的身上"
+    },
+    {
+      "surface": "בני",
+      "gloss": "眾後生"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "定例"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "𪜶的世代"
+    }
+  ],
+  "timestamp": "2026-09-12T01:42:32.901464150Z",
+  "model": "glm-5.3"
+}

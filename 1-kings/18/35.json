@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "水流四箍圍仔環祭壇,連⟨את⟩彼條溝嘛盈滿水。",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "流"
+    },
+    {
+      "surface": "המים",
+      "gloss": "水"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍圍仔環"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "連…嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼條溝"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "彼條溝"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "盈滿"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:01.903194819Z",
+  "model": "glm-5.3"
+}

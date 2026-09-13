@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣,凡若仰望你的攏袂見笑;見笑欲臨到彼些無緣無故行詭詐的人。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "閣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "凡若…攏"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "仰望你的"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "見笑欲臨到"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "行詭詐的人"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "無緣無故"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:54.957350785Z",
+  "model": "glm-5.3"
+}

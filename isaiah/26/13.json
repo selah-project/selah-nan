@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "雅威,咱的以羅欣,毋是祢的眾主曾管轄過阮;獨獨倚靠祢,阮才會提起祢的名。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "咱的以羅欣"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "管轄過阮"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "眾主"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "毋是祢"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "獨獨"
+    },
+    {
+      "surface": "בך",
+      "gloss": "倚靠祢"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "阮才會提起"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "祢的名"
+    }
+  ],
+  "timestamp": "2026-09-12T03:33:39.974537700Z",
+  "model": "glm-5.3"
+}

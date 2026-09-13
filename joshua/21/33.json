@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 21:33",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "革順人所有的城，照𪜶的家族，十三座城佮𪜶的郊野。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "城"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "革順人"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "十三"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "（十）"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "座城"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "佮𪜶的郊野"
+    }
+  ],
+  "timestamp": "2026-09-12T02:27:01.625404092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 14:20",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "你永遠壓贏伊,伊就去矣;你改換伊的面容,共伊送走。",
+  "tokens": [
+    {
+      "surface": "תתקפהו",
+      "gloss": "你壓贏伊"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "伊就去矣"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "改換"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面容"
+    },
+    {
+      "surface": "ותשלחהו",
+      "gloss": "閣共伊送走"
+    }
+  ],
+  "timestamp": "2026-09-12T05:24:37.530158070Z",
+  "model": "glm-5.3"
+}

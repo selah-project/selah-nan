@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "親像刀咧割我的骨頭,我的對敵侮辱我,𪜶逐日給我講:「你的以羅欣佇佗位?」",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "親像刀咧割"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "我的骨頭"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "侮辱我"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "𪜶講"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "給我"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "איה",
+      "gloss": "佇佗位"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "你的以羅欣"
+    }
+  ],
+  "timestamp": "2026-09-12T06:33:16.536844396Z",
+  "model": "glm-5.3"
+}

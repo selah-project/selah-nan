@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "智慧佇外面出聲喝,佇寬闊的街市伊放出伊的聲,",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "智慧"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "佇外面"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "出聲喝"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "佇寬闊的街市"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "放出"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "伊的聲"
+    }
+  ],
+  "timestamp": "2026-09-12T05:09:21.552259338Z",
+  "model": "glm-5.3"
+}

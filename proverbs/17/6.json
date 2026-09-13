@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "老人的冠冕是孫仔;囝仔的榮光是𪜶的老父。",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "冠冕"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "老人"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的囝"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "孫"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "閣榮光"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "𪜶的老父"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:24.525245398Z",
+  "model": "glm-5.3"
+}

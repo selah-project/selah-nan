@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "踅城的守夜人遇著阮;恁敢有看著⟨את⟩彼個阮的心所疼的?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "遇著阮"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "守夜的"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "踅城的"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個阮的心所疼的"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "彼個…疼的"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "阮的心"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "恁敢有看著"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:41.209405501Z",
+  "model": "glm-5.3"
+}

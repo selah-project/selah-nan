@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "「我祖先所毀滅的彼列國的神,敢有救⟨את⟩𪜶?——⟨את⟩哥散、⟨את⟩哈蘭、利色,佮佇提拉撒的伊甸的後生。",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "敢有救"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "的神"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "彼列國"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "所毀滅的"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "我祖先"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "哥散"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "哥散"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "哈蘭"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "哈蘭"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "佮利色"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "佮……的後生"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "伊甸"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "佇提拉撒"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:59.786222189Z",
+  "model": "glm-5.3"
+}

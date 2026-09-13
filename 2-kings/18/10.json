@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 18:10",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "到三年的尾,𪜶掠去伊——佇希西家第六年,就是以色列王何細亞第九年,撒馬利亞予人掠去。",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "𪜶掠去伊"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "到…的尾"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "三"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "年"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "שש",
+      "gloss": "六"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "對希西家"
+    },
+    {
+      "surface": "היא",
+      "gloss": "就是伊"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "年"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "對何細亞"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "予人掠去"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒馬利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:22:28.137218669Z",
+  "model": "glm-5.3"
+}

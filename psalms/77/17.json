@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 77,
+  "translation": "諸水看著你,以羅欣啊,諸水看著你,就輾轉驚惶;深淵嘛咧震動。",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "看著你"
+    },
+    {
+      "surface": "מים",
+      "gloss": "諸水"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "看著你"
+    },
+    {
+      "surface": "מים",
+      "gloss": "諸水"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "輾轉驚惶"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "咧震動"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "深淵"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:59.816271086Z",
+  "model": "glm-5.3"
+}

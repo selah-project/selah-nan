@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "約沙法佮𪜶的祖公睏落去,埋葬佮𪜶的祖公佇大衛的城;伊的子耶和蘭接伊的位作王。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "睏落去"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "約沙法"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "𪜶的祖公"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "埋葬"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "𪜶的祖公"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇…的城"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "作王"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "耶和蘭"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接伊的位"
+    }
+  ],
+  "timestamp": "2026-09-12T06:15:13.444858321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我為伊寫我律法的萬條,𪜶煞看做親像一个生份人的物。",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "我…寫"
+    },
+    {
+      "surface": "לו",
+      "gloss": "為伊"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "萬條"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我律法的"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "זר",
+      "gloss": "生份人的物"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "煞看做"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:00.158528099Z",
+  "model": "glm-5.3"
+}

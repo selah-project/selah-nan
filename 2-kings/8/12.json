@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 8:12",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "哈薛講:「我的主人啥事佇哭?」伊講:「因為我知⟨את⟩你欲對以色列的子所做的歹:你欲用火燒𪜶的堅固城,用刀殺𪜶的少年人,摔碎𪜶的幼仔,剖開𪜶有身的女人。」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "哈薛"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "啥事"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "我的主人"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "佇哭"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你所欲做的歹"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所欲做的"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "對……的子"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "歹"
+    },
+    {
+      "surface": "מבצריהם",
+      "gloss": "𪜶的堅固城"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "你欲放"
+    },
+    {
+      "surface": "באש",
+      "gloss": "用火"
+    },
+    {
+      "surface": "ובחריהם",
+      "gloss": "閣𪜶的少年人"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "用刀"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "殺"
+    },
+    {
+      "surface": "ועלליהם",
+      "gloss": "閣𪜶的幼仔"
+    },
+    {
+      "surface": "תרטש",
+      "gloss": "摔碎"
+    },
+    {
+      "surface": "והרתיהם",
+      "gloss": "閣𪜶有身的女人"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "剖開"
+    }
+  ],
+  "timestamp": "2026-09-12T03:19:20.873330514Z",
+  "model": "glm-5.3"
+}

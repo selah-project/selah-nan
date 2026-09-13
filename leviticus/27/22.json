@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "若是有人獻⟨את⟩伊買來的田——毋是屬伊祖產的田——互雅威做聖物,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊買來的田"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "伊買來的"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "屬…的田"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "伊的祖產"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "獻做聖"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "互雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:41.241431928Z",
+  "model": "glm-5.3"
+}

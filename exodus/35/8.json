@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 35,
+  "translation": "佮點燈的油,佮芳的香料互抹油的油,閣互芳的香。",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "佮油"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "為著燈光"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "佮香料"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "為著……油"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "抹用的"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "閣為著香"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "芳的香料"
+    }
+  ],
+  "timestamp": "2026-09-12T01:38:01.526420809Z",
+  "model": "glm-5.3"
+}

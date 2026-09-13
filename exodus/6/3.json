@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "我對亞伯拉罕、對以撒、閣對雅各顯現,做沙代(以勒沙代);若是我的名雅威,我毋曾予𪜶識。",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "我顯現"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "以撒"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "閣對"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "באל",
+      "gloss": "做"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "沙代"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "若是我的名"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋曾"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "我予𪜶識"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:18.090985464Z",
+  "model": "glm-5.3"
+}

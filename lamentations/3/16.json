@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊用砂石磨我的齒,踩我落佇火灰內。",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "伊磨"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "用砂石"
+    },
+    {
+      "surface": "שני",
+      "gloss": "我的齒"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "踩我落去"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "佇火灰內"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:16.730576644Z",
+  "model": "glm-5.3"
+}

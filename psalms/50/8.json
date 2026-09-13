@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "我毋是因為你的祭物欲責備你,你的燒祭長長徛佇我面前。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "你的祭物"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "欲責備你"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "你的燒祭"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "徛佇我面前"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "長長"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:43.401793456Z",
+  "model": "glm-5.3"
+}

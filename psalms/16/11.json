@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "你互我知影活命的路,佇⟨את⟩你的面頭前有飽滿的歡喜,佇你的正手有甜美,到永遠。",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "你互我知影"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "路"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "飽滿"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你的面頭前"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你的面頭前"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "甜美"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "佇你的正手"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:17.366177537Z",
+  "model": "glm-5.3"
+}

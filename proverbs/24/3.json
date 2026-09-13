@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "靠智慧,厝會蓋起來;靠聰明,伊會徛會在。",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "靠智慧"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "會蓋起來"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "靠聰明"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "會徛會在"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:02.774099378Z",
+  "model": "glm-5.3"
+}

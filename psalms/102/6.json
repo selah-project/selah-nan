@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 102,
+  "translation": "對阮吐大氣的聲,阮的骨黏佇阮的肉。",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "對…的聲"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "阮吐大氣"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "黏佇"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "阮的骨"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "阮的肉"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:23.367071348Z",
+  "model": "glm-5.3"
+}

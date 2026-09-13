@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "伊照撒母耳所約的日子等候七日,毋擱撒母耳無來到吉甲,人民就對伊身邊四散去。",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "伊等候"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "七"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "日"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "照所約的日子"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋擱無"
+    },
+    {
+      "surface": "בא",
+      "gloss": "來"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "吉甲"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "就四散去"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "對伊身邊"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:50.421284758Z",
+  "model": "glm-5.3"
+}

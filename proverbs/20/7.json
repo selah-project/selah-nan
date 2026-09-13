@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "義人照伊的純全來行——伊的囝仔佇伊身後,喔,有福氣!",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "照伊的純全"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "義人"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "喔,有福氣"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝仔"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "佇伊身後"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:21.703805331Z",
+  "model": "glm-5.3"
+}

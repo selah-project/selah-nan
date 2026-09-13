@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "惡人照伊面孔的高傲,攏毋尋求;「無以羅欣!」是伊一切的計謀。",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "惡人"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "照……的高傲"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "伊面孔"
+    },
+    {
+      "surface": "בל",
+      "gloss": "攏毋"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "尋求"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "伊的計謀"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:46.641331226Z",
+  "model": "glm-5.3"
+}

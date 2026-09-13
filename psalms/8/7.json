@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "你互伊掌管你手所做的一切;你將萬物攏下佇⟨伊的⟩跤下:",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "你互伊掌管"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "所做的"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "你手"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "你將…下"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "跤"
+    }
+  ],
+  "timestamp": "2026-09-12T04:44:08.496110826Z",
+  "model": "glm-5.3"
+}

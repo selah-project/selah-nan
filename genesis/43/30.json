@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 43,
+  "translation": "約瑟趕緊,因為伊對伊兄弟的憐憫沸起來,伊想要哭,就入去彼个房間,佇遐哭。",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "趕緊"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "約瑟"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "沸起來"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "伊的憐憫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "伊的兄弟"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "想要"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "哭"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "彼个房間"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "哭"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "佇遐"
+    }
+  ],
+  "timestamp": "2026-09-12T01:23:25.375228653Z",
+  "model": "glm-5.3"
+}

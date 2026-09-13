@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 135,
+  "translation": "伊派出記號佮奇事入去你中央,米茲拉因啊,臨到法老身上,閣臨到伊逐個奴僕身上。",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "派出"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "記號"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "佮奇事"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "入去你中央"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因啊"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "臨到法老身上"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "閣臨到…逐個"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "伊的奴僕"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:23.926074472Z",
+  "model": "glm-5.3"
+}

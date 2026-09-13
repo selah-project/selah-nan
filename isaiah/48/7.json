@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "這陣才受創造,毋是對彼陣;代先彼日以前你猶未聽見,驚了你會講:「你看,我早就知矣。」",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "才受創造"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "對彼陣"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "代先……以前"
+    },
+    {
+      "surface": "יום",
+      "gloss": "彼日"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "猶未"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "你聽見"
+    },
+    {
+      "surface": "פן",
+      "gloss": "驚了"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "你會講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "我早就知矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:19.130954522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "你坐咧,共你的兄弟講話;對你老母的囝,放出毀謗。",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "你坐咧"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "對你的兄弟"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "講話"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "對…的囝"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "你的老母"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "放出"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "毀謗"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:58.425770198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "所以我欲將⟨את⟩𪜶的某予別人,𪜶的田園予來承接的人;因為對上細漢到上大漢,逐個攏咧貪圖不義之財,對先知到祭司,逐個攏咧做假。",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "所以"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "我欲予"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的某"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "𪜶的某"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "別人"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "𪜶的田園"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "來承接的人"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "對上細漢"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "上大漢"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "逐個攏"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "咧貪圖"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "不義之財"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "對先知"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "逐個攏"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "咧做"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "假"
+    }
+  ],
+  "timestamp": "2026-09-13T04:52:42.494539038Z",
+  "model": "glm-5.3"
+}

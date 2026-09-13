@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "大衛就差十個少年人去,大衛對少年人講:「恁上去迦密,入去拿八遐,用我的名向伊請安。",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "就差"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十個"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "少年人"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "對少年人"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "恁上去"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "迦密"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "入去"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "拿八遐"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "請安"
+    },
+    {
+      "surface": "לו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "用我的名"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "問安"
+    }
+  ],
+  "timestamp": "2026-09-12T02:47:25.134248563Z",
+  "model": "glm-5.3"
+}

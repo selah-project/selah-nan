@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 31,
+  "translation": "閣伊嘛是智者,伊帶來災禍,⟨את⟩伊的話無收回;伊欲起來抵擋歹人的家,嘛抵擋做空歹的人的幫助。",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "閣……嘛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "智者"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "閣帶來"
+    },
+    {
+      "surface": "רע",
+      "gloss": "災禍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的話"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "伊的話"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "收回"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "閣起來"
+    },
+    {
+      "surface": "על",
+      "gloss": "抵擋"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "嘛抵擋"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "幫助"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "做……的人"
+    },
+    {
+      "surface": "און",
+      "gloss": "空歹"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:37.881650475Z",
+  "model": "glm-5.3"
+}

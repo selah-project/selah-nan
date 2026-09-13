@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 115,
+  "translation": "毋拘咱欲祝謝雅,對此時一直到永遠。哈利路亞!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "毋拘咱"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "欲祝謝"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "對此時"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "哈利路(讚美恁)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "雅"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:33.800713970Z",
+  "model": "glm-5.3"
+}

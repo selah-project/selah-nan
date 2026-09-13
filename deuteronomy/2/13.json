@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "「這陣起來,恁替家己過撒烈溪 ⟨את⟩;阮就過撒烈溪 ⟨את⟩。」",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "這陣"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "起來"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "恁…過"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "替家己"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒烈溪"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "撒烈"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "阮就過"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "撒烈溪"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "溪"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "撒烈"
+    }
+  ],
+  "timestamp": "2026-09-12T06:24:29.714715019Z",
+  "model": "glm-5.3"
+}

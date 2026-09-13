@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "大衛佮伊的列祖同齊睏去,閣埋葬佇大衛城。",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "睏去"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮…同齊"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "伊的列祖"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "閣埋葬"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "佇…城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T03:02:18.176171926Z",
+  "model": "glm-5.3"
+}

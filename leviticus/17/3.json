@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "以色列家的人,無論佗一个,佇營內宰公牛,抑是綿羊,抑是山羊,抑是佇營外宰,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "人,無論佗一个"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(逐个)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "……家的"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "無論……"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "宰"
+    },
+    {
+      "surface": "שור",
+      "gloss": "公牛"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "綿羊"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "עז",
+      "gloss": "山羊"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "佇營內"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "無論……"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "宰"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "佇……外"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "營"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:12.466914878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "遮个是迦得的后生,做軍隊的頭:上細个抵着一百个,上大个抵着一千个。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…的后生"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "頭"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "軍隊"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "一百"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "上細个"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "佮上大个"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "一千"
+    }
+  ],
+  "timestamp": "2026-09-12T06:04:09.494961197Z",
+  "model": "glm-5.3"
+}

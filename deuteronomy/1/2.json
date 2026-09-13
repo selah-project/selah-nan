@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "對何烈山經過西珥山,到加低斯巴尼亞,行十一日。",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "一"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "對何烈山"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "經過"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "西珥"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "加低斯"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "巴尼亞"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:12.965953299Z",
+  "model": "glm-5.3"
+}

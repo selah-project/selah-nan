@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "𪜶就向雅威哀求,佇𪜶的患難中;對𪜶的窘迫,伊救𪜶脫離。",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "𪜶就哀求"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "佇患難中"
+    },
+    {
+      "surface": "להם",
+      "gloss": "𪜶的"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "對𪜶的窘迫"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "伊救𪜶脫離"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:23.203242617Z",
+  "model": "glm-5.3"
+}

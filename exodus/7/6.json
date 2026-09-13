@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "摩西佮亞倫就行照雅威所命令⟨את⟩𪜶的,按呢𪜶就行。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "就行"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "照"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "所命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:26.602013940Z",
+  "model": "glm-5.3"
+}

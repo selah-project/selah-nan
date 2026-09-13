@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "恁是雅威、恁的以羅欣的子兒;恁毋通割家己的身軀,嘛毋通為著死人佇恁的目睭中間剃做禿頭。",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "子兒"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "割家己的身軀"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋通"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "剃做"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "禿頭"
+    },
+    {
+      "surface": "בין",
+      "gloss": "中間"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "恁的目睭"
+    },
+    {
+      "surface": "למת",
+      "gloss": "為著死人"
+    }
+  ],
+  "timestamp": "2026-09-12T02:11:15.154049980Z",
+  "model": "glm-5.3"
+}

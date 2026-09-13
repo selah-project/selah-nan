@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "閣有拿阿曼、亞希雅、閣革拉 —— 伊就是𪜶彼个徙去的;伊閣生⟨את⟩烏撒佮⟨את⟩亞希戶。",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "閣有拿阿曼"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "亞希雅"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "閣革拉"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "就是𪜶彼个徙去的"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "伊閣生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏撒"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "烏撒"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "亞希戶"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "亞希戶"
+    }
+  ],
+  "timestamp": "2026-09-12T06:01:37.383192721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 5:3",
+  "book": "judges",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "列王啊,著聽;首領啊,著傾耳聽;我,為著雅威,我欲吟唱;我欲謳咦雅威,以色列的以羅欣。",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "著聽"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "列王"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "著傾耳聽"
+    },
+    {
+      "surface": "רזנים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "為著雅威"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "欲吟唱"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "欲謳咦"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列的"
+    }
+  ],
+  "timestamp": "2026-09-12T02:30:45.796011046Z",
+  "model": "glm-5.3"
+}

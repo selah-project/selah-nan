@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "雅各嘴拉結，夯⟨את⟩伊的聲起來，就哮矣。",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "就嘴"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "拉結"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "夯……起來"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的聲"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "伊的聲"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "就哮"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:55.323430531Z",
+  "model": "glm-5.3"
+}

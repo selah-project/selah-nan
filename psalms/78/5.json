@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "伊佇雅各設立見證,佇以色列設律法,這是伊命令阮祖先 ⟨את⟩ 的,欲予𪜶教曉𪜶的囝仔,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "設立"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "見證"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "佇雅各"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "閣律法"
+    },
+    {
+      "surface": "שם",
+      "gloss": "設"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "佇以色列"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "這是"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮祖先"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "阮祖先"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "欲予𪜶教曉"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "𪜶的囝仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:36.052518693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "你是我避難的所在,是我的盾牌;我對你的話向望。",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "我避難的所在"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "是我的盾牌"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "對你的話"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "我向望"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:48.227620144Z",
+  "model": "glm-5.3"
+}

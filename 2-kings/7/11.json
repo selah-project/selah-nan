@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "守門的大聲喝,𪜶就佇王宮內面報。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "喝"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "守門的"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "𪜶報"
+    },
+    {
+      "surface": "בית",
+      "gloss": "宮"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "內面"
+    }
+  ],
+  "timestamp": "2026-09-12T03:18:54.834194999Z",
+  "model": "glm-5.3"
+}

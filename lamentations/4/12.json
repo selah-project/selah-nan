@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 4,
+  "translation": "地上的列王,佮天下所有的居民,攏毋信講對敵佮仇敵會入耶路撒冷的城門。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "信"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "列王"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮所有的"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "居民"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "天下"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "會入"
+    },
+    {
+      "surface": "צר",
+      "gloss": "對敵"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "佮仇敵"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "的城門"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:29.776816768Z",
+  "model": "glm-5.3"
+}

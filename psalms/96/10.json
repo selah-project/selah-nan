@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 96,
+  "translation": "講佇列國中:雅威做王矣!世界嘛穩固,袂搖動;伊欲照正直審判萬民。",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "佇列國中"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王矣"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "穩固"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世界"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "搖動"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "審判"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "萬民"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "照正直"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:33.704989602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 11:3",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "以色列的眾長老攏來到王遐希伯崙;大衛佇希伯崙、佇雅威面前佮𪜶立約;𪜶膏⟨את⟩大衛做王管理以色列,照雅威對撒母耳的手所講的話。",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "來到"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "眾長老"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到…遐"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "希伯崙"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "立"
+    },
+    {
+      "surface": "להם",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "佇希伯崙"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "𪜶膏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "大衛"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "על",
+      "gloss": "管理"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "照…的話"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "對…的手"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "撒母耳"
+    }
+  ],
+  "timestamp": "2026-09-12T06:03:26.089278667Z",
+  "model": "glm-5.3"
+}

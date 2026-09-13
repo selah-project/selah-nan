@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "雅威轉一陣海風真強,伊夯起⟨את⟩蝗蟲,抑伊入蘆葦海;佇埃及全境,一隻蝗蟲嘛無留落來。",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "轉"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    },
+    {
+      "surface": "ים",
+      "gloss": "海"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "強"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "伊夯起"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "蝗蟲"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "抑伊入"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "入海"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "蘆葦"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "留落來"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "蝗蟲"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一隻"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇…全"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "境"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    }
+  ],
+  "timestamp": "2026-09-12T06:22:35.825280081Z",
+  "model": "glm-5.3"
+}

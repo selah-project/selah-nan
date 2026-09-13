@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 17,
+  "translation": "做歹的人耳朵空空聽歹嘴脣的話,講白賊的人傾耳聽害人的舌。",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "做歹的人"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "耳朵空空聽"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "嘴脣"
+    },
+    {
+      "surface": "און",
+      "gloss": "歹"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "講白賊的人"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "傾耳聽"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "הות",
+      "gloss": "害人的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:32.575393747Z",
+  "model": "glm-5.3"
+}

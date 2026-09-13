@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "王希西家聽見的時,就撕裂⟨את⟩伊的衫,家己套麻布,入去雅威的家。",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "的時"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "聽見"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "就撕裂"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的衫"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "伊的衫"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "家己套"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "בית",
+      "gloss": "家"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:57.258416440Z",
+  "model": "glm-5.3"
+}

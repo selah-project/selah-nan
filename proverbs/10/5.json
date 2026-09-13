@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "佇夏天囤糧的,是明智的子;佇收割時睏昏的,是予人見笑的子。",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "囤糧"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "佇夏天"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "明智的"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "睏昏"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "佇收割時"
+    },
+    {
+      "surface": "בן",
+      "gloss": "子"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "予人見笑的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:15:18.635116555Z",
+  "model": "glm-5.3"
+}

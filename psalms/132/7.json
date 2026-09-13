@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 132,
+  "translation": "咱欲入去伊的居所,咱欲佇伊的踏跤凳前跪拜。",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "咱欲入去"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "伊的居所"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "咱欲跪拜"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "佇伊的踏跤凳前"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "伊的踏跤凳"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:39.886263294Z",
+  "model": "glm-5.3"
+}

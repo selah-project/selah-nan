@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣我賞⟨את⟩基列互瑪吉。",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "閣互瑪吉"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我賞"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "基列"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "基列"
+    }
+  ],
+  "timestamp": "2026-09-12T02:07:31.266301763Z",
+  "model": "glm-5.3"
+}

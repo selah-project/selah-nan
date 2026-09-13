@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "雅威榮光的形貌親像吞噬的火佇山頂,佇以色列仔的目睭前。",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "形貌"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "親像火"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "吞噬的"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "佇山頂"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "彼座山"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "佇…的目睭前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的仔"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T01:34:58.793768106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "這个咱欲按呢做佇𪜶:容允⟨את⟩𪜶活,免得有受氣臨到阮,因為對彼个阮向𪜶所發的誓。",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "להם",
+      "gloss": "佇𪜶"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "容允…活"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "免得…毋"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "臨到阮"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "על",
+      "gloss": "對"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "彼个誓"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "的"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "發"
+    },
+    {
+      "surface": "להם",
+      "gloss": "向𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T02:23:02.949550902Z",
+  "model": "glm-5.3"
+}

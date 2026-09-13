@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "地動了後有火 —— 雅威毋佇火內;火了後有恬靜細微的聲。",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "地動"
+    },
+    {
+      "surface": "אש",
+      "gloss": "火"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "באש",
+      "gloss": "佇火內"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "了後"
+    },
+    {
+      "surface": "האש",
+      "gloss": "火"
+    },
+    {
+      "surface": "קול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "恬靜"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "細微"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:16.295603655Z",
+  "model": "glm-5.3"
+}

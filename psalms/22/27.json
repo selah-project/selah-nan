@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "謙卑的人欲食佮得飽;尋求雅威的人欲讚美伊;恁的心欲活到永遠。",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "欲食"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "謙卑的人"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "佮得飽"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "欲讚美"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "尋求伊的人"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "欲活"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "恁的心"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:00.889250381Z",
+  "model": "glm-5.3"
+}

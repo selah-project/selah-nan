@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 51,
+  "translation": "多多替我搓洗,脫離我的罪孽;對我的罪,互我清氣。",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "多多"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "替我搓洗"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "脫離我的罪孽"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "對我的罪"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "互我清氣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:43.180061394Z",
+  "model": "glm-5.3"
+}

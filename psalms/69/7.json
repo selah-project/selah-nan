@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 69,
+  "translation": "阿多奈、雅威采巴奧特啊,向望你的人毋通因為我見笑;尋你的人嘛毋通因為我受辱,以色列的以羅欣啊。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "見笑"
+    },
+    {
+      "surface": "בי",
+      "gloss": "因為我"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "向望你的人"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特"
+    },
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "受辱"
+    },
+    {
+      "surface": "בי",
+      "gloss": "因為我"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "尋你的人"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T04:54:29.848472839Z",
+  "model": "glm-5.3"
+}

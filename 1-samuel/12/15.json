@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "若恁毋聽雅威的聲，閣違背⟨את⟩雅威的嘴，雅威的手就欲臨到恁佮恁的列祖。",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "若"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "恁聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "閣違背"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的嘴"
+    },
+    {
+      "surface": "פי",
+      "gloss": "的嘴"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "就欲臨到"
+    },
+    {
+      "surface": "יד",
+      "gloss": "手"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "佮恁的列祖"
+    }
+  ],
+  "timestamp": "2026-09-12T02:41:43.390998628Z",
+  "model": "glm-5.3"
+}

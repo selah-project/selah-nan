@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 126,
+  "translation": "佇目屎內撒種的,欲佇歡呼內收割。",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "撒種的"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "佇目屎內"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "佇歡呼內"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "欲收割"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.660248045Z",
+  "model": "glm-5.3"
+}

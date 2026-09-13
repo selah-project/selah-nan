@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "你欲用鐵枴仔拍破𪜶,親像窯匠的器具,你欲捙破𪜶。」",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "拍破𪜶"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "用枴仔"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "鐵"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "親像器具"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "窯匠的"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "你欲捙破𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:33.515415229Z",
+  "model": "glm-5.3"
+}

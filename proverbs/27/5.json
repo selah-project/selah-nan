@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "公開的勸責比隱匿的疼較好。",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "較好"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "勸責"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "公開"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "疼"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "隱匿"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:47.034287400Z",
+  "model": "glm-5.3"
+}

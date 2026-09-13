@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我的性命對憂悶滴落去;照你的話互我徛起。",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "滴落去"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "對憂悶"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "互我徛起"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "照你的話"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:19.146329932Z",
+  "model": "glm-5.3"
+}

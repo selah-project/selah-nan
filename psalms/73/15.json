@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 73,
+  "translation": "若我講:「我欲按呢講述」,看啊,我就是對你子兒的世代行背叛矣。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "我欲講述"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "你的子兒"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "我行背叛"
+    }
+  ],
+  "timestamp": "2026-09-12T04:55:32.762636784Z",
+  "model": "glm-5.3"
+}

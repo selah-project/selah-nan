@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 136,
+  "translation": "閣將𪜶的地賞做產業,因為伊的赫瑟德到永遠。",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "閣……賞"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的地"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "做產業"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到永遠"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "伊的赫瑟德"
+    }
+  ],
+  "timestamp": "2026-09-12T05:07:16.871128299Z",
+  "model": "glm-5.3"
+}

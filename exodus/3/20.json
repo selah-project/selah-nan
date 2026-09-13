@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我欲伸出⟨את⟩我的手,用我欲行佇伊中間的一切奇事擊打⟨את⟩米茲拉因;了後,伊會放⟨את⟩恁去。",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "我欲伸出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "我的手"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "我欲擊打"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "米茲拉因"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "用一切"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "我的奇事"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "我欲行"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "佇伊中間"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "了後"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "伊會放……去"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁"
+    }
+  ],
+  "timestamp": "2026-09-12T01:28:05.935869584Z",
+  "model": "glm-5.3"
+}

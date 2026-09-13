@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "啊,你若曾注意聽我的誡命!你的平安就會親像一條河,你的公義親像海的湧!",
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "啊,你若"
+    },
+    {
+      "surface": "הקשבת",
+      "gloss": "你曾注意聽"
+    },
+    {
+      "surface": "למצותי",
+      "gloss": "我的誡命"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "就會"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "親像一條河"
+    },
+    {
+      "surface": "שלומך",
+      "gloss": "你的平安"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "你的公義"
+    },
+    {
+      "surface": "כגלי",
+      "gloss": "親像…的湧"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    }
+  ],
+  "timestamp": "2026-09-12T03:40:27.785186753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 91,
+  "translation": "你毋免驚暗暝的驚駭,嘛毋免驚日時咧飛的箭,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋免"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "驚"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "對彼個驚駭"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暗暝"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "對箭"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "咧飛"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "日時"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:52.815163792Z",
+  "model": "glm-5.3"
+}

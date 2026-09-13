@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 133,
+  "translation": "親像黑門山的露水，落佇錫安的山；因為佇遐雅威有命令⟨את⟩祝福，就是活命到永遠。",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "親像…露水"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "黑門山"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "落佇"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "שם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "有命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "祝福"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "祝福"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "活命"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:49.608837323Z",
+  "model": "glm-5.3"
+}

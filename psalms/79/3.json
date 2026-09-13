@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 79,
+  "translation": "𪜶流出𪜶的血親像水,佇耶路撒冷四圍,無人通埋葬。",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "𪜶流出"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "𪜶的血"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "親像水"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "四圍"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "耶路撒冷"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "無"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "人通埋葬"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:39.828307456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "伊佇批內寫講:「恁派⟨את⟩烏利亞去面對彼个上激烈的戰陣面前,恁閣對伊的後面退走,予伊受拍來死。」",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "寫"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "佇批內"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "恁派"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "烏利亞"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "烏利亞"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去到"
+    },
+    {
+      "surface": "מול",
+      "gloss": "面對"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面前"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "戰陣"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "上激烈的"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "恁退走"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "對伊的後面"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "受拍"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "來死"
+    }
+  ],
+  "timestamp": "2026-09-12T02:54:27.282333436Z",
+  "model": "glm-5.3"
+}

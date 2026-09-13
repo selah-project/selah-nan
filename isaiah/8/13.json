@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "⟨את⟩雅威·采巴奧特(萬軍之雅威)——⟨את⟩伊,恁著掠做聖;伊是恁的驚惶,伊嘛是恁的敬畏。",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威·采巴奧特"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "采巴奧特(萬軍)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩伊",
+      "marks": "伊(雅威)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "恁著掠做聖"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "恁的驚惶"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "伊嘛"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "恁的敬畏"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:44.899191348Z",
+  "model": "glm-5.3"
+}

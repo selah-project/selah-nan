@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "戇人的勞碌予伊厭倦,因為伊毋知影按怎行去城裡。",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "勞碌"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "戇人的"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "予伊厭倦"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知影"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "按怎行"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城裡"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:57.801724067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "因為阮的日子攏佇你的受氣中轉過去,阮的年歲親像一聲吐氣就無去矣。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "阮的日子"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "轉過去"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "佇你的受氣中"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "阮無去矣"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "阮的年歲"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "一聲吐氣"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:21.710079397Z",
+  "model": "glm-5.3"
+}

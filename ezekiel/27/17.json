@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 27:17",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "猶大佮以色列地,𪜶是你的生理人:用米尼特的小麥、潘納格、蜜、油佮乳香,𪜶付出你的貨物。",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "佮…地"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "המה",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "你的生理人"
+    },
+    {
+      "surface": "בחטי",
+      "gloss": "用…小麥"
+    },
+    {
+      "surface": "מנית",
+      "gloss": "米尼特"
+    },
+    {
+      "surface": "ופנג",
+      "gloss": "佮潘納格"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "佮蜜"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "佮油"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "佮乳香"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "付出"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "你的貨物"
+    }
+  ],
+  "timestamp": "2026-09-12T04:17:55.959801634Z",
+  "model": "glm-5.3"
+}

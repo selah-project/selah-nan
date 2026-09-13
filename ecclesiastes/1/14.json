@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我有看見⟨את⟩日頭下底所行的一切工課;看啊,攏總是空虛,是追風的苦惱。",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "我有看見"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "工課"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "所行的"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "攏總"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "閣…的苦惱"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "風"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:56.720590057Z",
+  "model": "glm-5.3"
+}

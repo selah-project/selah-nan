@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 21,
+  "translation": "𪜶埋葬伊⟨את⟩佇伊家己的墓園,佇烏撒的園內;伊的子約西亞接續伊做王。",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "𪜶埋葬"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "佇伊家己的墓園"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "佇…的園內"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "烏撒"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "接續…做王"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "約西亞"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    }
+  ],
+  "timestamp": "2026-09-12T03:24:40.166219296Z",
+  "model": "glm-5.3"
+}

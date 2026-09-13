@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 93,
+  "translation": "雅威做王矣,伊穿榮光;雅威穿氣力,家己縛腰;嘛,大地立在,袂搖動。",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王矣"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "榮光"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "穿"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "穿"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "עז",
+      "gloss": "氣力"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "家己縛腰"
+    },
+    {
+      "surface": "אף",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "立在"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "大地"
+    },
+    {
+      "surface": "בל",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "搖動"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:12.935176855Z",
+  "model": "glm-5.3"
+}

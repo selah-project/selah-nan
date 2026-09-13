@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "人佇伊一切的勞碌,佇日頭下底咧勞碌,有啥物利益?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "利益"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇一切"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "伊的勞碌"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "咧勞碌"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:36:56.251898215Z",
+  "model": "glm-5.3"
+}

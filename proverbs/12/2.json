@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 12,
+  "translation": "好人得雅威⟨的⟩恩惠;獨設歹計的人,伊判為有罪。",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "好"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "得"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "恩惠"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "對雅威"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "獨…人"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "歹計"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "伊判為有罪"
+    }
+  ],
+  "timestamp": "2026-09-12T05:14:15.644946277Z",
+  "model": "glm-5.3"
+}

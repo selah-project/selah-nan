@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "「我對伊的肩頭挪走重擔,伊的手對擔籃得著釋放。",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "我挪走"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "對重擔"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "伊的肩頭"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "對擔籃"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "得著釋放"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:22.102915817Z",
+  "model": "glm-5.3"
+}

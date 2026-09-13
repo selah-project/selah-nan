@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 145,
+  "translation": "雅威真大,真值得讚美;伊的偉大無人會當測度。",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "真大"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "閣真值得讚美"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "閣伊的偉大"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "會當測度"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:41.612636900Z",
+  "model": "glm-5.3"
+}

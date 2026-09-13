@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 48,
+  "translation": "高地真美,是全地的歡喜,錫安山,撒分(北方)的極邊,大王的城。",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "真美"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "高地"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "歡喜"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "הר",
+      "gloss": "山"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "極邊"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "撒分(北方)"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "城"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "רב",
+      "gloss": "大"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:16.901459606Z",
+  "model": "glm-5.3"
+}

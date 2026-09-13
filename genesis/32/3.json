@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "雅各看著𪜶的時就講:「這是以羅欣的營。」伊就共彼個所在號名做馬哈納音。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "的時"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "看著"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "營"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "號名"
+    },
+    {
+      "surface": "שם",
+      "gloss": "名"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "彼個所在"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "馬哈納音"
+    }
+  ],
+  "timestamp": "2026-09-12T01:18:32.376914733Z",
+  "model": "glm-5.3"
+}

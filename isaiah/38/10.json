@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 38,
+  "translation": "我講:佇我的日仔受斬斷的時,我欲入去示阿勒的門;我剩的年歲互人剝奪去矣。",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "受斬斷"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "我的日仔"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "我欲去"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "入去…的門"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "示阿勒"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "互人剝奪"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "剩的"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "我的年歲"
+    }
+  ],
+  "timestamp": "2026-09-12T03:36:53.162703348Z",
+  "model": "glm-5.3"
+}

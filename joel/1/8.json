@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "哀哭,親像處女束麻布,為著伊少年的丈夫。",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "哀哭"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "親像處女"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "束"
+    },
+    {
+      "surface": "שק",
+      "gloss": "麻布"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "丈夫"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "伊少年的(時)"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:14.721710415Z",
+  "model": "glm-5.3"
+}

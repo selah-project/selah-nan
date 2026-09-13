@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 26:9",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "烏西雅佇耶路撒冷起樓塔,佇角門遐、佇山谷門遐、閣佇轉角遐,閣予𪜶堅固。",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "起"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "烏西雅"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "樓塔"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…遐"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "角"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇…遐"
+    },
+    {
+      "surface": "שער",
+      "gloss": "門"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "山谷"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣佇…遐"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "轉角"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "閣予𪜶堅固"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:16.070702615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "以羅欣的約櫃佮俄別‧以東一家的人蹛佇伊的厝三個月;雅威就賜福⟨את⟩俄別‧以東的厝,閣賜福⟨את⟩伊所有的一切。",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "就蹛"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "עם",
+      "gloss": "佮"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝(一家)"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "俄別"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "以東"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊的厝"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "三"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "個月"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "就賜福"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "俄別‧以東的厝"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "俄別"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "以東"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩閣",
+      "marks": "伊所有的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:35:28.248980794Z",
+  "model": "glm-5.3"
+}

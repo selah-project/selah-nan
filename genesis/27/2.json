@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "伊講:「你看,我老矣,我毋知我死的日;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "你看"
+    },
+    {
+      "surface": "נא",
+      "gloss": "今"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "我老矣"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "我知"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "我死"
+    }
+  ],
+  "timestamp": "2026-09-12T01:16:30.633794770Z",
+  "model": "glm-5.3"
+}

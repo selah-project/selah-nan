@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "雅威啊,請側耳聽我个話,明白我个默想。",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "我个話"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "請側耳聽"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "明白"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "我个默想"
+    }
+  ],
+  "timestamp": "2026-09-12T04:42:53.367225903Z",
+  "model": "glm-5.3"
+}

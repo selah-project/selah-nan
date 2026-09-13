@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "半暝我起來感謝你,因為你公義的判語。",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "半暝的"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暝"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "我起來"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "欲感謝"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你"
+    },
+    {
+      "surface": "על",
+      "gloss": "因為"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "判語"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "你公義的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:34.703296256Z",
+  "model": "glm-5.3"
+}

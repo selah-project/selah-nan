@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "諸个環欲佇圍框个邊,做槓仔个座位,用𪜶扛 ⟨את⟩ 桌。",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "佇…个邊"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "圍框"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "欲佇"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "諸个環"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "做座位"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "槓仔"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "用扛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桌"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:03.137548776Z",
+  "model": "glm-5.3"
+}

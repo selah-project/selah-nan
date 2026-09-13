@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "因為伊毋曾看輕,也毋曾厭惡受苦者的苦難;也毋曾掩伊的面離開伊;伊向伊呼救的時,伊垂聽。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋曾"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "看輕"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋曾"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "厭惡"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "苦難"
+    },
+    {
+      "surface": "עני",
+      "gloss": "受苦者的"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也毋曾"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "掩"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "伊的面"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "離開伊"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "佇伊呼救的時"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "向伊"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "垂聽"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:00.888852152Z",
+  "model": "glm-5.3"
+}

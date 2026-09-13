@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "伊恐怖閣驚人,伊的判斷佮伊的威嚴對伊家己演出。",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "恐怖"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "閣驚人"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊家己"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "伊的判斷"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "佮伊的威嚴"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "演出"
+    }
+  ],
+  "timestamp": "2026-09-12T06:31:45.377297681Z",
+  "model": "glm-5.3"
+}

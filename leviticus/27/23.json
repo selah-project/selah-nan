@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "祭司就替伊算⟨את⟩你估定的份額,直到禧年;彼人佇彼日愛交⟨את⟩你估定的銀,做雅威的聖物。",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "就算"
+    },
+    {
+      "surface": "לו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你估定的份額"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "份額"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "你估定的"
+    },
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "…年"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "禧"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "愛交"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "你估定的銀"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "你估定的"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…日"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "聖物"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "雅威的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:41.241621078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "王死矣,𪜶載伊來到撒瑪利亞,𪜶就佇撒瑪利亞埋葬⟨את⟩王。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "來到"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "撒瑪利亞"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "𪜶就埋葬"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "王"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "佇撒瑪利亞"
+    }
+  ],
+  "timestamp": "2026-09-12T03:14:45.485196998Z",
+  "model": "glm-5.3"
+}

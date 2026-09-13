@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "阮就奪取⟨את⟩𪜶的土地,互伊做產業,互呂便族、互迦得族、閣互瑪拿西半個支派。",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "阮奪取"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的土地"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "𪜶的土地"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "阮互伊"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "做產業"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "互呂便族"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "互迦得族"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "閣互半"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "個支派"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "瑪拿西"
+    }
+  ],
+  "timestamp": "2026-09-12T02:17:34.719155717Z",
+  "model": "glm-5.3"
+}

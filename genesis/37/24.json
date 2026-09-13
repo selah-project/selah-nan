@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "𪜳就掠伊,擲 ⟨את⟩ 伊入去坑內;彼个坑是空的,內底無水。",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "𪜶就掠伊"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "擲"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "入去坑內"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "彼个坑"
+    },
+    {
+      "surface": "רק",
+      "gloss": "是空的"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "בו",
+      "gloss": "內底"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T01:22:04.686562163Z",
+  "model": "glm-5.3"
+}

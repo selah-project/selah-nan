@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "歸亞伯拉罕做業,佇赫的眾子的目睭前,佇所有入伊的城門的人中間。",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "歸亞伯拉罕"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "做業"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "佇…的目睭前"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的眾子"
+    },
+    {
+      "surface": "חת",
+      "gloss": "赫"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "佇所有"
+    },
+    {
+      "surface": "באי",
+      "gloss": "入"
+    },
+    {
+      "surface": "שער",
+      "gloss": "…門"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "伊的城"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:22.634693400Z",
+  "model": "glm-5.3"
+}

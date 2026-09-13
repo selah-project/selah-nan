@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "十肘是一塊板的長,閣一肘半是一塊板的闊。",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "肘"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "…的長"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "一塊板"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "閣一肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "佮半"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "肘"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "…的闊"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "一塊板"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "彼一塊"
+    }
+  ],
+  "timestamp": "2026-09-12T01:35:20.787495186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "閣這些嘛是所羅門的譬喻,是希西家、猶大王的臣子抄錄出來的。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "閣……嘛"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "這些"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "譬喻"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "所羅門"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "是……的"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "抄錄出來"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "臣子"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "希西家"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "猶大"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:25.705040132Z",
+  "model": "glm-5.3"
+}

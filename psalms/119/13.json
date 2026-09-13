@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "我用喙脣數念你喙內一切的判語。",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "用喙脣"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "我數念"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "判語"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "你喙內的"
+    }
+  ],
+  "timestamp": "2026-09-12T05:04:09.735449497Z",
+  "model": "glm-5.3"
+}

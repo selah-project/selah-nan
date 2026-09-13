@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "為著欲予後世代知影,就是將來欲出世的囝仔;𪜶欲徛起來,講予𪜶的囝仔聽,",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "為著"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "知影"
+    },
+    {
+      "surface": "דור",
+      "gloss": "世代"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "後"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "囝仔"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "欲出世"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "徛起來"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "閣講予…聽"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "𪜶的囝仔"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:36.052773171Z",
+  "model": "glm-5.3"
+}

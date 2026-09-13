@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "因為恁的手掌染著血,恁的手指頭染著罪惡;恁的喙唇講白賊,恁的舌頭喃喃講不義。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "恁的手掌"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "染著污穢"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "血"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "恁的手指頭"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "罪惡"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "恁的喙唇"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "講"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "恁的舌頭"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "不義"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "喃喃講"
+    }
+  ],
+  "timestamp": "2026-09-13T04:52:00.140610503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 109,
+  "translation": "因為歹人个喙佮欺騙个喙對我開,𪜶用白賊个舌佮⟨את⟩我講話。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "פי",
+      "gloss": "喙"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "歹人"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "佮喙"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "欺騙"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "開"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "講話"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "佮⟨את⟩我",
+      "marks": "我"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "舌"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:25.911330109Z",
+  "model": "glm-5.3"
+}

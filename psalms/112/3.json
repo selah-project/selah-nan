@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 112,
+  "translation": "錢財佮富貴佇佇伊的厝內,伊的公義徛到永遠。",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "錢財"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "佮富貴"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "佇伊的厝內"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "伊的公義"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "徛"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "到永遠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:51.267112144Z",
+  "model": "glm-5.3"
+}

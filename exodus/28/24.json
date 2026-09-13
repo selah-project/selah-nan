@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "閣共⟨את⟩彼兩條金索仔下佇兩个環,佇胸牌的邊頭。",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "閣……下"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼兩條金索仔"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "條索仔"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "金"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "个環"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "邊頭"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "胸牌"
+    }
+  ],
+  "timestamp": "2026-09-12T01:37:28.449957242Z",
+  "model": "glm-5.3"
+}

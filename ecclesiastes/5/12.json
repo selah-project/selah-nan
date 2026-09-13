@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "有一項疼病的惡,我佇日頭下底看過:就是財富囤踮伊的主人遐,做伊的害。",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "有"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "惡"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "疼病的"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "我看過"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "下底"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "日頭"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "財富"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "囤"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "伊的主人"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "伊的害"
+    }
+  ],
+  "timestamp": "2026-09-12T05:38:27.774673781Z",
+  "model": "glm-5.3"
+}

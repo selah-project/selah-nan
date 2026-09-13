@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "人出去做伊的工,去做伊的勞碌,一直到暗昏。",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "出去"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "做伊的工"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "去做伊的勞碌"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "一直到"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "暗昏"
+    }
+  ],
+  "timestamp": "2026-09-12T05:00:46.494521125Z",
+  "model": "glm-5.3"
+}

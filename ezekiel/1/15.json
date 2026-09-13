@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 1:15",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "我看著彼啲活物,看啊,有一个輪仔佇土腳,佇活物邊仔,對著𪜶的四個面。",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "我看著"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "彼啲活物"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "輪仔"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "一个"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇土腳"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "佇……邊仔"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "活物"
+    },
+    {
+      "surface": "לארבעת",
+      "gloss": "對著四個"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:07:50.678306065Z",
+  "model": "glm-5.3"
+}

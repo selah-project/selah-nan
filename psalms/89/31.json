@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 89,
+  "translation": "若是伊的囝仔棄撒我的律法,毋照我的典章行,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若是"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "棄撒"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "伊的囝仔"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "我的律法"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "閣毋照我的典章"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "行"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:40.456028730Z",
+  "model": "glm-5.3"
+}

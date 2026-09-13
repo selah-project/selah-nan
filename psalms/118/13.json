@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 118,
+  "translation": "捒啊捒,你捒我欲予我倒,總是雅威幫助我。",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "捒啊捒"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "你捒我"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "欲予我倒"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "總是雅威"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "幫助我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:49.963578341Z",
+  "model": "glm-5.3"
+}

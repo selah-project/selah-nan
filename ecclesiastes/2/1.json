@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "我佇我的心內講:來啦,我欲用歡喜試驗你,看覓好物——看啊,這嘛是空虛。",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אני",
+      "gloss": "我"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "佇我的心內"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "來"
+    },
+    {
+      "surface": "נא",
+      "gloss": "啦"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "我欲試驗"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "用歡喜"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "看覓"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "好物"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "空虛"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:29.725115011Z",
+  "model": "glm-5.3"
+}

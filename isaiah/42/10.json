@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 42,
+  "translation": "著替雅威唱新的歌,對地的極頭讚美伊;落海的人佮海內一切的物,海島佮蹛佇遐的人。",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "著……唱"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "替雅威"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "新的"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "讚美伊"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "對……極頭"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "落……的人"
+    },
+    {
+      "surface": "הים",
+      "gloss": "海"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "佮海內一切的物"
+    },
+    {
+      "surface": "איים",
+      "gloss": "海島"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "佮蹛佇遐的人"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:14.938965693Z",
+  "model": "glm-5.3"
+}

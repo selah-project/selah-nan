@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 119,
+  "translation": "細漢閣予人看輕,是我;毋拘汝个律例我毋袂記得。",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "細漢"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "是我"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "閣予人看輕"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "汝个律例"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "袂記得"
+    }
+  ],
+  "timestamp": "2026-09-12T05:05:20.634070112Z",
+  "model": "glm-5.3"
+}

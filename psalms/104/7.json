@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 104,
+  "translation": "對你的喝斥,𪜶就走閃;對你雷公的聲,𪜶就趕緊走。",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "對…"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "你的喝斥"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "走閃"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對…"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "你的雷公"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "趕緊走"
+    }
+  ],
+  "timestamp": "2026-09-12T05:01:16.040097276Z",
+  "model": "glm-5.3"
+}

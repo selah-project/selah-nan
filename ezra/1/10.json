@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "金的碗三十,銀的碗第二等的四百佮十,別項器具一千。",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "碗"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "金的"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "三十"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "碗"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀的"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "第二等的"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "佮十"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "器具"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "別項"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "一千"
+    }
+  ],
+  "timestamp": "2026-09-12T06:34:42.159807030Z",
+  "model": "glm-5.3"
+}

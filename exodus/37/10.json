@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "伊閣做⟨את⟩桌,用什亭(皂莢)木:兩肘是伊的長,一肘是伊的闊,一肘閣半是伊的高。",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "閣做"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "桌"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "桌"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "木"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "什亭"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "兩肘"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "伊的長"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "伊的闊"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "一肘"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "閣半"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "伊的高"
+    }
+  ],
+  "timestamp": "2026-09-12T01:39:44.756151298Z",
+  "model": "glm-5.3"
+}

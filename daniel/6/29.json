@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 6:29",
+  "book": "daniel",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "但以理這个人佇大流士的王國,閣佇波斯人古列的王國,攏真發達。",
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "但以理"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "這"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "發達"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "佇王國"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "大流士"
+    },
+    {
+      "surface": "ובמלכות",
+      "gloss": "閣佇王國"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "古列"
+    },
+    {
+      "surface": "פרסיא",
+      "gloss": "波斯人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:45:32.745890426Z",
+  "model": "glm-5.3"
+}

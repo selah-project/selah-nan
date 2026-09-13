@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "亞伯蘭佇牲畜、佇銀仔、佇金仔,真重、真濟。",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "亞伯蘭"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "真重"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "真"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "佇牲畜"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "佇銀仔"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "佇金仔"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:32.168882096Z",
+  "model": "glm-5.3"
+}

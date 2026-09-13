@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "我的背,我互拍擊的人;我的面頰,互搝拔的人;我的面,毋對凌辱佮呸涎掩閘。",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "背"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "我互"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "拍擊的人"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "閣我的面頰"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "搝拔的人"
+    },
+    {
+      "surface": "פני",
+      "gloss": "我的面"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "掩閘"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "對凌辱"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "佮呸涎"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:52.692587650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "我的性命佇獅仔中間；我躺佇火焰中間——人的子孫，𪜶的喙齒是槍佮箭，𪜶的舌是利劍。",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "我的性命"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "獅仔"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "我躺"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "火焰"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…的子孫"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "𪜶的喙齒"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "槍"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "佮箭"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "𪜶的舌"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "劍"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "利"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:43.169922858Z",
+  "model": "glm-5.3"
+}

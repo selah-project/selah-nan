@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "地佇以羅欣面前敗壞矣,地充滿強暴。",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "就敗壞矣"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "佇…面前"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "就充滿"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "彼個地"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "強暴"
+    }
+  ],
+  "timestamp": "2026-09-12T06:21:44.338980332Z",
+  "model": "glm-5.3"
+}

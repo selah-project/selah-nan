@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 108,
+  "translation": "以羅欣啊,願你受舉懸佇諸天頂,願你的榮光徛佇歸個大地。",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "願你受舉懸"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇…頂"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "諸天"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "佮佇…頂"
+    },
+    {
+      "surface": "כל",
+      "gloss": "歸個"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "大地"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "你的榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:03:08.419029994Z",
+  "model": "glm-5.3"
+}

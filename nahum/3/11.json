@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "連你嘛會醉,你會隱密無看見;連你嘛會對敵人尋堡壘。",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "連……嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "會醉"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "會"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "隱密無看見"
+    },
+    {
+      "surface": "גם",
+      "gloss": "連……嘛"
+    },
+    {
+      "surface": "את",
+      "gloss": "你"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "會尋"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "堡壘"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "對敵人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:35:01.309403704Z",
+  "model": "glm-5.3"
+}

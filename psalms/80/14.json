@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "森林出來的豬蕩踏毀伊,田野的野獸咬食伊。",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "踏毀伊"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "豬"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "對森林"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "佮野獸"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "田野的"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "咬食伊"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.907324686Z",
+  "model": "glm-5.3"
+}

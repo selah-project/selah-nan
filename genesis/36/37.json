@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "撒母拉死矣,掃羅(對河的利合伯)接續伊做王。",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "撒母拉"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "接續伊"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "利合伯"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "對河的"
+    }
+  ],
+  "timestamp": "2026-09-12T01:19:52.198674373Z",
+  "model": "glm-5.3"
+}

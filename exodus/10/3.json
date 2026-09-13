@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 10:3",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "摩西佮亞倫入去見法老,對伊講:「雅威,希伯來人的以羅欣,按呢講:『你到啥物時陣才欲拒絕佇我面頭前降卑?放阮的百姓去,互𪜶服事我。』」",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "אל",
+      "gloss": "見"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "講"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "כה",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…的以羅欣"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "希伯來人"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "啥物時陣"
+    },
+    {
+      "surface": "מאנת",
+      "gloss": "你拒絕"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "降卑"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "對…面頭前"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "放…去"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "互𪜶服事我"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:59.103393943Z",
+  "model": "glm-5.3"
+}

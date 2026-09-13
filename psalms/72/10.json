@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 72,
+  "translation": "他施諸王佮海島諸王欲獻貢物;示巴佮西巴諸王欲進呈禮物。",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "他施"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "佮海島"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "貢物"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "欲獻"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "諸王"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "示巴"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "佮西巴"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "禮物"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "欲進呈"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:57.306903020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "閣我欲收回我的手向佇你,閣我欲親像硼提煉你的渣,閣我欲除掉你全部的錫。",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "閣我欲收回"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "我的手"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "向佇你"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "閣我欲提煉"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "親像硼"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "你的渣"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "閣我欲除掉"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全部"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "你的錫"
+    }
+  ],
+  "timestamp": "2026-09-12T03:27:18.951454287Z",
+  "model": "glm-5.3"
+}

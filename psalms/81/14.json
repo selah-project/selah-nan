@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "喔!我的百姓若肯聽我,以色列就行佇我的路內!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "喔!…若"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "佇我的路內"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "就行"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:16.176642846Z",
+  "model": "glm-5.3"
+}

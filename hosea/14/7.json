@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 14,
+  "translation": "伊的嫩枝欲伸出來,伊的榮光欲親像橄欖樹,伊的香味欲親像黎巴嫩。",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "欲伸出來"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "伊的嫩枝"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "欲親像"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "橄欖樹"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "伊的榮光"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "伊的香味"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "親像黎巴嫩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:28:44.084737706Z",
+  "model": "glm-5.3"
+}

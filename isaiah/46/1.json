@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 46,
+  "translation": "彼勒跪落去,尼波彎腰曲背;𪜶的偶像已經變做野獸佮精牲口的;恁所扛的,逐項攏縛做伙,做重擔互彼個厭倦的。",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "跪落去"
+    },
+    {
+      "surface": "בל",
+      "gloss": "彼勒"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "彎腰曲背"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "尼波"
+    },
+    {
+      "surface": "היו",
+      "gloss": "已經變做"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "𪜶的偶像"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "野獸"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "佮精牲口"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "恁所扛的"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "攏縛做伙"
+    },
+    {
+      "surface": "משא",
+      "gloss": "做重擔"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "互彼個厭倦的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:29:58.817976094Z",
+  "model": "glm-5.3"
+}

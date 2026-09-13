@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "大衛對彼个報消息予伊聽的少年人講:「你按怎知講掃羅死矣,伊的子約拿單嘛死矣?」",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "彼个少年人"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "報消息的"
+    },
+    {
+      "surface": "לו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "איך",
+      "gloss": "按怎"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "你知"
+    },
+    {
+      "surface": "כי",
+      "gloss": "講"
+    },
+    {
+      "surface": "מת",
+      "gloss": "死矣"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "佮約拿單"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的子"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:12.820815451Z",
+  "model": "glm-5.3"
+}

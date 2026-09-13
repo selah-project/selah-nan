@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "伊對我是埋伏的狗熊，是匿佇隱密處的獅。",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "狗熊"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "埋伏"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "לי",
+      "gloss": "對我"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "獅"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "匿佇隱密處"
+    }
+  ],
+  "timestamp": "2026-09-12T05:35:02.376546184Z",
+  "model": "glm-5.3"
+}

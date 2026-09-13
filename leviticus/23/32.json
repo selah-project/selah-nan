@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "安息日、完全安息日,這是予恁的;恁欲刻苦⟨את⟩恁的性命;佇彼个月第九日,暗時,對暗時到暗時,恁欲守恁的安息日。",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "安息日"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "完全安息日"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "這是"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "予恁的"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "恁欲刻苦"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "恁的性命"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "恁的性命"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "佇…第九日"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "彼个月"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "暗時"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "對暗時"
+    },
+    {
+      "surface": "עד",
+      "gloss": "到"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "暗時"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "恁欲守"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "恁的安息日"
+    }
+  ],
+  "timestamp": "2026-09-12T01:49:53.761421547Z",
+  "model": "glm-5.3"
+}

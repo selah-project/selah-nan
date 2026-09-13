@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 13,
+  "translation": "第七日祭司愛看⟨את⟩彼個災病,看啊,禿瘡若無蔓延,內底無黃色的毛,禿瘡的外觀嘛無比皮膚較深——",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "愛看"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼個災病"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "彼個災病"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "第七日"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "蔓延"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "禿瘡"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛無"
+    },
+    {
+      "surface": "היה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בו",
+      "gloss": "佇伊內底"
+    },
+    {
+      "surface": "שער",
+      "gloss": "毛"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "黃色"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "佮外觀"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "禿瘡的"
+    },
+    {
+      "surface": "אין",
+      "gloss": "無"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "較深"
+    },
+    {
+      "surface": "מן",
+      "gloss": "比"
+    },
+    {
+      "surface": "העור",
+      "gloss": "皮膚"
+    }
+  ],
+  "timestamp": "2026-09-12T01:46:07.129168538Z",
+  "model": "glm-5.3"
+}

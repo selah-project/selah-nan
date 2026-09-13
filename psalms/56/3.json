@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "我的對敵逐日咧吞我,因為真濟人相刣我,至高的啊。",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "咧吞我"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "我的對敵"
+    },
+    {
+      "surface": "כל",
+      "gloss": "逐"
+    },
+    {
+      "surface": "היום",
+      "gloss": "日"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "真濟"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "相刣我"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "至高的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:52:19.348821346Z",
+  "model": "glm-5.3"
+}

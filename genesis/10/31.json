@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "遮个是閃的後生,照𪜶的家族、照𪜶的語言,佇𪜶的地、照𪜶的國族。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "遮个"
+    },
+    {
+      "surface": "בני",
+      "gloss": "後生"
+    },
+    {
+      "surface": "שם",
+      "gloss": "閃"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "照𪜶的語言"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "佇𪜶的地"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "照𪜶的國族"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:09.121994975Z",
+  "model": "glm-5.3"
+}

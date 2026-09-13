@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "閣祭司欲共伊燒佇祭壇頂,做火祭的糧食予雅威。",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "閣…燒(做香)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "佇祭壇頂"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "糧食"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "火祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "予雅威"
+    }
+  ],
+  "timestamp": "2026-09-12T01:41:18.683005870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 82,
+  "translation": "毋過恁確實親像亞當會死,閣親像諸侯中的一位會倒落去。",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "毋過…確實"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "親像亞當"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "會死"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "閣親像…中的一位"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "諸侯"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "會倒落去"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:04.844809855Z",
+  "model": "glm-5.3"
+}

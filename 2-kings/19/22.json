@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 19:22",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "⟨את⟩啥物人你侮慢?啥物人你毀謗?你向啥物人懸聲,閣懸懸舉起你的目睭?就是向以色列的聖者!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "啥物人"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "你侮慢"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "閣毀謗"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "閣向"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥物人"
+    },
+    {
+      "surface": "הרימות",
+      "gloss": "你舉起"
+    },
+    {
+      "surface": "קול",
+      "gloss": "聲"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "閣舉"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "懸懸"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "你的目睭"
+    },
+    {
+      "surface": "על",
+      "gloss": "向"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "聖者"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:25:00.956503572Z",
+  "model": "glm-5.3"
+}

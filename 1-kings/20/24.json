@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣做⟨את⟩這個代誌:將諸個王每一位對伊的位褪走，閣設總督代替𪜶。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "這個代誌"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "這個代誌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "這個"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "做"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "褪走"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "諸個王"
+    },
+    {
+      "surface": "איש",
+      "gloss": "每一位"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "對伊的位"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "閣設"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "總督"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "代替𪜶"
+    }
+  ],
+  "timestamp": "2026-09-12T03:13:16.726116572Z",
+  "model": "glm-5.3"
+}

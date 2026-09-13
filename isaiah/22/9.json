@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "閣⟨את⟩大衛城的破裂恁看見矣,因為已經真濟,恁就聚集⟨את⟩下池的水。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "大衛城的破裂"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "破裂"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "城"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "恁看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "已經真濟"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "恁就聚集"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "下池的水"
+    },
+    {
+      "surface": "מי",
+      "gloss": "水"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "池"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "下面的"
+    }
+  ],
+  "timestamp": "2026-09-12T03:32:32.567745699Z",
+  "model": "glm-5.3"
+}

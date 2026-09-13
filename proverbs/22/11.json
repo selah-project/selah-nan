@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "疼心內清氣的人,伊的喙唇有恩惠,王做伊的朋友。",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "疼"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "清氣"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心內"
+    },
+    {
+      "surface": "חן",
+      "gloss": "恩惠"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "伊的喙唇"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "伊的朋友"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    }
+  ],
+  "timestamp": "2026-09-12T05:17:16.222515404Z",
+  "model": "glm-5.3"
+}

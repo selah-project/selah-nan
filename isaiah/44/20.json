@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 44,
+  "translation": "伊食灰,親像飼牛草;受欺騙的心肝拐伊偏去,伊救袂出⟨את⟩伊的家己,也袂講:「我的正手頭敢毋是白賊?」",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "飼牛草"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "食灰"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心肝"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "受欺騙的"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "拐伊偏去"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "救出"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的家己"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "伊的家己"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "也袂"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "敢毋是"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "在我的正手頭"
+    }
+  ],
+  "timestamp": "2026-09-12T03:41:08.968043496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 9,
+  "translation": "閣伊刣⟨את⟩燒祭的牲禮,亞倫的囝將⟨את⟩彼个血捧到伊面前,伊灑佇祭壇的四箍圍。",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "刣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "燒祭的牲禮"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "燒祭的牲禮"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "捧到"
+    },
+    {
+      "surface": "בני",
+      "gloss": "的囝"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "亞倫"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "到伊面前"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼个血"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "彼个血"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "灑"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "四箍圍"
+    }
+  ],
+  "timestamp": "2026-09-12T01:43:43.338873511Z",
+  "model": "glm-5.3"
+}

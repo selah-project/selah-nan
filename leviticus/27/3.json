@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 27:3",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "你對男的估價，對二十歲到六十歲，你的估價是五十舍客勒銀，照聖所的舍客勒。",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你的估價"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "男的"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "對…歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "到"
+    },
+    {
+      "surface": "בן",
+      "gloss": "歲"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "六十"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "是"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "你的估價"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "五十"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "舍客勒"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "銀"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "照…的舍客勒"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "聖所"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:28.379636580Z",
+  "model": "glm-5.3"
+}

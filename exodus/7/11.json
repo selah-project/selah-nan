@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "法老嘛召智者佮行巫術的人;米茲拉因(埃及)的術士嘛用𪜶的秘法按呢做。",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "就召"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "對智者"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "佮對行巫術的人"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "𪜶做"
+    },
+    {
+      "surface": "גם",
+      "gloss": "嘛"
+    },
+    {
+      "surface": "הם",
+      "gloss": "𪜶"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "術士"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "米茲拉因(埃及)"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "用𪜶的秘法"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    }
+  ],
+  "timestamp": "2026-09-12T01:27:23.097454519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 57,
+  "translation": "⟨伊⟩入去平安,⟨𪜶⟩佇⟨𪜶⟩的眠床頂安息,逐个行伊的正直路。",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "入去"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "平安"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "安息"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "𪜶的眠床"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "行"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "伊的正直路"
+    }
+  ],
+  "timestamp": "2026-09-12T03:43:15.917400381Z",
+  "model": "glm-5.3"
+}

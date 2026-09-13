@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "以利亞對規個百姓講:「恁倚近我。」規個百姓就倚近伊;伊修好⟨את⟩雅威的祭壇,就是彼個已經毀壞的。",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "對規個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "恁倚近"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "我遮"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "就倚近"
+    },
+    {
+      "surface": "כל",
+      "gloss": "規個"
+    },
+    {
+      "surface": "העם",
+      "gloss": "百姓"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "伊遐"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "修好"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的祭壇"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "彼個毀壞的"
+    }
+  ],
+  "timestamp": "2026-09-12T06:28:00.947983194Z",
+  "model": "glm-5.3"
+}

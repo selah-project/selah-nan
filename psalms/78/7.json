@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 78,
+  "translation": "欲予𪜶向以羅欣下向望,袂記得以勒的作為,閣遵守伊的誡命。",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "欲予𪜶下"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "向以羅欣"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "向望"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "閣毋"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "作為"
+    },
+    {
+      "surface": "אל",
+      "gloss": "以勒"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "閣伊的誡命"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "遵守"
+    }
+  ],
+  "timestamp": "2026-09-12T04:56:36.052955467Z",
+  "model": "glm-5.3"
+}

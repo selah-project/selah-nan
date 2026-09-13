@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 19,
+  "translation": "掃羅聽約拿單的聲,掃羅就咒誓:「雅威活啲,伊袂予人害死。」",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "聽"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "…的聲"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "就咒誓"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "חי",
+      "gloss": "活啲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אם",
+      "gloss": "袂"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "予人害死"
+    }
+  ],
+  "timestamp": "2026-09-12T02:44:43.481350549Z",
+  "model": "glm-5.3"
+}

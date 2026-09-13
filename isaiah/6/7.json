@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "伊用彼粒摸我的嘴,講:看啊,這个已經摸著你的嘴唇,你的過犯挪去矣,你的罪受遮蓋矣。",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "伊摸"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "פי",
+      "gloss": "我的嘴"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "伊講"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "摸著"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這个"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "你的嘴唇"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "挪去矣"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "你的過犯"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "你的罪"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "受遮蓋矣"
+    }
+  ],
+  "timestamp": "2026-09-12T03:29:16.890707705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 107,
+  "translation": "就是𪜶,𪜶看見雅威的作為,佮伊的奇妙佇深淵內底。",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "就是𪜶"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "𪜶看見"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "…的作為"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "佮伊的奇妙"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "佇深淵內底"
+    }
+  ],
+  "timestamp": "2026-09-12T05:02:06.627419880Z",
+  "model": "glm-5.3"
+}

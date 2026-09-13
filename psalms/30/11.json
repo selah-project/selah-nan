@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "雅威啊,聽啊,憐憫我;雅威啊,做我的幫助者。",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "聽啊"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "閣憐憫我"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "היה",
+      "gloss": "做"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "幫助者"
+    },
+    {
+      "surface": "לי",
+      "gloss": "我的"
+    }
+  ],
+  "timestamp": "2026-09-12T04:46:48.505941112Z",
+  "model": "glm-5.3"
+}

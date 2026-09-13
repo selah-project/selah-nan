@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "羊羔通做你的衫，山羊做田園的價數。",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "羊羔"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "通做你的衫"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "做……的價數"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "田園"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "山羊"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:21.261281910Z",
+  "model": "glm-5.3"
+}

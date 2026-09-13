@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "直到我來,續帶 ⟨את⟩ 恁去一個地,親像恁的地,五穀佮新酒的地,餅佮葡萄園的地。",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "直到"
+    },
+    {
+      "surface": "באי",
+      "gloss": "我來"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "續帶"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ 恁",
+      "marks": "恁"
+    },
+    {
+      "surface": "אל",
+      "gloss": "去"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "一個地"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "親像恁的地"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "五穀"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "佮新酒"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "佮葡萄園"
+    }
+  ],
+  "timestamp": "2026-09-12T03:37:17.531303031Z",
+  "model": "glm-5.3"
+}

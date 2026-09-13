@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 20:37",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 20,
+  "translation": "閣我欲互恁行佇⟨את⟩杖的下底,閣我欲導恁入⟨את⟩約的束縛內。",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "閣我欲互恁行過"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁(做我導行的對象)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "佇…下底"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "杖"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "閣我欲導入"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩恁",
+      "marks": "恁(做我導入的對象)"
+    },
+    {
+      "surface": "במסרת",
+      "gloss": "佇…的束縛內"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "約"
+    }
+  ],
+  "timestamp": "2026-09-12T04:15:23.101430523Z",
+  "model": "glm-5.3"
+}

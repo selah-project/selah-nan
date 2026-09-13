@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 32,
+  "translation": "倚靠錢財的人的器具是歹的;伊計謀惡毒的計策,欲用白賊話害謙卑的人,佇窮苦人講公道的時陣。",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "嘛…的器具"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "伊的器具"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "歹的"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "惡毒的計策"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "計謀"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "欲害"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "謙卑的人"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "用…話"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "白賊"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "佇…講"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "窮苦人"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "公道"
+    }
+  ],
+  "timestamp": "2026-09-12T03:35:49.760117300Z",
+  "model": "glm-5.3"
+}

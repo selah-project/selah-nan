@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 146,
+  "translation": "我欲佇我活命的時謳咾雅威;我猶佇世間的時,我欲唱詩讚美我的以羅欣。",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "我欲謳咾"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "佇我活命的時"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "我欲唱詩讚美"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "我的以羅欣"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "我猶佇世間的時"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:33.297190827Z",
+  "model": "glm-5.3"
+}

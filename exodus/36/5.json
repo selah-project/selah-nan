@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 36,
+  "translation": "𪜶對摩西講,講:「人民帶來--的,比雅威命令所著做⟨את⟩伊彼項工課的服事所需要--的,濟甲傷過額矣。」",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "𪜶就講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "傷過額"
+    },
+    {
+      "surface": "העם",
+      "gloss": "人民"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "帶來"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "比…所需要--的"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "服事"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "對彼項工課"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "命令"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "所著做"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "伊(彼項工課)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:40:12.086510247Z",
+  "model": "glm-5.3"
+}

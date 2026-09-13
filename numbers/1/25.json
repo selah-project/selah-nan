@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "𪜶被點數的,屬迦得支派的,是四萬五千六百五十。",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "𪜶被點數的"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "屬…支派的"
+    },
+    {
+      "surface": "גד",
+      "gloss": "迦得"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "佮四十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "佮六"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "佮五十"
+    }
+  ],
+  "timestamp": "2026-09-12T01:51:42.738423043Z",
+  "model": "glm-5.3"
+}

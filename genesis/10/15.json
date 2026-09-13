@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "迦南生⟨את⟩西頓伊的頭生子,佮⟨את⟩赫特。",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "迦南"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "生"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "西頓"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "西頓"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "伊的頭生子"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "赫特"
+    },
+    {
+      "surface": "חת",
+      "gloss": "赫特"
+    }
+  ],
+  "timestamp": "2026-09-12T01:11:11.789887283Z",
+  "model": "glm-5.3"
+}

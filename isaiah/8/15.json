@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "多多人欲佇遐絆跌,跌倒,破裂,中著網羅,予人擒拿。",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "絆跌"
+    },
+    {
+      "surface": "בם",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "多多人"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "跌倒"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "破裂"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "中著網羅"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "予人擒拿"
+    }
+  ],
+  "timestamp": "2026-09-12T03:28:44.899603565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 7:4",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "因為閣過七日,我欲互雨落佇地上四十日四十暝,我也欲抹消⟨את⟩我對土腳的面頂所造的一切活物。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "過…日"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "閣"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "七"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "互雨落"
+    },
+    {
+      "surface": "על",
+      "gloss": "佇"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "四十"
+    },
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "佮四十"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "暝"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "我也欲抹消"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "一切活物"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "活物"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "我造"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頂"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "土腳"
+    }
+  ],
+  "timestamp": "2026-09-12T01:10:17.863759164Z",
+  "model": "glm-5.3"
+}

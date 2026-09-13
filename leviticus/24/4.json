@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 24,
+  "translation": "佇彼座純潔的燈臺頂,伊著愛排設⟨את⟩燈火,佇雅威面前不斷。",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "佇……頂"
+    },
+    {
+      "surface": "הַמְּנֹרָה",
+      "gloss": "彼座燈臺"
+    },
+    {
+      "surface": "הַטְּהֹרָה",
+      "gloss": "純潔的"
+    },
+    {
+      "surface": "יַעֲרֹךְ",
+      "gloss": "排設"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "燈火"
+    },
+    {
+      "surface": "הַנֵּרוֹת",
+      "gloss": "燈火"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "佇……面前"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "תָּמִיד",
+      "gloss": "不斷"
+    }
+  ],
+  "timestamp": "2026-09-13T04:53:29.482255665Z",
+  "model": "glm-5.3"
+}

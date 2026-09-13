@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 8:24",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "我對祭司的頭人中間揀出十二个,就是示利比雅、哈沙比雅,佮𪜶對𪜶的兄弟十个佮𪜶做伙。",
+  "tokens": [
+    {
+      "surface": "ואבדילה",
+      "gloss": "我就揀出"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "對…的頭人"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "彼眾祭司"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "十二"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十二"
+    },
+    {
+      "surface": "לשרביה",
+      "gloss": "就是示利比雅"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "哈沙比雅"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "佮𪜶"
+    },
+    {
+      "surface": "מאחיהם",
+      "gloss": "對𪜶的兄弟"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "十个"
+    }
+  ],
+  "timestamp": "2026-09-12T05:51:32.559990488Z",
+  "model": "glm-5.3"
+}

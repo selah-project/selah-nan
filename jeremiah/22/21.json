@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 22,
+  "translation": "我佇你安逸的時對你講話,你講:「我毋聽。」這是你對少年的時就有的路,因為你無聽我的話。",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "我講話"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "佇你安逸的時"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "你講"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "我聽"
+    },
+    {
+      "surface": "זה",
+      "gloss": "這"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "你的路"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "對你的少年時"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "你聽"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "我的話"
+    }
+  ],
+  "timestamp": "2026-09-12T03:53:37.962975870Z",
+  "model": "glm-5.3"
+}

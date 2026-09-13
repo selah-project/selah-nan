@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 23,
+  "translation": "亞伯拉罕對伊的死者的面頭前起來,就對赫的子孫講,講:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "起來"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "對……起來"
+    },
+    {
+      "surface": "פני",
+      "gloss": "面頭前"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "伊的死者"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "講"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "בני",
+      "gloss": "……的子孫"
+    },
+    {
+      "surface": "חת",
+      "gloss": "赫"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "講"
+    }
+  ],
+  "timestamp": "2026-09-12T01:14:18.168022363Z",
+  "model": "glm-5.3"
+}

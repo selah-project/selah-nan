@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 45,
+  "translation": "佇你的威嚴內,得勝,騎出去,為著真實佮謙卑、公義;你的正手欲指示你敬畏的事。",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "佮你的威嚴"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "得勝"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "騎出去"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "言語"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "真實"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "佮謙卑"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "公義"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "佮你的正手欲指示"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "敬畏的事"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "你的正手"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:27.864711137Z",
+  "model": "glm-5.3"
+}

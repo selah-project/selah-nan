@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "nan",
+  "chapter": 50,
+  "translation": "𪜶問去錫安的路,𪜶的面向遮;講:「來,咱來綴雅威,用永遠的約,彼个約袂予人袂記得。」",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "錫安"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "𪜶問"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "路"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "遮"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "𪜶的面"
+    },
+    {
+      "surface": "באו",
+      "gloss": "來"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "咱來綴"
+    },
+    {
+      "surface": "אל",
+      "gloss": "到"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "永遠"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "予人袂記得"
+    }
+  ],
+  "timestamp": "2026-09-12T04:06:22.236671290Z",
+  "model": "glm-5.3"
+}

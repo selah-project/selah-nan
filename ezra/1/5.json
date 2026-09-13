@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "猶大佮便雅憫的族長,佮祭司、利未人,攏起來,就是見若以羅欣醒𪜶的神 ⟨את⟩、欲上去起造雅威的厝 ⟨את⟩——彼間佇耶路撒冷——的人。",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "攏起來"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "族長"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "家族"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "猶大"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "佮便雅憫"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "佮祭司"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "佮利未人"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "見若"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "醒"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "𪜶的神"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "𪜶的神"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "欲上去"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "起造"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "雅威的厝"
+    },
+    {
+      "surface": "בית",
+      "gloss": "厝"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "彼間"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T05:49:12.060107541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 148,
+  "translation": "地上的王,佮攏總的萬國;官長,佮攏總在地上審判的人,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "王"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總的"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "萬國"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "官長"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "佮攏總"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "審判的人"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地上"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:27.609732577Z",
+  "model": "glm-5.3"
+}

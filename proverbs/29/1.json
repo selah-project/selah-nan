@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 29,
+  "translation": "一個人屢次受責備猶硬頸的人，忽然會破，也無醫通治。",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "一個人"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "屢次受責備"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "硬"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "頸"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "忽然"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "會破"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "也無"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "醫通治"
+    }
+  ],
+  "timestamp": "2026-09-13T04:43:38.289578740Z",
+  "model": "glm-5.3"
+}

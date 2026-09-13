@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 81,
+  "translation": "恁著出聲歡喜予以羅欣,咱的力量;恁著大聲吼予雅各的以羅欣!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "恁著出聲歡喜"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "予以羅欣"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "咱的力量"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "恁著大聲吼"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "予…的以羅欣"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "雅各"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:21.160086092Z",
+  "model": "glm-5.3"
+}

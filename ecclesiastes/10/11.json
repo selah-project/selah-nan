@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "若蛇無唸咒就噬,掌咒語的就無得利益。",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "噬"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "蛇"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "無"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "唸咒"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "就無"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "利益"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "掌…个"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "咒語"
+    }
+  ],
+  "timestamp": "2026-09-12T05:37:56.095170672Z",
+  "model": "glm-5.3"
+}

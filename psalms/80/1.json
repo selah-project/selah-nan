@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 80,
+  "translation": "互指揮者,對百合花,見證,亞薩的詩。",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "互指揮者"
+    },
+    {
+      "surface": "אל",
+      "gloss": "對"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "百合花"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "見證"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "亞薩的"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "詩"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:22.679441038Z",
+  "model": "glm-5.3"
+}

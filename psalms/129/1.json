@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 129,
+  "translation": "上階之歌。真濟擺𪜶對我少年的時就壓迫我,願以色列今按呢講——",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "歌"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "上階的"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "真濟擺"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "𪜶壓迫我"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "對我少年的時"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "נא",
+      "gloss": "願……今"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:25.283221710Z",
+  "model": "glm-5.3"
+}

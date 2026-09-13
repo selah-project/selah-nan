@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "閣伊著牽 ⟨את⟩ 伊的賠罪祭到雅威面前,為著伊所犯的罪,對羊群中一隻母的,綿羊羔抑是山羊母的,做贖罪祭;祭司著替伊贖罪,除去伊的罪。",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "閣…著牽"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的賠罪祭"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "伊的賠罪祭"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "到雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "伊的罪"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "伊所"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "犯"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "一隻母的"
+    },
+    {
+      "surface": "מן",
+      "gloss": "對"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "羊群"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "綿羊羔"
+    },
+    {
+      "surface": "או",
+      "gloss": "抑是"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "山羊母的"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "(山羊)"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "做贖罪祭"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "著贖罪"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "替伊"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "祭司"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "除去伊的罪"
+    }
+  ],
+  "timestamp": "2026-09-12T06:23:22.065648177Z",
+  "model": "glm-5.3"
+}

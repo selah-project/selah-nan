@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "恁著聽雅威——恁的以羅欣——的聲,行伊的誡命 ⟨את⟩,閣行伊的律例 ⟨את⟩,就是今仔日我所命令恁的。",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "恁著聽"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "的聲"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "恁的以羅欣"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "行"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "伊的誡命"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "伊的誡命"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的律例"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "伊的律例"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "就是"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "我"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "命令恁"
+    },
+    {
+      "surface": "היום",
+      "gloss": "今仔日"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:32.095547984Z",
+  "model": "glm-5.3"
+}

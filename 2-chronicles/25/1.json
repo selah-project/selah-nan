@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 25:1",
+  "book": "2-chronicles",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "亞瑪謝二十五歲的時做王,閣佇耶路撒冷做王二十九年;伊老母的名叫耶荷阿丹,是對耶路撒冷來的。",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "歲"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "二十"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "佮五"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "歲"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "亞瑪謝"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "閣二十"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "佮九"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "年"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "做王"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "佇耶路撒冷"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "閣……的名"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊老母"
+    },
+    {
+      "surface": "יהועדן",
+      "gloss": "耶荷阿丹"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "對耶路撒冷"
+    }
+  ],
+  "timestamp": "2026-09-12T06:17:18.374809361Z",
+  "model": "glm-5.3"
+}

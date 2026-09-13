@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 54,
+  "translation": "看啊,若有人聚集,總是毋是對⟨את⟩我;啥人聚集佮⟨את⟩恁做伙?對敵恁的會為著恁倒落。",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "看啊"
+    },
+    {
+      "surface": "גור",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "伊聚集"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "毋是"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "對⟨את⟩",
+      "marks": "我"
+    },
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "גר",
+      "gloss": "聚集"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩佮恁"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對敵恁"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "倒落"
+    }
+  ],
+  "timestamp": "2026-09-12T03:42:00.001678202Z",
+  "model": "glm-5.3"
+}

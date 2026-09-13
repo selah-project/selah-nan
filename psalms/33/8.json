@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 33,
+  "translation": "願全地敬畏雅威;願世上所有徛跤的人對伊生驚。",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "敬畏"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "雅威(對…)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "全地"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "對伊"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "生驚"
+    },
+    {
+      "surface": "כל",
+      "gloss": "所有的"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "徛跤的人"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "世上"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:03.948750619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "你踏過海,用你的馬,踏過濟濟水的湧沫。",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "你踏"
+    },
+    {
+      "surface": "בים",
+      "gloss": "佇海"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "你的馬"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "湧沫"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "濟濟"
+    }
+  ],
+  "timestamp": "2026-09-12T04:36:54.428435566Z",
+  "model": "glm-5.3"
+}

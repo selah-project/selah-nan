@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 26:50",
+  "book": "numbers",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "這是拿弗他利逐家的家族,照𪜶的家族;𪜶被點名的,四萬五千閣四百。",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "這是"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "家族"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "拿弗他利"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "照𪜶的家族"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "閣𪜶被點名的"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "五"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "閣四十"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "千"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "閣四"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    }
+  ],
+  "timestamp": "2026-09-13T04:54:07.994737974Z",
+  "model": "glm-5.3"
+}

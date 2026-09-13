@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 59,
+  "translation": "毋通刣死𪜶,免得我的百姓袂記得;用你的氣力互𪜶搖動四散,閣互𪜶墜落——阿多奈,阮的盾牌。",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "刣死𪜶"
+    },
+    {
+      "surface": "פן",
+      "gloss": "免得"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "袂記得"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "我的百姓"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "互𪜶搖動四散"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "用你的氣力"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "閣互𪜶墜落"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "阮的盾牌"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:04.811659953Z",
+  "model": "glm-5.3"
+}

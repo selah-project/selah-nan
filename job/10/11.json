@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 10,
+  "translation": "你用皮佮肉給我穿，閣用骨頭佮筋絡圍護我。",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "皮"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "佮肉"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "你給我穿"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "閣用骨頭"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "佮筋絡"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "你圍護我"
+    }
+  ],
+  "timestamp": "2026-09-12T05:23:25.532225063Z",
+  "model": "glm-5.3"
+}

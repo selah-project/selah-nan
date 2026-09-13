@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "你著做一个銅的洗盆,佮一个銅座,通予人洗滌;你著將⟨את⟩伊下佇會幕佮祭壇的中間,閣下水佇遐。",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "你著做"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "洗盆"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "佮伊的座"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "銅"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "通予人洗滌"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "你著下"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "伊(洗盆)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "會幕"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "相聚集的"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…中間"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "祭壇"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "你著下"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "佇遐"
+    },
+    {
+      "surface": "מים",
+      "gloss": "水"
+    }
+  ],
+  "timestamp": "2026-09-12T01:36:36.888076454Z",
+  "model": "glm-5.3"
+}

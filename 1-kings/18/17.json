@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 18,
+  "translation": "亞哈看著⟨את⟩以利亞的時,亞哈就給伊講:「敢是你,就是攪擾以色列的彼个人?」",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "的時"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "看著"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以利亞"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "以利亞"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "就講"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "亞哈"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "給伊"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "敢是你"
+    },
+    {
+      "surface": "זה",
+      "gloss": "彼个"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "攪擾"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:12:48.512077582Z",
+  "model": "glm-5.3"
+}

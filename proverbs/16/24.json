@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "好聽的話親像蜜脾仔的蜂蜜,對心香甜,對骨頭有醫治。",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "蜜脾仔"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "蜂蜜"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "話"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "好聽"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "香甜"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "對心"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "有醫治"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "對骨頭"
+    }
+  ],
+  "timestamp": "2026-09-12T05:16:06.969844748Z",
+  "model": "glm-5.3"
+}

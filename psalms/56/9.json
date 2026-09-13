@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 56,
+  "translation": "阮流離的所在你攏有數算,你將我的目屎下佇你的皮囊——伊豈無記佇你的冊裡?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "阮流離的所在"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "你攏有數算"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "下"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "我的目屎"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "佇你的皮囊"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "豈無"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "佇你的冊裡"
+    }
+  ],
+  "timestamp": "2026-09-12T04:51:58.319128535Z",
+  "model": "glm-5.3"
+}

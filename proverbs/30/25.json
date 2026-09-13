@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "螞蟻是一族無勇壯的,毋拘𪜶佇夏天準備𪜶的米糧。",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "螞蟻"
+    },
+    {
+      "surface": "עם",
+      "gloss": "一族"
+    },
+    {
+      "surface": "לא",
+      "gloss": "無"
+    },
+    {
+      "surface": "עז",
+      "gloss": "勇壯"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "毋拘𪜶準備"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "佇夏天"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "𪜶的米糧"
+    }
+  ],
+  "timestamp": "2026-09-12T05:20:04.080745032Z",
+  "model": "glm-5.3"
+}

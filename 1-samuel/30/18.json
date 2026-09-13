@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "大衛救回⟨את⟩亞瑪力人所提去的一切,閣大衛救回⟨את⟩伊的兩个某。",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "救回"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "亞瑪力人所提去的一切"
+    },
+    {
+      "surface": "כל",
+      "gloss": "一切"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "提去"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "亞瑪力人"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "伊的兩个某"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "兩个"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "伊的某"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "救回"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    }
+  ],
+  "timestamp": "2026-09-12T02:49:10.312713777Z",
+  "model": "glm-5.3"
+}

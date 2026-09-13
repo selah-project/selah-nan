@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "nan",
+  "chapter": 30,
+  "translation": "我的皮變烏佇我身上,我的骨對燥熱燒到變焦。",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "我的皮"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "變烏"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "佇我身上"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "我的骨"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "燒到變焦"
+    },
+    {
+      "surface": "מני",
+      "gloss": "對"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "燥熱"
+    }
+  ],
+  "timestamp": "2026-09-12T05:28:29.829993194Z",
+  "model": "glm-5.3"
+}

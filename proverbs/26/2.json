@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 26,
+  "translation": "親像鳥仔咧游走,親像燕仔咧飛,按呢,無緣無故的咒詛袂來到。",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "親像鳥仔"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "咧游走"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "親像燕仔"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "咧飛"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "咒詛"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "無緣無故"
+    },
+    {
+      "surface": "לא",
+      "gloss": "袂"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "來到"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:25.075475757Z",
+  "model": "glm-5.3"
+}

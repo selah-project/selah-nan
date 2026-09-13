@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "nan",
+  "chapter": 7,
+  "translation": "阮王的日,首領用酒的熱氣害甲生病;伊拉伊的手,⟨את⟩彼棚恥笑的人。",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "日"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "阮王"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "害甲生病"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "首領"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "熱氣"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "酒"
+    },
+    {
+      "surface": "משך",
+      "gloss": "拉"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "伊的手"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "彼棚恥笑的人"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "恥笑的人"
+    }
+  ],
+  "timestamp": "2026-09-12T04:29:02.710569148Z",
+  "model": "glm-5.3"
+}

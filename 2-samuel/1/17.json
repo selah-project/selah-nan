@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "nan",
+  "chapter": 1,
+  "translation": "大衛用這首輓歌哀悼掃羅,嘛為著伊的仔約拿單吊⟨את⟩這首輓歌。",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "哀悼"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "大衛"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "這首輓歌"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "輓歌"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "這首"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "掃羅"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "嘛為著"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "約拿單"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "伊的仔"
+    }
+  ],
+  "timestamp": "2026-09-12T02:50:20.639181977Z",
+  "model": "glm-5.3"
+}

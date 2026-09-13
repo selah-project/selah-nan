@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 90,
+  "translation": "你將阮的過犯下佇你面前,阮隱密的事照你面的光。",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "你將……下"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "阮的過犯"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "佇你面前"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "阮隱密的事"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "照……的光"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "你面"
+    }
+  ],
+  "timestamp": "2026-09-12T04:59:46.001850581Z",
+  "model": "glm-5.3"
+}

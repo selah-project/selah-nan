@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "雅威對所羅門受氣,因為伊的心對雅威、以色列的以羅欣遐偏離去,彼位曾兩擺顯現予伊。",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "受氣"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "對所羅門"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "偏離去"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "伊的心"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對……遐"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "……的以羅欣"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "彼位曾顯現"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "予伊"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "兩擺"
+    }
+  ],
+  "timestamp": "2026-09-12T03:10:38.899271147Z",
+  "model": "glm-5.3"
+}

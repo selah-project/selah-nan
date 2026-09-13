@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 41,
+  "translation": "海島看見就驚,地的盡頭攏咧震;𪜶倚近,嘛來到。",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "看見"
+    },
+    {
+      "surface": "איים",
+      "gloss": "海島"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "就驚"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "盡頭"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "攏咧震"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "倚近"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "嘛來到"
+    }
+  ],
+  "timestamp": "2026-09-12T03:38:38.637423619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "王就應講:「互伊⟨את⟩活的囡仔,千萬毋通刣死伊;伊是伊的母。」",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "就應"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "講"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "互"
+    },
+    {
+      "surface": "לה",
+      "gloss": "伊"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "活的囡仔"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "囡仔"
+    },
+    {
+      "surface": "החי",
+      "gloss": "活的"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "致死"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "刣死伊"
+    },
+    {
+      "surface": "היא",
+      "gloss": "伊"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "伊的母"
+    }
+  ],
+  "timestamp": "2026-09-12T03:03:35.821080062Z",
+  "model": "glm-5.3"
+}

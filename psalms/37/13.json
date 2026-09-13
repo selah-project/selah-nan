@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 37,
+  "translation": "阿多奈會笑伊,因為伊已經看見伊的日子欲到矣。",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "阿多奈"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "會笑"
+    },
+    {
+      "surface": "לו",
+      "gloss": "伊"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "已經看見"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(引句)"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "欲到矣"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "伊的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T04:48:59.721284206Z",
+  "model": "glm-5.3"
+}

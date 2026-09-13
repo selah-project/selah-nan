@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "倘若恁講:「第七年阮欲食啥物?看──阮毋播種,嘛毋收阮的收成⟨את⟩。」",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "倘若"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "恁講"
+    },
+    {
+      "surface": "מה",
+      "gloss": "啥物"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "阮欲食"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "佇…年"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "第七"
+    },
+    {
+      "surface": "הן",
+      "gloss": "看──"
+    },
+    {
+      "surface": "לא",
+      "gloss": "毋"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "阮播種"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "嘛毋"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "阮收"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "阮的收成"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "阮的收成"
+    }
+  ],
+  "timestamp": "2026-09-12T01:50:08.213413651Z",
+  "model": "glm-5.3"
+}

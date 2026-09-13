@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 65,
+  "translation": "伊的犁溝你澆甲飽滿,伊的田岸你壓乎平整;用陣雨互伊軟化,伊的發芽你賜福。",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "伊的犁溝"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "你澆甲飽滿"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "你壓落"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "伊的田岸"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "用陣雨"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "互伊軟化"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "伊的發芽"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "你賜福"
+    }
+  ],
+  "timestamp": "2026-09-12T04:53:19.987935975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 142,
+  "translation": "我向你呼求,雅威;我講:你是我的避難所,是我佇活人中間的份。",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "我呼求"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "向你"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "我講"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "你"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "我的避難所"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "我的份"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "佇…中間"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "活人"
+    }
+  ],
+  "timestamp": "2026-09-12T05:08:07.738993955Z",
+  "model": "glm-5.3"
+}

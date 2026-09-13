@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "nan",
+  "chapter": 15,
+  "translation": "閣,亞撒佮以色列王巴沙的中間,𪜶的日子攏有戰爭。",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "閣,戰爭"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "有"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…的中間"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "亞撒"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "佮…的中間"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "巴沙"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    },
+    {
+      "surface": "כל",
+      "gloss": "攏"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "𪜶的日子"
+    }
+  ],
+  "timestamp": "2026-09-12T03:11:53.648863988Z",
+  "model": "glm-5.3"
+}

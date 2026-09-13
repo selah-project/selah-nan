@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "你的厝內毋通有伊法佮伊法,大个佮細个。",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "毋通"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "有"
+    },
+    {
+      "surface": "לך",
+      "gloss": "你的"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "厝內"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "伊法"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "佮伊法"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "大个"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "佮細个"
+    }
+  ],
+  "timestamp": "2026-09-12T02:15:01.601473570Z",
+  "model": "glm-5.3"
+}

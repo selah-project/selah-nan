@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "nan",
+  "chapter": 28,
+  "translation": "因為「誡命啊誡命,誡命啊誡命;準繩啊準繩,準繩啊準繩;遮一屑仔,遐一屑仔。」",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "צו",
+      "gloss": "誡命啊"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "誡命啊"
+    },
+    {
+      "surface": "צו",
+      "gloss": "誡命啊"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "誡命啊"
+    },
+    {
+      "surface": "קו",
+      "gloss": "準繩啊"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "準繩啊"
+    },
+    {
+      "surface": "קו",
+      "gloss": "準繩啊"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "準繩啊"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "一屑仔"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遮"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "一屑仔"
+    },
+    {
+      "surface": "שם",
+      "gloss": "遐"
+    }
+  ],
+  "timestamp": "2026-09-12T03:34:11.567224920Z",
+  "model": "glm-5.3"
+}

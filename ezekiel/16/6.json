@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 16:6",
+  "book": "ezekiel",
+  "lang": "nan",
+  "chapter": 16,
+  "translation": "我行過你身旁,看見你佇你的血內底予人踐踏,我就對你講:你佇你的血內底,著活!閣對你講:你佇你的血內底,著活!",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "我行過"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "你身旁"
+    },
+    {
+      "surface": "ואראך",
+      "gloss": "我看見你"
+    },
+    {
+      "surface": "מתבוססת",
+      "gloss": "予人踐踏"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "佇你的血"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "我講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "佇你的血"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "著活"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "閣講"
+    },
+    {
+      "surface": "לך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "בדמיך",
+      "gloss": "佇你的血"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "著活"
+    }
+  ],
+  "timestamp": "2026-09-12T04:13:17.779288291Z",
+  "model": "glm-5.3"
+}

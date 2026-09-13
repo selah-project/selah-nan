@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 127,
+  "translation": "恁早早起床、晏晏歇睏、食艱苦得來的餅,攏是空空;按呢,雅威賞賜伊所疼的人安眠。",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "空空"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "恁"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "早早起床"
+    },
+    {
+      "surface": "קום",
+      "gloss": "起來"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "晏晏"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "歇睏"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "食"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "餅"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "艱苦(得來的)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "按呢"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "賞賜"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "伊所疼的人"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "安眠"
+    }
+  ],
+  "timestamp": "2026-09-12T05:06:28.718471708Z",
+  "model": "glm-5.3"
+}

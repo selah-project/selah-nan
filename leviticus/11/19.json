@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "閣⟨את⟩哈哈西達(鸛鳥)、哈阿拿法(鷺鷥)照伊的類,佮⟨את⟩哈度奇法特(戴勝)佮⟨את⟩哈阿塔勒夫(蝙蝠),",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "閣⟨את⟩",
+      "marks": "哈哈西達"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "哈哈西達(鸛鳥)"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "哈阿拿法(鷺鷥)"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "照伊的類"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "哈度奇法特"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "哈度奇法特(戴勝)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "佮⟨את⟩",
+      "marks": "哈阿塔勒夫"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "哈阿塔勒夫(蝙蝠)"
+    }
+  ],
+  "timestamp": "2026-09-12T01:44:35.065174525Z",
+  "model": "glm-5.3"
+}

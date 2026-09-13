@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 86,
+  "translation": "佇阮患難的日子,阮欲呼叫𪜶,因為𪜶欲應阮。",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "佇……的日子"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "阮患難"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "阮欲呼叫𪜶"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "𪜶欲應阮"
+    }
+  ],
+  "timestamp": "2026-09-12T04:58:16.234714961Z",
+  "model": "glm-5.3"
+}

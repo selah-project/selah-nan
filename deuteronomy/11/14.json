@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "nan",
+  "chapter": 11,
+  "translation": "我就會照伊的時陣互雨落佇恁的地——早雨佮晚雨,恁會當收恁的五穀、恁的新酒、佮恁的油。",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "我就會互"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "雨"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "恁的地"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "照伊的時陣"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "早雨"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "佮晚雨"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "恁會當收"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "恁的五穀"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "恁的新酒"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "佮恁的油"
+    }
+  ],
+  "timestamp": "2026-09-12T02:10:23.654292107Z",
+  "model": "glm-5.3"
+}

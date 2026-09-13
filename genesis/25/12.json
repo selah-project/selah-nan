@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "nan",
+  "chapter": 25,
+  "translation": "以下是對以實瑪利的族譜；以實瑪利是亞伯拉罕的後生，是撒拉的婢女埃及人夏甲替亞伯拉罕生的。",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "以下"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "族譜"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "以實瑪利"
+    },
+    {
+      "surface": "בן",
+      "gloss": "後生"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…的"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "生"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "夏甲"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "埃及人"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "婢女"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "撒拉"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "替亞伯拉罕"
+    }
+  ],
+  "timestamp": "2026-09-12T01:15:28.305348910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "nan",
+  "chapter": 6,
+  "translation": "這个是啥人?親像天光咧對窗外看的,媠親像月娘,清純親像日頭,威嚴親像插旗的隊伍。",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "啥人"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "這个"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "咧對窗外看的"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "親像"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "天光"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "媠"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "親像月娘"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "清純"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "親像日頭"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "威嚴"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "親像插旗的隊伍"
+    }
+  ],
+  "timestamp": "2026-09-12T05:32:07.714020935Z",
+  "model": "glm-5.3"
+}

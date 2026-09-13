@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "nan",
+  "chapter": 2,
+  "translation": "撒土的後裔,九百佮四十佮五。",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "後裔"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "撒土"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "九"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "百"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "佮四十"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "佮五"
+    }
+  ],
+  "timestamp": "2026-09-12T05:48:14.603493965Z",
+  "model": "glm-5.3"
+}

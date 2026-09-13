@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 3:6",
+  "book": "zephaniah",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "我砍斷列國,𪜶的城角攏荒廢矣;我予𪜶的街路荒廢,無人行過;𪜶的城受追毀,無人,無居民。",
+  "tokens": [
+    {
+      "surface": "הכרתי",
+      "gloss": "我砍斷"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "列國"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "荒廢矣"
+    },
+    {
+      "surface": "פנותם",
+      "gloss": "𪜶的城角"
+    },
+    {
+      "surface": "החרבתי",
+      "gloss": "我予…荒廢"
+    },
+    {
+      "surface": "חוצותם",
+      "gloss": "𪜶的街路"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "行過的人"
+    },
+    {
+      "surface": "נצדו",
+      "gloss": "受追毀"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "𪜶的城"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "無"
+    },
+    {
+      "surface": "איש",
+      "gloss": "人"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "無"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "居民"
+    }
+  ],
+  "timestamp": "2026-09-12T04:38:06.257485320Z",
+  "model": "glm-5.3"
+}

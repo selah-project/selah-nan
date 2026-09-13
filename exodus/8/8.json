@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "nan",
+  "chapter": 8,
+  "translation": "摩西佮亞倫就對法老遐出去;摩西就向雅威啼求,為著伊下佇法老身上彼个蛤仔的代誌。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "佮亞倫"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "對……遐"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "法老"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "就啼求"
+    },
+    {
+      "surface": "משה",
+      "gloss": "摩西"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "雅威"
+    },
+    {
+      "surface": "על",
+      "gloss": "為著"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "代誌"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "彼个蛤仔"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "所"
+    },
+    {
+      "surface": "שם",
+      "gloss": "下佇"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "法老身上"
+    }
+  ],
+  "timestamp": "2026-09-12T01:29:09.570307820Z",
+  "model": "glm-5.3"
+}

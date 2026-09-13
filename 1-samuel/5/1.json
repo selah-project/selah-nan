@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "nan",
+  "chapter": 5,
+  "translation": "非利士人提走⟨את⟩以羅欣的約櫃,𪜶對以便以謝(以便以謝就是「幫助的石頭」)帶伊到亞實突。",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "非利士人"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "提走"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以羅欣的約櫃"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "約櫃"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "以羅欣的"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "𪜶帶伊到"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "對以便以謝"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "以便以謝"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "亞實突"
+    }
+  ],
+  "timestamp": "2026-09-12T02:40:12.506310893Z",
+  "model": "glm-5.3"
+}

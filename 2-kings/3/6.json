@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "nan",
+  "chapter": 3,
+  "translation": "彼日,約蘭王對撒馬利亞出去,點閱⟨את⟩以色列全體。",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "就出去"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "王"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "約蘭"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "佇…的日子"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "彼個"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "對撒馬利亞"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "就點閱"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "以色列全體"
+    },
+    {
+      "surface": "כל",
+      "gloss": "全體"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "以色列"
+    }
+  ],
+  "timestamp": "2026-09-12T03:16:04.802187416Z",
+  "model": "glm-5.3"
+}

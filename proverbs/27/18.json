@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "nan",
+  "chapter": 27,
+  "translation": "顧無花果樹的人會食⟨著⟩伊的果子,守伊主人的人會得著榮光。",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "顧……的人"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "無花果樹"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "會食"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "伊的果子"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "守……的人"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "伊主人"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "會得著榮光"
+    }
+  ],
+  "timestamp": "2026-09-12T05:19:44.835412095Z",
+  "model": "glm-5.3"
+}

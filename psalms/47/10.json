@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 47,
+  "translation": "眾民的貴族攏聚集,做亞伯拉罕的以羅欣之民,因為地的盾牌攏屬佇以羅欣,伊極其受高舉。",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "貴族"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "眾民"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "攏聚集"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…之民"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "以羅欣"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "亞伯拉罕"
+    },
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "屬佇以羅欣"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "盾牌"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "地"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "極其"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "受高舉"
+    }
+  ],
+  "timestamp": "2026-09-12T04:50:15.463050791Z",
+  "model": "glm-5.3"
+}

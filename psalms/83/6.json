@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "nan",
+  "chapter": 83,
+  "translation": "因為𪜶同心佇心內圖謀,欲對你立約相狠。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "因為"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "𪜶圖謀"
+    },
+    {
+      "surface": "לב",
+      "gloss": "心"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "同心"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "對你"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "約"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "𪜶割立"
+    }
+  ],
+  "timestamp": "2026-09-12T04:57:24.992660722Z",
+  "model": "glm-5.3"
+}
