@@ -65,7 +65,7 @@
               "B9 618 empty glosses on particles (אשר 289 · כי 96 · די 33); floor carries 10"
               "B10 name separator ・/‧/· split + ~35-term Hebrew-citation parentheticals"
               "B11-on remainder (nan-tekoa-report.md tally)"]},
-            :status :rendering,
+            :status :live,
             :adjudication
             {:chair 71,
              :first :taiwanese,
@@ -106,10 +106,10 @@
             :version "v1",
             :lineage
             {:git
-             {:repo nil,
+             {:repo "selah-project/selah-nan",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "dbabe445",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :nan}
